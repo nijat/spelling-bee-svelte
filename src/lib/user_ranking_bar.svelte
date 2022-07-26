@@ -7,7 +7,10 @@
 
 	function calculateUserRankBar() {
 		for (let i = 0; i < rankingLevels.length; i++) {
-			if (rankingLevels && Math.floor(rankingLevels[i].minScoreMultiplier * highestPoints) > userPoints) {
+			if (
+				rankingLevels &&
+				Math.floor(rankingLevels[i].minScoreMultiplier * highestPoints) > userPoints
+			) {
 				rankIndex = i - 1;
 				return;
 			}
@@ -16,7 +19,7 @@
 			}
 		}
 	}
-    calculateUserRankBar()
+	calculateUserRankBar();
 </script>
 
 <div class="max-w-md mx-auto p-2">

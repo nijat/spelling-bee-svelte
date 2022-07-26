@@ -2,6 +2,10 @@
 	import Hex from '$lib/hexagon/hex.svelte';
 	export let listOfLetter = ['H', 'A', 'B', 'T', 'R', 'S'];
 	export let centerLetter = 'I';
+
+	function shuffleLetters() {
+		return listOfLetter.sort(() => Math.random() - 0.5);
+	}
 </script>
 
 <div class="max-w-md mx-auto">

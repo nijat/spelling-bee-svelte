@@ -1,4 +1,5 @@
 <script lang="ts">
+	import CurrentWord from '$lib/current_word.svelte';
 	import Header from '$lib/header/header.svelte';
 	import Hexagon from '$lib/hexagon/hexagon.svelte';
 	import UserRankingBar from '$lib/user_ranking_bar.svelte';
@@ -8,4 +9,5 @@
 <Header />
 <UserRankingBar />
 <WordList />
+<CurrentWord />
 <Hexagon />
