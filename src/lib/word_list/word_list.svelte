@@ -11,7 +11,7 @@
 	}
 </script>
 
-<div class="max-w-md mx-auto  unselectable">
+<div class="max-w-md mx-auto unselectable p-2">
 	<div class={showList ? 'word-list expanded-word-list' : 'word-list'} on:click={toggleShowList}>
 		{#if showList}
 			<div class="w-full">
@@ -29,7 +29,7 @@
 		{/if}
 		<Icon
 			icon="akar-icons:arrow-down"
-			class="w-6 h-6 flex justify-center items-center self-start rounded-full hover:bg-gray-100 active:bg-gray-100"
-		/>
+			class="w-6 h-6 flex justify-center items-center self-start rounded-full hover:bg-gray-100
+			active:bg-gray-100" />
 	</div>
 </div>
