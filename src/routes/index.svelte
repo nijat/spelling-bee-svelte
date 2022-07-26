@@ -5,5 +5,5 @@
 </script>
 
 <Header />
-<WordList/>
+<WordList />
 <Hexagon />
