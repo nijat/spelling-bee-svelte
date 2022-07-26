@@ -2,3 +2,27 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+body {
+    touch-action: pan-x pan-y;
+    font-family: 'Montserrat', sans-serif;                                      
+}
+
+.unselectable {
+    user-select: none;
+}
+
+h1 {
+    font-family: 'Montserrat', sans-serif;   
+    font-weight: 400;                                   
+}
+
+mont-font {
+    font-family: 'Montserrat', sans-serif;   
+    font-weight: 500;   
+}
+.number {
+    font-family: 'Montserrat', sans-serif;   
+    font-weight: 500;   
+    font-size: 2rem;
+}
