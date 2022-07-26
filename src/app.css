@@ -7,6 +7,21 @@
 	.hex {
 		@apply active:scale-90 active:border-gray-50 unselectable;
 	}
+	.word-list {
+		@apply border rounded-lg w-full p-3 flex flex-row justify-between items-center font-light mt-1;
+	}
+	.word-list-words {
+		@apply w-full flex flex-row flex-wrap;
+	}
+	.expanded-list-word {
+		@apply px-1 border-b border-b-gray-300 py-2;
+	}
+	.list-word {
+		@apply px-1;
+	}
+	.arrow {
+		@apply border-black border-r-2 border-b-2 h-3 w-3 self-end rotate-45 mb-3 
+	  }
 }
 
 body {

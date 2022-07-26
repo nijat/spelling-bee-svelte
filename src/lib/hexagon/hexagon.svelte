@@ -1,4 +1,4 @@
-<script>
+<script lang="ts">
 	import Hex from '$lib/hexagon/hex.svelte';
 	export let listOfLetter = ['H', 'A', 'B', 'T', 'R', 'S'];
 	export let centerLetter = 'I';
