@@ -1,7 +1,9 @@
 <script lang="ts">
 	import Icon from '@iconify/svelte';
+	import gameDataStore from '$lib/store';
+
 	export let showList: boolean = false;
-	let wordList = ['test', 'dddddaskdajsk'];
+	$: foundWordList = $gameDataStore.foundWordList;
 
 	function toggleShowList() {
 		showList = !showList;
@@ -15,15 +17,15 @@
 	<div class={showList ? 'word-list expanded-word-list' : 'word-list'} on:click={toggleShowList}>
 		{#if showList}
 			<div class="w-full">
-				<p class="slide-in-text pb-4 w-full text-gray-400">Siz {wordList.length} söz tapmısız</p>
-				{#if wordList.length > 0}
-					<p class="font-medium">{wordList.map(capitalize).join(', ')}</p>
+				<p class="slide-in-text pb-4 w-full text-gray-400">Siz {foundWordList.length} söz tapmısız</p>
+				{#if foundWordList.length > 0}
+					<p class="font-medium">{foundWordList.map(capitalize).join(', ')}</p>
 				{/if}
 			</div>
-		{:else if wordList.length > 0 && wordList.length < 4}
-			<p class="font-medium">{wordList.map(capitalize).join('  ')}</p>
-		{:else if wordList.length > 4}
-			<p class="font-medium">{wordList.slice(0, 4).map(capitalize).join('  ')}...</p>
+		{:else if foundWordList.length > 0 && foundWordList.length < 4}
+			<p class="font-medium">{foundWordList.map(capitalize).join('  ')}</p>
+		{:else if foundWordList.length > 4}
+			<p class="font-medium">{foundWordList.slice(0, 4).map(capitalize).join('  ')}...</p>
 		{:else}
 			<p class="text-gray-300 ">Tapdığınız Sözlər...</p>
 		{/if}
