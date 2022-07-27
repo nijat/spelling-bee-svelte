@@ -4,7 +4,9 @@ const gameDataStore = writable({
     currentWord: '', 
     outerLetters: ['N', 'Ə', 'Ş', 'Ç', 'I', 'Ə'],
     centerLetter: 'M',
-    foundWordList: []
+    foundWordList: [],
+    correctWordList: ['ŞŞNƏ']
 },);
 
 export default gameDataStore;
+

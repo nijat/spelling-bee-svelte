@@ -5,6 +5,7 @@
 	import UserRankingBar from '$lib/user_ranking_bar.svelte';
 	import WordList from '$lib/word_list/word_list.svelte';
 	import ButtonList from '$lib/buttons/button_list.svelte';
+	import Error from '$lib/messages/error.svelte';
 </script>
 
 <Header />
@@ -13,3 +14,4 @@
 <CurrentWord />
 <Hexagon />
 <ButtonList />
+<Error />

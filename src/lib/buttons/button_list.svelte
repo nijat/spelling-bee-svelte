@@ -1,6 +1,7 @@
 <script lang="ts">
 	import Icon from '@iconify/svelte';
 	import gameDataStore from '$utils/store';
+	import { checkAndAddWord } from '$utils/utils'
 
 	function shuffleLetters() {
 		$gameDataStore.outerLetters = $gameDataStore.outerLetters.sort(() => Math.random() - 0.5);
@@ -10,9 +11,6 @@
 		$gameDataStore.currentWord = '';
 	}
 
-	function checkAndAddWord(){
-		$gameDataStore.foundWordList = $gameDataStore.foundWordList + $gameDataStore.currentWord
-	}
 </script>
 
 <div class="max-w-md mx-auto">
@@ -20,6 +18,6 @@
 		<button class="single-btn" on:click={cleanCurrentWord}>Sil</button>
 		<button class="shuffle-btn" on:click={shuffleLetters}><Icon icon="ei:refresh" /></button>
 		<button class="single-btn">😉</button>
-		<button class="single-btn" on:click={checkAndAddWord}>Daxil Et</button>
+		<button class="single-btn" on:click={() => checkAndAddWord()}>Daxil Et</button>
 	</div>
 </div>
