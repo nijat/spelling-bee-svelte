@@ -1,27 +1,24 @@
 <script lang="ts">
+	import gameDataStore from '$lib/store'
 	import Hex from '$lib/hexagon/hex.svelte';
-	export let listOfLetter = ['H', 'A', 'B', 'T', 'R', 'S'];
-	export let centerLetter = 'I';
-
-	function shuffleLetters() {
-		return listOfLetter.sort(() => Math.random() - 0.5);
-	}
+	$: outerLetters = $gameDataStore.outerLetters;
+	$: centerLetter = $gameDataStore.centerLetter;
 </script>
 
 <div class="max-w-md mx-auto h-max pb-16">
 	<div class="w-full letters justify-center flex flex-row md:p-6">
 		<div class="left flex flex-col h-full ">
-			<Hex center={false} letter={listOfLetter[0]} />
-			<Hex center={false} letter={listOfLetter[1]} />
+			<Hex center={false} letter={outerLetters[0]} />
+			<Hex center={false} letter={outerLetters[1]} />
 		</div>
 		<div class=" flex flex-col h-full -mt-10 md:-mt-14">
-			<Hex center={false} letter={listOfLetter[2]} />
+			<Hex center={false} letter={outerLetters[2]} />
 			<Hex center={true} letter={centerLetter} />
-			<Hex center={false} letter={listOfLetter[3]} />
+			<Hex center={false} letter={outerLetters[3]} />
 		</div>
 		<div class="flex flex-col">
-			<Hex center={false} letter={listOfLetter[4]} />
-			<Hex center={false} letter={listOfLetter[5]} />
+			<Hex center={false} letter={outerLetters[4]} />
+			<Hex center={false} letter={outerLetters[5]} />
 		</div>
 	</div>
 </div>

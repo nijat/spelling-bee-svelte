@@ -1,12 +1,21 @@
 <script lang="ts">
-    	import Icon from '@iconify/svelte';
+	import Icon from '@iconify/svelte';
+	import gameDataStore from '$lib/store';
+
+	function shuffleLetters() {
+		$gameDataStore.outerLetters = $gameDataStore.outerLetters.sort(() => Math.random() - 0.5);
+	}
+
+	function cleanCurrentWord() {
+		$gameDataStore.currentWord = '';
+	}
 </script>
 
 <div class="max-w-md mx-auto">
-    <div class="buttons">
-        <button class="single-btn">Sil</button>
-        <button class="shuffle-btn"><Icon icon="ei:refresh" /></button>
-        <button class="single-btn">😉</button>
-        <button class="single-btn">Daxil Et</button>
-      </div>
+	<div class="buttons">
+		<button class="single-btn" on:click={cleanCurrentWord}>Sil</button>
+		<button class="shuffle-btn" on:click={shuffleLetters}><Icon icon="ei:refresh" /></button>
+		<button class="single-btn">😉</button>
+		<button class="single-btn">Daxil Et</button>
+	</div>
 </div>

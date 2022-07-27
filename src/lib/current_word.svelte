@@ -1,12 +1,13 @@
 <script lang="ts">
-	export let userWord: string = 'TEST';
-	export let centerLetter: string = 'T';
-	export let outerLetters: string[] = ['T', 'E', 'O', 'B'];
+	import gameDataStore from '$lib/store';
+
+	$: outerLetters = $gameDataStore.outerLetters;
+	$: centerLetter = $gameDataStore.centerLetter;
 </script>
 
-<div class="max-w-md mx-auto pt-3">
+<div class="max-w-md mx-auto pt-3 h-8">
 	<h2 class="flex justify-center text-2xl ">
-		{#each userWord.split('') as letter}
+		{#each $gameDataStore.currentWord.split('') as letter}
 			{#if letter.toUpperCase() == centerLetter}
 				<p class="text-yellow-500">{letter}</p>
 			{:else if outerLetters.includes(letter.toUpperCase())}
