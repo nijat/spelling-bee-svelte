@@ -17,7 +17,9 @@
 	<div class={showList ? 'word-list expanded-word-list' : 'word-list'} on:click={toggleShowList}>
 		{#if showList}
 			<div class="w-full">
-				<p class="slide-in-text pb-4 w-full text-gray-400">Siz {foundWordList.length} söz tapmısız</p>
+				<p class="slide-in-text pb-4 w-full text-gray-400">
+					Siz {foundWordList.length} söz tapmısız
+				</p>
 				{#if foundWordList.length > 0}
 					<p class="font-medium">{foundWordList.map(capitalize).join(', ')}</p>
 				{/if}
@@ -29,9 +31,6 @@
 		{:else}
 			<p class="text-gray-300 ">Tapdığınız Sözlər...</p>
 		{/if}
-		<Icon
-			icon="akar-icons:arrow-down"
-			class="w-6 h-6 flex justify-center items-center self-start rounded-full hover:bg-gray-100
-			active:bg-gray-100" />
+		<Icon icon="akar-icons:arrow-down" class="arrow-icon" />
 	</div>
 </div>
