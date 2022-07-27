@@ -1,5 +1,5 @@
 <script lang="ts">
-	import { rankingLevels } from '$lib/utils';
+	import { rankingLevels } from '$lib/config';
 
 	export let userPoints = 0;
 	export let highestPoints = 190;
