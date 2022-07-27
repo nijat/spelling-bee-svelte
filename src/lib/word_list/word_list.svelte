@@ -1,6 +1,6 @@
 <script lang="ts">
 	import Icon from '@iconify/svelte';
-	import gameDataStore from '$lib/store';
+	import gameDataStore from '$utils/store';
 
 	export let showList: boolean = false;
 	$: foundWordList = $gameDataStore.foundWordList;

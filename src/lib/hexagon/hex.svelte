@@ -1,5 +1,5 @@
 <script lang="ts">
-	import gameDataStore from '$lib/store'
+	import gameDataStore from '$utils/store'
 	export let center = true;
 	export let letter = '';
 
