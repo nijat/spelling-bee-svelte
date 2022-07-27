@@ -8,7 +8,7 @@
 	}
 </script>
 
-<div class="max-w-md mx-auto">
+<div class="max-w-md mx-auto h-max pb-16">
 	<div class="w-full letters justify-center flex flex-row md:p-6">
 		<div class="left flex flex-col h-full ">
 			<Hex center={false} letter={listOfLetter[0]} />

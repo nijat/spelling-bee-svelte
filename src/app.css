@@ -40,6 +40,21 @@
 	.line {
 		@apply border-t mx-1 mb-4 -mt-4 mr-2;
 	}
+	.single-btn {
+		@apply border m-1 mx-2 py-3 px-1 rounded-full active:bg-gray-100 disabled:active:bg-white w-24;
+	}
+	.shuffle-btn {
+		@apply border m-1 mx-2 p-4 rounded-full active:bg-gray-100 text-xl disabled:active:bg-white;
+	}
+	.letters {
+		@apply fill-gray-300;
+	}
+	.hex {
+		@apply active:scale-90 active:border-gray-50 unselectable;
+	}
+	.buttons {
+		@apply flex flex-row items-center justify-center unselectable pt-4;
+	}
 }
 
 body {

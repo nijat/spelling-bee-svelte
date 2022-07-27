@@ -4,6 +4,7 @@
 	import Hexagon from '$lib/hexagon/hexagon.svelte';
 	import UserRankingBar from '$lib/user_ranking_bar.svelte';
 	import WordList from '$lib/word_list/word_list.svelte';
+	import ButtonList from '$lib/buttons/button_list.svelte';
 </script>
 
 <Header />
@@ -11,3 +12,4 @@
 <WordList />
 <CurrentWord />
 <Hexagon />
+<ButtonList />
