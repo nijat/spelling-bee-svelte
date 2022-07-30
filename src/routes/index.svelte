@@ -7,13 +7,23 @@
 	import ButtonList from '$lib/buttons/button_list.svelte'
 	import Error from '$lib/messages/error.svelte'
 	import Toast from '$lib/toast.svelte'
+	import SplashScreen from '$lib/splash_screen.svelte'
+
+	import { getData, storeNew } from '$utils/store'
+	getData()
 </script>
 
-<Header />
-<UserRankingBar />
-<WordList />
-<CurrentWord />
-<Hexagon />
-<ButtonList />
-<Error />
-<Toast />
+{#await $storeNew}
+	<SplashScreen/>
+{:then data}
+	<Header />
+	<UserRankingBar />
+	<WordList />
+	<CurrentWord />
+	<Hexagon />
+	<ButtonList />
+	<Error />
+	<Toast />
+{:catch error}
+	Oops. something's wrong.
+{/await}
