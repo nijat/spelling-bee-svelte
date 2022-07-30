@@ -63,7 +63,7 @@ export function isWordCorrect(currentWord: string) {
 
 export function isWordExist(currentWord: string, correctWordList: string[]){
     console.log(correctWordList)
-    if (correctWordList.includes(getHashValueOfWord(currentWord))) {
+    if (correctWordList.includes(hashValue(currentWord))) {
         return true
 	}
     return false
@@ -79,11 +79,7 @@ export function showSuccessMessage(){
     toast.push('Hello world!')
 }
 
-export function getHashValueOfWord(word: string){
-    return md(word)
-}
-
-export function md(inputString: string) {
+export function hashValue(inputString: string) {
     var hc="0123456789abcdef";
     function rh(n) {var j,s="";for(j=0;j<=3;j++) s+=hc.charAt((n>>(j*8+4))&0x0F)+hc.charAt((n>>(j*8))&0x0F);return s;}
     function ad(x,y) {var l=(x&0xFFFF)+(y&0xFFFF);var m=(x>>16)+(y>>16)+(l>>16);return (m<<16)|(l&0xFFFF);}
