@@ -64,7 +64,6 @@ export function isWordCorrect(currentWord: string) {
 }
 
 export function isWordExist(currentWord: string, correctWordList: string[]) {
-	console.log(correctWordList);
 	if (correctWordList.includes(hashValue(currentWord))) {
 		return true;
 	}
