@@ -5,7 +5,10 @@ const gameDataStore = writable({
 	outerLetters: [''],
 	centerLetter: '',
 	foundWordList: [],
-	correctWordList: []
+	correctWordList: [],
+	maxScore: 0,
+	userPoints: 0,
+	panagrams: []
 });
 
 export default gameDataStore;
@@ -19,11 +22,13 @@ export function getData() {
 		const data = await response.json();
 		storeNew.set(Promise.resolve(data));
         gameDataFromServer.set(data)
-        gameDataStore.update(data2 => {
-            data2.centerLetter = data.gameData.centerLetter
-            data2.outerLetters = data.gameData.outerLetters
-            data2.correctWordList = data.gameData.answers
-            return data2
+        gameDataStore.update(localData => {
+            localData.centerLetter = data.gameData.centerLetter
+            localData.outerLetters = data.gameData.outerLetters
+            localData.correctWordList = data.gameData.answers
+			localData.maxScore = data.gameData.score
+			localData.panagram = data.gameData.pangrams
+            return localData
         })
 	};
 	load();

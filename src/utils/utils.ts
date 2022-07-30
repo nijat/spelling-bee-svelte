@@ -36,6 +36,7 @@ export function checkAndAddWord() {
 	if (isWordExist(currentWord, correctWordList)) {
 		data.foundWordList.push(currentWord);
 		data.currentWord = '';
+		calculateUserPoints(data, currentWord);
 		showSuccessMessage();
 	}
 	gameDataStore.set(data);
@@ -78,4 +79,12 @@ export function showErrorMessage(type: ErrorMessages) {
 export function showSuccessMessage() {
 	toast.pop();
 	toast.push('Hello world!');
+}
+
+export function calculateUserPoints(data: any, word: string) {
+	if (word.length == 4) {
+		data.userPoints += 1;
+	} else if (word.length > 4){
+        data.userPoints += word.length;
+    }
 }

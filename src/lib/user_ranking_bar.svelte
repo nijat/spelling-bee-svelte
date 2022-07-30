@@ -1,25 +1,30 @@
 <script lang="ts">
 	import { rankingLevels } from '$utils/config';
+	import gameDataStore from '$utils/store';
 
-	export let userPoints = 0;
-	export let highestPoints = 190;
-	let rankIndex = 0;
+	$: userPoints = $gameDataStore.userPoints
+	$: rankIndex = 0
 
 	function calculateUserRankBar() {
 		for (let i = 0; i < rankingLevels.length; i++) {
 			if (
 				rankingLevels &&
-				Math.floor(rankingLevels[i].minScoreMultiplier * highestPoints) > userPoints
+				Math.floor(rankingLevels[i].minScoreMultiplier * $gameDataStore.maxScore) > userPoints
 			) {
 				rankIndex = i - 1;
 				return;
 			}
-			if (Math.floor(rankingLevels[i].minScoreMultiplier * highestPoints) == userPoints) {
+			if (Math.floor(rankingLevels[i].minScoreMultiplier * $gameDataStore.maxScore) == userPoints) {
 				rankIndex = i;
 			}
 		}
 	}
-	calculateUserRankBar();
+	gameDataStore.subscribe( valueE => {
+		console.log("test")
+		calculateUserRankBar()
+		console.log(rankIndex)
+	})
+	
 </script>
 
 <div class="max-w-md mx-auto p-2">
