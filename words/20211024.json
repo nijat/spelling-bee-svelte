@@ -1,29 +1,28 @@
 {
     "gameData": {
-        "day": "20221011",
-        "expiration": "1665525540",
-        "centerLetter": "Ə",
+        "day": "20211024",
+        "expiration": "1635112740",
+        "centerLetter": "L",
         "validLetters": [
-            "İ",
-            "L",
-            "V",
-            "Ə",
+            "Z",
             "K",
-            "P",
-            "O"
+            "V",
+            "L",
+            "G",
+            "Ə",
+            "İ"
         ],
         "words_info": {
-            "word_count": 64,
-            "sum_score": 331,
+            "word_count": 80,
+            "sum_score": 446,
             "panagram_count": 1,
             "word_length": {
-                "6": 8,
-                "5": 17,
-                "4": 16,
-                "9": 2,
-                "7": 15,
-                "8": 4,
-                "10": 2
+                "6": 10,
+                "5": 24,
+                "7": 17,
+                "4": 14,
+                "9": 5,
+                "8": 10
             }
         },
         "words": [
@@ -56,8 +55,15 @@
                 "length": 4
             },
             {
-                "word": "KƏKƏ",
-                "explanation": "sif. danışarkən ***ləyən; kəkov.*** uşaq. anadan *** (z.) doğulmaq",
+                "word": "ƏZƏL",
+                "explanation": "[ər.] 1. is. əvvəli",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "GİLƏ",
+                "explanation": "is. 1. üzümün",
                 "isPanagram": false,
                 "score": 1,
                 "length": 4
@@ -91,41 +97,6 @@
                 "length": 4
             },
             {
-                "word": "LƏPƏ",
-                "explanation": "is. qoz",
-                "isPanagram": false,
-                "score": 1,
-                "length": 4
-            },
-            {
-                "word": "PƏLƏ",
-                "explanation": "sif. yastı",
-                "isPanagram": false,
-                "score": 1,
-                "length": 4
-            },
-            {
-                "word": "PƏPƏ",
-                "explanation": "is. 1. uş. çörək.2. qırıntı",
-                "isPanagram": false,
-                "score": 1,
-                "length": 4
-            },
-            {
-                "word": "PİLƏ",
-                "explanation": "is. baramadan alınan ipək. qaranlıq bir otaqda üzü qırışmış bir qarı oturub",
-                "isPanagram": false,
-                "score": 1,
-                "length": 4
-            },
-            {
-                "word": "PİVƏ",
-                "explanation": "is. [rus. пиво] arpa səmənisindən hazırlanan azspirtli köpüklü içki. *** mayası. mayaotu ***yə xarakterik və acıtəhər dad verir",
-                "isPanagram": false,
-                "score": 1,
-                "length": 4
-            },
-            {
                 "word": "VƏLƏ",
                 "explanation": "is. məh. bir yaba dolusu",
                 "isPanagram": false,
@@ -135,6 +106,20 @@
             {
                 "word": "VƏLİ",
                 "explanation": "is. [ər.] 1. hami",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "ZƏLİ",
+                "explanation": "is. 1. şirin sularda yaşayan",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "ZİLİ",
+                "explanation": "is. xüs. xalça növlərindən birinin adı. [xalçanın sumaq] tipinin müxtəlif növləri qubada",
                 "isPanagram": false,
                 "score": 1,
                 "length": 4
@@ -161,15 +146,57 @@
                 "length": 5
             },
             {
-                "word": "ƏPPƏK",
-                "explanation": "is. [“ətmək”dən.] çörək. ət yeməz",
+                "word": "ƏVVƏL",
+                "explanation": "zərf [ər.] 1. ilk dəfə",
                 "isPanagram": false,
                 "score": 5,
                 "length": 5
             },
             {
-                "word": "ƏVVƏL",
-                "explanation": "zərf [ər.] 1. ilk dəfə",
+                "word": "ƏZƏLƏ",
+                "explanation": "is. [ər.] anat. insan və heyvanbədəninin",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "ƏZƏLİ",
+                "explanation": "sif. [ər.] zamanca başlanğıcı",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "ƏZGİL",
+                "explanation": "is. qoz iriliyində",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "GƏZƏL",
+                "explanation": "is. nar qabığı (keçmişdə rəngboyaalmaq üçün işlənirdi). *** əllərimiqaraldıb. – şəhriyarın ürəyi də yarılmış birnara bənzər; tökülüb dənə sözləri",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "GİLLƏ",
+                "explanation": "is. məh. təndirdə alma və ya armudqaxı qurutmaq üçün dayaz palçıq qab",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "GİLLİ",
+                "explanation": "sif. tərkibində gil olan",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "GİZLİ",
+                "explanation": "1. sif. başqası",
                 "isPanagram": false,
                 "score": 5,
                 "length": 5
@@ -182,15 +209,15 @@
                 "length": 5
             },
             {
-                "word": "KƏKOV",
-                "explanation": "is. dan. kəkələyən adam; kəkə.*** adam. *** uşaq",
+                "word": "KƏLƏK",
+                "explanation": "is. hiylə",
                 "isPanagram": false,
                 "score": 5,
                 "length": 5
             },
             {
-                "word": "KƏLƏK",
-                "explanation": "is. hiylə",
+                "word": "KƏLƏZ",
+                "explanation": "is. zool. sürünənlər sinfinə aidolan",
                 "isPanagram": false,
                 "score": 5,
                 "length": 5
@@ -210,13 +237,6 @@
                 "length": 5
             },
             {
-                "word": "KƏPƏK",
-                "explanation": "is. 1. un ələndiyi zaman ələküstündə qalan buğda və s.-nin qabıq qırıntıları.arpaya qatsan at yeməz; kəpəyə qatsanit yeməz",
-                "isPanagram": false,
-                "score": 5,
-                "length": 5
-            },
-            {
                 "word": "KİLKƏ",
                 "explanation": "is. [rus.] zool. siyənəkkimilərailəsinə mənsub xırda balıq növü",
                 "isPanagram": false,
@@ -231,22 +251,22 @@
                 "length": 5
             },
             {
-                "word": "LƏPİK",
-                "explanation": "is. dan. evdə geyilən yüngül ayaqqabı;şap-şap",
+                "word": "LƏZGİ",
+                "explanation": "is. dağıstanda və azərbaycandayaşayan dağıstan xalqlarından biri və buxalqa mənsub adam. kimsən",
                 "isPanagram": false,
                 "score": 5,
                 "length": 5
             },
             {
-                "word": "PİLƏK",
-                "explanation": "is. 1. kiçik yastı düymə.2. boyunbağı",
+                "word": "LƏZİZ",
+                "explanation": "sif. [ər.] bax ləzzətli 1-ci mənada.*** yeməklər. – bəli",
                 "isPanagram": false,
                 "score": 5,
                 "length": 5
             },
             {
-                "word": "PİLLƏ",
-                "explanation": "is. [fars.] 1. ***kənin çıxarkən və ya düşərkən ayaq qoyulan üfüqi hissələrindən hər biri. ləman ucadan gülüb",
+                "word": "LİLLİ",
+                "explanation": "sif. lehməli",
                 "isPanagram": false,
                 "score": 5,
                 "length": 5
@@ -254,6 +274,20 @@
             {
                 "word": "VƏKİL",
                 "explanation": "is. [ər.] 1. vəkalətə əsasən iş görən şəxs. [səkinə xanım:] mənim bu saatda nə atam var",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "ZƏLİL",
+                "explanation": "sif. [ər.] zəlalətə düşmüş; yazıq",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "ZİLLİ",
+                "explanation": "sif. zil tökülmüş",
                 "isPanagram": false,
                 "score": 5,
                 "length": 5
@@ -275,6 +309,27 @@
             {
                 "word": "ƏVƏLİK",
                 "explanation": "is. bot. xalq təbabətində işlənən",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6
+            },
+            {
+                "word": "ƏZƏLKİ",
+                "explanation": "sif. əzəldə olan",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6
+            },
+            {
+                "word": "GƏLGƏL",
+                "explanation": "is. bir yerə çağırış",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6
+            },
+            {
+                "word": "GƏZƏLİ",
+                "explanation": "sif. gəzəl rəngli",
                 "isPanagram": false,
                 "score": 6,
                 "length": 6
@@ -308,11 +363,11 @@
                 "length": 6
             },
             {
-                "word": "LƏPƏLİ",
-                "explanation": "sif. ləpəsi olan (bax ləpə2)",
+                "word": "ƏKİZLİK",
+                "explanation": "is. əkiz olma halı. *** ikiadamın bir-birinə oxşamasını tələb etmir",
                 "isPanagram": false,
-                "score": 6,
-                "length": 6
+                "score": 7,
+                "length": 7
             },
             {
                 "word": "ƏLİLLİK",
@@ -329,8 +384,8 @@
                 "length": 7
             },
             {
-                "word": "ƏPPƏKLİ",
-                "explanation": "is. qabıqlarında aşı maddəsiolan",
+                "word": "ƏVƏZLİK",
+                "explanation": "is. 1. əvəz olaraq verilən şey",
                 "isPanagram": false,
                 "score": 7,
                 "length": 7
@@ -338,6 +393,34 @@
             {
                 "word": "ƏVVƏLKİ",
                 "explanation": "sif. 1. yer",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7
+            },
+            {
+                "word": "ƏZƏLƏLİ",
+                "explanation": "sif. inkişaf etmiş əzələləriolan. *** qollar. – həmişə fiziki işdə çalışanadamlara məxsus yoğun *** bir gəncingurultulu səsi onların danışı",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7
+            },
+            {
+                "word": "ƏZİKLİK",
+                "explanation": "is. əzik şeyin halı. almanınəzikliyinə baxma",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7
+            },
+            {
+                "word": "ƏZİZLİK",
+                "explanation": "is. 1. əziz olma",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7
+            },
+            {
+                "word": "GİLGİLƏ",
+                "explanation": "is. nazik",
                 "isPanagram": false,
                 "score": 7,
                 "length": 7
@@ -364,13 +447,6 @@
                 "length": 7
             },
             {
-                "word": "KƏPƏKLİ",
-                "explanation": "sif. 1. kəpəyi olan",
-                "isPanagram": false,
-                "score": 7,
-                "length": 7
-            },
-            {
                 "word": "KİLKƏLİ",
                 "explanation": "sif. kilkəsi olan (saç",
                 "isPanagram": false,
@@ -392,27 +468,6 @@
                 "length": 7
             },
             {
-                "word": "PİLƏKLİ",
-                "explanation": "sif. üzərinə piləklər tikilmiş",
-                "isPanagram": false,
-                "score": 7,
-                "length": 7
-            },
-            {
-                "word": "PİLLƏLİ",
-                "explanation": "sif. 1. saylardan sonra gələrək",
-                "isPanagram": false,
-                "score": 7,
-                "length": 7
-            },
-            {
-                "word": "PİLPİLƏ",
-                "explanation": "is. məh. palçıq vulkanı. ləpələrinüstündə; əbədi neft qaynayan; ***lər görmüşo! i.səfərli",
-                "isPanagram": false,
-                "score": 7,
-                "length": 7
-            },
-            {
                 "word": "VƏLVƏLƏ",
                 "explanation": "is. səs-küy",
                 "isPanagram": false,
@@ -420,8 +475,36 @@
                 "length": 7
             },
             {
+                "word": "ZƏLZƏLƏ",
+                "explanation": "is. [ər.] yer qabığının bəzi sahələrininvulkanik və ya tektonik proseslərüzündən güclü titrəməsi; yer sarsıntısı",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7
+            },
+            {
                 "word": "ƏVƏLİKLİ",
                 "explanation": "sif. əvəlik qatılaraq bişirilmiş.*** çilov (aş)",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8
+            },
+            {
+                "word": "ƏZGİLLİK",
+                "explanation": "is. əzgil ağacları bitmiş yer",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8
+            },
+            {
+                "word": "GİLLİLİK",
+                "explanation": "is. tərkibində gil olma. torpağın*** dərəcəsi. qumun gilliliyi",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8
+            },
+            {
+                "word": "GİZLİLİK",
+                "explanation": "is. gizli olma; naməlumluq",
                 "isPanagram": false,
                 "score": 8,
                 "length": 8
@@ -441,8 +524,29 @@
                 "length": 8
             },
             {
+                "word": "LƏLƏGİLƏ",
+                "explanation": "is. uşağı ovutmaq üçün onaverilən hər hansı bir şey (şirni",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8
+            },
+            {
+                "word": "LİLLİLİK",
+                "explanation": "is. lilli olma; lehməlilik",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8
+            },
+            {
                 "word": "VƏKİLLİK",
                 "explanation": "is. vəkilin gördüyü iş",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8
+            },
+            {
+                "word": "ZƏLİLLİK",
+                "explanation": "is. zəlalətə düşmüş adamınhalı; zəlalət",
                 "isPanagram": false,
                 "score": 8,
                 "length": 8
@@ -462,18 +566,25 @@
                 "length": 9
             },
             {
-                "word": "KƏPƏKLİLİK",
-                "explanation": "is. kəpəyi olan un və s.-ninkeyfiyyəti; kəpəyi olma. unun *** dərəcəsi",
+                "word": "ZƏLZƏLƏLİ",
+                "explanation": "sif. tez-tez zəlzələ olan",
                 "isPanagram": false,
-                "score": 10,
-                "length": 10
+                "score": 9,
+                "length": 9
             },
             {
-                "word": "ƏVƏLİKPLOV",
-                "explanation": "is. əvəlik qatılmış düyüdənbişirilən plov",
+                "word": "ZƏVZƏKLİK",
+                "explanation": "is. çox danışqanlıq",
+                "isPanagram": false,
+                "score": 9,
+                "length": 9
+            },
+            {
+                "word": "GƏVƏZƏLİK",
+                "explanation": "is. naqqallıq",
                 "isPanagram": true,
                 "score": 17,
-                "length": 10
+                "length": 9
             }
         ]
     }

@@ -1,0 +1,241 @@
+{
+    "gameData": {
+        "day": "20211025",
+        "expiration": "1635199140",
+        "centerLetter": "N",
+        "validLetters": [
+            "A",
+            "R",
+            "Z",
+            "N",
+            "G",
+            "Ü",
+            "Ə"
+        ],
+        "words_info": {
+            "word_count": 30,
+            "sum_score": 123,
+            "panagram_count": 2,
+            "word_length": {
+                "4": 15,
+                "5": 8,
+                "6": 3,
+                "10": 1,
+                "7": 2,
+                "9": 1
+            }
+        },
+        "words": [
+            {
+                "word": "ANƏN",
+                "explanation": "zərf [ər.] birdən",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "ARAN",
+                "explanation": "is. azərbaycanda: yaylaq yerlərənisbətən alçaq və iqlimcə isti olan yerlər.azərbaycanın əsas *** yerləri muğan",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "AZAN",
+                "explanation": "is. [ər.] müsəlmanları namazaçağırmaq üçün ***çının səhər",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "ƏRƏN",
+                "explanation": "is. (adətən cəm şəklində). 1. ər",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "ƏZAN",
+                "explanation": "[ər.] bax azan",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "GƏNƏ",
+                "explanation": "is. zool. xırda caynaqları ilə heyvanların",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "GÜNÜ",
+                "explanation": "is. 1. köhnə məişətdə: birinci arvadınüstünə alınan ikinci və ya üçüncü arvad.hacı evə *** gətirmək niyyətini münəvvərxanımın qulağına elə doldurd",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "NANƏ",
+                "explanation": "[ər.] bot. yeyilən çoxillik ətirligöyərti növü. *** qurutmaq. üç dəstə ***.□ *** cövhəri (arağı) – ***dən çəkilənaraq",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "NƏNƏ",
+                "explanation": "is. 1. atanın",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "NƏRƏ",
+                "explanation": "is. məh. evlərin üstünə qoyulan tir.su gəldi",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "RƏNA",
+                "explanation": "sif. və is. [ər.] şair. 1. gözəl (qız",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "RƏNG",
+                "explanation": "is. [fars.] 1. bir şeyin işıq tonu.tünd ***. qırmızı ***. – çöllər yuxudanolunca bidar; min *** çiçəklə doldu gülzar",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "ÜZƏN",
+                "explanation": "1. bax üzgüçü.2. sif. suyun üzərində hərəkət edən; üzücü.*** nasos stansiyası. *** elektrik stansiyası",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "ZƏNG",
+                "explanation": "is. 1. vurulduqda xüsusi səs çıxarmaqüçün içərisində metal dili olan",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "ZƏNN",
+                "explanation": "is. [ər.] 1. kafi dəlil üzərində əsaslanmayanehtimal",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "ƏNƏNƏ",
+                "explanation": "is. [ər.] tarixən meydana gələrəknəsildən-nəslə keçən adətlər",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "ƏNZAR",
+                "explanation": "is. [ər. “nəzər” söz. cəmi] klas.tənt. nəzərlər",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "ƏRGƏN",
+                "explanation": "sif. həddi-büluğa çatmış",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "ƏRZƏN",
+                "explanation": "sif. gecikmiş",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "GƏZƏN",
+                "explanation": "is. köhn. gön kəsmək üçün keçmişdəbaşmaqçıların işlətdikləri iti alət",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "NƏZƏR",
+                "explanation": "is. [ər.] 1. baxma",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "ÜZGÜN",
+                "explanation": "sif. taqətsiz",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "ZƏNƏN",
+                "explanation": "is. [fars.] 1. qadın",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "ƏRƏZƏN",
+                "explanation": "sif. dan. gecyetişən",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6
+            },
+            {
+                "word": "ZƏNƏNƏ",
+                "explanation": "sif. [fars.] qadınlara məxsus",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6
+            },
+            {
+                "word": "ZÜNNAR",
+                "explanation": "is. [ər.] xristian keşişlərinin ibadətzamanı bellərinə bağladıqları ucları aşağısallanan sərt qurşaq (klassik şeirdə xristianlıqrəmzi kimi işlənmiş",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6
+            },
+            {
+                "word": "NƏZƏRƏN",
+                "explanation": "qoş. [ər.] klas. görə",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7
+            },
+            {
+                "word": "RƏNGARƏNG",
+                "explanation": "sif. [fars.] 1. müxtəlif rənglərdə olan; müxtəlifrəngli",
+                "isPanagram": false,
+                "score": 9,
+                "length": 9
+            },
+            {
+                "word": "GÜNGÜZƏRAN",
+                "explanation": "is. güzəran",
+                "isPanagram": true,
+                "score": 17,
+                "length": 10
+            },
+            {
+                "word": "GÜZƏRAN",
+                "explanation": "is. [fars.] dolanacaq",
+                "isPanagram": true,
+                "score": 17,
+                "length": 7
+            }
+        ]
+    }
+}

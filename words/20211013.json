@@ -1,0 +1,143 @@
+{
+    "gameData": {
+        "day": "20211013",
+        "expiration": "1634162340",
+        "centerLetter": "B",
+        "validLetters": [
+            "A",
+            "E",
+            "L",
+            "B",
+            "I",
+            "İ",
+            "Ğ"
+        ],
+        "words_info": {
+            "word_count": 16,
+            "sum_score": 75,
+            "panagram_count": 1,
+            "word_length": {
+                "5": 5,
+                "6": 2,
+                "4": 6,
+                "8": 1,
+                "7": 1,
+                "9": 1
+            }
+        },
+        "words": [
+            {
+                "word": "BABA",
+                "explanation": "is. 1. atanın",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "BABI",
+                "explanation": "is. [xüs. is.-dən] 1. xıx əsrin ortasında iranda “bab” təxəllüslü mirzə əli məhəmməd tərəfindən təsis edilmiş dini təriqətə mənsub olan adam",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "BABİ",
+                "explanation": "is. [xüs. is.-dən] 1. xıx əsrin ortasında iranda “bab” təxəllüslü mirzə əli məhəmməd tərəfindən təsis edilmiş dini təriqətə mənsub olan adam",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "BAĞA",
+                "explanation": "is. məh. atların buxovluğundaəmələ gələn xəstəlik (yara)",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "BALA",
+                "explanation": "1. is. övlad",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "BİBİ",
+                "explanation": "is. övlad üçün atanın bacısı",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "ABALI",
+                "explanation": "is. köhn. aba geymiş",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "BAĞLI",
+                "explanation": "sif. 1. ip",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "BALBA",
+                "explanation": "is. məh. cincilim",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "BALLI",
+                "explanation": "sif. 1. bal qatılmış. *** konfet.2. məc. bal kimi şirin. bir alagözlünüsevibdi könül; dəhani püstədir",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "BIĞLI",
+                "explanation": "sif. bığları olan. *** kişi",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "ALBALI",
+                "explanation": "is. tündqırmızı rəngli",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6
+            },
+            {
+                "word": "BALALI",
+                "explanation": "sif. yanında balası olan. ***inək. *** qoyun. *** camış",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6
+            },
+            {
+                "word": "BELBAĞI",
+                "explanation": "is. belə bağlanılan hər şey(qayış",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7
+            },
+            {
+                "word": "BALABİBİ",
+                "explanation": "is. məh. 1. kiçik bibiyə verilənad.2. gəlinlərə verilən ləqəb; gəlinciyəz",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8
+            },
+            {
+                "word": "BELİBAĞLI",
+                "explanation": "sif. beli bağlı olan",
+                "isPanagram": true,
+                "score": 17,
+                "length": 9
+            }
+        ]
+    }
+}

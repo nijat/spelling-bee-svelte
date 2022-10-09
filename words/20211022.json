@@ -1,0 +1,184 @@
+{
+    "gameData": {
+        "day": "20211022",
+        "expiration": "1634939940",
+        "centerLetter": "D",
+        "validLetters": [
+            "T",
+            "Q",
+            "N",
+            "D",
+            "Ə",
+            "İ",
+            "Ç"
+        ],
+        "words_info": {
+            "word_count": 22,
+            "sum_score": 103,
+            "panagram_count": 1,
+            "word_length": {
+                "4": 8,
+                "5": 5,
+                "6": 4,
+                "7": 3,
+                "8": 2
+            }
+        },
+        "words": [
+            {
+                "word": "DƏDƏ",
+                "explanation": "is. 1. ata. *** görməyib",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "DƏNƏ",
+                "explanation": "is. [fars.] 1. eyni cinsdən olan şeylərin hər biri",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "DƏNİ",
+                "explanation": "sif. [ər.] alçaq",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "DİDƏ",
+                "explanation": "is. [fars.] klas. göz. gər inanmazsan ki",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "DİNİ",
+                "explanation": "sif. [ər.] dinlə əlaqədar olan",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "ƏDƏD",
+                "explanation": "is. [ər.] 1. say",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "QƏDD",
+                "explanation": "is. [ər.] 1. boy",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "QƏND",
+                "explanation": "is. [ər.] şəkər çuğunduru və yaşəkər qamışından hasil edilən ağ kristal şəklindəşirin qida maddəsi; şəkər",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "DƏQİQ",
+                "explanation": "sif. [ər] 1. düpdüz",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "DİNÇİ",
+                "explanation": "is. allahın varlığına inanan vəmənsub olduğu dinin ehkamlarına ciddi surətdəəməl edən adam; mömin. kəndlilərhər şeydən artıq *** idilər",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "ƏDƏDİ",
+                "explanation": "sif. [ər.] riyaz. ədədlərlə ifadəolunan. *** kəmiyyət. ədəbi nisbət. –diferensial tənlikləri təqribi həll etmək üçünmüxtəlif qrafik və *** meto",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "ƏQİDƏ",
+                "explanation": "is. [ər.] 1. insanın mühit",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "NƏDƏN",
+                "explanation": "əvəz. nə üçün",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "DƏQİQƏ",
+                "explanation": "is. [ər] 1. bir saatın altmışda birinə bərabər və ya 60 saniyədən ibarət olan vaxt ölçüsü. bir *** sükutdan sonra vəzir mirzə möhsün başladı danışm",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6
+            },
+            {
+                "word": "DİQQƏT",
+                "explanation": "is. [ər.] 1. fikrin",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6
+            },
+            {
+                "word": "TƏDQİQ",
+                "explanation": "is. [ər.] 1. bir şeyi və ya onunxüsusiyyətlərini öyrənmək",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6
+            },
+            {
+                "word": "TƏNQİD",
+                "explanation": "is. [ər.] 1. yaxşı cəhətlərini üzəçıxarmaq",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6
+            },
+            {
+                "word": "DƏNDƏNƏ",
+                "explanation": "is. [fars.] 1. təkərin çevrəsinimərkəzə birləşdirən taxta. arabanın bir ***sisınmışdır. – [arabaçı:] …atlar arıq",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7
+            },
+            {
+                "word": "DİDİNTİ",
+                "explanation": "is. yun didilməsindən sonra qalanxırda qırıntılar",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7
+            },
+            {
+                "word": "TƏNQİDİ",
+                "explanation": "sif. [ər.] 1. tənqidə həsr edilmiş",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7
+            },
+            {
+                "word": "DƏNƏDƏNƏ",
+                "explanation": "sif. dənələr halında",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8
+            },
+            {
+                "word": "TƏNQİDÇİ",
+                "explanation": "is. tənqidlə məşğul olan adam(bax tənqid 3-cü mənada). musiqi ***si.***nin qeydləri. teatr ***si",
+                "isPanagram": true,
+                "score": 17,
+                "length": 8
+            }
+        ]
+    }
+}

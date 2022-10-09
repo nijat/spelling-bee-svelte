@@ -1,0 +1,262 @@
+{
+    "gameData": {
+        "day": "20211021",
+        "expiration": "1634853540",
+        "centerLetter": "K",
+        "validLetters": [
+            "A",
+            "T",
+            "H",
+            "K",
+            "Ü",
+            "L",
+            "S"
+        ],
+        "words_info": {
+            "word_count": 33,
+            "sum_score": 164,
+            "panagram_count": 1,
+            "word_length": {
+                "4": 9,
+                "5": 11,
+                "7": 2,
+                "6": 6,
+                "9": 1,
+                "8": 4
+            }
+        },
+        "words": [
+            {
+                "word": "KAHA",
+                "explanation": "is. məh. qayalıqda",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "KALA",
+                "explanation": "is. məh. böyük şüşə qab",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "KASA",
+                "explanation": "is. [fars.] 1. çini",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "KÜKÜ",
+                "explanation": "is. göyərti və yumurtadan (bəzəndə balıqdan) hazırlanan xörək. *** bişirmək.– bəylər yeyər nahara küftə",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "KÜLL",
+                "explanation": "[ər.] 1. bütün",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "KÜLÜ",
+                "explanation": "sif. 1. k.t. bozumtul-ağ. *** torpaq.2. kül rəngində olan",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "KÜSÜ",
+                "explanation": "is. bir-biri ilə danışmama halı; küsmə.***lü qardaş",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "TALK",
+                "explanation": "is. [ər.] adətən toz halında təbabətdəvə tibdə işlədilən ağ və ya göy rəngliyumşaq mineral",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "ÜTÜK",
+                "explanation": "sif. üzdən yanmış",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "KAHAL",
+                "explanation": "sif. [ər.] dan. başısoyuq",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "KALKA",
+                "explanation": "[fr.] 1. çertyojlardan",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "KASKA",
+                "explanation": "[fr. casque",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "KASSA",
+                "explanation": "[ital.] 1. pul",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "KATTA",
+                "explanation": "is. dan. bax kətxuda. ***nıgör",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "KÜLAH",
+                "explanation": "is. [fars.] köhn. papaq. qoyma***ın kəc",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "KÜLLÜ",
+                "explanation": "sif. 1. külə bulaşmış",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "SÜLÜK",
+                "explanation": "is. baldırı koğuş bitkilərin (qarğınınvə s.-nin) təzə göyərmiş gövdəsi. qarğısülüyü. qanqal sülüyü",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "TÜKLÜ",
+                "explanation": "sif. 1. tükü olan",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "TÜLKÜ",
+                "explanation": "is. 1. zool. itlər ailəsindən",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "ÜSKÜK",
+                "explanation": "is. məh. bax oymaq3. həsən sapçıxardıb sapladı və barmağına *** taxıb",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "KÜLLÜK",
+                "explanation": "is. 1. kül tökülən yer. toyuqlar ***də eşələnir. – külü ***dən götür. (ata. sözü). zibil təpə olsa",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6
+            },
+            {
+                "word": "KÜSÜLÜ",
+                "explanation": "sif. küsmüş",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6
+            },
+            {
+                "word": "KÜTLÜK",
+                "explanation": "is. 1. küt şeyin hal və keyfiyyəti.bıçağın kütlüyü. qayçı ***dən kəsmir.2. məc. həssaslığın",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6
+            },
+            {
+                "word": "LÜTLÜK",
+                "explanation": "is. 1. çılpaqlıq.2. məc. bitkisizlik; yaşıllıqdan",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6
+            },
+            {
+                "word": "SALAKA",
+                "explanation": "is. [rus.] balıq növü",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6
+            },
+            {
+                "word": "ÜSTLÜK",
+                "explanation": "is. bir şeyin üstünü örtməyə",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6
+            },
+            {
+                "word": "KÜKÜLÜK",
+                "explanation": "sif. kükü üçün yararlı",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7
+            },
+            {
+                "word": "SÜSTLÜK",
+                "explanation": "is. hissizlik",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7
+            },
+            {
+                "word": "SÜTÜLLÜK",
+                "explanation": "is. sütül olma",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8
+            },
+            {
+                "word": "TÜKLÜLÜK",
+                "explanation": "is. tüklü olma",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8
+            },
+            {
+                "word": "TÜLKÜLÜK",
+                "explanation": "is. hiyləgərlik",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8
+            },
+            {
+                "word": "KÜSÜLÜLÜK",
+                "explanation": "is. bir-biri ilə danışmama",
+                "isPanagram": false,
+                "score": 9,
+                "length": 9
+            },
+            {
+                "word": "TASKÜLAH",
+                "explanation": "is. [fars.] köhn. dəbilqə",
+                "isPanagram": true,
+                "score": 17,
+                "length": 8
+            }
+        ]
+    }
+}

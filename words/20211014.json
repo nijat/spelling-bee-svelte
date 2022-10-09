@@ -1,0 +1,240 @@
+{
+    "gameData": {
+        "day": "20211014",
+        "expiration": "1634248740",
+        "centerLetter": "L",
+        "validLetters": [
+            "A",
+            "T",
+            "N",
+            "L",
+            "Y",
+            "S",
+            "İ"
+        ],
+        "words_info": {
+            "word_count": 30,
+            "sum_score": 137,
+            "panagram_count": 1,
+            "word_length": {
+                "7": 2,
+                "5": 16,
+                "4": 8,
+                "6": 3,
+                "10": 1
+            }
+        },
+        "words": [
+            {
+                "word": "ALAY",
+                "explanation": "is. 1. camaat",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "ATİL",
+                "explanation": "sif. [ər.] tənbəl",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "LAST",
+                "explanation": "is. [ing.] sualtı üzgüçülükdə istifadəedilən xüsusi rezin ayaqlıq",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "NAİL",
+                "explanation": "[ər.] : *** olmaq – əldə etmək",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "SAİL",
+                "explanation": "is. [ər.] dilənçi",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "SİLL",
+                "explanation": "is. [ər.] köhn. vərəm. [ələkbər:] hərkim bu arvadın üzünə baxsa",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "STİL",
+                "explanation": "[fr. style] bax üslub",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "TALA",
+                "explanation": "is. meşədə ağacsız",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "ALANA",
+                "explanation": "is. içərisi şəkərli qozla doldurulmuşmeyvə qurusu (armud",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "ASLAN",
+                "explanation": "is. 1. şir",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "LAYLA",
+                "explanation": "is. 1. körpə uşaqları yatırtmaq üçün hava ilə oxunan həzin şeir parçası; nənni",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "LİANA",
+                "explanation": "[fr.] bot. tropik meşələrdə",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "LİLLİ",
+                "explanation": "sif. lehməli",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "LİSAN",
+                "explanation": "is. [ər.] klas. dil. ey oğul",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "NALAN",
+                "explanation": "sif. və zərf [fars.] ağlayan",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "SALAT",
+                "explanation": "[ər.] dəfn günü vəfat edənin evinin üstündə uca səslə oxunan minacat. □ *** çəkmək – vəfat edənin evinin üstündə uca səslə minacat oxumaq",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "SİNLİ",
+                "explanation": "sif. yaşlı",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "SİSLİ",
+                "explanation": "sif. çənli",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "SİTAL",
+                "explanation": "sif. sırtıq",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "SİYAL",
+                "explanation": "is. məh. üzümdə gülləmə xəstəliyi",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "TALAN",
+                "explanation": "is. [fars.] 1. qarət",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "TİNLİ",
+                "explanation": "sif. tini olan; tilli. iti *** stol",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "YALAN",
+                "explanation": "is. aldatmaq məqsədi ilə deyilənəsilsiz söz (doğru",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "YAYLA",
+                "explanation": "is. 1. ***q. [molla həmid:]allaha şükür",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "LAYLAY",
+                "explanation": "is. 1. körpə uşaqları yatırtmaq üçün hava ilə oxunan həzin şeir parçası; nənni",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6
+            },
+            {
+                "word": "SAYTAL",
+                "explanation": "sif. məh. boylu-buxunlu",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6
+            },
+            {
+                "word": "TANTAL",
+                "explanation": "is. [lat.] elementlərin dövrü sistemininv qrupundan ta-kimyəvi element",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6
+            },
+            {
+                "word": "ALATALA",
+                "explanation": "sif. tala-tala",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7
+            },
+            {
+                "word": "ANLAYAN",
+                "explanation": "f.sif. başa düşən",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7
+            },
+            {
+                "word": "LİSANİYYAT",
+                "explanation": "is. [ər.] köhn. dilçilik",
+                "isPanagram": true,
+                "score": 17,
+                "length": 10
+            }
+        ]
+    }
+}

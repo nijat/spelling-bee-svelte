@@ -1,0 +1,304 @@
+{
+    "gameData": {
+        "day": "20211007",
+        "expiration": "1633643940",
+        "centerLetter": "V",
+        "validLetters": [
+            "A",
+            "R",
+            "Z",
+            "V",
+            "N",
+            "D",
+            "Ə"
+        ],
+        "words_info": {
+            "word_count": 39,
+            "sum_score": 186,
+            "panagram_count": 2,
+            "word_length": {
+                "4": 14,
+                "5": 12,
+                "6": 3,
+                "7": 5,
+                "8": 4,
+                "9": 1
+            }
+        },
+        "words": [
+            {
+                "word": "ARVA",
+                "explanation": "is. dan. içinə şey qoyulan və yatökülən qabların (qutu",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "AVAR",
+                "explanation": "is. məh. keçmişdə kənd evlərinindamına döşənən qamışaoxşar ot; ümumiyyətlə",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "AVAZ",
+                "explanation": "is. [fars.] 1. səs",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "DAVA",
+                "explanation": "is. [ər.] 1. dalaşma",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "DƏVA",
+                "explanation": "[ər.] 1. bax dava. bir əldə tutub tiğini",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "DƏVƏ",
+                "explanation": "is. səhralarda və quru çöllərdə istifadəolunan",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "ƏDVƏ",
+                "explanation": "[ər.] bax ədviyyat. xörəyə ***tökmək",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "ƏNVA",
+                "explanation": "is. [ər. “növ” söz. cəmi] cürbəcür",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "ƏVƏZ",
+                "explanation": "is. [ər.] 1. qarşılıq",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "NƏVA",
+                "explanation": "is. [fars.] 1. avaz",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "NƏVƏ",
+                "explanation": "is. oğlun və ya qızın uşağı. dövlətdə– dəvə",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "RƏVA",
+                "explanation": "is. [fars.] 1. caiz",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "VAZA",
+                "explanation": "[fr.] içinə meyvə",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "VƏDƏ",
+                "explanation": "is. [ər.] 1. bir iş üçün qabaqcadan təyin olunan vaxt",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "ARVAD",
+                "explanation": "is. qadın. ***lar otaqda çəpikçalıb süzürdülər. çəmənzəminli. qulu allahyaracavab verdi: – *** xeylağı ilə nə işinizvar? mir cəlal",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "AVAND",
+                "explanation": "is. bir şeyin",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "AVARA",
+                "explanation": "[fars.] 1. is. heç bir işlə məşğul olmayaraq boş-boş gəzən adam",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "AVAZƏ",
+                "explanation": "is. [fars.] bax avaz. ta əzəldənvar mənim guşimdə eşq ***si. xətayi.nalədəndir ney kimi avazeyi-eşqim bülənd",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "DAVAR",
+                "explanation": "is. qoyun-keçi; xırdabuynuzlu mal-qara. kəndin gözəl ***ını; parçalayan",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "ƏNVAR",
+                "explanation": "is. [ər.] köhn. işıqlar",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "ƏNVƏR",
+                "explanation": "sif. [ər.] klas. çox nurlu",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "ƏRVƏZ",
+                "explanation": "is. məh. iməcilik",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "NAVAR",
+                "explanation": "is. heyvanı yüklədikdə belinəqoyulan içi küləşlə doldurulmuş torba;yəhəraltı",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "RƏVAN",
+                "explanation": "sif. və zərf [fars.] axıcı",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "VARAN",
+                "explanation": "is. kərtənkələlər yarımdəstəsindənsürünən heyvan fəsiləsi",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "VARNA",
+                "explanation": "is. [sanskr.] qədim hindistandamövcud olmuş 4 zümrədən hər biri: brahmanlar",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "ARVANA",
+                "explanation": "is. məh. iki hörgüclü dişi dəvə.haça buğurlar",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6
+            },
+            {
+                "word": "NARƏVA",
+                "explanation": "sif. [fars.] rəva görülməyən",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6
+            },
+            {
+                "word": "ZƏVVAR",
+                "explanation": "is. [ər.] ziyarət edən",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6
+            },
+            {
+                "word": "DARVAZA",
+                "explanation": "is. əsasən nəqliyyatın keçməsiüçün böyük həyət qapısı; alaqapı. dəvəçi ilədost olanın ***sı gen gərək",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7
+            },
+            {
+                "word": "DƏNƏVƏR",
+                "explanation": "sif. 1. dənəli",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7
+            },
+            {
+                "word": "ƏRARVAD",
+                "explanation": "is. kişi ilə arvadı bir yerdə.ər-arvad bizə qonaq gəlmişdilər. ər-arvadçox yaxşı yaşayırlar. – nəhayət",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7
+            },
+            {
+                "word": "NAAVAND",
+                "explanation": "sif. və zərf [fars.] avand olmayan",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7
+            },
+            {
+                "word": "VƏRDƏNƏ",
+                "explanation": "is. 1. xəmir və s. yaymaq üçünağacdan və s.-dən qayrılan silindrşəkilli alət.gənclər bir tərəfi nazik olan ***yə bənzərmillərdən yapışıb oynatm",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7
+            },
+            {
+                "word": "DAVADAVA",
+                "explanation": "is. uşaqların oynadığı vuruşma",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8
+            },
+            {
+                "word": "ZƏVƏRDƏR",
+                "explanation": "is. [fars.] xüs. məh. bina tikilərkənqapı və pəncərənin üstünə qoyulanböyük daş",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8
+            },
+            {
+                "word": "NƏVAZƏNDƏ",
+                "explanation": "is. [fars.] köhn. çalan",
+                "isPanagram": false,
+                "score": 9,
+                "length": 9
+            },
+            {
+                "word": "VƏRƏNDAZ",
+                "explanation": "is. dan. götür-qoy",
+                "isPanagram": true,
+                "score": 17,
+                "length": 8
+            },
+            {
+                "word": "ZƏRAVƏND",
+                "explanation": "is. [fars.] bot. düz və sarmaşıqgövdəyə malik ot-bitki (kök və yarpaqlarındaolan zəhərli maddələrdən təbabətdəistifadə olunur)",
+                "isPanagram": true,
+                "score": 17,
+                "length": 8
+            }
+        ]
+    }
+}

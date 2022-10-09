@@ -1,0 +1,243 @@
+{
+    "gameData": {
+        "day": "20211006",
+        "expiration": "1633557540",
+        "centerLetter": "Ü",
+        "validLetters": [
+            "Z",
+            "K",
+            "L",
+            "Ü",
+            "S",
+            "Ə",
+            "İ"
+        ],
+        "words_info": {
+            "word_count": 30,
+            "sum_score": 181,
+            "panagram_count": 3,
+            "word_length": {
+                "8": 5,
+                "4": 8,
+                "7": 2,
+                "5": 9,
+                "10": 2,
+                "11": 1,
+                "6": 2,
+                "9": 1
+            }
+        },
+        "words": [
+            {
+                "word": "KÜKÜ",
+                "explanation": "is. göyərti və yumurtadan (bəzəndə balıqdan) hazırlanan xörək. *** bişirmək.– bəylər yeyər nahara küftə",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "KÜLƏ",
+                "explanation": "sif. məh. quyruqsuz. *** keçi",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "KÜLL",
+                "explanation": "[ər.] 1. bütün",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "KÜLÜ",
+                "explanation": "sif. 1. k.t. bozumtul-ağ. *** torpaq.2. kül rəngində olan",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "KÜSÜ",
+                "explanation": "is. bir-biri ilə danışmama halı; küsmə.***lü qardaş",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "LÜLƏ",
+                "explanation": "is. 1. odlu silahların gülləyə",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "ÜZLÜ",
+                "explanation": "sif. 1. üzü",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "ÜZÜK",
+                "explanation": "is. 1. əsasən qızıldan qayrılan",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "KÜLƏK",
+                "explanation": "is. 1. havanın üfüqi istiqamətdə hərəkətindən ibarət təbiət hadisəsi; yel. *** əsir. *** birdən kəsdi",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "KÜLLİ",
+                "explanation": "sif. [ər.] saysız-hesabsız",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "KÜLLÜ",
+                "explanation": "sif. 1. külə bulaşmış",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "KÜZLÜ",
+                "explanation": "sif. kotanla",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "SÜLÜK",
+                "explanation": "is. baldırı koğuş bitkilərin (qarğınınvə s.-nin) təzə göyərmiş gövdəsi. qarğısülüyü. qanqal sülüyü",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "SÜSLÜ",
+                "explanation": "sif. bəzəkli",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "ÜSKÜK",
+                "explanation": "is. məh. bax oymaq3. həsən sapçıxardıb sapladı və barmağına *** taxıb",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "ÜZLÜK",
+                "explanation": "is. 1. üz çəkmək üçün yarar parçavə s. döşək üzlüyü. // sif. mənasında. ***çit. *** məxmər. // sif",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "ÜZSÜZ",
+                "explanation": "sif. 1. üzü",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "KÜLLÜK",
+                "explanation": "is. 1. kül tökülən yer. toyuqlar ***də eşələnir. – külü ***dən götür. (ata. sözü). zibil təpə olsa",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6
+            },
+            {
+                "word": "KÜSÜLÜ",
+                "explanation": "sif. küsmüş",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6
+            },
+            {
+                "word": "KÜKÜLÜK",
+                "explanation": "sif. kükü üçün yararlı",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7
+            },
+            {
+                "word": "KÜLƏKLİ",
+                "explanation": "sif. külək olan",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7
+            },
+            {
+                "word": "ƏZİKÜZÜK",
+                "explanation": "sif. 1. çox əzilmiş. ***meyvə. – [qurban:] …hər ağac altındanüç-dörd çuval əzik-üzük alma yığmışıq",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8
+            },
+            {
+                "word": "KÜLƏKLİK",
+                "explanation": "is. hava çəkmək üçün binalardaolan deşik",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8
+            },
+            {
+                "word": "LÜLƏLÜLƏ",
+                "explanation": "sif. və zərf lüləyə oxşar",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8
+            },
+            {
+                "word": "ÜZÜKÜZÜK",
+                "explanation": "is. üzüklə oynanılan bir oyun adı. bir yanda toya gələnlər üzük-üzük oynarlar. r.əfəndiyev",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8
+            },
+            {
+                "word": "KÜSÜLÜLÜK",
+                "explanation": "is. bir-biri ilə danışmama",
+                "isPanagram": false,
+                "score": 9,
+                "length": 9
+            },
+            {
+                "word": "KÜLƏKLİLİK",
+                "explanation": "is. küləkli havanın və yayerin halı",
+                "isPanagram": false,
+                "score": 10,
+                "length": 10
+            },
+            {
+                "word": "KÜLƏKSİZ",
+                "explanation": "sif. 1. külək olmayan",
+                "isPanagram": true,
+                "score": 17,
+                "length": 8
+            },
+            {
+                "word": "KÜLƏKSİZLİK",
+                "explanation": "is. küləksiz yerin və yahavanın halı",
+                "isPanagram": true,
+                "score": 17,
+                "length": 11
+            },
+            {
+                "word": "SƏKKİZÜZLÜ",
+                "explanation": "is. səkkiz üzü olan həndəsicisim",
+                "isPanagram": true,
+                "score": 17,
+                "length": 10
+            }
+        ]
+    }
+}

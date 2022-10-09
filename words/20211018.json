@@ -1,0 +1,247 @@
+{
+    "gameData": {
+        "day": "20211018",
+        "expiration": "1634594340",
+        "centerLetter": "L",
+        "validLetters": [
+            "A",
+            "R",
+            "V",
+            "L",
+            "D",
+            "I",
+            "İ"
+        ],
+        "words_info": {
+            "word_count": 31,
+            "sum_score": 146,
+            "panagram_count": 1,
+            "word_length": {
+                "4": 9,
+                "5": 13,
+                "7": 4,
+                "6": 4,
+                "10": 1
+            }
+        },
+        "words": [
+            {
+                "word": "ADİL",
+                "explanation": "sif. [ər.] ədalətli",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "ADLI",
+                "explanation": "sif. 1. müəyyən adı olan",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "ALLI",
+                "explanation": "sif. köhn. al rəngli paltar geymiş.tərifli gözəllər gəlhagəl oldu; yaşıllı",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "ARLI",
+                "explanation": "sif. həyalı",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "LARI",
+                "explanation": "sif. uzunqıçlı",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "LAVA",
+                "explanation": "[ital.] 1. vulkanın ağzından çıxanərgin odlu kütlə.2. məc. böyük kütlə halında sürətlə hərəkətedən şey haqqında; izdiham",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "RİAL",
+                "explanation": "is. [fars.] iranda pul vahidi",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "VALA",
+                "explanation": "sif. [fars.] klas. yüksək",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "VALİ",
+                "explanation": "is. [ər.] 1. keçmişdə: vilayət hakimi",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "ALALI",
+                "explanation": "sif. alası olan",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "AVRAL",
+                "explanation": "[ing.] 1. gəmidə bütün komandanıniştirakı ilə görülən iş. artıq ***dançox nadir hallarda istifadə edilir",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "DADLI",
+                "explanation": "1. sif. yaxşı dadı olan",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "DALDA",
+                "explanation": "1. sif. sığınmağa və ya gizlənməyəyarayan. *** yer. *** divar.– kosa boşalmış küçənin *** yeri ilə yeriyibat tövlələrinin yanına çatdı",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "DALLI",
+                "explanation": "sif. dalları (budaqları) olan. ***ağac",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "DAVLA",
+                "explanation": "is. 1. mus. xərək (musiqi alətlərindəsimlərin altına qoyulan taxta parçası).2. zool. cırcırama",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "DİLİR",
+                "explanation": "sif. [fars.] köhn. igid",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "DİLLİ",
+                "explanation": "sif. 1. ağzında dili olan. // danışa bilən",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "LİLLİ",
+                "explanation": "sif. lehməli",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "RALLİ",
+                "explanation": "is. [ing.] avtomobil idmanı üzrə1000-2000 km məsafədə keçirilən yarışlarkompleksi",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "VALİD",
+                "explanation": "is. [ər.] klas. ata. ey millətinümmidi",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "VARLI",
+                "explanation": "sif. dövlətli",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "VİLLA",
+                "explanation": "[lat.] şəhər kənarında bağ-bağatiçərisində qəşəng ev; köşk. burada çox gözəl***lar tikilmiş",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "AVARLI",
+                "explanation": "sif. avarı olan",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6
+            },
+            {
+                "word": "DAVALI",
+                "explanation": "sif. dərman olan",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6
+            },
+            {
+                "word": "DİLARA",
+                "explanation": "sif. [fars.] şair. ürəkaçan",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6
+            },
+            {
+                "word": "RADİAL",
+                "explanation": "[lat.] radius istiqamətində yerləşən.*** simmetriya",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6
+            },
+            {
+                "word": "ARVADLI",
+                "explanation": "sif. 1. evli; evi-arvadı olan.*** kişilər.2. yanında arvadı olan",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7
+            },
+            {
+                "word": "DAVARLI",
+                "explanation": "sif. davarı olan",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7
+            },
+            {
+                "word": "DİLVARİ",
+                "explanation": "sif. dil kimi",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7
+            },
+            {
+                "word": "DADLIDADLI",
+                "explanation": "1) sif. ləzzətli-ləzzətli",
+                "isPanagram": false,
+                "score": 10,
+                "length": 10
+            },
+            {
+                "word": "DİVARLI",
+                "explanation": "sif. divarı olan",
+                "isPanagram": true,
+                "score": 17,
+                "length": 7
+            }
+        ]
+    }
+}

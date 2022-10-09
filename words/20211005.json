@@ -1,0 +1,346 @@
+{
+    "gameData": {
+        "day": "20211005",
+        "expiration": "1633471140",
+        "centerLetter": "N",
+        "validLetters": [
+            "A",
+            "R",
+            "Q",
+            "N",
+            "Ş",
+            "I",
+            "İ"
+        ],
+        "words_info": {
+            "word_count": 45,
+            "sum_score": 229,
+            "panagram_count": 2,
+            "word_length": {
+                "5": 16,
+                "4": 12,
+                "7": 3,
+                "8": 3,
+                "9": 3,
+                "6": 8
+            }
+        },
+        "words": [
+            {
+                "word": "ANIŞ",
+                "explanation": "is. qəd. istək",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "ANRI",
+                "explanation": "zərf və sif. dan. 1. o yan",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "ARAN",
+                "explanation": "is. azərbaycanda: yaylaq yerlərənisbətən alçaq və iqlimcə isti olan yerlər.azərbaycanın əsas *** yerləri muğan",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "AŞNA",
+                "explanation": "is. 1. dost",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "QAAN",
+                "explanation": "is. tar. türk",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "QİNA",
+                "explanation": "is. [ər.] köhn. xanəndəlik; nəğmə",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "QRAN",
+                "explanation": "[lat.] riyaz. 0",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "NAŞI",
+                "explanation": "sif. [ər.] 1. nabələd",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "RANQ",
+                "explanation": "is. [fr.] fərqlənmə dərəcəsi; kateqoriya",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "RİNQ",
+                "explanation": "idm. [ing.] ətrafı kanatla tutulmuşboks yarışı meydançası",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "ŞANA",
+                "explanation": "is. otu",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "ŞANI",
+                "explanation": "is. çox şirin",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "ANAŞA",
+                "explanation": "is. dan. xaşxaşdan hasil olan çoxzəhərli narkotik maddə",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "ANQAR",
+                "explanation": "[fr.] təyyarələrin saxlanması vəcari təmiri üçün xüsusi tikili. ***lar istifadəsinəgörə daimi",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "ARŞIN",
+                "explanation": "is. metrik ölçü sistemi qəbul olunanadək işlədilən uzunluq ölçüsü (0",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "AŞİNA",
+                "explanation": "is. və sif. [fars.] klas. 1. məlumatlı",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "QANIQ",
+                "explanation": "sif. 1. qana yerikləyən",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "QARIN",
+                "explanation": "is. 1. insan və heyvan bədənininqara ciyər",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "QINAQ",
+                "explanation": "is. qınama",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "QIRNA",
+                "explanation": "is. kran. hamamın qabağına ***dansu axır. c.məmmədquluzadə",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "NAQAN",
+                "explanation": "[xüs. is.-dən] hərlənən topu(barabanı) olan tapança növü. [balaqardaş:]güldəstə! bir gözümün içinə dürüst bax! bu***ı görürsənmi? n",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "NAQQA",
+                "explanation": "is. zool. şirin suda yaşayan üstü pulsuz",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "NARIN",
+                "explanation": "sif. 1. son dərəcə xırda",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "NAŞİR",
+                "explanation": "is. [ər.] kitab və s. nəşr edənadam. qəzetin ***i məmmədağa şaxtaxtlımaarifpərvər",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "NİNNİ",
+                "explanation": "is. layla",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "NİŞAN",
+                "explanation": "is. [fars.] 1. əsər",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "ŞİRİN",
+                "explanation": "sif. [fars.] 1. ağızda şəkər",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "ŞİRNİ",
+                "explanation": "is. qənd",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "QARNAQ",
+                "explanation": "is. məh. qar duran yer",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6
+            },
+            {
+                "word": "QARNİR",
+                "explanation": "is. [fr.] ət və balıq yeməklərininyanında verilən bişmiş xəmir",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6
+            },
+            {
+                "word": "NAQQAŞ",
+                "explanation": "is. [ər. nəqqaş] 1. evlərin divarlarına",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6
+            },
+            {
+                "word": "ŞANŞAN",
+                "explanation": "sif. şanlar şəklində",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6
+            },
+            {
+                "word": "ŞARNİR",
+                "explanation": "is. [alm.] mexanizmin hərəkətinitəmin edən hissələrinin mühərrik birləşməsi",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6
+            },
+            {
+                "word": "ŞAŞQIN",
+                "explanation": "sif. 1. nə edəcəyini bilməyəcəkdərəcədə fikirli",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6
+            },
+            {
+                "word": "ŞIRNAQ",
+                "explanation": "is. nazik su axını; fəvvarə. quyunusu şırnağı ilə yumaq. – on-on beş metruzunluğunda güclü su şırnağı … dağı ovubdağıdırdı",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6
+            },
+            {
+                "word": "ŞIRRAN",
+                "explanation": "is. şəlalə. xatun … vedrəni götürüb",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6
+            },
+            {
+                "word": "QAQQANA",
+                "explanation": "is. qaqqıltı. pilləkəni titrətdi muştuluqçu qonşu qızın ***sı. r.rza. □ ***q çalmaq – 1) qaqqıldamaq",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7
+            },
+            {
+                "word": "QARARAN",
+                "explanation": "is. bot. qış otlaqlarında bitənçoxillik yem bitkisi",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7
+            },
+            {
+                "word": "QARAŞIN",
+                "explanation": "sif. qarayağız",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7
+            },
+            {
+                "word": "QAQQANAQ",
+                "explanation": "is. qaqqıltı. pilləkəni titrətdi muştuluqçu qonşu qızın qaqqanası. r.rza. □ *** çalmaq – 1) qaqqıldamaq",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8
+            },
+            {
+                "word": "ŞANAŞANA",
+                "explanation": "sif. göz-göz",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8
+            },
+            {
+                "word": "QARAQINIQ",
+                "explanation": "is. bot. xırda çiçəkli çoxillikbir bitki",
+                "isPanagram": false,
+                "score": 9,
+                "length": 9
+            },
+            {
+                "word": "QARANİŞAN",
+                "explanation": "is. dan. nişanlısı olan cavan",
+                "isPanagram": false,
+                "score": 9,
+                "length": 9
+            },
+            {
+                "word": "QANIŞİRİN",
+                "explanation": "sif. adamların rəğbətini özünəcəlb edən",
+                "isPanagram": true,
+                "score": 17,
+                "length": 9
+            },
+            {
+                "word": "ŞİŞQARIN",
+                "explanation": "sif. qarnı şiş",
+                "isPanagram": true,
+                "score": 17,
+                "length": 8
+            }
+        ]
+    }
+}

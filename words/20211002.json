@@ -1,0 +1,149 @@
+{
+    "gameData": {
+        "day": "20211002",
+        "expiration": "1633211940",
+        "centerLetter": "Y",
+        "validLetters": [
+            "A",
+            "K",
+            "N",
+            "Y",
+            "P",
+            "M",
+            "İ"
+        ],
+        "words_info": {
+            "word_count": 17,
+            "sum_score": 88,
+            "panagram_count": 1,
+            "word_length": {
+                "5": 9,
+                "4": 4,
+                "9": 1,
+                "6": 2,
+                "10": 1
+            }
+        },
+        "words": [
+            {
+                "word": "AYİN",
+                "explanation": "is. [fars.] 1. qayda",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "AYNA",
+                "explanation": "is. [fars.] 1. güzgü. ***nın çatdığıcalaq qəbul eləməz. (ata. sözü). əgərbilmək istəyirsiniz ki",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "MAYA",
+                "explanation": "is. [fars.] 1. bəzi qidalarda qıcqırma əmələ gətirən maddə. xəmir ***sı. pendir ***sı.□ *** vurmaq – bax ***lamaq 1-ci mənada",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "PAYA",
+                "explanation": "is. bir şeyi saxlamaq üçün tir",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "AYAMA",
+                "explanation": "is. bir adama el tərəfindən verilənləqəb",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "KİMYA",
+                "explanation": "[ər. əsli yun.] 1. maddələrin quruluşunu",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "MAYAK",
+                "explanation": "is. [rus.] gəmilərə yol göstərməküçün siqnal işığı olan hündür qüllə. kəsildisəs",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "MAYYA",
+                "explanation": "is. [sanskr.] qədim və orta əsrhind fəlsəfəsində universal anlayışlardan biri",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "MİYAN",
+                "explanation": "is. [fars.] klas. 1. bel",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "NANAY",
+                "explanation": "is. uzaq şərqdə yaşayan xalq;həmin xalqa mənsub olan adam",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "YAMAN",
+                "explanation": "sif. 1. pis. *** arvadlının evicəhənnəmdir. (ata. sözü). biçarə münəccimbaşı*** (z.) halda idi",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "YAPMA",
+                "explanation": "1. “***q”dan f.is.2. is. arxit. plastik və s. materiallardan düzəldilənbəzək. *** işləri. // sif",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "YAYMA",
+                "explanation": "1. “***q”dan f.is. 2. is. acıtmasız xəmirdən bişirilən nazik çörək. [telli] sobanı qalayıb sac asdı",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "PİNİYA",
+                "explanation": "is. [lat.] iynəyarpaqlı italyan küknarağacı",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6
+            },
+            {
+                "word": "YAMYAM",
+                "explanation": "is. insan əti yeyən vəhşi.// vəhşi",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6
+            },
+            {
+                "word": "YAMANYAMAN",
+                "explanation": "1. sif. böhtançı",
+                "isPanagram": false,
+                "score": 10,
+                "length": 10
+            },
+            {
+                "word": "KAMPANİYA",
+                "explanation": "[ital.] 1. ümumiyyətlə",
+                "isPanagram": true,
+                "score": 17,
+                "length": 9
+            }
+        ]
+    }
+}

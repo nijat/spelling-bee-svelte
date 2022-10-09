@@ -1,0 +1,198 @@
+{
+    "gameData": {
+        "day": "20211011",
+        "expiration": "1633989540",
+        "centerLetter": "D",
+        "validLetters": [
+            "E",
+            "K",
+            "Y",
+            "D",
+            "Ş",
+            "Ə",
+            "İ"
+        ],
+        "words_info": {
+            "word_count": 24,
+            "sum_score": 116,
+            "panagram_count": 1,
+            "word_length": {
+                "5": 9,
+                "10": 2,
+                "4": 8,
+                "7": 3,
+                "6": 2
+            }
+        },
+        "words": [
+            {
+                "word": "DƏDƏ",
+                "explanation": "is. 1. ata. *** görməyib",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "DƏYƏ",
+                "explanation": "is. qarğıdan və s.-dən düzəldilmişkomacıq; alaçıq",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "DİDƏ",
+                "explanation": "is. [fars.] klas. göz. gər inanmazsan ki",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "DİŞƏ",
+                "explanation": "is. bot. çöldə bitən və heyvan yemikimi istifadə olunan dənli ot növü. yazındumanlı günlərində yerdən göyərən ***otları yeyən at hörükdə idi",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "DİŞİ",
+                "explanation": "sif. və is. 1. canlıların doğan və yumurtlayancinsi (erkək ziddi). *** buzov.madyan atların ***sinə deyilir",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "DİYƏ",
+                "explanation": "is. [ər.] köhn. keçmiş zamanda: öldürülmüşadam və ya heyvan əvəzinə öldürəninverməli olduğu mal və ya pul; qanbahası",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "EDİŞ",
+                "explanation": "is. etmək işi",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "ƏDƏD",
+                "explanation": "is. [ər.] 1. say",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "DEŞİK",
+                "explanation": "is. 1. dəlik",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "DEYİŞ",
+                "explanation": "is. söz döyüşdürmə",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "DƏKKƏ",
+                "explanation": "is. məh. iri heyvanların (inək",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "DİDİK",
+                "explanation": "sif. didilmiş halda olan. *** yun.*** ət. *** gündə",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "ƏDƏDİ",
+                "explanation": "sif. [ər.] riyaz. ədədlərlə ifadəolunan. *** kəmiyyət. ədəbi nisbət. –diferensial tənlikləri təqribi həll etmək üçünmüxtəlif qrafik və *** meto",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "ƏŞƏDD",
+                "explanation": "sif. [ər.] şiddətli",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "ŞƏDDƏ",
+                "explanation": "is. [ər.] 1. bax təşdid.2. sapa düzülmüş mirvari",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "ŞƏDİD",
+                "explanation": "sif. [ər.] klas. şiddətli",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "YEDƏK",
+                "explanation": "is. 1. heyvanı çəkib arxasıncaaparmaq üçün boynuna və ya boyunduruğunabağlanan ip. inəyi yedəyindən tutub çəkmək",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "DİŞDİŞ",
+                "explanation": "sif. dişlər halında olan; üzərindədişlər",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6
+            },
+            {
+                "word": "DİŞDƏK",
+                "explanation": "is. məh. həsir toxunmasında işlədiləndişli ağac alət",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6
+            },
+            {
+                "word": "DƏYİŞƏK",
+                "explanation": "is. alt paltar",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7
+            },
+            {
+                "word": "DƏYİŞİK",
+                "explanation": "is. 1. bax dəyişək. 2. dəyişilmiş",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7
+            },
+            {
+                "word": "DEŞİKDEŞİK",
+                "explanation": "sif. çox deşiyi olan. *** divar. deşik-deşik kağız. □ deşik-deşik eləmək – çoxlu deşik açmaq",
+                "isPanagram": false,
+                "score": 10,
+                "length": 10
+            },
+            {
+                "word": "DİDİKDİDİK",
+                "explanation": "sif. çox didilmiş",
+                "isPanagram": false,
+                "score": 10,
+                "length": 10
+            },
+            {
+                "word": "YEKƏDİŞ",
+                "explanation": "sif. dişləri çox iri olan",
+                "isPanagram": true,
+                "score": 17,
+                "length": 7
+            }
+        ]
+    }
+}

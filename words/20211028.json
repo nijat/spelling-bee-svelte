@@ -1,0 +1,141 @@
+{
+    "gameData": {
+        "day": "20211028",
+        "expiration": "1635458340",
+        "centerLetter": "Z",
+        "validLetters": [
+            "A",
+            "R",
+            "O",
+            "Z",
+            "N",
+            "D",
+            "İ"
+        ],
+        "words_info": {
+            "word_count": 16,
+            "sum_score": 46,
+            "panagram_count": 1,
+            "word_length": {
+                "6": 2,
+                "4": 12,
+                "5": 1,
+                "9": 1
+            }
+        },
+        "words": [
+            {
+                "word": "ARİZ",
+                "explanation": "[ər.] köhn. 1. zühur edən",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "AZAD",
+                "explanation": "sif. [fars.] 1. ***lıqdan istifadəedən",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "AZAN",
+                "explanation": "is. [ər.] müsəlmanları namazaçağırmaq üçün ***çının səhər",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "AZAR",
+                "explanation": "is. [fars.] 1. xəstəlik",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "NİZA",
+                "explanation": "is. [ər.] köhn. çəkişmə",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "OZAN",
+                "explanation": "is. 1. qəd. el şairi",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "RİZA",
+                "explanation": "is. [ər.] razılıq. soralım hər zaman ***lərini; alalım xeyirli düalərini. m.ə.sabir. üzərimdə olan ləkələri bir qadının riyasını əldə etməklə yox",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "ZAİD",
+                "explanation": "is. [ər.] köhn. 1. artan",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "ZİDD",
+                "explanation": "[ər.] sif. tamamilə başqasına əks olan",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "ZİNA",
+                "explanation": "is. [ər.] köhn. qeyri-qanuni cinsiəlaqə. □ *** etmək (eləmək) – qeyriqanunicinsi əlaqədə olmaq. …bu rəvayət birkişi ilə bir arvadın *** eləməyi b",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "ZİRA",
+                "explanation": "bağl. [ər.] çünki",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "ZOND",
+                "explanation": "[fr.] 1. orqanların",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "NAZİR",
+                "explanation": "is. [ər.] 1. ***liyə (1-ci mənada)başçılıq edən hökumət üzvü. maliyyə ***i.maarif ***i. – *** onları öz kabinəsindəqəbul etdi",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "ARİOZO",
+                "explanation": "[ital.] mus. həcmi etibarı iləariyadan kiçik",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6
+            },
+            {
+                "word": "ZİNDAN",
+                "explanation": "is. [fars.] 1. keçmiş zamanlarda:qaranlıq və müdhiş dustaqxana (adətən yerinaltında olardı). ***a atmaq",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6
+            },
+            {
+                "word": "RADİOZOND",
+                "explanation": "[lat. radiare və fr. sonde]müxtəlif yüksəkliklərdə havanın təzyiqini",
+                "isPanagram": true,
+                "score": 17,
+                "length": 9
+            }
+        ]
+    }
+}

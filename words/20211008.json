@@ -1,0 +1,177 @@
+{
+    "gameData": {
+        "day": "20211008",
+        "expiration": "1633730340",
+        "centerLetter": "N",
+        "validLetters": [
+            "R",
+            "T",
+            "V",
+            "N",
+            "Ö",
+            "S",
+            "Ə"
+        ],
+        "words_info": {
+            "word_count": 21,
+            "sum_score": 79,
+            "panagram_count": 1,
+            "word_length": {
+                "5": 6,
+                "4": 11,
+                "8": 2,
+                "6": 1,
+                "7": 1
+            }
+        },
+        "words": [
+            {
+                "word": "ƏNÖV",
+                "explanation": "is. dalağın ağrılı şişməsi. ***basmaq. *** tutmaq (dalaq şişmə azarınatutulmaq). isitmədən dalağı şişib",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "ƏRƏN",
+                "explanation": "is. (adətən cəm şəklində). 1. ər",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "ƏSƏN",
+                "explanation": "sif. qəd. sağ",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "NƏNƏ",
+                "explanation": "is. 1. atanın",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "NƏRƏ",
+                "explanation": "is. məh. evlərin üstünə qoyulan tir.su gəldi",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "NƏSR",
+                "explanation": "is. [ər.] roman",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "NƏVƏ",
+                "explanation": "is. oğlun və ya qızın uşağı. dövlətdə– dəvə",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "ÖRƏN",
+                "explanation": "is. əkilməmiş sahə",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "ÖTƏN",
+                "explanation": "sif. 1. keçən",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "SƏNƏ",
+                "explanation": "is. [ər.] il. bir gecəlik mətləbin bir*** mabədi var. m.ə.sabir. millətin beş*** bundan əqdəm; yüz nəfərdən biri tutmazdıqələm",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "TƏNƏ",
+                "explanation": "[ər.] 1. is. danlaq",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "ƏNƏNƏ",
+                "explanation": "is. [ər.] tarixən meydana gələrəknəsildən-nəslə keçən adətlər",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "ƏNTƏR",
+                "explanation": "is. 1. bədəninə nisbətən çox uzunqolları olan meymun. gözünün üstündə buxarapapaq; ***ə bənzəyir o kor yapalaq",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "ƏNVƏR",
+                "explanation": "sif. [ər.] klas. çox nurlu",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "ƏTƏNƏ",
+                "explanation": "is. məməlilərdə: ana bətnindəbalanı bürüyən və bala onun içindən çıxdıqdansonra cırılıb düşən ət pərdəsi; son",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "SƏNƏT",
+                "explanation": "is. [ər.] 1. müəyyən hazırlıq tələbedən və sahibinin yaşaması üçün əsas mənbəsayılan əmək fəaliyyətinin bir növü; peşə",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "VƏTƏN",
+                "explanation": "is. [ər.] 1. bir adamın doğulubböyüdüyü və ***daşı olduğu ölkə",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "NÖVRƏS",
+                "explanation": "sif. [fars.] 1. yeni yetişmiş",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6
+            },
+            {
+                "word": "TƏNTƏNƏ",
+                "explanation": "is. [ər.] 1. təmtəraq",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7
+            },
+            {
+                "word": "NƏSTƏRƏN",
+                "explanation": "is. [fars.] ağ çiçəkli yabanıgül. çıxarıb baş bənövşələr yerdən; açılırbağda ***",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8
+            },
+            {
+                "word": "NÖVRƏSTƏ",
+                "explanation": "sif. [fars.] həddi-büluğa yetmiş",
+                "isPanagram": true,
+                "score": 17,
+                "length": 8
+            }
+        ]
+    }
+}

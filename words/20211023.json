@@ -1,0 +1,360 @@
+{
+    "gameData": {
+        "day": "20211023",
+        "expiration": "1635026340",
+        "centerLetter": "K",
+        "validLetters": [
+            "A",
+            "R",
+            "H",
+            "K",
+            "M",
+            "Ə",
+            "İ"
+        ],
+        "words_info": {
+            "word_count": 47,
+            "sum_score": 209,
+            "panagram_count": 1,
+            "word_length": {
+                "9": 1,
+                "5": 19,
+                "4": 14,
+                "6": 9,
+                "7": 3,
+                "8": 1
+            }
+        },
+        "words": [
+            {
+                "word": "ƏKMƏ",
+                "explanation": "1. “***k1”dən f.is. şitil ***.2. sif. əkilmiş",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "ƏMƏK",
+                "explanation": "is. insanın əqli və cismani gərginliktələb edən məqsədəuyğun və ictimaicəhətdən faydalı fəaliyyəti; zəhmət",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "ƏMİK",
+                "explanation": "sif. çox əmilməkdən xarab olmuş",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "ƏRİK",
+                "explanation": "is. 1. sarı",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "ƏRKƏ",
+                "explanation": "is. uşaq",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "HƏKK",
+                "explanation": "is. [ər.] hər hansı bir material(metal",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "KAHA",
+                "explanation": "is. məh. qayalıqda",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "KƏKƏ",
+                "explanation": "sif. danışarkən ***ləyən; kəkov.*** uşaq. anadan *** (z.) doğulmaq",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "KƏRƏ",
+                "explanation": "zərf [ər.] dəfə. iki *** iki elər dörd. adama neçə *** deyərlər. iki *** getmək. bir *** görmək. – adam adamı bir *** aldadar",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "KİMİ",
+                "explanation": "əvəz. bəzisi",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "KİRƏ",
+                "explanation": "is. [fars.] 1. bir şeyin müəyyən haqq müqabilində müvəqqəti olaraq sahibi tərəfindən başqasına istifadəyə verilməsi; kirayə",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "MAKİ",
+                "explanation": "is. [fr.] 1. meşənin sıx yeri.2. ikinci dünya müharibəsi zamanı fransızpartizan dəstəsinin adı",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "MƏKƏ",
+                "explanation": "is. qarğıdalı",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "MƏKR",
+                "explanation": "is. [ər.] hiylə",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "ƏHKAM",
+                "explanation": "is. [ər. “hökm” söz. cəmi]. 1. hər hansı bir dini təlimin",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "ƏKMƏK",
+                "explanation": "is. çörək. [üçüncü satıcı:] qızarmıştazə ***",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "ƏKRƏM",
+                "explanation": "sif. [ər.] klas. kəramətli",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "HAKİM",
+                "explanation": "is. [ər.] 1. hüq. məhkəmə orqanlarındabaxılan iş haqqında hökm və ya qərarçıxaran vəzifəli şəxs. xalq ***i",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "HƏKƏM",
+                "explanation": "is. [ər.] köhn. iki tərəf arasındaolan mübahisəni həll etmək üçün seçilənadam; münsif",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "HƏKİM",
+                "explanation": "is. [ər.] 1. ali tibb təhsili olanadam; təbib",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "HİKKƏ",
+                "explanation": "is. 1. təşəxxüs",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "KƏHƏR",
+                "explanation": "sif. açıq-şabalıdı rəng (at haqqında).qurbanəli bəyin nökəri bir *** atınçilovundan yapışıb bir az kənarda dolandırırdı",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "KƏKRƏ",
+                "explanation": "is. bot. əsasən dəvələrin yediyi yabanı acı ot bitkisi",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "KƏMƏR",
+                "explanation": "is. [fars.] 1. bax qayış 1-cimənada. ***i qırılmaq. təzə *** almaq.belinə *** bağlamaq. // paltar",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "KƏRƏM",
+                "explanation": "is. [ər.] köhn. lütf",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "KƏRİM",
+                "explanation": "sif. [ər.] kərəm və səxavət sahibi",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "KƏRKƏ",
+                "explanation": "is. zool. şirin sularda yaşayan",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "KƏRKİ",
+                "explanation": "is. aşağı çevrilmiş enli tiyəsi olanuzunsaplı",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "KƏRRƏ",
+                "explanation": "[ər.] bax kərə3. bir *** düşəndəxəbər al badi-səbadan; saçın həvəsigör ki",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "KİRKİ",
+                "explanation": "1 is. xüs. xalça toxunarkən ilməklərini sıxlaşdırmaq üçün işlədilən alət; daraq",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "MƏHƏK",
+                "explanation": "is. [ər.] qızıl və gümüşün əyarını təyin edən bir cins daş. □ *** daşı – 1) ***; 2) məc. bir şeyin keyfiyyəti",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "MƏKİK",
+                "explanation": "is. 1. tikiş maşınında: altdakı sapınçıxması üçün kəsici alət",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "MƏRƏK",
+                "explanation": "is. 1. saman",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "ƏRƏMİK",
+                "explanation": "sif. 1. doğmayan",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6
+            },
+            {
+                "word": "HƏKKAK",
+                "explanation": "is. [ər.] metal",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6
+            },
+            {
+                "word": "HƏMKAR",
+                "explanation": "is. [fars.] biri ilə bir yerdə",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6
+            },
+            {
+                "word": "HƏRƏKƏ",
+                "explanation": "is. [ər.] dilç. ərəb əlifbasındasaitləri necə oxumaq lazım gəldiyini göstərməküçün hərflərin üstünə və ya altınaqoyulan diakritik işarə",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6
+            },
+            {
+                "word": "KARAİM",
+                "explanation": "is. krımda və litvada",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6
+            },
+            {
+                "word": "KƏRƏMİ",
+                "explanation": "is. mus. azərbaycan aşıq havalarındanbirinin adı. balabançı genə durubgəlir aşıq cəfərin yanına",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6
+            },
+            {
+                "word": "MAKAKA",
+                "explanation": "is. [port.] əntərlər yarımfəsiləsindənolan meymun",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6
+            },
+            {
+                "word": "MƏKƏRƏ",
+                "explanation": "is. [rus. “yarmarka”dan] 1917-ciil inqilabından əvvəl azərbaycanlılar nijninovqorodşəhərində hər il keçirilən yarmarkanıbu cür adlandırardılar",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6
+            },
+            {
+                "word": "MƏRƏKƏ",
+                "explanation": "is. [ər.] 1. səs-küy",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6
+            },
+            {
+                "word": "KİRKİRƏ",
+                "explanation": "is. əldəyirmanı. □ ***kimi – dəyirman kimi. şahpərinin çənəsi*** kimi üyüdür",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7
+            },
+            {
+                "word": "MƏHKƏMƏ",
+                "explanation": "is. [ər.] 1. cinayət işlərinəvə mülki mübahisələrə baxan ədliyyə orqanı.xalq ***si. ali ***",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7
+            },
+            {
+                "word": "RƏHMKAR",
+                "explanation": "sif. [ər. rəhm və fars. …kar]rəhmli. [şah abbas] çox *** şahdır.“qurbani”",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7
+            },
+            {
+                "word": "MƏRMƏRİK",
+                "explanation": "is. bot. yabanı gilənar.[məhərrəm əmi:] qoşuldu bəzi avaralara",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8
+            },
+            {
+                "word": "ARAHƏKİMİ",
+                "explanation": "is. heç bir təhsili olmayanvə qeyri-elmi üsullarla müalicə edən adam;türkəçarəçi",
+                "isPanagram": true,
+                "score": 17,
+                "length": 9
+            }
+        ]
+    }
+}

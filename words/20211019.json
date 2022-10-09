@@ -1,0 +1,151 @@
+{
+    "gameData": {
+        "day": "20211019",
+        "expiration": "1634680740",
+        "centerLetter": "Y",
+        "validLetters": [
+            "A",
+            "K",
+            "L",
+            "Y",
+            "P",
+            "S",
+            "İ"
+        ],
+        "words_info": {
+            "word_count": 17,
+            "sum_score": 96,
+            "panagram_count": 1,
+            "word_length": {
+                "7": 1,
+                "6": 3,
+                "4": 4,
+                "10": 1,
+                "8": 2,
+                "5": 5,
+                "9": 1
+            }
+        },
+        "words": [
+            {
+                "word": "ALAY",
+                "explanation": "is. 1. camaat",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "PAYA",
+                "explanation": "is. bir şeyi saxlamaq üçün tir",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "SAYA",
+                "explanation": "sif. 1. bir rəngdə olan",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "YASA",
+                "explanation": "is. [türkcə] qanun. ana *** (konstitusiya)",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "LAYKA",
+                "explanation": "is. [rus.] incə və yumşaq dəri vəhəmin dəridən tikilmiş paltar (palto",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "LAYLA",
+                "explanation": "is. 1. körpə uşaqları yatırtmaq üçün hava ilə oxunan həzin şeir parçası; nənni",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "PİYLİ",
+                "explanation": "sif. 1. kök",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "SİYAL",
+                "explanation": "is. məh. üzümdə gülləmə xəstəliyi",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "YAYLA",
+                "explanation": "is. 1. ***q. [molla həmid:]allaha şükür",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "AKSİYA",
+                "explanation": "[fr.] iq. səhm (aksioner şirkətinüzvlərinə verilən qiymətli kağız). ***larınbirjada ucuzlaşdığını aslan bəy öyrənmişdi",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6
+            },
+            {
+                "word": "LAYLAY",
+                "explanation": "is. 1. körpə uşaqları yatırtmaq üçün hava ilə oxunan həzin şeir parçası; nənni",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6
+            },
+            {
+                "word": "SİYASİ",
+                "explanation": "sif. [ər.] 1. siyasətlə bağlı",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6
+            },
+            {
+                "word": "AKASİYA",
+                "explanation": "is. [yun.] bot. paxlalılar fəsiləsindənağac və ya kol cinsi. ağ ***.sarı ***. – *** 5-6 m hündürlüyündəağac olub xırda lələkli yarpaqla",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7
+            },
+            {
+                "word": "KASASİYA",
+                "explanation": "is. [lat.] hüq. qanuni qüvvəyəminməmiş məhkəmə qərar və hökmlərindənşikayət. // yuxarı məhkəmə orqanlarıtərəfindən bu şikayətə baxılması",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8
+            },
+            {
+                "word": "PİYLİLİK",
+                "explanation": "is. 1. köklük",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8
+            },
+            {
+                "word": "PALPASİYA",
+                "explanation": "is. [lat.] tib. xəstəni müayinəetmək üsulu",
+                "isPanagram": false,
+                "score": 9,
+                "length": 9
+            },
+            {
+                "word": "APLİKASİYA",
+                "explanation": "is. [lat.] qurama",
+                "isPanagram": true,
+                "score": 17,
+                "length": 10
+            }
+        ]
+    }
+}

@@ -1,0 +1,360 @@
+{
+    "gameData": {
+        "day": "20211001",
+        "expiration": "1633125540",
+        "centerLetter": "B",
+        "validLetters": [
+            "A",
+            "Q",
+            "L",
+            "B",
+            "Y",
+            "I",
+            "Ğ"
+        ],
+        "words_info": {
+            "word_count": 47,
+            "sum_score": 276,
+            "panagram_count": 1,
+            "word_length": {
+                "5": 10,
+                "7": 12,
+                "8": 6,
+                "6": 7,
+                "9": 4,
+                "4": 8
+            }
+        },
+        "words": [
+            {
+                "word": "AYIB",
+                "explanation": "is. [ər. eyb] 1. utanılacaq şey",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "BABA",
+                "explanation": "is. 1. atanın",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "BABI",
+                "explanation": "is. [xüs. is.-dən] 1. xıx əsrin ortasında iranda “bab” təxəllüslü mirzə əli məhəmməd tərəfindən təsis edilmiş dini təriqətə mənsub olan adam",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "BAĞA",
+                "explanation": "is. məh. atların buxovluğundaəmələ gələn xəstəlik (yara)",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "BALA",
+                "explanation": "1. is. övlad",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "QABA",
+                "explanation": "sif. 1. kobud",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "YABA",
+                "explanation": "is. ot",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "YABI",
+                "explanation": "is. 1. arıq",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "ABALI",
+                "explanation": "is. köhn. aba geymiş",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "BABAY",
+                "explanation": "is. uşaq dilində: qoca",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "BAĞLI",
+                "explanation": "sif. 1. ip",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "BALAQ",
+                "explanation": "is. camış balası",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "BALBA",
+                "explanation": "is. məh. cincilim",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "BALIQ",
+                "explanation": "is. məh. oturaq kənd",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "BALLI",
+                "explanation": "sif. 1. bal qatılmış. *** konfet.2. məc. bal kimi şirin. bir alagözlünüsevibdi könül; dəhani püstədir",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "BIĞLI",
+                "explanation": "sif. bığları olan. *** kişi",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "QABAQ",
+                "explanation": "is. 1. bot. qarpız",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "QABIQ",
+                "explanation": "is. 1. bir şeyin üstünü örtən sərt örtü. ağacın qabığı. yumurtanın qabığı. qoz qabığı. – mağaranın içi yumşaq ağac ***ları ilə döşənmişdi",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "ALBALI",
+                "explanation": "is. tündqırmızı rəngli",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6
+            },
+            {
+                "word": "AYIBLI",
+                "explanation": "sif. aybı olan",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6
+            },
+            {
+                "word": "BAQQAL",
+                "explanation": "is. [ər.] köhn. keçmişdə ərzaqmalları satan dükançı. *** ölənin borcunudirilərə yüklər. (ata. sözü)",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6
+            },
+            {
+                "word": "BALALI",
+                "explanation": "sif. yanında balası olan. ***inək. *** qoyun. *** camış",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6
+            },
+            {
+                "word": "BAYAĞI",
+                "explanation": "sif. 1. ən adi",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6
+            },
+            {
+                "word": "YABALI",
+                "explanation": "sif. yabası olan",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6
+            },
+            {
+                "word": "YAĞBAL",
+                "explanation": "is. 1. yağ və bal.2. məc. çox dadlı",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6
+            },
+            {
+                "word": "AĞBALIQ",
+                "explanation": "is. zool. nərə balığı sinfindənolan çox iri balıq. azərbaycan balıqçılarıxəzər sularından qızılbalıq",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7
+            },
+            {
+                "word": "AYBALIQ",
+                "explanation": "is. zool. tropik dənizlərdəyaşayan girdəsifət balıq. ay-balıq ən çoxkürü tökən balıqdır",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7
+            },
+            {
+                "word": "BABALIQ",
+                "explanation": "is. 1. ögey baba.2. babanın nəvələri üzərindəki haqqı.// baba ilə nəvəsi arasındakı qan qohumluğu",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7
+            },
+            {
+                "word": "BABILIQ",
+                "explanation": "is. [xüs. is.-dən] 1. babi məzhəbi; xıx əsrin ortalarında iranda “bab” təxəllüslü mirzə əli məhəmməd adlı bir şəxs tərəfindən təsis edilmiş dini təriq",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7
+            },
+            {
+                "word": "BAĞALIQ",
+                "explanation": "is. məh. atın dırnaqlarının üst(tük qurtaran) tərəfi",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7
+            },
+            {
+                "word": "BALALIQ",
+                "explanation": "is. anat. heyvanlarda rüşeymininkişaf etdiyi daxili üzv",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7
+            },
+            {
+                "word": "BALIQLI",
+                "explanation": "sif. 1. içərisində balıq olan.*** göl. *** çay. *** sular.2. balıqdan hazırlanmış (yemək)",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7
+            },
+            {
+                "word": "BIĞYAĞI",
+                "explanation": "is. dan. 1. keçmişdə bığı yağlamaqüçün xüsusi yağlı maddə.2. dan. zar. cüzi rüşvət. *** vermək",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7
+            },
+            {
+                "word": "QABALIQ",
+                "explanation": "is. 1. incəlikdən",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7
+            },
+            {
+                "word": "QABIQLI",
+                "explanation": "sif. qabıqla örtülü olan",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7
+            },
+            {
+                "word": "YABALIQ",
+                "explanation": "is. yabanın götürə bildiyi miqdar(adətən rəqəmlərlə). iki *** ot",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7
+            },
+            {
+                "word": "YABILIQ",
+                "explanation": "is. yabı halına düşmüş atın halı",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7
+            },
+            {
+                "word": "ALABALIQ",
+                "explanation": "is. zool. bax qızılxallı",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8
+            },
+            {
+                "word": "AYAQQABI",
+                "explanation": "is. ayağa geyilən şey. dəri***. rezin ***. *** mağazası.*** fabriki",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8
+            },
+            {
+                "word": "BAĞLILIQ",
+                "explanation": "is. 1. bağlı şeyin halı.2. məc. asılılıq",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8
+            },
+            {
+                "word": "BALQABAQ",
+                "explanation": "is. 1. uzunsov",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8
+            },
+            {
+                "word": "QABAQLIQ",
+                "explanation": "is. qabaq əkilmiş yer",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8
+            },
+            {
+                "word": "LAYBALAY",
+                "explanation": "sif. və zərf hər iki tayı",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8
+            },
+            {
+                "word": "ALBALILIQ",
+                "explanation": "is. albalı bağı; albalı ağaclarıəkilmiş yer",
+                "isPanagram": false,
+                "score": 9,
+                "length": 9
+            },
+            {
+                "word": "BAQQALLIQ",
+                "explanation": "is. köhn. baqqal sənəti.*** etmək",
+                "isPanagram": false,
+                "score": 9,
+                "length": 9
+            },
+            {
+                "word": "BALQABAĞI",
+                "explanation": "sif. balqabaq kimi",
+                "isPanagram": false,
+                "score": 9,
+                "length": 9
+            },
+            {
+                "word": "BAYAĞILIQ",
+                "explanation": "is. bayağı şeyin halı. fikrin",
+                "isPanagram": true,
+                "score": 17,
+                "length": 9
+            }
+        ]
+    }
+}

@@ -1,0 +1,473 @@
+{
+    "gameData": {
+        "day": "20211020",
+        "expiration": "1634767140",
+        "centerLetter": "Q",
+        "validLetters": [
+            "A",
+            "R",
+            "T",
+            "Q",
+            "B",
+            "I",
+            "C"
+        ],
+        "words_info": {
+            "word_count": 63,
+            "sum_score": 336,
+            "panagram_count": 1,
+            "word_length": {
+                "4": 14,
+                "9": 4,
+                "7": 11,
+                "5": 21,
+                "6": 8,
+                "10": 4,
+                "8": 1
+            }
+        },
+        "words": [
+            {
+                "word": "ACIQ",
+                "explanation": "is. hirs",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "ARAQ",
+                "explanation": "is. [ər.] 1. meyvədən və s.-dənçəkilən spirtli içki. tut arağı. zoğal arağı.*** çəkmək. – ərəqlə badədir ol iki cövhər;ki",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "ARIQ",
+                "explanation": "sif. cılız",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "ATQI",
+                "explanation": "is. 1. bir şeyin üzərindən atılan tir və s. 2. toxuculuqda: ərişin üstünə gələn və məkiklə atılan arğac ipi",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "CIQQ",
+                "explanation": "is. güllə səsi. hər yaraqlanıb döyüşəçıxan",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "QABA",
+                "explanation": "sif. 1. kobud",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "QACA",
+                "explanation": "sif. çox işlənmək nəticəsində çalaçuxurbir hala düşmüş. *** yol",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "QARA",
+                "explanation": "is. yer kürəsinin torpaqla örtülühissəsi; torpaq (su qarşılığı). ***da və suda.*** qüvvələri",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "QARI",
+                "explanation": "is. 1. qoca qadın",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "QART",
+                "explanation": "is. dan. kəsər alətləri itiləmək üçün daş; bülöv. dəryazları *** ilə itiləmək. *** daşı. mən də *** daşlara verdiyim bu hiss; bu incə mənadan necə",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "QATI",
+                "explanation": "sif. 1. sıyıq",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "QIRA",
+                "explanation": "is. məh. təndirdən çörəyi qoparmaqüçün qarmaqlı alət. // qarmaq. …küçədə***dan tutub dartanda məftilin vasitəsilə zəngiçəridə tərpənir",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "QIRT",
+                "explanation": "is. cücə çıxarmaq üçün yumurtaüstündə yatan toyuq. □ *** basdırmaq –*** düşmüş toyuğun altına yumurta qoymaq",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "RAQA",
+                "explanation": "is. [sanskr.] mus. qədim hind klassikmusiqisi növlərindən biri",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "AQRAR",
+                "explanation": "sif. [lat.] 1. torpağa aid olan. ***məsələ. *** islahatı.2. kənd təsərrüfatının sənayedən yüksəkolması ilə səciyyələnən",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "ARTIQ",
+                "explanation": "zərf və sif. 1. çox",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "BACAQ",
+                "explanation": "is. qıç. heyvancıqlar … ***larınıbükərək",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "BATAQ",
+                "explanation": "is. 1. lığ",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "BATIQ",
+                "explanation": "sif. 1. çuxura düşmüş",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "BATQI",
+                "explanation": "is. 1. zəlzələ nəticəsində yerdəvə dağlarda əmələ gələn batıqlıq",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "CIQQA",
+                "explanation": "is. [fars.] 1. başın ön və yan tərəfinətökülən tellər. siyah zülfü dal gərdəndəbir qulac! sona ***sıtək ucları qıyğac",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "CIRIQ",
+                "explanation": "sif. 1. bir və ya çox yerdən cırılmış",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "QABAQ",
+                "explanation": "is. 1. bot. qarpız",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "QABAR",
+                "explanation": "is. 1. bədəndə dərinin altında əmələ gələn sulu ***cıq; suluq. □ *** olmaq – bax ***lamaq 1-ci mənada",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "QABIQ",
+                "explanation": "is. 1. bir şeyin üstünü örtən sərt örtü. ağacın qabığı. yumurtanın qabığı. qoz qabığı. – mağaranın içi yumşaq ağac ***ları ilə döşənmişdi",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "QARTI",
+                "explanation": "is. yapıncı; keçədən çoban bürüncəyi.dünya malından var: sicim çatısı; patavası",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "QATAR",
+                "explanation": "is. 1. bir-birinin ardınca sıralanmış heyvanlar düzümü; qafilə",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "QATIQ",
+                "explanation": "is. 1. südü bişirib",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "QATIR",
+                "explanation": "is. eşşəklə madyanın cütləşməsindəntörəyən yük heyvanı. kənd təsərrüfatheyvanlarından at",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "QATQI",
+                "explanation": "is. bir şeyə qatılan başqa maddə;aşqar",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "QICIQ",
+                "explanation": "is. 1. xarici mühitin orqanizmə",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "QIRAQ",
+                "explanation": "is. 1. bir şeyin kənarı",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "QIRIQ",
+                "explanation": "sif. 1. qırılmış",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "QIRTI",
+                "explanation": "is. dan. parça",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "TABAQ",
+                "explanation": "is. düyü",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "ARIQCA",
+                "explanation": "sif. çox arıq. *** bir uşaq.// bir qədər arıq",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6
+            },
+            {
+                "word": "BITRAQ",
+                "explanation": "is. bot. çox sıx bitən alaq",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6
+            },
+            {
+                "word": "QARACA",
+                "explanation": "is. k.t. 1. dəni qara toz halınasalan taxıl xəstəliyi.2. taxıl dənləri arasında olan yumru vəxırda zərərli bitki dəni",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6
+            },
+            {
+                "word": "QATARI",
+                "explanation": "sif. və zərf qatarla",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6
+            },
+            {
+                "word": "QIRQIC",
+                "explanation": "is. bax qıc. gözündən qan damırdı",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6
+            },
+            {
+                "word": "QIRICI",
+                "explanation": "sif. 1. qıran",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6
+            },
+            {
+                "word": "QIRTIC",
+                "explanation": "is. bot. taxıl fəsiləsindən yembitkisi",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6
+            },
+            {
+                "word": "TACCIQ",
+                "explanation": "is. bot. gülün",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6
+            },
+            {
+                "word": "ACIQICI",
+                "explanation": "is. bot. vəzəriyə",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7
+            },
+            {
+                "word": "BACARIQ",
+                "explanation": "is. bilik",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7
+            },
+            {
+                "word": "CIBIRIQ",
+                "explanation": "is. qozun üst göy qabığı",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7
+            },
+            {
+                "word": "QABARIQ",
+                "explanation": "sif. 1. qabarmış",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7
+            },
+            {
+                "word": "QABARTI",
+                "explanation": "is. qabarıq",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7
+            },
+            {
+                "word": "QARQARA",
+                "explanation": "is. xüs. ağır şeyləri qaldırmaqüçün yüksəkdə mil üstündə dolanan vəüzərindən ip sallanan çarx. // ümumiyyətlə",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7
+            },
+            {
+                "word": "QATQATI",
+                "explanation": "is. bayt. gövşəyən heyvanlarınqarnı ilə qursağı arasındakı həzm üzvü",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7
+            },
+            {
+                "word": "QICIRTI",
+                "explanation": "is. iki şeyin (və ya dişlərin) birbirinəsürtülməsindən hasil olan səs. dişlərinin***sından yatmaq olmur",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7
+            },
+            {
+                "word": "QIRQIRA",
+                "explanation": "is. məh. qır-qır səs çıxaranuşaq oyuncağı",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7
+            },
+            {
+                "word": "QIRACAQ",
+                "explanation": "is. nallanan atın dırnağını kəsibhamarlamaq üçün alət. nalbənd ***laatın dırnağını kəsdi",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7
+            },
+            {
+                "word": "TARAQQA",
+                "explanation": "is. içi barıtla doldurulmuş kağızdandüzələn partlayıcı fişəng (atəşbazlıqdaəyləncə üçün işlənir)",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7
+            },
+            {
+                "word": "QABARCIQ",
+                "explanation": "is. kiçik qabar",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8
+            },
+            {
+                "word": "ACIQQICIQ",
+                "explanation": "is. dan. birisini acıqlandırmaq",
+                "isPanagram": false,
+                "score": 9,
+                "length": 9
+            },
+            {
+                "word": "BARITQABI",
+                "explanation": "is. barıt saxlamaq üçün qab(qutu",
+                "isPanagram": false,
+                "score": 9,
+                "length": 9
+            },
+            {
+                "word": "QARAQABAQ",
+                "explanation": "sif. üzü gülməyən",
+                "isPanagram": false,
+                "score": 9,
+                "length": 9
+            },
+            {
+                "word": "CIRIQCIRIQ",
+                "explanation": "sif. tamam cırıq",
+                "isPanagram": false,
+                "score": 10,
+                "length": 10
+            },
+            {
+                "word": "QABARQABAR",
+                "explanation": "sif. hər tərəfi qabarlı",
+                "isPanagram": false,
+                "score": 10,
+                "length": 10
+            },
+            {
+                "word": "QIRIQQIRIQ",
+                "explanation": "sif. və zərf tikə-tikə",
+                "isPanagram": false,
+                "score": 10,
+                "length": 10
+            },
+            {
+                "word": "TARAQTARAQ",
+                "explanation": "is. təkrar edən",
+                "isPanagram": false,
+                "score": 10,
+                "length": 10
+            },
+            {
+                "word": "TACBITRAQ",
+                "explanation": "is. bot. kolluq sahələrdə vəmeşənin açıq yerlərində bitən çoxillik otbitkisi",
+                "isPanagram": true,
+                "score": 17,
+                "length": 9
+            }
+        ]
+    }
+}
