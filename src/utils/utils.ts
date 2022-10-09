@@ -1,19 +1,19 @@
 import { get } from 'svelte/store';
 import { toast } from '@zerodevx/svelte-toast';
-import { hashValue } from '$utils/md5';
 
 import gameDataStore from '$utils/store';
 
 const data = get(gameDataStore);
 
 enum ErrorMessages {
-	WORD_EXIST_ALREADY = 'Word is exst',
-	WORD_IS_NOT_CORRECT = 'WORD IS NOT CORRECT',
-	WORD_IS_EMPTY = 'Hərflərdən söz yaratmağa çalışın'
+	WORD_EXIST_ALREADY = 'Bu sözü artıq yazmısınız',
+	WORD_IS_NOT_CORRECT = 'Ən azı 3 hərfli söz yazmağa çalışın',
+	WORD_IS_EMPTY = 'Verilmiş hərflərdən söz yaratmağa çalışın',
+	WORD_IS_NOT_EXIST = 'Belə bir söz bazada mövcüd deyil'
 }
 
 enum SuccessMessages {
-	CORRECT = 'Correct'
+	CORRECT = 'Əla, davam edin'
 }
 
 export function checkAndAddWord() {
@@ -21,12 +21,12 @@ export function checkAndAddWord() {
 	let correctWordList = data.correctWordList;
 	let foundWordList: never[] = data.foundWordList;
 
-	if (!isWordCorrect(currentWord)) {
-		showErrorMessage(ErrorMessages.WORD_IS_NOT_CORRECT);
-		return;
-	}
 	if (isWordEmpty(currentWord)) {
 		showErrorMessage(ErrorMessages.WORD_IS_EMPTY);
+		return;
+	}
+	if (!isWordCorrect(currentWord)) {
+		showErrorMessage(ErrorMessages.WORD_IS_NOT_CORRECT);
 		return;
 	}
 	if (isWordExistAlready(currentWord, foundWordList)) {
@@ -37,7 +37,9 @@ export function checkAndAddWord() {
 		data.foundWordList.push(currentWord);
 		data.currentWord = '';
 		calculateUserPoints(data, currentWord);
-		showSuccessMessage();
+		showSuccessMessage(SuccessMessages.CORRECT);
+	} else {
+		showErrorMessage(ErrorMessages.WORD_IS_NOT_EXIST);
 	}
 	gameDataStore.set(data);
 }
@@ -64,7 +66,7 @@ export function isWordCorrect(currentWord: string) {
 }
 
 export function isWordExist(currentWord: string, correctWordList: string[]) {
-	if (correctWordList.includes(hashValue(currentWord))) {
+	if (correctWordList.includes(currentWord)) {
 		return true;
 	}
 	return false;
@@ -75,9 +77,14 @@ export function showErrorMessage(type: ErrorMessages) {
 	toast.push(type);
 }
 
-export function showSuccessMessage() {
+export function showSuccessMessage(type: SuccessMessages) {
 	toast.pop();
-	toast.push('Hello world!');
+	toast.push(type, {
+		theme: {
+		  '--toastBackground': '#48BB78',
+		  '--toastBarBackground': '#2F855A'
+		}
+	  });
 }
 
 export function calculateUserPoints(data: any, word: string) {

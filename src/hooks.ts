@@ -1,6 +1,5 @@
 import path from 'path';
 import { promises as fs } from 'fs';
-import { createHash } from "crypto";
 
 /** @type {import('@sveltejs/kit').Handle} */
 export async function handle({ event, resolve }) {
@@ -10,17 +9,15 @@ export async function handle({ event, resolve }) {
     const objectData = JSON.parse(fileContents);
 
     objectData.gameData.answers.forEach((element:any, i:number) => {
-      objectData.gameData.answers[i] = createHash('md5').update(element).digest('hex');
+      objectData.gameData.answers[i] = element;
     });
-  
     objectData.gameData.infoWords.forEach((element:any, i:number) => {
-      objectData.gameData.infoWords[i].word = createHash('md5').update(element["word"]).digest('hex');
+      objectData.gameData.infoWords[i].word = element["word"];
     });
     objectData.gameData.infoWords = objectData.gameData.infoWords.sort(function(a, b){
         a.score - b.score;
     });
-    objectData.gameData.pangrams[0] = createHash('md5').update(objectData.gameData.pangrams[0]).digest('hex');
-
+    objectData.gameData.pangrams[0] = objectData.gameData.pangrams[0];
     return new Response(JSON.stringify(objectData));
   }
   const response = await resolve(event);
