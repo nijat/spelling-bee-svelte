@@ -87,5 +87,5 @@ export function calculateUserPoints(data: any, word: string) {
 		data.userPoints += 1;
 	} else if (word.length > 4){
         data.userPoints += word.length;
-    }
+    } 
 }

@@ -1,0 +1,179 @@
+{
+    "gameData": {
+        "day": "20221012",
+        "expiration": "1665611940",
+        "score": 100,
+        "pangrams": [
+            "BİMARXANA"
+        ],
+        "centerLetter": "X",
+        "outerLetters": [
+            "B",
+            "N",
+            "A",
+            "M",
+            "İ",
+            "R"
+        ],
+        "validLetters": [
+            "B",
+            "N",
+            "A",
+            "X",
+            "M",
+            "İ",
+            "R"
+        ],
+        "answers": [
+            "AXAN",
+            "AXAR",
+            "AXARBAXAR",
+            "AMİNXAN",
+            "ARXA",
+            "BAXAN",
+            "BAXAR",
+            "BARXANA",
+            "BİMARXANA",
+            "XAXAM",
+            "XAİN",
+            "XAMXAM",
+            "XAMA",
+            "XAMNA",
+            "XANA",
+            "XANAXANA",
+            "XANİMAN",
+            "XARA",
+            "XARAB",
+            "XARABA",
+            "MİXİ"
+        ],
+        "infoWords": [
+            {
+                "word": "AXAN",
+                "score": 1,
+                "explanation": "f.sif. 1. bax axar 1-ci mənada. [salam] lal *** kəhriz suyundan ovuc dolusu içdi. mir cəlal. 2. məc",
+                "length": 4
+            },
+            {
+                "word": "AXAR",
+                "score": 2,
+                "explanation": "1. sif. daim axan (axmaz əksi). *** su. *** çay. *** bulaq. – sevgili bir çoban",
+                "length": 4
+            },
+            {
+                "word": "AXARBAXAR",
+                "score": 11,
+                "explanation": "is. 1. hər tərəfi açıq vəxoş mənzərəli yer",
+                "length": 9
+            },
+            {
+                "word": "AMİNXAN",
+                "score": 18,
+                "explanation": "[ər. amin və fars. xan] din.amin deyən",
+                "length": 7
+            },
+            {
+                "word": "ARXA",
+                "score": 19,
+                "explanation": "is. 1. insanın",
+                "length": 4
+            },
+            {
+                "word": "BAXAN",
+                "score": 24,
+                "explanation": "f.sif. 1. nəzarət edən",
+                "length": 5
+            },
+            {
+                "word": "BAXAR",
+                "score": 29,
+                "explanation": "is. 1. bax axar-***.2. açıq yer",
+                "length": 5
+            },
+            {
+                "word": "BARXANA",
+                "score": 36,
+                "explanation": "is. [fars.] köhn. ev şeyləri",
+                "length": 7
+            },
+            {
+                "word": "BİMARXANA",
+                "score": 53,
+                "explanation": "is. [fars.] köhn. xəstəxana",
+                "length": 9
+            },
+            {
+                "word": "XAXAM",
+                "score": 58,
+                "explanation": "is. yəhudilərdə baş kahin",
+                "length": 5
+            },
+            {
+                "word": "XAİN",
+                "score": 59,
+                "explanation": "sif. [ər.] 1. vətəninə",
+                "length": 4
+            },
+            {
+                "word": "XAMXAM",
+                "score": 65,
+                "explanation": "1. sif. bişməmiş",
+                "length": 6
+            },
+            {
+                "word": "XAMA",
+                "score": 66,
+                "explanation": "is. çiy südün üzü",
+                "length": 4
+            },
+            {
+                "word": "XAMNA",
+                "score": 71,
+                "explanation": "is. xam",
+                "length": 5
+            },
+            {
+                "word": "XANA",
+                "score": 72,
+                "explanation": "is. 1. xırda dördbucaqlara bölünmüş bir şeyin qisimlərindən hər biri; dama",
+                "length": 4
+            },
+            {
+                "word": "XANAXANA",
+                "score": 80,
+                "explanation": "sif. 1. xanalardan ibarət",
+                "length": 8
+            },
+            {
+                "word": "XANİMAN",
+                "score": 87,
+                "explanation": "is. [fars.] 1. ev-eşik",
+                "length": 7
+            },
+            {
+                "word": "XARA",
+                "score": 88,
+                "explanation": "is. özündən naxışları olan parlaqipək parça. gün vurduqca ağacların yarpaqlarırəngdən-rəngə düşür",
+                "length": 4
+            },
+            {
+                "word": "XARAB",
+                "score": 93,
+                "explanation": "sif. [ər.] 1. pis",
+                "length": 5
+            },
+            {
+                "word": "XARABA",
+                "score": 99,
+                "explanation": "[ər.] 1. is. dağılmış",
+                "length": 6
+            },
+            {
+                "word": "MİXİ",
+                "score": 100,
+                "explanation": "sif. [fars.] : *** xətt (yazı) – qabaq asiyanın qədim xalqlarında (assuriyada",
+                "length": 4
+            }
+        ]
+    }
+}
