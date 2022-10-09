@@ -19,7 +19,7 @@ enum SuccessMessages {
 
 export function checkAndAddWord() {
 	let currentWord = data.currentWord;
-	let foundWordList: never[] = data.foundWordList;
+	let foundWordList = data.foundWordList;
 
 	if (isWordEmpty(currentWord)) {
 		showErrorMessage(ErrorMessages.WORD_IS_EMPTY);
