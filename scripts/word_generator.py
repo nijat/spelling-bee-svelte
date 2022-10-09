@@ -136,15 +136,15 @@ def main():
 
     print("Enter 20220801 to get new value or just click enter to skip")
     custom_day = input()
-    custom_day = '20221011'
+    # custom_day = '20221011'
     if(len(custom_day)==8):
         store_day(custom_day)
         return
 
     first_day = 1
     for i in range(first_day, 32):
-        year = "2023"
-        month = "02"
+        year = "2021"
+        month = "10"
         day = str(i)
         if int(day) < 10:
             day = "0" + day
