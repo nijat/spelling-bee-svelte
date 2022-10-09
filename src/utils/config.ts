@@ -31,7 +31,12 @@ export const rankingLevels = [
 
 export var successToastOptions = {
     theme: {
-      '--toastBackground': '#48BB78',
-      '--toastBarBackground': '#2F855A'
-    }
-  }
+        '--toastBackground': '#48BB78',
+        '--toastBarBackground': '#2F855A'
+    },
+    duration: 2000,
+}
+
+export var errorToastOptions = {
+    duration: 2000,
+}

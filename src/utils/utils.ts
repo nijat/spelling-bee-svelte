@@ -1,6 +1,6 @@
 import { get } from 'svelte/store';
 import { toast } from '@zerodevx/svelte-toast';
-import { successToastOptions } from '$utils/config'
+import { successToastOptions, errorToastOptions } from '$utils/config'
 import gameDataStore from '$utils/store';
 
 const data = get(gameDataStore);
@@ -14,7 +14,7 @@ enum ErrorMessages {
 }
 
 enum SuccessMessages {
-	CORRECT = 'Əla, davam edin'
+	CORRECT = 'Əla, davam edin😛'
 }
 
 export function checkAndAddWord() {
@@ -29,7 +29,7 @@ export function checkAndAddWord() {
 		showErrorMessage(ErrorMessages.WORD_IS_NOT_CORRECT);
 		return;
 	}
-	if(!isWordContainsCenterLetter(currentWord)){
+	if (!isWordContainsCenterLetter(currentWord)) {
 		showErrorMessage(ErrorMessages.CENTER_LETTER_NOT_EXIST);
 		return;
 	}
@@ -62,8 +62,8 @@ export function isWordExistAlready(currentWord: string, foundWordList: string[])
 	return false;
 }
 
-export function isWordContainsCenterLetter(currentWord: string){
-	if(currentWord.includes(data.centerLetter)){
+export function isWordContainsCenterLetter(currentWord: string) {
+	if (currentWord.includes(data.centerLetter)) {
 		return true
 	}
 	return false
@@ -76,7 +76,7 @@ export function isWordCorrect(currentWord: string) {
 }
 
 export function isWordExist(currentWord: string) {
-	if(data.words.some(e => e["word"] == currentWord)) {
+	if (data.words.some(e => e["word"] == currentWord)) {
 		return true
 	}
 	return false;
@@ -84,7 +84,7 @@ export function isWordExist(currentWord: string) {
 
 export function showErrorMessage(type: ErrorMessages) {
 	toast.pop();
-	toast.push(type);
+	toast.push(type, errorToastOptions);
 }
 
 export function showSuccessMessage(type: SuccessMessages) {
@@ -94,8 +94,8 @@ export function showSuccessMessage(type: SuccessMessages) {
 
 export function calculateUserPoints(word: string) {
 	data.words.forEach(function (value) {
-		if(value["word"]==word){
+		if (value["word"] == word) {
 			data.userPoints += value["score"]
 		}
-	}); 
+	});
 }

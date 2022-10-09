@@ -1,7 +1,7 @@
 <script lang="ts">
 	import Icon from '@iconify/svelte';
 	import gameDataStore from '$utils/store';
-	import { checkAndAddWord } from '$utils/utils'
+	import { checkAndAddWord } from '$utils/utils';
 
 	function shuffleLetters() {
 		$gameDataStore.outerLetters = $gameDataStore.outerLetters.sort(() => Math.random() - 0.5);
@@ -10,7 +10,6 @@
 	function cleanCurrentWord() {
 		$gameDataStore.currentWord = '';
 	}
-
 </script>
 
 <div class="max-w-md mx-auto">

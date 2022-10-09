@@ -18,7 +18,7 @@ const gameDataStore = writable({
 
 export default gameDataStore;
 
-export const storeNew = writable(new Promise(() => {}));
+export const storeNew = writable(new Promise(() => { }));
 export const gameDataFromServer = writable({});
 
 export function getData() {
@@ -26,27 +26,26 @@ export function getData() {
 		const response = await fetch(`https://spelling-bee-svelte.vercel.app/words/` + getCurrentDate() + `.json`);
 		const data = await response.json();
 		storeNew.set(Promise.resolve(data));
-        gameDataFromServer.set(data)
-        gameDataStore.update(localData => {
-            localData.centerLetter = data.gameData.centerLetter
-            localData.outerLetters = data.gameData.outerLetters
+		gameDataFromServer.set(data)
+		gameDataStore.update(localData => {
+			localData.centerLetter = data.gameData.centerLetter
+			localData.outerLetters = data.gameData.outerLetters
 			localData.words_info = data.gameData.words_info
 			localData.words = data.gameData.words
-            return localData
-        })
+			return localData
+		})
 	};
 	load();
 	return storeNew;
 }
 
-export function getCurrentDate(separator=''){
+export function getCurrentDate(separator = '') {
 	var dt = new Date();
 	const myTimeZone = 4; // Baku Timezone
-	dt.setTime( dt.getTime() + myTimeZone * 60 * 60 * 1000 );
-	var year  = dt.getFullYear();
+	dt.setTime(dt.getTime() + myTimeZone * 60 * 60 * 1000);
+	var year = dt.getFullYear();
 	var month = (dt.getMonth() + 1).toString().padStart(2, "0");
-	var day   = dt.getDate().toString().padStart(2, "0");    
+	var day = dt.getDate().toString().padStart(2, "0");
 	return year + '' + month + '' + day;
-  }
-  
-  
+}
+
