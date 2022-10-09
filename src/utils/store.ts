@@ -18,14 +18,14 @@ const gameDataStore = writable({
 
 export default gameDataStore;
 
-export const storeNew = writable(new Promise(() => { }));
+export const storedData = writable(new Promise(() => { }));
 export const gameDataFromServer = writable({});
 
 export function getData() {
 	const load = async () => {
 		const response = await fetch(`https://spelling-bee-svelte.vercel.app/words/` + getCurrentDate() + `.json`);
 		const data = await response.json();
-		storeNew.set(Promise.resolve(data));
+		storedData.set(Promise.resolve(data));
 		gameDataFromServer.set(data)
 		gameDataStore.update(localData => {
 			localData.centerLetter = data.gameData.centerLetter
@@ -36,7 +36,7 @@ export function getData() {
 		})
 	};
 	load();
-	return storeNew;
+	return storedData;
 }
 
 export function getCurrentDate(separator = '') {

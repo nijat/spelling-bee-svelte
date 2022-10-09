@@ -8,11 +8,11 @@
 	import Toast from '$lib/toast.svelte';
 	import SplashScreen from '$lib/splash_screen.svelte';
 
-	import { getData, storeNew } from '$utils/store';
+	import { getData, storedData } from '$utils/store';
 	getData();
 </script>
 
-{#await $storeNew}
+{#await $storedData}
 	<SplashScreen />
 {:then data}
 	<Header />
