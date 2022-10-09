@@ -28,3 +28,10 @@ export const rankingLevels = [
         minScoreMultiplier: 1
     }
 ]
+
+export var successToastOptions = {
+    theme: {
+      '--toastBackground': '#48BB78',
+      '--toastBarBackground': '#2F855A'
+    }
+  }

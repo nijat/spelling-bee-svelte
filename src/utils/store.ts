@@ -27,7 +27,7 @@ export function getData() {
             localData.outerLetters = data.gameData.outerLetters
             localData.correctWordList = data.gameData.answers
 			localData.maxScore = data.gameData.score
-			localData.panagram = data.gameData.pangrams
+			localData.panagrams = data.gameData.pangrams
             return localData
         })
 	};

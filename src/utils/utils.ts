@@ -1,6 +1,6 @@
 import { get } from 'svelte/store';
 import { toast } from '@zerodevx/svelte-toast';
-
+import { successToastOptions } from '$utils/config'
 import gameDataStore from '$utils/store';
 
 const data = get(gameDataStore);
@@ -79,12 +79,7 @@ export function showErrorMessage(type: ErrorMessages) {
 
 export function showSuccessMessage(type: SuccessMessages) {
 	toast.pop();
-	toast.push(type, {
-		theme: {
-		  '--toastBackground': '#48BB78',
-		  '--toastBarBackground': '#2F855A'
-		}
-	  });
+	toast.push(type, successToastOptions);
 }
 
 export function calculateUserPoints(data: any, word: string) {
