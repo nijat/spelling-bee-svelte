@@ -2,260 +2,342 @@
     "gameData": {
         "day": "20211021",
         "expiration": "1634853540",
-        "centerLetter": "K",
-        "validLetters": [
-            "A",
-            "T",
-            "H",
-            "K",
-            "Ü",
+        "centerLetter": "A",
+        "outterLetters": [
+            "Y",
+            "U",
+            "X",
             "L",
-            "S"
+            "O",
+            "M"
         ],
         "words_info": {
-            "word_count": 33,
-            "sum_score": 164,
+            "word_count": 45,
+            "sum_score": 195,
             "panagram_count": 1,
             "word_length": {
-                "4": 9,
-                "5": 11,
-                "7": 2,
+                "4": 16,
+                "5": 16,
                 "6": 6,
-                "9": 1,
-                "8": 4
+                "8": 4,
+                "7": 3
             }
         },
         "words": [
             {
-                "word": "KAHA",
-                "explanation": "is. məh. qayalıqda",
+                "word": "ALAM",
+                "explanation": "is. [ər. “ələm” söz. cəmi] qəm",
                 "isPanagram": false,
                 "score": 1,
                 "length": 4
             },
             {
-                "word": "KALA",
-                "explanation": "is. məh. böyük şüşə qab",
+                "word": "ALAY",
+                "explanation": "is. 1. camaat",
                 "isPanagram": false,
                 "score": 1,
                 "length": 4
             },
             {
-                "word": "KASA",
-                "explanation": "is. [fars.] 1. çini",
+                "word": "ALLO",
+                "explanation": "[ing.] telefonla danışarkən “qulaqasıram”",
                 "isPanagram": false,
                 "score": 1,
                 "length": 4
             },
             {
-                "word": "KÜKÜ",
-                "explanation": "is. göyərti və yumurtadan (bəzəndə balıqdan) hazırlanan xörək. *** bişirmək.– bəylər yeyər nahara küftə",
+                "word": "ALMA",
+                "explanation": "is. müxtəlif çeşidləri və müxtəlif rənglərdə olan girdə",
                 "isPanagram": false,
                 "score": 1,
                 "length": 4
             },
             {
-                "word": "KÜLL",
-                "explanation": "[ər.] 1. bütün",
+                "word": "AMAL",
+                "explanation": "is. [ər. “əməl” söz. cəmi] tənt. qayə",
                 "isPanagram": false,
                 "score": 1,
                 "length": 4
             },
             {
-                "word": "KÜLÜ",
-                "explanation": "sif. 1. k.t. bozumtul-ağ. *** torpaq.2. kül rəngində olan",
+                "word": "XALA",
+                "explanation": "is. 1. ananın bacısı. [sultan bəy:]***nın muzdu o olar ki",
                 "isPanagram": false,
                 "score": 1,
                 "length": 4
             },
             {
-                "word": "KÜSÜ",
-                "explanation": "is. bir-biri ilə danışmama halı; küsmə.***lü qardaş",
+                "word": "XAMA",
+                "explanation": "is. çiy südün üzü",
                 "isPanagram": false,
                 "score": 1,
                 "length": 4
             },
             {
-                "word": "TALK",
-                "explanation": "is. [ər.] adətən toz halında təbabətdəvə tibdə işlədilən ağ və ya göy rəngliyumşaq mineral",
+                "word": "XAYA",
+                "explanation": "is. [fars.] anat. erkəklik vəzilərininyerləşdiyi kisəcik. // erkəklik vəziləri",
                 "isPanagram": false,
                 "score": 1,
                 "length": 4
             },
             {
-                "word": "ÜTÜK",
-                "explanation": "sif. üzdən yanmış",
+                "word": "MALA",
+                "explanation": "is. [fars.] 1. binanın iç və bayırdivarlarına çəkmək üçün əhəng",
                 "isPanagram": false,
                 "score": 1,
                 "length": 4
             },
             {
-                "word": "KAHAL",
-                "explanation": "sif. [ər.] dan. başısoyuq",
+                "word": "MAMA",
+                "explanation": "is. doğuş zamanı kömək göstərməkləməşğul olan (keçmişdə təhsilsiz",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "MAYA",
+                "explanation": "is. [fars.] 1. bəzi qidalarda qıcqırma əmələ gətirən maddə. xəmir ***sı. pendir ***sı.□ *** vurmaq – bax ***lamaq 1-ci mənada",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "OLAY",
+                "explanation": "is. hadisə",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "OLMA",
+                "explanation": "“***q”dan f.is. havaların isti***sına baxmayaraq",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "OYMA",
+                "explanation": "1. “***q1”dan f.is.2. is. ağac",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "YAXA",
+                "explanation": "is. 1. paltarın boyun keçən hissəsi",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "YUXA",
+                "explanation": "is. 1. nazik yayılmış (mayasız) xəmirdənsacda bişirilən çörək növü; yayma.***",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "AYAMA",
+                "explanation": "is. bir adama el tərəfindən verilənləqəb",
                 "isPanagram": false,
                 "score": 5,
                 "length": 5
             },
             {
-                "word": "KALKA",
-                "explanation": "[fr.] 1. çertyojlardan",
+                "word": "AYLAM",
+                "explanation": "is. məh. dairə",
                 "isPanagram": false,
                 "score": 5,
                 "length": 5
             },
             {
-                "word": "KASKA",
-                "explanation": "[fr. casque",
+                "word": "XAXAM",
+                "explanation": "is. yəhudilərdə baş kahin",
                 "isPanagram": false,
                 "score": 5,
                 "length": 5
             },
             {
-                "word": "KASSA",
-                "explanation": "[ital.] 1. pul",
+                "word": "LAYLA",
+                "explanation": "is. 1. körpə uşaqları yatırtmaq üçün hava ilə oxunan həzin şeir parçası; nənni",
                 "isPanagram": false,
                 "score": 5,
                 "length": 5
             },
             {
-                "word": "KATTA",
-                "explanation": "is. dan. bax kətxuda. ***nıgör",
+                "word": "LOYAL",
+                "explanation": "[ing. *** – sadiq] 1. dövlət hakimiyyətiqanunlarına",
                 "isPanagram": false,
                 "score": 5,
                 "length": 5
             },
             {
-                "word": "KÜLAH",
-                "explanation": "is. [fars.] köhn. papaq. qoyma***ın kəc",
+                "word": "MALAX",
+                "explanation": "is. bot. əncir növü. …azərbaycandaqiymətli əncir sortlarından tabaq əncir",
                 "isPanagram": false,
                 "score": 5,
                 "length": 5
             },
             {
-                "word": "KÜLLÜ",
-                "explanation": "sif. 1. külə bulaşmış",
+                "word": "MALAY",
+                "explanation": "sif. və is. köhn. gənc",
                 "isPanagram": false,
                 "score": 5,
                 "length": 5
             },
             {
-                "word": "SÜLÜK",
-                "explanation": "is. baldırı koğuş bitkilərin (qarğınınvə s.-nin) təzə göyərmiş gövdəsi. qarğısülüyü. qanqal sülüyü",
+                "word": "MAYYA",
+                "explanation": "is. [sanskr.] qədim və orta əsrhind fəlsəfəsində universal anlayışlardan biri",
                 "isPanagram": false,
                 "score": 5,
                 "length": 5
             },
             {
-                "word": "TÜKLÜ",
-                "explanation": "sif. 1. tükü olan",
+                "word": "MOLLA",
+                "explanation": "is. [ər.] 1. rütbəcə axunddankiçik müsəlman ruhanisi. məhəllə ***sı.– sonra da bir tirmə əmmaməli *** gəlibsalam verdi",
                 "isPanagram": false,
                 "score": 5,
                 "length": 5
             },
             {
-                "word": "TÜLKÜ",
-                "explanation": "is. 1. zool. itlər ailəsindən",
+                "word": "OXUMA",
+                "explanation": "“***q”dan f.is. [vahid:] lakin[anamın] ***sı ilə ağlamasını seçmək çətinidi. b.bayramov",
                 "isPanagram": false,
                 "score": 5,
                 "length": 5
             },
             {
-                "word": "ÜSKÜK",
-                "explanation": "is. məh. bax oymaq3. həsən sapçıxardıb sapladı və barmağına *** taxıb",
+                "word": "ULAMA",
+                "explanation": "1. “***q”dan f.is.2. it",
                 "isPanagram": false,
                 "score": 5,
                 "length": 5
             },
             {
-                "word": "KÜLLÜK",
-                "explanation": "is. 1. kül tökülən yer. toyuqlar ***də eşələnir. – külü ***dən götür. (ata. sözü). zibil təpə olsa",
+                "word": "YAXMA",
+                "explanation": "1. “***q1”dan f.is.2. is. üzərinə yağ və s. yaxılmış çörək parçası;***c. tapdıq dedi: – ana",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "YALXA",
+                "explanation": "sif. məh. 1. yanında başqa bir şey olmayan; yalnız",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "YAYLA",
+                "explanation": "is. 1. ***q. [molla həmid:]allaha şükür",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "YAYMA",
+                "explanation": "1. “***q”dan f.is. 2. is. acıtmasız xəmirdən bişirilən nazik çörək. [telli] sobanı qalayıb sac asdı",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "YOLMA",
+                "explanation": "1. “***q”dan f.is.2. sif. çox gödək olduğundan orağa gəlmədiyiüçün əllə dartılıb çıxarılmalı olan",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "XALXAL",
+                "explanation": "is. heyvanlara məxsus binalardaayrıca bölmə. ***ı təmiz saxlamalı.– [zərnigar xanım] əlində çatı",
                 "isPanagram": false,
                 "score": 6,
                 "length": 6
             },
             {
-                "word": "KÜSÜLÜ",
-                "explanation": "sif. küsmüş",
+                "word": "XAMXAM",
+                "explanation": "1. sif. bişməmiş",
                 "isPanagram": false,
                 "score": 6,
                 "length": 6
             },
             {
-                "word": "KÜTLÜK",
-                "explanation": "is. 1. küt şeyin hal və keyfiyyəti.bıçağın kütlüyü. qayçı ***dən kəsmir.2. məc. həssaslığın",
+                "word": "XAMMAL",
+                "explanation": "is. sonradan sənayedə müxtəlifşeylər emal edilmək üçün yerdən çıxarılanvə ya istehsal edilən material",
                 "isPanagram": false,
                 "score": 6,
                 "length": 6
             },
             {
-                "word": "LÜTLÜK",
-                "explanation": "is. 1. çılpaqlıq.2. məc. bitkisizlik; yaşıllıqdan",
+                "word": "LAYLAY",
+                "explanation": "is. 1. körpə uşaqları yatırtmaq üçün hava ilə oxunan həzin şeir parçası; nənni",
                 "isPanagram": false,
                 "score": 6,
                 "length": 6
             },
             {
-                "word": "SALAKA",
-                "explanation": "is. [rus.] balıq növü",
+                "word": "YALAMA",
+                "explanation": "1. “***q”dan f.is.2. ***q üçün atın qabağına qoyulan duzparçası. qaraxan xəlvəti içəriyə girib balacaduz ***sını götürüb arxalığının cibin",
                 "isPanagram": false,
                 "score": 6,
                 "length": 6
             },
             {
-                "word": "ÜSTLÜK",
-                "explanation": "is. bir şeyin üstünü örtməyə",
+                "word": "YAMYAM",
+                "explanation": "is. insan əti yeyən vəhşi.// vəhşi",
                 "isPanagram": false,
                 "score": 6,
                 "length": 6
             },
             {
-                "word": "KÜKÜLÜK",
-                "explanation": "sif. kükü üçün yararlı",
+                "word": "MALAMAL",
+                "explanation": "sif. və zərf [fars.] dolu",
                 "isPanagram": false,
                 "score": 7,
                 "length": 7
             },
             {
-                "word": "SÜSTLÜK",
-                "explanation": "is. hissizlik",
+                "word": "YOXLAMA",
+                "explanation": "1. “***q”dan f.is. [xədicə:]…sənin beləcə gəlib məni ***ndançox sevindim… s.hüseyn.2. is. bir işin düzgün və qanuni olubolmadığını",
                 "isPanagram": false,
                 "score": 7,
                 "length": 7
             },
             {
-                "word": "SÜTÜLLÜK",
-                "explanation": "is. sütül olma",
+                "word": "XALAXALA",
+                "explanation": "is. kiçik qızların gəlincikləoynadıqları oyun adı; gəlin-gəlin",
                 "isPanagram": false,
                 "score": 8,
                 "length": 8
             },
             {
-                "word": "TÜKLÜLÜK",
-                "explanation": "is. tüklü olma",
+                "word": "MALXULYA",
+                "explanation": "is. [ər. əsli yun.] qara sevda",
                 "isPanagram": false,
                 "score": 8,
                 "length": 8
             },
             {
-                "word": "TÜLKÜLÜK",
-                "explanation": "is. hiyləgərlik",
+                "word": "MAYALAMA",
+                "explanation": "“***q”dan f.is. süni*** məntəqəsi",
                 "isPanagram": false,
                 "score": 8,
                 "length": 8
             },
             {
-                "word": "KÜSÜLÜLÜK",
-                "explanation": "is. bir-biri ilə danışmama",
+                "word": "YAXALAMA",
+                "explanation": "“***q2”dan f.is. qabları***. əllərini ***",
                 "isPanagram": false,
-                "score": 9,
-                "length": 9
+                "score": 8,
+                "length": 8
             },
             {
-                "word": "TASKÜLAH",
-                "explanation": "is. [fars.] köhn. dəbilqə",
+                "word": "YOLUXMA",
+                "explanation": "1. “***q1”dan f.is.// mikrob",
                 "isPanagram": true,
                 "score": 17,
-                "length": 8
+                "length": 7
             }
         ]
     }

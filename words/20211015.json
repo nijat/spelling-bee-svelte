@@ -2,60 +2,37 @@
     "gameData": {
         "day": "20211015",
         "expiration": "1634335140",
-        "centerLetter": "M",
-        "validLetters": [
-            "Ü",
-            "L",
-            "B",
-            "M",
-            "Ə",
-            "İ",
-            "C"
+        "centerLetter": "Ə",
+        "outterLetters": [
+            "Y",
+            "S",
+            "Q",
+            "A",
+            "O",
+            "M"
         ],
         "words_info": {
-            "word_count": 34,
-            "sum_score": 164,
+            "word_count": 20,
+            "sum_score": 66,
             "panagram_count": 1,
             "word_length": {
-                "5": 9,
-                "7": 6,
-                "6": 7,
-                "8": 2,
-                "4": 10
+                "4": 12,
+                "5": 5,
+                "6": 2,
+                "9": 1
             }
         },
         "words": [
             {
-                "word": "CƏMİ",
-                "explanation": "is. [ər.] bütün",
+                "word": "ƏQSA",
+                "explanation": "sif. [ər.] köhn. kit. uzaqda olan",
                 "isPanagram": false,
                 "score": 1,
                 "length": 4
             },
             {
-                "word": "CÜMƏ",
-                "explanation": "is. [ər.] həftənin beşinci günü; *** axşamından sonra gələn gün. [hacı:] hazırla",
-                "isPanagram": false,
-                "score": 1,
-                "length": 4
-            },
-            {
-                "word": "ƏCƏM",
-                "explanation": "is. [ər.] 1. köhn. keçmişdə ərəbolmayan xalqlara və onların nümayəndələrinə",
-                "isPanagram": false,
-                "score": 1,
-                "length": 4
-            },
-            {
-                "word": "ƏLƏM",
-                "explanation": "is. [ər.] dərd",
-                "isPanagram": false,
-                "score": 1,
-                "length": 4
-            },
-            {
-                "word": "ƏMƏL",
-                "explanation": "is. [ər.] qayə",
+                "word": "ƏMMA",
+                "explanation": "[ər.] 1. bax amma. şeir bir zivərdir",
                 "isPanagram": false,
                 "score": 1,
                 "length": 4
@@ -68,22 +45,36 @@
                 "length": 4
             },
             {
-                "word": "LƏMƏ",
-                "explanation": "is. tavandan bir az aşağı divaruzunu kərpicdən",
+                "word": "ƏSAS",
+                "explanation": "is. [ər.] 1. bünövrə",
                 "isPanagram": false,
                 "score": 1,
                 "length": 4
             },
             {
-                "word": "LÜMƏ",
-                "explanation": "sif. quyruğu olmayan və ya qısa olan; quyruğukəsik. *** xoruz (toyuq). – cücələrim ***k-***k; qanadları gödək-gödək",
+                "word": "ƏSMƏ",
+                "explanation": "1. “***k”dən f.is.2. bax ***cə. *** azarı. *** tutmuşdur.– məs geyinib",
                 "isPanagram": false,
                 "score": 1,
                 "length": 4
             },
             {
-                "word": "MƏLƏ",
-                "explanation": "is. 1. zool. çox bərk sancan qanadsız",
+                "word": "ƏYMƏ",
+                "explanation": "is. 1. dişləni (əskeşi) qayışlar vasitəsiləxamuta (boyunduruğa) bənd etməküçün istifadə edilən əyilmiş ağacdan ibarətqoşqu hissəsi",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "QAYƏ",
+                "explanation": "is. [ər.] yüksək məqsəd; bir işin",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "QƏMƏ",
+                "explanation": "is. kiçik xəncər. əlini ətəyininaltındakı ***nin dəstəsinə aparıb səsləndi:– uşaqlar! hazır olun! m",
                 "isPanagram": false,
                 "score": 1,
                 "length": 4
@@ -96,172 +87,81 @@
                 "length": 4
             },
             {
-                "word": "BƏLİM",
-                "explanation": "is. darı",
+                "word": "SAYƏ",
+                "explanation": "is. [fars.] 1. kölgə. sən bir ağacsan ki",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "SƏMA",
+                "explanation": "is. [ər.] göy",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "SƏMƏ",
+                "explanation": "sif. ağıldan kəm",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "ƏQSAM",
+                "explanation": "is. [ər. “qism” söz. cəmi] köhn.kit. növlər",
                 "isPanagram": false,
                 "score": 5,
                 "length": 5
             },
             {
-                "word": "CÜMLƏ",
-                "explanation": "is. 1. dilç. bitmiş bir fikri ifadəedən söz birləşməsi və ya söz. sadə ***.sual ***si. budaq ***",
+                "word": "ƏYYAM",
+                "explanation": "is. [ər. “yovm” söz. cəmi] günlər",
                 "isPanagram": false,
                 "score": 5,
                 "length": 5
             },
             {
-                "word": "ƏCƏMİ",
-                "explanation": "sif. [ər.] köhn. 1. qeyri-ərəb qövmvə tayfalardan birinə mənsub olan",
+                "word": "QƏSƏM",
+                "explanation": "is. [ər.] and. imanına ***ləçapırsan cəmaəti; quldurçuluq tüfəngimidirdinin",
                 "isPanagram": false,
                 "score": 5,
                 "length": 5
             },
             {
-                "word": "ƏMƏLƏ",
-                "explanation": "is. [ər.] fəhlə",
+                "word": "MƏQAM",
+                "explanation": "is. [ər.] 1. yer",
                 "isPanagram": false,
                 "score": 5,
                 "length": 5
             },
             {
-                "word": "ƏMƏLİ",
-                "explanation": "sif. 1. icrası (tətbiqi) lazım olan",
+                "word": "SƏQQA",
+                "explanation": "is. [ər.] köhn. keçmişdə evlərə sudaşıyan; su paylayan",
                 "isPanagram": false,
                 "score": 5,
                 "length": 5
             },
             {
-                "word": "ƏMİCİ",
-                "explanation": "sif. 1. əmən",
-                "isPanagram": false,
-                "score": 5,
-                "length": 5
-            },
-            {
-                "word": "LİCİM",
-                "explanation": "is. dan. biçim",
-                "isPanagram": false,
-                "score": 5,
-                "length": 5
-            },
-            {
-                "word": "MİLƏL",
-                "explanation": "is. [ər. “millət” söz. cəmi] millətlər.sair *** övrətlə ədalət edir",
-                "isPanagram": false,
-                "score": 5,
-                "length": 5
-            },
-            {
-                "word": "MİLLİ",
-                "explanation": "sif. 1. üzərində milləri olan",
-                "isPanagram": false,
-                "score": 5,
-                "length": 5
-            },
-            {
-                "word": "BİƏMƏL",
-                "explanation": "sif. [fars. bi… və ər. əməl] dediyinə və ya deyilənə əməl etməyən; boşboğaz",
+                "word": "ƏMMAMƏ",
+                "explanation": "is. [ər.] bəzi şərq ölkələrində:sarınmış uzun ağ parça",
                 "isPanagram": false,
                 "score": 6,
                 "length": 6
             },
             {
-                "word": "ƏLƏMLİ",
-                "explanation": "sif. qəmli",
+                "word": "MƏSAMƏ",
+                "explanation": "is. [ər.] 1. dərinin üzərində tərvəzilərinin ən xırda deşiyi.2. maddənin hissəcikləri arasındakı boşluq",
                 "isPanagram": false,
                 "score": 6,
                 "length": 6
             },
             {
-                "word": "ƏLLƏMƏ",
-                "explanation": "is. məh. daş",
-                "isPanagram": false,
-                "score": 6,
-                "length": 6
-            },
-            {
-                "word": "ƏMƏLLİ",
-                "explanation": "sif. və zərf yaxşı",
-                "isPanagram": false,
-                "score": 6,
-                "length": 6
-            },
-            {
-                "word": "LƏMƏLİ",
-                "explanation": "sif. ləməsi olan; rəfli. ***otaq",
-                "isPanagram": false,
-                "score": 6,
-                "length": 6
-            },
-            {
-                "word": "MƏLƏMƏ",
-                "explanation": "“***k”dən f.is. bu haldaqızıl inəyin ***si qızxanımın qulağınaçatdı. s.s.axundov",
-                "isPanagram": false,
-                "score": 6,
-                "length": 6
-            },
-            {
-                "word": "MƏMƏLİ",
-                "explanation": "sif. məməsi olan. □ ***heyvanlar – bax ***lər. soyuq ölkələrdəyaşayan *** heyvanların dərilərindəkitük həm sıx",
-                "isPanagram": false,
-                "score": 6,
-                "length": 6
-            },
-            {
-                "word": "BƏMBƏCƏ",
-                "explanation": "is. dan. pəncə. zor ilə şikarıəlimdən aldı; özümə də bir bol ***çaldı. q.zakir",
-                "isPanagram": false,
-                "score": 7,
-                "length": 7
-            },
-            {
-                "word": "MƏCƏLLƏ",
-                "explanation": "is. [ər.] 1. hüququn hər hansıbir sahəsinə aid sistemə salınmış qanunlartoplusu. mülki ***. cinayət ***si",
-                "isPanagram": false,
-                "score": 7,
-                "length": 7
-            },
-            {
-                "word": "MİLƏMİL",
-                "explanation": "sif. milləri olan",
-                "isPanagram": false,
-                "score": 7,
-                "length": 7
-            },
-            {
-                "word": "MİLLƏMƏ",
-                "explanation": "1. “***k”dən f. is.2. zərf mil kimi",
-                "isPanagram": false,
-                "score": 7,
-                "length": 7
-            },
-            {
-                "word": "MÜƏLLİM",
-                "explanation": "is. [ər.] 1. məktəbdə hər hansı bir fəndən dərs deyən adam. azərbaycan dili ***i. tarix ***i",
-                "isPanagram": false,
-                "score": 7,
-                "length": 7
-            },
-            {
-                "word": "MÜLƏMMƏ",
-                "explanation": "is. [ər.] ədəb. 1. hər misrasıbaşqa dildə olan şeir. füzulinin ***ləriməşhurdur.2. sif. köhn. ala-bula",
-                "isPanagram": false,
-                "score": 7,
-                "length": 7
-            },
-            {
-                "word": "MÜƏLLİMƏ",
-                "explanation": "is. [ər.] qadın müəllim. sonanınibtida ***si nəhayətdə də ağıllı vəpedaqoji elminə qabil bir arvad idi",
-                "isPanagram": false,
-                "score": 8,
-                "length": 8
-            },
-            {
-                "word": "BİLCÜMLƏ",
-                "explanation": "zərf [ər.] köhn. bax bilümum.bir gün gələ bidar ola *** cəmaət;təzviri-ibadətdən edə fərq bu millət",
+                "word": "SƏSƏQOYMA",
+                "explanation": "is. bir məsələnin",
                 "isPanagram": true,
                 "score": 17,
-                "length": 8
+                "length": 9
             }
         ]
     }

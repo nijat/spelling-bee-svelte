@@ -2,182 +2,176 @@
     "gameData": {
         "day": "20211022",
         "expiration": "1634939940",
-        "centerLetter": "D",
-        "validLetters": [
+        "centerLetter": "İ",
+        "outterLetters": [
+            "E",
+            "K",
             "T",
-            "Q",
-            "N",
-            "D",
-            "Ə",
-            "İ",
-            "Ç"
+            "L",
+            "O",
+            "V"
         ],
         "words_info": {
-            "word_count": 22,
-            "sum_score": 103,
+            "word_count": 21,
+            "sum_score": 111,
             "panagram_count": 1,
             "word_length": {
-                "4": 8,
+                "8": 2,
+                "11": 1,
+                "4": 7,
                 "5": 5,
-                "6": 4,
-                "7": 3,
-                "8": 2
+                "6": 2,
+                "7": 2,
+                "9": 2
             }
         },
         "words": [
             {
-                "word": "DƏDƏ",
-                "explanation": "is. 1. ata. *** görməyib",
+                "word": "ELİT",
+                "explanation": "[fr.] k.t. 1. bitki və heyvanların ən seçmə",
                 "isPanagram": false,
                 "score": 1,
                 "length": 4
             },
             {
-                "word": "DƏNƏ",
-                "explanation": "is. [fars.] 1. eyni cinsdən olan şeylərin hər biri",
+                "word": "ELLİ",
+                "explanation": "sif. 1 vətəni",
                 "isPanagram": false,
                 "score": 1,
                 "length": 4
             },
             {
-                "word": "DƏNİ",
-                "explanation": "sif. [ər.] alçaq",
+                "word": "ELTİ",
+                "explanation": "is. qardaş arvadlarının bir-birinəolan qohumluq münasibəti",
                 "isPanagram": false,
                 "score": 1,
                 "length": 4
             },
             {
-                "word": "DİDƏ",
-                "explanation": "is. [fars.] klas. göz. gər inanmazsan ki",
+                "word": "EVLİ",
+                "explanation": "sif. arvadı olan",
                 "isPanagram": false,
                 "score": 1,
                 "length": 4
             },
             {
-                "word": "DİNİ",
-                "explanation": "sif. [ər.] dinlə əlaqədar olan",
+                "word": "KİLO",
+                "explanation": "[fr.] ölçü sistemində min kiçik vahidi ifadə edən mürəkkəb adların birinci hissəsi; məs.: ***qram",
                 "isPanagram": false,
                 "score": 1,
                 "length": 4
             },
             {
-                "word": "ƏDƏD",
-                "explanation": "is. [ər.] 1. say",
+                "word": "KİVİ",
+                "explanation": "is. qabığı tüklü",
                 "isPanagram": false,
                 "score": 1,
                 "length": 4
             },
             {
-                "word": "QƏDD",
-                "explanation": "is. [ər.] 1. boy",
+                "word": "KVİT",
+                "explanation": "[fr.] baş-başa",
                 "isPanagram": false,
                 "score": 1,
                 "length": 4
             },
             {
-                "word": "QƏND",
-                "explanation": "is. [ər.] şəkər çuğunduru və yaşəkər qamışından hasil edilən ağ kristal şəklindəşirin qida maddəsi; şəkər",
-                "isPanagram": false,
-                "score": 1,
-                "length": 4
-            },
-            {
-                "word": "DƏQİQ",
-                "explanation": "sif. [ər] 1. düpdüz",
+                "word": "ELLİK",
+                "explanation": "1. sif. bir yerin bütün camaatına",
                 "isPanagram": false,
                 "score": 5,
                 "length": 5
             },
             {
-                "word": "DİNÇİ",
-                "explanation": "is. allahın varlığına inanan vəmənsub olduğu dinin ehkamlarına ciddi surətdəəməl edən adam; mömin. kəndlilərhər şeydən artıq *** idilər",
+                "word": "EVLİK",
+                "explanation": "1. sif. evə aid",
                 "isPanagram": false,
                 "score": 5,
                 "length": 5
             },
             {
-                "word": "ƏDƏDİ",
-                "explanation": "sif. [ər.] riyaz. ədədlərlə ifadəolunan. *** kəmiyyət. ədəbi nisbət. –diferensial tənlikləri təqribi həll etmək üçünmüxtəlif qrafik və *** meto",
+                "word": "LİLLİ",
+                "explanation": "sif. lehməli",
                 "isPanagram": false,
                 "score": 5,
                 "length": 5
             },
             {
-                "word": "ƏQİDƏ",
-                "explanation": "is. [ər.] 1. insanın mühit",
+                "word": "TELLİ",
+                "explanation": "sif. telləri olan; tellərini alnına tökmüş;saçlı",
                 "isPanagram": false,
                 "score": 5,
                 "length": 5
             },
             {
-                "word": "NƏDƏN",
-                "explanation": "əvəz. nə üçün",
+                "word": "TİLOV",
+                "explanation": "is. balıq tutmaq üçün ucu iti çəngəl; qarmaq. [imamverdi nurəddinə:] sənə *** qayıracağam",
                 "isPanagram": false,
                 "score": 5,
                 "length": 5
             },
             {
-                "word": "DƏQİQƏ",
-                "explanation": "is. [ər] 1. bir saatın altmışda birinə bərabər və ya 60 saniyədən ibarət olan vaxt ölçüsü. bir *** sükutdan sonra vəzir mirzə möhsün başladı danışm",
+                "word": "ETİKET",
+                "explanation": "[fr.] malın",
                 "isPanagram": false,
                 "score": 6,
                 "length": 6
             },
             {
-                "word": "DİQQƏT",
-                "explanation": "is. [ər.] 1. fikrin",
+                "word": "TİKİLİ",
+                "explanation": "is. bina",
                 "isPanagram": false,
                 "score": 6,
                 "length": 6
             },
             {
-                "word": "TƏDQİQ",
-                "explanation": "is. [ər.] 1. bir şeyi və ya onunxüsusiyyətlərini öyrənmək",
-                "isPanagram": false,
-                "score": 6,
-                "length": 6
-            },
-            {
-                "word": "TƏNQİD",
-                "explanation": "is. [ər.] 1. yaxşı cəhətlərini üzəçıxarmaq",
-                "isPanagram": false,
-                "score": 6,
-                "length": 6
-            },
-            {
-                "word": "DƏNDƏNƏ",
-                "explanation": "is. [fars.] 1. təkərin çevrəsinimərkəzə birləşdirən taxta. arabanın bir ***sisınmışdır. – [arabaçı:] …atlar arıq",
+                "word": "EVLİLİK",
+                "explanation": "is. evli adamın vəziyyəti",
                 "isPanagram": false,
                 "score": 7,
                 "length": 7
             },
             {
-                "word": "DİDİNTİ",
-                "explanation": "is. yun didilməsindən sonra qalanxırda qırıntılar",
+                "word": "KOLİTLİ",
+                "explanation": "sif. koliti olan",
                 "isPanagram": false,
                 "score": 7,
                 "length": 7
             },
             {
-                "word": "TƏNQİDİ",
-                "explanation": "sif. [ər.] 1. tənqidə həsr edilmiş",
-                "isPanagram": false,
-                "score": 7,
-                "length": 7
-            },
-            {
-                "word": "DƏNƏDƏNƏ",
-                "explanation": "sif. dənələr halında",
+                "word": "EKLEKTİK",
+                "explanation": "is. [yun.] kit. eklektizmə meyiledən",
                 "isPanagram": false,
                 "score": 8,
                 "length": 8
             },
             {
-                "word": "TƏNQİDÇİ",
-                "explanation": "is. tənqidlə məşğul olan adam(bax tənqid 3-cü mənada). musiqi ***si.***nin qeydləri. teatr ***si",
+                "word": "LİLLİLİK",
+                "explanation": "is. lilli olma; lehməlilik",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8
+            },
+            {
+                "word": "KOTLETLİK",
+                "explanation": "sif. kotlet üçün yarayan",
+                "isPanagram": false,
+                "score": 9,
+                "length": 9
+            },
+            {
+                "word": "EKLEKTİKLİK",
+                "explanation": "is. eklektik mahiyyətdəolma. nəticələrin eklektikliyi",
+                "isPanagram": false,
+                "score": 11,
+                "length": 11
+            },
+            {
+                "word": "KOLLEKTİV",
+                "explanation": "[lat.] ümumi məqsəd",
                 "isPanagram": true,
                 "score": 17,
-                "length": 8
+                "length": 9
             }
         ]
     }

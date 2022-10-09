@@ -2,139 +2,386 @@
     "gameData": {
         "day": "20211028",
         "expiration": "1635458340",
-        "centerLetter": "Z",
-        "validLetters": [
-            "A",
-            "R",
-            "O",
-            "Z",
-            "N",
+        "centerLetter": "Q",
+        "outterLetters": [
+            "Ç",
             "D",
-            "İ"
+            "S",
+            "A",
+            "N",
+            "I"
         ],
         "words_info": {
-            "word_count": 16,
-            "sum_score": 46,
+            "word_count": 51,
+            "sum_score": 272,
             "panagram_count": 1,
             "word_length": {
-                "6": 2,
-                "4": 12,
-                "5": 1,
-                "9": 1
+                "4": 8,
+                "9": 1,
+                "6": 7,
+                "5": 24,
+                "7": 6,
+                "8": 4,
+                "10": 1
             }
         },
         "words": [
             {
-                "word": "ARİZ",
-                "explanation": "[ər.] köhn. 1. zühur edən",
+                "word": "AÇIQ",
+                "explanation": "sif. 1. qapalı olmayan",
                 "isPanagram": false,
                 "score": 1,
                 "length": 4
             },
             {
-                "word": "AZAD",
-                "explanation": "sif. [fars.] 1. ***lıqdan istifadəedən",
+                "word": "ADAQ",
+                "explanation": "is. məh. uşağın ilk addımı",
                 "isPanagram": false,
                 "score": 1,
                 "length": 4
             },
             {
-                "word": "AZAN",
-                "explanation": "is. [ər.] müsəlmanları namazaçağırmaq üçün ***çının səhər",
+                "word": "ASQI",
+                "explanation": "is. paltar və ya başqa şeylər asmağaməxsus alət. bu paltarlı skeletin iti çiyinsümükləri *** kimi ağ abanı saxlayır",
                 "isPanagram": false,
                 "score": 1,
                 "length": 4
             },
             {
-                "word": "AZAR",
-                "explanation": "is. [fars.] 1. xəstəlik",
+                "word": "QAAN",
+                "explanation": "is. tar. türk",
                 "isPanagram": false,
                 "score": 1,
                 "length": 4
             },
             {
-                "word": "NİZA",
-                "explanation": "is. [ər.] köhn. çəkişmə",
+                "word": "QADA",
+                "explanation": "is. 1. bəla",
                 "isPanagram": false,
                 "score": 1,
                 "length": 4
             },
             {
-                "word": "OZAN",
-                "explanation": "is. 1. qəd. el şairi",
+                "word": "QIÇA",
+                "explanation": "is. bir şeyin bölündüyü",
                 "isPanagram": false,
                 "score": 1,
                 "length": 4
             },
             {
-                "word": "RİZA",
-                "explanation": "is. [ər.] razılıq. soralım hər zaman ***lərini; alalım xeyirli düalərini. m.ə.sabir. üzərimdə olan ləkələri bir qadının riyasını əldə etməklə yox",
+                "word": "QISA",
+                "explanation": "sif. 1. boyca gödək",
                 "isPanagram": false,
                 "score": 1,
                 "length": 4
             },
             {
-                "word": "ZAİD",
-                "explanation": "is. [ər.] köhn. 1. artan",
+                "word": "SAQA",
+                "explanation": "is. ədəb. nəsrlə yazılmış qədim islandəsərləri",
                 "isPanagram": false,
                 "score": 1,
                 "length": 4
             },
             {
-                "word": "ZİDD",
-                "explanation": "[ər.] sif. tamamilə başqasına əks olan",
-                "isPanagram": false,
-                "score": 1,
-                "length": 4
-            },
-            {
-                "word": "ZİNA",
-                "explanation": "is. [ər.] köhn. qeyri-qanuni cinsiəlaqə. □ *** etmək (eləmək) – qeyriqanunicinsi əlaqədə olmaq. …bu rəvayət birkişi ilə bir arvadın *** eləməyi b",
-                "isPanagram": false,
-                "score": 1,
-                "length": 4
-            },
-            {
-                "word": "ZİRA",
-                "explanation": "bağl. [ər.] çünki",
-                "isPanagram": false,
-                "score": 1,
-                "length": 4
-            },
-            {
-                "word": "ZOND",
-                "explanation": "[fr.] 1. orqanların",
-                "isPanagram": false,
-                "score": 1,
-                "length": 4
-            },
-            {
-                "word": "NAZİR",
-                "explanation": "is. [ər.] 1. ***liyə (1-ci mənada)başçılıq edən hökumət üzvü. maliyyə ***i.maarif ***i. – *** onları öz kabinəsindəqəbul etdi",
+                "word": "ÇANAQ",
+                "explanation": "is. 1. içi oyulmaqla ağacdan (taxtadan)hazırlanan qab növü. çanağa un tökmək.– …kənarda taxtadan qayrılmış bir neçəsu çanağı var idi",
                 "isPanagram": false,
                 "score": 5,
                 "length": 5
             },
             {
-                "word": "ARİOZO",
-                "explanation": "[ital.] mus. həcmi etibarı iləariyadan kiçik",
+                "word": "DAQQA",
+                "explanation": "is. məh. 1. dəridən tikilmiş hündürpapaq. şiraslan … *** divan papağınıbaşına qoydu",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "DANQA",
+                "explanation": "is. mal aşığı. ***ları çıxmışqoca inəklər",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "QAÇAQ",
+                "explanation": "is. 1. çarlıq dövründə: hökumətinzülm və ədalətsizliyinə dözməyərək",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "QAÇAN",
+                "explanation": "f.sif. bax qaçağan 1-ci mənada",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "QADAQ",
+                "explanation": "is. bıçaq",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "QADIN",
+                "explanation": "is. cins etibarı ilə kişinin əksi;arvad. ***lar bayramı. evdar ***. ***həkim. – ayrım qızı şişman bir *** idi",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "QANAD",
+                "explanation": "is. 1. quşlarda və cücülərdə uçmaqorqanı. quş ***ı. *** açıb uçmaq.göyərçinin ***ı. milçəklər ***larında",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "QANIQ",
+                "explanation": "sif. 1. qana yerikləyən",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "QASIQ",
+                "explanation": "is. anat. qarnın iki bud arasındaolan alt tərəfi",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "QIDIQ",
+                "explanation": "is. bədənin bir yerinə əl və s. ilətoxunduqda onda əmələ gələn və adamınqeyri-ixtiyari gülməsinə səbəb olan hal; yüngültəxərrüş",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "QINAQ",
+                "explanation": "is. qınama",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "QINDI",
+                "explanation": "is. məh. süddə bişən sıyıq un xörəyi",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "QISIQ",
+                "explanation": "sif. 1. qısılmış",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "QISQI",
+                "explanation": "is. 1. tələsdirmə",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "NAÇAQ",
+                "explanation": "sif. [fars.] bax nasaz 1-ci mənada.neçə ildir naçağam. – qarınqulu yeməkdəqoçaq olar",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "NAQAN",
+                "explanation": "[xüs. is.-dən] hərlənən topu(barabanı) olan tapança növü. [balaqardaş:]güldəstə! bir gözümün içinə dürüst bax! bu***ı görürsənmi? n",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "NAQQA",
+                "explanation": "is. zool. şirin suda yaşayan üstü pulsuz",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "SAÇAQ",
+                "explanation": "is. 1. bir şeyin (adətən pərdənin",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "SADAQ",
+                "explanation": "is. köhn. oxqabı. siyirə qılıncı",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "SAQQA",
+                "explanation": "is. [ər.] köhn. keçmişdə dalında",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "SINAQ",
+                "explanation": "is. sınama işi",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "SINIQ",
+                "explanation": "sif. 1. sınmış halda olan; qırıq. *** dolça. *** boşqab. *** güzgü. *** maşın. – mirbalayev oturduğu *** taburetdən qalxaraq gəzinməyə başla",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "SISQA",
+                "explanation": "sif. cılız",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "ÇAQÇAQ",
+                "explanation": "is. keçmişdə: evlərin həyətqapısında qapını döymək üçün dəmir toxmaqcıq.çaq-çaqla qapını döymək. – qapınınbaşında şir şəkli",
                 "isPanagram": false,
                 "score": 6,
                 "length": 6
             },
             {
-                "word": "ZİNDAN",
-                "explanation": "is. [fars.] 1. keçmiş zamanlarda:qaranlıq və müdhiş dustaqxana (adətən yerinaltında olardı). ***a atmaq",
+                "word": "DANSIQ",
+                "explanation": "is. məh. abır",
                 "isPanagram": false,
                 "score": 6,
                 "length": 6
             },
             {
-                "word": "RADİOZOND",
-                "explanation": "[lat. radiare və fr. sonde]müxtəlif yüksəkliklərdə havanın təzyiqini",
+                "word": "QAÇQIN",
+                "explanation": "is. müharibə",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6
+            },
+            {
+                "word": "QASNAQ",
+                "explanation": "is. 1. sağalmaq üzrə olan yaranınüzündə əmələ gələn qabıq",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6
+            },
+            {
+                "word": "QIDQID",
+                "explanation": "is. dan. deyinmə; dedi-qodu",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6
+            },
+            {
+                "word": "QISNAQ",
+                "explanation": "1. is. çox çətin girilə bilən yer.2. sif. tələsik",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6
+            },
+            {
+                "word": "SANDIQ",
+                "explanation": "is. [ər. sənduq] 1. içərisinə paltarvə başqa şeylər qoymaq üçün taxtadanqayrılıb",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6
+            },
+            {
+                "word": "QAÇAQAÇ",
+                "explanation": "sif. bir təhlükə üzündən",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7
+            },
+            {
+                "word": "QAÇAQÇI",
+                "explanation": "is. köhn. qaçaq mal gətirməkləməşğul olan adam. [hacı qara:] hamısınatövbələtmə verrəm ki",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7
+            },
+            {
+                "word": "QAQQANA",
+                "explanation": "is. qaqqıltı. pilləkəni titrətdi muştuluqçu qonşu qızın ***sı. r.rza. □ ***q çalmaq – 1) qaqqıldamaq",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7
+            },
+            {
+                "word": "QISAQIÇ",
+                "explanation": "sif. qıçları çox qısa olan. ***lı kişi",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7
+            },
+            {
+                "word": "SINAQÇI",
+                "explanation": "is. aparatları",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7
+            },
+            {
+                "word": "SINIQÇI",
+                "explanation": "is. çıxmış və ya sınmış sümüyüyerinə sala bilən arahəkimi. biçarə qolununağrısından bitab düşüb",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7
+            },
+            {
+                "word": "QAQQANAQ",
+                "explanation": "is. qaqqıltı. pilləkəni titrətdi muştuluqçu qonşu qızın qaqqanası. r.rza. □ *** çalmaq – 1) qaqqıldamaq",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8
+            },
+            {
+                "word": "QANIAÇIQ",
+                "explanation": "sif. solğun",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8
+            },
+            {
+                "word": "QISQANAN",
+                "explanation": "f.sif. bax qısqanc. mənimrəhmətlik ərim də çox *** adamdı.m.s.ordubadi",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8
+            },
+            {
+                "word": "AÇIQSAÇIQ",
+                "explanation": "sif. və zərf 1. pərişan",
+                "isPanagram": false,
+                "score": 9,
+                "length": 9
+            },
+            {
+                "word": "SINIQSINIQ",
+                "explanation": "sif. və zərf sınıq",
+                "isPanagram": false,
+                "score": 10,
+                "length": 10
+            },
+            {
+                "word": "SANDIQÇA",
+                "explanation": "is. kiçik sandıq. üzükləri ***yaqoymaq. – [şəhrəbanu xanım:]şərəfnisə xanım",
                 "isPanagram": true,
                 "score": 17,
-                "length": 9
+                "length": 8
             }
         ]
     }

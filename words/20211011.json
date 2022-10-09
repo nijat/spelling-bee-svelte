@@ -2,196 +2,168 @@
     "gameData": {
         "day": "20211011",
         "expiration": "1633989540",
-        "centerLetter": "D",
-        "validLetters": [
-            "E",
-            "K",
-            "Y",
-            "D",
-            "Ş",
-            "Ə",
-            "İ"
+        "centerLetter": "U",
+        "outterLetters": [
+            "P",
+            "Ç",
+            "G",
+            "Q",
+            "L",
+            "O"
         ],
         "words_info": {
-            "word_count": 24,
-            "sum_score": 116,
+            "word_count": 20,
+            "sum_score": 118,
             "panagram_count": 1,
             "word_length": {
-                "5": 9,
-                "10": 2,
-                "4": 8,
-                "7": 3,
-                "6": 2
+                "5": 7,
+                "8": 2,
+                "6": 5,
+                "4": 3,
+                "7": 2,
+                "11": 1
             }
         },
         "words": [
             {
-                "word": "DƏDƏ",
-                "explanation": "is. 1. ata. *** görməyib",
+                "word": "QOÇU",
+                "explanation": "is. köhn. keçmişdə: xalqa əziyyət verən",
                 "isPanagram": false,
                 "score": 1,
                 "length": 4
             },
             {
-                "word": "DƏYƏ",
-                "explanation": "is. qarğıdan və s.-dən düzəldilmişkomacıq; alaçıq",
+                "word": "QULP",
+                "explanation": "is. qabların və s. şeylərin əl tutanyeri",
                 "isPanagram": false,
                 "score": 1,
                 "length": 4
             },
             {
-                "word": "DİDƏ",
-                "explanation": "is. [fars.] klas. göz. gər inanmazsan ki",
+                "word": "UÇUQ",
+                "explanation": "is. qızdırmadan və ya başqa səbəbdəndodaqda çıxan qabarcıq(lar). dodağına*** çıxmaq",
                 "isPanagram": false,
                 "score": 1,
                 "length": 4
             },
             {
-                "word": "DİŞƏ",
-                "explanation": "is. bot. çöldə bitən və heyvan yemikimi istifadə olunan dənli ot növü. yazındumanlı günlərində yerdən göyərən ***otları yeyən at hörükdə idi",
-                "isPanagram": false,
-                "score": 1,
-                "length": 4
-            },
-            {
-                "word": "DİŞİ",
-                "explanation": "sif. və is. 1. canlıların doğan və yumurtlayancinsi (erkək ziddi). *** buzov.madyan atların ***sinə deyilir",
-                "isPanagram": false,
-                "score": 1,
-                "length": 4
-            },
-            {
-                "word": "DİYƏ",
-                "explanation": "is. [ər.] köhn. keçmiş zamanda: öldürülmüşadam və ya heyvan əvəzinə öldürəninverməli olduğu mal və ya pul; qanbahası",
-                "isPanagram": false,
-                "score": 1,
-                "length": 4
-            },
-            {
-                "word": "EDİŞ",
-                "explanation": "is. etmək işi",
-                "isPanagram": false,
-                "score": 1,
-                "length": 4
-            },
-            {
-                "word": "ƏDƏD",
-                "explanation": "is. [ər.] 1. say",
-                "isPanagram": false,
-                "score": 1,
-                "length": 4
-            },
-            {
-                "word": "DEŞİK",
-                "explanation": "is. 1. dəlik",
+                "word": "ÇULLU",
+                "explanation": "sif. çulu olan",
                 "isPanagram": false,
                 "score": 5,
                 "length": 5
             },
             {
-                "word": "DEYİŞ",
-                "explanation": "is. söz döyüşdürmə",
+                "word": "GOPÇU",
+                "explanation": "sif. bir şeyi həddən artıq şişirdərəkdanışmağa",
                 "isPanagram": false,
                 "score": 5,
                 "length": 5
             },
             {
-                "word": "DƏKKƏ",
-                "explanation": "is. məh. iri heyvanların (inək",
+                "word": "QOLLU",
+                "explanation": "sif. qolları olan. *** jaket. ***paltar",
                 "isPanagram": false,
                 "score": 5,
                 "length": 5
             },
             {
-                "word": "DİDİK",
-                "explanation": "sif. didilmiş halda olan. *** yun.*** ət. *** gündə",
+                "word": "QOPUQ",
+                "explanation": "1. sif. qopmuş",
                 "isPanagram": false,
                 "score": 5,
                 "length": 5
             },
             {
-                "word": "ƏDƏDİ",
-                "explanation": "sif. [ər.] riyaz. ədədlərlə ifadəolunan. *** kəmiyyət. ədəbi nisbət. –diferensial tənlikləri təqribi həll etmək üçünmüxtəlif qrafik və *** meto",
+                "word": "QUQQU",
+                "explanation": "is. zool. adətən özünə yuva tikməyib",
                 "isPanagram": false,
                 "score": 5,
                 "length": 5
             },
             {
-                "word": "ƏŞƏDD",
-                "explanation": "sif. [ər.] şiddətli",
+                "word": "LOPUQ",
+                "explanation": "is. əyləncə üçün köpürülmüş ordlarayavaşca yumruqla",
                 "isPanagram": false,
                 "score": 5,
                 "length": 5
             },
             {
-                "word": "ŞƏDDƏ",
-                "explanation": "is. [ər.] 1. bax təşdid.2. sapa düzülmüş mirvari",
+                "word": "PULLU",
+                "explanation": "sif. 1. varlı",
                 "isPanagram": false,
                 "score": 5,
                 "length": 5
             },
             {
-                "word": "ŞƏDİD",
-                "explanation": "sif. [ər.] klas. şiddətli",
-                "isPanagram": false,
-                "score": 5,
-                "length": 5
-            },
-            {
-                "word": "YEDƏK",
-                "explanation": "is. 1. heyvanı çəkib arxasıncaaparmaq üçün boynuna və ya boyunduruğunabağlanan ip. inəyi yedəyindən tutub çəkmək",
-                "isPanagram": false,
-                "score": 5,
-                "length": 5
-            },
-            {
-                "word": "DİŞDİŞ",
-                "explanation": "sif. dişlər halında olan; üzərindədişlər",
+                "word": "QOÇLUQ",
+                "explanation": "is. dan. igidlik",
                 "isPanagram": false,
                 "score": 6,
                 "length": 6
             },
             {
-                "word": "DİŞDƏK",
-                "explanation": "is. məh. həsir toxunmasında işlədiləndişli ağac alət",
+                "word": "QUQULU",
+                "explanation": "is. məh. 1. bütöv çıxarılmış qoz içi",
                 "isPanagram": false,
                 "score": 6,
                 "length": 6
             },
             {
-                "word": "DƏYİŞƏK",
-                "explanation": "is. alt paltar",
+                "word": "QULLUQ",
+                "explanation": "is. 1. xidmət",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6
+            },
+            {
+                "word": "QULPLU",
+                "explanation": "sif. qulpu",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6
+            },
+            {
+                "word": "ULULUQ",
+                "explanation": "is. böyüklük",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6
+            },
+            {
+                "word": "QOÇULUQ",
+                "explanation": "is. köhn. qolçomaqlıq",
                 "isPanagram": false,
                 "score": 7,
                 "length": 7
             },
             {
-                "word": "DƏYİŞİK",
-                "explanation": "is. 1. bax dəyişək. 2. dəyişilmiş",
+                "word": "QUQQULU",
+                "explanation": "is. məh. 1. bütöv çıxarılmış qoz içi",
                 "isPanagram": false,
                 "score": 7,
                 "length": 7
             },
             {
-                "word": "DEŞİKDEŞİK",
-                "explanation": "sif. çox deşiyi olan. *** divar. deşik-deşik kağız. □ deşik-deşik eləmək – çoxlu deşik açmaq",
+                "word": "QULLUQÇU",
+                "explanation": "is. 1. zehni əməyin müxtəlifsahələrində muzd ilə işləyən işçi; idarəxidmətçisi. keçmiş vaxtlarda dəftərxanalarda***ların gündə biri idarə bağl",
                 "isPanagram": false,
-                "score": 10,
-                "length": 10
+                "score": 8,
+                "length": 8
             },
             {
-                "word": "DİDİKDİDİK",
-                "explanation": "sif. çox didilmiş",
+                "word": "QULLUQÇULUQ",
+                "explanation": "is. maaşla bir idarədəvə ya bir yerdə xidmət etmə",
                 "isPanagram": false,
-                "score": 10,
-                "length": 10
+                "score": 11,
+                "length": 11
             },
             {
-                "word": "YEKƏDİŞ",
-                "explanation": "sif. dişləri çox iri olan",
+                "word": "GOPÇULUQ",
+                "explanation": "is. dan. mübaliğə ilə danışmaqxasiyyəti",
                 "isPanagram": true,
                 "score": 17,
-                "length": 7
+                "length": 8
             }
         ]
     }

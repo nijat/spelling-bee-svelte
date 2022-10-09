@@ -2,40 +2,39 @@
     "gameData": {
         "day": "20211004",
         "expiration": "1633384740",
-        "centerLetter": "L",
-        "validLetters": [
-            "A",
+        "centerLetter": "T",
+        "outterLetters": [
             "R",
-            "T",
-            "L",
-            "Ş",
             "Ə",
-            "İ"
+            "A",
+            "L",
+            "F",
+            "I"
         ],
         "words_info": {
-            "word_count": 52,
-            "sum_score": 224,
+            "word_count": 37,
+            "sum_score": 169,
             "panagram_count": 1,
             "word_length": {
-                "4": 19,
-                "6": 12,
-                "7": 2,
-                "5": 14,
-                "8": 4,
-                "9": 1
+                "4": 13,
+                "6": 7,
+                "7": 5,
+                "11": 1,
+                "5": 10,
+                "8": 1
             }
         },
         "words": [
             {
-                "word": "AİLƏ",
-                "explanation": "is. [ər.] 1. ata-anadan",
+                "word": "AFAT",
+                "explanation": "is. [ər. “afət” söz. cəmi] bax afət1-ci mənada. [nəsib:] mat-məəttəl qalmışamki",
                 "isPanagram": false,
                 "score": 1,
                 "length": 4
             },
             {
-                "word": "ALAŞ",
-                "explanation": "is. bax ala1 1-ci mənada",
+                "word": "AFƏT",
+                "explanation": "is. [ər.] 1. bəla",
                 "isPanagram": false,
                 "score": 1,
                 "length": 4
@@ -48,85 +47,43 @@
                 "length": 4
             },
             {
-                "word": "ATİL",
-                "explanation": "sif. [ər.] tənbəl",
+                "word": "ARAT",
+                "explanation": "is. k.t. şumlanıb sulanmış",
                 "isPanagram": false,
                 "score": 1,
                 "length": 4
             },
             {
-                "word": "ƏLİL",
-                "explanation": "is. və sif. xəstəlik və ya qocalıqnəticəsində əmək qabiliyyətini itirmiş;şikəst. ***lər cəmiyyəti",
+                "word": "ATAT",
+                "explanation": "is. uşaqların ağac üstə minərəkoynadıqları oyun. at-at oynamaq",
                 "isPanagram": false,
                 "score": 1,
                 "length": 4
             },
             {
-                "word": "ƏLLİ",
-                "explanation": "sif. 1. əli olan. iri *** adam. 2. məc. qolu güclü",
+                "word": "ATLI",
+                "explanation": "1. sif. at minmiş",
                 "isPanagram": false,
                 "score": 1,
                 "length": 4
             },
             {
-                "word": "ƏRLİ",
-                "explanation": "sif. əri olan. ev tikdirənlər təkcə*** qadınlar deyildi. ə.əbülhəsən. // is. mənasında.*** qadın",
+                "word": "ƏTƏR",
+                "explanation": "is. dan. iz",
                 "isPanagram": false,
                 "score": 1,
                 "length": 4
             },
             {
-                "word": "ƏTLİ",
-                "explanation": "sif. 1. ətcə dolğun; kök",
+                "word": "FATA",
+                "explanation": "is. [lat.] duvaq",
                 "isPanagram": false,
                 "score": 1,
                 "length": 4
             },
             {
-                "word": "LALƏ",
-                "explanation": "is. [fars.] 1. bot. iriləçəkli qırmızıçiçəkləri olan bitki və bu bitkinin çiçəyi. bitərçəməndə ***lər",
-                "isPanagram": false,
-                "score": 1,
-                "length": 4
-            },
-            {
-                "word": "LƏLƏ",
-                "explanation": "is. 1. keçmişdə kübar və varlı ai***rdəoğlan uşağının tərbiyəsilə məşğul olanadam. [qətibə xanım:] səba xanım",
-                "isPanagram": false,
-                "score": 1,
-                "length": 4
-            },
-            {
-                "word": "LİRƏ",
-                "explanation": "[ital.] türkiyədə",
-                "isPanagram": false,
-                "score": 1,
-                "length": 4
-            },
-            {
-                "word": "LİTR",
-                "explanation": "[fr. ***e] 1000 kub santimetrə bərabər maye ölçüsü. bir *** süd",
-                "isPanagram": false,
-                "score": 1,
-                "length": 4
-            },
-            {
-                "word": "RİAL",
-                "explanation": "is. [fars.] iranda pul vahidi",
-                "isPanagram": false,
-                "score": 1,
-                "length": 4
-            },
-            {
-                "word": "ŞƏLƏ",
-                "explanation": "is. arxada aparıla biləcək qədərbağlanmış yük (şax",
-                "isPanagram": false,
-                "score": 1,
-                "length": 4
-            },
-            {
-                "word": "ŞİLƏ",
-                "explanation": "is. qatı düyü şorbası. nə yemisənturşulu ***. (ata. sözü). elədir",
+                "word": "LIRT",
+                "explanation": "sif. 1. çox dəyib sulanmış. *** armud.*** əzgil.2. məc. süst",
                 "isPanagram": false,
                 "score": 1,
                 "length": 4
@@ -160,57 +117,36 @@
                 "length": 4
             },
             {
-                "word": "ALAŞA",
-                "explanation": "is. arıq at; yabı. [qardaşı:] [sadıqkişi]",
+                "word": "ATALI",
+                "explanation": "sif. atası olan. *** uşaq. ***(z.) böyümək",
                 "isPanagram": false,
                 "score": 5,
                 "length": 5
             },
             {
-                "word": "LƏLƏŞ",
-                "explanation": "is. zar. bir adam özünü öydüyü",
+                "word": "ƏTFAL",
+                "explanation": "is. [ər. “tifl” söz. cəmi] klas.uşaqlar",
                 "isPanagram": false,
                 "score": 5,
                 "length": 5
             },
             {
-                "word": "LİLLİ",
-                "explanation": "sif. lehməli",
+                "word": "ƏTRAF",
+                "explanation": "is. [ər. “tərəf” söz. cəmi] 1. cəhətlər",
                 "isPanagram": false,
                 "score": 5,
                 "length": 5
             },
             {
-                "word": "RALLİ",
-                "explanation": "is. [ing.] avtomobil idmanı üzrə1000-2000 km məsafədə keçirilən yarışlarkompleksi",
+                "word": "ƏTTAR",
+                "explanation": "is. [ər.] köhn. 1. ətirli şeylər",
                 "isPanagram": false,
                 "score": 5,
                 "length": 5
             },
             {
-                "word": "ŞƏLTƏ",
-                "explanation": "is. 1. qadın alt tumanı",
-                "isPanagram": false,
-                "score": 5,
-                "length": 5
-            },
-            {
-                "word": "ŞƏTƏL",
-                "explanation": "is. məh. yun corab",
-                "isPanagram": false,
-                "score": 5,
-                "length": 5
-            },
-            {
-                "word": "ŞİRLİ",
-                "explanation": "sif. şir vurulmuş",
-                "isPanagram": false,
-                "score": 5,
-                "length": 5
-            },
-            {
-                "word": "ŞİTİL",
-                "explanation": "is. sonradan çıxarılıb başqa yerdəəkilmək üçün parnikdə (istixanada) və yaxüsusi ləklərdə yetişdirilən bitki",
+                "word": "TAFTA",
+                "explanation": "is. [fars.] sıx toxunmuş ipək vəya pambıq parça. [tarverdi:] a gədə",
                 "isPanagram": false,
                 "score": 5,
                 "length": 5
@@ -223,8 +159,15 @@
                 "length": 5
             },
             {
-                "word": "TƏLAŞ",
-                "explanation": "[ər.] is. 1. həyəcan",
+                "word": "TATAR",
+                "explanation": "is. 1. ***ıstanın əsas əhalisinitəşkil edən türkdilli xalq və bu xalqa mənsubadam.2. volqaboyunda",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "TƏLƏF",
+                "explanation": "is. [ər.] : *** etmək (eləmək) – məhv etmək",
                 "isPanagram": false,
                 "score": 5,
                 "length": 5
@@ -237,43 +180,22 @@
                 "length": 5
             },
             {
-                "word": "TƏRLİ",
-                "explanation": "sif. 1. tərləmiş",
+                "word": "TƏRƏF",
+                "explanation": "is. [ər.] 1. bir şeydən hər hansıistiqamətə doğru yerləşən sahə",
                 "isPanagram": false,
                 "score": 5,
                 "length": 5
             },
             {
-                "word": "TƏTİL",
-                "explanation": "is. [ər.] 1. işin kütləvi və mütəşəkkilsurətdə dayandırılması. aprelin iyirmi doqquzundabaşlanan xırda ***lər iyulun ikisindənümumi *** şəklini",
-                "isPanagram": false,
-                "score": 5,
-                "length": 5
-            },
-            {
-                "word": "TİRLİ",
-                "explanation": "sif. tiri (tirləri) olan",
-                "isPanagram": false,
-                "score": 5,
-                "length": 5
-            },
-            {
-                "word": "AİLƏLİ",
-                "explanation": "sif. ailəsi olan",
+                "word": "AFTAFA",
+                "explanation": "is. lüləyi və qulpu olan su qabı;lüləyin. səriyyə tas və ***nı gətiribmübaşir məmmədin … əllərinə su tökdü",
                 "isPanagram": false,
                 "score": 6,
                 "length": 6
             },
             {
-                "word": "ATƏŞLİ",
-                "explanation": "sif. 1. hərarətli",
-                "isPanagram": false,
-                "score": 6,
-                "length": 6
-            },
-            {
-                "word": "ƏLİİTİ",
-                "explanation": "sif. əldən çapıq; zirək",
+                "word": "ƏLALTI",
+                "explanation": "1. sif. və is. əl altında işləyən",
                 "isPanagram": false,
                 "score": 6,
                 "length": 6
@@ -286,57 +208,29 @@
                 "length": 6
             },
             {
-                "word": "ƏTİRLİ",
-                "explanation": "sif. 1. özündən ətir saçan; rayihəli.*** çiçəklər. *** otlar. – bu bağçalardaev sahibləri *** güllər və çiçəklərəkmişdilər",
+                "word": "RƏFƏTƏ",
+                "explanation": "is. çörəyi təndirə yapmaq üçünalət. üzü pörtmüş şatır oxlovçunun verdiyixəmiri əlindəki ***nin üstünə yayıb təndirəyapırdı",
                 "isPanagram": false,
                 "score": 6,
                 "length": 6
             },
             {
-                "word": "LALƏLİ",
-                "explanation": "sif. lalə bitmiş",
+                "word": "RƏFTAR",
+                "explanation": "is. [fars.] birisinə və ya bir şeyəqarşı göstərilən münasibət",
                 "isPanagram": false,
                 "score": 6,
                 "length": 6
             },
             {
-                "word": "ŞƏLALƏ",
-                "explanation": "is. çay yatağında sıldırım qayadantökülən güclü su axını; çağlayan",
+                "word": "TATARI",
+                "explanation": "is. qırmanc",
                 "isPanagram": false,
                 "score": 6,
                 "length": 6
             },
             {
-                "word": "ŞƏLƏLİ",
-                "explanation": "sif. dalına şələ götürmüş",
-                "isPanagram": false,
-                "score": 6,
-                "length": 6
-            },
-            {
-                "word": "ŞƏRTLİ",
-                "explanation": "sif. əvvəlcədən şərtləşdirilmiş",
-                "isPanagram": false,
-                "score": 6,
-                "length": 6
-            },
-            {
-                "word": "ŞİRƏLİ",
-                "explanation": "sif. 1. şirəsi olan",
-                "isPanagram": false,
-                "score": 6,
-                "length": 6
-            },
-            {
-                "word": "TALAŞA",
-                "explanation": "is. balta ağzından çıxan kiçikağac",
-                "isPanagram": false,
-                "score": 6,
-                "length": 6
-            },
-            {
-                "word": "TİTƏLİ",
-                "explanation": "sif. titəsi olan",
+                "word": "TIRTIL",
+                "explanation": "is. 1. zool. bir neçə cütayaqlı qurdabənzərbədəni olan kəpənək sürfəsi. kəpənək***ı.2. yoldakı maneələri keçmə qabiliyyətiniartırmaq üçün maşın",
                 "isPanagram": false,
                 "score": 6,
                 "length": 6
@@ -349,46 +243,46 @@
                 "length": 7
             },
             {
-                "word": "ŞƏŞƏƏLİ",
-                "explanation": "sif. təntənəli",
+                "word": "LƏTAFƏT",
+                "explanation": "is. [ər.] 1. lətiflik",
                 "isPanagram": false,
                 "score": 7,
                 "length": 7
             },
             {
-                "word": "ƏRİŞTƏLİ",
-                "explanation": "sif. tərkibində əriştə olan",
+                "word": "TƏLƏFAT",
+                "explanation": "is. [ər. “tələf” söz. cəmi] hərbi əməliyyat",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7
+            },
+            {
+                "word": "TIRILTI",
+                "explanation": "is. tır-tır səsi. həyətdə eşidilənmotor ***sı qoşqarın əzablı düşüncələriniyarıda qırdı. i.hüseynov",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7
+            },
+            {
+                "word": "TIRTILLI",
+                "explanation": "sif. tırtılı olan",
                 "isPanagram": false,
                 "score": 8,
                 "length": 8
             },
             {
-                "word": "ƏTALƏTLİ",
-                "explanation": "sif. 1. hərəkətsiz",
+                "word": "ALTITARLALI",
+                "explanation": "sif. k.t. altı ildən bir dövredən (əkin dəyişmə). *** təsərrüfat.*** əkin",
                 "isPanagram": false,
-                "score": 8,
-                "length": 8
+                "score": 11,
+                "length": 11
             },
             {
-                "word": "ŞƏLALƏLİ",
-                "explanation": "sif. şəlaləsi",
-                "isPanagram": false,
-                "score": 8,
-                "length": 8
-            },
-            {
-                "word": "ŞƏRARƏLİ",
-                "explanation": "sif. qığılcımlı",
-                "isPanagram": false,
-                "score": 8,
-                "length": 8
-            },
-            {
-                "word": "ŞƏTARƏTLİ",
-                "explanation": "sif. şən",
+                "word": "ƏTRAFLI",
+                "explanation": "sif. müfəssəl",
                 "isPanagram": true,
                 "score": 17,
-                "length": 9
+                "length": 7
             }
         ]
     }

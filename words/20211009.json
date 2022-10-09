@@ -2,260 +2,273 @@
     "gameData": {
         "day": "20211009",
         "expiration": "1633816740",
-        "centerLetter": "N",
-        "validLetters": [
-            "A",
+        "centerLetter": "A",
+        "outterLetters": [
+            "P",
             "R",
-            "Q",
-            "N",
-            "B",
-            "U",
-            "Ğ"
+            "İ",
+            "T",
+            "O",
+            "V"
         ],
         "words_info": {
-            "word_count": 33,
-            "sum_score": 180,
-            "panagram_count": 2,
+            "word_count": 35,
+            "sum_score": 145,
+            "panagram_count": 1,
             "word_length": {
-                "6": 6,
-                "5": 12,
-                "4": 7,
-                "7": 5,
-                "8": 1,
-                "10": 2
+                "5": 9,
+                "6": 5,
+                "7": 3,
+                "4": 15,
+                "9": 1,
+                "8": 2
             }
         },
         "words": [
             {
-                "word": "ARAN",
-                "explanation": "is. azərbaycanda: yaylaq yerlərənisbətən alçaq və iqlimcə isti olan yerlər.azərbaycanın əsas *** yerləri muğan",
+                "word": "ARAT",
+                "explanation": "is. k.t. şumlanıb sulanmış",
                 "isPanagram": false,
                 "score": 1,
                 "length": 4
             },
             {
-                "word": "BANU",
-                "explanation": "is. [fars.] köhn. xanım. açıldı başın",
+                "word": "ARPA",
+                "explanation": "is. 1. adətən",
                 "isPanagram": false,
                 "score": 1,
                 "length": 4
             },
             {
-                "word": "QAAN",
-                "explanation": "is. tar. türk",
+                "word": "ARVA",
+                "explanation": "is. dan. içinə şey qoyulan və yatökülən qabların (qutu",
                 "isPanagram": false,
                 "score": 1,
                 "length": 4
             },
             {
-                "word": "QRAN",
-                "explanation": "[lat.] riyaz. 0",
+                "word": "ATAT",
+                "explanation": "is. uşaqların ağac üstə minərəkoynadıqları oyun. at-at oynamaq",
                 "isPanagram": false,
                 "score": 1,
                 "length": 4
             },
             {
-                "word": "NUQA",
-                "explanation": "is. [fr.] şəkər və qozdan hazırlanmışşirniyyat növü; qənnadı məmulatı",
+                "word": "AVAR",
+                "explanation": "is. məh. keçmişdə kənd evlərinindamına döşənən qamışaoxşar ot; ümumiyyətlə",
                 "isPanagram": false,
                 "score": 1,
                 "length": 4
             },
             {
-                "word": "RANQ",
-                "explanation": "is. [fr.] fərqlənmə dərəcəsi; kateqoriya",
+                "word": "AVİA",
+                "explanation": "[lat.] mürəkkəb sözlərin əvvəlində ***siya mənasını ifadə edir",
                 "isPanagram": false,
                 "score": 1,
                 "length": 4
             },
             {
-                "word": "URNA",
-                "explanation": "is. [lat.] 1. yandırılmış cənazəninkülünü saxlamaq üçün qab.2. seçki qutusu; səsvermə qutusu",
+                "word": "AVTO",
+                "explanation": "[fr.] ***mobil. uzanmış şəhərin polad əlləri; qatarlar",
                 "isPanagram": false,
                 "score": 1,
                 "length": 4
             },
             {
-                "word": "AĞNAQ",
-                "explanation": "is. məh. 1. heyvanın ağnadığı yer.2. dağlarda torpağı sürüşmüş və ya suyuyub aparmış yer.3. bir yerə yığılıb iylənən palçıqlı su",
+                "word": "ORTA",
+                "explanation": "1. is. bir şeyin kənarlarından",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "PAPA",
+                "explanation": "[lat.] roma katolik kilsəsinin başçısı.[iblis:] bəzən oluram bir ***! cənnətsatıram mən; isa dirilib gəlsə də qorxar qəzəbimdən",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "PARA",
+                "explanation": "is. [fars. parə] 1. bir parça",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "POTA",
+                "explanation": "1. is. adətən donuz",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "RAVİ",
+                "explanation": "is. [ər.] klas. rəvayət edən",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "TAVA",
+                "explanation": "is. içində ət və s. qızartmaq üçünkənarları yastı",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "TAVR",
+                "explanation": "is. krımın cənub hissəsinin qədiməhalisi",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "TOPA",
+                "explanation": "sif. və is. 1. qalaq",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "AORTA",
+                "explanation": "is. [yun.] anat. ürəyin sağ mədəciyindənçıxan və bədənin (ciyərlərdənbaşqa) bütün üzvlərini arterial qanla təchizedən ən böyük qan damarı; şah dama",
                 "isPanagram": false,
                 "score": 5,
                 "length": 5
             },
             {
-                "word": "ANBAR",
-                "explanation": "is. taxıl",
+                "word": "APORT",
+                "explanation": "[xüs. is.-dən] alma ağacı növüvə bu ağacın çox qalan turşməzə-şirin irialması. *** özünü yaxşı tozlamır",
                 "isPanagram": false,
                 "score": 5,
                 "length": 5
             },
             {
-                "word": "ANQAR",
-                "explanation": "[fr.] təyyarələrin saxlanması vəcari təmiri üçün xüsusi tikili. ***lar istifadəsinəgörə daimi",
+                "word": "AVARA",
+                "explanation": "[fars.] 1. is. heç bir işlə məşğul olmayaraq boş-boş gəzən adam",
                 "isPanagram": false,
                 "score": 5,
                 "length": 5
             },
             {
-                "word": "BARAN",
-                "explanation": "is. [fars.] klas. yağış",
+                "word": "PİRAT",
+                "explanation": "[lat. əsli yun.] tar. dəniz qulduru",
                 "isPanagram": false,
                 "score": 5,
                 "length": 5
             },
             {
-                "word": "BURUN",
-                "explanation": "is. 1. insan və heyvanın üzündə iybilmə və tənəffüs orqanı. dik ***. düz ***. yastı ***. *** pərdəsi (*** deşiklərinin arasındakı pərdə)",
+                "word": "TATAR",
+                "explanation": "is. 1. ***ıstanın əsas əhalisinitəşkil edən türkdilli xalq və bu xalqa mənsubadam.2. volqaboyunda",
                 "isPanagram": false,
                 "score": 5,
                 "length": 5
             },
             {
-                "word": "QABAN",
-                "explanation": "is. vəhşi donuzun erkəyi. ***əti. *** ovu. çöl donuzuna *** da deyilir.– kənddən bir dənə biyar araba gətirib",
+                "word": "TAVAR",
+                "explanation": "is. balaq (camış balası)",
                 "isPanagram": false,
                 "score": 5,
                 "length": 5
             },
             {
-                "word": "QANUN",
-                "explanation": "is. [ər. əsli yun.] 1. ictimai vəhüquqi münasibətlərin hər hansı bir sahəsininizama salmaq üçün dövlət tərəfindənmüəyyən edilən qərar",
+                "word": "TAVOT",
+                "explanation": "is. sürtkü yağlarının bir növü",
                 "isPanagram": false,
                 "score": 5,
                 "length": 5
             },
             {
-                "word": "QARUN",
-                "explanation": "is. [xüs. is.-dən] çox dövlətli",
+                "word": "TORTA",
+                "explanation": "is. yağ və s. əridilərkən qabın dibinəçökən çöküntü. kərə yağın ***sı; qızılkəmər ortası; allah muradın versin; gələnbazar ertəsi",
                 "isPanagram": false,
                 "score": 5,
                 "length": 5
             },
             {
-                "word": "QURAN",
-                "explanation": "is. müsəlmanların müqəddəsdini kitabı. nə bilir oxumayan müshəfi-hüsnünşərhin; yerə gögdən nə üçün endigini***ın",
+                "word": "VAPOR",
+                "explanation": "[lat. “buxar” sözündən] buxar gəmisi",
                 "isPanagram": false,
                 "score": 5,
                 "length": 5
             },
             {
-                "word": "QURNA",
-                "explanation": "is. 1. çeşmə",
-                "isPanagram": false,
-                "score": 5,
-                "length": 5
-            },
-            {
-                "word": "NAQAN",
-                "explanation": "[xüs. is.-dən] hərlənən topu(barabanı) olan tapança növü. [balaqardaş:]güldəstə! bir gözümün içinə dürüst bax! bu***ı görürsənmi? n",
-                "isPanagram": false,
-                "score": 5,
-                "length": 5
-            },
-            {
-                "word": "NAQQA",
-                "explanation": "is. zool. şirin suda yaşayan üstü pulsuz",
-                "isPanagram": false,
-                "score": 5,
-                "length": 5
-            },
-            {
-                "word": "AĞARAN",
-                "explanation": "f.sif. 1. uzaqdan görünən",
+                "word": "APARAT",
+                "explanation": "[lat.] 1. tex. alət",
                 "isPanagram": false,
                 "score": 6,
                 "length": 6
             },
             {
-                "word": "BAĞBAN",
-                "explanation": "is. [fars.] 1. bağa baxan",
+                "word": "APRİOR",
+                "explanation": "[lat.] fəls. təcrübədən və təcrübənin nəticəsindən asılı olmayaraq. *** bilik",
                 "isPanagram": false,
                 "score": 6,
                 "length": 6
             },
             {
-                "word": "QARNAQ",
-                "explanation": "is. məh. qar duran yer",
+                "word": "RAPİRA",
+                "explanation": "[fr.] dördüzlü uzun elastik tiyəsi olan itiuclu silah (indi ancaq təlim və qılıncoynatma idmanında işlədilir)",
                 "isPanagram": false,
                 "score": 6,
                 "length": 6
             },
             {
-                "word": "QURBAN",
-                "explanation": "is. [ər.] 1. dini adətlərə görə",
+                "word": "RAPORT",
+                "explanation": "[fr.] 1. hərbi xidmətçinin özböyüyünə verdiyi şifahi və ya yazılı məlumat",
                 "isPanagram": false,
                 "score": 6,
                 "length": 6
             },
             {
-                "word": "QURĞAN",
-                "explanation": "is. məh. hasar; böyük və hündürbarı",
+                "word": "VİVARİ",
+                "explanation": "is. [lat.] təcrübədə istifadə olunmaqüçün müxtəlif heyvanlar",
                 "isPanagram": false,
                 "score": 6,
                 "length": 6
             },
             {
-                "word": "NAĞARA",
-                "explanation": "is. hər iki üzünə dəri çəkilmişsilindrik gövdəli zərb musiqi aləti. ***çalmaq. – kəndin yuxarı tərəfində qarazurnamələyir",
-                "isPanagram": false,
-                "score": 6,
-                "length": 6
-            },
-            {
-                "word": "BAĞANAQ",
-                "explanation": "is. qıçların hövsələ sümüyünəbitişən yeri",
+                "word": "APRİORİ",
+                "explanation": "[lat.] fəls. təcrübədən və təcrübənin nəticəsindən asılı olmayaraq. aprior bilik",
                 "isPanagram": false,
                 "score": 7,
                 "length": 7
             },
             {
-                "word": "BURAĞAN",
-                "explanation": "is. buruq-buruq dönərək",
+                "word": "AVİATOR",
+                "explanation": "[fr.] hava donanmasındatəyyarəçi",
                 "isPanagram": false,
                 "score": 7,
                 "length": 7
             },
             {
-                "word": "QAQQANA",
-                "explanation": "is. qaqqıltı. pilləkəni titrətdi muştuluqçu qonşu qızın ***sı. r.rza. □ ***q çalmaq – 1) qaqqıldamaq",
+                "word": "TORVARİ",
+                "explanation": "sif. tora oxşayan",
                 "isPanagram": false,
                 "score": 7,
                 "length": 7
             },
             {
-                "word": "QARANQU",
-                "explanation": "is. və sif. “qaranlıq” sözününqədimi forması. saçın ***sundan yüzünnuri göründü; hər qanda şam olursa",
-                "isPanagram": false,
-                "score": 7,
-                "length": 7
-            },
-            {
-                "word": "QARARAN",
-                "explanation": "is. bot. qış otlaqlarında bitənçoxillik yem bitkisi",
-                "isPanagram": false,
-                "score": 7,
-                "length": 7
-            },
-            {
-                "word": "QAQQANAQ",
-                "explanation": "is. qaqqıltı. pilləkəni titrətdi muştuluqçu qonşu qızın qaqqanası. r.rza. □ *** çalmaq – 1) qaqqıldamaq",
+                "word": "TOPATOPA",
+                "explanation": "sif. və zərf 1. qalaq-qalaq",
                 "isPanagram": false,
                 "score": 8,
                 "length": 8
             },
             {
-                "word": "QARĞABURNU",
-                "explanation": "is. 1. qapını içəridənkilidləmək üçün qarmaq",
-                "isPanagram": true,
-                "score": 17,
-                "length": 10
+                "word": "PARTAPART",
+                "explanation": "is. çoxlu silahdan atəş açılarkənçıxan səs. göydən dolu kimi top gülləsitökülür",
+                "isPanagram": false,
+                "score": 9,
+                "length": 9
             },
             {
-                "word": "QARĞABURUN",
-                "explanation": "sif. dan. burnunun ucuqabağa uzanmış",
+                "word": "PORTATİV",
+                "explanation": "sif. [fr.] yanda",
                 "isPanagram": true,
                 "score": 17,
-                "length": 10
+                "length": 8
             }
         ]
     }

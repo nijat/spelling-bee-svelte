@@ -3,216 +3,182 @@
         "day": "20211012",
         "expiration": "1634075940",
         "centerLetter": "K",
-        "validLetters": [
-            "A",
+        "outterLetters": [
             "R",
-            "Z",
-            "K",
-            "Q",
-            "M",
-            "Ə"
+            "U",
+            "E",
+            "T",
+            "A",
+            "O"
         ],
         "words_info": {
-            "word_count": 27,
-            "sum_score": 127,
+            "word_count": 22,
+            "sum_score": 142,
             "panagram_count": 1,
             "word_length": {
-                "4": 8,
-                "5": 9,
+                "5": 4,
                 "6": 7,
-                "7": 1,
-                "8": 2
+                "9": 2,
+                "10": 1,
+                "4": 2,
+                "7": 5,
+                "8": 1
             }
         },
         "words": [
             {
-                "word": "ƏKMƏ",
-                "explanation": "1. “***k1”dən f.is. şitil ***.2. sif. əkilmiş",
+                "word": "KURA",
+                "explanation": "is. bot. sarı rəngli yabanı yeməlibitki",
                 "isPanagram": false,
                 "score": 1,
                 "length": 4
             },
             {
-                "word": "ƏMƏK",
-                "explanation": "is. insanın əqli və cismani gərginliktələb edən məqsədəuyğun və ictimaicəhətdən faydalı fəaliyyəti; zəhmət",
+                "word": "TREK",
+                "explanation": "is. [ing.] idm. tamaşaçı tribunalarıilə əhatələnən və bərk örtüyü (beton",
                 "isPanagram": false,
                 "score": 1,
                 "length": 4
             },
             {
-                "word": "ƏRKƏ",
-                "explanation": "is. uşaq",
-                "isPanagram": false,
-                "score": 1,
-                "length": 4
-            },
-            {
-                "word": "KƏKƏ",
-                "explanation": "sif. danışarkən ***ləyən; kəkov.*** uşaq. anadan *** (z.) doğulmaq",
-                "isPanagram": false,
-                "score": 1,
-                "length": 4
-            },
-            {
-                "word": "KƏRƏ",
-                "explanation": "zərf [ər.] dəfə. iki *** iki elər dörd. adama neçə *** deyərlər. iki *** getmək. bir *** görmək. – adam adamı bir *** aldadar",
-                "isPanagram": false,
-                "score": 1,
-                "length": 4
-            },
-            {
-                "word": "MƏKƏ",
-                "explanation": "is. qarğıdalı",
-                "isPanagram": false,
-                "score": 1,
-                "length": 4
-            },
-            {
-                "word": "MƏKR",
-                "explanation": "is. [ər.] hiylə",
-                "isPanagram": false,
-                "score": 1,
-                "length": 4
-            },
-            {
-                "word": "ZƏKA",
-                "explanation": "is. [ər.] bir şeyi tez anlama",
-                "isPanagram": false,
-                "score": 1,
-                "length": 4
-            },
-            {
-                "word": "ƏKMƏK",
-                "explanation": "is. çörək. [üçüncü satıcı:] qızarmıştazə ***",
+                "word": "EKKER",
+                "explanation": "[fr.] yerdə müəyyən dərəcəli bucaqlarqurmaq üçün geodeziya aləti; künyə",
                 "isPanagram": false,
                 "score": 5,
                 "length": 5
             },
             {
-                "word": "ƏKRƏM",
-                "explanation": "sif. [ər.] klas. kəramətli",
+                "word": "KARAT",
+                "explanation": "is. [ərəbcədən] xüs. qiymətlidaşların 200-206 mq-a bərabər çəki ölçüsü",
                 "isPanagram": false,
                 "score": 5,
                 "length": 5
             },
             {
-                "word": "KƏKRƏ",
-                "explanation": "is. bot. əsasən dəvələrin yediyi yabanı acı ot bitkisi",
+                "word": "KATER",
+                "explanation": "[ing. cutter] yaxın məsafələrdə işləmək üçün motorlu və ya yelkənli kiçik gəmi. zirehli ***. yedək ***i",
                 "isPanagram": false,
                 "score": 5,
                 "length": 5
             },
             {
-                "word": "KƏMƏR",
-                "explanation": "is. [fars.] 1. bax qayış 1-cimənada. ***i qırılmaq. təzə *** almaq.belinə *** bağlamaq. // paltar",
+                "word": "KATTA",
+                "explanation": "is. dan. bax kətxuda. ***nıgör",
                 "isPanagram": false,
                 "score": 5,
                 "length": 5
             },
             {
-                "word": "KƏRƏM",
-                "explanation": "is. [ər.] köhn. lütf",
-                "isPanagram": false,
-                "score": 5,
-                "length": 5
-            },
-            {
-                "word": "KƏRKƏ",
-                "explanation": "is. zool. şirin sularda yaşayan",
-                "isPanagram": false,
-                "score": 5,
-                "length": 5
-            },
-            {
-                "word": "KƏRRƏ",
-                "explanation": "[ər.] bax kərə3. bir *** düşəndəxəbər al badi-səbadan; saçın həvəsigör ki",
-                "isPanagram": false,
-                "score": 5,
-                "length": 5
-            },
-            {
-                "word": "QAMAK",
-                "explanation": "is. torlu asma yataq",
-                "isPanagram": false,
-                "score": 5,
-                "length": 5
-            },
-            {
-                "word": "MƏRƏK",
-                "explanation": "is. 1. saman",
-                "isPanagram": false,
-                "score": 5,
-                "length": 5
-            },
-            {
-                "word": "ƏMƏZƏK",
-                "explanation": "sif. 1. anasını əmməmək",
+                "word": "KARKOR",
+                "explanation": "is. həm qulağı eşitməyən",
                 "isPanagram": false,
                 "score": 6,
                 "length": 6
             },
             {
-                "word": "ƏZMKAR",
-                "explanation": "sif. [ər. əzm və fars. …kar]əzmli",
+                "word": "KARATE",
+                "explanation": "is. [lat.] 1. özünü müdafiə sistemi.2. güləş növü",
                 "isPanagram": false,
                 "score": 6,
                 "length": 6
             },
             {
-                "word": "QƏRZƏK",
-                "explanation": "is. məh. təzə qoz",
+                "word": "KARTER",
+                "explanation": "is. [ing.] 1. mexanizmi zədədənvə tozdan qoruyan qurğu.2. içində mexanizm yerləşən metal qutu",
                 "isPanagram": false,
                 "score": 6,
                 "length": 6
             },
             {
-                "word": "MAKAKA",
-                "explanation": "is. [port.] əntərlər yarımfəsiləsindənolan meymun",
+                "word": "KROKET",
+                "explanation": "[ing.] 1. şarları taxta çəkiclərləvurub məftil qapılardan keçirməkdən ibarətoyun. *** oynamaq. // bu oyun üçün ləvazimat",
                 "isPanagram": false,
                 "score": 6,
                 "length": 6
             },
             {
-                "word": "MƏKƏRƏ",
-                "explanation": "is. [rus. “yarmarka”dan] 1917-ciil inqilabından əvvəl azərbaycanlılar nijninovqorodşəhərində hər il keçirilən yarmarkanıbu cür adlandırardılar",
+                "word": "KUTKUT",
+                "explanation": "zərf və sif. yığın halında",
                 "isPanagram": false,
                 "score": 6,
                 "length": 6
             },
             {
-                "word": "MƏRƏKƏ",
-                "explanation": "is. [ər.] 1. səs-küy",
+                "word": "REKTOR",
+                "explanation": "[lat. rector – rəhbər",
                 "isPanagram": false,
                 "score": 6,
                 "length": 6
             },
             {
-                "word": "MƏRKƏZ",
-                "explanation": "is. [ər.] 1. fiz. riyaz. fiqurdahər hansı oxların",
+                "word": "ROKOKO",
+                "explanation": "[fr.] xvııı əsrdə fransadameydana gəlib formalarının zərifliyi və mürəkkəbliyi",
                 "isPanagram": false,
                 "score": 6,
                 "length": 6
             },
             {
-                "word": "KAZARMA",
-                "explanation": "[fr. əsli ital.] hərbi hissələriyerləşdirmək üçün xüsusi bina; qışla. əsgər***sı. // köhn. fabrik və ya zavod yanındafəhlələr üçün ümumi yataqx",
+                "word": "KURATOR",
+                "explanation": "is. [lat.] müəyyən işin gedişinə",
                 "isPanagram": false,
                 "score": 7,
                 "length": 7
             },
             {
-                "word": "QƏRƏZKAR",
-                "explanation": "sif. [ər. qərəz və fars. …kar]bax qərəzli. *** oxudu axşamımızın;uzaq məqsədini dan yerimizdən",
+                "word": "REAKTOR",
+                "explanation": "[lat.] arasıkəsilməz və tənzimedilə bilən atom enerjisi almaq üçün qurğularsistemi (bu",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7
+            },
+            {
+                "word": "TOKKATA",
+                "explanation": "[ital.] mus. fortepiano və yaorqanda sürətlə və canlı ritmik hərəkətlə ifaolunan musiqi pyesi",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7
+            },
+            {
+                "word": "TRAKTAT",
+                "explanation": "[lat. tractaus – müzakirə]1. ayrıca bir məsələdən",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7
+            },
+            {
+                "word": "TRAKTOR",
+                "explanation": "[ing.] kənd təsərrüfatı alətlərinivə başqa alətləri çəkib aparmaq üçünözüyeriyən maşın. tırtıllı ***",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7
+            },
+            {
+                "word": "REKTORAT",
+                "explanation": "[lat.] bax rektorluq 2-cimənada",
                 "isPanagram": false,
                 "score": 8,
                 "length": 8
             },
             {
-                "word": "QƏMZƏKAR",
-                "explanation": "[ər. qəmzə və fars. kar]bax qəmzəli",
+                "word": "KARTOTEKA",
+                "explanation": "[alm. karte və yun. theke]1. is. müəyyən sistem üzrə yığılmış məlumatya uçot mahiyyətli kartoçkalar toplusu",
+                "isPanagram": false,
+                "score": 9,
+                "length": 9
+            },
+            {
+                "word": "KORREKTOR",
+                "explanation": "[lat.] korrektura oxuyanvə düzəldən mətbəə və ya nəşriyyat işçisi;müsəhhih",
+                "isPanagram": false,
+                "score": 9,
+                "length": 9
+            },
+            {
+                "word": "KORREKTURA",
+                "explanation": "[lat. correctio – düzəliş]1. mətbəədə yığılmış mətn (nabor) səhvlərinindüzəldilməsi",
                 "isPanagram": true,
                 "score": 17,
-                "length": 8
+                "length": 10
             }
         ]
     }

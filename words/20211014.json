@@ -2,238 +2,519 @@
     "gameData": {
         "day": "20211014",
         "expiration": "1634248740",
-        "centerLetter": "L",
-        "validLetters": [
+        "centerLetter": "I",
+        "outterLetters": [
+            "Ç",
+            "Q",
             "A",
-            "T",
-            "N",
             "L",
-            "Y",
-            "S",
-            "İ"
+            "H",
+            "B"
         ],
         "words_info": {
-            "word_count": 30,
-            "sum_score": 137,
+            "word_count": 70,
+            "sum_score": 434,
             "panagram_count": 1,
             "word_length": {
-                "7": 2,
-                "5": 16,
+                "5": 18,
                 "4": 8,
-                "6": 3,
-                "10": 1
+                "7": 18,
+                "8": 9,
+                "6": 9,
+                "9": 4,
+                "10": 4
             }
         },
         "words": [
             {
-                "word": "ALAY",
-                "explanation": "is. 1. camaat",
+                "word": "AÇIQ",
+                "explanation": "sif. 1. qapalı olmayan",
                 "isPanagram": false,
                 "score": 1,
                 "length": 4
             },
             {
-                "word": "ATİL",
-                "explanation": "sif. [ər.] tənbəl",
+                "word": "AHIL",
+                "explanation": "sif. [fars.] yaşa dolmuş",
                 "isPanagram": false,
                 "score": 1,
                 "length": 4
             },
             {
-                "word": "LAST",
-                "explanation": "is. [ing.] sualtı üzgüçülükdə istifadəedilən xüsusi rezin ayaqlıq",
+                "word": "ALÇI",
+                "explanation": "is. aşıq-aşıq oyununda: aşığın birüzü",
                 "isPanagram": false,
                 "score": 1,
                 "length": 4
             },
             {
-                "word": "NAİL",
-                "explanation": "[ər.] : *** olmaq – əldə etmək",
+                "word": "ALIQ",
+                "explanation": "is. köhn. öküz",
                 "isPanagram": false,
                 "score": 1,
                 "length": 4
             },
             {
-                "word": "SAİL",
-                "explanation": "is. [ər.] dilənçi",
+                "word": "ALLI",
+                "explanation": "sif. köhn. al rəngli paltar geymiş.tərifli gözəllər gəlhagəl oldu; yaşıllı",
                 "isPanagram": false,
                 "score": 1,
                 "length": 4
             },
             {
-                "word": "SİLL",
-                "explanation": "is. [ər.] köhn. vərəm. [ələkbər:] hərkim bu arvadın üzünə baxsa",
+                "word": "BABI",
+                "explanation": "is. [xüs. is.-dən] 1. xıx əsrin ortasında iranda “bab” təxəllüslü mirzə əli məhəmməd tərəfindən təsis edilmiş dini təriqətə mənsub olan adam",
                 "isPanagram": false,
                 "score": 1,
                 "length": 4
             },
             {
-                "word": "STİL",
-                "explanation": "[fr. style] bax üslub",
+                "word": "ÇALI",
+                "explanation": "is. kol-kos",
                 "isPanagram": false,
                 "score": 1,
                 "length": 4
             },
             {
-                "word": "TALA",
-                "explanation": "is. meşədə ağacsız",
+                "word": "QIÇA",
+                "explanation": "is. bir şeyin bölündüyü",
                 "isPanagram": false,
                 "score": 1,
                 "length": 4
             },
             {
-                "word": "ALANA",
-                "explanation": "is. içərisi şəkərli qozla doldurulmuşmeyvə qurusu (armud",
+                "word": "ABALI",
+                "explanation": "is. köhn. aba geymiş",
                 "isPanagram": false,
                 "score": 5,
                 "length": 5
             },
             {
-                "word": "ASLAN",
-                "explanation": "is. 1. şir",
+                "word": "ALAHI",
+                "explanation": "sif. [ər.] dan. ayrı",
                 "isPanagram": false,
                 "score": 5,
                 "length": 5
             },
             {
-                "word": "LAYLA",
-                "explanation": "is. 1. körpə uşaqları yatırtmaq üçün hava ilə oxunan həzin şeir parçası; nənni",
+                "word": "ALALI",
+                "explanation": "sif. alası olan",
                 "isPanagram": false,
                 "score": 5,
                 "length": 5
             },
             {
-                "word": "LİANA",
-                "explanation": "[fr.] bot. tropik meşələrdə",
+                "word": "ALLIQ",
+                "explanation": "is. al rəngli şeyin halı; qırmızılıq.bu ***da gül olmaz. – geniş payız meşəsibir allığa və rəngarəng sarılığa boyanırdı",
                 "isPanagram": false,
                 "score": 5,
                 "length": 5
             },
             {
-                "word": "LİLLİ",
-                "explanation": "sif. lehməli",
+                "word": "BALIQ",
+                "explanation": "is. məh. oturaq kənd",
                 "isPanagram": false,
                 "score": 5,
                 "length": 5
             },
             {
-                "word": "LİSAN",
-                "explanation": "is. [ər.] klas. dil. ey oğul",
+                "word": "BALLI",
+                "explanation": "sif. 1. bal qatılmış. *** konfet.2. məc. bal kimi şirin. bir alagözlünüsevibdi könül; dəhani püstədir",
                 "isPanagram": false,
                 "score": 5,
                 "length": 5
             },
             {
-                "word": "NALAN",
-                "explanation": "sif. və zərf [fars.] ağlayan",
+                "word": "BIÇAQ",
+                "explanation": "is. 1. kəsmək üçün alət. bağbanbıçağı. ət bıçağı. cib bıçağı.2. müxtəlif alətlərin",
                 "isPanagram": false,
                 "score": 5,
                 "length": 5
             },
             {
-                "word": "SALAT",
-                "explanation": "[ər.] dəfn günü vəfat edənin evinin üstündə uca səslə oxunan minacat. □ *** çəkmək – vəfat edənin evinin üstündə uca səslə minacat oxumaq",
+                "word": "BIÇQI",
+                "explanation": "is. mişar",
                 "isPanagram": false,
                 "score": 5,
                 "length": 5
             },
             {
-                "word": "SİNLİ",
-                "explanation": "sif. yaşlı",
+                "word": "ÇAQIL",
+                "explanation": "is. çınqıl",
                 "isPanagram": false,
                 "score": 5,
                 "length": 5
             },
             {
-                "word": "SİSLİ",
-                "explanation": "sif. çənli",
+                "word": "HAQLI",
+                "explanation": "sif. düz deyən",
                 "isPanagram": false,
                 "score": 5,
                 "length": 5
             },
             {
-                "word": "SİTAL",
-                "explanation": "sif. sırtıq",
+                "word": "HALLI",
+                "explanation": "sif. və is. 1. kefli",
                 "isPanagram": false,
                 "score": 5,
                 "length": 5
             },
             {
-                "word": "SİYAL",
-                "explanation": "is. məh. üzümdə gülləmə xəstəliyi",
+                "word": "QABIQ",
+                "explanation": "is. 1. bir şeyin üstünü örtən sərt örtü. ağacın qabığı. yumurtanın qabığı. qoz qabığı. – mağaranın içi yumşaq ağac ***ları ilə döşənmişdi",
                 "isPanagram": false,
                 "score": 5,
                 "length": 5
             },
             {
-                "word": "TALAN",
-                "explanation": "is. [fars.] 1. qarət",
+                "word": "QALIQ",
+                "explanation": "is. 1. bir şeyin",
                 "isPanagram": false,
                 "score": 5,
                 "length": 5
             },
             {
-                "word": "TİNLİ",
-                "explanation": "sif. tini olan; tilli. iti *** stol",
+                "word": "QALLI",
+                "explanation": "sif. qalmaqal salan",
                 "isPanagram": false,
                 "score": 5,
                 "length": 5
             },
             {
-                "word": "YALAN",
-                "explanation": "is. aldatmaq məqsədi ilə deyilənəsilsiz söz (doğru",
+                "word": "QILIQ",
+                "explanation": "is. xasiyyət",
                 "isPanagram": false,
                 "score": 5,
                 "length": 5
             },
             {
-                "word": "YAYLA",
-                "explanation": "is. 1. ***q. [molla həmid:]allaha şükür",
+                "word": "QILLI",
+                "explanation": "sif. 1. üzərində qıllar olan",
                 "isPanagram": false,
                 "score": 5,
                 "length": 5
             },
             {
-                "word": "LAYLAY",
-                "explanation": "is. 1. körpə uşaqları yatırtmaq üçün hava ilə oxunan həzin şeir parçası; nənni",
+                "word": "LALIQ",
+                "explanation": "sif. həddindən artıq dəyib boşalmış",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "LIQQA",
+                "explanation": "is. yağmurdan",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "ALAÇIQ",
+                "explanation": "is. çubuqdan qurulub üstü keçəilə örtülən köçəri mənzili; çadır. [bayram:]…gecə vaxtı qorxudan alaçığın çətinindənbaşımı dışarı çıxara bilmənəm",
                 "isPanagram": false,
                 "score": 6,
                 "length": 6
             },
             {
-                "word": "SAYTAL",
-                "explanation": "sif. məh. boylu-buxunlu",
+                "word": "ALAQÇI",
+                "explanation": "is. alaq vuran",
                 "isPanagram": false,
                 "score": 6,
                 "length": 6
             },
             {
-                "word": "TANTAL",
-                "explanation": "is. [lat.] elementlərin dövrü sistemininv qrupundan ta-kimyəvi element",
+                "word": "ALAQLI",
+                "explanation": "sif. alaq basmış",
                 "isPanagram": false,
                 "score": 6,
                 "length": 6
             },
             {
-                "word": "ALATALA",
-                "explanation": "sif. tala-tala",
+                "word": "ALBALI",
+                "explanation": "is. tündqırmızı rəngli",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6
+            },
+            {
+                "word": "BAHALI",
+                "explanation": "sif. 1. bax baha 2-ci mənada.*** parça. – [gövhərin] ağzı",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6
+            },
+            {
+                "word": "BALALI",
+                "explanation": "sif. yanında balası olan. ***inək. *** qoyun. *** camış",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6
+            },
+            {
+                "word": "HAÇALI",
+                "explanation": "sif. haça şəklində olan",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6
+            },
+            {
+                "word": "QILÇIQ",
+                "explanation": "is. 1. sünbüldə dənin qişası ucundakıuzun",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6
+            },
+            {
+                "word": "LALLIQ",
+                "explanation": "is. lal adamın halı",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6
+            },
+            {
+                "word": "AÇIQLIQ",
+                "explanation": "is. 1. açıq yer",
                 "isPanagram": false,
                 "score": 7,
                 "length": 7
             },
             {
-                "word": "ANLAYAN",
-                "explanation": "f.sif. başa düşən",
+                "word": "AHILLIQ",
+                "explanation": "is. ahıl adamın halı",
                 "isPanagram": false,
                 "score": 7,
                 "length": 7
             },
             {
-                "word": "LİSANİYYAT",
-                "explanation": "is. [ər.] köhn. dilçilik",
+                "word": "ALAQLIQ",
+                "explanation": "is. alağı çox olan",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7
+            },
+            {
+                "word": "ALÇALIQ",
+                "explanation": "is. alça bağı",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7
+            },
+            {
+                "word": "BABALIQ",
+                "explanation": "is. 1. ögey baba.2. babanın nəvələri üzərindəki haqqı.// baba ilə nəvəsi arasındakı qan qohumluğu",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7
+            },
+            {
+                "word": "BABILIQ",
+                "explanation": "is. [xüs. is.-dən] 1. babi məzhəbi; xıx əsrin ortalarında iranda “bab” təxəllüslü mirzə əli məhəmməd adlı bir şəxs tərəfindən təsis edilmiş dini təriq",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7
+            },
+            {
+                "word": "BAHALIQ",
+                "explanation": "is. hər şeyin qiyməti çox yüksəkolduğu vəziyyət. *** düşmək.*** salmaq. – bahalığın qabağınıalmaq üçün yeyinti şeylərini ucuz qiymətəsatma",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7
+            },
+            {
+                "word": "BALALIQ",
+                "explanation": "is. anat. heyvanlarda rüşeymininkişaf etdiyi daxili üzv",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7
+            },
+            {
+                "word": "BALIQÇI",
+                "explanation": "is. 1. balıq ovlayan",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7
+            },
+            {
+                "word": "BALIQLI",
+                "explanation": "sif. 1. içərisində balıq olan.*** göl. *** çay. *** sular.2. balıqdan hazırlanmış (yemək)",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7
+            },
+            {
+                "word": "BIÇAQÇI",
+                "explanation": "is. 1. bıçaq qayıran usta. bakıda",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7
+            },
+            {
+                "word": "BIÇAQLI",
+                "explanation": "sif. bıçağı olan",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7
+            },
+            {
+                "word": "BIÇQIÇI",
+                "explanation": "is. bıçqı ilə ağac və s. kəsən(adam); mişarçı",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7
+            },
+            {
+                "word": "QABALIQ",
+                "explanation": "is. 1. incəlikdən",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7
+            },
+            {
+                "word": "QABIQLI",
+                "explanation": "sif. qabıqla örtülü olan",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7
+            },
+            {
+                "word": "QAÇAQÇI",
+                "explanation": "is. köhn. qaçaq mal gətirməkləməşğul olan adam. [hacı qara:] hamısınatövbələtmə verrəm ki",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7
+            },
+            {
+                "word": "QALIQLI",
+                "explanation": "sif. riyaz. böldükdə qalıq qalan(bax qalıq 4-cü mənada)",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7
+            },
+            {
+                "word": "QILIQLI",
+                "explanation": "sif. yaxşı xasiyyətli",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7
+            },
+            {
+                "word": "ALABALIQ",
+                "explanation": "is. zool. bax qızılxallı",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8
+            },
+            {
+                "word": "ALÇAQLIQ",
+                "explanation": "is. 1. alçaq şeyin halı. damınalçaqlığı. ağacın alçaqlığı. divarın alçaqlığı.2. boy qısalığı.3. məc",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8
+            },
+            {
+                "word": "ALLAHLIQ",
+                "explanation": "is. məc. dan. hökmranlıq",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8
+            },
+            {
+                "word": "HAQLILIQ",
+                "explanation": "is. fikirdə",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8
+            },
+            {
+                "word": "HALALLIQ",
+                "explanation": "is.: *** almaq – ölərkənvə ya uzun müddət ayrılarkən vaxtilə etmişolduğu pisliyin",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8
+            },
+            {
+                "word": "QABAQLIQ",
+                "explanation": "is. qabaq əkilmiş yer",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8
+            },
+            {
+                "word": "QAÇAQLIQ",
+                "explanation": "is. 1. quldurluq. [bahadır:]görünür",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8
+            },
+            {
+                "word": "QILÇIQLI",
+                "explanation": "sif. qılçığı olan",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8
+            },
+            {
+                "word": "QILLILIQ",
+                "explanation": "is. qıllı olma",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8
+            },
+            {
+                "word": "ALAQÇILIQ",
+                "explanation": "is. alaqçının işi",
+                "isPanagram": false,
+                "score": 9,
+                "length": 9
+            },
+            {
+                "word": "ALBALILIQ",
+                "explanation": "is. albalı bağı; albalı ağaclarıəkilmiş yer",
+                "isPanagram": false,
+                "score": 9,
+                "length": 9
+            },
+            {
+                "word": "BAQQALLIQ",
+                "explanation": "is. köhn. baqqal sənəti.*** etmək",
+                "isPanagram": false,
+                "score": 9,
+                "length": 9
+            },
+            {
+                "word": "BALIQÇILIQ",
+                "explanation": "is. balıq tutma sənəti",
+                "isPanagram": false,
+                "score": 10,
+                "length": 10
+            },
+            {
+                "word": "BIÇAQÇILIQ",
+                "explanation": "is. bıçaq qayırma sənəti",
+                "isPanagram": false,
+                "score": 10,
+                "length": 10
+            },
+            {
+                "word": "QAÇAQÇILIQ",
+                "explanation": "is. qaçaq mal gətirməkləməşğul olma; qaçaqçının işi",
+                "isPanagram": false,
+                "score": 10,
+                "length": 10
+            },
+            {
+                "word": "QILIQLILIQ",
+                "explanation": "is. yaxşı xasiyyətlilik",
+                "isPanagram": false,
+                "score": 10,
+                "length": 10
+            },
+            {
+                "word": "BAHAÇILIQ",
+                "explanation": "is. bahaçı adamın xasiyyəti. mircümə ilə başqa qaçaqların bir fərqi vardısa",
                 "isPanagram": true,
                 "score": 17,
-                "length": 10
+                "length": 9
             }
         ]
     }

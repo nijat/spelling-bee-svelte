@@ -2,138 +2,241 @@
     "gameData": {
         "day": "20211013",
         "expiration": "1634162340",
-        "centerLetter": "B",
-        "validLetters": [
-            "A",
-            "E",
-            "L",
-            "B",
-            "I",
+        "centerLetter": "Ə",
+        "outterLetters": [
+            "C",
+            "Y",
+            "S",
+            "T",
             "İ",
-            "Ğ"
+            "N"
         ],
         "words_info": {
-            "word_count": 16,
-            "sum_score": 75,
+            "word_count": 31,
+            "sum_score": 121,
             "panagram_count": 1,
             "word_length": {
-                "5": 5,
-                "6": 2,
-                "4": 6,
-                "8": 1,
-                "7": 1,
-                "9": 1
+                "6": 6,
+                "9": 1,
+                "4": 14,
+                "5": 8,
+                "7": 2
             }
         },
         "words": [
             {
-                "word": "BABA",
+                "word": "CİYƏ",
+                "explanation": "is. nazik",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "ƏNİN",
+                "explanation": "is. [ər.] şair. inləmə",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "ƏNİS",
+                "explanation": "is. [ər.] şair. yaxın dost",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "ƏSƏN",
+                "explanation": "sif. qəd. sağ",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "ƏTCƏ",
+                "explanation": "is. 1. çılpaq uşaq bədəni.2. bax ***bala. yuvada yumurtadan yenicəçıxmış *** kəklik balaları vardı",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "ƏTƏC",
+                "explanation": "is. məh. yun təmizləyən alət",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "ƏYİN",
+                "explanation": "is. 1. bədənin başdan qeyri bütünhissəsi. əyninə yeni kostyum geymişdir.əynində heç bir şey yoxdur (çılpaqdır)",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "NƏNƏ",
                 "explanation": "is. 1. atanın",
                 "isPanagram": false,
                 "score": 1,
                 "length": 4
             },
             {
-                "word": "BABI",
-                "explanation": "is. [xüs. is.-dən] 1. xıx əsrin ortasında iranda “bab” təxəllüslü mirzə əli məhəmməd tərəfindən təsis edilmiş dini təriqətə mənsub olan adam",
+                "word": "SƏNƏ",
+                "explanation": "is. [ər.] il. bir gecəlik mətləbin bir*** mabədi var. m.ə.sabir. millətin beş*** bundan əqdəm; yüz nəfərdən biri tutmazdıqələm",
                 "isPanagram": false,
                 "score": 1,
                 "length": 4
             },
             {
-                "word": "BABİ",
-                "explanation": "is. [xüs. is.-dən] 1. xıx əsrin ortasında iranda “bab” təxəllüslü mirzə əli məhəmməd tərəfindən təsis edilmiş dini təriqətə mənsub olan adam",
+                "word": "SİNƏ",
+                "explanation": "is. [fars.] 1. döş",
                 "isPanagram": false,
                 "score": 1,
                 "length": 4
             },
             {
-                "word": "BAĞA",
-                "explanation": "is. məh. atların buxovluğundaəmələ gələn xəstəlik (yara)",
+                "word": "TƏNƏ",
+                "explanation": "[ər.] 1. is. danlaq",
                 "isPanagram": false,
                 "score": 1,
                 "length": 4
             },
             {
-                "word": "BALA",
-                "explanation": "1. is. övlad",
+                "word": "TİTƏ",
+                "explanation": "is. bəzi adamların göz bəbəyindəolan ağ ləkə",
                 "isPanagram": false,
                 "score": 1,
                 "length": 4
             },
             {
-                "word": "BİBİ",
-                "explanation": "is. övlad üçün atanın bacısı",
+                "word": "TİYƏ",
+                "explanation": "is. qılınc",
                 "isPanagram": false,
                 "score": 1,
                 "length": 4
             },
             {
-                "word": "ABALI",
-                "explanation": "is. köhn. aba geymiş",
+                "word": "YİYƏ",
+                "explanation": "is. hər hansı bir şey üzərində mülkiyyəthüququ olan adam; sahib. oğul",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "ƏNƏNƏ",
+                "explanation": "is. [ər.] tarixən meydana gələrəknəsildən-nəslə keçən adətlər",
                 "isPanagram": false,
                 "score": 5,
                 "length": 5
             },
             {
-                "word": "BAĞLI",
-                "explanation": "sif. 1. ip",
+                "word": "ƏTƏNƏ",
+                "explanation": "is. məməlilərdə: ana bətnindəbalanı bürüyən və bala onun içindən çıxdıqdansonra cırılıb düşən ət pərdəsi; son",
                 "isPanagram": false,
                 "score": 5,
                 "length": 5
             },
             {
-                "word": "BALBA",
-                "explanation": "is. məh. cincilim",
+                "word": "NƏNNİ",
+                "explanation": "is. 1. körpə uşaqları yatırtmaq üçünasılan kiçik yatacaq. [qumru] uşağı ***yəsalıb küncə qısıldı",
                 "isPanagram": false,
                 "score": 5,
                 "length": 5
             },
             {
-                "word": "BALLI",
-                "explanation": "sif. 1. bal qatılmış. *** konfet.2. məc. bal kimi şirin. bir alagözlünüsevibdi könül; dəhani püstədir",
+                "word": "NİSYƏ",
+                "explanation": "is. 1. bir şeyin nağd pul olmadanalınması və ya satılması. // bu cür alınmış",
                 "isPanagram": false,
                 "score": 5,
                 "length": 5
             },
             {
-                "word": "BIĞLI",
-                "explanation": "sif. bığları olan. *** kişi",
+                "word": "SƏNƏT",
+                "explanation": "is. [ər.] 1. müəyyən hazırlıq tələbedən və sahibinin yaşaması üçün əsas mənbəsayılan əmək fəaliyyətinin bir növü; peşə",
                 "isPanagram": false,
                 "score": 5,
                 "length": 5
             },
             {
-                "word": "ALBALI",
-                "explanation": "is. tündqırmızı rəngli",
+                "word": "TƏSİS",
+                "explanation": "is. [ər.] əsasını",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "TƏYİN",
+                "explanation": "is. [ər.] 1. müəyyən etmə",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "TİNƏT",
+                "explanation": "is. [ər.] klas. xilqət",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "CƏNNƏT",
+                "explanation": "[ər.] bax behişt. bizim babamızadəmə və anamız həvvaya ***də nəəskik idi",
                 "isPanagram": false,
                 "score": 6,
                 "length": 6
             },
             {
-                "word": "BALALI",
-                "explanation": "sif. yanında balası olan. ***inək. *** qoyun. *** camış",
+                "word": "ƏCİNNƏ",
+                "explanation": "is. [ər.] din. köhn. cin. ***padşahı (nağıllarda). – əhmədi-çekkaş durubgəldi evə. çağırıb ***ləri",
                 "isPanagram": false,
                 "score": 6,
                 "length": 6
             },
             {
-                "word": "BELBAĞI",
-                "explanation": "is. belə bağlanılan hər şey(qayış",
+                "word": "ƏYİNTİ",
+                "explanation": "is. 1. əyilmiş yer",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6
+            },
+            {
+                "word": "NƏTİCƏ",
+                "explanation": "is. [ər.] nəvənin uşağı. qocakişi gözü dolusu: – ***",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6
+            },
+            {
+                "word": "NİYYƏT",
+                "explanation": "is. [ər.] 1. məqsəd",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6
+            },
+            {
+                "word": "TƏCNİS",
+                "explanation": "is. [ər.] ədəb. cinas üzərindəqurulub əsasən üç",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6
+            },
+            {
+                "word": "SƏCİYYƏ",
+                "explanation": "is. [ər.] 1. hər hansı bir şeyinvə ya hadisənin başqalarından fərqləndirənxüsusiyyəti; xarakter. hadisənin ***si",
                 "isPanagram": false,
                 "score": 7,
                 "length": 7
             },
             {
-                "word": "BALABİBİ",
-                "explanation": "is. məh. 1. kiçik bibiyə verilənad.2. gəlinlərə verilən ləqəb; gəlinciyəz",
+                "word": "TƏNTƏNƏ",
+                "explanation": "is. [ər.] 1. təmtəraq",
                 "isPanagram": false,
-                "score": 8,
-                "length": 8
+                "score": 7,
+                "length": 7
             },
             {
-                "word": "BELİBAĞLI",
-                "explanation": "sif. beli bağlı olan",
+                "word": "CİNSİYYƏT",
+                "explanation": "is. [ər.] biol. 1. cins",
                 "isPanagram": true,
                 "score": 17,
                 "length": 9

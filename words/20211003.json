@@ -2,270 +2,332 @@
     "gameData": {
         "day": "20211003",
         "expiration": "1633298340",
-        "centerLetter": "O",
-        "validLetters": [
-            "A",
-            "R",
-            "T",
-            "O",
+        "centerLetter": "A",
+        "outterLetters": [
+            "S",
+            "Ə",
             "K",
-            "N",
-            "B"
+            "L",
+            "İ",
+            "N"
         ],
         "words_info": {
-            "word_count": 35,
-            "sum_score": 208,
-            "panagram_count": 2,
+            "word_count": 44,
+            "sum_score": 171,
+            "panagram_count": 1,
             "word_length": {
-                "5": 14,
-                "7": 7,
-                "4": 4,
+                "4": 18,
                 "6": 7,
-                "8": 3
+                "5": 16,
+                "7": 2,
+                "8": 1
             }
         },
         "words": [
             {
-                "word": "BORT",
-                "explanation": "[fr.] 1. gəminin yan divarı",
+                "word": "AİLƏ",
+                "explanation": "is. [ər.] 1. ata-anadan",
                 "isPanagram": false,
                 "score": 1,
                 "length": 4
             },
             {
-                "word": "NOTA",
-                "explanation": "[lat. *** – işarə",
+                "word": "ANƏN",
+                "explanation": "zərf [ər.] birdən",
                 "isPanagram": false,
                 "score": 1,
                 "length": 4
             },
             {
-                "word": "ORTA",
-                "explanation": "1. is. bir şeyin kənarlarından",
+                "word": "ASAN",
+                "explanation": "sif. zəhmət tələb etməyən",
                 "isPanagram": false,
                 "score": 1,
                 "length": 4
             },
             {
-                "word": "TORT",
-                "explanation": "[ital.] yağ",
+                "word": "ƏLAN",
+                "explanation": "zərf [ər.] 1. bu an",
                 "isPanagram": false,
                 "score": 1,
                 "length": 4
             },
             {
-                "word": "ABORT",
-                "explanation": "is. [lat.] tib. hamiləliyin təbii vəya süni surətdə dayandırılması",
+                "word": "ƏSAS",
+                "explanation": "is. [ər.] 1. bünövrə",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "ƏSLA",
+                "explanation": "zərf [ər.] heç",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "ƏSNA",
+                "explanation": "is. [ər.] vaxt",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "KALA",
+                "explanation": "is. məh. böyük şüşə qab",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "KASA",
+                "explanation": "is. [fars.] 1. çini",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "KLAN",
+                "explanation": "is. [ing.] qohumların bir-biri ilətəsərrüfat",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "LALƏ",
+                "explanation": "is. [fars.] 1. bot. iriləçəkli qırmızıçiçəkləri olan bitki və bu bitkinin çiçəyi. bitərçəməndə ***lər",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "NAİL",
+                "explanation": "[ər.] : *** olmaq – əldə etmək",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "NALƏ",
+                "explanation": "is. [fars.] ah-zar",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "NANƏ",
+                "explanation": "[ər.] bot. yeyilən çoxillik ətirligöyərti növü. *** qurutmaq. üç dəstə ***.□ *** cövhəri (arağı) – ***dən çəkilənaraq",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "SAİL",
+                "explanation": "is. [ər.] dilənçi",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "SANİ",
+                "explanation": "sif. [ər.] ikinci",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "SƏNA",
+                "explanation": "is. [ər.] klas. tərif",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "SİAN",
+                "explanation": "is. kəskin iyli",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "ALANA",
+                "explanation": "is. içərisi şəkərli qozla doldurulmuşmeyvə qurusu (armud",
                 "isPanagram": false,
                 "score": 5,
                 "length": 5
             },
             {
-                "word": "ANTON",
-                "explanation": "*** alması [xüs. is.-dən] – payızda yetişən yaşıl-sarı rəngli",
+                "word": "ASLAN",
+                "explanation": "is. 1. şir",
                 "isPanagram": false,
                 "score": 5,
                 "length": 5
             },
             {
-                "word": "AORTA",
-                "explanation": "is. [yun.] anat. ürəyin sağ mədəciyindənçıxan və bədənin (ciyərlərdənbaşqa) bütün üzvlərini arterial qanla təchizedən ən böyük qan damarı; şah dama",
+                "word": "ƏKKAS",
+                "explanation": "is. [ər.] köhn. fotoqrafın köhnəadı",
                 "isPanagram": false,
                 "score": 5,
                 "length": 5
             },
             {
-                "word": "BARON",
-                "explanation": "[fr.] qərbi avropada və bolşevikinqilabına qədər rusiyada qrafdan aşağızadəgan rütbəsi və bu rütbənin sahibi olanadam",
+                "word": "ƏSASİ",
+                "explanation": "sif. [ər.] köhn. bax əsas 2-ci mənada.*** cəhətlər. – həyat *** birdəyişikliyə uğrayınca ədəbiyyat büsbütünbaşını itirdi",
                 "isPanagram": false,
                 "score": 5,
                 "length": 5
             },
             {
-                "word": "BORAN",
-                "explanation": "is. küləkli qar və yağış; çovğun",
+                "word": "KALAN",
+                "explanation": "sif. dan. varlı",
                 "isPanagram": false,
                 "score": 5,
                 "length": 5
             },
             {
-                "word": "KOTAN",
-                "explanation": "is. yer şumlamaq üçün enli metalgavahını olan kənd təsərrüfatı aləti. ***laşumlamaq. *** sürmək",
+                "word": "KALKA",
+                "explanation": "[fr.] 1. çertyojlardan",
                 "isPanagram": false,
                 "score": 5,
                 "length": 5
             },
             {
-                "word": "NORKA",
-                "explanation": "is. [rus.] dələlər fəsiləsindənyırtıcı məməli heyvan cinsi və onun dərisi",
+                "word": "KANAL",
+                "explanation": "[lat.] 1. dəniz",
                 "isPanagram": false,
                 "score": 5,
                 "length": 5
             },
             {
-                "word": "ROBOT",
-                "explanation": "is. [çex.] insana məxsus işləriicra edə bilən avtomat maşın",
+                "word": "KASKA",
+                "explanation": "[fr. casque",
                 "isPanagram": false,
                 "score": 5,
                 "length": 5
             },
             {
-                "word": "ROTOR",
-                "explanation": "[lat. rotare – fırlanma] maşının(turbinin",
+                "word": "KASNİ",
+                "explanation": "is. [fars.] bot. xalq təbabətindəişlədilən incə yarpaqlı",
                 "isPanagram": false,
                 "score": 5,
                 "length": 5
             },
             {
-                "word": "TABOR",
-                "explanation": "is. 1. bir yerdən başqa yerə köçənqaraçı dəstəsi",
+                "word": "KASSA",
+                "explanation": "[ital.] 1. pul",
                 "isPanagram": false,
                 "score": 5,
                 "length": 5
             },
             {
-                "word": "TORAN",
-                "explanation": "is. 1. səhər hava işıqlanan və yaaxşam hava qaralmağa başlayan vaxt; alaqaranlıq.axşam ***ı. – [kazım] səhər ***ındameşəyə girdi",
+                "word": "LAKİN",
+                "explanation": "bağl. [ər.] cümlələri",
                 "isPanagram": false,
                 "score": 5,
                 "length": 5
             },
             {
-                "word": "TORBA",
-                "explanation": "is. 1. balaca kisə. [gülnisə:] ana",
+                "word": "LİANA",
+                "explanation": "[fr.] bot. tropik meşələrdə",
                 "isPanagram": false,
                 "score": 5,
                 "length": 5
             },
             {
-                "word": "TORNA",
-                "explanation": "[ital.] tex. metal",
+                "word": "LİSAN",
+                "explanation": "is. [ər.] klas. dil. ey oğul",
                 "isPanagram": false,
                 "score": 5,
                 "length": 5
             },
             {
-                "word": "TORTA",
-                "explanation": "is. yağ və s. əridilərkən qabın dibinəçökən çöküntü. kərə yağın ***sı; qızılkəmər ortası; allah muradın versin; gələnbazar ertəsi",
+                "word": "NAKƏS",
+                "explanation": "sif. və is. [fars.] şərəfsiz",
                 "isPanagram": false,
                 "score": 5,
                 "length": 5
             },
             {
-                "word": "KANTON",
-                "explanation": "[fr.] bəzi xarici ölkələrdəinzibati-ərazi bölgüsü",
+                "word": "NALAN",
+                "explanation": "sif. və zərf [fars.] ağlayan",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "SAKİN",
+                "explanation": "is. [ər.] 1. bir yerdə yurd salıb yaşayan",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "AİLƏLİ",
+                "explanation": "sif. ailəsi olan",
                 "isPanagram": false,
                 "score": 6,
                 "length": 6
             },
             {
-                "word": "KARKOR",
-                "explanation": "is. həm qulağı eşitməyən",
+                "word": "ANİLİK",
+                "explanation": "is. bir an içində olan şeyinxassəsi",
                 "isPanagram": false,
                 "score": 6,
                 "length": 6
             },
             {
-                "word": "KARBON",
-                "explanation": "[lat.] təbiətdə bütün üzvimaddələrin ən mühüm tərkib hissəsi olankimyəvi element. radioaktiv ***",
+                "word": "ASİLİK",
+                "explanation": "is. 1. itaətsizlik",
                 "isPanagram": false,
                 "score": 6,
                 "length": 6
             },
             {
-                "word": "KARTON",
-                "explanation": "[fr. əsli ital.] xüsusi qaydadahazırlanmış qalın bərk kağız. // ***dandüzəldilmiş. *** qutu",
+                "word": "ƏSASƏN",
+                "explanation": "[ər.] 1. zərf əsli",
                 "isPanagram": false,
                 "score": 6,
                 "length": 6
             },
             {
-                "word": "KOTTON",
-                "explanation": "is. [fr.] trikotaj və corab toxuyanmaşın",
+                "word": "KANKAN",
+                "explanation": "is. [fars.] köhn. əl ilə quyuqazan;quyuçu. ***ın vəsiyyəti qızıl öküzdür.(ata. sözü). [məmməd:] atam ***idi",
                 "isPanagram": false,
                 "score": 6,
                 "length": 6
             },
             {
-                "word": "NANKOR",
-                "explanation": "sif. və is. [fars.] yaxşılıq bilməyən",
+                "word": "LALƏLİ",
+                "explanation": "sif. lalə bitmiş",
                 "isPanagram": false,
                 "score": 6,
                 "length": 6
             },
             {
-                "word": "ROKOKO",
-                "explanation": "[fr.] xvııı əsrdə fransadameydana gəlib formalarının zərifliyi və mürəkkəbliyi",
+                "word": "SALAKA",
+                "explanation": "is. [rus.] balıq növü",
                 "isPanagram": false,
                 "score": 6,
                 "length": 6
             },
             {
-                "word": "BANKNOT",
-                "explanation": "[ing.] mal. dövlət bankı tərəfindənburaxılan və tədavüldə pul kimiişlənilən biletlər. // emissiya bankları tərəfindənburaxılan kredit pulları",
+                "word": "KLASSİK",
+                "explanation": "[lat.] 1. elm",
                 "isPanagram": false,
                 "score": 7,
                 "length": 7
             },
             {
-                "word": "BAROKKO",
-                "explanation": "[ital.] xvı-xvııı əsrlərdəavropada yayılmış çox təmtəraqlı incəsənət(memarlıq) üslubu",
+                "word": "SAİLLİK",
+                "explanation": "is. dilənçilik",
                 "isPanagram": false,
                 "score": 7,
                 "length": 7
             },
             {
-                "word": "KONTAKT",
-                "explanation": "[lat. contactus – toxunma]elektrik xətlərinin (məftillərinin) bir-birinətoxunması. elektrik xəttində *** var",
-                "isPanagram": false,
-                "score": 7,
-                "length": 7
-            },
-            {
-                "word": "ORTABAB",
-                "explanation": "sif. 1. ortayaş(lı)",
-                "isPanagram": false,
-                "score": 7,
-                "length": 7
-            },
-            {
-                "word": "TOKKATA",
-                "explanation": "[ital.] mus. fortepiano və yaorqanda sürətlə və canlı ritmik hərəkətlə ifaolunan musiqi pyesi",
-                "isPanagram": false,
-                "score": 7,
-                "length": 7
-            },
-            {
-                "word": "TRAKTOR",
-                "explanation": "[ing.] kənd təsərrüfatı alətlərinivə başqa alətləri çəkib aparmaq üçünözüyeriyən maşın. tırtıllı ***",
-                "isPanagram": false,
-                "score": 7,
-                "length": 7
-            },
-            {
-                "word": "KARBONAR",
-                "explanation": "[ital. carbonaro] xıx əsrin əvvəllərində italiyada meydana gəlmiş",
-                "isPanagram": false,
-                "score": 8,
-                "length": 8
-            },
-            {
-                "word": "KONTRAKT",
-                "explanation": "[lat.] müqavilə",
-                "isPanagram": false,
-                "score": 8,
-                "length": 8
-            },
-            {
-                "word": "BANKROT",
-                "explanation": "[fr.] müflis",
-                "isPanagram": true,
-                "score": 17,
-                "length": 7
-            },
-            {
-                "word": "KARBONAT",
-                "explanation": "[lat.] 1. kim. karbon turşusuduzu (soda",
+                "word": "NAKƏSLİK",
+                "explanation": "is. alçaqlıq",
                 "isPanagram": true,
                 "score": 17,
                 "length": 8

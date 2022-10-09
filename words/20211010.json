@@ -2,242 +2,220 @@
     "gameData": {
         "day": "20211010",
         "expiration": "1633903140",
-        "centerLetter": "Y",
-        "validLetters": [
-            "A",
+        "centerLetter": "T",
+        "outterLetters": [
+            "C",
             "R",
-            "T",
-            "Y",
-            "S",
             "Ə",
-            "İ"
+            "Ü",
+            "İ",
+            "B"
         ],
         "words_info": {
-            "word_count": 31,
-            "sum_score": 141,
-            "panagram_count": 1,
+            "word_count": 28,
+            "sum_score": 139,
+            "panagram_count": 2,
             "word_length": {
-                "5": 4,
-                "6": 7,
-                "4": 12,
-                "8": 1,
-                "7": 7
+                "6": 5,
+                "9": 1,
+                "7": 4,
+                "5": 9,
+                "4": 9
             }
         },
         "words": [
             {
-                "word": "AYAR",
-                "explanation": "is. dan. 1. barama",
+                "word": "ƏTCƏ",
+                "explanation": "is. 1. çılpaq uşaq bədəni.2. bax ***bala. yuvada yumurtadan yenicəçıxmış *** kəklik balaları vardı",
                 "isPanagram": false,
                 "score": 1,
                 "length": 4
             },
             {
-                "word": "AYAT",
-                "explanation": "is. [ər. “ayə” söz. cəmi] bax ayə11-ci mənada. ya ki",
+                "word": "ƏTƏC",
+                "explanation": "is. məh. yun təmizləyən alət",
                 "isPanagram": false,
                 "score": 1,
                 "length": 4
             },
             {
-                "word": "ƏYAR",
-                "explanation": "is. [ər.] 1. qiymətli metalın saflıqvə xalislik dərəcəsi. üzüyün ***ı. qızılpulun ***ı.2. düzgünlük",
+                "word": "ƏTƏR",
+                "explanation": "is. dan. iz",
                 "isPanagram": false,
                 "score": 1,
                 "length": 4
             },
             {
-                "word": "ƏYRİ",
-                "explanation": "sif. 1. düz istiqamətdə olmayan",
+                "word": "ƏTİR",
+                "explanation": "is. [ər.] 1. gözəl iy",
                 "isPanagram": false,
                 "score": 1,
                 "length": 4
             },
             {
-                "word": "RİYA",
-                "explanation": "is. [ər.] ikiüzlülük. məsciddə həsirieləmə aləti-təzvir; mərdanə qədəh tut",
+                "word": "RƏBT",
+                "explanation": "is. [ər.] 1. bağlama",
                 "isPanagram": false,
                 "score": 1,
                 "length": 4
             },
             {
-                "word": "SAYA",
-                "explanation": "sif. 1. bir rəngdə olan",
+                "word": "TİBB",
+                "explanation": "is. [ər.] 1. xəstəliklər",
                 "isPanagram": false,
                 "score": 1,
                 "length": 4
             },
             {
-                "word": "SAYƏ",
-                "explanation": "is. [fars.] 1. kölgə. sən bir ağacsan ki",
+                "word": "TİRƏ",
+                "explanation": "is. 1. arx",
                 "isPanagram": false,
                 "score": 1,
                 "length": 4
             },
             {
-                "word": "TAYA",
-                "explanation": "is. üst-üstə yığılmış ot",
+                "word": "TİTƏ",
+                "explanation": "is. bəzi adamların göz bəbəyindəolan ağ ləkə",
                 "isPanagram": false,
                 "score": 1,
                 "length": 4
             },
             {
-                "word": "TİYƏ",
-                "explanation": "is. qılınc",
+                "word": "TİTR",
+                "explanation": "[fr.] 1. kinolentdə yazı",
                 "isPanagram": false,
                 "score": 1,
                 "length": 4
             },
             {
-                "word": "YARA",
-                "explanation": "is. 1. bədən",
-                "isPanagram": false,
-                "score": 1,
-                "length": 4
-            },
-            {
-                "word": "YASA",
-                "explanation": "is. [türkcə] qanun. ana *** (konstitusiya)",
-                "isPanagram": false,
-                "score": 1,
-                "length": 4
-            },
-            {
-                "word": "YİYƏ",
-                "explanation": "is. hər hansı bir şey üzərində mülkiyyəthüququ olan adam; sahib. oğul",
-                "isPanagram": false,
-                "score": 1,
-                "length": 4
-            },
-            {
-                "word": "ARİYA",
-                "explanation": "[ital.] mus. 1. opera",
+                "word": "CÜRƏT",
+                "explanation": "is. [ər.] cəsarət",
                 "isPanagram": false,
                 "score": 5,
                 "length": 5
             },
             {
-                "word": "ƏYYAR",
-                "explanation": "sif. və is. [ər.] hiyləbaz",
+                "word": "RİCƏT",
+                "explanation": "is. [ər.] 1. geriyə dönmə",
                 "isPanagram": false,
                 "score": 5,
                 "length": 5
             },
             {
-                "word": "SARAY",
-                "explanation": "is. 1. padşahın",
+                "word": "RÜTBƏ",
+                "explanation": "is. [ər.] 1. xidməti dərəcə",
                 "isPanagram": false,
                 "score": 5,
                 "length": 5
             },
             {
-                "word": "YATAR",
-                "explanation": "is. 1. yatmaq",
+                "word": "TƏBƏƏ",
+                "explanation": "is. [ər. “tabe” söz. cəmi] bir dövlətə tabe olan",
                 "isPanagram": false,
                 "score": 5,
                 "length": 5
             },
             {
-                "word": "ARİYƏT",
-                "explanation": "is. [ər.] köhn. burovuz şey",
+                "word": "TƏBİB",
+                "explanation": "is. [ər.] həkim. *** olsam",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "TƏBİİ",
+                "explanation": "sif. [ər.] 1. təbiətə (yer səthinə",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "TƏBİR",
+                "explanation": "is. [ər.] 1. söz",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "TİBBİ",
+                "explanation": "sif. [ər.] tiblə",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "TÜRBƏ",
+                "explanation": "is. [ər.] qəbir",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "BƏRBƏT",
+                "explanation": "is. [ər.] uda oxşar qədim çalğıaləti. əldə incə ***",
                 "isPanagram": false,
                 "score": 6,
                 "length": 6
             },
             {
-                "word": "RİAYƏT",
-                "explanation": "is. [ər.] : *** etmək – gözləmək",
+                "word": "TƏBİƏT",
+                "explanation": "is. [ər.] 1. yerdə təbii şəraitin(yerin səthi",
                 "isPanagram": false,
                 "score": 6,
                 "length": 6
             },
             {
-                "word": "SƏYYAR",
-                "explanation": "sif. [ər.] 1. hərəkət edən",
+                "word": "TƏRƏCƏ",
+                "explanation": "is. üstünə barama qurdu buraxmaqvə ya üstündə pambıq",
                 "isPanagram": false,
                 "score": 6,
                 "length": 6
             },
             {
-                "word": "SİYASİ",
-                "explanation": "sif. [ər.] 1. siyasətlə bağlı",
+                "word": "TƏRTİB",
+                "explanation": "is. [ər.] 1. ayrı-ayrı hissələri",
                 "isPanagram": false,
                 "score": 6,
                 "length": 6
             },
             {
-                "word": "TAYTAY",
-                "explanation": "sif. taylarla",
+                "word": "TÜRBƏT",
+                "explanation": "is. [ər.] 1. torpaq. elə bir ölkədədoğulmuşam ki; onun ***inə minnətdarammən. m.rahim. // məc. müqəddəs torpaq",
                 "isPanagram": false,
                 "score": 6,
                 "length": 6
             },
             {
-                "word": "YARASA",
-                "explanation": "is. 1. zool. gündüzlər yatıb gecələrov edən",
-                "isPanagram": false,
-                "score": 6,
-                "length": 6
-            },
-            {
-                "word": "YASSAR",
-                "explanation": "sif. və is. məh. 1. bacarıqsız",
-                "isPanagram": false,
-                "score": 6,
-                "length": 6
-            },
-            {
-                "word": "RATSİYA",
-                "explanation": "is. az güclü səyyar radiostansiya",
+                "word": "CÜCƏRTİ",
+                "explanation": "is. torpaqdan görünən",
                 "isPanagram": false,
                 "score": 7,
                 "length": 7
             },
             {
-                "word": "RƏİYYƏT",
-                "explanation": "is. [ər.] bir dövlətin tabeliyində olan(lar); təbəə. atabəy məhəmməd",
+                "word": "TƏCRÜBƏ",
+                "explanation": "is. [ər.] 1. sınama",
                 "isPanagram": false,
                 "score": 7,
                 "length": 7
             },
             {
-                "word": "RƏYASƏT",
-                "explanation": "is. [ər.] rəislik",
+                "word": "TƏƏCCÜB",
+                "explanation": "is. [ər.] 1. qeyri-adi",
                 "isPanagram": false,
                 "score": 7,
                 "length": 7
             },
             {
-                "word": "SƏYYARƏ",
-                "explanation": "[ər.] bax planet. gah doğur",
-                "isPanagram": false,
-                "score": 7,
-                "length": 7
+                "word": "BİTƏCRÜBƏ",
+                "explanation": "sif. [fars. bi… və ər. təcrübə]təcrübəsiz",
+                "isPanagram": true,
+                "score": 17,
+                "length": 9
             },
             {
-                "word": "SİYASƏT",
-                "explanation": "is. [ər.] 1. dövlətin",
-                "isPanagram": false,
-                "score": 7,
-                "length": 7
-            },
-            {
-                "word": "TƏYYARƏ",
-                "explanation": "is. [ər.] mühərriki və hərəkətetməyən qanadları olan havadan ağır uçucuaparat. reaktiv ***. sərnişin ***si",
-                "isPanagram": false,
-                "score": 7,
-                "length": 7
-            },
-            {
-                "word": "ƏTRİYYAT",
-                "explanation": "is. [ər. “ətr” söz. cəmi] ətirlimaddələr",
-                "isPanagram": false,
-                "score": 8,
-                "length": 8
-            },
-            {
-                "word": "SİRAYƏT",
-                "explanation": "is. [ər.] yoluxma",
+                "word": "TƏCRÜBİ",
+                "explanation": "[ər.] 1. bax təcrübəvi. şiraslanınindiki *** işi",
                 "isPanagram": true,
                 "score": 17,
                 "length": 7

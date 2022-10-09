@@ -2,239 +2,132 @@
     "gameData": {
         "day": "20211025",
         "expiration": "1635199140",
-        "centerLetter": "N",
-        "validLetters": [
+        "centerLetter": "Ə",
+        "outterLetters": [
+            "P",
+            "U",
+            "Q",
             "A",
-            "R",
-            "Z",
-            "N",
-            "G",
-            "Ü",
-            "Ə"
+            "L",
+            "I"
         ],
         "words_info": {
-            "word_count": 30,
-            "sum_score": 123,
-            "panagram_count": 2,
+            "word_count": 15,
+            "sum_score": 65,
+            "panagram_count": 1,
             "word_length": {
-                "4": 15,
-                "5": 8,
-                "6": 3,
-                "10": 1,
-                "7": 2,
-                "9": 1
+                "5": 4,
+                "6": 2,
+                "4": 7,
+                "9": 1,
+                "11": 1
             }
         },
         "words": [
             {
-                "word": "ANƏN",
-                "explanation": "zərf [ər.] birdən",
+                "word": "QƏLƏ",
+                "explanation": "[ər.] bax qala",
                 "isPanagram": false,
                 "score": 1,
                 "length": 4
             },
             {
-                "word": "ARAN",
-                "explanation": "is. azərbaycanda: yaylaq yerlərənisbətən alçaq və iqlimcə isti olan yerlər.azərbaycanın əsas *** yerləri muğan",
+                "word": "QƏLP",
+                "explanation": "sif. 1. saxta",
                 "isPanagram": false,
                 "score": 1,
                 "length": 4
             },
             {
-                "word": "AZAN",
-                "explanation": "is. [ər.] müsəlmanları namazaçağırmaq üçün ***çının səhər",
+                "word": "LALƏ",
+                "explanation": "is. [fars.] 1. bot. iriləçəkli qırmızıçiçəkləri olan bitki və bu bitkinin çiçəyi. bitərçəməndə ***lər",
                 "isPanagram": false,
                 "score": 1,
                 "length": 4
             },
             {
-                "word": "ƏRƏN",
-                "explanation": "is. (adətən cəm şəklində). 1. ər",
+                "word": "LƏLƏ",
+                "explanation": "is. 1. keçmişdə kübar və varlı ai***rdəoğlan uşağının tərbiyəsilə məşğul olanadam. [qətibə xanım:] səba xanım",
                 "isPanagram": false,
                 "score": 1,
                 "length": 4
             },
             {
-                "word": "ƏZAN",
-                "explanation": "[ər.] bax azan",
+                "word": "LƏPƏ",
+                "explanation": "is. qoz",
                 "isPanagram": false,
                 "score": 1,
                 "length": 4
             },
             {
-                "word": "GƏNƏ",
-                "explanation": "is. zool. xırda caynaqları ilə heyvanların",
+                "word": "PƏLƏ",
+                "explanation": "sif. yastı",
                 "isPanagram": false,
                 "score": 1,
                 "length": 4
             },
             {
-                "word": "GÜNÜ",
-                "explanation": "is. 1. köhnə məişətdə: birinci arvadınüstünə alınan ikinci və ya üçüncü arvad.hacı evə *** gətirmək niyyətini münəvvərxanımın qulağına elə doldurd",
+                "word": "PƏPƏ",
+                "explanation": "is. 1. uş. çörək.2. qırıntı",
                 "isPanagram": false,
                 "score": 1,
                 "length": 4
             },
             {
-                "word": "NANƏ",
-                "explanation": "[ər.] bot. yeyilən çoxillik ətirligöyərti növü. *** qurutmaq. üç dəstə ***.□ *** cövhəri (arağı) – ***dən çəkilənaraq",
-                "isPanagram": false,
-                "score": 1,
-                "length": 4
-            },
-            {
-                "word": "NƏNƏ",
-                "explanation": "is. 1. atanın",
-                "isPanagram": false,
-                "score": 1,
-                "length": 4
-            },
-            {
-                "word": "NƏRƏ",
-                "explanation": "is. məh. evlərin üstünə qoyulan tir.su gəldi",
-                "isPanagram": false,
-                "score": 1,
-                "length": 4
-            },
-            {
-                "word": "RƏNA",
-                "explanation": "sif. və is. [ər.] şair. 1. gözəl (qız",
-                "isPanagram": false,
-                "score": 1,
-                "length": 4
-            },
-            {
-                "word": "RƏNG",
-                "explanation": "is. [fars.] 1. bir şeyin işıq tonu.tünd ***. qırmızı ***. – çöllər yuxudanolunca bidar; min *** çiçəklə doldu gülzar",
-                "isPanagram": false,
-                "score": 1,
-                "length": 4
-            },
-            {
-                "word": "ÜZƏN",
-                "explanation": "1. bax üzgüçü.2. sif. suyun üzərində hərəkət edən; üzücü.*** nasos stansiyası. *** elektrik stansiyası",
-                "isPanagram": false,
-                "score": 1,
-                "length": 4
-            },
-            {
-                "word": "ZƏNG",
-                "explanation": "is. 1. vurulduqda xüsusi səs çıxarmaqüçün içərisində metal dili olan",
-                "isPanagram": false,
-                "score": 1,
-                "length": 4
-            },
-            {
-                "word": "ZƏNN",
-                "explanation": "is. [ər.] 1. kafi dəlil üzərində əsaslanmayanehtimal",
-                "isPanagram": false,
-                "score": 1,
-                "length": 4
-            },
-            {
-                "word": "ƏNƏNƏ",
-                "explanation": "is. [ər.] tarixən meydana gələrəknəsildən-nəslə keçən adətlər",
+                "word": "ƏQƏLL",
+                "explanation": "zərf [ər.] daha az",
                 "isPanagram": false,
                 "score": 5,
                 "length": 5
             },
             {
-                "word": "ƏNZAR",
-                "explanation": "is. [ər. “nəzər” söz. cəmi] klas.tənt. nəzərlər",
+                "word": "ƏLAQƏ",
+                "explanation": "is. [ər.] 1. qarşılıqlı münasibət",
                 "isPanagram": false,
                 "score": 5,
                 "length": 5
             },
             {
-                "word": "ƏRGƏN",
-                "explanation": "sif. həddi-büluğa çatmış",
+                "word": "QƏLLƏ",
+                "explanation": "is. [ər.] köhn. taxıl",
                 "isPanagram": false,
                 "score": 5,
                 "length": 5
             },
             {
-                "word": "ƏRZƏN",
-                "explanation": "sif. gecikmiş",
+                "word": "QƏLPƏ",
+                "explanation": "is. bərk bir şeyin qopub parçalanmış hissəsi",
                 "isPanagram": false,
                 "score": 5,
                 "length": 5
             },
             {
-                "word": "GƏZƏN",
-                "explanation": "is. köhn. gön kəsmək üçün keçmişdəbaşmaqçıların işlətdikləri iti alət",
-                "isPanagram": false,
-                "score": 5,
-                "length": 5
-            },
-            {
-                "word": "NƏZƏR",
-                "explanation": "is. [ər.] 1. baxma",
-                "isPanagram": false,
-                "score": 5,
-                "length": 5
-            },
-            {
-                "word": "ÜZGÜN",
-                "explanation": "sif. taqətsiz",
-                "isPanagram": false,
-                "score": 5,
-                "length": 5
-            },
-            {
-                "word": "ZƏNƏN",
-                "explanation": "is. [fars.] 1. qadın",
-                "isPanagram": false,
-                "score": 5,
-                "length": 5
-            },
-            {
-                "word": "ƏRƏZƏN",
-                "explanation": "sif. dan. gecyetişən",
+                "word": "ƏLALIQ",
+                "explanation": "is. əla şeyin hal və keyfiyyəti;çox yüksəklik. görməmişsənmi mənim təbiminəlalığını; çox mənim ilə keçib sübhiləşamın",
                 "isPanagram": false,
                 "score": 6,
                 "length": 6
             },
             {
-                "word": "ZƏNƏNƏ",
-                "explanation": "sif. [fars.] qadınlara məxsus",
+                "word": "LAƏQƏL",
+                "explanation": "zərf [ər.] klas. ən azı",
                 "isPanagram": false,
                 "score": 6,
                 "length": 6
             },
             {
-                "word": "ZÜNNAR",
-                "explanation": "is. [ər.] xristian keşişlərinin ibadətzamanı bellərinə bağladıqları ucları aşağısallanan sərt qurşaq (klassik şeirdə xristianlıqrəmzi kimi işlənmiş",
-                "isPanagram": false,
-                "score": 6,
-                "length": 6
-            },
-            {
-                "word": "NƏZƏRƏN",
-                "explanation": "qoş. [ər.] klas. görə",
-                "isPanagram": false,
-                "score": 7,
-                "length": 7
-            },
-            {
-                "word": "RƏNGARƏNG",
-                "explanation": "sif. [fars.] 1. müxtəlif rənglərdə olan; müxtəlifrəngli",
+                "word": "PƏLƏQULAQ",
+                "explanation": "sif. iri",
                 "isPanagram": false,
                 "score": 9,
                 "length": 9
             },
             {
-                "word": "GÜNGÜZƏRAN",
-                "explanation": "is. güzəran",
+                "word": "PƏLƏQULAQLI",
+                "explanation": "sif. iri",
                 "isPanagram": true,
                 "score": 17,
-                "length": 10
-            },
-            {
-                "word": "GÜZƏRAN",
-                "explanation": "is. [fars.] dolanacaq",
-                "isPanagram": true,
-                "score": 17,
-                "length": 7
+                "length": 11
             }
         ]
     }

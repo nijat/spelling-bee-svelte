@@ -2,67 +2,123 @@
     "gameData": {
         "day": "20211018",
         "expiration": "1634594340",
-        "centerLetter": "L",
-        "validLetters": [
-            "A",
+        "centerLetter": "A",
+        "outterLetters": [
             "R",
-            "V",
+            "S",
+            "Ə",
             "L",
-            "D",
-            "I",
-            "İ"
+            "İ",
+            "N"
         ],
         "words_info": {
-            "word_count": 31,
-            "sum_score": 146,
+            "word_count": 39,
+            "sum_score": 136,
             "panagram_count": 1,
             "word_length": {
-                "4": 9,
-                "5": 13,
-                "7": 4,
+                "4": 20,
                 "6": 4,
-                "10": 1
+                "5": 12,
+                "7": 1,
+                "8": 1,
+                "9": 1
             }
         },
         "words": [
             {
-                "word": "ADİL",
-                "explanation": "sif. [ər.] ədalətli",
+                "word": "AİLƏ",
+                "explanation": "is. [ər.] 1. ata-anadan",
                 "isPanagram": false,
                 "score": 1,
                 "length": 4
             },
             {
-                "word": "ADLI",
-                "explanation": "sif. 1. müəyyən adı olan",
+                "word": "ANƏN",
+                "explanation": "zərf [ər.] birdən",
                 "isPanagram": false,
                 "score": 1,
                 "length": 4
             },
             {
-                "word": "ALLI",
-                "explanation": "sif. köhn. al rəngli paltar geymiş.tərifli gözəllər gəlhagəl oldu; yaşıllı",
+                "word": "ARAN",
+                "explanation": "is. azərbaycanda: yaylaq yerlərənisbətən alçaq və iqlimcə isti olan yerlər.azərbaycanın əsas *** yerləri muğan",
                 "isPanagram": false,
                 "score": 1,
                 "length": 4
             },
             {
-                "word": "ARLI",
-                "explanation": "sif. həyalı",
+                "word": "ASAN",
+                "explanation": "sif. zəhmət tələb etməyən",
                 "isPanagram": false,
                 "score": 1,
                 "length": 4
             },
             {
-                "word": "LARI",
-                "explanation": "sif. uzunqıçlı",
+                "word": "ASAR",
+                "explanation": "is. [ər. “əsər” söz. cəmi] köhn. 1. əlamət",
                 "isPanagram": false,
                 "score": 1,
                 "length": 4
             },
             {
-                "word": "LAVA",
-                "explanation": "[ital.] 1. vulkanın ağzından çıxanərgin odlu kütlə.2. məc. böyük kütlə halında sürətlə hərəkətedən şey haqqında; izdiham",
+                "word": "ƏLAN",
+                "explanation": "zərf [ər.] 1. bu an",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "ƏSAS",
+                "explanation": "is. [ər.] 1. bünövrə",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "ƏSLA",
+                "explanation": "zərf [ər.] heç",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "ƏSNA",
+                "explanation": "is. [ər.] vaxt",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "LALƏ",
+                "explanation": "is. [fars.] 1. bot. iriləçəkli qırmızıçiçəkləri olan bitki və bu bitkinin çiçəyi. bitərçəməndə ***lər",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "NAİL",
+                "explanation": "[ər.] : *** olmaq – əldə etmək",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "NALƏ",
+                "explanation": "is. [fars.] ah-zar",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "NANƏ",
+                "explanation": "[ər.] bot. yeyilən çoxillik ətirligöyərti növü. *** qurutmaq. üç dəstə ***.□ *** cövhəri (arağı) – ***dən çəkilənaraq",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "RƏNA",
+                "explanation": "sif. və is. [ər.] şair. 1. gözəl (qız",
                 "isPanagram": false,
                 "score": 1,
                 "length": 4
@@ -75,78 +131,106 @@
                 "length": 4
             },
             {
-                "word": "VALA",
-                "explanation": "sif. [fars.] klas. yüksək",
+                "word": "SAİL",
+                "explanation": "is. [ər.] dilənçi",
                 "isPanagram": false,
                 "score": 1,
                 "length": 4
             },
             {
-                "word": "VALİ",
-                "explanation": "is. [ər.] 1. keçmişdə: vilayət hakimi",
+                "word": "SAİR",
+                "explanation": "sif. [ər.] başqa",
                 "isPanagram": false,
                 "score": 1,
                 "length": 4
             },
             {
-                "word": "ALALI",
-                "explanation": "sif. alası olan",
+                "word": "SANİ",
+                "explanation": "sif. [ər.] ikinci",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "SƏNA",
+                "explanation": "is. [ər.] klas. tərif",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "SİAN",
+                "explanation": "is. kəskin iyli",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "ALANA",
+                "explanation": "is. içərisi şəkərli qozla doldurulmuşmeyvə qurusu (armud",
                 "isPanagram": false,
                 "score": 5,
                 "length": 5
             },
             {
-                "word": "AVRAL",
-                "explanation": "[ing.] 1. gəmidə bütün komandanıniştirakı ilə görülən iş. artıq ***dançox nadir hallarda istifadə edilir",
+                "word": "ASLAN",
+                "explanation": "is. 1. şir",
                 "isPanagram": false,
                 "score": 5,
                 "length": 5
             },
             {
-                "word": "DADLI",
-                "explanation": "1. sif. yaxşı dadı olan",
+                "word": "ASRAL",
+                "explanation": "is. bot. bax kəndirotu",
                 "isPanagram": false,
                 "score": 5,
                 "length": 5
             },
             {
-                "word": "DALDA",
-                "explanation": "1. sif. sığınmağa və ya gizlənməyəyarayan. *** yer. *** divar.– kosa boşalmış küçənin *** yeri ilə yeriyibat tövlələrinin yanına çatdı",
+                "word": "ƏSASİ",
+                "explanation": "sif. [ər.] köhn. bax əsas 2-ci mənada.*** cəhətlər. – həyat *** birdəyişikliyə uğrayınca ədəbiyyat büsbütünbaşını itirdi",
                 "isPanagram": false,
                 "score": 5,
                 "length": 5
             },
             {
-                "word": "DALLI",
-                "explanation": "sif. dalları (budaqları) olan. ***ağac",
+                "word": "ƏSRAR",
+                "explanation": "is. [ər. “sirr” söz. cəmi] sirlər.mən belə ***ı qana bilmərəm; qanmazolub da dayana bilmərəm. m.ə",
                 "isPanagram": false,
                 "score": 5,
                 "length": 5
             },
             {
-                "word": "DAVLA",
-                "explanation": "is. 1. mus. xərək (musiqi alətlərindəsimlərin altına qoyulan taxta parçası).2. zool. cırcırama",
+                "word": "LİANA",
+                "explanation": "[fr.] bot. tropik meşələrdə",
                 "isPanagram": false,
                 "score": 5,
                 "length": 5
             },
             {
-                "word": "DİLİR",
-                "explanation": "sif. [fars.] köhn. igid",
+                "word": "LİSAN",
+                "explanation": "is. [ər.] klas. dil. ey oğul",
                 "isPanagram": false,
                 "score": 5,
                 "length": 5
             },
             {
-                "word": "DİLLİ",
-                "explanation": "sif. 1. ağzında dili olan. // danışa bilən",
+                "word": "NALAN",
+                "explanation": "sif. və zərf [fars.] ağlayan",
                 "isPanagram": false,
                 "score": 5,
                 "length": 5
             },
             {
-                "word": "LİLLİ",
-                "explanation": "sif. lehməli",
+                "word": "NASİR",
+                "explanation": "is. [ər.] nəsr yazan",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "NİSAR",
+                "explanation": "is. [ər.] klas. bağışlama",
                 "isPanagram": false,
                 "score": 5,
                 "length": 5
@@ -159,88 +243,60 @@
                 "length": 5
             },
             {
-                "word": "VALİD",
-                "explanation": "is. [ər.] klas. ata. ey millətinümmidi",
+                "word": "SAİRƏ",
+                "explanation": "is. bir neçə şey sayıldıqdan sonra",
                 "isPanagram": false,
                 "score": 5,
                 "length": 5
             },
             {
-                "word": "VARLI",
-                "explanation": "sif. dövlətli",
-                "isPanagram": false,
-                "score": 5,
-                "length": 5
-            },
-            {
-                "word": "VİLLA",
-                "explanation": "[lat.] şəhər kənarında bağ-bağatiçərisində qəşəng ev; köşk. burada çox gözəl***lar tikilmiş",
-                "isPanagram": false,
-                "score": 5,
-                "length": 5
-            },
-            {
-                "word": "AVARLI",
-                "explanation": "sif. avarı olan",
+                "word": "AİLƏLİ",
+                "explanation": "sif. ailəsi olan",
                 "isPanagram": false,
                 "score": 6,
                 "length": 6
             },
             {
-                "word": "DAVALI",
-                "explanation": "sif. dərman olan",
+                "word": "ƏSASƏN",
+                "explanation": "[ər.] 1. zərf əsli",
                 "isPanagram": false,
                 "score": 6,
                 "length": 6
             },
             {
-                "word": "DİLARA",
-                "explanation": "sif. [fars.] şair. ürəkaçan",
+                "word": "LALƏLİ",
+                "explanation": "sif. lalə bitmiş",
                 "isPanagram": false,
                 "score": 6,
                 "length": 6
             },
             {
-                "word": "RADİAL",
-                "explanation": "[lat.] radius istiqamətində yerləşən.*** simmetriya",
+                "word": "RİSALƏ",
+                "explanation": "is. [ər.] 1. məktub",
                 "isPanagram": false,
                 "score": 6,
                 "length": 6
             },
             {
-                "word": "ARVADLI",
-                "explanation": "sif. 1. evli; evi-arvadı olan.*** kişilər.2. yanında arvadı olan",
+                "word": "NƏSRANİ",
+                "explanation": "is. [ər. əsli qədim yəh.] xaçpərəst",
                 "isPanagram": false,
                 "score": 7,
                 "length": 7
             },
             {
-                "word": "DAVARLI",
-                "explanation": "sif. davarı olan",
+                "word": "SANARLAR",
+                "explanation": "is. böyük qafqaz dağlarınıncənub ətəklərində yaşamış tayfa",
                 "isPanagram": false,
-                "score": 7,
-                "length": 7
+                "score": 8,
+                "length": 8
             },
             {
-                "word": "DİLVARİ",
-                "explanation": "sif. dil kimi",
-                "isPanagram": false,
-                "score": 7,
-                "length": 7
-            },
-            {
-                "word": "DADLIDADLI",
-                "explanation": "1) sif. ləzzətli-ləzzətli",
-                "isPanagram": false,
-                "score": 10,
-                "length": 10
-            },
-            {
-                "word": "DİVARLI",
-                "explanation": "sif. divarı olan",
+                "word": "SASANİLƏR",
+                "explanation": "is. *** dövlətində (iran)hakimiyyətdə olan sülalə",
                 "isPanagram": true,
                 "score": 17,
-                "length": 7
+                "length": 9
             }
         ]
     }

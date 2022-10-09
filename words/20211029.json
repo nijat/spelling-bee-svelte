@@ -2,25 +2,27 @@
     "gameData": {
         "day": "20211029",
         "expiration": "1635544740",
-        "centerLetter": "N",
-        "validLetters": [
-            "A",
+        "centerLetter": "Ə",
+        "outterLetters": [
             "Z",
+            "Y",
+            "R",
+            "A",
             "İ",
-            "N",
-            "B",
-            "Ə",
-            "Ğ"
+            "N"
         ],
         "words_info": {
-            "word_count": 36,
-            "sum_score": 132,
+            "word_count": 50,
+            "sum_score": 192,
             "panagram_count": 1,
             "word_length": {
-                "7": 5,
-                "4": 18,
-                "6": 4,
-                "5": 9
+                "4": 22,
+                "5": 16,
+                "6": 7,
+                "10": 1,
+                "7": 2,
+                "9": 1,
+                "8": 1
             }
         },
         "words": [
@@ -32,43 +34,8 @@
                 "length": 4
             },
             {
-                "word": "AZAN",
-                "explanation": "is. [ər.] müsəlmanları namazaçağırmaq üçün ***çının səhər",
-                "isPanagram": false,
-                "score": 1,
-                "length": 4
-            },
-            {
-                "word": "BANİ",
-                "explanation": "is. [ər.] 1. bir şeyin əsasını",
-                "isPanagram": false,
-                "score": 1,
-                "length": 4
-            },
-            {
-                "word": "BƏNİ",
-                "explanation": "[ər.] övlad",
-                "isPanagram": false,
-                "score": 1,
-                "length": 4
-            },
-            {
-                "word": "BİNA",
-                "explanation": "is. [ər.] 1. tikili",
-                "isPanagram": false,
-                "score": 1,
-                "length": 4
-            },
-            {
-                "word": "BİNƏ",
-                "explanation": "is. 1. köçərilərin mal-qara ilə köçüb",
-                "isPanagram": false,
-                "score": 1,
-                "length": 4
-            },
-            {
-                "word": "ƏBNA",
-                "explanation": "is. [ər. “ibn” söz. cəmi] klas. övladlar",
+                "word": "AZƏR",
+                "explanation": "is. [fars.] oda xidmət göstərənmələk",
                 "isPanagram": false,
                 "score": 1,
                 "length": 4
@@ -81,6 +48,55 @@
                 "length": 4
             },
             {
+                "word": "ƏRƏR",
+                "explanation": "is. [ər.] ardıc ağacı. qəddintəknə ər-ər",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "ƏRƏN",
+                "explanation": "is. (adətən cəm şəklində). 1. ər",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "ƏRRƏ",
+                "explanation": "is. [fars.] ikidəstəli iri mişar",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "ƏYAN",
+                "explanation": "top. [ər.] köhn. keçmişdə: ölkəninyuxarı təbəqələrinə mənsub olan mötəbərvə yaşlı adamlar; zadəganlar",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "ƏYAR",
+                "explanation": "is. [ər.] 1. qiymətli metalın saflıqvə xalislik dərəcəsi. üzüyün ***ı. qızılpulun ***ı.2. düzgünlük",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "ƏYİN",
+                "explanation": "is. 1. bədənin başdan qeyri bütünhissəsi. əyninə yeni kostyum geymişdir.əynində heç bir şey yoxdur (çılpaqdır)",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "ƏYRİ",
+                "explanation": "sif. 1. düz istiqamətdə olmayan",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
                 "word": "ƏZAN",
                 "explanation": "[ər.] bax azan",
                 "isPanagram": false,
@@ -88,8 +104,8 @@
                 "length": 4
             },
             {
-                "word": "NAİB",
-                "explanation": "is. [ər.] tar. 1. böyük bir şəxsin yerinidolandıran şəxs; vəkil",
+                "word": "ƏZİZ",
+                "explanation": "sif. [ər.] 1. sevimli",
                 "isPanagram": false,
                 "score": 1,
                 "length": 4
@@ -102,20 +118,6 @@
                 "length": 4
             },
             {
-                "word": "NƏBİ",
-                "explanation": "is. [ər.] klas. peyğəmbər. ya ***",
-                "isPanagram": false,
-                "score": 1,
-                "length": 4
-            },
-            {
-                "word": "NƏBZ",
-                "explanation": "is. [ər.] 1. ürəyin fəaliyyəti nəticəsindəarteriya (qan damarları) divarlarınınritmik vurması (adətən biləyin yuxarı hissəsindəduyulur)",
-                "isPanagram": false,
-                "score": 1,
-                "length": 4
-            },
-            {
                 "word": "NƏNƏ",
                 "explanation": "is. 1. atanın",
                 "isPanagram": false,
@@ -123,8 +125,8 @@
                 "length": 4
             },
             {
-                "word": "NİZA",
-                "explanation": "is. [ər.] köhn. çəkişmə",
+                "word": "NƏRƏ",
+                "explanation": "is. məh. evlərin üstünə qoyulan tir.su gəldi",
                 "isPanagram": false,
                 "score": 1,
                 "length": 4
@@ -137,6 +139,34 @@
                 "length": 4
             },
             {
+                "word": "RƏNA",
+                "explanation": "sif. və is. [ər.] şair. 1. gözəl (qız",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "RƏZƏ",
+                "explanation": "is. dan. cəftə. ***ni bağlamaq. –qəsrin qalın taxta qapısı ***sindən qopubayaq altına düşmüşdü. m",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "RİZƏ",
+                "explanation": "is. [fars.] tikə",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "YİYƏ",
+                "explanation": "is. hər hansı bir şey üzərində mülkiyyəthüququ olan adam; sahib. oğul",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
                 "word": "ZƏNN",
                 "explanation": "is. [ər.] 1. kafi dəlil üzərində əsaslanmayanehtimal",
                 "isPanagram": false,
@@ -144,29 +174,29 @@
                 "length": 4
             },
             {
-                "word": "ZİNA",
-                "explanation": "is. [ər.] köhn. qeyri-qanuni cinsiəlaqə. □ *** etmək (eləmək) – qeyriqanunicinsi əlaqədə olmaq. …bu rəvayət birkişi ilə bir arvadın *** eləməyi b",
+                "word": "ZİRƏ",
+                "explanation": "is. bot. çətirçiçəklilər fəsiləsindəniki və ya çoxillik ot cinsi və həmin bitkininədviyyat kimi xəmirə və s",
                 "isPanagram": false,
                 "score": 1,
                 "length": 4
             },
             {
-                "word": "BƏNİZ",
-                "explanation": "is. üz",
+                "word": "ARİZƏ",
+                "explanation": "is. [ər.] köhn. 1. maneə",
                 "isPanagram": false,
                 "score": 5,
                 "length": 5
             },
             {
-                "word": "BƏNNA",
-                "explanation": "is. [ər.] binanın daş",
+                "word": "AYİNƏ",
+                "explanation": "is. [fars.] bax ayna 1-ci mənada.ol məhi-namehriban istər ki",
                 "isPanagram": false,
                 "score": 5,
                 "length": 5
             },
             {
-                "word": "BƏZƏN",
-                "explanation": "zərf [ər.] bəzi vaxt",
+                "word": "AZƏRİ",
+                "explanation": "is. azərbaycanlı. ***lər haqqındayaqut həməvinin rəyi şayani-diqqətdir…çəmənzəminli. ***dir mənim adım; füzulidirsöz ustadım",
                 "isPanagram": false,
                 "score": 5,
                 "length": 5
@@ -179,6 +209,48 @@
                 "length": 5
             },
             {
+                "word": "ƏNZAR",
+                "explanation": "is. [ər. “nəzər” söz. cəmi] klas.tənt. nəzərlər",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "ƏRAZİ",
+                "explanation": "is. [ər. “ərz1” söz. cəmi] müəyyənhüdudları olan torpaq sahəsi. respublikamızın***si. – rey məmləkəti bir padşahınsahib ola biləcəyi ***dən bir",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "ƏRİZƏ",
+                "explanation": "is. [ər.] rəs. bir arzu və ya xahişifadə edən məktub",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "ƏRZƏN",
+                "explanation": "sif. gecikmiş",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "ƏYANİ",
+                "explanation": "sif. [ər.] 1. açıq",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "ƏYYAR",
+                "explanation": "sif. və is. [ər.] hiyləbaz",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
                 "word": "NƏNNİ",
                 "explanation": "is. 1. körpə uşaqları yatırtmaq üçünasılan kiçik yatacaq. [qumru] uşağı ***yəsalıb küncə qısıldı",
                 "isPanagram": false,
@@ -186,22 +258,15 @@
                 "length": 5
             },
             {
-                "word": "NİNNİ",
-                "explanation": "is. layla",
+                "word": "NƏZƏR",
+                "explanation": "is. [ər.] 1. baxma",
                 "isPanagram": false,
                 "score": 5,
                 "length": 5
             },
             {
-                "word": "ZƏBAN",
-                "explanation": "is. [fars.] klas. dil. bir saat görməsəm",
-                "isPanagram": false,
-                "score": 5,
-                "length": 5
-            },
-            {
-                "word": "ZƏĞƏN",
-                "explanation": "is. [fars.] klas. qara qarğa",
+                "word": "NƏZİR",
+                "explanation": "is. [ər.] dindar",
                 "isPanagram": false,
                 "score": 5,
                 "length": 5
@@ -214,22 +279,36 @@
                 "length": 5
             },
             {
-                "word": "BAĞBAN",
-                "explanation": "is. [fars.] 1. bağa baxan",
+                "word": "ZƏRƏR",
+                "explanation": "is. [ər.] ziyan. bunun xeyri var ki",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "ZƏRRƏ",
+                "explanation": "is. [ər.] bir şeyin ən kiçik hissəsi. [qəhrəman:] kənarda şiddətlə əsən qış ruzgarı birqat pəncərələri yumruqlayır",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "ƏRƏZƏN",
+                "explanation": "sif. dan. gecyetişən",
                 "isPanagram": false,
                 "score": 6,
                 "length": 6
             },
             {
-                "word": "BİNAƏN",
-                "explanation": "qoş. [ər.] köhn. görə",
+                "word": "NƏZƏRİ",
+                "explanation": "sif. [ər.] 1. ***yyəyə əsaslanan",
                 "isPanagram": false,
                 "score": 6,
                 "length": 6
             },
             {
-                "word": "ZƏBANƏ",
-                "explanation": "is. [fars.] klas. 1. alov",
+                "word": "NƏZİRƏ",
+                "explanation": "is. [ər.] ədəb. bir şairin bir şerinətəqlidən yazılan",
                 "isPanagram": false,
                 "score": 6,
                 "length": 6
@@ -242,25 +321,25 @@
                 "length": 6
             },
             {
-                "word": "AĞANƏNƏ",
-                "explanation": "is. dan. ailənin ağbirçəyinə",
+                "word": "ZƏRİNƏ",
+                "explanation": "is. [fars.] zərli",
                 "isPanagram": false,
-                "score": 7,
-                "length": 7
+                "score": 6,
+                "length": 6
             },
             {
-                "word": "AĞNAĞAZ",
-                "explanation": "is. məh. ehtiyacı ödəməküçün üyüdülən azacıq dən.◊ *** üyütmək məc. – boş yerədanışmaq",
+                "word": "ZƏRRİN",
+                "explanation": "sif. [fars.] 1. klas. qızıldan düzəldilmiş",
                 "isPanagram": false,
-                "score": 7,
-                "length": 7
+                "score": 6,
+                "length": 6
             },
             {
-                "word": "BİZƏBAN",
-                "explanation": "sif. [fars.] klas. dilsiz",
+                "word": "ZƏRZƏR",
+                "explanation": "is. [fars.] zərlə toxunmuş parça",
                 "isPanagram": false,
-                "score": 7,
-                "length": 7
+                "score": 6,
+                "length": 6
             },
             {
                 "word": "NAZƏNİN",
@@ -270,11 +349,32 @@
                 "length": 7
             },
             {
-                "word": "AĞBƏNİZ",
-                "explanation": "sif. 1. üzü ağ",
+                "word": "NƏZƏRƏN",
+                "explanation": "qoş. [ər.] klas. görə",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7
+            },
+            {
+                "word": "RİZƏRİZƏ",
+                "explanation": "sif. və zərf parça-parça",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8
+            },
+            {
+                "word": "NƏZƏRİYYƏ",
+                "explanation": "is. [ər.] 1. biliyin hər hansıbir sahəsində rəhbər tutulan ideyalar sistemi",
+                "isPanagram": false,
+                "score": 9,
+                "length": 9
+            },
+            {
+                "word": "ƏRİZƏYAZAN",
+                "explanation": "is. köhn. keçmişdə savadsızadamlar üçün pulla ərizə yazan adam",
                 "isPanagram": true,
                 "score": 17,
-                "length": 7
+                "length": 10
             }
         ]
     }

@@ -2,334 +2,227 @@
     "gameData": {
         "day": "20211027",
         "expiration": "1635371940",
-        "centerLetter": "N",
-        "validLetters": [
-            "A",
-            "Q",
-            "L",
-            "N",
-            "F",
+        "centerLetter": "K",
+        "outterLetters": [
+            "Y",
+            "S",
             "Ə",
-            "İ"
+            "L",
+            "O",
+            "M"
         ],
         "words_info": {
-            "word_count": 44,
-            "sum_score": 190,
+            "word_count": 29,
+            "sum_score": 141,
             "panagram_count": 1,
             "word_length": {
-                "7": 4,
-                "9": 2,
-                "5": 17,
-                "4": 16,
-                "6": 3,
-                "8": 2
+                "4": 8,
+                "5": 11,
+                "7": 3,
+                "8": 3,
+                "6": 4
             }
         },
         "words": [
             {
-                "word": "ANƏN",
-                "explanation": "zərf [ər.] birdən",
+                "word": "ƏKMƏ",
+                "explanation": "1. “***k1”dən f.is. şitil ***.2. sif. əkilmiş",
                 "isPanagram": false,
                 "score": 1,
                 "length": 4
             },
             {
-                "word": "ƏLAN",
-                "explanation": "zərf [ər.] 1. bu an",
+                "word": "ƏLƏK",
+                "explanation": "is. unun kəpək və qeyri zibillərinitəmizləmək üçün sağanağa keçirilmiş sıxtordan ibarət alət. *** dairəvi qutu şəklindəolur",
                 "isPanagram": false,
                 "score": 1,
                 "length": 4
             },
             {
-                "word": "ƏNİN",
-                "explanation": "is. [ər.] şair. inləmə",
+                "word": "ƏMƏK",
+                "explanation": "is. insanın əqli və cismani gərginliktələb edən məqsədəuyğun və ictimaicəhətdən faydalı fəaliyyəti; zəhmət",
                 "isPanagram": false,
                 "score": 1,
                 "length": 4
             },
             {
-                "word": "ƏNQA",
-                "explanation": "is. [ər.] klas. 1. əsatirə görə qaf(elbrus) dağında yaşamış əfsanəvi çox iribir quş; simurq.2. adı olub özü olmayan şey haqqında",
+                "word": "KƏKƏ",
+                "explanation": "sif. danışarkən ***ləyən; kəkov.*** uşaq. anadan *** (z.) doğulmaq",
                 "isPanagram": false,
                 "score": 1,
                 "length": 4
             },
             {
-                "word": "FANİ",
-                "explanation": "sif. [ər.] həmişəlik olmayan",
+                "word": "KƏLƏ",
+                "explanation": "is. 1. cins artırmaq üçün saxlanılanaxtalanmamış",
                 "isPanagram": false,
                 "score": 1,
                 "length": 4
             },
             {
-                "word": "FƏNA",
-                "explanation": "is. [ər.] pis",
+                "word": "KƏSƏ",
+                "explanation": "1. sif. ən yaxın",
                 "isPanagram": false,
                 "score": 1,
                 "length": 4
             },
             {
-                "word": "FƏNN",
-                "explanation": "is. [ər.] 1. elm",
+                "word": "LƏKƏ",
+                "explanation": "is. 1. ***ləyici bir şeyin səth üzərindəburaxdığı iz. qan ***si. yağ ***si. mürəkkəb***si. paltarındakı ***ni silmək",
                 "isPanagram": false,
                 "score": 1,
                 "length": 4
             },
             {
-                "word": "QAAN",
-                "explanation": "is. tar. türk",
+                "word": "MƏKƏ",
+                "explanation": "is. qarğıdalı",
                 "isPanagram": false,
                 "score": 1,
                 "length": 4
             },
             {
-                "word": "QƏNİ",
-                "explanation": "sif. [ər.] köhn. varlı",
-                "isPanagram": false,
-                "score": 1,
-                "length": 4
-            },
-            {
-                "word": "QİNA",
-                "explanation": "is. [ər.] köhn. xanəndəlik; nəğmə",
-                "isPanagram": false,
-                "score": 1,
-                "length": 4
-            },
-            {
-                "word": "LƏİN",
-                "explanation": "sif. və is. [ər.] bax məlun. bu isə",
-                "isPanagram": false,
-                "score": 1,
-                "length": 4
-            },
-            {
-                "word": "NAİL",
-                "explanation": "[ər.] : *** olmaq – əldə etmək",
-                "isPanagram": false,
-                "score": 1,
-                "length": 4
-            },
-            {
-                "word": "NALƏ",
-                "explanation": "is. [fars.] ah-zar",
-                "isPanagram": false,
-                "score": 1,
-                "length": 4
-            },
-            {
-                "word": "NANƏ",
-                "explanation": "[ər.] bot. yeyilən çoxillik ətirligöyərti növü. *** qurutmaq. üç dəstə ***.□ *** cövhəri (arağı) – ***dən çəkilənaraq",
-                "isPanagram": false,
-                "score": 1,
-                "length": 4
-            },
-            {
-                "word": "NƏQL",
-                "explanation": "is. [ər.] 1. bax nağıl. qəhrəmanbalaca sabir üçün müxtəlif *** danışırdı.s.rəhimov. □ *** etmək – bir əhvalatı",
-                "isPanagram": false,
-                "score": 1,
-                "length": 4
-            },
-            {
-                "word": "NƏNƏ",
-                "explanation": "is. 1. atanın",
-                "isPanagram": false,
-                "score": 1,
-                "length": 4
-            },
-            {
-                "word": "ALANA",
-                "explanation": "is. içərisi şəkərli qozla doldurulmuşmeyvə qurusu (armud",
+                "word": "ƏKMƏK",
+                "explanation": "is. çörək. [üçüncü satıcı:] qızarmıştazə ***",
                 "isPanagram": false,
                 "score": 5,
                 "length": 5
             },
             {
-                "word": "ANLAQ",
-                "explanation": "is. düşüncə",
+                "word": "KƏLƏK",
+                "explanation": "is. hiylə",
                 "isPanagram": false,
                 "score": 5,
                 "length": 5
             },
             {
-                "word": "ƏFQAN",
-                "explanation": "is. ***ıstanın əsas əhalisinitəşkil edən",
+                "word": "KƏLƏM",
+                "explanation": "is. yarpaqları xörəyə işlənən bostan bitkisi. bir baş ***. *** dərmək. – bazara turp",
                 "isPanagram": false,
                 "score": 5,
                 "length": 5
             },
             {
-                "word": "ƏQLƏN",
-                "explanation": "zərf. [ər.] ağılca",
+                "word": "KƏLLƏ",
+                "explanation": "is. [fars.] 1. baş. ***sindən vurmaq.– ox atma sən bu daşa; bu qayaya",
                 "isPanagram": false,
                 "score": 5,
                 "length": 5
             },
             {
-                "word": "ƏNƏNƏ",
-                "explanation": "is. [ər.] tarixən meydana gələrəknəsildən-nəslə keçən adətlər",
+                "word": "KƏLMƏ",
+                "explanation": "is. [ər.] 1. söz. qurban mollanın ağzından çıxan ***ləri yeyəcəkmiş kimi … onu dinləyirdi. a.şaiq. [səfərəli:] bizim istanbulda böylə ***lər işlən",
                 "isPanagram": false,
                 "score": 5,
                 "length": 5
             },
             {
-                "word": "FİLAN",
-                "explanation": "sif. [ər.] bir adamın",
+                "word": "KƏSƏK",
+                "explanation": "is. quruyub bərkimiş palçıq yumrusu.***ləri əzmək. – *** oturub daşüçün ağlayır. (ata. sözü). ayaqlarım yalınolduğuna görə yolun quru ***ləri",
                 "isPanagram": false,
                 "score": 5,
                 "length": 5
             },
             {
-                "word": "FİNAL",
-                "explanation": "[ital. ***e – sonuncu",
+                "word": "KƏSMƏ",
+                "explanation": "1. “***k”dən f.is. [cahangir ağa:] pəricahan",
                 "isPanagram": false,
                 "score": 5,
                 "length": 5
             },
             {
-                "word": "LİANA",
-                "explanation": "[fr.] bot. tropik meşələrdə",
+                "word": "KOKOS",
+                "explanation": "is. [isp.] 1. hind qozu ağacı. 2. hind qozu",
                 "isPanagram": false,
                 "score": 5,
                 "length": 5
             },
             {
-                "word": "NAQAN",
-                "explanation": "[xüs. is.-dən] hərlənən topu(barabanı) olan tapança növü. [balaqardaş:]güldəstə! bir gözümün içinə dürüst bax! bu***ı görürsənmi? n",
+                "word": "LƏLƏK",
+                "explanation": "is. 1. quşların qanadlarının vəquyruqlarının uclarındakı uzun saplaqlı tük.[qız] eyvanın küncündə ları xoruzun qanadındandüşmüş uzun lələyi görüb s",
                 "isPanagram": false,
                 "score": 5,
                 "length": 5
             },
             {
-                "word": "NAQİL",
-                "explanation": "is. [ər.] 1. xüs. bax keçirici. metalelektrik ***idir.2. köhn. daşıyan",
+                "word": "MƏLƏK",
+                "explanation": "is. [ər.] 1. dinə görə",
                 "isPanagram": false,
                 "score": 5,
                 "length": 5
             },
             {
-                "word": "NAQQA",
-                "explanation": "is. zool. şirin suda yaşayan üstü pulsuz",
+                "word": "MOKKO",
+                "explanation": "[coğr. is.-dən] əla qəhvə növü",
                 "isPanagram": false,
                 "score": 5,
                 "length": 5
             },
             {
-                "word": "NALAN",
-                "explanation": "sif. və zərf [fars.] ağlayan",
-                "isPanagram": false,
-                "score": 5,
-                "length": 5
-            },
-            {
-                "word": "NƏFLİ",
-                "explanation": "sif. xeyirli",
-                "isPanagram": false,
-                "score": 5,
-                "length": 5
-            },
-            {
-                "word": "NƏQLİ",
-                "explanation": "[ər.] : *** cümlə qram. – müəyyən bir hadisə",
-                "isPanagram": false,
-                "score": 5,
-                "length": 5
-            },
-            {
-                "word": "NƏNNİ",
-                "explanation": "is. 1. körpə uşaqları yatırtmaq üçünasılan kiçik yatacaq. [qumru] uşağı ***yəsalıb küncə qısıldı",
-                "isPanagram": false,
-                "score": 5,
-                "length": 5
-            },
-            {
-                "word": "NİFAQ",
-                "explanation": "is. [ər.] pozuşma",
-                "isPanagram": false,
-                "score": 5,
-                "length": 5
-            },
-            {
-                "word": "NİNNİ",
-                "explanation": "is. layla",
-                "isPanagram": false,
-                "score": 5,
-                "length": 5
-            },
-            {
-                "word": "FİLANİ",
-                "explanation": "is. [ər.] köhn. bax filankəs. təkəllüməgəlib vəfalı dilbər; soruşub: – bəsneçin *** gəlməmiş? q",
+                "word": "KƏLƏKƏ",
+                "explanation": "is. məh. yeni doğmuş heyvanınağuz südünün bişmişi",
                 "isPanagram": false,
                 "score": 6,
                 "length": 6
             },
             {
-                "word": "QANQAL",
-                "explanation": "is. bot. yarpağı tikanlı",
+                "word": "KOSKOS",
+                "explanation": "is. uşaqların kos (top) ilə oynadıqlarıoyun; top-top. [sabir] uşaqlarla ***oynamağa başladı. s.rəhimov",
                 "isPanagram": false,
                 "score": 6,
                 "length": 6
             },
             {
-                "word": "NAQQAL",
-                "explanation": "sif. çox",
+                "word": "MƏLƏKƏ",
+                "explanation": "is. [ər. məlikə] padşah arvadı;şahbanu. o",
                 "isPanagram": false,
                 "score": 6,
                 "length": 6
             },
             {
-                "word": "AQİLANƏ",
-                "explanation": "sif. və zərf [ər. aqil və fars.…anə] köhn. ağıllı",
+                "word": "MƏSLƏK",
+                "explanation": "is. [ər.] 1. hər hansı bir dünyagörüşünə əsaslanan əqidə",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6
+            },
+            {
+                "word": "ƏKSƏMƏL",
+                "explanation": "is. [ər.] xüs. görülən işinəksi",
                 "isPanagram": false,
                 "score": 7,
                 "length": 7
             },
             {
-                "word": "ƏQƏLLƏN",
-                "explanation": "zərf [ər.] ən azı",
+                "word": "KƏSƏKƏS",
+                "explanation": "is. kütləvi qırğın",
                 "isPanagram": false,
                 "score": 7,
                 "length": 7
             },
             {
-                "word": "QAQQANA",
-                "explanation": "is. qaqqıltı. pilləkəni titrətdi muştuluqçu qonşu qızın ***sı. r.rza. □ ***q çalmaq – 1) qaqqıldamaq",
+                "word": "SƏKSƏKƏ",
+                "explanation": "is. həyəcan",
                 "isPanagram": false,
                 "score": 7,
                 "length": 7
             },
             {
-                "word": "NAQAFİL",
-                "explanation": "sif. və zərf [fars. na… və ər.qafil] qəfildən",
-                "isPanagram": false,
-                "score": 7,
-                "length": 7
-            },
-            {
-                "word": "QAQQANAQ",
-                "explanation": "is. qaqqıltı. pilləkəni titrətdi muştuluqçu qonşu qızın qaqqanası. r.rza. □ *** çalmaq – 1) qaqqıldamaq",
+                "word": "KƏKƏLƏMƏ",
+                "explanation": "1. “***k”dən f.is.onun danışanda ***si və adı qəhrəmanasabiq yoldaşı meracı xatırladırdı",
                 "isPanagram": false,
                 "score": 8,
                 "length": 8
             },
             {
-                "word": "ALAQANQAL",
-                "explanation": "is. bot. ağ ləkəli yarpaqlarıolan tikanlı alaq otu",
+                "word": "LƏKƏLƏKƏ",
+                "explanation": "sif. və zərf çoxlu ləkələriolan",
                 "isPanagram": false,
-                "score": 9,
-                "length": 9
+                "score": 8,
+                "length": 8
             },
             {
-                "word": "LAƏQƏLLƏN",
-                "explanation": "zərf [ər.] klas. ən azı",
-                "isPanagram": false,
-                "score": 9,
-                "length": 9
-            },
-            {
-                "word": "QAFİLANƏ",
-                "explanation": "zərf [ər. qafil və fars. …anə]qafilcəsinə",
+                "word": "YOLKƏSMƏ",
+                "explanation": "is. quldurluq",
                 "isPanagram": true,
                 "score": 17,
                 "length": 8

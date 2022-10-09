@@ -2,168 +2,146 @@
     "gameData": {
         "day": "20211016",
         "expiration": "1634421540",
-        "centerLetter": "O",
-        "validLetters": [
-            "A",
-            "R",
-            "T",
-            "O",
-            "K",
-            "M",
-            "U"
+        "centerLetter": "A",
+        "outterLetters": [
+            "Ç",
+            "E",
+            "Ə",
+            "Ş",
+            "N",
+            "B"
         ],
         "words_info": {
-            "word_count": 20,
-            "sum_score": 107,
+            "word_count": 17,
+            "sum_score": 75,
             "panagram_count": 1,
             "word_length": {
-                "5": 8,
+                "5": 5,
+                "4": 7,
                 "6": 3,
-                "4": 4,
-                "10": 1,
-                "7": 4
+                "7": 1,
+                "8": 1
             }
         },
         "words": [
             {
-                "word": "KOMA",
-                "explanation": "is. primitiv ev",
+                "word": "ANƏN",
+                "explanation": "zərf [ər.] birdən",
                 "isPanagram": false,
                 "score": 1,
                 "length": 4
             },
             {
-                "word": "OMAR",
-                "explanation": "is. onurğasız dəniz heyvanı; onayaqlıxərçəng",
+                "word": "AŞNA",
+                "explanation": "is. 1. dost",
                 "isPanagram": false,
                 "score": 1,
                 "length": 4
             },
             {
-                "word": "ORTA",
-                "explanation": "1. is. bir şeyin kənarlarından",
+                "word": "BABA",
+                "explanation": "is. 1. atanın",
                 "isPanagram": false,
                 "score": 1,
                 "length": 4
             },
             {
-                "word": "TORT",
-                "explanation": "[ital.] yağ",
+                "word": "ƏBNA",
+                "explanation": "is. [ər. “ibn” söz. cəmi] klas. övladlar",
                 "isPanagram": false,
                 "score": 1,
                 "length": 4
             },
             {
-                "word": "AORTA",
-                "explanation": "is. [yun.] anat. ürəyin sağ mədəciyindənçıxan və bədənin (ciyərlərdənbaşqa) bütün üzvlərini arterial qanla təchizedən ən böyük qan damarı; şah dama",
+                "word": "NANƏ",
+                "explanation": "[ər.] bot. yeyilən çoxillik ətirligöyərti növü. *** qurutmaq. üç dəstə ***.□ *** cövhəri (arağı) – ***dən çəkilənaraq",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "ŞANA",
+                "explanation": "is. otu",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "ŞANƏ",
+                "explanation": "is. [fars.] klas. daraq. xumar-xumarbaxmaq göz qaydasıdır; lalətək qızarmaq üzqaydasıdır; pərişanlıq zülfün öz qaydasıdır;nə badi-səbadan",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "ANAŞA",
+                "explanation": "is. dan. xaşxaşdan hasil olan çoxzəhərli narkotik maddə",
                 "isPanagram": false,
                 "score": 5,
                 "length": 5
             },
             {
-                "word": "MAKAO",
-                "explanation": "is. [xüs. is.-dən] 1. uzun quyruqlututuquşu.2. qumar oyunu növü",
+                "word": "BƏNNA",
+                "explanation": "is. [ər.] binanın daş",
                 "isPanagram": false,
                 "score": 5,
                 "length": 5
             },
             {
-                "word": "MOKKO",
-                "explanation": "[coğr. is.-dən] əla qəhvə növü",
+                "word": "ŞABAŞ",
+                "explanation": "is. [fars.] toy məclislərində oynayanlaraxanəndə və çalğıçılar üçün verilənpul. gənclər oynayanda yoldaşları onlarınbaşına kağız pul (əsginas) şaba",
                 "isPanagram": false,
                 "score": 5,
                 "length": 5
             },
             {
-                "word": "MOTOR",
-                "explanation": "[lat. *** – hərəkətə gətirən]hər hansı enerjini mexaniki enerjiyə çevirənmaşın; mühərrik. təyyarə ***u",
+                "word": "ŞƏBAB",
+                "explanation": "is. [ər.] klas. gənclik",
                 "isPanagram": false,
                 "score": 5,
                 "length": 5
             },
             {
-                "word": "MUKOR",
-                "explanation": "is. ibtidai göbələklər sırası",
+                "word": "ŞƏBAN",
+                "explanation": "is. [fars.] qəməri ərəb təqvimindəsəkkizinci ayın adı. həmişə ***",
                 "isPanagram": false,
                 "score": 5,
                 "length": 5
             },
             {
-                "word": "ORTAM",
-                "explanation": "is. mühit",
-                "isPanagram": false,
-                "score": 5,
-                "length": 5
-            },
-            {
-                "word": "ROTOR",
-                "explanation": "[lat. rotare – fırlanma] maşının(turbinin",
-                "isPanagram": false,
-                "score": 5,
-                "length": 5
-            },
-            {
-                "word": "TORTA",
-                "explanation": "is. yağ və s. əridilərkən qabın dibinəçökən çöküntü. kərə yağın ***sı; qızılkəmər ortası; allah muradın versin; gələnbazar ertəsi",
-                "isPanagram": false,
-                "score": 5,
-                "length": 5
-            },
-            {
-                "word": "KARKOR",
-                "explanation": "is. həm qulağı eşitməyən",
+                "word": "BƏŞŞAŞ",
+                "explanation": "sif. və zərf [ər.] klas. gülərüzlü",
                 "isPanagram": false,
                 "score": 6,
                 "length": 6
             },
             {
-                "word": "OTURUM",
-                "explanation": "is. oturmaq işi",
+                "word": "ÇAŞBAŞ",
+                "explanation": "sif. və zərf qarışıq",
                 "isPanagram": false,
                 "score": 6,
                 "length": 6
             },
             {
-                "word": "ROKOKO",
-                "explanation": "[fr.] xvııı əsrdə fransadameydana gəlib formalarının zərifliyi və mürəkkəbliyi",
+                "word": "ŞANŞAN",
+                "explanation": "sif. şanlar şəklində",
                 "isPanagram": false,
                 "score": 6,
                 "length": 6
             },
             {
-                "word": "KURATOR",
-                "explanation": "is. [lat.] müəyyən işin gedişinə",
+                "word": "ŞANAŞANA",
+                "explanation": "sif. göz-göz",
                 "isPanagram": false,
-                "score": 7,
-                "length": 7
+                "score": 8,
+                "length": 8
             },
             {
-                "word": "MOTMOTU",
-                "explanation": "is. bot. turşaşirin meyvəsiolan kol-bitki və bu bitkinin meyvəsi",
-                "isPanagram": false,
-                "score": 7,
-                "length": 7
-            },
-            {
-                "word": "TOKKATA",
-                "explanation": "[ital.] mus. fortepiano və yaorqanda sürətlə və canlı ritmik hərəkətlə ifaolunan musiqi pyesi",
-                "isPanagram": false,
-                "score": 7,
-                "length": 7
-            },
-            {
-                "word": "TRAKTOR",
-                "explanation": "[ing.] kənd təsərrüfatı alətlərinivə başqa alətləri çəkib aparmaq üçünözüyeriyən maşın. tırtıllı ***",
-                "isPanagram": false,
-                "score": 7,
-                "length": 7
-            },
-            {
-                "word": "KOMMUTATOR",
-                "explanation": "[lat. commutare – dəyişmək]1. elektrik cərəyanını açıb-bağlayanvə ya onun istiqamətini dəyişdirən cihaz",
+                "word": "ŞANBEÇƏ",
+                "explanation": "is. cavan bal arısı. şan-beçəbalı. – yetər bu dəfə böyük və ağ süfrə iləörtülü bir məcməyi gətirib ortalığa qoydu",
                 "isPanagram": true,
                 "score": 17,
-                "length": 10
+                "length": 7
             }
         ]
     }

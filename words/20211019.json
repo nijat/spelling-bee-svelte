@@ -2,149 +2,237 @@
     "gameData": {
         "day": "20211019",
         "expiration": "1634680740",
-        "centerLetter": "Y",
-        "validLetters": [
-            "A",
-            "K",
-            "L",
-            "Y",
-            "P",
+        "centerLetter": "Q",
+        "outterLetters": [
+            "D",
+            "U",
             "S",
-            "İ"
+            "T",
+            "L",
+            "O"
         ],
         "words_info": {
-            "word_count": 17,
-            "sum_score": 96,
+            "word_count": 30,
+            "sum_score": 196,
             "panagram_count": 1,
             "word_length": {
-                "7": 1,
-                "6": 3,
-                "4": 4,
-                "10": 1,
-                "8": 2,
-                "5": 5,
-                "9": 1
+                "7": 5,
+                "6": 6,
+                "8": 8,
+                "5": 10,
+                "4": 1
             }
         },
         "words": [
             {
-                "word": "ALAY",
-                "explanation": "is. 1. camaat",
+                "word": "QUTU",
+                "explanation": "is. içinə şey qoymaq üçün taxtadan",
                 "isPanagram": false,
                 "score": 1,
                 "length": 4
             },
             {
-                "word": "PAYA",
-                "explanation": "is. bir şeyi saxlamaq üçün tir",
-                "isPanagram": false,
-                "score": 1,
-                "length": 4
-            },
-            {
-                "word": "SAYA",
-                "explanation": "sif. 1. bir rəngdə olan",
-                "isPanagram": false,
-                "score": 1,
-                "length": 4
-            },
-            {
-                "word": "YASA",
-                "explanation": "is. [türkcə] qanun. ana *** (konstitusiya)",
-                "isPanagram": false,
-                "score": 1,
-                "length": 4
-            },
-            {
-                "word": "LAYKA",
-                "explanation": "is. [rus.] incə və yumşaq dəri vəhəmin dəridən tikilmiş paltar (palto",
+                "word": "QODUQ",
+                "explanation": "is. eşşəyin balası (bəzən söyüşyerində işlənir). *** hürkəndə anasındanqabaq düşər. (ata. sözü)",
                 "isPanagram": false,
                 "score": 5,
                 "length": 5
             },
             {
-                "word": "LAYLA",
-                "explanation": "is. 1. körpə uşaqları yatırtmaq üçün hava ilə oxunan həzin şeir parçası; nənni",
+                "word": "QOLLU",
+                "explanation": "sif. qolları olan. *** jaket. ***paltar",
                 "isPanagram": false,
                 "score": 5,
                 "length": 5
             },
             {
-                "word": "PİYLİ",
-                "explanation": "sif. 1. kök",
+                "word": "QUQQU",
+                "explanation": "is. zool. adətən özünə yuva tikməyib",
                 "isPanagram": false,
                 "score": 5,
                 "length": 5
             },
             {
-                "word": "SİYAL",
-                "explanation": "is. məh. üzümdə gülləmə xəstəliyi",
+                "word": "QUTLU",
+                "explanation": "sif. və zərf qəd. uğurlu",
                 "isPanagram": false,
                 "score": 5,
                 "length": 5
             },
             {
-                "word": "YAYLA",
-                "explanation": "is. 1. ***q. [molla həmid:]allaha şükür",
+                "word": "ODLUQ",
+                "explanation": "is. 1. samovar",
                 "isPanagram": false,
                 "score": 5,
                 "length": 5
             },
             {
-                "word": "AKSİYA",
-                "explanation": "[fr.] iq. səhm (aksioner şirkətinüzvlərinə verilən qiymətli kağız). ***larınbirjada ucuzlaşdığını aslan bəy öyrənmişdi",
+                "word": "OTLUQ",
+                "explanation": "is. çoxlu ot bitmiş yer; çəmən.birdən ***dan iki-üç qırqovul qalxdı.çəmənzəminli. ulaqları o tərəfdəki otluğaburaxıb gələn yusif atasının yanında",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "SOLUQ",
+                "explanation": "sif. solmuş",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "SULUQ",
+                "explanation": "is. 1. içi maye ilə dolu qabarcıq;qabartı",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "TOTUQ",
+                "explanation": "sif. sağlam",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "TULUQ",
+                "explanation": "is. 1. içində maye",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "DULLUQ",
+                "explanation": "is. dul olma",
                 "isPanagram": false,
                 "score": 6,
                 "length": 6
             },
             {
-                "word": "LAYLAY",
-                "explanation": "is. 1. körpə uşaqları yatırtmaq üçün hava ilə oxunan həzin şeir parçası; nənni",
+                "word": "QOLTUQ",
+                "explanation": "is. 1. qolun",
                 "isPanagram": false,
                 "score": 6,
                 "length": 6
             },
             {
-                "word": "SİYASİ",
-                "explanation": "sif. [ər.] 1. siyasətlə bağlı",
+                "word": "QUQULU",
+                "explanation": "is. məh. 1. bütöv çıxarılmış qoz içi",
                 "isPanagram": false,
                 "score": 6,
                 "length": 6
             },
             {
-                "word": "AKASİYA",
-                "explanation": "is. [yun.] bot. paxlalılar fəsiləsindənağac və ya kol cinsi. ağ ***.sarı ***. – *** 5-6 m hündürlüyündəağac olub xırda lələkli yarpaqla",
+                "word": "QULLUQ",
+                "explanation": "is. 1. xidmət",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6
+            },
+            {
+                "word": "QUTULU",
+                "explanation": "sif. qutusu olan",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6
+            },
+            {
+                "word": "ULULUQ",
+                "explanation": "is. böyüklük",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6
+            },
+            {
+                "word": "DOLULUQ",
+                "explanation": "is. 1. dolu şeyin halı. qabındoluluğu.2. köklük",
                 "isPanagram": false,
                 "score": 7,
                 "length": 7
             },
             {
-                "word": "KASASİYA",
-                "explanation": "is. [lat.] hüq. qanuni qüvvəyəminməmiş məhkəmə qərar və hökmlərindənşikayət. // yuxarı məhkəmə orqanlarıtərəfindən bu şikayətə baxılması",
+                "word": "QUQQULU",
+                "explanation": "is. məh. 1. bütöv çıxarılmış qoz içi",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7
+            },
+            {
+                "word": "LOTULUQ",
+                "explanation": "is. dan. kələkbazlıq",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7
+            },
+            {
+                "word": "SULULUQ",
+                "explanation": "is. sulu şeyin halı və keyfiyyəti;şirəlilik. meyvənin sululuğu",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7
+            },
+            {
+                "word": "DULUSLUQ",
+                "explanation": "is. dulusun sənəti",
                 "isPanagram": false,
                 "score": 8,
                 "length": 8
             },
             {
-                "word": "PİYLİLİK",
-                "explanation": "is. 1. köklük",
+                "word": "QODUQODU",
+                "explanation": "is. etnoqr. keçmişdə: arasıkəsilmədənyağış yağdıqda kənd uşaqlarınıntoplaşıb həyət-həyət gəzərək nəğməoxuma mərasimi və bu mərasimdə oxunannəğməni",
                 "isPanagram": false,
                 "score": 8,
                 "length": 8
             },
             {
-                "word": "PALPASİYA",
-                "explanation": "is. [lat.] tib. xəstəni müayinəetmək üsulu",
+                "word": "QODUQLUQ",
+                "explanation": "is. dan. dustaqxanaya zarafatlaverilən ad. qumru kənd soveti milisiniçağırıb",
                 "isPanagram": false,
-                "score": 9,
-                "length": 9
+                "score": 8,
+                "length": 8
             },
             {
-                "word": "APLİKASİYA",
-                "explanation": "is. [lat.] qurama",
+                "word": "QOLTUQLU",
+                "explanation": "sif. qoltuğu söykəmək üçünxüsusi yeri olan. *** kürsü. ***stul. – …adəti üzrə məni dalı-dalı aparıb ***sandalyada oturtdu",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8
+            },
+            {
+                "word": "QUQQULTU",
+                "explanation": "is. turac",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8
+            },
+            {
+                "word": "LOQQULTU",
+                "explanation": "is. 1. tökülən",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8
+            },
+            {
+                "word": "TOTUQLUQ",
+                "explanation": "is. sağlamlıq",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8
+            },
+            {
+                "word": "TUTUQLUQ",
+                "explanation": "is. tutqunluq. havanın tutuqluğu.səsin tutuqluğu",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8
+            },
+            {
+                "word": "DOSTLUQ",
+                "explanation": "is. qarşılıqlı etimad",
                 "isPanagram": true,
                 "score": 17,
-                "length": 10
+                "length": 7
             }
         ]
     }

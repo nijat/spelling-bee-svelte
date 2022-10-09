@@ -2,175 +2,243 @@
     "gameData": {
         "day": "20211008",
         "expiration": "1633730340",
-        "centerLetter": "N",
-        "validLetters": [
+        "centerLetter": "A",
+        "outterLetters": [
+            "Z",
             "R",
-            "T",
-            "V",
+            "Ə",
+            "İ",
             "N",
-            "Ö",
-            "S",
-            "Ə"
+            "H"
         ],
         "words_info": {
-            "word_count": 21,
-            "sum_score": 79,
+            "word_count": 31,
+            "sum_score": 98,
             "panagram_count": 1,
             "word_length": {
-                "5": 6,
-                "4": 11,
-                "8": 2,
-                "6": 1,
-                "7": 1
+                "5": 10,
+                "4": 18,
+                "7": 2,
+                "6": 1
             }
         },
         "words": [
             {
-                "word": "ƏNÖV",
-                "explanation": "is. dalağın ağrılı şişməsi. ***basmaq. *** tutmaq (dalaq şişmə azarınatutulmaq). isitmədən dalağı şişib",
+                "word": "AHƏN",
+                "explanation": "is. [fars.] klas. dəmir. peykanlarınladoldu tənim",
                 "isPanagram": false,
                 "score": 1,
                 "length": 4
             },
             {
-                "word": "ƏRƏN",
-                "explanation": "is. (adətən cəm şəklində). 1. ər",
+                "word": "ANƏN",
+                "explanation": "zərf [ər.] birdən",
                 "isPanagram": false,
                 "score": 1,
                 "length": 4
             },
             {
-                "word": "ƏSƏN",
-                "explanation": "sif. qəd. sağ",
+                "word": "ARAN",
+                "explanation": "is. azərbaycanda: yaylaq yerlərənisbətən alçaq və iqlimcə isti olan yerlər.azərbaycanın əsas *** yerləri muğan",
                 "isPanagram": false,
                 "score": 1,
                 "length": 4
             },
             {
-                "word": "NƏNƏ",
-                "explanation": "is. 1. atanın",
+                "word": "ARİZ",
+                "explanation": "[ər.] köhn. 1. zühur edən",
                 "isPanagram": false,
                 "score": 1,
                 "length": 4
             },
             {
-                "word": "NƏRƏ",
-                "explanation": "is. məh. evlərin üstünə qoyulan tir.su gəldi",
+                "word": "AZAN",
+                "explanation": "is. [ər.] müsəlmanları namazaçağırmaq üçün ***çının səhər",
                 "isPanagram": false,
                 "score": 1,
                 "length": 4
             },
             {
-                "word": "NƏSR",
-                "explanation": "is. [ər.] roman",
+                "word": "AZAR",
+                "explanation": "is. [fars.] 1. xəstəlik",
                 "isPanagram": false,
                 "score": 1,
                 "length": 4
             },
             {
-                "word": "NƏVƏ",
-                "explanation": "is. oğlun və ya qızın uşağı. dövlətdə– dəvə",
+                "word": "AZƏR",
+                "explanation": "is. [fars.] oda xidmət göstərənmələk",
                 "isPanagram": false,
                 "score": 1,
                 "length": 4
             },
             {
-                "word": "ÖRƏN",
-                "explanation": "is. əkilməmiş sahə",
+                "word": "ƏZAN",
+                "explanation": "[ər.] bax azan",
                 "isPanagram": false,
                 "score": 1,
                 "length": 4
             },
             {
-                "word": "ÖTƏN",
-                "explanation": "sif. 1. keçən",
+                "word": "HAİZ",
+                "explanation": "sif. [ər.] köhn. 1. sahib",
                 "isPanagram": false,
                 "score": 1,
                 "length": 4
             },
             {
-                "word": "SƏNƏ",
-                "explanation": "is. [ər.] il. bir gecəlik mətləbin bir*** mabədi var. m.ə.sabir. millətin beş*** bundan əqdəm; yüz nəfərdən biri tutmazdıqələm",
+                "word": "HANA",
+                "explanation": "is. əllə xalça",
                 "isPanagram": false,
                 "score": 1,
                 "length": 4
             },
             {
-                "word": "TƏNƏ",
-                "explanation": "[ər.] 1. is. danlaq",
+                "word": "HARA",
+                "explanation": "sual əvəz. 1. hansı yer",
                 "isPanagram": false,
                 "score": 1,
                 "length": 4
             },
             {
-                "word": "ƏNƏNƏ",
-                "explanation": "is. [ər.] tarixən meydana gələrəknəsildən-nəslə keçən adətlər",
+                "word": "HƏNA",
+                "explanation": "is. [ər.] xına. dünən oğlanı göndərdim",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "NANƏ",
+                "explanation": "[ər.] bot. yeyilən çoxillik ətirligöyərti növü. *** qurutmaq. üç dəstə ***.□ *** cövhəri (arağı) – ***dən çəkilənaraq",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "NİZA",
+                "explanation": "is. [ər.] köhn. çəkişmə",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "RƏNA",
+                "explanation": "sif. və is. [ər.] şair. 1. gözəl (qız",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "RİZA",
+                "explanation": "is. [ər.] razılıq. soralım hər zaman ***lərini; alalım xeyirli düalərini. m.ə.sabir. üzərimdə olan ləkələri bir qadının riyasını əldə etməklə yox",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "ZİNA",
+                "explanation": "is. [ər.] köhn. qeyri-qanuni cinsiəlaqə. □ *** etmək (eləmək) – qeyriqanunicinsi əlaqədə olmaq. …bu rəvayət birkişi ilə bir arvadın *** eləməyi b",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "ZİRA",
+                "explanation": "bağl. [ər.] çünki",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "AHZAR",
+                "explanation": "is. ah çəkmə",
                 "isPanagram": false,
                 "score": 5,
                 "length": 5
             },
             {
-                "word": "ƏNTƏR",
-                "explanation": "is. 1. bədəninə nisbətən çox uzunqolları olan meymun. gözünün üstündə buxarapapaq; ***ə bənzəyir o kor yapalaq",
+                "word": "ARİZƏ",
+                "explanation": "is. [ər.] köhn. 1. maneə",
                 "isPanagram": false,
                 "score": 5,
                 "length": 5
             },
             {
-                "word": "ƏNVƏR",
-                "explanation": "sif. [ər.] klas. çox nurlu",
+                "word": "AZƏRİ",
+                "explanation": "is. azərbaycanlı. ***lər haqqındayaqut həməvinin rəyi şayani-diqqətdir…çəmənzəminli. ***dir mənim adım; füzulidirsöz ustadım",
                 "isPanagram": false,
                 "score": 5,
                 "length": 5
             },
             {
-                "word": "ƏTƏNƏ",
-                "explanation": "is. məməlilərdə: ana bətnindəbalanı bürüyən və bala onun içindən çıxdıqdansonra cırılıb düşən ət pərdəsi; son",
+                "word": "ƏNHAR",
+                "explanation": "is. [ər. “nəhr” söz. cəmi] şair.çaylar",
                 "isPanagram": false,
                 "score": 5,
                 "length": 5
             },
             {
-                "word": "SƏNƏT",
-                "explanation": "is. [ər.] 1. müəyyən hazırlıq tələbedən və sahibinin yaşaması üçün əsas mənbəsayılan əmək fəaliyyətinin bir növü; peşə",
+                "word": "ƏNZAR",
+                "explanation": "is. [ər. “nəzər” söz. cəmi] klas.tənt. nəzərlər",
                 "isPanagram": false,
                 "score": 5,
                 "length": 5
             },
             {
-                "word": "VƏTƏN",
-                "explanation": "is. [ər.] 1. bir adamın doğulubböyüdüyü və ***daşı olduğu ölkə",
+                "word": "ƏRAZİ",
+                "explanation": "is. [ər. “ərz1” söz. cəmi] müəyyənhüdudları olan torpaq sahəsi. respublikamızın***si. – rey məmləkəti bir padşahınsahib ola biləcəyi ***dən bir",
                 "isPanagram": false,
                 "score": 5,
                 "length": 5
             },
             {
-                "word": "NÖVRƏS",
-                "explanation": "sif. [fars.] 1. yeni yetişmiş",
+                "word": "NAHAR",
+                "explanation": "is. [ər. nəhar] 1. günorta yeməyi.*** etmək. – mirzə iştahasız *** yeyibyatmaq istədi. ə.haqverdiyev",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "NAZİR",
+                "explanation": "is. [ər.] 1. ***liyə (1-ci mənada)başçılıq edən hökumət üzvü. maliyyə ***i.maarif ***i. – *** onları öz kabinəsindəqəbul etdi",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "NİHAN",
+                "explanation": "sif. [fars.] klas. gizli",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "ZAHİR",
+                "explanation": "is. [ər.] 1. açıq",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "ZAHİRİ",
+                "explanation": "sif. [ər.] xarici görünüşcə",
                 "isPanagram": false,
                 "score": 6,
                 "length": 6
             },
             {
-                "word": "TƏNTƏNƏ",
-                "explanation": "is. [ər.] 1. təmtəraq",
+                "word": "NAZƏNİN",
+                "explanation": "sif. [fars.] şair. nazlı",
                 "isPanagram": false,
                 "score": 7,
                 "length": 7
             },
             {
-                "word": "NƏSTƏRƏN",
-                "explanation": "is. [fars.] ağ çiçəkli yabanıgül. çıxarıb baş bənövşələr yerdən; açılırbağda ***",
-                "isPanagram": false,
-                "score": 8,
-                "length": 8
-            },
-            {
-                "word": "NÖVRƏSTƏ",
-                "explanation": "sif. [fars.] həddi-büluğa yetmiş",
+                "word": "ZAHİRƏN",
+                "explanation": "zərf [ər.] xarici görünüşünə",
                 "isPanagram": true,
                 "score": 17,
-                "length": 8
+                "length": 7
             }
         ]
     }
