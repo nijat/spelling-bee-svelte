@@ -1,0 +1,291 @@
+{
+    "gameData": {
+        "day": "20221010",
+        "expiration": "1665439140",
+        "centerLetter": "S",
+        "outerLetters": [
+            "A",
+            "Z",
+            "Q",
+            "L",
+            "I",
+            "V"
+        ],
+        "words_info": {
+            "word_count": 37,
+            "sum_score": 226,
+            "panagram_count": 1,
+            "word_length": {
+                "5": 9,
+                "8": 7,
+                "4": 7,
+                "11": 3,
+                "7": 3,
+                "6": 5,
+                "9": 2,
+                "10": 1
+            }
+        },
+        "words": [
+            {
+                "word": "ASQI",
+                "explanation": "is. paltar və ya başqa şeylər asmağaməxsus alət. bu paltarlı skeletin iti çiyinsümükləri *** kimi ağ abanı saxlayır",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "QISA",
+                "explanation": "sif. 1. boyca gödək",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "SAQA",
+                "explanation": "is. ədəb. nəsrlə yazılmış qədim islandəsərləri",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "SALI",
+                "explanation": "is. həftənin ikinci günü",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "SAVA",
+                "explanation": "sif. öz vaxtında deyil",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "SIZI",
+                "explanation": "is. bax ***ltı. bütün vücudumda birqırıqlıq",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "VALS",
+                "explanation": "[fr.] 1. iki nəfərin birgə oynadığıavropa rəqslərindən birinin adı. *** oynayanoğlan və qızlar bir-iki-üç",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "ASILI",
+                "explanation": "sif. 1. asılmış halda olan",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "QASIQ",
+                "explanation": "is. anat. qarnın iki bud arasındaolan alt tərəfi",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "QISIQ",
+                "explanation": "sif. 1. qısılmış",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "QISQI",
+                "explanation": "is. 1. tələsdirmə",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "SAQQA",
+                "explanation": "is. [ər.] köhn. keçmişdə dalında",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "SALIQ",
+                "explanation": "is. xəbər",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "SAZAQ",
+                "explanation": "is. bərk soyuq",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "SISQA",
+                "explanation": "sif. cılız",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "SIZQA",
+                "explanation": "sif. suyu az-az",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "SAQQAL",
+                "explanation": "is. 1. kişilərin üzündə və alt çənələrinin üstündə bitən tüklər. uzun ***. *** qoymaq. – [məşədi ibad:] hə… çünki mən ***ıma həna qoyuram",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6
+            },
+            {
+                "word": "SAQQIZ",
+                "explanation": "is. ***ağacından sızıb çıxan",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6
+            },
+            {
+                "word": "SALLAQ",
+                "explanation": "sif. sallanmış halda olan",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6
+            },
+            {
+                "word": "SAZLIQ",
+                "explanation": "is. saz şeyin halı",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6
+            },
+            {
+                "word": "VASSAL",
+                "explanation": "[fr.] 1. tar. orta əsrlərdə qərbiavropada: özündən daha böyük və güclüolan feodaldan asılı və onun üçün müəyyənmükəlləfiyyətlər görməyə borclu olan",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6
+            },
+            {
+                "word": "QISALIQ",
+                "explanation": "is. qısa şeyin halı; gödəklik(uzunluq ziddi). paltarın qısalığı. söhbətinqısalığı. cavabın qısalığı",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7
+            },
+            {
+                "word": "SAZAQLI",
+                "explanation": "sif. kəskin küləyi",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7
+            },
+            {
+                "word": "VASVASI",
+                "explanation": "sif. 1. hər şeydən çəkinən",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7
+            },
+            {
+                "word": "ASILILIQ",
+                "explanation": "is. 1. birinin iradəsinə",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8
+            },
+            {
+                "word": "QALIQSIZ",
+                "explanation": "sif. riyaz. böldükdə qalıq qalmayan(bax qalıq 4-cü mənada)",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8
+            },
+            {
+                "word": "QILIQSIZ",
+                "explanation": "sif. rəftarı olmayan",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8
+            },
+            {
+                "word": "QISIQLIQ",
+                "explanation": "is. 1. qısılmış (sıxılmış) şeyinhalı.2. boğuqluq",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8
+            },
+            {
+                "word": "SAQQALLI",
+                "explanation": "sif. 1. saqqalı olan",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8
+            },
+            {
+                "word": "SISQALIQ",
+                "explanation": "is. cılızlıq",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8
+            },
+            {
+                "word": "ZAVALSIZ",
+                "explanation": "sif. məhv olmaz",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8
+            },
+            {
+                "word": "SAQQALSIZ",
+                "explanation": "sif. saqqalı olmayan",
+                "isPanagram": false,
+                "score": 9,
+                "length": 9
+            },
+            {
+                "word": "SALLAQLIQ",
+                "explanation": "is. sallaq şeyin halı; sallanmışhalda olma",
+                "isPanagram": false,
+                "score": 9,
+                "length": 9
+            },
+            {
+                "word": "VASVASILIQ",
+                "explanation": "is. vasvası adamın xasiyyəti",
+                "isPanagram": false,
+                "score": 10,
+                "length": 10
+            },
+            {
+                "word": "QILIQSIZLIQ",
+                "explanation": "is. rəftarsızlıq",
+                "isPanagram": false,
+                "score": 11,
+                "length": 11
+            },
+            {
+                "word": "QIZILSAQQAL",
+                "explanation": "is. bot. aran və dağlıqyerlərdə",
+                "isPanagram": false,
+                "score": 11,
+                "length": 11
+            },
+            {
+                "word": "ZAVALSIZLIQ",
+                "explanation": "is. məhv olmama",
+                "isPanagram": true,
+                "score": 17,
+                "length": 11
+            }
+        ]
+    }
+}

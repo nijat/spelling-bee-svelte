@@ -1,0 +1,184 @@
+{
+    "gameData": {
+        "day": "20221001",
+        "expiration": "1664661540",
+        "centerLetter": "Z",
+        "outerLetters": [
+            "A",
+            "İ",
+            "G",
+            "N",
+            "M",
+            "V"
+        ],
+        "words_info": {
+            "word_count": 22,
+            "sum_score": 90,
+            "panagram_count": 1,
+            "word_length": {
+                "9": 1,
+                "7": 1,
+                "4": 10,
+                "5": 7,
+                "6": 2,
+                "8": 1
+            }
+        },
+        "words": [
+            {
+                "word": "AVAZ",
+                "explanation": "is. [fars.] 1. səs",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "AZAN",
+                "explanation": "is. [ər.] müsəlmanları namazaçağırmaq üçün ***çının səhər",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "AZİM",
+                "explanation": "[ər.] : *** olmaq klas. – getmək",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "MAZİ",
+                "explanation": "is. [ər.] 1. klas. keçmiş zaman",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "NİZA",
+                "explanation": "is. [ər.] köhn. çəkişmə",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "VAİZ",
+                "explanation": "is. [ər.] din. vəz və nəsihət edən",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "VAZA",
+                "explanation": "[fr.] içinə meyvə",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "VİZA",
+                "explanation": "[lat.] rəs. 1. bir xarici ölkəyə daxilolmaq",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "ZİNA",
+                "explanation": "is. [ər.] köhn. qeyri-qanuni cinsiəlaqə. □ *** etmək (eləmək) – qeyriqanunicinsi əlaqədə olmaq. …bu rəvayət birkişi ilə bir arvadın *** eləməyi b",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "ZİNG",
+                "explanation": "is. 1. anat. məh. insan və heyvanlardabazı və baldır sümüyü.2. bax ***irə",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "AZMAN",
+                "explanation": "sif. çox böyük",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "MİZAN",
+                "explanation": "is. [ər.] 1. çəki aləti",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "NAMAZ",
+                "explanation": "is. [fars.] din. müsəlmanlarıngündə beş dəfə müəyyən vaxtlarda müəyyənqaydalar üzrə icra etməli olduqları ibadət",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "NAZİM",
+                "explanation": "is. [ər.] 1. nizama salan",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "NİZAM",
+                "explanation": "is. [ər.] 1. qayda",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "ZAMAN",
+                "explanation": "is. [ər.] 1. vaxt",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "ZAMİN",
+                "explanation": "is. [ər.] öhdəsinə ***lik götürən",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "NİZAMİ",
+                "explanation": "sif. [ər.] 1. düzgün",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6
+            },
+            {
+                "word": "ZİVANA",
+                "explanation": "is. 1. dəyirman daşının ortasındakıqazıq",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6
+            },
+            {
+                "word": "ANİMİZM",
+                "explanation": "[lat.] ibtidai insanların hər birşeyin ruhu olduğuna inanması",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7
+            },
+            {
+                "word": "AMANZAMAN",
+                "explanation": "sif. dan. tək",
+                "isPanagram": false,
+                "score": 9,
+                "length": 9
+            },
+            {
+                "word": "VAGİNİZM",
+                "explanation": "is. [lat.] qadınlarda xarici cinsiyyətorqanlarının yüksək həssaslığı",
+                "isPanagram": true,
+                "score": 17,
+                "length": 8
+            }
+        ]
+    }
+}

@@ -1,0 +1,206 @@
+{
+    "gameData": {
+        "day": "20221014",
+        "expiration": "1665784740",
+        "centerLetter": "N",
+        "outerLetters": [
+            "İ",
+            "Ö",
+            "Ə",
+            "L",
+            "K",
+            "H"
+        ],
+        "words_info": {
+            "word_count": 25,
+            "sum_score": 140,
+            "panagram_count": 2,
+            "word_length": {
+                "6": 2,
+                "4": 7,
+                "7": 3,
+                "5": 8,
+                "8": 3,
+                "9": 1,
+                "10": 1
+            }
+        },
+        "words": [
+            {
+                "word": "ƏKİN",
+                "explanation": "is. 1. taxıl",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "ƏNƏK",
+                "explanation": "is. 1. yük atı",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "ƏNİK",
+                "explanation": "sif. yırtıcı",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "ƏNİN",
+                "explanation": "is. [ər.] şair. inləmə",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "KİNƏ",
+                "explanation": "is. əcz. *** ağacının qabığındanhasil edilən acıdadlı ağ toz dərman; isitmədərmanı. *** atmaq. – [heybət:] dünənyaxşı idim",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "LƏİN",
+                "explanation": "sif. və is. [ər.] bax məlun. bu isə",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "NƏNƏ",
+                "explanation": "is. 1. atanın",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "ƏNƏNƏ",
+                "explanation": "is. [ər.] tarixən meydana gələrəknəsildən-nəslə keçən adətlər",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "ƏNLİK",
+                "explanation": "is. 1. qadınların yanaqlarına sürtdükləritoz və ya yağ halında olan kosmetikmaddə – al boya. *** vurmaq",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "HƏNƏK",
+                "explanation": "is. [ər.] zarafat. əvvəli ***",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "KƏNƏK",
+                "explanation": "sif. 1. ləpəsi çətin çıxan. ***qoz.2. məc. çətinliklə başa gələn",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "KİNLİ",
+                "explanation": "sif. kin saxlayan. *** adam. –dəvə *** (z.) olar. (ata. sözü). [xalq] düşməninəqarşı ***",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "KÖHNƏ",
+                "explanation": "sif. [fars.] 1. uzun müddət işlənməkdən dağılmış",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "NƏNNİ",
+                "explanation": "is. 1. körpə uşaqları yatırtmaq üçünasılan kiçik yatacaq. [qumru] uşağı ***yəsalıb küncə qısıldı",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "NİNNİ",
+                "explanation": "is. layla",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "ƏKƏNƏK",
+                "explanation": "is. taxıl əkilmiş yer",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6
+            },
+            {
+                "word": "KÖHLƏN",
+                "explanation": "sif. harın bəslənmiş (at haqqında).tövlələrdə *** atlar çığırışırmı?f.köçərli. volqadan su içmiş *** atların;üstündə girdablı çaylara cumduq",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6
+            },
+            {
+                "word": "ƏKİNLİK",
+                "explanation": "is. əkin yeri",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7
+            },
+            {
+                "word": "ƏNLİKLİ",
+                "explanation": "sif. üzünə ənlik vurmuş",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7
+            },
+            {
+                "word": "NƏNƏLİK",
+                "explanation": "is. 1. ögey nənə. məsmə səliminnənəliyi hesab olunurdu. mir cəlal.2. məc. analıq. [hacı murad:] durub təzədənona *** edə bilmərəm ki",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7
+            },
+            {
+                "word": "KƏNƏKLİK",
+                "explanation": "is. 1. ləpəsi çətin çıxan qozvə s.-nin keyfiyyəti.2. kənək adamın xasiyyəti; tərslik",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8
+            },
+            {
+                "word": "KİNLİLİK",
+                "explanation": "is. kin saxlama",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8
+            },
+            {
+                "word": "KÖHNƏKÖHNƏ",
+                "explanation": "sif. və zərf köhnə",
+                "isPanagram": false,
+                "score": 10,
+                "length": 10
+            },
+            {
+                "word": "KÖHLƏNLİK",
+                "explanation": "is. harın bəslənmiş atın halvə keyfiyyəti; harınlıq. qara oğlan hər sözbaşında xallı atın köhlənliyini",
+                "isPanagram": true,
+                "score": 17,
+                "length": 9
+            },
+            {
+                "word": "KÖHNƏLİK",
+                "explanation": "is. 1. köhnə şeyin hal və keyfiyyəti(təzəlik ziddi). paltarın köhnəliyi.evin köhnəliyi. // tarixi köhnə olma",
+                "isPanagram": true,
+                "score": 17,
+                "length": 8
+            }
+        ]
+    }
+}

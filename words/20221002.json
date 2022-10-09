@@ -1,0 +1,148 @@
+{
+    "gameData": {
+        "day": "20221002",
+        "expiration": "1664747940",
+        "centerLetter": "S",
+        "outerLetters": [
+            "A",
+            "Z",
+            "Ə",
+            "M",
+            "I",
+            "Ü"
+        ],
+        "words_info": {
+            "word_count": 17,
+            "sum_score": 62,
+            "panagram_count": 1,
+            "word_length": {
+                "4": 10,
+                "7": 2,
+                "6": 1,
+                "9": 1,
+                "5": 3
+            }
+        },
+        "words": [
+            {
+                "word": "ASMA",
+                "explanation": "1. “***q”dan f.is.2. sif. bir yerdən asılan",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "ƏSAS",
+                "explanation": "is. [ər.] 1. bünövrə",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "ƏSMƏ",
+                "explanation": "1. “***k”dən f.is.2. bax ***cə. *** azarı. *** tutmuşdur.– məs geyinib",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "MASA",
+                "explanation": "is. [rumıncadan] miz",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "SAAM",
+                "explanation": "is. kola yarımadasında",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "SAMI",
+                "explanation": "is. boyunduruğun hər iki ucundakıqoşa deşiklərə salınan nazik ağac. [salmanəmi] arabaçının *** qayırmaq üçün ağacaxtardığını bilib sakit oldu",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "SƏMA",
+                "explanation": "is. [ər.] göy",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "SƏMƏ",
+                "explanation": "sif. ağıldan kəm",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "SƏZA",
+                "explanation": "sif. [fars.] layiq",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "SIZI",
+                "explanation": "is. bax ***ltı. bütün vücudumda birqırıqlıq",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "SÜMSÜ",
+                "explanation": "is. quşları aldadıb tutmaq üçünonların səsini yamsılayan ovçu aləti. [kərimbaba:] *** quş kimi oxuyur",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "SÜZMƏ",
+                "explanation": "is. suyu süzülərək qatılaşmış qatıq.tərs kimi qonaqlar da bir torba *** qatıqdanbaşqa bir şey gətirməmişdilər",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "ÜZSÜZ",
+                "explanation": "sif. 1. üzü",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "MƏSAMƏ",
+                "explanation": "is. [ər.] 1. dərinin üzərində tərvəzilərinin ən xırda deşiyi.2. maddənin hissəcikləri arasındakı boşluq",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6
+            },
+            {
+                "word": "ƏSASSIZ",
+                "explanation": "sif. 1. bünövrəsiz",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7
+            },
+            {
+                "word": "MÜSƏMMA",
+                "explanation": "is. [ər.] aşp. qoyun və ya toyuqətindən albuxara",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7
+            },
+            {
+                "word": "MÜƏMMASIZ",
+                "explanation": "sif. müəmması olmayan;aydın",
+                "isPanagram": true,
+                "score": 17,
+                "length": 9
+            }
+        ]
+    }
+}

@@ -1,0 +1,290 @@
+{
+    "gameData": {
+        "day": "20221015",
+        "expiration": "1665871140",
+        "centerLetter": "Q",
+        "outerLetters": [
+            "A",
+            "C",
+            "O",
+            "L",
+            "B",
+            "R"
+        ],
+        "words_info": {
+            "word_count": 37,
+            "sum_score": 180,
+            "panagram_count": 1,
+            "word_length": {
+                "6": 10,
+                "5": 8,
+                "7": 2,
+                "4": 12,
+                "8": 2,
+                "10": 2,
+                "9": 1
+            }
+        },
+        "words": [
+            {
+                "word": "ALAQ",
+                "explanation": "is. tarlada",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "ARAQ",
+                "explanation": "is. [ər.] 1. meyvədən və s.-dənçəkilən spirtli içki. tut arağı. zoğal arağı.*** çəkmək. – ərəqlə badədir ol iki cövhər;ki",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "ARQO",
+                "explanation": "[fr.] dilç. yalnız bir məhdud və peşəkar qrupun və s.-nin işlətdiyi və başqalarının başa düşmədiyi şərti ifadə və sözlər",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "QABA",
+                "explanation": "sif. 1. kobud",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "QACA",
+                "explanation": "sif. çox işlənmək nəticəsində çalaçuxurbir hala düşmüş. *** yol",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "QALA",
+                "explanation": "is. [ər.] 1. uzun müddət içində qapanıbdüşmənə müqavimət göstərmək üçünmöhkəm müdafiə tikililəri və vasitələri olanistehkam (məntəqə)",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "QARA",
+                "explanation": "is. yer kürəsinin torpaqla örtülühissəsi; torpaq (su qarşılığı). ***da və suda.*** qüvvələri",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "QOCA",
+                "explanation": "1. sif. yaşlı",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "QORA",
+                "explanation": "is. üzümün dəyməmişi",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "OCAQ",
+                "explanation": "is. 1. xörək bişirmək",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "ORAQ",
+                "explanation": "is. taxıl",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "RAQA",
+                "explanation": "is. [sanskr.] mus. qədim hind klassikmusiqisi növlərindən biri",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "AQRAR",
+                "explanation": "sif. [lat.] 1. torpağa aid olan. ***məsələ. *** islahatı.2. kənd təsərrüfatının sənayedən yüksəkolması ilə səciyyələnən",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "BACAQ",
+                "explanation": "is. qıç. heyvancıqlar … ***larınıbükərək",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "BALAQ",
+                "explanation": "is. camış balası",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "CALAQ",
+                "explanation": "is. 1. bot. bir bitkinin başqa bitki ilə ***lanma nəticəsində inkişaf etmiş hissəsi; peyvənd",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "QABAQ",
+                "explanation": "is. 1. bot. qarpız",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "QABAR",
+                "explanation": "is. 1. bədəndə dərinin altında əmələ gələn sulu ***cıq; suluq. □ *** olmaq – bax ***lamaq 1-ci mənada",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "QALAQ",
+                "explanation": "is. bir yerə qalanmış",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "QOLAC",
+                "explanation": "is. qolları hər iki tərəfə açdıqdabir əlin barmaqları ucundan o biri əlin barmaqlarıucuna qədər olan məsafə",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "ABQORA",
+                "explanation": "is. [fars.] qora suyu",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6
+            },
+            {
+                "word": "ALACAQ",
+                "explanation": "is. alınacaq borc",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6
+            },
+            {
+                "word": "BAQQAL",
+                "explanation": "is. [ər.] köhn. keçmişdə ərzaqmalları satan dükançı. *** ölənin borcunudirilərə yüklər. (ata. sözü)",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6
+            },
+            {
+                "word": "BOLQAR",
+                "explanation": "is. şərqi slavyan xalqlarındanbiri və bu xalqa mənsub adam",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6
+            },
+            {
+                "word": "QALLAC",
+                "explanation": "sif. dan. əliaçıq",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6
+            },
+            {
+                "word": "QARACA",
+                "explanation": "is. k.t. 1. dəni qara toz halınasalan taxıl xəstəliyi.2. taxıl dənləri arasında olan yumru vəxırda zərərli bitki dəni",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6
+            },
+            {
+                "word": "QLOBAL",
+                "explanation": "[lat.] bütün yer kürəsini bürüyəbilən. *** hadisələr",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6
+            },
+            {
+                "word": "QOLBAQ",
+                "explanation": "is. qadınların biləklərinə taxdıqlarıqızıl",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6
+            },
+            {
+                "word": "QORABA",
+                "explanation": "is. 1. qora suyu.2. üzüm və müxtəlif meyvə şirəsindənhazırlanan riçal.3. məc. göz yaşı. gözündən tökülən ***nıəlinin arxası ilə silərək qaşına",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6
+            },
+            {
+                "word": "OLACAQ",
+                "explanation": "is. 1. tale",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6
+            },
+            {
+                "word": "ALAQORA",
+                "explanation": "sif. ala-dəymiş",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7
+            },
+            {
+                "word": "QARQARA",
+                "explanation": "is. xüs. ağır şeyləri qaldırmaqüçün yüksəkdə mil üstündə dolanan vəüzərindən ip sallanan çarx. // ümumiyyətlə",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7
+            },
+            {
+                "word": "BALQABAQ",
+                "explanation": "is. 1. uzunsov",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8
+            },
+            {
+                "word": "QARAQABAQ",
+                "explanation": "sif. üzü gülməyən",
+                "isPanagram": false,
+                "score": 9,
+                "length": 9
+            },
+            {
+                "word": "QABARQABAR",
+                "explanation": "sif. hər tərəfi qabarlı",
+                "isPanagram": false,
+                "score": 10,
+                "length": 10
+            },
+            {
+                "word": "QOLACQOLAC",
+                "explanation": "sif. uzun-uzun. ***saçlar",
+                "isPanagram": false,
+                "score": 10,
+                "length": 10
+            },
+            {
+                "word": "BOLQARCA",
+                "explanation": "zərf və sif. bolqar dilində.*** danışmaq. ***-rusca lüğət",
+                "isPanagram": true,
+                "score": 17,
+                "length": 8
+            }
+        ]
+    }
+}

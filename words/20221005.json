@@ -1,46 +1,33 @@
 {
     "gameData": {
-        "day": "20211003",
-        "expiration": "1633298340",
-        "centerLetter": "A",
-        "outterLetters": [
-            "S",
-            "Ə",
-            "K",
-            "L",
-            "İ",
-            "N"
+        "day": "20221005",
+        "expiration": "1665007140",
+        "centerLetter": "Ə",
+        "outerLetters": [
+            "A",
+            "X",
+            "Z",
+            "Q",
+            "N",
+            "L"
         ],
         "words_info": {
-            "word_count": 44,
-            "sum_score": 171,
+            "word_count": 40,
+            "sum_score": 161,
             "panagram_count": 1,
             "word_length": {
-                "4": 18,
-                "6": 7,
+                "4": 16,
                 "5": 16,
-                "7": 2,
-                "8": 1
+                "7": 3,
+                "6": 3,
+                "8": 1,
+                "9": 1
             }
         },
         "words": [
             {
-                "word": "AİLƏ",
-                "explanation": "is. [ər.] 1. ata-anadan",
-                "isPanagram": false,
-                "score": 1,
-                "length": 4
-            },
-            {
                 "word": "ANƏN",
                 "explanation": "zərf [ər.] birdən",
-                "isPanagram": false,
-                "score": 1,
-                "length": 4
-            },
-            {
-                "word": "ASAN",
-                "explanation": "sif. zəhmət tələb etməyən",
                 "isPanagram": false,
                 "score": 1,
                 "length": 4
@@ -53,43 +40,50 @@
                 "length": 4
             },
             {
-                "word": "ƏSAS",
-                "explanation": "is. [ər.] 1. bünövrə",
+                "word": "ƏNQA",
+                "explanation": "is. [ər.] klas. 1. əsatirə görə qaf(elbrus) dağında yaşamış əfsanəvi çox iribir quş; simurq.2. adı olub özü olmayan şey haqqında",
                 "isPanagram": false,
                 "score": 1,
                 "length": 4
             },
             {
-                "word": "ƏSLA",
-                "explanation": "zərf [ər.] heç",
+                "word": "ƏZAN",
+                "explanation": "[ər.] bax azan",
                 "isPanagram": false,
                 "score": 1,
                 "length": 4
             },
             {
-                "word": "ƏSNA",
-                "explanation": "is. [ər.] vaxt",
+                "word": "ƏZƏL",
+                "explanation": "[ər.] 1. is. əvvəli",
                 "isPanagram": false,
                 "score": 1,
                 "length": 4
             },
             {
-                "word": "KALA",
-                "explanation": "is. məh. böyük şüşə qab",
+                "word": "XANƏ",
+                "explanation": "is. [fars.] 1. ev",
                 "isPanagram": false,
                 "score": 1,
                 "length": 4
             },
             {
-                "word": "KASA",
-                "explanation": "is. [fars.] 1. çini",
+                "word": "XƏLQ",
+                "explanation": "is. [ər.] klas. 1. yaratma",
                 "isPanagram": false,
                 "score": 1,
                 "length": 4
             },
             {
-                "word": "KLAN",
-                "explanation": "is. [ing.] qohumların bir-biri ilətəsərrüfat",
+                "word": "QƏLƏ",
+                "explanation": "[ər.] bax qala",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "QƏZA",
+                "explanation": "is. [ər.] 1. bədbəxt hadisə",
                 "isPanagram": false,
                 "score": 1,
                 "length": 4
@@ -102,8 +96,8 @@
                 "length": 4
             },
             {
-                "word": "NAİL",
-                "explanation": "[ər.] : *** olmaq – əldə etmək",
+                "word": "LƏLƏ",
+                "explanation": "is. 1. keçmişdə kübar və varlı ai***rdəoğlan uşağının tərbiyəsilə məşğul olanadam. [qətibə xanım:] səba xanım",
                 "isPanagram": false,
                 "score": 1,
                 "length": 4
@@ -123,211 +117,190 @@
                 "length": 4
             },
             {
-                "word": "SAİL",
-                "explanation": "is. [ər.] dilənçi",
+                "word": "NƏQL",
+                "explanation": "is. [ər.] 1. bax nağıl. qəhrəmanbalaca sabir üçün müxtəlif *** danışırdı.s.rəhimov. □ *** etmək – bir əhvalatı",
                 "isPanagram": false,
                 "score": 1,
                 "length": 4
             },
             {
-                "word": "SANİ",
-                "explanation": "sif. [ər.] ikinci",
+                "word": "NƏNƏ",
+                "explanation": "is. 1. atanın",
                 "isPanagram": false,
                 "score": 1,
                 "length": 4
             },
             {
-                "word": "SƏNA",
-                "explanation": "is. [ər.] klas. tərif",
+                "word": "ZƏNN",
+                "explanation": "is. [ər.] 1. kafi dəlil üzərində əsaslanmayanehtimal",
                 "isPanagram": false,
                 "score": 1,
                 "length": 4
             },
             {
-                "word": "SİAN",
-                "explanation": "is. kəskin iyli",
-                "isPanagram": false,
-                "score": 1,
-                "length": 4
-            },
-            {
-                "word": "ALANA",
-                "explanation": "is. içərisi şəkərli qozla doldurulmuşmeyvə qurusu (armud",
+                "word": "ƏXLAQ",
+                "explanation": "is. [ər.] 1. insanın mənəvi keyfiyyətini",
                 "isPanagram": false,
                 "score": 5,
                 "length": 5
             },
             {
-                "word": "ASLAN",
-                "explanation": "is. 1. şir",
+                "word": "ƏQƏLL",
+                "explanation": "zərf [ər.] daha az",
                 "isPanagram": false,
                 "score": 5,
                 "length": 5
             },
             {
-                "word": "ƏKKAS",
-                "explanation": "is. [ər.] köhn. fotoqrafın köhnəadı",
+                "word": "ƏQLƏN",
+                "explanation": "zərf. [ər.] ağılca",
                 "isPanagram": false,
                 "score": 5,
                 "length": 5
             },
             {
-                "word": "ƏSASİ",
-                "explanation": "sif. [ər.] köhn. bax əsas 2-ci mənada.*** cəhətlər. – həyat *** birdəyişikliyə uğrayınca ədəbiyyat büsbütünbaşını itirdi",
+                "word": "ƏLAQƏ",
+                "explanation": "is. [ər.] 1. qarşılıqlı münasibət",
                 "isPanagram": false,
                 "score": 5,
                 "length": 5
             },
             {
-                "word": "KALAN",
-                "explanation": "sif. dan. varlı",
+                "word": "ƏNƏNƏ",
+                "explanation": "is. [ər.] tarixən meydana gələrəknəsildən-nəslə keçən adətlər",
                 "isPanagram": false,
                 "score": 5,
                 "length": 5
             },
             {
-                "word": "KALKA",
-                "explanation": "[fr.] 1. çertyojlardan",
+                "word": "ƏNQAZ",
+                "explanation": "is. [ər.] klas. uçulmuş binanın",
                 "isPanagram": false,
                 "score": 5,
                 "length": 5
             },
             {
-                "word": "KANAL",
-                "explanation": "[lat.] 1. dəniz",
+                "word": "ƏZƏLƏ",
+                "explanation": "is. [ər.] anat. insan və heyvanbədəninin",
                 "isPanagram": false,
                 "score": 5,
                 "length": 5
             },
             {
-                "word": "KASKA",
-                "explanation": "[fr. casque",
+                "word": "XƏLƏL",
+                "explanation": "is. [ər.] pozuculuq",
                 "isPanagram": false,
                 "score": 5,
                 "length": 5
             },
             {
-                "word": "KASNİ",
-                "explanation": "is. [fars.] bot. xalq təbabətindəişlədilən incə yarpaqlı",
+                "word": "XƏZAN",
+                "explanation": "is. [fars.] payızda yarpaqlarıntökülməsi; yarpaq tökülmə mövsümü;payız. ərağac zəmilər payızın ***ına birbəzək və zinət verirdi",
                 "isPanagram": false,
                 "score": 5,
                 "length": 5
             },
             {
-                "word": "KASSA",
-                "explanation": "[ital.] 1. pul",
+                "word": "XƏZƏL",
+                "explanation": "is. 1. payız fəslində budaqlardantökülən (saralmış) quru yarpaqlar. qaratoyuqtutmaq üçün at qılından cələ hörübbağda ağaclar altında çox *** olan",
                 "isPanagram": false,
                 "score": 5,
                 "length": 5
             },
             {
-                "word": "LAKİN",
-                "explanation": "bağl. [ər.] cümlələri",
+                "word": "XƏZNƏ",
+                "explanation": "is. [ər.] 1. pul",
                 "isPanagram": false,
                 "score": 5,
                 "length": 5
             },
             {
-                "word": "LİANA",
-                "explanation": "[fr.] bot. tropik meşələrdə",
+                "word": "QƏLLƏ",
+                "explanation": "is. [ər.] köhn. taxıl",
                 "isPanagram": false,
                 "score": 5,
                 "length": 5
             },
             {
-                "word": "LİSAN",
-                "explanation": "is. [ər.] klas. dil. ey oğul",
+                "word": "QƏZAL",
+                "explanation": "is. [ər.] ahu",
                 "isPanagram": false,
                 "score": 5,
                 "length": 5
             },
             {
-                "word": "NAKƏS",
-                "explanation": "sif. və is. [fars.] şərəfsiz",
+                "word": "QƏZƏL",
+                "explanation": "is. [ər.] 1. ədəb. eşq və məhəbbətitərənnüm edən",
                 "isPanagram": false,
                 "score": 5,
                 "length": 5
             },
             {
-                "word": "NALAN",
-                "explanation": "sif. və zərf [fars.] ağlayan",
+                "word": "ZƏNƏX",
+                "explanation": "is. [fars.] klas. çənə",
                 "isPanagram": false,
                 "score": 5,
                 "length": 5
             },
             {
-                "word": "SAKİN",
-                "explanation": "is. [ər.] 1. bir yerdə yurd salıb yaşayan",
+                "word": "ZƏNƏN",
+                "explanation": "is. [fars.] 1. qadın",
                 "isPanagram": false,
                 "score": 5,
                 "length": 5
             },
             {
-                "word": "AİLƏLİ",
-                "explanation": "sif. ailəsi olan",
+                "word": "QƏZALƏ",
+                "explanation": "is. [ər.] klas. 1. dişi ceyran; dişiceyran balası. gərək gözlərinə millər çəkilə;hər kim desə vəhşi *** sənə",
                 "isPanagram": false,
                 "score": 6,
                 "length": 6
             },
             {
-                "word": "ANİLİK",
-                "explanation": "is. bir an içində olan şeyinxassəsi",
+                "word": "LAƏQƏL",
+                "explanation": "zərf [ər.] klas. ən azı",
                 "isPanagram": false,
                 "score": 6,
                 "length": 6
             },
             {
-                "word": "ASİLİK",
-                "explanation": "is. 1. itaətsizlik",
+                "word": "ZƏNƏNƏ",
+                "explanation": "sif. [fars.] qadınlara məxsus",
                 "isPanagram": false,
                 "score": 6,
                 "length": 6
             },
             {
-                "word": "ƏSASƏN",
-                "explanation": "[ər.] 1. zərf əsli",
-                "isPanagram": false,
-                "score": 6,
-                "length": 6
-            },
-            {
-                "word": "KANKAN",
-                "explanation": "is. [fars.] köhn. əl ilə quyuqazan;quyuçu. ***ın vəsiyyəti qızıl öküzdür.(ata. sözü). [məmməd:] atam ***idi",
-                "isPanagram": false,
-                "score": 6,
-                "length": 6
-            },
-            {
-                "word": "LALƏLİ",
-                "explanation": "sif. lalə bitmiş",
-                "isPanagram": false,
-                "score": 6,
-                "length": 6
-            },
-            {
-                "word": "SALAKA",
-                "explanation": "is. [rus.] balıq növü",
-                "isPanagram": false,
-                "score": 6,
-                "length": 6
-            },
-            {
-                "word": "KLASSİK",
-                "explanation": "[lat.] 1. elm",
+                "word": "ƏQƏLLƏN",
+                "explanation": "zərf [ər.] ən azı",
                 "isPanagram": false,
                 "score": 7,
                 "length": 7
             },
             {
-                "word": "SAİLLİK",
-                "explanation": "is. dilənçilik",
+                "word": "LƏXLƏXƏ",
+                "explanation": "is. dan. pozğunluq",
                 "isPanagram": false,
                 "score": 7,
                 "length": 7
             },
             {
-                "word": "NAKƏSLİK",
-                "explanation": "is. alçaqlıq",
+                "word": "ZƏLZƏLƏ",
+                "explanation": "is. [ər.] yer qabığının bəzi sahələrininvulkanik və ya tektonik proseslərüzündən güclü titrəməsi; yer sarsıntısı",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7
+            },
+            {
+                "word": "LAƏQƏLLƏN",
+                "explanation": "zərf [ər.] klas. ən azı",
+                "isPanagram": false,
+                "score": 9,
+                "length": 9
+            },
+            {
+                "word": "QƏZƏLXAN",
+                "explanation": "sif. [ər. qəzəl və fars. …xan]köhn. qəzəl oxuyan",
                 "isPanagram": true,
                 "score": 17,
                 "length": 8

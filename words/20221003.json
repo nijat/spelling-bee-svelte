@@ -1,0 +1,318 @@
+{
+    "gameData": {
+        "day": "20221003",
+        "expiration": "1664834340",
+        "centerLetter": "L",
+        "outerLetters": [
+            "A",
+            "Ə",
+            "T",
+            "B",
+            "Ü",
+            "D"
+        ],
+        "words_info": {
+            "word_count": 41,
+            "sum_score": 210,
+            "panagram_count": 1,
+            "word_length": {
+                "5": 12,
+                "8": 3,
+                "7": 6,
+                "4": 10,
+                "6": 8,
+                "9": 1,
+                "10": 1
+            }
+        },
+        "words": [
+            {
+                "word": "ALƏT",
+                "explanation": "is. [ər.] 1. bir iş görmək",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "BALA",
+                "explanation": "1. is. övlad",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "BƏLA",
+                "explanation": "is. [ər.] 1. uğursuzluq",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "DƏLƏ",
+                "explanation": "is. 1. zool. yırtıcılar dəstəsindənxəzdərili məməli kiçik heyvan. *** dərisi.2. həmin heyvanın dərisi",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "LALƏ",
+                "explanation": "is. [fars.] 1. bot. iriləçəkli qırmızıçiçəkləri olan bitki və bu bitkinin çiçəyi. bitərçəməndə ***lər",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "LƏLƏ",
+                "explanation": "is. 1. keçmişdə kübar və varlı ai***rdəoğlan uşağının tərbiyəsilə məşğul olanadam. [qətibə xanım:] səba xanım",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "LÜLƏ",
+                "explanation": "is. 1. odlu silahların gülləyə",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "TALA",
+                "explanation": "is. meşədə ağacsız",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "TƏLƏ",
+                "explanation": "is. vəhşi və ov heyvanlarını və yaquşları",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "TƏLL",
+                "explanation": "is. uzun təpə. [bəxtiyar] gözünüaçanda gördü",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "ABDAL",
+                "explanation": "[ər.] 1. is. sərsəri",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "BALBA",
+                "explanation": "is. məh. cincilim",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "BALTA",
+                "explanation": "is. odun doğramaq",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "BƏDƏL",
+                "explanation": "is. [ər.] köhn. 1. bir şeyin yerinitutan və ya tuta bilən",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "BƏLƏD",
+                "explanation": "[ər.] 1. sif. bir adam",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "DALAB",
+                "explanation": "is. məh. dəvə",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "DALDA",
+                "explanation": "1. sif. sığınmağa və ya gizlənməyəyarayan. *** yer. *** divar.– kosa boşalmış küçənin *** yeri ilə yeriyibat tövlələrinin yanına çatdı",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "ƏLBƏT",
+                "explanation": "[ər.] 1. bax ***tə. *** gələcəkdir.dünyaya gələn *** gedər. – deməkolmaz dirilər tək yatıb",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "LABÜD",
+                "explanation": "zərf [ər.] 1. yerinə yetirilməsi",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "TƏLƏB",
+                "explanation": "is. [ər.] 1. bir şeyi israrla",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "TƏLƏT",
+                "explanation": "is. [ər.] 1. üz",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "ÜTÜLÜ",
+                "explanation": "sif. ütü çəkilmiş",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "BALATA",
+                "explanation": "is. məh. maya",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6
+            },
+            {
+                "word": "BÜLBÜL",
+                "explanation": "is. [fars.] qaratoyuq fəsiləsindənolan çox gözəl səsli quş. ***ün çəkdiyidil bəlasıdır. (ata. sözü)",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6
+            },
+            {
+                "word": "DƏLLAL",
+                "explanation": "is. [ər.] 1. alverdə alanla satanarasında vasitəçilik edən şəxs. genə şəhriçrə gördü ol minval; satır əvvəlki eşşəyi***",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6
+            },
+            {
+                "word": "ƏDALƏT",
+                "explanation": "is. [ər.] 1. haqq və düzgünlük prinsiplərinə riayət. ***ə riayət etmək. ictimai ***. *** hissini itirmək",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6
+            },
+            {
+                "word": "ƏTALƏT",
+                "explanation": "is. [ər.] hərəkətsizlik",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6
+            },
+            {
+                "word": "LATLÜT",
+                "explanation": "sif. dan. 1. çılpaq",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6
+            },
+            {
+                "word": "TƏLƏBƏ",
+                "explanation": "is. [ər.] ali məktəb və ya texnikumdaoxuyan adam. mən təklif edirəm",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6
+            },
+            {
+                "word": "TÜLLAB",
+                "explanation": "is. [ər. “tələbə” söz. cəmi]1. köhn. ruhani məktəbində oxuyan tələbələr.şeyx əbu səid gecələr əvvəli-təbdə ***adərs verərdi",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6
+            },
+            {
+                "word": "ALATALA",
+                "explanation": "sif. tala-tala",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7
+            },
+            {
+                "word": "ATABALA",
+                "explanation": "is. ata ilə oğlu",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7
+            },
+            {
+                "word": "BALLADA",
+                "explanation": "[fr.] ədəb. 1. əfsanə",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7
+            },
+            {
+                "word": "DƏLALƏT",
+                "explanation": "is. [ər.] 1. dəlil",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7
+            },
+            {
+                "word": "LƏBBADƏ",
+                "explanation": "is. [ər.] 1. köhn. bax aba1.[molla xəlil] uzun ***sinin ətəkləriniyelləndirə-yelləndirə o baş-bu başa gəzinir",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7
+            },
+            {
+                "word": "TƏLƏBAT",
+                "explanation": "is. [ər. “tələb” söz. cəmi]1. tələb",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7
+            },
+            {
+                "word": "ALABABAT",
+                "explanation": "sif. və zərf dan. nə yaxşı",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8
+            },
+            {
+                "word": "LÜLƏLÜLƏ",
+                "explanation": "sif. və zərf lüləyə oxşar",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8
+            },
+            {
+                "word": "TƏBƏDDÜL",
+                "explanation": "is. [ər.] köhn. dəyişmə",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8
+            },
+            {
+                "word": "ƏDLƏDALƏT",
+                "explanation": "is. [ər.] bax ədalət.[şah:] cəm olaq",
+                "isPanagram": false,
+                "score": 9,
+                "length": 9
+            },
+            {
+                "word": "TƏBƏDDÜLAT",
+                "explanation": "is. [ər. “təbəddül” söz. cəmi] dəyişiklik. bu böyük tarixi ***dan ruhlanan cənubi azərbaycanlılar da azadlıq mübarizəsini gücləndirmişdilər",
+                "isPanagram": true,
+                "score": 17,
+                "length": 10
+            }
+        ]
+    }
+}

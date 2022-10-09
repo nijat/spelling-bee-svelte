@@ -1,0 +1,170 @@
+{
+    "gameData": {
+        "day": "20221030",
+        "expiration": "1667170740",
+        "centerLetter": "T",
+        "outerLetters": [
+            "İ",
+            "Z",
+            "Ə",
+            "V",
+            "R",
+            "Ç"
+        ],
+        "words_info": {
+            "word_count": 20,
+            "sum_score": 85,
+            "panagram_count": 1,
+            "word_length": {
+                "4": 9,
+                "6": 4,
+                "5": 4,
+                "7": 1,
+                "9": 1,
+                "8": 1
+            }
+        },
+        "words": [
+            {
+                "word": "ÇƏTƏ",
+                "explanation": "is. [alb.] qeyri-müəyyən silahlıdəstə",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "ƏTÇİ",
+                "explanation": "is. ətsatan",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "ƏTƏR",
+                "explanation": "is. dan. iz",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "ƏTİR",
+                "explanation": "is. [ər.] 1. gözəl iy",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "TƏRZ",
+                "explanation": "is. [ər.] 1. üsul",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "TƏZƏ",
+                "explanation": "sif. [fars.] yeni. aptekdən *** dərmangətirmişdilər. c.məmmədquluzadə. [gülyaz:]kəndimizə xəbər yayılıb ki",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "TİRƏ",
+                "explanation": "is. 1. arx",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "TİTƏ",
+                "explanation": "is. bəzi adamların göz bəbəyindəolan ağ ləkə",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "TİTR",
+                "explanation": "[fr.] 1. kinolentdə yazı",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "ÇƏTİR",
+                "explanation": "is. 1. günəşdən",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "VƏRTƏ",
+                "explanation": "is. [ər.] uçurum; təhlükə. boz at",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "VƏTƏR",
+                "explanation": "is. [ər.] anat. əzələləri sümüklərəbağlayan lent və lövhə şəklində sıx birləşdiricitoxumadan ibarət elastik törəmə",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "VİZİT",
+                "explanation": "[fr.] 1. görüş. [əbdürrəhman bəy:]elə şeyləri sən özün yaxşı bilirsən",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "ÇƏTƏÇİ",
+                "explanation": "is. çətə iştirakçısı",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6
+            },
+            {
+                "word": "ÇƏTVƏR",
+                "explanation": "is. [rus. четверг] köhn. metr sistemi tətbiqindən əvvəl 100 qrama bərabər ağırlıq ölçüsü. bir *** xına",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6
+            },
+            {
+                "word": "TƏRƏZİ",
+                "explanation": "is. [fars. tərazu] ağırlığı çəkibmüəyyənləşdirmək üçün cihaz. *** başındaduran kolxozçu tez-tez pambıq kisələriniçəkir",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6
+            },
+            {
+                "word": "TƏZVİR",
+                "explanation": "is. [ər.] 1. saxtalaşdırma.2. köhn. hiyləbazlıq",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6
+            },
+            {
+                "word": "TƏRƏVƏZ",
+                "explanation": "is. yemək və xörək üçün işlədilənbostan bitkiləri (xiyar",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7
+            },
+            {
+                "word": "TƏRƏZİÇİ",
+                "explanation": "is. şeyləri tərəzidə çəkən vəya onların çəkilməsinə nəzarət edən işçi.// qapançı",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8
+            },
+            {
+                "word": "TƏRƏVƏZÇİ",
+                "explanation": "is. tərəvəz əkib becərməkləməşğul olan adam. ***lər briqadası",
+                "isPanagram": true,
+                "score": 17,
+                "length": 9
+            }
+        ]
+    }
+}

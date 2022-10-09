@@ -1,0 +1,233 @@
+{
+    "gameData": {
+        "day": "20221007",
+        "expiration": "1665179940",
+        "centerLetter": "N",
+        "outerLetters": [
+            "İ",
+            "A",
+            "G",
+            "M",
+            "L",
+            "Ü"
+        ],
+        "words_info": {
+            "word_count": 29,
+            "sum_score": 148,
+            "panagram_count": 1,
+            "word_length": {
+                "6": 5,
+                "5": 8,
+                "8": 3,
+                "4": 8,
+                "7": 4,
+                "9": 1
+            }
+        },
+        "words": [
+            {
+                "word": "AMAN",
+                "explanation": "is. [ər.] 1. əmin-***lıq",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "AMİN",
+                "explanation": "[ər. əsli qədim yəh.] din. qəbulolsun",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "ANMA",
+                "explanation": "“***q”dan f.is. *** mərasimi",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "GÜNÜ",
+                "explanation": "is. 1. köhnə məişətdə: birinci arvadınüstünə alınan ikinci və ya üçüncü arvad.hacı evə *** gətirmək niyyətini münəvvərxanımın qulağına elə doldurd",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "LİNG",
+                "explanation": "is. ağır şeyləri qaldırmaq",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "MANİ",
+                "explanation": "is. türk xalq şeri və nəğmə janrı",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "MİNA",
+                "explanation": "[fr.] 1. adətən torpağın",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "NAİL",
+                "explanation": "[ər.] : *** olmaq – əldə etmək",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "ALANA",
+                "explanation": "is. içərisi şəkərli qozla doldurulmuşmeyvə qurusu (armud",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "ALMAN",
+                "explanation": "is. ***iyanın əsas əhalisinitəşkil edən xalq və bu xalqa mənsub adam.*** ədəbiyyatının qədim abidələri",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "GİLAN",
+                "explanation": "is. məh. qapını bağlamaq üçünarxasına keçirilən taxta və ya dəmir; kilid",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "GÜMAN",
+                "explanation": "is. [fars.] 1. lazımınca əsaslanmamışfikir",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "LİANA",
+                "explanation": "[fr.] bot. tropik meşələrdə",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "NALAN",
+                "explanation": "sif. və zərf [fars.] ağlayan",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "NİNNİ",
+                "explanation": "is. layla",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "ÜMMAN",
+                "explanation": "is. [ər.] 1. böyük dəniz",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "ALAMAN",
+                "explanation": "is. məh. köhn. çapqın",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6
+            },
+            {
+                "word": "ALÜMİN",
+                "explanation": "[lat.] ***iumdan qayrılmış.*** qazan. *** qaşıq. – yarır təyyarəmizin*** qanadları; hava dalğalarını",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6
+            },
+            {
+                "word": "ANGİNA",
+                "explanation": "[lat.] tib. əsnəyin selikli qişasınınvə xüsusən badamcıqların iltihabı.*** oynaq",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6
+            },
+            {
+                "word": "GÜLGÜN",
+                "explanation": "sif. [fars.] şair. gül rəngli",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6
+            },
+            {
+                "word": "MİNMİN",
+                "explanation": "zərf və sif. minlərcə",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6
+            },
+            {
+                "word": "ANALGİN",
+                "explanation": "is. [yun.] əcz. ağrıkəsici",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7
+            },
+            {
+                "word": "LÜMİNAL",
+                "explanation": "[lat. lumen – işıq] əcz. acı dadankristallik toz halında yuxu dərmanı",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7
+            },
+            {
+                "word": "MİNİMAL",
+                "explanation": "sif. [lat.] başqaları sırasındaən kiçik",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7
+            },
+            {
+                "word": "NAGÜMAN",
+                "explanation": "sif. [fars.] gümanı olmayan",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7
+            },
+            {
+                "word": "ALİMNÜMA",
+                "explanation": "is. [ər. alim və fars. nüma]isteh. alim olmadığı halda özünü alim kimigöstərən",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8
+            },
+            {
+                "word": "MİNİMİNİ",
+                "explanation": "sif. oxş. kiçicik",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8
+            },
+            {
+                "word": "LİNGLİNGİ",
+                "explanation": "is. bir ayaq üstə atıla-atılaoynanılan uşaq oyunu",
+                "isPanagram": false,
+                "score": 9,
+                "length": 9
+            },
+            {
+                "word": "MİNAGÜLÜ",
+                "explanation": "is. bot. yerdən çox qalxmayan",
+                "isPanagram": true,
+                "score": 17,
+                "length": 8
+            }
+        ]
+    }
+}

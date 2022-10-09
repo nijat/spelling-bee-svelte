@@ -1,0 +1,346 @@
+{
+    "gameData": {
+        "day": "20221024",
+        "expiration": "1666648740",
+        "centerLetter": "I",
+        "outerLetters": [
+            "A",
+            "C",
+            "Q",
+            "B",
+            "R",
+            "Ğ"
+        ],
+        "words_info": {
+            "word_count": 45,
+            "sum_score": 243,
+            "panagram_count": 1,
+            "word_length": {
+                "4": 11,
+                "5": 11,
+                "9": 2,
+                "7": 12,
+                "6": 5,
+                "10": 3,
+                "8": 1
+            }
+        },
+        "words": [
+            {
+                "word": "ABIR",
+                "explanation": "is. [fars.] 1. həya",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "ACIQ",
+                "explanation": "is. hirs",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "AĞIR",
+                "explanation": "sif. 1. böyük çəkisi",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "AĞRI",
+                "explanation": "is. 1. duyğu sinirlərinin qıcıqlanmasınəticəsində bədənin hər hansı bir yerindəhiss edilən əziyyət",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "ARIQ",
+                "explanation": "sif. cılız",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "BABI",
+                "explanation": "is. [xüs. is.-dən] 1. xıx əsrin ortasında iranda “bab” təxəllüslü mirzə əli məhəmməd tərəfindən təsis edilmiş dini təriqətə mənsub olan adam",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "BACI",
+                "explanation": "is. 1. bir ata-anadan",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "BARI",
+                "explanation": "is. [fars.] hasar",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "CIQQ",
+                "explanation": "is. güllə səsi. hər yaraqlanıb döyüşəçıxan",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "QARI",
+                "explanation": "is. 1. qoca qadın",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "QIRA",
+                "explanation": "is. məh. təndirdən çörəyi qoparmaqüçün qarmaqlı alət. // qarmaq. …küçədə***dan tutub dartanda məftilin vasitəsilə zəngiçəridə tərpənir",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "ACICA",
+                "explanation": "sif. 1. bir qədər acı",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "BAĞIR",
+                "explanation": "is. 1. qaraciyər.2. ürək",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "CIĞIR",
+                "explanation": "is. 1. gediş-gəlişdən əmələ gələnensiz",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "CIQQA",
+                "explanation": "is. [fars.] 1. başın ön və yan tərəfinətökülən tellər. siyah zülfü dal gərdəndəbir qulac! sona ***sıtək ucları qıyğac",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "CIRIQ",
+                "explanation": "sif. 1. bir və ya çox yerdən cırılmış",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "QABIQ",
+                "explanation": "is. 1. bir şeyin üstünü örtən sərt örtü. ağacın qabığı. yumurtanın qabığı. qoz qabığı. – mağaranın içi yumşaq ağac ***ları ilə döşənmişdi",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "QARĞI",
+                "explanation": "is. bax qamış. [buğac] yeddisəkkizyaşlarında ikən özünə qoşa nar çubuğundanbir yay və ***dan oxlar qayırmışdı",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "QICIQ",
+                "explanation": "is. 1. xarici mühitin orqanizmə",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "QIRAQ",
+                "explanation": "is. 1. bir şeyin kənarı",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "QIRĞI",
+                "explanation": "is. zool. balaca quşları ovlayan itivə uzun caynaqlı",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "QIRIQ",
+                "explanation": "sif. 1. qırılmış",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "ARIQCA",
+                "explanation": "sif. çox arıq. *** bir uşaq.// bir qədər arıq",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6
+            },
+            {
+                "word": "BIĞCIQ",
+                "explanation": "is. 1. zool. cücülərdə başın öntərəfindən irəliyə doğru uzanan buğumlu vəçox zaman tükə oxşayan hiss orqanı",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6
+            },
+            {
+                "word": "CIĞCIĞ",
+                "explanation": "is. zool. qağayı cinsindən xırdasuquşu",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6
+            },
+            {
+                "word": "QIRQIC",
+                "explanation": "is. bax qıc. gözündən qan damırdı",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6
+            },
+            {
+                "word": "QIRICI",
+                "explanation": "sif. 1. qıran",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6
+            },
+            {
+                "word": "ACIQICI",
+                "explanation": "is. bot. vəzəriyə",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7
+            },
+            {
+                "word": "AĞABACI",
+                "explanation": "is. dan. məh. böyük qardaş",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7
+            },
+            {
+                "word": "AĞRIACI",
+                "explanation": "is. 1. çox işləmək",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7
+            },
+            {
+                "word": "BACARIQ",
+                "explanation": "is. bilik",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7
+            },
+            {
+                "word": "BAĞACIQ",
+                "explanation": "is. zool. taxıl bitkilərinə zərərverən cücü. taxıl bitkilərinin (xüsusən buğdanın)qorxulu zərərvericisi olan taxıl***larına qarşı mübarizə üçün",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7
+            },
+            {
+                "word": "CIBIRIQ",
+                "explanation": "is. qozun üst göy qabığı",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7
+            },
+            {
+                "word": "CIĞCIĞA",
+                "explanation": "is. bot. çiy-çiy yeyilən",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7
+            },
+            {
+                "word": "QABARIQ",
+                "explanation": "sif. 1. qabarmış",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7
+            },
+            {
+                "word": "QABIRĞA",
+                "explanation": "is. anat. 1. fəqərələri döş sümüyü ilə birləşdirən qövsşəkilli sümük. insanın yeddi cüt yuxarı və beş cüt aşağı ***sı vardır",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7
+            },
+            {
+                "word": "QARABIĞ",
+                "explanation": "sif. bığları qara. *** kişi. – sadədil muzdur indi anladı ki",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7
+            },
+            {
+                "word": "QIRQIRA",
+                "explanation": "is. məh. qır-qır səs çıxaranuşaq oyuncağı",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7
+            },
+            {
+                "word": "QIRACAQ",
+                "explanation": "is. nallanan atın dırnağını kəsibhamarlamaq üçün alət. nalbənd ***laatın dırnağını kəsdi",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7
+            },
+            {
+                "word": "QABARCIQ",
+                "explanation": "is. kiçik qabar",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8
+            },
+            {
+                "word": "ACIQQICIQ",
+                "explanation": "is. dan. birisini acıqlandırmaq",
+                "isPanagram": false,
+                "score": 9,
+                "length": 9
+            },
+            {
+                "word": "BAĞRIQARA",
+                "explanation": "is. zool. su kənarında yaşayanuzun qıçlı",
+                "isPanagram": false,
+                "score": 9,
+                "length": 9
+            },
+            {
+                "word": "CIRIQCIRIQ",
+                "explanation": "sif. tamam cırıq",
+                "isPanagram": false,
+                "score": 10,
+                "length": 10
+            },
+            {
+                "word": "QIRIQQIRIQ",
+                "explanation": "sif. və zərf tikə-tikə",
+                "isPanagram": false,
+                "score": 10,
+                "length": 10
+            },
+            {
+                "word": "QABIRĞACIQ",
+                "explanation": "is. kiçik qabırğa",
+                "isPanagram": true,
+                "score": 17,
+                "length": 10
+            }
+        ]
+    }
+}

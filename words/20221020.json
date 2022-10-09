@@ -1,0 +1,212 @@
+{
+    "gameData": {
+        "day": "20221020",
+        "expiration": "1666303140",
+        "centerLetter": "I",
+        "outerLetters": [
+            "A",
+            "Z",
+            "U",
+            "L",
+            "Ğ",
+            "D"
+        ],
+        "words_info": {
+            "word_count": 26,
+            "sum_score": 130,
+            "panagram_count": 1,
+            "word_length": {
+                "4": 8,
+                "5": 8,
+                "6": 4,
+                "9": 1,
+                "10": 2,
+                "7": 3
+            }
+        },
+        "words": [
+            {
+                "word": "ADLI",
+                "explanation": "sif. 1. müəyyən adı olan",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "AĞIL",
+                "explanation": "is. içərisində mal-qara və qoyunsaxlamaq üçün ətrafı tikan və ya ağac iləhasarlanmış üstüaçıq yer. qoyunlar s***ıbqurtardıqdan sonra",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "AĞIZ",
+                "explanation": "is. 1. insan və heyvanların üzlərinin alt tərəfində",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "ALĞI",
+                "explanation": "is. satın alma işi",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "ALLI",
+                "explanation": "sif. köhn. al rəngli paltar geymiş.tərifli gözəllər gəlhagəl oldu; yaşıllı",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "DAZI",
+                "explanation": "is. bot. ot və kol bitkiləri daxil olanbitki cinsi; boyotu",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "DIĞA",
+                "explanation": "is. [erm.] dan. erməni uşağı",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "LIĞA",
+                "explanation": "is. qatı",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "AĞILI",
+                "explanation": "sif. zəhərli",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "ALALI",
+                "explanation": "sif. alası olan",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "DADLI",
+                "explanation": "1. sif. yaxşı dadı olan",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "DAĞLI",
+                "explanation": "is. ***q yerdə yaşayan adam.burada ***lar yaşar bəxtiyar; qürurdanaralı",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "DALLI",
+                "explanation": "sif. dalları (budaqları) olan. ***ağac",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "ZAĞLI",
+                "explanation": "sif. zağ verilmiş",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "ZIĞLI",
+                "explanation": "sif. 1. palçıqlı",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "ZILĞA",
+                "explanation": "is. məh. 1. quşun yeni yumurtadançıxmış tüksüz balası; ətcəbala. gözününönündə qara",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "AĞILLI",
+                "explanation": "sif. 1. dərrakəli",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6
+            },
+            {
+                "word": "AĞIZLI",
+                "explanation": "sif. 1. ağzı olan (bax ağız1 2-cimənada). *** şüşə. *** qab.2. kəsici tərəfi olan (alət və s",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6
+            },
+            {
+                "word": "DIĞDIĞ",
+                "explanation": "is. dan. 1. çox quru.2. dedi-qodu",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6
+            },
+            {
+                "word": "DUDALI",
+                "explanation": "sif. hisli",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6
+            },
+            {
+                "word": "DALĞALI",
+                "explanation": "sif. 1. dalğası olan",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7
+            },
+            {
+                "word": "DIĞDIĞI",
+                "explanation": "sif. və is. dan. çox deyingən(adam)",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7
+            },
+            {
+                "word": "LAĞLAĞI",
+                "explanation": "sif. çoxdanışan",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7
+            },
+            {
+                "word": "DADLIDADLI",
+                "explanation": "1) sif. ləzzətli-ləzzətli",
+                "isPanagram": false,
+                "score": 10,
+                "length": 10
+            },
+            {
+                "word": "DADLIDUZLU",
+                "explanation": "sif. xoşagələn",
+                "isPanagram": false,
+                "score": 10,
+                "length": 10
+            },
+            {
+                "word": "AĞZIDUALI",
+                "explanation": "sif. köhn. daima dua oxumaqla",
+                "isPanagram": true,
+                "score": 17,
+                "length": 9
+            }
+        ]
+    }
+}

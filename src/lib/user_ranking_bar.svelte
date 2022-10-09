@@ -4,25 +4,24 @@
 
 	$: userPoints = $gameDataStore.userPoints
 	$: rankIndex = 0
+	$: maxScore = $gameDataStore.words_info.sum_score
 
 	function calculateUserRankBar() {
 		for (let i = 0; i < rankingLevels.length; i++) {
 			if (
 				rankingLevels &&
-				Math.floor(rankingLevels[i].minScoreMultiplier * $gameDataStore.maxScore) > userPoints
+				Math.floor(rankingLevels[i].minScoreMultiplier * maxScore) > userPoints
 			) {
 				rankIndex = i - 1;
 				return;
 			}
-			if (Math.floor(rankingLevels[i].minScoreMultiplier * $gameDataStore.maxScore) == userPoints) {
+			if (Math.floor(rankingLevels[i].minScoreMultiplier * maxScore) == userPoints) {
 				rankIndex = i;
 			}
 		}
 	}
 	gameDataStore.subscribe( valueE => {
-		console.log("test")
 		calculateUserRankBar()
-		console.log(rankIndex)
 	})
 	
 </script>

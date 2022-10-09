@@ -1,0 +1,459 @@
+{
+    "gameData": {
+        "day": "20221012",
+        "expiration": "1665611940",
+        "centerLetter": "M",
+        "outerLetters": [
+            "İ",
+            "Ə",
+            "Ş",
+            "L",
+            "R",
+            "D"
+        ],
+        "words_info": {
+            "word_count": 61,
+            "sum_score": 303,
+            "panagram_count": 1,
+            "word_length": {
+                "6": 12,
+                "5": 18,
+                "7": 9,
+                "10": 1,
+                "4": 16,
+                "8": 3,
+                "15": 1,
+                "11": 1
+            }
+        },
+        "words": [
+            {
+                "word": "ƏDƏM",
+                "explanation": "is. [ər.] klas. yoxluq. yəni ki",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "ƏLƏM",
+                "explanation": "is. [ər.] dərd",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "ƏMƏL",
+                "explanation": "is. [ər.] qayə",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "ƏMİR",
+                "explanation": "sif. [ər.] 1. bir tayfanın və ya ölkəninbaşçısı. qəbilənin ***i. – şairin qəzəllərinəməftun olmuş dərbənd ***i onubu xaraba kənddən öz sarayına d",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "ƏMİŞ",
+                "explanation": "is. 1. əmmək işi",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "ƏMMƏ",
+                "explanation": "is. [ər.] klas. bibi. aya",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "LƏMƏ",
+                "explanation": "is. tavandan bir az aşağı divaruzunu kərpicdən",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "MƏDD",
+                "explanation": "is. [ər.] 1. coğr. köhn. bax qabarma2(cəzr müqabili).2. ərəb əlifbasında əlifin (“ ”) “a” kimioxunması üçün üstünə qoyulan diakritikişarə (~)",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "MƏDƏ",
+                "explanation": "is. [ər. midə] anat. insanda və heyvanlardaqarın boşluğunun yuxarı hissəsindəyerləşən həzm orqanı. *** ağrısı",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "MƏLƏ",
+                "explanation": "is. 1. zool. çox bərk sancan qanadsız",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "MƏMƏ",
+                "explanation": "is. məc. ana. [şərəfnisə xanım:]əgər ***m deyən dərviş olmasaydı",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "MƏRD",
+                "explanation": "is. [fars.] 1. kişi. çarpışmaq üçün lazım ikən ***ə cəsarət; bilməm neçin olmuş sana qalib əsəbiyyət",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "MƏRƏ",
+                "explanation": "is. ***-*** oyunu üçün qazılançuxur",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "RƏMƏ",
+                "explanation": "is. [fars.] sürü. qoyun sürüsü",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "RƏML",
+                "explanation": "is. [ər.] rəmmalların qum üzərində müxtəlif işarələr çəkərək və ya başqa üsullarla fala baxıb gələcəkdən xəbər verməsi",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "ŞƏRM",
+                "explanation": "is. [fars.] klas. abır",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "DƏLMƏ",
+                "explanation": "1. “***k”dən f.is. *** aləti.2. is. divarda açılmış kiçik taxça. içəridəkahanın divarlarında böyüklü-kiçikli beş*** gözə çarpırdı",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "DƏMİR",
+                "explanation": "is. 1. təbiətdə çox yayılmış",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "DƏMLİ",
+                "explanation": "sif. 1. dəm almış",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "DƏRMƏ",
+                "explanation": "1. “***k”dən f.is.2. sif. dərilmiş",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "DİLİM",
+                "explanation": "is. uzununa dil kimi kəsilmiş parça",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "ƏMƏLƏ",
+                "explanation": "is. [ər.] fəhlə",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "ƏMƏLİ",
+                "explanation": "sif. 1. icrası (tətbiqi) lazım olan",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "ƏMİRİ",
+                "explanation": "sif. 1. əmirə mənsub",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "ƏRDƏM",
+                "explanation": "is. dan. hövsələ",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "MƏDƏD",
+                "explanation": "[ər.] 1. is. kömək",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "MƏLƏR",
+                "explanation": "1. sif. ağlar",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "MƏMƏŞ",
+                "explanation": "is. uş. məmə",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "MƏRMİ",
+                "explanation": "is. [ər.] top kimi silahların gülləsi.birdən top ***si partladı",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "MƏŞƏL",
+                "explanation": "is. [ər.] 1. ətrafı işıqlandırmaqüçün ağac və s. başına sarınaraq",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "MİLƏL",
+                "explanation": "is. [ər. “millət” söz. cəmi] millətlər.sair *** övrətlə ədalət edir",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "MİLLİ",
+                "explanation": "sif. 1. üzərində milləri olan",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "RƏMƏL",
+                "explanation": "is. [ər.] əruz vəznində şeir forması.mikayıl müşfiq heca vəzninin bütünbölgülərində (üç hecalıdan tutmuş iyirmi hecalıyaqədər)",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "RƏŞMƏ",
+                "explanation": "is. lent. bizim ağ *** kimiburularaq gedən yollar xeyli uzaqlara qədəriki tərəfdən uca ağaclarla əhatə olunmuşdur",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "DƏLƏMƏ",
+                "explanation": "is. pendir halına keçmək üzrəolan süd",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6
+            },
+            {
+                "word": "DƏMİRİ",
+                "explanation": "sif. dəmir rəngli",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6
+            },
+            {
+                "word": "DİŞLƏM",
+                "explanation": "is. bax dişlək 1 və 2-ci mənalarda.□ ***-*** etmək – hər yerini***ək",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6
+            },
+            {
+                "word": "ƏLƏMLİ",
+                "explanation": "sif. qəmli",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6
+            },
+            {
+                "word": "ƏLLƏMƏ",
+                "explanation": "is. məh. daş",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6
+            },
+            {
+                "word": "ƏMƏLLİ",
+                "explanation": "sif. və zərf yaxşı",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6
+            },
+            {
+                "word": "LƏMƏLİ",
+                "explanation": "sif. ləməsi olan; rəfli. ***otaq",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6
+            },
+            {
+                "word": "MƏLƏMƏ",
+                "explanation": "“***k”dən f.is. bu haldaqızıl inəyin ***si qızxanımın qulağınaçatdı. s.s.axundov",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6
+            },
+            {
+                "word": "MƏMƏLİ",
+                "explanation": "sif. məməsi olan. □ ***heyvanlar – bax ***lər. soyuq ölkələrdəyaşayan *** heyvanların dərilərindəkitük həm sıx",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6
+            },
+            {
+                "word": "MƏRMƏR",
+                "explanation": "is. [lat.] 1. heykəltəraşlıqda vəmemarlıqda işlənən müxtəlif rəngli kristallikdağ süxuru – kirəc daş",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6
+            },
+            {
+                "word": "MƏŞƏDİ",
+                "explanation": "is. [iranda xorasan – məşhədşəhərinin adından] din. keçmişdə məşhədəgedib “müqəddəs” yerləri ziyarət edən adamaverilən ad (çox vaxt adın qabağında",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6
+            },
+            {
+                "word": "ŞƏMŞİR",
+                "explanation": "is. [fars.] qılınc. iş atışmadan ötüb",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6
+            },
+            {
+                "word": "DƏMİRLİ",
+                "explanation": "sif. kim. tərkibində dəmirolan. bu [mineral] sular kimyəvi tərkiblərinəgörə ***",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7
+            },
+            {
+                "word": "DİDİŞMƏ",
+                "explanation": "1. “***k”dən f.is.2. is. məc. dava",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7
+            },
+            {
+                "word": "DİLİMLİ",
+                "explanation": "sif. dilimi olan",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7
+            },
+            {
+                "word": "DİMDİRİ",
+                "explanation": "sif. çox diri",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7
+            },
+            {
+                "word": "DİŞLƏMƏ",
+                "explanation": "“***k”dən f.is.□ *** çay – kiçik qənd parçası və ya şirni ilə içilən çay; acı çay. dustaqların hərəsinə bir yekə qara çörək ilə bir stəkan diş",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7
+            },
+            {
+                "word": "MƏLƏŞMƏ",
+                "explanation": "“***k”dən f.is. qoyun***si",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7
+            },
+            {
+                "word": "MƏŞƏLLİ",
+                "explanation": "sif. əlində məşəl olan",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7
+            },
+            {
+                "word": "MİLƏMİL",
+                "explanation": "sif. milləri olan",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7
+            },
+            {
+                "word": "MİLLƏMƏ",
+                "explanation": "1. “***k”dən f. is.2. zərf mil kimi",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7
+            },
+            {
+                "word": "ƏRİDİLMƏ",
+                "explanation": "“***k”dən f.is. poladın***si yeni üsulla – sürətli əritmə üsuluilə başa çatacaqdır. (qəzetlərdən)",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8
+            },
+            {
+                "word": "MƏRƏMƏRƏ",
+                "explanation": "is. qoz",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8
+            },
+            {
+                "word": "ŞİRƏLƏMƏ",
+                "explanation": "“***k”dən f.is. ***işi",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8
+            },
+            {
+                "word": "DİLİMDİLİM",
+                "explanation": "zərf və sif. dilimlər halında",
+                "isPanagram": false,
+                "score": 10,
+                "length": 10
+            },
+            {
+                "word": "ŞİŞİRDİLMİŞ",
+                "explanation": "sif. 1. şişkin hala gətirilmiş",
+                "isPanagram": false,
+                "score": 11,
+                "length": 11
+            },
+            {
+                "word": "MİLLİLƏŞDİRİLMƏ",
+                "explanation": "“***k”dən f.is. neft sənayesinin ***si haqqında iyunun 2-də verilən dekret bakıda mühüm bir hadisə kimi qarşılandı",
+                "isPanagram": true,
+                "score": 17,
+                "length": 15
+            }
+        ]
+    }
+}

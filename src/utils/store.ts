@@ -5,10 +5,14 @@ const gameDataStore = writable({
 	outerLetters: [''],
 	centerLetter: '',
 	foundWordList: [],
-	correctWordList: [],
-	maxScore: 0,
 	userPoints: 0,
-	panagrams: []
+	words_info: {
+		sum_score: 0,
+		word_count: 0,
+		panagram_count: 0,
+		word_length: {}
+	},
+	words: []
 });
 
 export default gameDataStore;
@@ -25,9 +29,8 @@ export function getData() {
         gameDataStore.update(localData => {
             localData.centerLetter = data.gameData.centerLetter
             localData.outerLetters = data.gameData.outerLetters
-            localData.correctWordList = data.gameData.answers
-			localData.maxScore = data.gameData.score
-			localData.panagrams = data.gameData.pangrams
+			localData.words_info = data.gameData.words_info
+			localData.words = data.gameData.words
             return localData
         })
 	};

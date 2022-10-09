@@ -1,0 +1,353 @@
+{
+    "gameData": {
+        "day": "20221026",
+        "expiration": "1666821540",
+        "centerLetter": "N",
+        "outerLetters": [
+            "İ",
+            "A",
+            "C",
+            "L",
+            "M",
+            "D"
+        ],
+        "words_info": {
+            "word_count": 46,
+            "sum_score": 226,
+            "panagram_count": 1,
+            "word_length": {
+                "11": 1,
+                "8": 5,
+                "9": 1,
+                "4": 15,
+                "6": 7,
+                "5": 10,
+                "7": 7
+            }
+        },
+        "words": [
+            {
+                "word": "ADNA",
+                "explanation": "is. cümə axşamı",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "AMAN",
+                "explanation": "is. [ər.] 1. əmin-***lıq",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "AMİN",
+                "explanation": "[ər. əsli qədim yəh.] din. qəbulolsun",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "ANAC",
+                "explanation": "sif. 1. dəfələrlə bala doğub",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "ANMA",
+                "explanation": "“***q”dan f.is. *** mərasimi",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "CANİ",
+                "explanation": "is. [ər.] cinayət etmiş",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "DANA",
+                "explanation": "is. bir yaşdan iki yaşa qədər olaninək balası. *** əti. – danışıq ***nı qurdaverər. (məsəl)",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "DİNA",
+                "explanation": "is. [yun.] fiz. kütləsi bir qram olancismə bir saniyədə bir santimetr təcil verənqüvvə",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "DİNC",
+                "explanation": "sif. 1. başqasını narahat etməyən",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "DİNİ",
+                "explanation": "sif. [ər.] dinlə əlaqədar olan",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "LİNC",
+                "explanation": "sif. 1. aşp. dəm almayıb bir-birinəyapışan düyü. gülmə gülünc olana; bir aşı*** olana; gülürsən də gülgilən; qulağı dincolana",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "MANİ",
+                "explanation": "is. türk xalq şeri və nəğmə janrı",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "MİNA",
+                "explanation": "[fr.] 1. adətən torpağın",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "NAİL",
+                "explanation": "[ər.] : *** olmaq – əldə etmək",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "NİDA",
+                "explanation": "is. [ər.] 1. hiss",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "ALANA",
+                "explanation": "is. içərisi şəkərli qozla doldurulmuşmeyvə qurusu (armud",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "ALMAN",
+                "explanation": "is. ***iyanın əsas əhalisinitəşkil edən xalq və bu xalqa mənsub adam.*** ədəbiyyatının qədim abidələri",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "CANAN",
+                "explanation": "is. [fars.] sevgili",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "CİNLİ",
+                "explanation": "sif. dəli",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "DALAN",
+                "explanation": "is. 1. küçə qapısından həyətə gedənüstüörtülü və ya açıq yol. [hacı fərəc:]bundan sonra ***ın qapısı həmişə gərəkbağlı ola… n",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "LİANA",
+                "explanation": "[fr.] bot. tropik meşələrdə",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "NADAN",
+                "explanation": "sif. [fars.] 1. cahil",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "NALAN",
+                "explanation": "sif. və zərf [fars.] ağlayan",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "NANDİ",
+                "explanation": "is. afrikada yaşayan qohum xalqlarqrupu",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "NİNNİ",
+                "explanation": "is. layla",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "ALAMAN",
+                "explanation": "is. məh. köhn. çapqın",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6
+            },
+            {
+                "word": "ANACAN",
+                "explanation": "is. anaya nəvazişlə müraciət.[rəsul:] ***",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6
+            },
+            {
+                "word": "MANDAL",
+                "explanation": "is. məh. cəftə",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6
+            },
+            {
+                "word": "MİNMİN",
+                "explanation": "zərf və sif. minlərcə",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6
+            },
+            {
+                "word": "MİNİCİ",
+                "explanation": "is. zool. bitkilərə zərərverici bircücü. …pambıq",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6
+            },
+            {
+                "word": "NADİNC",
+                "explanation": "sif. 1. dəcəl",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6
+            },
+            {
+                "word": "NİMCAN",
+                "explanation": "is. [fars.] köhn. çox zəif",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6
+            },
+            {
+                "word": "ALMANCA",
+                "explanation": "zərf və sif. alman dilində.*** danışmaq. *** dərslik",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7
+            },
+            {
+                "word": "CANALAN",
+                "explanation": "sif. 1. cəllad",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7
+            },
+            {
+                "word": "DANLANC",
+                "explanation": "sif. çox danlanan",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7
+            },
+            {
+                "word": "DİLİCAN",
+                "explanation": "is. [fr.] keçmişdə dördtəkərlipoçt",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7
+            },
+            {
+                "word": "DİNİMAN",
+                "explanation": "is. din",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7
+            },
+            {
+                "word": "MİNİMAL",
+                "explanation": "sif. [lat.] başqaları sırasındaən kiçik",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7
+            },
+            {
+                "word": "ADLANMAC",
+                "explanation": "is. məh. 1. dar dərə",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8
+            },
+            {
+                "word": "CANLANMA",
+                "explanation": "“***q”dan f.is. bir***",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8
+            },
+            {
+                "word": "CİNCİLİM",
+                "explanation": "is. bot. nəm yerlərdə bitən",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8
+            },
+            {
+                "word": "MİNDİLLİ",
+                "explanation": "sif. yalançı",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8
+            },
+            {
+                "word": "MİNİMİNİ",
+                "explanation": "sif. oxş. kiçicik",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8
+            },
+            {
+                "word": "ADLANMANC",
+                "explanation": "is. məh. 1. dar dərə",
+                "isPanagram": false,
+                "score": 9,
+                "length": 9
+            },
+            {
+                "word": "ADAMALDADAN",
+                "explanation": "sif. və is. yalançı",
+                "isPanagram": false,
+                "score": 11,
+                "length": 11
+            },
+            {
+                "word": "DİLMANC",
+                "explanation": "is. köhn. 1. çar dövründə məhkəmədəvə ya bəzi başqa idarələrdə tərcüməçi.[məşədi ibad:] rüstəm bəy! çoxadamlar mənimlə qohum olmaq istədilər",
+                "isPanagram": true,
+                "score": 17,
+                "length": 7
+            }
+        ]
+    }
+}

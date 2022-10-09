@@ -9,7 +9,8 @@ enum ErrorMessages {
 	WORD_EXIST_ALREADY = 'Bu sözü artıq yazmısınız',
 	WORD_IS_NOT_CORRECT = 'Ən azı 3 hərfli söz yazmağa çalışın',
 	WORD_IS_EMPTY = 'Verilmiş hərflərdən söz yaratmağa çalışın',
-	WORD_IS_NOT_EXIST = 'Belə bir söz bazada mövcüd deyil'
+	WORD_IS_NOT_EXIST = 'Belə bir söz bazada mövcüd deyil',
+	CENTER_LETTER_NOT_EXIST = 'CENTER LETTER'
 }
 
 enum SuccessMessages {
@@ -18,7 +19,6 @@ enum SuccessMessages {
 
 export function checkAndAddWord() {
 	let currentWord = data.currentWord;
-	let correctWordList = data.correctWordList;
 	let foundWordList: never[] = data.foundWordList;
 
 	if (isWordEmpty(currentWord)) {
@@ -29,14 +29,18 @@ export function checkAndAddWord() {
 		showErrorMessage(ErrorMessages.WORD_IS_NOT_CORRECT);
 		return;
 	}
+	if(!isWordContainsCenterLetter(currentWord)){
+		showErrorMessage(ErrorMessages.CENTER_LETTER_NOT_EXIST);
+		return;
+	}
 	if (isWordExistAlready(currentWord, foundWordList)) {
 		showErrorMessage(ErrorMessages.WORD_EXIST_ALREADY);
 		return;
 	}
-	if (isWordExist(currentWord, correctWordList)) {
+	if (isWordExist(currentWord)) {
 		data.foundWordList.push(currentWord);
 		data.currentWord = '';
-		calculateUserPoints(data, currentWord);
+		calculateUserPoints(currentWord);
 		showSuccessMessage(SuccessMessages.CORRECT);
 	} else {
 		showErrorMessage(ErrorMessages.WORD_IS_NOT_EXIST);
@@ -58,16 +62,22 @@ export function isWordExistAlready(currentWord: string, foundWordList: string[])
 	return false;
 }
 
+export function isWordContainsCenterLetter(currentWord: string){
+	if(currentWord.includes(data.centerLetter)){
+		return true
+	}
+	return false
+}
+
 export function isWordCorrect(currentWord: string) {
 	if (currentWord.length > 3) {
 		return true;
 	}
-	return false;
 }
 
-export function isWordExist(currentWord: string, correctWordList: string[]) {
-	if (correctWordList.includes(currentWord)) {
-		return true;
+export function isWordExist(currentWord: string) {
+	if(data.words.some(e => e["word"] == currentWord)) {
+		return true
 	}
 	return false;
 }
@@ -82,10 +92,10 @@ export function showSuccessMessage(type: SuccessMessages) {
 	toast.push(type, successToastOptions);
 }
 
-export function calculateUserPoints(data: any, word: string) {
-	if (word.length == 4) {
-		data.userPoints += 1;
-	} else if (word.length > 4){
-        data.userPoints += word.length;
-    } 
+export function calculateUserPoints(word: string) {
+	data.words.forEach(function (value) {
+		if(value["word"]==word){
+			data.userPoints += value["score"]
+		}
+	}); 
 }

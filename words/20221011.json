@@ -1,0 +1,241 @@
+{
+    "gameData": {
+        "day": "20221011",
+        "expiration": "1665525540",
+        "centerLetter": "T",
+        "outerLetters": [
+            "İ",
+            "A",
+            "D",
+            "L",
+            "K",
+            "E"
+        ],
+        "words_info": {
+            "word_count": 30,
+            "sum_score": 175,
+            "panagram_count": 2,
+            "word_length": {
+                "4": 8,
+                "7": 5,
+                "8": 3,
+                "5": 6,
+                "9": 3,
+                "11": 1,
+                "6": 4
+            }
+        },
+        "words": [
+            {
+                "word": "ADAT",
+                "explanation": "is. [ər. “adət” söz. cəmi] bax adət.məstəli şirvani hər iki səyahətində dünyanınyarısını gəştü güzar edib",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "ATAT",
+                "explanation": "is. uşaqların ağac üstə minərəkoynadıqları oyun. at-at oynamaq",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "ATİL",
+                "explanation": "sif. [ər.] tənbəl",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "ELİT",
+                "explanation": "[fr.] k.t. 1. bitki və heyvanların ən seçmə",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "ELTİ",
+                "explanation": "is. qardaş arvadlarının bir-birinəolan qohumluq münasibəti",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "TALA",
+                "explanation": "is. meşədə ağacsız",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "TALE",
+                "explanation": "is. [ər.] 1. bəxt",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "TALK",
+                "explanation": "is. [ər.] adətən toz halında təbabətdəvə tibdə işlədilən ağ və ya göy rəngliyumşaq mineral",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "DETAL",
+                "explanation": "is. [fr.] 1. ən xırda təfərrüat.2. tex. maşın və mexanizmin irili-xırdalıhissələri. ağ hamar *** iti bıçaq altında fırlanır…h",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "ELİTA",
+                "explanation": "[fr.] k.t. 1. bitki və heyvanların ən seçmə",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "ETİLA",
+                "explanation": "[ər.] tənt. klas. yüksəlmə",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "KADET",
+                "explanation": "[fr.] çar rusiyasında: qapalı orta hərbi məktəb müdavimi. hələ baqidir yerində; köhnə qaydalar",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "KATTA",
+                "explanation": "is. dan. bax kətxuda. ***nıgör",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "TELLİ",
+                "explanation": "sif. telləri olan; tellərini alnına tökmüş;saçlı",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "ETİDAL",
+                "explanation": "is. [ər.] 1. mötədillik",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6
+            },
+            {
+                "word": "ETİKET",
+                "explanation": "[fr.] malın",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6
+            },
+            {
+                "word": "TAKTİK",
+                "explanation": "sif. [yun.] 1. ***aya aid olan",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6
+            },
+            {
+                "word": "TİKİLİ",
+                "explanation": "is. bina",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6
+            },
+            {
+                "word": "ALATALA",
+                "explanation": "sif. tala-tala",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7
+            },
+            {
+                "word": "ATİLLİK",
+                "explanation": "is. fəaliyyətsizlik",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7
+            },
+            {
+                "word": "ATLETİK",
+                "explanation": "sif. ***aya aid olan. ***məşq. *** yarış",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7
+            },
+            {
+                "word": "DİTDİLİ",
+                "explanation": "is. məh. ağcaqanad. qərvənd çox*** və milçək olan yerdi. ə.haqverdiyev.durğun suyun qırağında toz kimi ***uçuşurdu",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7
+            },
+            {
+                "word": "TETATET",
+                "explanation": "zərf [fr.] təklikdə",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7
+            },
+            {
+                "word": "ATLETİKA",
+                "explanation": "is. [yun.] idm. qüvvət və çevikliktələb edən gimnastik hərəkətlər. yüngül*** (qaçış",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8
+            },
+            {
+                "word": "DİDAKTİK",
+                "explanation": "sif. [yun.] təlimverici",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8
+            },
+            {
+                "word": "EKLEKTİK",
+                "explanation": "is. [yun.] kit. eklektizmə meyiledən",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8
+            },
+            {
+                "word": "KATALİTİK",
+                "explanation": "sif. [yun.] kim. katalizləbağlı olan",
+                "isPanagram": false,
+                "score": 9,
+                "length": 9
+            },
+            {
+                "word": "EKLEKTİKLİK",
+                "explanation": "is. eklektik mahiyyətdəolma. nəticələrin eklektikliyi",
+                "isPanagram": false,
+                "score": 11,
+                "length": 11
+            },
+            {
+                "word": "DİALEKTAL",
+                "explanation": "sif. [yun.] dilç. dialektə aidolan",
+                "isPanagram": true,
+                "score": 17,
+                "length": 9
+            },
+            {
+                "word": "DİALEKTİK",
+                "explanation": "sif. [yun.] fəls. ***ayaaid olan",
+                "isPanagram": true,
+                "score": 17,
+                "length": 9
+            }
+        ]
+    }
+}

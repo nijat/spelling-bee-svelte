@@ -1,0 +1,309 @@
+{
+    "gameData": {
+        "day": "20221016",
+        "expiration": "1665957540",
+        "centerLetter": "M",
+        "outerLetters": [
+            "C",
+            "Ə",
+            "T",
+            "K",
+            "R",
+            "Ü"
+        ],
+        "words_info": {
+            "word_count": 40,
+            "sum_score": 187,
+            "panagram_count": 1,
+            "word_length": {
+                "4": 13,
+                "5": 11,
+                "8": 5,
+                "6": 7,
+                "7": 4
+            }
+        },
+        "words": [
+            {
+                "word": "CÜMƏ",
+                "explanation": "is. [ər.] həftənin beşinci günü; *** axşamından sonra gələn gün. [hacı:] hazırla",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "CÜRM",
+                "explanation": "is. [ər.] klas. günah",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "ƏCƏM",
+                "explanation": "is. [ər.] 1. köhn. keçmişdə ərəbolmayan xalqlara və onların nümayəndələrinə",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "ƏKMƏ",
+                "explanation": "1. “***k1”dən f.is. şitil ***.2. sif. əkilmiş",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "ƏMƏK",
+                "explanation": "is. insanın əqli və cismani gərginliktələb edən məqsədəuyğun və ictimaicəhətdən faydalı fəaliyyəti; zəhmət",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "ƏMMƏ",
+                "explanation": "is. [ər.] klas. bibi. aya",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "MƏKƏ",
+                "explanation": "is. qarğıdalı",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "MƏKR",
+                "explanation": "is. [ər.] hiylə",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "MƏMƏ",
+                "explanation": "is. məc. ana. [şərəfnisə xanım:]əgər ***m deyən dərviş olmasaydı",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "MƏRC",
+                "explanation": "is. bir şey üstündə mübahisə edəniki nəfər arasında bağlanan və uduzan tərəfinyerinə yetirməli olduğu bir şeyi nəzərdətutan şərt",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "MƏRƏ",
+                "explanation": "is. ***-*** oyunu üçün qazılançuxur",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "MƏTƏ",
+                "explanation": "is. yerdə oyun üçün çəkilən dairə(əsasən uşaq oyunlarında). ***dən çıxmaq",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "RƏMƏ",
+                "explanation": "is. [fars.] sürü. qoyun sürüsü",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "ƏKMƏK",
+                "explanation": "is. çörək. [üçüncü satıcı:] qızarmıştazə ***",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "ƏKRƏM",
+                "explanation": "sif. [ər.] klas. kəramətli",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "ƏMCƏK",
+                "explanation": "is. məmə",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "ƏMTƏƏ",
+                "explanation": "is. [ər. “məta” söz. cəmi] iqt. kit. mübadilə üçün istehsal edilən əmək məhsulları; mal. *** insanın hər hansı bir ehtiyacını təmin edən",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "ƏTMƏK",
+                "explanation": "is. köhn. çörək. yanmış ***yeməz idin əsla. m.ə.sabir. [birinci işçi:]bunu gördükdə hər insan utanır? bu qabarlarsizə *** qazanır! h",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "KƏMƏR",
+                "explanation": "is. [fars.] 1. bax qayış 1-cimənada. ***i qırılmaq. təzə *** almaq.belinə *** bağlamaq. // paltar",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "KƏRƏM",
+                "explanation": "is. [ər.] köhn. lütf",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "KÜTÜM",
+                "explanation": "is. zool. çəkikimilər fəsiləsindənvətəgə balığı",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "MƏRƏK",
+                "explanation": "is. 1. saman",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "MÜCRÜ",
+                "explanation": "is. balaca sandıqça. taxçayadüzülübdü bir neçə boğça",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "ÜMMƏT",
+                "explanation": "is. [ər.] 1. xalq",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "KƏMTƏR",
+                "explanation": "sif. [fars.] klas. alçaq",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6
+            },
+            {
+                "word": "MƏKƏRƏ",
+                "explanation": "is. [rus. “yarmarka”dan] 1917-ciil inqilabından əvvəl azərbaycanlılar nijninovqorodşəhərində hər il keçirilən yarmarkanıbu cür adlandırardılar",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6
+            },
+            {
+                "word": "MƏRCƏK",
+                "explanation": "is. qulağın aşağı ətli hissəsi",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6
+            },
+            {
+                "word": "MƏRƏKƏ",
+                "explanation": "is. [ər.] 1. səs-küy",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6
+            },
+            {
+                "word": "MƏRMƏR",
+                "explanation": "is. [lat.] 1. heykəltəraşlıqda vəmemarlıqda işlənən müxtəlif rəngli kristallikdağ süxuru – kirəc daş",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6
+            },
+            {
+                "word": "MƏTƏRƏ",
+                "explanation": "is. [ər.] yolda",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6
+            },
+            {
+                "word": "MÜRCÜM",
+                "explanation": "is. üzdə",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6
+            },
+            {
+                "word": "KƏRTMƏK",
+                "explanation": "is. kir",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7
+            },
+            {
+                "word": "MÜƏTTƏR",
+                "explanation": "sif. [ər.] köhn. ətirli",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7
+            },
+            {
+                "word": "MÜTƏKKƏ",
+                "explanation": "is. [ər.] uzunsov",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7
+            },
+            {
+                "word": "TƏRCÜMƏ",
+                "explanation": "is. [ər.] bir dildən başqa diləçevirmə (çevrilmə). sərbəst ***. “şahnamə”nin ***si. – usta zeynalın dükanındamirzə qəzəllər oxuyub",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7
+            },
+            {
+                "word": "MƏRƏMƏRƏ",
+                "explanation": "is. qoz",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8
+            },
+            {
+                "word": "MƏTƏMƏTƏ",
+                "explanation": "is. mətə içərisində oynanılanuşaq oyunu",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8
+            },
+            {
+                "word": "MÜKƏRRƏR",
+                "explanation": "zərf və sif. [ər.] klas. çoxdəfə",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8
+            },
+            {
+                "word": "TƏRƏKƏMƏ",
+                "explanation": "is. 1. keçmişdə: azərbaycandaköçəri heyvandarlara verilən ad. tarverdibaşıbağlı",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8
+            },
+            {
+                "word": "KƏMCÜRƏT",
+                "explanation": "sif. [fars. kəm və ər. cürət]az cürətli (cəsarətli)",
+                "isPanagram": true,
+                "score": 17,
+                "length": 8
+            }
+        ]
+    }
+}

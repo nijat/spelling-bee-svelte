@@ -1,0 +1,316 @@
+{
+    "gameData": {
+        "day": "20221025",
+        "expiration": "1666735140",
+        "centerLetter": "S",
+        "outerLetters": [
+            "İ",
+            "Ə",
+            "Ş",
+            "T",
+            "L",
+            "R"
+        ],
+        "words_info": {
+            "word_count": 41,
+            "sum_score": 172,
+            "panagram_count": 1,
+            "word_length": {
+                "7": 7,
+                "4": 17,
+                "6": 5,
+                "5": 10,
+                "9": 2
+            }
+        },
+        "words": [
+            {
+                "word": "ƏRSƏ",
+                "explanation": "is. [ər.] 1. meydan",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "ƏSƏL",
+                "explanation": "is. [ər.] klas. bal. baqqal … ***qiymətinə satar ayranı. q.zakir",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "ƏSƏR",
+                "explanation": "is. [ər.] 1. iz",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "ƏSİL",
+                "explanation": "is. [ər.] 1. əsas",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "ƏSİR",
+                "explanation": "is. [ər.] 1. müharibədə ələ keçirilən düşmən əsgəri",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "ƏSRİ",
+                "explanation": "sif. müasir",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "RƏİS",
+                "explanation": "is. [ər.] idarə edən",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "SƏLƏ",
+                "explanation": "is. küpə və s. qabların ağzını bağlamaqüçün kənd yerlərində işlədilən",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "SƏLT",
+                "explanation": "sif. dan. bütünlüklə",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "SƏRT",
+                "explanation": "sif. 1. bərk",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "SİLƏ",
+                "explanation": "is. [ər.] 1. qovuşma",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "SİLL",
+                "explanation": "is. [ər.] köhn. vərəm. [ələkbər:] hərkim bu arvadın üzünə baxsa",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "SİRR",
+                "explanation": "is. [ər.] 1. başqalarından gizli saxlanılan",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "STİL",
+                "explanation": "[fr. style] bax üslub",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "ŞƏST",
+                "explanation": "is. [fars.] ləyaqət",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "ŞİST",
+                "explanation": "is. geol. quruluşca lay-lay olan dağsüxuru. gil layları güclü təzyiqin və istiliyintəsirindən ***ə çevrilir",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "TƏRS",
+                "explanation": "is. və sif. 1. bir şeyin əks tərəfi",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "SƏLİS",
+                "explanation": "sif. [ər.] rəvan",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "SƏTİR",
+                "explanation": "is. [ər.] hər hansı bir mətnin birxətdə yazılmış hissəsi",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "SƏTRİ",
+                "explanation": "sif. [ər.] sətirbəsətir",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "SİLLƏ",
+                "explanation": "is. açıq əllə",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "SİRLİ",
+                "explanation": "sif. 1. ürəyində sirri olan. *** adamaoxşayır.2. məxfi",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "SİSLİ",
+                "explanation": "sif. çənli",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "TƏLİS",
+                "explanation": "is. əl-üz dəsmalı",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "TƏRSƏ",
+                "explanation": "sif. və zərf tərs",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "TƏSİR",
+                "explanation": "is. [ər.] 1. əsər etmə və bunun nəticəsindəəmələ gələn hal",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "TƏSİS",
+                "explanation": "is. [ər.] əsasını",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "ƏSƏRLİ",
+                "explanation": "sif. təsirli",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6
+            },
+            {
+                "word": "ƏSİLLİ",
+                "explanation": "sif. 1. əsil-nəcəbi olan",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6
+            },
+            {
+                "word": "SƏRİLİ",
+                "explanation": "sif. sərilmiş. *** paltar",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6
+            },
+            {
+                "word": "SƏRSƏR",
+                "explanation": "is. [ər.] güclü və soyuq külək",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6
+            },
+            {
+                "word": "SİSTİT",
+                "explanation": "is. [yun.] sidik kisəsinin iltihabıxəstəliyi",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6
+            },
+            {
+                "word": "ƏLİİSTİ",
+                "explanation": "sif. mahir atıcı",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7
+            },
+            {
+                "word": "SƏLSƏLƏ",
+                "explanation": "is. [ər.] göyərçinə bənzər böyükquş",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7
+            },
+            {
+                "word": "SƏRİŞTƏ",
+                "explanation": "is. [fars.] bir işə bələdlik",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7
+            },
+            {
+                "word": "SƏRSƏRİ",
+                "explanation": "sif. [fars.] 1. işi-gücü və müəyyənyeri olmayıb orada-burada dolaşan",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7
+            },
+            {
+                "word": "SİLSİLƏ",
+                "explanation": "is. [ər.] 1. keçmişdə qadınların başlarına taxdıqları bir-birinə keçirilmiş halqalar",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7
+            },
+            {
+                "word": "TƏSƏLLİ",
+                "explanation": "is. [ər.] bir acını az da olsa unutduracaq",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7
+            },
+            {
+                "word": "TƏSİRLİ",
+                "explanation": "sif. təsir edən",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7
+            },
+            {
+                "word": "SİLSİLƏLİ",
+                "explanation": "sif. silsilə şəklində",
+                "isPanagram": false,
+                "score": 9,
+                "length": 9
+            },
+            {
+                "word": "SƏRİŞTƏLİ",
+                "explanation": "sif. səriştəsi",
+                "isPanagram": true,
+                "score": 17,
+                "length": 9
+            }
+        ]
+    }
+}

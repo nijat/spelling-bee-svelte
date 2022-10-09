@@ -1,26 +1,25 @@
 {
     "gameData": {
-        "day": "20211010",
-        "expiration": "1633903140",
+        "day": "20221023",
+        "expiration": "1666562340",
         "centerLetter": "T",
-        "outterLetters": [
+        "outerLetters": [
             "C",
-            "R",
-            "Ə",
-            "Ü",
             "İ",
-            "B"
+            "Ə",
+            "L",
+            "R",
+            "Ü"
         ],
         "words_info": {
             "word_count": 28,
-            "sum_score": 139,
-            "panagram_count": 2,
+            "sum_score": 118,
+            "panagram_count": 1,
             "word_length": {
-                "6": 5,
-                "9": 1,
-                "7": 4,
-                "5": 9,
-                "4": 9
+                "7": 3,
+                "6": 6,
+                "5": 8,
+                "4": 11
             }
         },
         "words": [
@@ -53,15 +52,29 @@
                 "length": 4
             },
             {
-                "word": "RƏBT",
-                "explanation": "is. [ər.] 1. bağlama",
+                "word": "ƏTLİ",
+                "explanation": "sif. 1. ətcə dolğun; kök",
                 "isPanagram": false,
                 "score": 1,
                 "length": 4
             },
             {
-                "word": "TİBB",
-                "explanation": "is. [ər.] 1. xəstəliklər",
+                "word": "LİTR",
+                "explanation": "[fr. ***e] 1000 kub santimetrə bərabər maye ölçüsü. bir *** süd",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "TƏLƏ",
+                "explanation": "is. vəhşi və ov heyvanlarını və yaquşları",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "TƏLL",
+                "explanation": "is. uzun təpə. [bəxtiyar] gözünüaçanda gördü",
                 "isPanagram": false,
                 "score": 1,
                 "length": 4
@@ -102,64 +115,71 @@
                 "length": 5
             },
             {
-                "word": "RÜTBƏ",
-                "explanation": "is. [ər.] 1. xidməti dərəcə",
+                "word": "TƏCİL",
+                "explanation": "is. [ər.] klas. möhlət vermə",
                 "isPanagram": false,
                 "score": 5,
                 "length": 5
             },
             {
-                "word": "TƏBƏƏ",
-                "explanation": "is. [ər. “tabe” söz. cəmi] bir dövlətə tabe olan",
+                "word": "TƏLƏT",
+                "explanation": "is. [ər.] 1. üz",
                 "isPanagram": false,
                 "score": 5,
                 "length": 5
             },
             {
-                "word": "TƏBİB",
-                "explanation": "is. [ər.] həkim. *** olsam",
+                "word": "TƏRLİ",
+                "explanation": "sif. 1. tərləmiş",
                 "isPanagram": false,
                 "score": 5,
                 "length": 5
             },
             {
-                "word": "TƏBİİ",
-                "explanation": "sif. [ər.] 1. təbiətə (yer səthinə",
+                "word": "TƏTİL",
+                "explanation": "is. [ər.] 1. işin kütləvi və mütəşəkkilsurətdə dayandırılması. aprelin iyirmi doqquzundabaşlanan xırda ***lər iyulun ikisindənümumi *** şəklini",
                 "isPanagram": false,
                 "score": 5,
                 "length": 5
             },
             {
-                "word": "TƏBİR",
-                "explanation": "is. [ər.] 1. söz",
+                "word": "TİRLİ",
+                "explanation": "sif. tiri (tirləri) olan",
                 "isPanagram": false,
                 "score": 5,
                 "length": 5
             },
             {
-                "word": "TİBBİ",
-                "explanation": "sif. [ər.] tiblə",
+                "word": "ÜTÜLÜ",
+                "explanation": "sif. ütü çəkilmiş",
                 "isPanagram": false,
                 "score": 5,
                 "length": 5
             },
             {
-                "word": "TÜRBƏ",
-                "explanation": "is. [ər.] qəbir",
-                "isPanagram": false,
-                "score": 5,
-                "length": 5
-            },
-            {
-                "word": "BƏRBƏT",
-                "explanation": "is. [ər.] uda oxşar qədim çalğıaləti. əldə incə ***",
+                "word": "CÜLLÜT",
+                "explanation": "is. zool. uzundimdikli",
                 "isPanagram": false,
                 "score": 6,
                 "length": 6
             },
             {
-                "word": "TƏBİƏT",
-                "explanation": "is. [ər.] 1. yerdə təbii şəraitin(yerin səthi",
+                "word": "ƏLİİTİ",
+                "explanation": "sif. əldən çapıq; zirək",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6
+            },
+            {
+                "word": "ƏTİRLİ",
+                "explanation": "sif. 1. özündən ətir saçan; rayihəli.*** çiçəklər. *** otlar. – bu bağçalardaev sahibləri *** güllər və çiçəklərəkmişdilər",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6
+            },
+            {
+                "word": "TƏCİLİ",
+                "explanation": "zərf [ər.] 1. tələsik",
                 "isPanagram": false,
                 "score": 6,
                 "length": 6
@@ -172,15 +192,8 @@
                 "length": 6
             },
             {
-                "word": "TƏRTİB",
-                "explanation": "is. [ər.] 1. ayrı-ayrı hissələri",
-                "isPanagram": false,
-                "score": 6,
-                "length": 6
-            },
-            {
-                "word": "TÜRBƏT",
-                "explanation": "is. [ər.] 1. torpaq. elə bir ölkədədoğulmuşam ki; onun ***inə minnətdarammən. m.rahim. // məc. müqəddəs torpaq",
+                "word": "TİTƏLİ",
+                "explanation": "sif. titəsi olan",
                 "isPanagram": false,
                 "score": 6,
                 "length": 6
@@ -193,29 +206,15 @@
                 "length": 7
             },
             {
-                "word": "TƏCRÜBƏ",
-                "explanation": "is. [ər.] 1. sınama",
+                "word": "LÜTƏTCƏ",
+                "explanation": "sif. dan. 1. çılpaq",
                 "isPanagram": false,
                 "score": 7,
                 "length": 7
             },
             {
-                "word": "TƏƏCCÜB",
-                "explanation": "is. [ər.] 1. qeyri-adi",
-                "isPanagram": false,
-                "score": 7,
-                "length": 7
-            },
-            {
-                "word": "BİTƏCRÜBƏ",
-                "explanation": "sif. [fars. bi… və ər. təcrübə]təcrübəsiz",
-                "isPanagram": true,
-                "score": 17,
-                "length": 9
-            },
-            {
-                "word": "TƏCRÜBİ",
-                "explanation": "[ər.] 1. bax təcrübəvi. şiraslanınindiki *** işi",
+                "word": "CÜRƏTLİ",
+                "explanation": "sif. heç şeydən qorxmayan",
                 "isPanagram": true,
                 "score": 17,
                 "length": 7

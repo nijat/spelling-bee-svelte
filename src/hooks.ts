@@ -7,17 +7,6 @@ export async function handle({ event, resolve }) {
     const jsonDirectory = path.join(process.cwd(), 'words');
     const fileContents = await fs.readFile(jsonDirectory + '/'+getCurrentDate()+'.json', 'utf8');
     const objectData = JSON.parse(fileContents);
-
-    objectData.gameData.answers.forEach((element:any, i:number) => {
-      objectData.gameData.answers[i] = element;
-    });
-    objectData.gameData.infoWords.forEach((element:any, i:number) => {
-      objectData.gameData.infoWords[i].word = element["word"];
-    });
-    objectData.gameData.infoWords = objectData.gameData.infoWords.sort(function(a, b){
-        a.score - b.score;
-    });
-    objectData.gameData.pangrams[0] = objectData.gameData.pangrams[0];
     return new Response(JSON.stringify(objectData));
   }
   const response = await resolve(event);

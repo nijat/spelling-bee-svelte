@@ -1,0 +1,204 @@
+{
+    "gameData": {
+        "day": "20221022",
+        "expiration": "1666475940",
+        "centerLetter": "T",
+        "outerLetters": [
+            "A",
+            "Z",
+            "Ə",
+            "L",
+            "I",
+            "D"
+        ],
+        "words_info": {
+            "word_count": 25,
+            "sum_score": 109,
+            "panagram_count": 1,
+            "word_length": {
+                "4": 11,
+                "7": 5,
+                "5": 4,
+                "6": 4,
+                "9": 1
+            }
+        },
+        "words": [
+            {
+                "word": "ADAT",
+                "explanation": "is. [ər. “adət” söz. cəmi] bax adət.məstəli şirvani hər iki səyahətində dünyanınyarısını gəştü güzar edib",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "ADƏT",
+                "explanation": "is. [ər.] 1. hər hansı bir xalqınhəyatında qədimdən bəri qəbul edilmiş vəkök salmış ənənə",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "ALƏT",
+                "explanation": "is. [ər.] 1. bir iş görmək",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "ATAT",
+                "explanation": "is. uşaqların ağac üstə minərəkoynadıqları oyun. at-at oynamaq",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "ATLI",
+                "explanation": "1. sif. at minmiş",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "ƏDAT",
+                "explanation": "is. [ər.] 1. qram. müstəqil mənasıolmayan",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "TALA",
+                "explanation": "is. meşədə ağacsız",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "TAZI",
+                "explanation": "is. bərkqaçan",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "TƏLƏ",
+                "explanation": "is. vəhşi və ov heyvanlarını və yaquşları",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "TƏLL",
+                "explanation": "is. uzun təpə. [bəxtiyar] gözünüaçanda gördü",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "TƏZƏ",
+                "explanation": "sif. [fars.] yeni. aptekdən *** dərmangətirmişdilər. c.məmmədquluzadə. [gülyaz:]kəndimizə xəbər yayılıb ki",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "ATALI",
+                "explanation": "sif. atası olan. *** uşaq. ***(z.) böyümək",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "ATLAZ",
+                "explanation": "is. [ər.] 1. üzü hamar",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "TƏLƏT",
+                "explanation": "is. [ər.] 1. üz",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "TƏZAD",
+                "explanation": "is. [ər.] 1. ziddiyyət",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "ƏDALƏT",
+                "explanation": "is. [ər.] 1. haqq və düzgünlük prinsiplərinə riayət. ***ə riayət etmək. ictimai ***. *** hissini itirmək",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6
+            },
+            {
+                "word": "ƏLALTI",
+                "explanation": "1. sif. və is. əl altında işləyən",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6
+            },
+            {
+                "word": "ƏTALƏT",
+                "explanation": "is. [ər.] hərəkətsizlik",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6
+            },
+            {
+                "word": "LƏZZƏT",
+                "explanation": "is. [ər.] 1. yeyilən",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6
+            },
+            {
+                "word": "ALATALA",
+                "explanation": "sif. tala-tala",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7
+            },
+            {
+                "word": "DƏLALƏT",
+                "explanation": "is. [ər.] 1. dəlil",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7
+            },
+            {
+                "word": "DIZILTI",
+                "explanation": "is. dız-dız səsi. [ovçu qasım:]gördüm kolun altında bir kor sərçə oturub",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7
+            },
+            {
+                "word": "ZƏLALƏT",
+                "explanation": "is. [ər.] klas. doğru yoldanazma",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7
+            },
+            {
+                "word": "ƏDLƏDALƏT",
+                "explanation": "is. [ər.] bax ədalət.[şah:] cəm olaq",
+                "isPanagram": false,
+                "score": 9,
+                "length": 9
+            },
+            {
+                "word": "TƏZADLI",
+                "explanation": "sif. ziddiyyətli",
+                "isPanagram": true,
+                "score": 17,
+                "length": 7
+            }
+        ]
+    }
+}

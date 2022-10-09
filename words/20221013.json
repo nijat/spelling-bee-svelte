@@ -1,0 +1,212 @@
+{
+    "gameData": {
+        "day": "20221013",
+        "expiration": "1665698340",
+        "centerLetter": "M",
+        "outerLetters": [
+            "A",
+            "İ",
+            "N",
+            "K",
+            "I",
+            "Ç"
+        ],
+        "words_info": {
+            "word_count": 26,
+            "sum_score": 126,
+            "panagram_count": 1,
+            "word_length": {
+                "4": 10,
+                "5": 2,
+                "7": 2,
+                "9": 1,
+                "8": 4,
+                "6": 7
+            }
+        },
+        "words": [
+            {
+                "word": "AÇIM",
+                "explanation": "is. açılma zamanı",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "AMAN",
+                "explanation": "is. [ər.] 1. əmin-***lıq",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "AMİN",
+                "explanation": "[ər. əsli qədim yəh.] din. qəbulolsun",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "ANMA",
+                "explanation": "“***q”dan f.is. *** mərasimi",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "KİMİ",
+                "explanation": "əvəz. bəzisi",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "MAÇA",
+                "explanation": "is. 1. qoyun və başqa heyvanlarındirsəkdən aşağı bilək hissəsi. *** əti. ***bozbaşı.2. iri aşıq",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "MAKİ",
+                "explanation": "is. [fr.] 1. meşənin sıx yeri.2. ikinci dünya müharibəsi zamanı fransızpartizan dəstəsinin adı",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "MAMA",
+                "explanation": "is. doğuş zamanı kömək göstərməkləməşğul olan (keçmişdə təhsilsiz",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "MANİ",
+                "explanation": "is. türk xalq şeri və nəğmə janrı",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "MİNA",
+                "explanation": "[fr.] 1. adətən torpağın",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4
+            },
+            {
+                "word": "KAMAN",
+                "explanation": "is. [fars.] 1. bax ***ça. nəqədər dərdlidir o qırıq ***; şikayət eyləyiröz dünyasından. s.vurğun",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "MİNİK",
+                "explanation": "is. 1. bir yerə getmək üçün nəqliyyatvasitələrinin birinə minmiş adam. ancaqtək-tük üstüörtülü faytonlar içində ***lərgörünür",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5
+            },
+            {
+                "word": "MAKAKA",
+                "explanation": "is. [port.] əntərlər yarımfəsiləsindənolan meymun",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6
+            },
+            {
+                "word": "MAKİNA",
+                "explanation": "[lat.] 1. ba x maşın 1-ci mənada.avtomobillərin",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6
+            },
+            {
+                "word": "MAMAÇA",
+                "explanation": "is. xüsusi təhsili olmayanmama",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6
+            },
+            {
+                "word": "MİÇMAN",
+                "explanation": "[ing.] 1. rus hərbi dəniz donanmasındastarşina heyətində ən böyük ad",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6
+            },
+            {
+                "word": "MİNMİN",
+                "explanation": "zərf və sif. minlərcə",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6
+            },
+            {
+                "word": "MİNAÇI",
+                "explanation": "is. xüs. mina düzmə və ya düzülmüşminaları çıxarıb zərərsizləşdirmə mütəxəssisi",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6
+            },
+            {
+                "word": "NİKNAM",
+                "explanation": "sif. [fars.] köhn. yaxşı ad qoymuş",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6
+            },
+            {
+                "word": "KAMANÇA",
+                "explanation": "is. [fars.] alt tərəfi diz üstünəqoyulub yayla çalınan musiqi aləti; kaman.*** çalmaq. *** kirişi",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7
+            },
+            {
+                "word": "KAMANÇI",
+                "explanation": "is. bax kamançaçı",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7
+            },
+            {
+                "word": "MAÇAMAÇA",
+                "explanation": "is. maça ilə oynanılan uşaqoyunu; aşıq-aşıq. uşaqlar maça-maça oynayırlar",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8
+            },
+            {
+                "word": "MİMİKAÇI",
+                "explanation": "is. 1. yaxşı mimikası olan artist",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8
+            },
+            {
+                "word": "MİNİMİNİ",
+                "explanation": "sif. oxş. kiçicik",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8
+            },
+            {
+                "word": "KAMANÇAÇI",
+                "explanation": "is. kamançada çalan çalğıçı. tarzən ilə *** məharətlə çalır",
+                "isPanagram": false,
+                "score": 9,
+                "length": 9
+            },
+            {
+                "word": "MAKİNAÇI",
+                "explanation": "is. yazı maşınında yazan (qadın).sərvərov əmri qaraladı",
+                "isPanagram": true,
+                "score": 17,
+                "length": 8
+            }
+        ]
+    }
+}
