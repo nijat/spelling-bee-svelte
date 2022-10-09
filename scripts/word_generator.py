@@ -15,7 +15,7 @@ def is_pangram(string):
 
 def get_words_letter(pangram_set):
     todays_letters = list(random.choice(list(pangram_set)))
-    todays_letters = [ "B", "N", "A", "X", "M", "İ", "R" ]
+    # todays_letters = [ "B", "N", "A", "X", "M", "İ", "R" ]
     return todays_letters
 
 def get_words(day):
