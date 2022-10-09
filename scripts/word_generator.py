@@ -105,15 +105,15 @@ def create_explanation(word, explanation, score_list, isPanagram):
     return result
 
 def create_json(
-    day, expiration, outter_letters, center_letter, words_info, words
+    day, expiration, outer_letters, center_letter, words_info, words
 ):
-    outter_letters.remove(center_letter)
+    outer_letters.remove(center_letter)
     return {
         "gameData": {
             "day": day,
             "expiration": expiration,
             "centerLetter": center_letter,
-            "outterLetters": outter_letters,
+            "outerLetters": outer_letters,
             "words_info": words_info,
             "words": words,
         }
@@ -144,7 +144,7 @@ def main():
 
     first_day = 1
     for i in range(first_day, 32):
-        year = "2021"
+        year = "2022"
         month = "10"
         day = str(i)
         if int(day) < 10:
