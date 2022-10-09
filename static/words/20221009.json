@@ -2,343 +2,238 @@
     "gameData": {
         "day": "20221009",
         "expiration": "1665352740",
-        "centerLetter": "B",
+        "centerLetter": "H",
         "outerLetters": [
-            "A",
-            "İ",
-            "N",
+            "Ə",
+            "M",
             "K",
-            "R",
-            "D"
+            "L",
+            "U",
+            "Q"
         ],
         "words_info": {
-            "word_count": 45,
-            "sum_score": 202,
+            "word_count": 26,
+            "sum_score": 158,
             "panagram_count": 1,
             "word_length": {
-                "4": 15,
-                "5": 15,
-                "6": 9,
-                "9": 2,
-                "8": 3,
-                "7": 1
+                "5": 7,
+                "4": 5,
+                "7": 5,
+                "10": 2,
+                "12": 1,
+                "8": 2,
+                "6": 3,
+                "9": 1
             }
         },
         "words": [
             {
-                "word": "ABAD",
-                "explanation": "sif. [fars.] 1. müntəzəm və çoxlu tikintisi",
+                "word": "HƏKK",
+                "explanation": "is. [ər.] hər hansı bir material(metal",
                 "isPanagram": false,
                 "score": 1,
-                "length": 4
+                "length": 4,
+                "id": 1
             },
             {
-                "word": "ABAK",
-                "explanation": "is. [yun.] 1. arxit. 1. sütun başlığınındördbucaqlı şəklində olan yuxarı hissəsi.2. qədim yunanların və romalıların hesablövhəsi",
+                "word": "HƏQQ",
+                "explanation": "[ər.] bax haqq2 1-ci mənada.[rəsul:] qadir həqdən mən bir dilək dilədim;şükür",
                 "isPanagram": false,
                 "score": 1,
-                "length": 4
+                "length": 4,
+                "id": 2
             },
             {
-                "word": "ABİD",
-                "explanation": "is. [ər.] din. ibadətlə məşğul olanadam",
+                "word": "HƏLL",
+                "explanation": "[ər.] 1. is. xüs. bir cismin və yamayenin suda və ya başqa maye içərisindəöz tərkibini pozub onunla qarışması",
                 "isPanagram": false,
                 "score": 1,
-                "length": 4
+                "length": 4,
+                "id": 3
             },
             {
-                "word": "ADAB",
-                "explanation": "is. [ər. “ədəb” söz. cəmi] köhn.əxlaq qaydaları",
+                "word": "HƏML",
+                "explanation": "is. [ər.] klas. yük",
                 "isPanagram": false,
                 "score": 1,
-                "length": 4
+                "length": 4,
+                "id": 4
             },
             {
-                "word": "BABA",
-                "explanation": "is. 1. atanın",
+                "word": "HULU",
+                "explanation": "is. bot. üzü xovlu iri şaftalı növü;sarı şaftalı. [piri baba:] qızım",
                 "isPanagram": false,
                 "score": 1,
-                "length": 4
+                "length": 4,
+                "id": 5
             },
             {
-                "word": "BABİ",
-                "explanation": "is. [xüs. is.-dən] 1. xıx əsrin ortasında iranda “bab” təxəllüslü mirzə əli məhəmməd tərəfindən təsis edilmiş dini təriqətə mənsub olan adam",
-                "isPanagram": false,
-                "score": 1,
-                "length": 4
-            },
-            {
-                "word": "BANİ",
-                "explanation": "is. [ər.] 1. bir şeyin əsasını",
-                "isPanagram": false,
-                "score": 1,
-                "length": 4
-            },
-            {
-                "word": "BANK",
-                "explanation": "[fr.] 1. pul vəsaitini toplayan və təqsim edən kredit idarəsi. dövlət ***ı. kommunal ***. kənd təsərrüfatı ***ı",
-                "isPanagram": false,
-                "score": 1,
-                "length": 4
-            },
-            {
-                "word": "BİBİ",
-                "explanation": "is. övlad üçün atanın bacısı",
-                "isPanagram": false,
-                "score": 1,
-                "length": 4
-            },
-            {
-                "word": "BİKR",
-                "explanation": "[ər.] bax bakir(ə)",
-                "isPanagram": false,
-                "score": 1,
-                "length": 4
-            },
-            {
-                "word": "BİNA",
-                "explanation": "is. [ər.] 1. tikili",
-                "isPanagram": false,
-                "score": 1,
-                "length": 4
-            },
-            {
-                "word": "BİRİ",
-                "explanation": "əvəz. 1. müəyyən olmayan şəxs",
-                "isPanagram": false,
-                "score": 1,
-                "length": 4
-            },
-            {
-                "word": "DİBA",
-                "explanation": "is. [fars.] klas. zərli gülləri olanipək parça. // sif. mənasında. həmin parçadantikilmiş. xoş yaraşır sənə *** nimtənə;bu bəzəyin yeni əlaməti va",
-                "isPanagram": false,
-                "score": 1,
-                "length": 4
-            },
-            {
-                "word": "KİBR",
-                "explanation": "is. [ər.] özünü hamıdan üstün tutma",
-                "isPanagram": false,
-                "score": 1,
-                "length": 4
-            },
-            {
-                "word": "NAİB",
-                "explanation": "is. [ər.] tar. 1. böyük bir şəxsin yerinidolandıran şəxs; vəkil",
-                "isPanagram": false,
-                "score": 1,
-                "length": 4
-            },
-            {
-                "word": "ABDAR",
-                "explanation": "sif. [fars.] 1. sulu",
+                "word": "ƏHMƏQ",
+                "explanation": "[ər.] bax axmaq. əlhəq",
                 "isPanagram": false,
                 "score": 5,
-                "length": 5
+                "length": 5,
+                "id": 6
             },
             {
-                "word": "ANBAR",
-                "explanation": "is. taxıl",
+                "word": "ƏLHƏQ",
+                "explanation": "ara s. [ər.] köhn. həqiqətən",
                 "isPanagram": false,
                 "score": 5,
-                "length": 5
+                "length": 5,
+                "id": 7
             },
             {
-                "word": "ARABA",
-                "explanation": "is. iki və ya dördtəkərli nəqliyyatvasitəsi. minik ***sı. yük ***sı. əl ***sı(əl ilə sürülən ***)",
+                "word": "HƏKƏM",
+                "explanation": "is. [ər.] köhn. iki tərəf arasındaolan mübahisəni həll etmək üçün seçilənadam; münsif",
                 "isPanagram": false,
                 "score": 5,
-                "length": 5
+                "length": 5,
+                "id": 8
             },
             {
-                "word": "BADAR",
-                "explanation": "məh. 1. is. kiçicik əkin yeri.2. sif. dağınıq",
+                "word": "HƏMƏL",
+                "explanation": "is. [ər.] ərəb astronomiyasındaqoç bürcünün adı. günəş *** bürcünəyaxınlaşdığı dəqiqədə sultan toğrulun qapısındavurulan kərənayxana novruz bayra",
                 "isPanagram": false,
                 "score": 5,
-                "length": 5
+                "length": 5,
+                "id": 9
             },
             {
-                "word": "BAKİR",
-                "explanation": "sif. [ər.] 1. pozulmamış",
+                "word": "HƏMLƏ",
+                "explanation": "is. [ər.] hücum",
                 "isPanagram": false,
                 "score": 5,
-                "length": 5
+                "length": 5,
+                "id": 10
             },
             {
-                "word": "BANDA",
-                "explanation": "is. [ital.] cinayətkarlar",
+                "word": "MƏHƏK",
+                "explanation": "is. [ər.] qızıl və gümüşün əyarını təyin edən bir cins daş. □ *** daşı – 1) ***; 2) məc. bir şeyin keyfiyyəti",
                 "isPanagram": false,
                 "score": 5,
-                "length": 5
+                "length": 5,
+                "id": 11
             },
             {
-                "word": "BANKA",
-                "explanation": "is. [pol.] 1. silindrşəkilli şüşə və ya saxsı qab. qəfəslərə yığılmış şüşə ***lardakı saçaqlı konfetləri … siçanlar darmadağın etmiş(di)",
+                "word": "MƏHƏL",
+                "explanation": "is. [ər.] yer. necə surət bağlasınkönlüm xilasi-eşqdən; eşqdir bir hal kim",
                 "isPanagram": false,
                 "score": 5,
-                "length": 5
+                "length": 5,
+                "id": 12
             },
             {
-                "word": "BARAK",
-                "explanation": "[fr.] 1. taxtadan tikilən müvəqqəti",
-                "isPanagram": false,
-                "score": 5,
-                "length": 5
-            },
-            {
-                "word": "BARAN",
-                "explanation": "is. [fars.] klas. yağış",
-                "isPanagram": false,
-                "score": 5,
-                "length": 5
-            },
-            {
-                "word": "BİBAK",
-                "explanation": "sif. [fars.] qorxusuz",
-                "isPanagram": false,
-                "score": 5,
-                "length": 5
-            },
-            {
-                "word": "BİDAR",
-                "explanation": "sif. [fars.] klas. 1. köhn. şair. oyaq",
-                "isPanagram": false,
-                "score": 5,
-                "length": 5
-            },
-            {
-                "word": "BİKAR",
-                "explanation": "sif. və zərf [fars.] 1. işsiz",
-                "isPanagram": false,
-                "score": 5,
-                "length": 5
-            },
-            {
-                "word": "DABAN",
-                "explanation": "is. 1. insan və heyvan ayağının dal hissəsi. çox gəzməkdən ***larım sızıldayır. 2. ayağa geyilən şeylərin arxa hissəsi",
-                "isPanagram": false,
-                "score": 5,
-                "length": 5
-            },
-            {
-                "word": "DİBİR",
-                "explanation": "is. məh. təsbəhlərdə olan uzunsovmuncuq dənəsi",
-                "isPanagram": false,
-                "score": 5,
-                "length": 5
-            },
-            {
-                "word": "KABAB",
-                "explanation": "is. [ər.] köz üstündə şişdə",
-                "isPanagram": false,
-                "score": 5,
-                "length": 5
-            },
-            {
-                "word": "ANABİR",
-                "explanation": "sif. bir anadan olan",
+                "word": "MƏHKUM",
+                "explanation": "sif. [ər.] 1. haqqında məhkəmətərəfindən hökm çıxarılmış",
                 "isPanagram": false,
                 "score": 6,
-                "length": 6
+                "length": 6,
+                "id": 13
             },
             {
-                "word": "BADBAN",
-                "explanation": "is. [fars.] ensiz nazik taxta çərçivəyəyapışdırılmış və uzun sapa bənd edilərək",
+                "word": "MƏHLUL",
+                "explanation": "is. [ər.] bərk və ya duru maddəninsuda və ya başqa bir mayedə həll olunmasınəticəsində alınan eynicinsli duru maddə",
                 "isPanagram": false,
                 "score": 6,
-                "length": 6
+                "length": 6,
+                "id": 14
             },
             {
-                "word": "BANKİR",
-                "explanation": "[fr.] kapitalist ölkələrində;bank sahibi və ya səhmdarı; kapitalist",
+                "word": "MƏLHƏM",
+                "explanation": "is. [ər. mərhəm] 1. yaraya vəya ağrıyan yerlərə sürtülən yağlı dərman.yaraya *** yaxmaq. – hələ qədim misirdə***lər",
                 "isPanagram": false,
                 "score": 6,
-                "length": 6
+                "length": 6,
+                "id": 15
             },
             {
-                "word": "BARDAN",
-                "explanation": "is. içərisinə pambıq",
-                "isPanagram": false,
-                "score": 6,
-                "length": 6
-            },
-            {
-                "word": "BİKARA",
-                "explanation": "[fars. bikarə] 1. sif. dan. gərəksiz",
-                "isPanagram": false,
-                "score": 6,
-                "length": 6
-            },
-            {
-                "word": "DABANA",
-                "explanation": "is. qapının",
-                "isPanagram": false,
-                "score": 6,
-                "length": 6
-            },
-            {
-                "word": "DARABA",
-                "explanation": "is. məh. 1. taxtadan və s.-dənhasar; arakəsmə. otağı *** ilə iki hissəyəayırmaq.2. evin yanında taxtadan və s",
-                "isPanagram": false,
-                "score": 6,
-                "length": 6
-            },
-            {
-                "word": "KARBİD",
-                "explanation": "[lat. carbo – kömür və yun. eidos – növ] kim. karbonun bəzi metal və metalloidlərlə birləşməsi. dəmir ***i",
-                "isPanagram": false,
-                "score": 6,
-                "length": 6
-            },
-            {
-                "word": "NİKBİN",
-                "explanation": "sif. [fars.] həyatdan razı",
-                "isPanagram": false,
-                "score": 6,
-                "length": 6
-            },
-            {
-                "word": "KARABİN",
-                "explanation": "[fr.] qısalüləli tüfəng.[səttarxan] qısaqundaqlı bir avstriya ***igötürmüşdü. p.makulu",
+                "word": "HƏLHƏLƏ",
+                "explanation": "is. [ər.] hay-küy",
                 "isPanagram": false,
                 "score": 7,
-                "length": 7
+                "length": 7,
+                "id": 16
             },
             {
-                "word": "DARABARA",
-                "explanation": "is. mübahisə",
+                "word": "HƏMHƏMƏ",
+                "explanation": "is. pıçıltı",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 17
+            },
+            {
+                "word": "QƏHQƏHƏ",
+                "explanation": "is. [ər.] bərkdən gülüş",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 18
+            },
+            {
+                "word": "MƏHƏLLƏ",
+                "explanation": "is. [ər.] 1. bir şəhər və ya qəsəbənin bölündüyü hissələrdən hər biri. hər ***dən iki-üç nəfər adam uşaqları ilə bir yerdə arabaya",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 19
+            },
+            {
+                "word": "MƏHKƏMƏ",
+                "explanation": "is. [ər.] 1. cinayət işlərinəvə mülki mübahisələrə baxan ədliyyə orqanı.xalq ***si. ali ***",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 20
+            },
+            {
+                "word": "KƏMMƏHƏL",
+                "explanation": "sif. [fars. kəm və ər. məhəl]adama məhəl qoymayan",
                 "isPanagram": false,
                 "score": 8,
-                "length": 8
+                "length": 8,
+                "id": 21
             },
             {
-                "word": "DİKDABAN",
-                "explanation": "sif. dabanı dik",
+                "word": "MƏHLULLU",
+                "explanation": "sif. məhlul qarışıqlı",
                 "isPanagram": false,
                 "score": 8,
-                "length": 8
+                "length": 8,
+                "id": 22
             },
             {
-                "word": "ANADANBİR",
-                "explanation": "sif. bir anadan olan",
+                "word": "HƏLƏMHƏLƏM",
+                "explanation": "dan. sif. hər hansı",
                 "isPanagram": false,
-                "score": 9,
-                "length": 9
+                "score": 10,
+                "length": 10,
+                "id": 23
             },
             {
-                "word": "BARRİKADA",
-                "explanation": "[fr.] küçə vuruşmasındainqilabi kütlələrin müxtəlif iri şeylərdən(şalban",
+                "word": "HƏMMƏHƏLLƏ",
+                "explanation": "sif. və is. [fars. həm vəər. məhəllə] eyni məhəllədə doğulmuş",
                 "isPanagram": false,
-                "score": 9,
-                "length": 9
+                "score": 10,
+                "length": 10,
+                "id": 24
             },
             {
-                "word": "KABARDİN",
-                "explanation": "is. kabarda-balkariyanın əsasəhalisini təşkil edən xalq və bu xalqa mənsubadam.*** dili. *** ədəbiyyatı",
+                "word": "HƏLLƏMQƏLLƏM",
+                "explanation": "sif. dan. 1. cüvəllağı",
+                "isPanagram": false,
+                "score": 12,
+                "length": 12,
+                "id": 25
+            },
+            {
+                "word": "MƏHKUMLUQ",
+                "explanation": "is. 1. etdiyi cinayətə görəməhkəmə cəzası alma. məhkumluğun götürülməsihaqqında fərman.2. məhkum olma",
                 "isPanagram": true,
                 "score": 17,
-                "length": 8
+                "length": 9,
+                "id": 26
             }
         ]
     }

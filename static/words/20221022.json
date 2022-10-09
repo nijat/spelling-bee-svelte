@@ -2,202 +2,171 @@
     "gameData": {
         "day": "20221022",
         "expiration": "1666475940",
-        "centerLetter": "T",
+        "centerLetter": "H",
         "outerLetters": [
-            "A",
-            "Z",
-            "Ə",
+            "N",
+            "O",
+            "M",
             "L",
-            "I",
-            "D"
+            "A",
+            "R"
         ],
         "words_info": {
-            "word_count": 25,
-            "sum_score": 109,
+            "word_count": 18,
+            "sum_score": 91,
             "panagram_count": 1,
             "word_length": {
-                "4": 11,
-                "7": 5,
-                "5": 4,
-                "6": 4,
-                "9": 1
+                "5": 9,
+                "4": 5,
+                "8": 2,
+                "9": 1,
+                "7": 1
             }
         },
         "words": [
             {
-                "word": "ADAT",
-                "explanation": "is. [ər. “adət” söz. cəmi] bax adət.məstəli şirvani hər iki səyahətində dünyanınyarısını gəştü güzar edib",
+                "word": "HALA",
+                "explanation": "zərf [ər.] klas. indi",
                 "isPanagram": false,
                 "score": 1,
-                "length": 4
+                "length": 4,
+                "id": 1
             },
             {
-                "word": "ADƏT",
-                "explanation": "is. [ər.] 1. hər hansı bir xalqınhəyatında qədimdən bəri qəbul edilmiş vəkök salmış ənənə",
+                "word": "HAMM",
+                "explanation": "is. hürərkən itin çıxardığı səs",
                 "isPanagram": false,
                 "score": 1,
-                "length": 4
+                "length": 4,
+                "id": 2
             },
             {
-                "word": "ALƏT",
-                "explanation": "is. [ər.] 1. bir iş görmək",
+                "word": "HANA",
+                "explanation": "is. əllə xalça",
                 "isPanagram": false,
                 "score": 1,
-                "length": 4
+                "length": 4,
+                "id": 3
             },
             {
-                "word": "ATAT",
-                "explanation": "is. uşaqların ağac üstə minərəkoynadıqları oyun. at-at oynamaq",
+                "word": "HARA",
+                "explanation": "sual əvəz. 1. hansı yer",
                 "isPanagram": false,
                 "score": 1,
-                "length": 4
+                "length": 4,
+                "id": 4
             },
             {
-                "word": "ATLI",
-                "explanation": "1. sif. at minmiş",
+                "word": "HOLL",
+                "explanation": "[ing.] ictimai binalarda istirahət vəya gözləmə üçün böyük otaq",
                 "isPanagram": false,
                 "score": 1,
-                "length": 4
+                "length": 4,
+                "id": 5
             },
             {
-                "word": "ƏDAT",
-                "explanation": "is. [ər.] 1. qram. müstəqil mənasıolmayan",
-                "isPanagram": false,
-                "score": 1,
-                "length": 4
-            },
-            {
-                "word": "TALA",
-                "explanation": "is. meşədə ağacsız",
-                "isPanagram": false,
-                "score": 1,
-                "length": 4
-            },
-            {
-                "word": "TAZI",
-                "explanation": "is. bərkqaçan",
-                "isPanagram": false,
-                "score": 1,
-                "length": 4
-            },
-            {
-                "word": "TƏLƏ",
-                "explanation": "is. vəhşi və ov heyvanlarını və yaquşları",
-                "isPanagram": false,
-                "score": 1,
-                "length": 4
-            },
-            {
-                "word": "TƏLL",
-                "explanation": "is. uzun təpə. [bəxtiyar] gözünüaçanda gördü",
-                "isPanagram": false,
-                "score": 1,
-                "length": 4
-            },
-            {
-                "word": "TƏZƏ",
-                "explanation": "sif. [fars.] yeni. aptekdən *** dərmangətirmişdilər. c.məmmədquluzadə. [gülyaz:]kəndimizə xəbər yayılıb ki",
-                "isPanagram": false,
-                "score": 1,
-                "length": 4
-            },
-            {
-                "word": "ATALI",
-                "explanation": "sif. atası olan. *** uşaq. ***(z.) böyümək",
+                "word": "ALLAH",
+                "explanation": "is. [ər.] 1. bütün kainatın yeganə yaradıcısı və idarə edəni; yaradan",
                 "isPanagram": false,
                 "score": 5,
-                "length": 5
+                "length": 5,
+                "id": 6
             },
             {
-                "word": "ATLAZ",
-                "explanation": "is. [ər.] 1. üzü hamar",
+                "word": "HALAL",
+                "explanation": "sif. [ər.] 1. islam dininin ehkamlarınagörə yeyilməsinə",
                 "isPanagram": false,
                 "score": 5,
-                "length": 5
+                "length": 5,
+                "id": 7
             },
             {
-                "word": "TƏLƏT",
-                "explanation": "is. [ər.] 1. üz",
+                "word": "HAMAM",
+                "explanation": "is. [ər.] çimmək üçün isti və soyuqsuyu olan xüsusi bina. şəhər ***ları.məhəllə ***ı. – [məşədi qəzənfər:] dahakim deyə bilər ki",
                 "isPanagram": false,
                 "score": 5,
-                "length": 5
+                "length": 5,
+                "id": 8
             },
             {
-                "word": "TƏZAD",
-                "explanation": "is. [ər.] 1. ziddiyyət",
+                "word": "HAMAR",
+                "explanation": "sif. [fars.] 1. girintisi-çıxıntısı",
                 "isPanagram": false,
                 "score": 5,
-                "length": 5
+                "length": 5,
+                "id": 9
             },
             {
-                "word": "ƏDALƏT",
-                "explanation": "is. [ər.] 1. haqq və düzgünlük prinsiplərinə riayət. ***ə riayət etmək. ictimai ***. *** hissini itirmək",
+                "word": "HARAM",
+                "explanation": "sif. [ər.] 1. islam dininin ehkamlarınagörə yeyilməsinə",
                 "isPanagram": false,
-                "score": 6,
-                "length": 6
+                "score": 5,
+                "length": 5,
+                "id": 10
             },
             {
-                "word": "ƏLALTI",
-                "explanation": "1. sif. və is. əl altında işləyən",
+                "word": "HORRA",
+                "explanation": "is. 1. müxtəlif maddələrdən ibarətsıyıq kütlə. [qurban:] qanın qaralmasın",
                 "isPanagram": false,
-                "score": 6,
-                "length": 6
+                "score": 5,
+                "length": 5,
+                "id": 11
             },
             {
-                "word": "ƏTALƏT",
-                "explanation": "is. [ər.] hərəkətsizlik",
+                "word": "MAHAL",
+                "explanation": "is. [ər. məhəll] tar. dövlət ərazisininmüəyyən idarəçilik sahəsi (inzibatisiyasi",
                 "isPanagram": false,
-                "score": 6,
-                "length": 6
+                "score": 5,
+                "length": 5,
+                "id": 12
             },
             {
-                "word": "LƏZZƏT",
-                "explanation": "is. [ər.] 1. yeyilən",
+                "word": "MAHNA",
+                "explanation": "is. dan. bəhanə. *** axtarmaq.*** tapmaq. – qızıldan tanası var;əlində hanası var; gözləyirəm",
                 "isPanagram": false,
-                "score": 6,
-                "length": 6
+                "score": 5,
+                "length": 5,
+                "id": 13
             },
             {
-                "word": "ALATALA",
-                "explanation": "sif. tala-tala",
+                "word": "NAHAR",
+                "explanation": "is. [ər. nəhar] 1. günorta yeməyi.*** etmək. – mirzə iştahasız *** yeyibyatmaq istədi. ə.haqverdiyev",
                 "isPanagram": false,
-                "score": 7,
-                "length": 7
+                "score": 5,
+                "length": 5,
+                "id": 14
             },
             {
-                "word": "DƏLALƏT",
-                "explanation": "is. [ər.] 1. dəlil",
-                "isPanagram": false,
-                "score": 7,
-                "length": 7
-            },
-            {
-                "word": "DIZILTI",
-                "explanation": "is. dız-dız səsi. [ovçu qasım:]gördüm kolun altında bir kor sərçə oturub",
-                "isPanagram": false,
-                "score": 7,
-                "length": 7
-            },
-            {
-                "word": "ZƏLALƏT",
-                "explanation": "is. [ər.] klas. doğru yoldanazma",
+                "word": "NAHAMAR",
+                "explanation": "sif. [fars. nahəmvar] 1. kələkötür",
                 "isPanagram": false,
                 "score": 7,
-                "length": 7
+                "length": 7,
+                "id": 15
             },
             {
-                "word": "ƏDLƏDALƏT",
-                "explanation": "is. [ər.] bax ədalət.[şah:] cəm olaq",
+                "word": "HALLANMA",
+                "explanation": "“***q”dan f.is. ismin***sı",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 16
+            },
+            {
+                "word": "HAMARLAMA",
+                "explanation": "“***q”dan f.is.istifadəyə verilən sahələrdə əsaslı surətdə*** işləri görülür",
                 "isPanagram": false,
                 "score": 9,
-                "length": 9
+                "length": 9,
+                "id": 17
             },
             {
-                "word": "TƏZADLI",
-                "explanation": "sif. ziddiyyətli",
+                "word": "HORMONAL",
+                "explanation": "sif. [yun.] fiziol. tərkibindəhormon olan",
                 "isPanagram": true,
                 "score": 17,
-                "length": 7
+                "length": 8,
+                "id": 18
             }
         ]
     }

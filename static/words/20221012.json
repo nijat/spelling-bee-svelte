@@ -2,457 +2,397 @@
     "gameData": {
         "day": "20221012",
         "expiration": "1665611940",
-        "centerLetter": "M",
+        "centerLetter": "S",
         "outerLetters": [
-            "İ",
-            "Ə",
-            "Ş",
+            "N",
+            "I",
+            "M",
             "L",
-            "R",
-            "D"
+            "A",
+            "Q"
         ],
         "words_info": {
-            "word_count": 61,
-            "sum_score": 303,
+            "word_count": 46,
+            "sum_score": 256,
             "panagram_count": 1,
             "word_length": {
-                "6": 12,
-                "5": 18,
-                "7": 9,
-                "10": 1,
-                "4": 16,
-                "8": 3,
-                "15": 1,
-                "11": 1
+                "4": 9,
+                "7": 7,
+                "5": 14,
+                "8": 8,
+                "6": 6,
+                "9": 1,
+                "10": 1
             }
         },
         "words": [
             {
-                "word": "ƏDƏM",
-                "explanation": "is. [ər.] klas. yoxluq. yəni ki",
+                "word": "ASAN",
+                "explanation": "sif. zəhmət tələb etməyən",
                 "isPanagram": false,
                 "score": 1,
-                "length": 4
+                "length": 4,
+                "id": 1
             },
             {
-                "word": "ƏLƏM",
-                "explanation": "is. [ər.] dərd",
+                "word": "ASQI",
+                "explanation": "is. paltar və ya başqa şeylər asmağaməxsus alət. bu paltarlı skeletin iti çiyinsümükləri *** kimi ağ abanı saxlayır",
                 "isPanagram": false,
                 "score": 1,
-                "length": 4
+                "length": 4,
+                "id": 2
             },
             {
-                "word": "ƏMƏL",
-                "explanation": "is. [ər.] qayə",
+                "word": "ASMA",
+                "explanation": "1. “***q”dan f.is.2. sif. bir yerdən asılan",
                 "isPanagram": false,
                 "score": 1,
-                "length": 4
+                "length": 4,
+                "id": 3
             },
             {
-                "word": "ƏMİR",
-                "explanation": "sif. [ər.] 1. bir tayfanın və ya ölkəninbaşçısı. qəbilənin ***i. – şairin qəzəllərinəməftun olmuş dərbənd ***i onubu xaraba kənddən öz sarayına d",
+                "word": "QISA",
+                "explanation": "sif. 1. boyca gödək",
                 "isPanagram": false,
                 "score": 1,
-                "length": 4
+                "length": 4,
+                "id": 4
             },
             {
-                "word": "ƏMİŞ",
-                "explanation": "is. 1. əmmək işi",
+                "word": "MASA",
+                "explanation": "is. [rumıncadan] miz",
                 "isPanagram": false,
                 "score": 1,
-                "length": 4
+                "length": 4,
+                "id": 5
             },
             {
-                "word": "ƏMMƏ",
-                "explanation": "is. [ər.] klas. bibi. aya",
+                "word": "SAAM",
+                "explanation": "is. kola yarımadasında",
                 "isPanagram": false,
                 "score": 1,
-                "length": 4
+                "length": 4,
+                "id": 6
             },
             {
-                "word": "LƏMƏ",
-                "explanation": "is. tavandan bir az aşağı divaruzunu kərpicdən",
+                "word": "SAQA",
+                "explanation": "is. ədəb. nəsrlə yazılmış qədim islandəsərləri",
                 "isPanagram": false,
                 "score": 1,
-                "length": 4
+                "length": 4,
+                "id": 7
             },
             {
-                "word": "MƏDD",
-                "explanation": "is. [ər.] 1. coğr. köhn. bax qabarma2(cəzr müqabili).2. ərəb əlifbasında əlifin (“ ”) “a” kimioxunması üçün üstünə qoyulan diakritikişarə (~)",
+                "word": "SALI",
+                "explanation": "is. həftənin ikinci günü",
                 "isPanagram": false,
                 "score": 1,
-                "length": 4
+                "length": 4,
+                "id": 8
             },
             {
-                "word": "MƏDƏ",
-                "explanation": "is. [ər. midə] anat. insanda və heyvanlardaqarın boşluğunun yuxarı hissəsindəyerləşən həzm orqanı. *** ağrısı",
+                "word": "SAMI",
+                "explanation": "is. boyunduruğun hər iki ucundakıqoşa deşiklərə salınan nazik ağac. [salmanəmi] arabaçının *** qayırmaq üçün ağacaxtardığını bilib sakit oldu",
                 "isPanagram": false,
                 "score": 1,
-                "length": 4
+                "length": 4,
+                "id": 9
             },
             {
-                "word": "MƏLƏ",
-                "explanation": "is. 1. zool. çox bərk sancan qanadsız",
-                "isPanagram": false,
-                "score": 1,
-                "length": 4
-            },
-            {
-                "word": "MƏMƏ",
-                "explanation": "is. məc. ana. [şərəfnisə xanım:]əgər ***m deyən dərviş olmasaydı",
-                "isPanagram": false,
-                "score": 1,
-                "length": 4
-            },
-            {
-                "word": "MƏRD",
-                "explanation": "is. [fars.] 1. kişi. çarpışmaq üçün lazım ikən ***ə cəsarət; bilməm neçin olmuş sana qalib əsəbiyyət",
-                "isPanagram": false,
-                "score": 1,
-                "length": 4
-            },
-            {
-                "word": "MƏRƏ",
-                "explanation": "is. ***-*** oyunu üçün qazılançuxur",
-                "isPanagram": false,
-                "score": 1,
-                "length": 4
-            },
-            {
-                "word": "RƏMƏ",
-                "explanation": "is. [fars.] sürü. qoyun sürüsü",
-                "isPanagram": false,
-                "score": 1,
-                "length": 4
-            },
-            {
-                "word": "RƏML",
-                "explanation": "is. [ər.] rəmmalların qum üzərində müxtəlif işarələr çəkərək və ya başqa üsullarla fala baxıb gələcəkdən xəbər verməsi",
-                "isPanagram": false,
-                "score": 1,
-                "length": 4
-            },
-            {
-                "word": "ŞƏRM",
-                "explanation": "is. [fars.] klas. abır",
-                "isPanagram": false,
-                "score": 1,
-                "length": 4
-            },
-            {
-                "word": "DƏLMƏ",
-                "explanation": "1. “***k”dən f.is. *** aləti.2. is. divarda açılmış kiçik taxça. içəridəkahanın divarlarında böyüklü-kiçikli beş*** gözə çarpırdı",
+                "word": "ASILI",
+                "explanation": "sif. 1. asılmış halda olan",
                 "isPanagram": false,
                 "score": 5,
-                "length": 5
+                "length": 5,
+                "id": 10
             },
             {
-                "word": "DƏMİR",
-                "explanation": "is. 1. təbiətdə çox yayılmış",
+                "word": "ASLAN",
+                "explanation": "is. 1. şir",
                 "isPanagram": false,
                 "score": 5,
-                "length": 5
+                "length": 5,
+                "id": 11
             },
             {
-                "word": "DƏMLİ",
-                "explanation": "sif. 1. dəm almış",
+                "word": "QASIQ",
+                "explanation": "is. anat. qarnın iki bud arasındaolan alt tərəfi",
                 "isPanagram": false,
                 "score": 5,
-                "length": 5
+                "length": 5,
+                "id": 12
             },
             {
-                "word": "DƏRMƏ",
-                "explanation": "1. “***k”dən f.is.2. sif. dərilmiş",
+                "word": "QISIQ",
+                "explanation": "sif. 1. qısılmış",
                 "isPanagram": false,
                 "score": 5,
-                "length": 5
+                "length": 5,
+                "id": 13
             },
             {
-                "word": "DİLİM",
-                "explanation": "is. uzununa dil kimi kəsilmiş parça",
+                "word": "QISQI",
+                "explanation": "is. 1. tələsdirmə",
                 "isPanagram": false,
                 "score": 5,
-                "length": 5
+                "length": 5,
+                "id": 14
             },
             {
-                "word": "ƏMƏLƏ",
-                "explanation": "is. [ər.] fəhlə",
+                "word": "MASAL",
+                "explanation": "is. nağıl",
                 "isPanagram": false,
                 "score": 5,
-                "length": 5
+                "length": 5,
+                "id": 15
             },
             {
-                "word": "ƏMƏLİ",
-                "explanation": "sif. 1. icrası (tətbiqi) lazım olan",
+                "word": "SAQQA",
+                "explanation": "is. [ər.] köhn. keçmişdə dalında",
                 "isPanagram": false,
                 "score": 5,
-                "length": 5
+                "length": 5,
+                "id": 16
             },
             {
-                "word": "ƏMİRİ",
-                "explanation": "sif. 1. əmirə mənsub",
+                "word": "SALAM",
+                "explanation": "is. [ər.] görüşərkən bir-birinə sülhvə əmin-amanlıq diləmək ifadəsi. □ ***e(y)ləmək klas. – ***lamaq",
                 "isPanagram": false,
                 "score": 5,
-                "length": 5
+                "length": 5,
+                "id": 17
             },
             {
-                "word": "ƏRDƏM",
-                "explanation": "is. dan. hövsələ",
+                "word": "SALIQ",
+                "explanation": "is. xəbər",
                 "isPanagram": false,
                 "score": 5,
-                "length": 5
+                "length": 5,
+                "id": 18
             },
             {
-                "word": "MƏDƏD",
-                "explanation": "[ər.] 1. is. kömək",
+                "word": "SAMAN",
+                "explanation": "is. [fars.] var",
                 "isPanagram": false,
                 "score": 5,
-                "length": 5
+                "length": 5,
+                "id": 19
             },
             {
-                "word": "MƏLƏR",
-                "explanation": "1. sif. ağlar",
+                "word": "SANLI",
+                "explanation": "sif. sayılmış",
                 "isPanagram": false,
                 "score": 5,
-                "length": 5
+                "length": 5,
+                "id": 20
             },
             {
-                "word": "MƏMƏŞ",
-                "explanation": "is. uş. məmə",
+                "word": "SINAQ",
+                "explanation": "is. sınama işi",
                 "isPanagram": false,
                 "score": 5,
-                "length": 5
+                "length": 5,
+                "id": 21
             },
             {
-                "word": "MƏRMİ",
-                "explanation": "is. [ər.] top kimi silahların gülləsi.birdən top ***si partladı",
+                "word": "SINIQ",
+                "explanation": "sif. 1. sınmış halda olan; qırıq. *** dolça. *** boşqab. *** güzgü. *** maşın. – mirbalayev oturduğu *** taburetdən qalxaraq gəzinməyə başla",
                 "isPanagram": false,
                 "score": 5,
-                "length": 5
+                "length": 5,
+                "id": 22
             },
             {
-                "word": "MƏŞƏL",
-                "explanation": "is. [ər.] 1. ətrafı işıqlandırmaqüçün ağac və s. başına sarınaraq",
+                "word": "SISQA",
+                "explanation": "sif. cılız",
                 "isPanagram": false,
                 "score": 5,
-                "length": 5
+                "length": 5,
+                "id": 23
             },
             {
-                "word": "MİLƏL",
-                "explanation": "is. [ər. “millət” söz. cəmi] millətlər.sair *** övrətlə ədalət edir",
-                "isPanagram": false,
-                "score": 5,
-                "length": 5
-            },
-            {
-                "word": "MİLLİ",
-                "explanation": "sif. 1. üzərində milləri olan",
-                "isPanagram": false,
-                "score": 5,
-                "length": 5
-            },
-            {
-                "word": "RƏMƏL",
-                "explanation": "is. [ər.] əruz vəznində şeir forması.mikayıl müşfiq heca vəzninin bütünbölgülərində (üç hecalıdan tutmuş iyirmi hecalıyaqədər)",
-                "isPanagram": false,
-                "score": 5,
-                "length": 5
-            },
-            {
-                "word": "RƏŞMƏ",
-                "explanation": "is. lent. bizim ağ *** kimiburularaq gedən yollar xeyli uzaqlara qədəriki tərəfdən uca ağaclarla əhatə olunmuşdur",
-                "isPanagram": false,
-                "score": 5,
-                "length": 5
-            },
-            {
-                "word": "DƏLƏMƏ",
-                "explanation": "is. pendir halına keçmək üzrəolan süd",
+                "word": "QASNAQ",
+                "explanation": "is. 1. sağalmaq üzrə olan yaranınüzündə əmələ gələn qabıq",
                 "isPanagram": false,
                 "score": 6,
-                "length": 6
+                "length": 6,
+                "id": 24
             },
             {
-                "word": "DƏMİRİ",
-                "explanation": "sif. dəmir rəngli",
+                "word": "QISNAQ",
+                "explanation": "1. is. çox çətin girilə bilən yer.2. sif. tələsik",
                 "isPanagram": false,
                 "score": 6,
-                "length": 6
+                "length": 6,
+                "id": 25
             },
             {
-                "word": "DİŞLƏM",
-                "explanation": "is. bax dişlək 1 və 2-ci mənalarda.□ ***-*** etmək – hər yerini***ək",
+                "word": "SAQQAL",
+                "explanation": "is. 1. kişilərin üzündə və alt çənələrinin üstündə bitən tüklər. uzun ***. *** qoymaq. – [məşədi ibad:] hə… çünki mən ***ıma həna qoyuram",
                 "isPanagram": false,
                 "score": 6,
-                "length": 6
+                "length": 6,
+                "id": 26
             },
             {
-                "word": "ƏLƏMLİ",
-                "explanation": "sif. qəmli",
+                "word": "SALLAQ",
+                "explanation": "sif. sallanmış halda olan",
                 "isPanagram": false,
                 "score": 6,
-                "length": 6
+                "length": 6,
+                "id": 27
             },
             {
-                "word": "ƏLLƏMƏ",
-                "explanation": "is. məh. daş",
+                "word": "SAMANI",
+                "explanation": "sif. saman rəngində",
                 "isPanagram": false,
                 "score": 6,
-                "length": 6
+                "length": 6,
+                "id": 28
             },
             {
-                "word": "ƏMƏLLİ",
-                "explanation": "sif. və zərf yaxşı",
+                "word": "SANILI",
+                "explanation": "sif. sayılmış",
                 "isPanagram": false,
                 "score": 6,
-                "length": 6
+                "length": 6,
+                "id": 29
             },
             {
-                "word": "LƏMƏLİ",
-                "explanation": "sif. ləməsi olan; rəfli. ***otaq",
-                "isPanagram": false,
-                "score": 6,
-                "length": 6
-            },
-            {
-                "word": "MƏLƏMƏ",
-                "explanation": "“***k”dən f.is. bu haldaqızıl inəyin ***si qızxanımın qulağınaçatdı. s.s.axundov",
-                "isPanagram": false,
-                "score": 6,
-                "length": 6
-            },
-            {
-                "word": "MƏMƏLİ",
-                "explanation": "sif. məməsi olan. □ ***heyvanlar – bax ***lər. soyuq ölkələrdəyaşayan *** heyvanların dərilərindəkitük həm sıx",
-                "isPanagram": false,
-                "score": 6,
-                "length": 6
-            },
-            {
-                "word": "MƏRMƏR",
-                "explanation": "is. [lat.] 1. heykəltəraşlıqda vəmemarlıqda işlənən müxtəlif rəngli kristallikdağ süxuru – kirəc daş",
-                "isPanagram": false,
-                "score": 6,
-                "length": 6
-            },
-            {
-                "word": "MƏŞƏDİ",
-                "explanation": "is. [iranda xorasan – məşhədşəhərinin adından] din. keçmişdə məşhədəgedib “müqəddəs” yerləri ziyarət edən adamaverilən ad (çox vaxt adın qabağında",
-                "isPanagram": false,
-                "score": 6,
-                "length": 6
-            },
-            {
-                "word": "ŞƏMŞİR",
-                "explanation": "is. [fars.] qılınc. iş atışmadan ötüb",
-                "isPanagram": false,
-                "score": 6,
-                "length": 6
-            },
-            {
-                "word": "DƏMİRLİ",
-                "explanation": "sif. kim. tərkibində dəmirolan. bu [mineral] sular kimyəvi tərkiblərinəgörə ***",
+                "word": "ASANLIQ",
+                "explanation": "is. asan şeyin halı; yüngüllük(çətinlik ziddi). məsələnin asanlığı. təlimüsulunun asanlığı",
                 "isPanagram": false,
                 "score": 7,
-                "length": 7
+                "length": 7,
+                "id": 30
             },
             {
-                "word": "DİDİŞMƏ",
-                "explanation": "1. “***k”dən f.is.2. is. məc. dava",
+                "word": "ASILQAN",
+                "explanation": "is. zəncirə bağlanmış qiymətlidaş",
                 "isPanagram": false,
                 "score": 7,
-                "length": 7
+                "length": 7,
+                "id": 31
             },
             {
-                "word": "DİLİMLİ",
-                "explanation": "sif. dilimi olan",
+                "word": "ASMALIQ",
+                "explanation": "1. sif. bandaq vurulmağa",
                 "isPanagram": false,
                 "score": 7,
-                "length": 7
+                "length": 7,
+                "id": 32
             },
             {
-                "word": "DİMDİRİ",
-                "explanation": "sif. çox diri",
+                "word": "QISALIQ",
+                "explanation": "is. qısa şeyin halı; gödəklik(uzunluq ziddi). paltarın qısalığı. söhbətinqısalığı. cavabın qısalığı",
                 "isPanagram": false,
                 "score": 7,
-                "length": 7
+                "length": 7,
+                "id": 33
             },
             {
-                "word": "DİŞLƏMƏ",
-                "explanation": "“***k”dən f.is.□ *** çay – kiçik qənd parçası və ya şirni ilə içilən çay; acı çay. dustaqların hərəsinə bir yekə qara çörək ilə bir stəkan diş",
+                "word": "SALLAMA",
+                "explanation": "1. “***q”dan f.is.2. zərf bir ucunu aşağı salladaraq",
                 "isPanagram": false,
                 "score": 7,
-                "length": 7
+                "length": 7,
+                "id": 34
             },
             {
-                "word": "MƏLƏŞMƏ",
-                "explanation": "“***k”dən f.is. qoyun***si",
+                "word": "SAMANLI",
+                "explanation": "sif. 1. saman qarışdırılmış",
                 "isPanagram": false,
                 "score": 7,
-                "length": 7
+                "length": 7,
+                "id": 35
             },
             {
-                "word": "MƏŞƏLLİ",
-                "explanation": "sif. əlində məşəl olan",
+                "word": "SINAQLI",
+                "explanation": "sif. təcrübəli",
                 "isPanagram": false,
                 "score": 7,
-                "length": 7
+                "length": 7,
+                "id": 36
             },
             {
-                "word": "MİLƏMİL",
-                "explanation": "sif. milləri olan",
-                "isPanagram": false,
-                "score": 7,
-                "length": 7
-            },
-            {
-                "word": "MİLLƏMƏ",
-                "explanation": "1. “***k”dən f. is.2. zərf mil kimi",
-                "isPanagram": false,
-                "score": 7,
-                "length": 7
-            },
-            {
-                "word": "ƏRİDİLMƏ",
-                "explanation": "“***k”dən f.is. poladın***si yeni üsulla – sürətli əritmə üsuluilə başa çatacaqdır. (qəzetlərdən)",
+                "word": "ASILILIQ",
+                "explanation": "is. 1. birinin iradəsinə",
                 "isPanagram": false,
                 "score": 8,
-                "length": 8
+                "length": 8,
+                "id": 37
             },
             {
-                "word": "MƏRƏMƏRƏ",
-                "explanation": "is. qoz",
+                "word": "QASNAQLI",
+                "explanation": "sif. üzündə qasnaq olan",
                 "isPanagram": false,
                 "score": 8,
-                "length": 8
+                "length": 8,
+                "id": 38
             },
             {
-                "word": "ŞİRƏLƏMƏ",
-                "explanation": "“***k”dən f.is. ***işi",
+                "word": "QISIQLIQ",
+                "explanation": "is. 1. qısılmış (sıxılmış) şeyinhalı.2. boğuqluq",
                 "isPanagram": false,
                 "score": 8,
-                "length": 8
+                "length": 8,
+                "id": 39
             },
             {
-                "word": "DİLİMDİLİM",
-                "explanation": "zərf və sif. dilimlər halında",
+                "word": "QISQANAN",
+                "explanation": "f.sif. bax qısqanc. mənimrəhmətlik ərim də çox *** adamdı.m.s.ordubadi",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 40
+            },
+            {
+                "word": "SAQQALLI",
+                "explanation": "sif. 1. saqqalı olan",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 41
+            },
+            {
+                "word": "SINIQLIQ",
+                "explanation": "is. 1. sınıq şeyin halı",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 42
+            },
+            {
+                "word": "SISQALIQ",
+                "explanation": "is. cılızlıq",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 43
+            },
+            {
+                "word": "SALLAQLIQ",
+                "explanation": "is. sallaq şeyin halı; sallanmışhalda olma",
+                "isPanagram": false,
+                "score": 9,
+                "length": 9,
+                "id": 44
+            },
+            {
+                "word": "SINIQSINIQ",
+                "explanation": "sif. və zərf sınıq",
                 "isPanagram": false,
                 "score": 10,
-                "length": 10
+                "length": 10,
+                "id": 45
             },
             {
-                "word": "ŞİŞİRDİLMİŞ",
-                "explanation": "sif. 1. şişkin hala gətirilmiş",
-                "isPanagram": false,
-                "score": 11,
-                "length": 11
-            },
-            {
-                "word": "MİLLİLƏŞDİRİLMƏ",
-                "explanation": "“***k”dən f.is. neft sənayesinin ***si haqqında iyunun 2-də verilən dekret bakıda mühüm bir hadisə kimi qarşılandı",
+                "word": "SAMANLIQ",
+                "explanation": "is. 1. saman yığılan yer",
                 "isPanagram": true,
                 "score": 17,
-                "length": 15
+                "length": 8,
+                "id": 46
             }
         ]
     }

@@ -2,203 +2,203 @@
     "gameData": {
         "day": "20221029",
         "expiration": "1667080740",
-        "centerLetter": "N",
+        "centerLetter": "İ",
         "outerLetters": [
-            "A",
-            "O",
-            "Y",
+            "G",
+            "N",
             "T",
-            "R",
-            "Ğ"
+            "F",
+            "A",
+            "R"
         ],
         "words_info": {
-            "word_count": 25,
-            "sum_score": 140,
+            "word_count": 22,
+            "sum_score": 115,
             "panagram_count": 1,
             "word_length": {
-                "6": 6,
-                "7": 4,
+                "6": 2,
+                "4": 5,
+                "8": 2,
                 "5": 9,
-                "4": 4,
-                "9": 1,
-                "10": 1
+                "7": 4
             }
         },
         "words": [
             {
-                "word": "ARAN",
-                "explanation": "is. azərbaycanda: yaylaq yerlərənisbətən alçaq və iqlimcə isti olan yerlər.azərbaycanın əsas *** yerləri muğan",
+                "word": "ARİF",
+                "explanation": "sif. [ər.] bilən",
                 "isPanagram": false,
                 "score": 1,
-                "length": 4
+                "length": 4,
+                "id": 1
             },
             {
-                "word": "AYNA",
-                "explanation": "is. [fars.] 1. güzgü. ***nın çatdığıcalaq qəbul eləməz. (ata. sözü). əgərbilmək istəyirsiniz ki",
+                "word": "FANİ",
+                "explanation": "sif. [ər.] həmişəlik olmayan",
                 "isPanagram": false,
                 "score": 1,
-                "length": 4
+                "length": 4,
+                "id": 2
             },
             {
-                "word": "NOTA",
-                "explanation": "[lat. *** – işarə",
+                "word": "FİTR",
+                "explanation": "is. [ər.] orucdan çıxma",
                 "isPanagram": false,
                 "score": 1,
-                "length": 4
+                "length": 4,
+                "id": 3
             },
             {
-                "word": "TANA",
-                "explanation": "is. 1. sırğa. qızıl ***. – qızıl üzük",
+                "word": "TİNG",
+                "explanation": "is. calaq vasitəsilə yetişdirilən ağacşitili. alma ***i. – tikinti rəisi hələ yazdaqubadan və başqa rayonlardan xeyli ağac***ləri gətirib küçələr",
                 "isPanagram": false,
                 "score": 1,
-                "length": 4
+                "length": 4,
+                "id": 4
             },
             {
-                "word": "ANTON",
-                "explanation": "*** alması [xüs. is.-dən] – payızda yetişən yaşıl-sarı rəngli",
+                "word": "TİTR",
+                "explanation": "[fr.] 1. kinolentdə yazı",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 5
+            },
+            {
+                "word": "FİRNİ",
+                "explanation": "is. düyü unu və şəkərdən hazırlanandesert yeməyi. axşam azanı deyilənkimi",
                 "isPanagram": false,
                 "score": 5,
-                "length": 5
+                "length": 5,
+                "id": 6
             },
             {
-                "word": "ARTAN",
-                "explanation": "f.sif. getdikcə çoxalan",
+                "word": "FİTRİ",
+                "explanation": "sif. [ər.] xilqətində",
                 "isPanagram": false,
                 "score": 5,
-                "length": 5
+                "length": 5,
+                "id": 7
             },
             {
-                "word": "AYRAN",
-                "explanation": "is. yağı alınıb su qarışdırılmışqatıq. heç kəs öz ***ına turş deməz. (ata.sözü). masanın üzərində böyük bir mətərəbuzlu *** qoyulmuşdu",
+                "word": "GİRGİ",
+                "explanation": "is. dan. sancı",
                 "isPanagram": false,
                 "score": 5,
-                "length": 5
+                "length": 5,
+                "id": 8
             },
             {
-                "word": "NANAY",
-                "explanation": "is. uzaq şərqdə yaşayan xalq;həmin xalqa mənsub olan adam",
+                "word": "NİGAR",
+                "explanation": "is. [fars.] əsil mənası “rəsm”",
                 "isPanagram": false,
                 "score": 5,
-                "length": 5
+                "length": 5,
+                "id": 9
             },
             {
-                "word": "OYNAR",
-                "explanation": "sif. 1. oynayan",
+                "word": "NİNNİ",
+                "explanation": "is. layla",
                 "isPanagram": false,
                 "score": 5,
-                "length": 5
+                "length": 5,
+                "id": 10
             },
             {
-                "word": "RAYON",
-                "explanation": "is. [fr.] 1. bir ərazinin hər hansı bir coğrafi",
+                "word": "RATİN",
+                "explanation": "[fr.] üz tərəfində burulmuş xovlarıolan üst paltarlıq yun parça. 5 metr ***.// həmin parçadan tikilmiş",
                 "isPanagram": false,
                 "score": 5,
-                "length": 5
+                "length": 5,
+                "id": 11
             },
             {
-                "word": "TORAN",
-                "explanation": "is. 1. səhər hava işıqlanan və yaaxşam hava qaralmağa başlayan vaxt; alaqaranlıq.axşam ***ı. – [kazım] səhər ***ındameşəyə girdi",
+                "word": "TANİN",
+                "explanation": "is. [fr.] dəri aşılanmasında",
                 "isPanagram": false,
                 "score": 5,
-                "length": 5
+                "length": 5,
+                "id": 12
             },
             {
-                "word": "TORNA",
-                "explanation": "[ital.] tex. metal",
+                "word": "TARİF",
+                "explanation": "[fr.] rəsmən müəyyən edilmişödünc",
                 "isPanagram": false,
                 "score": 5,
-                "length": 5
+                "length": 5,
+                "id": 13
             },
             {
-                "word": "YANAR",
-                "explanation": "sif. odpüskürən",
+                "word": "TİRAN",
+                "explanation": "is. [yun.] 1. qədim yunanıstandavə xııı-xvı əsrlərdə italiyada hakimiyyətizorla ələ keçirən şəxs.2",
                 "isPanagram": false,
                 "score": 5,
-                "length": 5
+                "length": 5,
+                "id": 14
             },
             {
-                "word": "AĞARAN",
-                "explanation": "f.sif. 1. uzaqdan görünən",
+                "word": "ANGİNA",
+                "explanation": "[lat.] tib. əsnəyin selikli qişasınınvə xüsusən badamcıqların iltihabı.*** oynaq",
                 "isPanagram": false,
                 "score": 6,
-                "length": 6
+                "length": 6,
+                "id": 15
             },
             {
-                "word": "ATAANA",
-                "explanation": "is. öz övladına münasibətdəkişi və qadın; valideyn. ata-analar öz uşaqlarınıntərbiyəsinə fikir verməlidirlər",
+                "word": "NİFRİN",
+                "explanation": "is. [ər.] lənət",
                 "isPanagram": false,
                 "score": 6,
-                "length": 6
+                "length": 6,
+                "id": 16
             },
             {
-                "word": "NAĞARA",
-                "explanation": "is. hər iki üzünə dəri çəkilmişsilindrik gövdəli zərb musiqi aləti. ***çalmaq. – kəndin yuxarı tərəfində qarazurnamələyir",
-                "isPanagram": false,
-                "score": 6,
-                "length": 6
-            },
-            {
-                "word": "YANTAY",
-                "explanation": "is. dan. yağışdan",
-                "isPanagram": false,
-                "score": 6,
-                "length": 6
-            },
-            {
-                "word": "YARĞAN",
-                "explanation": "is. müvəqqəti su axınlarınınəmələ gətirdiyi dikyamaclı çuxur",
-                "isPanagram": false,
-                "score": 6,
-                "length": 6
-            },
-            {
-                "word": "YORĞAN",
-                "explanation": "is. yatanda örtünmək üçün içiyunlu və ya pambıqlı geniş örtü. qalın ***.yun ***. üstünə *** örtmək",
-                "isPanagram": false,
-                "score": 6,
-                "length": 6
-            },
-            {
-                "word": "AĞAYANA",
-                "explanation": "sif. və zərf 1. ağa kimi",
+                "word": "GİRİNTİ",
+                "explanation": "is. hamar olmayan səthdə ikiçıxıntının arası; çuxur",
                 "isPanagram": false,
                 "score": 7,
-                "length": 7
+                "length": 7,
+                "id": 17
             },
             {
-                "word": "OYNAĞAN",
-                "explanation": "sif. və is. çox oynayan",
+                "word": "NARİNGİ",
+                "explanation": "is. portağala oxşayan ətirli sitrusmeyvəsi və bu meyvənin həmişəyaşıl ağacı;mandarin. leyla gülümsünüb masanın üstünəçörək",
                 "isPanagram": false,
                 "score": 7,
-                "length": 7
+                "length": 7,
+                "id": 18
             },
             {
-                "word": "YARANAN",
-                "explanation": "f.sif. yaradılmış",
+                "word": "NİGARAN",
+                "explanation": "sif. və zərf [fars.] təşviş içində",
                 "isPanagram": false,
                 "score": 7,
-                "length": 7
+                "length": 7,
+                "id": 19
             },
             {
-                "word": "YATAĞAN",
-                "explanation": "is. ucu əyri xəncər. [xaqanın] yalnız qurşağındakı altun ***ı nəzəri cəlb edirdi… çəmənzəminli",
+                "word": "TİTANİT",
+                "explanation": "is. [yun.] şəffaf növləri yarımqiymətlidaş olan mineral",
                 "isPanagram": false,
                 "score": 7,
-                "length": 7
+                "length": 7,
+                "id": 20
             },
             {
-                "word": "YANARYANAR",
-                "explanation": "sif. yanmaqda olan. yenəməni yanar-yanar odlara; dağılmış ayrılıqsaldı",
+                "word": "GİRİFTAR",
+                "explanation": "sif. [fars.] tutulmuş",
                 "isPanagram": false,
-                "score": 10,
-                "length": 10
+                "score": 8,
+                "length": 8,
+                "id": 21
             },
             {
-                "word": "TOYNAĞARA",
-                "explanation": "is. toy büsatı; çalğı",
+                "word": "FARİNGİT",
+                "explanation": "is. [yun.] tib. udlağın selikliqişasının iltihabı. kəskin ***. xronik***",
                 "isPanagram": true,
                 "score": 17,
-                "length": 9
+                "length": 8,
+                "id": 22
             }
         ]
     }

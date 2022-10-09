@@ -2,204 +2,316 @@
     "gameData": {
         "day": "20221014",
         "expiration": "1665784740",
-        "centerLetter": "N",
+        "centerLetter": "D",
         "outerLetters": [
-            "İ",
-            "Ö",
+            "Ğ",
             "Ə",
+            "I",
             "L",
-            "K",
-            "H"
+            "A",
+            "R"
         ],
         "words_info": {
-            "word_count": 25,
-            "sum_score": 140,
-            "panagram_count": 2,
+            "word_count": 36,
+            "sum_score": 174,
+            "panagram_count": 1,
             "word_length": {
-                "6": 2,
-                "4": 7,
-                "7": 3,
-                "5": 8,
-                "8": 3,
-                "9": 1,
-                "10": 1
+                "4": 10,
+                "6": 7,
+                "5": 12,
+                "10": 1,
+                "7": 5,
+                "8": 1
             }
         },
         "words": [
             {
-                "word": "ƏKİN",
-                "explanation": "is. 1. taxıl",
+                "word": "ADLI",
+                "explanation": "sif. 1. müəyyən adı olan",
                 "isPanagram": false,
                 "score": 1,
-                "length": 4
+                "length": 4,
+                "id": 1
             },
             {
-                "word": "ƏNƏK",
-                "explanation": "is. 1. yük atı",
+                "word": "DARI",
+                "explanation": "is. yumru toxumları olan birillik taxılbitkisi və bu bitkinin dəni. *** əkini. – actoyuq yuxusunda *** görər",
                 "isPanagram": false,
                 "score": 1,
-                "length": 4
+                "length": 4,
+                "id": 2
             },
             {
-                "word": "ƏNİK",
-                "explanation": "sif. yırtıcı",
+                "word": "DƏDƏ",
+                "explanation": "is. 1. ata. *** görməyib",
                 "isPanagram": false,
                 "score": 1,
-                "length": 4
+                "length": 4,
+                "id": 3
             },
             {
-                "word": "ƏNİN",
-                "explanation": "is. [ər.] şair. inləmə",
+                "word": "DƏLƏ",
+                "explanation": "is. 1. zool. yırtıcılar dəstəsindənxəzdərili məməli kiçik heyvan. *** dərisi.2. həmin heyvanın dərisi",
                 "isPanagram": false,
                 "score": 1,
-                "length": 4
+                "length": 4,
+                "id": 4
             },
             {
-                "word": "KİNƏ",
-                "explanation": "is. əcz. *** ağacının qabığındanhasil edilən acıdadlı ağ toz dərman; isitmədərmanı. *** atmaq. – [heybət:] dünənyaxşı idim",
+                "word": "DƏRD",
+                "explanation": "is. [fars.] 1. qəm",
                 "isPanagram": false,
                 "score": 1,
-                "length": 4
+                "length": 4,
+                "id": 5
             },
             {
-                "word": "LƏİN",
-                "explanation": "sif. və is. [ər.] bax məlun. bu isə",
+                "word": "DƏRƏ",
+                "explanation": "is. 1. iki dağ və ya təpə arasında",
                 "isPanagram": false,
                 "score": 1,
-                "length": 4
+                "length": 4,
+                "id": 6
             },
             {
-                "word": "NƏNƏ",
-                "explanation": "is. 1. atanın",
+                "word": "DIĞA",
+                "explanation": "is. [erm.] dan. erməni uşağı",
                 "isPanagram": false,
                 "score": 1,
-                "length": 4
+                "length": 4,
+                "id": 7
             },
             {
-                "word": "ƏNƏNƏ",
-                "explanation": "is. [ər.] tarixən meydana gələrəknəsildən-nəslə keçən adətlər",
+                "word": "ƏDƏD",
+                "explanation": "is. [ər.] 1. say",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 8
+            },
+            {
+                "word": "RADƏ",
+                "explanation": "is. [ər.] vaxt bildirən rəqəmlərdən sonra gələrək həmin rəqəmin təxmini olduğunu göstərir (adətən “***ləri” və “***lərində” şəklində işlədilir)",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 9
+            },
+            {
+                "word": "RƏDD",
+                "explanation": "is. [ər.] qəbul etməmə",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 10
+            },
+            {
+                "word": "DADLI",
+                "explanation": "1. sif. yaxşı dadı olan",
                 "isPanagram": false,
                 "score": 5,
-                "length": 5
+                "length": 5,
+                "id": 11
             },
             {
-                "word": "ƏNLİK",
-                "explanation": "is. 1. qadınların yanaqlarına sürtdükləritoz və ya yağ halında olan kosmetikmaddə – al boya. *** vurmaq",
+                "word": "DAĞAL",
+                "explanation": "sif. və is. dan. cığal; davakar.*** adam. oyuna *** qatmaq (cığallıqeləmək)",
                 "isPanagram": false,
                 "score": 5,
-                "length": 5
+                "length": 5,
+                "id": 12
             },
             {
-                "word": "HƏNƏK",
-                "explanation": "is. [ər.] zarafat. əvvəli ***",
+                "word": "DAĞAR",
+                "explanation": "is. köhn. 1. qaramal dərisindənhazırlanan torba. köçəri skiflər dəri qab –xəz torba (***) və matra (suqabı) işlədirdilər",
                 "isPanagram": false,
                 "score": 5,
-                "length": 5
+                "length": 5,
+                "id": 13
             },
             {
-                "word": "KƏNƏK",
-                "explanation": "sif. 1. ləpəsi çətin çıxan. ***qoz.2. məc. çətinliklə başa gələn",
+                "word": "DAĞLI",
+                "explanation": "is. ***q yerdə yaşayan adam.burada ***lar yaşar bəxtiyar; qürurdanaralı",
                 "isPanagram": false,
                 "score": 5,
-                "length": 5
+                "length": 5,
+                "id": 14
             },
             {
-                "word": "KİNLİ",
-                "explanation": "sif. kin saxlayan. *** adam. –dəvə *** (z.) olar. (ata. sözü). [xalq] düşməninəqarşı ***",
+                "word": "DALDA",
+                "explanation": "1. sif. sığınmağa və ya gizlənməyəyarayan. *** yer. *** divar.– kosa boşalmış küçənin *** yeri ilə yeriyibat tövlələrinin yanına çatdı",
                 "isPanagram": false,
                 "score": 5,
-                "length": 5
+                "length": 5,
+                "id": 15
             },
             {
-                "word": "KÖHNƏ",
-                "explanation": "sif. [fars.] 1. uzun müddət işlənməkdən dağılmış",
+                "word": "DALĞA",
+                "explanation": "is. 1. su səthinin hərəkəti nəticəsində əmələ gələn böyük ləpə. dənizdə *** var. köpüklü ***lar. – qabağındakı daşlara toxunan ***ların hər biri",
                 "isPanagram": false,
                 "score": 5,
-                "length": 5
+                "length": 5,
+                "id": 16
             },
             {
-                "word": "NƏNNİ",
-                "explanation": "is. 1. körpə uşaqları yatırtmaq üçünasılan kiçik yatacaq. [qumru] uşağı ***yəsalıb küncə qısıldı",
+                "word": "DALLI",
+                "explanation": "sif. dalları (budaqları) olan. ***ağac",
                 "isPanagram": false,
                 "score": 5,
-                "length": 5
+                "length": 5,
+                "id": 17
             },
             {
-                "word": "NİNNİ",
-                "explanation": "is. layla",
+                "word": "DARĞA",
+                "explanation": "is. [monq.] 1. tar. şəhər",
                 "isPanagram": false,
                 "score": 5,
-                "length": 5
+                "length": 5,
+                "id": 18
             },
             {
-                "word": "ƏKƏNƏK",
-                "explanation": "is. taxıl əkilmiş yer",
+                "word": "DIĞIR",
+                "explanation": "is. dan. 1. keçi aşığı.2. düyü xırdası",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 19
+            },
+            {
+                "word": "ƏDALI",
+                "explanation": "sif. 1. ədası olan",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 20
+            },
+            {
+                "word": "RADAR",
+                "explanation": "[ing.] bax radiolokator. radiolokasiyadaişlədilən qurğulara radiolokatordeyilir. bəzi yerlərdə bunları müxtəsər olaraq*** adlandırırlar",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 21
+            },
+            {
+                "word": "RADDƏ",
+                "explanation": "is. [ər.] vaxt bildirən rəqəmlərdən sonra gələrək həmin rəqəmin təxmini olduğunu göstərir (adətən “radələri” və “radələrində” şəklində işlədilir)",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 22
+            },
+            {
+                "word": "ALADAĞ",
+                "explanation": "sif. dan. yanıq bişirilmiş (çörəkvə s.)",
                 "isPanagram": false,
                 "score": 6,
-                "length": 6
+                "length": 6,
+                "id": 23
             },
             {
-                "word": "KÖHLƏN",
-                "explanation": "sif. harın bəslənmiş (at haqqında).tövlələrdə *** atlar çığırışırmı?f.köçərli. volqadan su içmiş *** atların;üstündə girdablı çaylara cumduq",
+                "word": "DAĞDAĞ",
+                "explanation": "sif. dağ kimi uca",
                 "isPanagram": false,
                 "score": 6,
-                "length": 6
+                "length": 6,
+                "id": 24
             },
             {
-                "word": "ƏKİNLİK",
-                "explanation": "is. əkin yeri",
+                "word": "DAĞDAR",
+                "explanation": "sif. [fars.] klas. dağlı",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 25
+            },
+            {
+                "word": "DƏLLAL",
+                "explanation": "is. [ər.] 1. alverdə alanla satanarasında vasitəçilik edən şəxs. genə şəhriçrə gördü ol minval; satır əvvəlki eşşəyi***",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 26
+            },
+            {
+                "word": "DIĞDIĞ",
+                "explanation": "is. dan. 1. çox quru.2. dedi-qodu",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 27
+            },
+            {
+                "word": "DILĞIR",
+                "explanation": "dan. 1. sif. tükü tökülmüş",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 28
+            },
+            {
+                "word": "ƏRRADƏ",
+                "explanation": "is. [ər.] köhn. 1. təkərlər üzərindəyerləşdirilmiş top",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 29
+            },
+            {
+                "word": "DAĞDƏRƏ",
+                "explanation": "is. bax dağ-daş. dağ-dərənidolannam; dərya kimi bulannam. (bayatı).[kərimqulu:] bir də bu qızı kola-kosa",
                 "isPanagram": false,
                 "score": 7,
-                "length": 7
+                "length": 7,
+                "id": 30
             },
             {
-                "word": "ƏNLİKLİ",
-                "explanation": "sif. üzünə ənlik vurmuş",
+                "word": "DAĞDAĞA",
+                "explanation": "is. bax dəğdəğə. çöllərdəvar bağalar; ürəkdə ***lar; yarın vurduğuyara; məhşər günü sağalar. (bayatı)",
                 "isPanagram": false,
                 "score": 7,
-                "length": 7
+                "length": 7,
+                "id": 31
             },
             {
-                "word": "NƏNƏLİK",
-                "explanation": "is. 1. ögey nənə. məsmə səliminnənəliyi hesab olunurdu. mir cəlal.2. məc. analıq. [hacı murad:] durub təzədənona *** edə bilmərəm ki",
+                "word": "DALĞALI",
+                "explanation": "sif. 1. dalğası olan",
                 "isPanagram": false,
                 "score": 7,
-                "length": 7
+                "length": 7,
+                "id": 32
             },
             {
-                "word": "KƏNƏKLİK",
-                "explanation": "is. 1. ləpəsi çətin çıxan qozvə s.-nin keyfiyyəti.2. kənək adamın xasiyyəti; tərslik",
+                "word": "DƏĞDƏĞƏ",
+                "explanation": "is. [ər.] klas. 1. bihudə təlaş vəiztirab",
                 "isPanagram": false,
-                "score": 8,
-                "length": 8
+                "score": 7,
+                "length": 7,
+                "id": 33
             },
             {
-                "word": "KİNLİLİK",
-                "explanation": "is. kin saxlama",
+                "word": "DIĞDIĞI",
+                "explanation": "sif. və is. dan. çox deyingən(adam)",
                 "isPanagram": false,
-                "score": 8,
-                "length": 8
+                "score": 7,
+                "length": 7,
+                "id": 34
             },
             {
-                "word": "KÖHNƏKÖHNƏ",
-                "explanation": "sif. və zərf köhnə",
+                "word": "DADLIDADLI",
+                "explanation": "1) sif. ləzzətli-ləzzətli",
                 "isPanagram": false,
                 "score": 10,
-                "length": 10
+                "length": 10,
+                "id": 35
             },
             {
-                "word": "KÖHLƏNLİK",
-                "explanation": "is. harın bəslənmiş atın halvə keyfiyyəti; harınlıq. qara oğlan hər sözbaşında xallı atın köhlənliyini",
+                "word": "ƏLDARAĞI",
+                "explanation": "is. yun daramaq üçün taxtaaltlığa bənd edilmiş",
                 "isPanagram": true,
                 "score": 17,
-                "length": 9
-            },
-            {
-                "word": "KÖHNƏLİK",
-                "explanation": "is. 1. köhnə şeyin hal və keyfiyyəti(təzəlik ziddi). paltarın köhnəliyi.evin köhnəliyi. // tarixi köhnə olma",
-                "isPanagram": true,
-                "score": 17,
-                "length": 8
+                "length": 8,
+                "id": 36
             }
         ]
     }

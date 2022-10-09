@@ -1,6 +1,6 @@
 import { get } from 'svelte/store';
 import { toast } from '@zerodevx/svelte-toast';
-import { successToastOptions, errorToastOptions } from '$utils/config'
+import { successToastOptions, errorToastOptions, hintToastOptions } from '$utils/config'
 import gameDataStore from '$utils/store';
 
 const data = get(gameDataStore);
@@ -10,7 +10,8 @@ enum ErrorMessages {
 	WORD_IS_NOT_CORRECT = 'Ən azı 3 hərfli söz yazmağa çalışın',
 	WORD_IS_EMPTY = 'Verilmiş hərflərdən söz yaratmağa çalışın',
 	WORD_IS_NOT_EXIST = 'Belə bir söz bazada mövcüd deyil',
-	CENTER_LETTER_NOT_EXIST = 'CENTER LETTER'
+	CENTER_LETTER_NOT_EXIST = 'CENTER LETTER',
+	HINT_IS_NOT_AVAILABLE = 'HINT YOXDUR'
 }
 
 enum SuccessMessages {
@@ -98,4 +99,21 @@ export function calculateUserPoints(word: string) {
 			data.userPoints += value["score"]
 		}
 	});
+}
+
+export function showHintonUI() {
+	toast.pop();
+	if (isHintAvailable()) {
+		toast.push(getHint(), hintToastOptions)
+	} else {
+		toast.push(ErrorMessages.HINT_IS_NOT_AVAILABLE)
+	}
+}
+
+export function isHintAvailable(){
+	return true
+}
+
+export function getHint(){
+	return data.words[0]["explanation"]
 }

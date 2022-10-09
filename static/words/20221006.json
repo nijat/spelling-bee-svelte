@@ -2,315 +2,251 @@
     "gameData": {
         "day": "20221006",
         "expiration": "1665093540",
-        "centerLetter": "L",
+        "centerLetter": "M",
         "outerLetters": [
-            "C",
+            "N",
+            "T",
+            "İ",
             "A",
-            "Z",
-            "I",
-            "B",
-            "Ğ"
+            "Ü",
+            "R"
         ],
         "words_info": {
-            "word_count": 41,
-            "sum_score": 227,
+            "word_count": 28,
+            "sum_score": 118,
             "panagram_count": 1,
             "word_length": {
-                "5": 17,
-                "7": 6,
-                "6": 10,
-                "4": 5,
-                "8": 2,
-                "10": 1
+                "4": 12,
+                "5": 6,
+                "6": 6,
+                "8": 3,
+                "7": 1
             }
         },
         "words": [
             {
-                "word": "AĞIL",
-                "explanation": "is. içərisində mal-qara və qoyunsaxlamaq üçün ətrafı tikan və ya ağac iləhasarlanmış üstüaçıq yer. qoyunlar s***ıbqurtardıqdan sonra",
+                "word": "AMAN",
+                "explanation": "is. [ər.] 1. əmin-***lıq",
                 "isPanagram": false,
                 "score": 1,
-                "length": 4
+                "length": 4,
+                "id": 1
             },
             {
-                "word": "ALĞI",
-                "explanation": "is. satın alma işi",
+                "word": "AMİN",
+                "explanation": "[ər. əsli qədim yəh.] din. qəbulolsun",
                 "isPanagram": false,
                 "score": 1,
-                "length": 4
+                "length": 4,
+                "id": 2
             },
             {
-                "word": "ALLI",
-                "explanation": "sif. köhn. al rəngli paltar geymiş.tərifli gözəllər gəlhagəl oldu; yaşıllı",
+                "word": "AMİR",
+                "explanation": "is. [ər.] buyuran",
                 "isPanagram": false,
                 "score": 1,
-                "length": 4
+                "length": 4,
+                "id": 3
             },
             {
-                "word": "BALA",
-                "explanation": "1. is. övlad",
+                "word": "ANMA",
+                "explanation": "“***q”dan f.is. *** mərasimi",
                 "isPanagram": false,
                 "score": 1,
-                "length": 4
+                "length": 4,
+                "id": 4
             },
             {
-                "word": "LIĞA",
-                "explanation": "is. qatı",
+                "word": "ARAM",
+                "explanation": "is. [fars.] sakitlik",
                 "isPanagram": false,
                 "score": 1,
-                "length": 4
+                "length": 4,
+                "id": 5
             },
             {
-                "word": "ABALI",
-                "explanation": "is. köhn. aba geymiş",
+                "word": "ATMA",
+                "explanation": "“***q”dan f.is. və s. *** nizə.ən qədim insanların ilk *** silahı daş",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 6
+            },
+            {
+                "word": "MAMA",
+                "explanation": "is. doğuş zamanı kömək göstərməkləməşğul olan (keçmişdə təhsilsiz",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 7
+            },
+            {
+                "word": "MANİ",
+                "explanation": "is. türk xalq şeri və nəğmə janrı",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 8
+            },
+            {
+                "word": "MART",
+                "explanation": "[lat.] təqvim ilinin üçüncü ayı.*** qırğınları. – *** çıxdı",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 9
+            },
+            {
+                "word": "MİNA",
+                "explanation": "[fr.] 1. adətən torpağın",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 10
+            },
+            {
+                "word": "MÜTİ",
+                "explanation": "sif. [ər.] itaət edən",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 11
+            },
+            {
+                "word": "TAAM",
+                "explanation": "is. [ər.] 1. xörək",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 12
+            },
+            {
+                "word": "ARTMA",
+                "explanation": "1. “***q”dan f.is.2. is. artan şey",
                 "isPanagram": false,
                 "score": 5,
-                "length": 5
+                "length": 5,
+                "id": 13
             },
             {
-                "word": "ACILI",
-                "explanation": "sif. zəhərli",
+                "word": "MANAT",
+                "explanation": "is. azərbaycanda yüz qəpiyəbərabər olan əsas pul vahidi. // bu dəyərdəolan kağız və ya metal pul. hər biri mərdlikedib isbat; dəftərə yazdı: verrəm",
                 "isPanagram": false,
                 "score": 5,
-                "length": 5
+                "length": 5,
+                "id": 14
             },
             {
-                "word": "AĞILI",
-                "explanation": "sif. zəhərli",
+                "word": "MATAN",
+                "explanation": "sif. və is. dan. kök",
                 "isPanagram": false,
                 "score": 5,
-                "length": 5
+                "length": 5,
+                "id": 15
             },
             {
-                "word": "ALALI",
-                "explanation": "sif. alası olan",
+                "word": "MİTRA",
+                "explanation": "is. [rus.] dini ayin zamanı keşişlərinbaşlarına keçirdikləri qızılı rəngli papaq",
                 "isPanagram": false,
                 "score": 5,
-                "length": 5
+                "length": 5,
+                "id": 16
             },
             {
-                "word": "ALICI",
-                "explanation": "1. is. müştəri",
+                "word": "TAMAM",
+                "explanation": "is. [ər.] 1. bitmə",
                 "isPanagram": false,
                 "score": 5,
-                "length": 5
+                "length": 5,
+                "id": 17
             },
             {
-                "word": "BAĞLI",
-                "explanation": "sif. 1. ip",
+                "word": "ÜMMAN",
+                "explanation": "is. [ər.] 1. böyük dəniz",
                 "isPanagram": false,
                 "score": 5,
-                "length": 5
+                "length": 5,
+                "id": 18
             },
             {
-                "word": "BALBA",
-                "explanation": "is. məh. cincilim",
-                "isPanagram": false,
-                "score": 5,
-                "length": 5
-            },
-            {
-                "word": "BALLI",
-                "explanation": "sif. 1. bal qatılmış. *** konfet.2. məc. bal kimi şirin. bir alagözlünüsevibdi könül; dəhani püstədir",
-                "isPanagram": false,
-                "score": 5,
-                "length": 5
-            },
-            {
-                "word": "BIĞLI",
-                "explanation": "sif. bığları olan. *** kişi",
-                "isPanagram": false,
-                "score": 5,
-                "length": 5
-            },
-            {
-                "word": "CAĞLI",
-                "explanation": "sif. cağ vurulmuş",
-                "isPanagram": false,
-                "score": 5,
-                "length": 5
-            },
-            {
-                "word": "CALAL",
-                "explanation": "is. [ər.] əzəmət",
-                "isPanagram": false,
-                "score": 5,
-                "length": 5
-            },
-            {
-                "word": "CIĞAL",
-                "explanation": "sif. oyun zamanı oyunun qaydalarınıpozmağa və haqsız olduğu halda mübahisəetməyə adət etmiş adam. [həbibə]saçı dağınıq",
-                "isPanagram": false,
-                "score": 5,
-                "length": 5
-            },
-            {
-                "word": "CILIZ",
-                "explanation": "sif. 1. çox arıq",
-                "isPanagram": false,
-                "score": 5,
-                "length": 5
-            },
-            {
-                "word": "LAZCA",
-                "explanation": "sif. və zərf laz dilində. ***mahnı. *** danışmaq",
-                "isPanagram": false,
-                "score": 5,
-                "length": 5
-            },
-            {
-                "word": "ZAĞLI",
-                "explanation": "sif. zağ verilmiş",
-                "isPanagram": false,
-                "score": 5,
-                "length": 5
-            },
-            {
-                "word": "ZIĞLI",
-                "explanation": "sif. 1. palçıqlı",
-                "isPanagram": false,
-                "score": 5,
-                "length": 5
-            },
-            {
-                "word": "ZILĞA",
-                "explanation": "is. məh. 1. quşun yeni yumurtadançıxmış tüksüz balası; ətcəbala. gözününönündə qara",
-                "isPanagram": false,
-                "score": 5,
-                "length": 5
-            },
-            {
-                "word": "AĞACLI",
-                "explanation": "sif. 1. ağacı olan",
+                "word": "ATAMAN",
+                "explanation": "is. 1. tar. rusiyada: kazak vilayətlərindəvə qədimdə kazak qoşunlarındahərbi inzibati vəzifələrin adı",
                 "isPanagram": false,
                 "score": 6,
-                "length": 6
+                "length": 6,
+                "id": 19
             },
             {
-                "word": "AĞCALI",
-                "explanation": "sif. 1. köhn. pullu",
+                "word": "MARİNA",
+                "explanation": "is. [ital.] dəniz mənzərəsinintəsvirinə həsr olunmuş rəsm əsəri",
                 "isPanagram": false,
                 "score": 6,
-                "length": 6
+                "length": 6,
+                "id": 20
             },
             {
-                "word": "AĞILLI",
-                "explanation": "sif. 1. dərrakəli",
+                "word": "MARTİT",
+                "explanation": "is. mineral",
                 "isPanagram": false,
                 "score": 6,
-                "length": 6
+                "length": 6,
+                "id": 21
             },
             {
-                "word": "AĞIZLI",
-                "explanation": "sif. 1. ağzı olan (bax ağız1 2-cimənada). *** şüşə. *** qab.2. kəsici tərəfi olan (alət və s",
+                "word": "MİNMİN",
+                "explanation": "zərf və sif. minlərcə",
                 "isPanagram": false,
                 "score": 6,
-                "length": 6
+                "length": 6,
+                "id": 22
             },
             {
-                "word": "ALAĞAC",
-                "explanation": "is. dan. 1. sərhədlərdə basdırılannişan ağacı.2. məsafəni göstərmək üçün yol kənarlarındabasdırılan ağac",
+                "word": "TARMAR",
+                "explanation": "sif. 1. bir-birinə qarışmış",
                 "isPanagram": false,
                 "score": 6,
-                "length": 6
+                "length": 6,
+                "id": 23
             },
             {
-                "word": "ALBALI",
-                "explanation": "is. tündqırmızı rəngli",
+                "word": "TİAMİN",
+                "explanation": "is. b 1 vitamini",
                 "isPanagram": false,
                 "score": 6,
-                "length": 6
+                "length": 6,
+                "id": 24
             },
             {
-                "word": "BACALI",
-                "explanation": "sif. bacası",
-                "isPanagram": false,
-                "score": 6,
-                "length": 6
-            },
-            {
-                "word": "BALACA",
-                "explanation": "sif. 1. həcmcə",
-                "isPanagram": false,
-                "score": 6,
-                "length": 6
-            },
-            {
-                "word": "BALALI",
-                "explanation": "sif. yanında balası olan. ***inək. *** qoyun. *** camış",
-                "isPanagram": false,
-                "score": 6,
-                "length": 6
-            },
-            {
-                "word": "LAĞLAĞ",
-                "explanation": "sif. və zərf 1. boş",
-                "isPanagram": false,
-                "score": 6,
-                "length": 6
-            },
-            {
-                "word": "ACILICA",
-                "explanation": "is. bot. bəzi növlərindən dərmanhasil edilən çoxillik ot bitkisi",
+                "word": "NATAMAM",
+                "explanation": "sif. [fars. na… və ər. təmam]1. bitməmiş",
                 "isPanagram": false,
                 "score": 7,
-                "length": 7
+                "length": 7,
+                "id": 25
             },
             {
-                "word": "ALACALI",
-                "explanation": "sif. dan. rəngbərəng",
-                "isPanagram": false,
-                "score": 7,
-                "length": 7
-            },
-            {
-                "word": "BIĞLICA",
-                "explanation": "is. bot. taxıllar qrupuna mənsubbirillik ot bitki",
-                "isPanagram": false,
-                "score": 7,
-                "length": 7
-            },
-            {
-                "word": "CALALLI",
-                "explanation": "sif. dəbdəbəli",
-                "isPanagram": false,
-                "score": 7,
-                "length": 7
-            },
-            {
-                "word": "CIBBILI",
-                "explanation": "sif. dan. çox balaca",
-                "isPanagram": false,
-                "score": 7,
-                "length": 7
-            },
-            {
-                "word": "LAĞLAĞI",
-                "explanation": "sif. çoxdanışan",
-                "isPanagram": false,
-                "score": 7,
-                "length": 7
-            },
-            {
-                "word": "BALABACI",
-                "explanation": "is. dan. qohum-əqrəba arasındahörmət üçün kiçiklər tərəfindənböyüklərə (qadınlara) müraciət (ad çəkməməküçün işlənən söz)",
+                "word": "MİNAATAN",
+                "explanation": "is. mina atan silah-top; minomyot",
                 "isPanagram": false,
                 "score": 8,
-                "length": 8
+                "length": 8,
+                "id": 26
             },
             {
-                "word": "CIBCIBBILI",
-                "explanation": "sif. dan. çox balaca",
+                "word": "MİNİMİNİ",
+                "explanation": "sif. oxş. kiçicik",
                 "isPanagram": false,
-                "score": 10,
-                "length": 10
+                "score": 8,
+                "length": 8,
+                "id": 27
             },
             {
-                "word": "CIĞALBAZ",
-                "explanation": "sif. [cığal və fars. …baz] cığallıqetməyi sevən",
+                "word": "MİNİATÜR",
+                "explanation": "[ital. miniatura",
                 "isPanagram": true,
                 "score": 17,
-                "length": 8
+                "length": 8,
+                "id": 28
             }
         ]
     }

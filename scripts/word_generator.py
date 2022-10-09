@@ -1,3 +1,4 @@
+from itertools import count
 from operator import is_
 import random
 import json
@@ -79,6 +80,10 @@ def word_list_info(word_dict_result):
 
 def sort_word_dict_result(word_dict_result):
     result = sorted(word_dict_result, key=lambda d: d['score']) 
+    count = 1
+    for i in result:
+        i["id"] = count
+        count+=1
     return result
 
 def calculate_word_score(word):
@@ -128,7 +133,7 @@ def calculate_expiration_date(day):
 def store_day(full_day):
     json_data = get_words(full_day)
     print(full_day)
-    with open("../words/" + full_day + ".json", "w") as f:
+    with open("../static/words/" + full_day + ".json", "w") as f:
         json.dump(json_data, f, ensure_ascii=False, indent=4)
 
 worddict = get_data()

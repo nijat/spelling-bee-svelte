@@ -2,231 +2,291 @@
     "gameData": {
         "day": "20221007",
         "expiration": "1665179940",
-        "centerLetter": "N",
+        "centerLetter": "L",
         "outerLetters": [
+            "Ə",
+            "T",
             "İ",
-            "A",
-            "G",
-            "M",
-            "L",
-            "Ü"
+            "B",
+            "Ü",
+            "R"
         ],
         "words_info": {
-            "word_count": 29,
-            "sum_score": 148,
+            "word_count": 33,
+            "sum_score": 152,
             "panagram_count": 1,
             "word_length": {
-                "6": 5,
-                "5": 8,
-                "8": 3,
-                "4": 8,
+                "5": 12,
                 "7": 4,
-                "9": 1
+                "6": 6,
+                "4": 10,
+                "8": 1
             }
         },
         "words": [
             {
-                "word": "AMAN",
-                "explanation": "is. [ər.] 1. əmin-***lıq",
+                "word": "ƏLİL",
+                "explanation": "is. və sif. xəstəlik və ya qocalıqnəticəsində əmək qabiliyyətini itirmiş;şikəst. ***lər cəmiyyəti",
                 "isPanagram": false,
                 "score": 1,
-                "length": 4
+                "length": 4,
+                "id": 1
             },
             {
-                "word": "AMİN",
-                "explanation": "[ər. əsli qədim yəh.] din. qəbulolsun",
+                "word": "ƏLLİ",
+                "explanation": "sif. 1. əli olan. iri *** adam. 2. məc. qolu güclü",
                 "isPanagram": false,
                 "score": 1,
-                "length": 4
+                "length": 4,
+                "id": 2
             },
             {
-                "word": "ANMA",
-                "explanation": "“***q”dan f.is. *** mərasimi",
+                "word": "ƏRLİ",
+                "explanation": "sif. əri olan. ev tikdirənlər təkcə*** qadınlar deyildi. ə.əbülhəsən. // is. mənasında.*** qadın",
                 "isPanagram": false,
                 "score": 1,
-                "length": 4
+                "length": 4,
+                "id": 3
             },
             {
-                "word": "GÜNÜ",
-                "explanation": "is. 1. köhnə məişətdə: birinci arvadınüstünə alınan ikinci və ya üçüncü arvad.hacı evə *** gətirmək niyyətini münəvvərxanımın qulağına elə doldurd",
+                "word": "ƏTLİ",
+                "explanation": "sif. 1. ətcə dolğun; kök",
                 "isPanagram": false,
                 "score": 1,
-                "length": 4
+                "length": 4,
+                "id": 4
             },
             {
-                "word": "LİNG",
-                "explanation": "is. ağır şeyləri qaldırmaq",
+                "word": "LƏLƏ",
+                "explanation": "is. 1. keçmişdə kübar və varlı ai***rdəoğlan uşağının tərbiyəsilə məşğul olanadam. [qətibə xanım:] səba xanım",
                 "isPanagram": false,
                 "score": 1,
-                "length": 4
+                "length": 4,
+                "id": 5
             },
             {
-                "word": "MANİ",
-                "explanation": "is. türk xalq şeri və nəğmə janrı",
+                "word": "LİRƏ",
+                "explanation": "[ital.] türkiyədə",
                 "isPanagram": false,
                 "score": 1,
-                "length": 4
+                "length": 4,
+                "id": 6
             },
             {
-                "word": "MİNA",
-                "explanation": "[fr.] 1. adətən torpağın",
+                "word": "LİTR",
+                "explanation": "[fr. ***e] 1000 kub santimetrə bərabər maye ölçüsü. bir *** süd",
                 "isPanagram": false,
                 "score": 1,
-                "length": 4
+                "length": 4,
+                "id": 7
             },
             {
-                "word": "NAİL",
-                "explanation": "[ər.] : *** olmaq – əldə etmək",
+                "word": "LÜLƏ",
+                "explanation": "is. 1. odlu silahların gülləyə",
                 "isPanagram": false,
                 "score": 1,
-                "length": 4
+                "length": 4,
+                "id": 8
             },
             {
-                "word": "ALANA",
-                "explanation": "is. içərisi şəkərli qozla doldurulmuşmeyvə qurusu (armud",
+                "word": "TƏLƏ",
+                "explanation": "is. vəhşi və ov heyvanlarını və yaquşları",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 9
+            },
+            {
+                "word": "TƏLL",
+                "explanation": "is. uzun təpə. [bəxtiyar] gözünüaçanda gördü",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 10
+            },
+            {
+                "word": "BƏLLİ",
+                "explanation": "sif. aydın",
                 "isPanagram": false,
                 "score": 5,
-                "length": 5
+                "length": 5,
+                "id": 11
             },
             {
-                "word": "ALMAN",
-                "explanation": "is. ***iyanın əsas əhalisinitəşkil edən xalq və bu xalqa mənsub adam.*** ədəbiyyatının qədim abidələri",
+                "word": "BİLLƏ",
+                "explanation": "is. məh. uşaqlara verilən hər cürşirniyyat",
                 "isPanagram": false,
                 "score": 5,
-                "length": 5
+                "length": 5,
+                "id": 12
             },
             {
-                "word": "GİLAN",
-                "explanation": "is. məh. qapını bağlamaq üçünarxasına keçirilən taxta və ya dəmir; kilid",
+                "word": "BİTLİ",
+                "explanation": "sif. biti olan; başını",
                 "isPanagram": false,
                 "score": 5,
-                "length": 5
+                "length": 5,
+                "id": 13
             },
             {
-                "word": "GÜMAN",
-                "explanation": "is. [fars.] 1. lazımınca əsaslanmamışfikir",
+                "word": "ƏLBƏT",
+                "explanation": "[ər.] 1. bax ***tə. *** gələcəkdir.dünyaya gələn *** gedər. – deməkolmaz dirilər tək yatıb",
                 "isPanagram": false,
                 "score": 5,
-                "length": 5
+                "length": 5,
+                "id": 14
             },
             {
-                "word": "LİANA",
-                "explanation": "[fr.] bot. tropik meşələrdə",
+                "word": "LİLLİ",
+                "explanation": "sif. lehməli",
                 "isPanagram": false,
                 "score": 5,
-                "length": 5
+                "length": 5,
+                "id": 15
             },
             {
-                "word": "NALAN",
-                "explanation": "sif. və zərf [fars.] ağlayan",
+                "word": "TƏBİL",
+                "explanation": "is. [ər.] iri nağara. səhnənin dalından*** və sinc səsi gəlir. ə.haqverdiyev.[cavanşir:] qoy şeypurlar gurlasın",
                 "isPanagram": false,
                 "score": 5,
-                "length": 5
+                "length": 5,
+                "id": 16
             },
             {
-                "word": "NİNNİ",
-                "explanation": "is. layla",
+                "word": "TƏLƏB",
+                "explanation": "is. [ər.] 1. bir şeyi israrla",
                 "isPanagram": false,
                 "score": 5,
-                "length": 5
+                "length": 5,
+                "id": 17
             },
             {
-                "word": "ÜMMAN",
-                "explanation": "is. [ər.] 1. böyük dəniz",
+                "word": "TƏLƏT",
+                "explanation": "is. [ər.] 1. üz",
                 "isPanagram": false,
                 "score": 5,
-                "length": 5
+                "length": 5,
+                "id": 18
             },
             {
-                "word": "ALAMAN",
-                "explanation": "is. məh. köhn. çapqın",
+                "word": "TƏRLİ",
+                "explanation": "sif. 1. tərləmiş",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 19
+            },
+            {
+                "word": "TƏTİL",
+                "explanation": "is. [ər.] 1. işin kütləvi və mütəşəkkilsurətdə dayandırılması. aprelin iyirmi doqquzundabaşlanan xırda ***lər iyulun ikisindənümumi *** şəklini",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 20
+            },
+            {
+                "word": "TİRLİ",
+                "explanation": "sif. tiri (tirləri) olan",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 21
+            },
+            {
+                "word": "ÜTÜLÜ",
+                "explanation": "sif. ütü çəkilmiş",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 22
+            },
+            {
+                "word": "BİRƏLİ",
+                "explanation": "sif. birə basmış",
                 "isPanagram": false,
                 "score": 6,
-                "length": 6
+                "length": 6,
+                "id": 23
             },
             {
-                "word": "ALÜMİN",
-                "explanation": "[lat.] ***iumdan qayrılmış.*** qazan. *** qaşıq. – yarır təyyarəmizin*** qanadları; hava dalğalarını",
+                "word": "BÜLBÜL",
+                "explanation": "is. [fars.] qaratoyuq fəsiləsindənolan çox gözəl səsli quş. ***ün çəkdiyidil bəlasıdır. (ata. sözü)",
                 "isPanagram": false,
                 "score": 6,
-                "length": 6
+                "length": 6,
+                "id": 24
             },
             {
-                "word": "ANGİNA",
-                "explanation": "[lat.] tib. əsnəyin selikli qişasınınvə xüsusən badamcıqların iltihabı.*** oynaq",
+                "word": "ƏLİİTİ",
+                "explanation": "sif. əldən çapıq; zirək",
                 "isPanagram": false,
                 "score": 6,
-                "length": 6
+                "length": 6,
+                "id": 25
             },
             {
-                "word": "GÜLGÜN",
-                "explanation": "sif. [fars.] şair. gül rəngli",
+                "word": "ƏTİRLİ",
+                "explanation": "sif. 1. özündən ətir saçan; rayihəli.*** çiçəklər. *** otlar. – bu bağçalardaev sahibləri *** güllər və çiçəklərəkmişdilər",
                 "isPanagram": false,
                 "score": 6,
-                "length": 6
+                "length": 6,
+                "id": 26
             },
             {
-                "word": "MİNMİN",
-                "explanation": "zərf və sif. minlərcə",
+                "word": "TƏLƏBƏ",
+                "explanation": "is. [ər.] ali məktəb və ya texnikumdaoxuyan adam. mən təklif edirəm",
                 "isPanagram": false,
                 "score": 6,
-                "length": 6
+                "length": 6,
+                "id": 27
             },
             {
-                "word": "ANALGİN",
-                "explanation": "is. [yun.] əcz. ağrıkəsici",
+                "word": "TİTƏLİ",
+                "explanation": "sif. titəsi olan",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 28
+            },
+            {
+                "word": "BİBƏRLİ",
+                "explanation": "sif. içində bibər olan",
                 "isPanagram": false,
                 "score": 7,
-                "length": 7
+                "length": 7,
+                "id": 29
             },
             {
-                "word": "LÜMİNAL",
-                "explanation": "[lat. lumen – işıq] əcz. acı dadankristallik toz halında yuxu dərmanı",
+                "word": "BİRƏLLİ",
+                "explanation": "1. sif. bir əli olmayan",
                 "isPanagram": false,
                 "score": 7,
-                "length": 7
+                "length": 7,
+                "id": 30
             },
             {
-                "word": "MİNİMAL",
-                "explanation": "sif. [lat.] başqaları sırasındaən kiçik",
+                "word": "LƏBLƏBİ",
+                "explanation": "is. çərəz kimi yeyilən qovrulmuşqabıqsız noxud. əkdiyim noxud",
                 "isPanagram": false,
                 "score": 7,
-                "length": 7
+                "length": 7,
+                "id": 31
             },
             {
-                "word": "NAGÜMAN",
-                "explanation": "sif. [fars.] gümanı olmayan",
-                "isPanagram": false,
-                "score": 7,
-                "length": 7
-            },
-            {
-                "word": "ALİMNÜMA",
-                "explanation": "is. [ər. alim və fars. nüma]isteh. alim olmadığı halda özünü alim kimigöstərən",
+                "word": "LÜLƏLÜLƏ",
+                "explanation": "sif. və zərf lüləyə oxşar",
                 "isPanagram": false,
                 "score": 8,
-                "length": 8
+                "length": 8,
+                "id": 32
             },
             {
-                "word": "MİNİMİNİ",
-                "explanation": "sif. oxş. kiçicik",
-                "isPanagram": false,
-                "score": 8,
-                "length": 8
-            },
-            {
-                "word": "LİNGLİNGİ",
-                "explanation": "is. bir ayaq üstə atıla-atılaoynanılan uşaq oyunu",
-                "isPanagram": false,
-                "score": 9,
-                "length": 9
-            },
-            {
-                "word": "MİNAGÜLÜ",
-                "explanation": "is. bot. yerdən çox qalxmayan",
+                "word": "RÜTBƏLİ",
+                "explanation": "sif. rütbəsi olan",
                 "isPanagram": true,
                 "score": 17,
-                "length": 8
+                "length": 7,
+                "id": 33
             }
         ]
     }

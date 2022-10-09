@@ -2,274 +2,163 @@
     "gameData": {
         "day": "20221019",
         "expiration": "1666216740",
-        "centerLetter": "B",
+        "centerLetter": "K",
         "outerLetters": [
-            "A",
-            "Q",
-            "U",
+            "İ",
+            "O",
+            "M",
+            "L",
             "R",
-            "Ğ",
-            "D"
+            "Q"
         ],
         "words_info": {
-            "word_count": 35,
-            "sum_score": 167,
+            "word_count": 17,
+            "sum_score": 99,
             "panagram_count": 1,
             "word_length": {
-                "4": 10,
-                "5": 14,
-                "6": 6,
-                "8": 1,
-                "10": 1,
-                "9": 2,
-                "7": 1
+                "5": 7,
+                "4": 3,
+                "6": 2,
+                "8": 4,
+                "10": 1
             }
         },
         "words": [
             {
-                "word": "ABAD",
-                "explanation": "sif. [fars.] 1. müntəzəm və çoxlu tikintisi",
+                "word": "KİLO",
+                "explanation": "[fr.] ölçü sistemində min kiçik vahidi ifadə edən mürəkkəb adların birinci hissəsi; məs.: ***qram",
                 "isPanagram": false,
                 "score": 1,
-                "length": 4
+                "length": 4,
+                "id": 1
             },
             {
-                "word": "ABRU",
-                "explanation": "is. [fars.] bax abır. [mirzə əsgər:]saqqal deyəndə kişinin ***sudur və üzününnurudur. n.vəzirov. yaman yoldaş səbəbinəinsan min bəlaya düçar olar",
+                "word": "KİMİ",
+                "explanation": "əvəz. bəzisi",
                 "isPanagram": false,
                 "score": 1,
-                "length": 4
+                "length": 4,
+                "id": 2
             },
             {
-                "word": "ADAB",
-                "explanation": "is. [ər. “ədəb” söz. cəmi] köhn.əxlaq qaydaları",
+                "word": "KOMİ",
+                "explanation": "is. rusiya federasiyasının tərkibinədaxil olan *** mr-in əsas əhalisini təşkiledən xalq və bu xalqa mənsub adam",
                 "isPanagram": false,
                 "score": 1,
-                "length": 4
+                "length": 4,
+                "id": 3
             },
             {
-                "word": "BABA",
-                "explanation": "is. 1. atanın",
-                "isPanagram": false,
-                "score": 1,
-                "length": 4
-            },
-            {
-                "word": "BAĞA",
-                "explanation": "is. məh. atların buxovluğundaəmələ gələn xəstəlik (yara)",
-                "isPanagram": false,
-                "score": 1,
-                "length": 4
-            },
-            {
-                "word": "BUĞA",
-                "explanation": "is. hələ burulmamış və işə qoşulmamışdöllük heyvan (qaramal); kələ.*** seçdikdə onun yaxşı cinsdən olması",
-                "isPanagram": false,
-                "score": 1,
-                "length": 4
-            },
-            {
-                "word": "BURU",
-                "explanation": "is. sancı",
-                "isPanagram": false,
-                "score": 1,
-                "length": 4
-            },
-            {
-                "word": "QABA",
-                "explanation": "sif. 1. kobud",
-                "isPanagram": false,
-                "score": 1,
-                "length": 4
-            },
-            {
-                "word": "QUBA",
-                "explanation": "is. şair. vəhşi qaz. sona tək silkinib gərdən çəkəndə; bənzəyirsən ***-qaza",
-                "isPanagram": false,
-                "score": 1,
-                "length": 4
-            },
-            {
-                "word": "RUBA",
-                "explanation": "is. bir pud ağırlığında olan köhnəçəki ölçüsü. [xeyransanın] hacı manafdanaldığı isə yalnız bir *** taxıl olmuşdu",
-                "isPanagram": false,
-                "score": 1,
-                "length": 4
-            },
-            {
-                "word": "ABDAR",
-                "explanation": "sif. [fars.] 1. sulu",
+                "word": "KİLİM",
+                "explanation": "is. [fars.] yun və ya pambıqdantoxunan zolaqlı",
                 "isPanagram": false,
                 "score": 5,
-                "length": 5
+                "length": 5,
+                "id": 4
             },
             {
-                "word": "ABDUQ",
-                "explanation": "is. su qatılmış qatıq; atılama",
+                "word": "KİRKİ",
+                "explanation": "1 is. xüs. xalça toxunarkən ilməklərini sıxlaşdırmaq üçün işlədilən alət; daraq",
                 "isPanagram": false,
                 "score": 5,
-                "length": 5
+                "length": 5,
+                "id": 5
             },
             {
-                "word": "ARABA",
-                "explanation": "is. iki və ya dördtəkərli nəqliyyatvasitəsi. minik ***sı. yük ***sı. əl ***sı(əl ilə sürülən ***)",
+                "word": "KİRLİ",
+                "explanation": "sif. kir tutmuş",
                 "isPanagram": false,
                 "score": 5,
-                "length": 5
+                "length": 5,
+                "id": 6
             },
             {
-                "word": "BADAQ",
-                "explanation": "is. 1. bax badalaq.2. sınmış ağacı bərkitmək üçün ona keçirilənenli dəmir halqa.3. ev quşlarının ayaqlarına bağlanan bağ",
+                "word": "KOMİK",
+                "explanation": "sif. [lat.] 1. komediyaya xasolan",
                 "isPanagram": false,
                 "score": 5,
-                "length": 5
+                "length": 5,
+                "id": 7
             },
             {
-                "word": "BADAR",
-                "explanation": "məh. 1. is. kiçicik əkin yeri.2. sif. dağınıq",
+                "word": "LİRİK",
+                "explanation": "sif. [yun.] 1. ***a xüsusiyyətləriolan",
                 "isPanagram": false,
                 "score": 5,
-                "length": 5
+                "length": 5,
+                "id": 8
             },
             {
-                "word": "BUDAQ",
-                "explanation": "is. 1. ağac və kolların gövdələrindən ayrılan hər bir qol; şaxə. payız çağında hər səhər soyuq-soyuq külək əsər; ağaclara",
+                "word": "MOKKO",
+                "explanation": "[coğr. is.-dən] əla qəhvə növü",
                 "isPanagram": false,
                 "score": 5,
-                "length": 5
+                "length": 5,
+                "id": 9
             },
             {
-                "word": "BUĞDA",
-                "explanation": "is. dənindən ağ un üyüdülən taxılnövü. ağ ***. sarı ***. xırda ***.*** unu",
+                "word": "ROLİK",
+                "explanation": "is. [rus. əsli alm.] 1. balaca metaldiyircək",
                 "isPanagram": false,
                 "score": 5,
-                "length": 5
+                "length": 5,
+                "id": 10
             },
             {
-                "word": "BUĞUR",
-                "explanation": "is. 1. cavan erkək dəvə. paça ***lar",
-                "isPanagram": false,
-                "score": 5,
-                "length": 5
-            },
-            {
-                "word": "BURĞU",
-                "explanation": "is. 1. müxtəlif dəlici alətlərin adı.dülgər ***su. dəmirçi ***su. – dırnağıəzrailə çəngəl idi; bığları bir ***ya timsalidi",
-                "isPanagram": false,
-                "score": 5,
-                "length": 5
-            },
-            {
-                "word": "BURUQ",
-                "explanation": "sif. 1. burulmuş. *** ip. *** sap. □ *** düşmək – dolaşmaq",
-                "isPanagram": false,
-                "score": 5,
-                "length": 5
-            },
-            {
-                "word": "DABAQ",
-                "explanation": "is. bayt. qaramal",
-                "isPanagram": false,
-                "score": 5,
-                "length": 5
-            },
-            {
-                "word": "QABAQ",
-                "explanation": "is. 1. bot. qarpız",
-                "isPanagram": false,
-                "score": 5,
-                "length": 5
-            },
-            {
-                "word": "QABAR",
-                "explanation": "is. 1. bədəndə dərinin altında əmələ gələn sulu ***cıq; suluq. □ *** olmaq – bax ***lamaq 1-ci mənada",
-                "isPanagram": false,
-                "score": 5,
-                "length": 5
-            },
-            {
-                "word": "QUBAR",
-                "explanation": "is. [ər.] 1. klas. toz",
-                "isPanagram": false,
-                "score": 5,
-                "length": 5
-            },
-            {
-                "word": "BAĞARA",
-                "explanation": "is. məh. 1. bax tağalaq.2. dayaz quyulardan dol ilə su",
+                "word": "KİRLİK",
+                "explanation": "is. bir şeyin çirklənməməsi üçünonun üzərinə çəkilən parça. // döşlük",
                 "isPanagram": false,
                 "score": 6,
-                "length": 6
+                "length": 6,
+                "id": 11
             },
             {
-                "word": "BARDAQ",
-                "explanation": "is. su və ya başqa mayelərtökmək",
+                "word": "ROKOKO",
+                "explanation": "[fr.] xvııı əsrdə fransadameydana gəlib formalarının zərifliyi və mürəkkəbliyi",
                 "isPanagram": false,
                 "score": 6,
-                "length": 6
+                "length": 6,
+                "id": 12
             },
             {
-                "word": "BURADA",
-                "explanation": "zərf (bəzən əvəz. mənasındaişlənir). bu yerdə. *** heç kəs yoxdur.getmə",
-                "isPanagram": false,
-                "score": 6,
-                "length": 6
-            },
-            {
-                "word": "BURBUĞ",
-                "explanation": "is. məh. saxsıdan qayrılmış qədimçalğı aləti",
-                "isPanagram": false,
-                "score": 6,
-                "length": 6
-            },
-            {
-                "word": "DABBAĞ",
-                "explanation": "is. [ər.] heyvan dərilərini aşılamavasitəsilə gönə və meşinə çevirməksənəti ilə məşğul olan usta. *** sevdiyidərini yerdən-yerə vurar",
-                "isPanagram": false,
-                "score": 6,
-                "length": 6
-            },
-            {
-                "word": "DARABA",
-                "explanation": "is. məh. 1. taxtadan və s.-dənhasar; arakəsmə. otağı *** ilə iki hissəyəayırmaq.2. evin yanında taxtadan və s",
-                "isPanagram": false,
-                "score": 6,
-                "length": 6
-            },
-            {
-                "word": "QURBAĞA",
-                "explanation": "is. 1. sıçramaq üçün dal ayaqlarıuzun",
-                "isPanagram": false,
-                "score": 7,
-                "length": 7
-            },
-            {
-                "word": "DARABARA",
-                "explanation": "is. mübahisə",
+                "word": "KİRLİLİK",
+                "explanation": "is. kirli şeyin halı; çirklilik",
                 "isPanagram": false,
                 "score": 8,
-                "length": 8
+                "length": 8,
+                "id": 13
             },
             {
-                "word": "QARAQABAQ",
-                "explanation": "sif. üzü gülməyən",
+                "word": "KOMİKLİK",
+                "explanation": "is. məzəlilik",
                 "isPanagram": false,
-                "score": 9,
-                "length": 9
+                "score": 8,
+                "length": 8,
+                "id": 14
             },
             {
-                "word": "QABARQABAR",
-                "explanation": "sif. hər tərəfi qabarlı",
+                "word": "LİLLİLİK",
+                "explanation": "is. lilli olma; lehməlilik",
                 "isPanagram": false,
-                "score": 10,
-                "length": 10
+                "score": 8,
+                "length": 8,
+                "id": 15
             },
             {
-                "word": "QARABUĞDA",
-                "explanation": "is. k.t. çovdar",
+                "word": "MİLLİLİK",
+                "explanation": "is. milli xüsusiyyət daşıma",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 16
+            },
+            {
+                "word": "MİKROİQLİM",
+                "explanation": "is. [mikro… və ər. iqlim]kiçik sahənin",
                 "isPanagram": true,
                 "score": 17,
-                "length": 9
+                "length": 10,
+                "id": 17
             }
         ]
     }

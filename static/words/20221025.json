@@ -2,314 +2,422 @@
     "gameData": {
         "day": "20221025",
         "expiration": "1666735140",
-        "centerLetter": "S",
+        "centerLetter": "K",
         "outerLetters": [
-            "İ",
-            "Ə",
-            "Ş",
             "T",
+            "İ",
+            "E",
             "L",
-            "R"
+            "S",
+            "A"
         ],
         "words_info": {
-            "word_count": 41,
-            "sum_score": 172,
-            "panagram_count": 1,
+            "word_count": 49,
+            "sum_score": 297,
+            "panagram_count": 2,
             "word_length": {
-                "7": 7,
-                "4": 17,
-                "6": 5,
-                "5": 10,
-                "9": 2
+                "6": 12,
+                "7": 9,
+                "8": 4,
+                "11": 1,
+                "10": 3,
+                "5": 11,
+                "4": 8,
+                "9": 1
             }
         },
         "words": [
             {
-                "word": "ƏRSƏ",
-                "explanation": "is. [ər.] 1. meydan",
+                "word": "KALA",
+                "explanation": "is. məh. böyük şüşə qab",
                 "isPanagram": false,
                 "score": 1,
-                "length": 4
+                "length": 4,
+                "id": 1
             },
             {
-                "word": "ƏSƏL",
-                "explanation": "is. [ər.] klas. bal. baqqal … ***qiymətinə satar ayranı. q.zakir",
+                "word": "KASA",
+                "explanation": "is. [fars.] 1. çini",
                 "isPanagram": false,
                 "score": 1,
-                "length": 4
+                "length": 4,
+                "id": 2
             },
             {
-                "word": "ƏSƏR",
-                "explanation": "is. [ər.] 1. iz",
+                "word": "KEKS",
+                "explanation": "[ing. cake",
                 "isPanagram": false,
                 "score": 1,
-                "length": 4
+                "length": 4,
+                "id": 3
             },
             {
-                "word": "ƏSİL",
-                "explanation": "is. [ər.] 1. əsas",
+                "word": "KİST",
+                "explanation": "is. [rus.] bir şeyə rəng və ya yapışqansürtmək",
                 "isPanagram": false,
                 "score": 1,
-                "length": 4
+                "length": 4,
+                "id": 4
             },
             {
-                "word": "ƏSİR",
-                "explanation": "is. [ər.] 1. müharibədə ələ keçirilən düşmən əsgəri",
+                "word": "SEKS",
+                "explanation": "is. [lat.] kişi və qadın arasında fizikiyaxınlıq",
                 "isPanagram": false,
                 "score": 1,
-                "length": 4
+                "length": 4,
+                "id": 5
             },
             {
-                "word": "ƏSRİ",
-                "explanation": "sif. müasir",
+                "word": "SİKL",
+                "explanation": "is. [yun.] dövr",
                 "isPanagram": false,
                 "score": 1,
-                "length": 4
+                "length": 4,
+                "id": 6
             },
             {
-                "word": "RƏİS",
-                "explanation": "is. [ər.] idarə edən",
+                "word": "SİLK",
+                "explanation": "is. [ər.] 1. feodalizm dövründəkisinfi münasibətlər əsasında meydana gələrək",
                 "isPanagram": false,
                 "score": 1,
-                "length": 4
+                "length": 4,
+                "id": 7
             },
             {
-                "word": "SƏLƏ",
-                "explanation": "is. küpə və s. qabların ağzını bağlamaqüçün kənd yerlərində işlədilən",
+                "word": "TALK",
+                "explanation": "is. [ər.] adətən toz halında təbabətdəvə tibdə işlədilən ağ və ya göy rəngliyumşaq mineral",
                 "isPanagram": false,
                 "score": 1,
-                "length": 4
+                "length": 4,
+                "id": 8
             },
             {
-                "word": "SƏLT",
-                "explanation": "sif. dan. bütünlüklə",
-                "isPanagram": false,
-                "score": 1,
-                "length": 4
-            },
-            {
-                "word": "SƏRT",
-                "explanation": "sif. 1. bərk",
-                "isPanagram": false,
-                "score": 1,
-                "length": 4
-            },
-            {
-                "word": "SİLƏ",
-                "explanation": "is. [ər.] 1. qovuşma",
-                "isPanagram": false,
-                "score": 1,
-                "length": 4
-            },
-            {
-                "word": "SİLL",
-                "explanation": "is. [ər.] köhn. vərəm. [ələkbər:] hərkim bu arvadın üzünə baxsa",
-                "isPanagram": false,
-                "score": 1,
-                "length": 4
-            },
-            {
-                "word": "SİRR",
-                "explanation": "is. [ər.] 1. başqalarından gizli saxlanılan",
-                "isPanagram": false,
-                "score": 1,
-                "length": 4
-            },
-            {
-                "word": "STİL",
-                "explanation": "[fr. style] bax üslub",
-                "isPanagram": false,
-                "score": 1,
-                "length": 4
-            },
-            {
-                "word": "ŞƏST",
-                "explanation": "is. [fars.] ləyaqət",
-                "isPanagram": false,
-                "score": 1,
-                "length": 4
-            },
-            {
-                "word": "ŞİST",
-                "explanation": "is. geol. quruluşca lay-lay olan dağsüxuru. gil layları güclü təzyiqin və istiliyintəsirindən ***ə çevrilir",
-                "isPanagram": false,
-                "score": 1,
-                "length": 4
-            },
-            {
-                "word": "TƏRS",
-                "explanation": "is. və sif. 1. bir şeyin əks tərəfi",
-                "isPanagram": false,
-                "score": 1,
-                "length": 4
-            },
-            {
-                "word": "SƏLİS",
-                "explanation": "sif. [ər.] rəvan",
+                "word": "ELLİK",
+                "explanation": "1. sif. bir yerin bütün camaatına",
                 "isPanagram": false,
                 "score": 5,
-                "length": 5
+                "length": 5,
+                "id": 9
             },
             {
-                "word": "SƏTİR",
-                "explanation": "is. [ər.] hər hansı bir mətnin birxətdə yazılmış hissəsi",
+                "word": "KALKA",
+                "explanation": "[fr.] 1. çertyojlardan",
                 "isPanagram": false,
                 "score": 5,
-                "length": 5
+                "length": 5,
+                "id": 10
             },
             {
-                "word": "SƏTRİ",
-                "explanation": "sif. [ər.] sətirbəsətir",
+                "word": "KASET",
+                "explanation": "is. fr. fotoplyonka",
                 "isPanagram": false,
                 "score": 5,
-                "length": 5
+                "length": 5,
+                "id": 11
             },
             {
-                "word": "SİLLƏ",
-                "explanation": "is. açıq əllə",
+                "word": "KASKA",
+                "explanation": "[fr. casque",
                 "isPanagram": false,
                 "score": 5,
-                "length": 5
+                "length": 5,
+                "id": 12
             },
             {
-                "word": "SİRLİ",
-                "explanation": "sif. 1. ürəyində sirri olan. *** adamaoxşayır.2. məxfi",
+                "word": "KASSA",
+                "explanation": "[ital.] 1. pul",
                 "isPanagram": false,
                 "score": 5,
-                "length": 5
+                "length": 5,
+                "id": 13
             },
             {
-                "word": "SİSLİ",
-                "explanation": "sif. çənli",
+                "word": "KATTA",
+                "explanation": "is. dan. bax kətxuda. ***nıgör",
                 "isPanagram": false,
                 "score": 5,
-                "length": 5
+                "length": 5,
+                "id": 14
             },
             {
-                "word": "TƏLİS",
-                "explanation": "is. əl-üz dəsmalı",
+                "word": "KİSEL",
+                "explanation": "is. [rus.] meyvə şirəsinə nişastavə s. qarışdırılmaqla hazırlanan həlməşik yeməknövü. meyvə ***i",
                 "isPanagram": false,
                 "score": 5,
-                "length": 5
+                "length": 5,
+                "id": 15
             },
             {
-                "word": "TƏRSƏ",
-                "explanation": "sif. və zərf tərs",
+                "word": "SAKİT",
+                "explanation": "sif. və zərf [ər.] 1. bərkdən səslənməyən",
                 "isPanagram": false,
                 "score": 5,
-                "length": 5
+                "length": 5,
+                "id": 16
             },
             {
-                "word": "TƏSİR",
-                "explanation": "is. [ər.] 1. əsər etmə və bunun nəticəsindəəmələ gələn hal",
+                "word": "SEKTA",
+                "explanation": "[lat. secta – nəzəriyyə",
                 "isPanagram": false,
                 "score": 5,
-                "length": 5
+                "length": 5,
+                "id": 17
             },
             {
-                "word": "TƏSİS",
-                "explanation": "is. [ər.] əsasını",
+                "word": "SELİK",
+                "explanation": "is. bəzi heyvan və bitki hüceyrələrininifraz etdiyi suvaşqan maddə. balıq bədənininsəthi xüsusi sürüşkən ***lə örtülüolur",
                 "isPanagram": false,
                 "score": 5,
-                "length": 5
+                "length": 5,
+                "id": 18
             },
             {
-                "word": "ƏSƏRLİ",
-                "explanation": "sif. təsirli",
+                "word": "TAKSİ",
+                "explanation": "[ing.",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 19
+            },
+            {
+                "word": "ASİLİK",
+                "explanation": "is. 1. itaətsizlik",
                 "isPanagram": false,
                 "score": 6,
-                "length": 6
+                "length": 6,
+                "id": 20
             },
             {
-                "word": "ƏSİLLİ",
-                "explanation": "sif. 1. əsil-nəcəbi olan",
+                "word": "ETİKET",
+                "explanation": "[fr.] malın",
                 "isPanagram": false,
                 "score": 6,
-                "length": 6
+                "length": 6,
+                "id": 21
             },
             {
-                "word": "SƏRİLİ",
-                "explanation": "sif. sərilmiş. *** paltar",
+                "word": "KASTET",
+                "explanation": "[fr. casse-tete – başını əz] baxbeşbarmaq 1-ci mənada",
                 "isPanagram": false,
                 "score": 6,
-                "length": 6
+                "length": 6,
+                "id": 22
             },
             {
-                "word": "SƏRSƏR",
-                "explanation": "is. [ər.] güclü və soyuq külək",
+                "word": "LASTİK",
+                "explanation": "[ing.] əsasən astarlıq üçün işlədilənparıldayan pambıq parça",
                 "isPanagram": false,
                 "score": 6,
-                "length": 6
+                "length": 6,
+                "id": 23
             },
             {
-                "word": "SİSTİT",
-                "explanation": "is. [yun.] sidik kisəsinin iltihabıxəstəliyi",
+                "word": "LEKSİK",
+                "explanation": "sif. dilç. [yun.] ***aya aidolan",
                 "isPanagram": false,
                 "score": 6,
-                "length": 6
+                "length": 6,
+                "id": 24
             },
             {
-                "word": "ƏLİİSTİ",
-                "explanation": "sif. mahir atıcı",
+                "word": "SALAKA",
+                "explanation": "is. [rus.] balıq növü",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 25
+            },
+            {
+                "word": "SEKSTA",
+                "explanation": "[lat. sexta – altıncı] mus. 1. diatonikqammanın altıncı pilləsi.2. diatonik qammanın birinci pilləsi iləaltıncı pilləsi arasında fasilə",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 26
+            },
+            {
+                "word": "SELLİK",
+                "explanation": "is. selin yuyub gətirdiyi qum",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 27
+            },
+            {
+                "word": "STATİK",
+                "explanation": "sif. [yun.] 1. ***aya aid.2. sabit",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 28
+            },
+            {
+                "word": "TAKTİK",
+                "explanation": "sif. [yun.] 1. ***aya aid olan",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 29
+            },
+            {
+                "word": "TELEKS",
+                "explanation": "is. [ing.] beynəlxalq abonent teleqrafınıntelefonlu rabitə şəbəkəsi",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 30
+            },
+            {
+                "word": "TİKİLİ",
+                "explanation": "is. bina",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 31
+            },
+            {
+                "word": "ATİLLİK",
+                "explanation": "is. fəaliyyətsizlik",
                 "isPanagram": false,
                 "score": 7,
-                "length": 7
+                "length": 7,
+                "id": 32
             },
             {
-                "word": "SƏLSƏLƏ",
-                "explanation": "is. [ər.] göyərçinə bənzər böyükquş",
+                "word": "ATLETİK",
+                "explanation": "sif. ***aya aid olan. ***məşq. *** yarış",
                 "isPanagram": false,
                 "score": 7,
-                "length": 7
+                "length": 7,
+                "id": 33
             },
             {
-                "word": "SƏRİŞTƏ",
-                "explanation": "is. [fars.] bir işə bələdlik",
+                "word": "ESTETİK",
+                "explanation": "is. [yun.] 1. bax estet.2. dan. incəsənət nəzəriyyəçisi",
                 "isPanagram": false,
                 "score": 7,
-                "length": 7
+                "length": 7,
+                "id": 34
             },
             {
-                "word": "SƏRSƏRİ",
-                "explanation": "sif. [fars.] 1. işi-gücü və müəyyənyeri olmayıb orada-burada dolaşan",
+                "word": "KALSEKS",
+                "explanation": "[lat.] əcz. xlorlu kalsium vəurotropin duzu (qripin qabağını almaq üçündərman kimi işlənir)",
                 "isPanagram": false,
                 "score": 7,
-                "length": 7
+                "length": 7,
+                "id": 35
             },
             {
-                "word": "SİLSİLƏ",
-                "explanation": "is. [ər.] 1. keçmişdə qadınların başlarına taxdıqları bir-birinə keçirilmiş halqalar",
+                "word": "KLASSİK",
+                "explanation": "[lat.] 1. elm",
                 "isPanagram": false,
                 "score": 7,
-                "length": 7
+                "length": 7,
+                "id": 36
             },
             {
-                "word": "TƏSƏLLİ",
-                "explanation": "is. [ər.] bir acını az da olsa unutduracaq",
+                "word": "SAİLLİK",
+                "explanation": "is. dilənçilik",
                 "isPanagram": false,
                 "score": 7,
-                "length": 7
+                "length": 7,
+                "id": 37
             },
             {
-                "word": "TƏSİRLİ",
-                "explanation": "sif. təsir edən",
+                "word": "SELİKLİ",
+                "explanation": "sif. anat. seliyi olan",
                 "isPanagram": false,
                 "score": 7,
-                "length": 7
+                "length": 7,
+                "id": 38
             },
             {
-                "word": "SİLSİLƏLİ",
-                "explanation": "sif. silsilə şəklində",
+                "word": "SİLİKAT",
+                "explanation": "[lat. silex (silicis) – çaxmaqdaşı]miner. 1. tərkibində silisium oksidi birləşmələriolan mineralların adı",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 39
+            },
+            {
+                "word": "ATLETİKA",
+                "explanation": "is. [yun.] idm. qüvvət və çevikliktələb edən gimnastik hərəkətlər. yüngül*** (qaçış",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 40
+            },
+            {
+                "word": "EKLEKTİK",
+                "explanation": "is. [yun.] kit. eklektizmə meyiledən",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 41
+            },
+            {
+                "word": "LİLLİLİK",
+                "explanation": "is. lilli olma; lehməlilik",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 42
+            },
+            {
+                "word": "SAKİTLİK",
+                "explanation": "is. 1. səs",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 43
+            },
+            {
+                "word": "KATALİTİK",
+                "explanation": "sif. [yun.] kim. katalizləbağlı olan",
                 "isPanagram": false,
                 "score": 9,
-                "length": 9
+                "length": 9,
+                "id": 44
             },
             {
-                "word": "SƏRİŞTƏLİ",
-                "explanation": "sif. səriştəsi",
+                "word": "STATİSTİKA",
+                "explanation": "[lat. status – vəziyyət] 1. insancəmiyyətinin və xalq təsərrüfatının inkişafındakəmiyyət dəyişikliklərini öyrənən vəbu sahədə əldə edilən məlumatı",
+                "isPanagram": false,
+                "score": 10,
+                "length": 10,
+                "id": 45
+            },
+            {
+                "word": "STİLİSTİKA",
+                "explanation": "[fr.",
+                "isPanagram": false,
+                "score": 10,
+                "length": 10,
+                "id": 46
+            },
+            {
+                "word": "EKLEKTİKLİK",
+                "explanation": "is. eklektik mahiyyətdəolma. nəticələrin eklektikliyi",
+                "isPanagram": false,
+                "score": 11,
+                "length": 11,
+                "id": 47
+            },
+            {
+                "word": "ELASTİK",
+                "explanation": "sif. [yun.] sıxılıb buraxıldıqdaəvvəlki şəklini alan",
                 "isPanagram": true,
                 "score": 17,
-                "length": 9
+                "length": 7,
+                "id": 48
+            },
+            {
+                "word": "ELASTİKLİK",
+                "explanation": "is. elastik şeyin hal vəkeyfiyyəti. bir elementin müxtəlif izotoplarıbir-birindən bir çox fiziki xassələri",
+                "isPanagram": true,
+                "score": 17,
+                "length": 10,
+                "id": 49
             }
         ]
     }

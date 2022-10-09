@@ -4,208 +4,394 @@
         "expiration": "1665698340",
         "centerLetter": "M",
         "outerLetters": [
-            "A",
+            "Ə",
+            "T",
             "İ",
-            "N",
-            "K",
-            "I",
-            "Ç"
+            "D",
+            "Ü",
+            "R"
         ],
         "words_info": {
-            "word_count": 26,
-            "sum_score": 126,
+            "word_count": 46,
+            "sum_score": 220,
             "panagram_count": 1,
             "word_length": {
-                "4": 10,
-                "5": 2,
-                "7": 2,
-                "9": 1,
+                "5": 14,
+                "6": 10,
+                "7": 4,
+                "4": 13,
                 "8": 4,
-                "6": 7
+                "10": 1
             }
         },
         "words": [
             {
-                "word": "AÇIM",
-                "explanation": "is. açılma zamanı",
+                "word": "ƏDƏM",
+                "explanation": "is. [ər.] klas. yoxluq. yəni ki",
                 "isPanagram": false,
                 "score": 1,
-                "length": 4
+                "length": 4,
+                "id": 1
             },
             {
-                "word": "AMAN",
-                "explanation": "is. [ər.] 1. əmin-***lıq",
+                "word": "ƏMİR",
+                "explanation": "sif. [ər.] 1. bir tayfanın və ya ölkəninbaşçısı. qəbilənin ***i. – şairin qəzəllərinəməftun olmuş dərbənd ***i onubu xaraba kənddən öz sarayına d",
                 "isPanagram": false,
                 "score": 1,
-                "length": 4
+                "length": 4,
+                "id": 2
             },
             {
-                "word": "AMİN",
-                "explanation": "[ər. əsli qədim yəh.] din. qəbulolsun",
+                "word": "ƏMMƏ",
+                "explanation": "is. [ər.] klas. bibi. aya",
                 "isPanagram": false,
                 "score": 1,
-                "length": 4
+                "length": 4,
+                "id": 3
             },
             {
-                "word": "ANMA",
-                "explanation": "“***q”dan f.is. *** mərasimi",
+                "word": "MƏDD",
+                "explanation": "is. [ər.] 1. coğr. köhn. bax qabarma2(cəzr müqabili).2. ərəb əlifbasında əlifin (“ ”) “a” kimioxunması üçün üstünə qoyulan diakritikişarə (~)",
                 "isPanagram": false,
                 "score": 1,
-                "length": 4
+                "length": 4,
+                "id": 4
             },
             {
-                "word": "KİMİ",
-                "explanation": "əvəz. bəzisi",
+                "word": "MƏDƏ",
+                "explanation": "is. [ər. midə] anat. insanda və heyvanlardaqarın boşluğunun yuxarı hissəsindəyerləşən həzm orqanı. *** ağrısı",
                 "isPanagram": false,
                 "score": 1,
-                "length": 4
+                "length": 4,
+                "id": 5
             },
             {
-                "word": "MAÇA",
-                "explanation": "is. 1. qoyun və başqa heyvanlarındirsəkdən aşağı bilək hissəsi. *** əti. ***bozbaşı.2. iri aşıq",
+                "word": "MƏMƏ",
+                "explanation": "is. məc. ana. [şərəfnisə xanım:]əgər ***m deyən dərviş olmasaydı",
                 "isPanagram": false,
                 "score": 1,
-                "length": 4
+                "length": 4,
+                "id": 6
             },
             {
-                "word": "MAKİ",
-                "explanation": "is. [fr.] 1. meşənin sıx yeri.2. ikinci dünya müharibəsi zamanı fransızpartizan dəstəsinin adı",
+                "word": "MƏRD",
+                "explanation": "is. [fars.] 1. kişi. çarpışmaq üçün lazım ikən ***ə cəsarət; bilməm neçin olmuş sana qalib əsəbiyyət",
                 "isPanagram": false,
                 "score": 1,
-                "length": 4
+                "length": 4,
+                "id": 7
             },
             {
-                "word": "MAMA",
-                "explanation": "is. doğuş zamanı kömək göstərməkləməşğul olan (keçmişdə təhsilsiz",
+                "word": "MƏRƏ",
+                "explanation": "is. ***-*** oyunu üçün qazılançuxur",
                 "isPanagram": false,
                 "score": 1,
-                "length": 4
+                "length": 4,
+                "id": 8
             },
             {
-                "word": "MANİ",
-                "explanation": "is. türk xalq şeri və nəğmə janrı",
+                "word": "MƏTƏ",
+                "explanation": "is. yerdə oyun üçün çəkilən dairə(əsasən uşaq oyunlarında). ***dən çıxmaq",
                 "isPanagram": false,
                 "score": 1,
-                "length": 4
+                "length": 4,
+                "id": 9
             },
             {
-                "word": "MİNA",
-                "explanation": "[fr.] 1. adətən torpağın",
+                "word": "MÜTİ",
+                "explanation": "sif. [ər.] itaət edən",
                 "isPanagram": false,
                 "score": 1,
-                "length": 4
+                "length": 4,
+                "id": 10
             },
             {
-                "word": "KAMAN",
-                "explanation": "is. [fars.] 1. bax ***ça. nəqədər dərdlidir o qırıq ***; şikayət eyləyiröz dünyasından. s.vurğun",
+                "word": "RƏMƏ",
+                "explanation": "is. [fars.] sürü. qoyun sürüsü",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 11
+            },
+            {
+                "word": "ÜMDƏ",
+                "explanation": "sif. [ər.] ən əsas",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 12
+            },
+            {
+                "word": "ÜMİD",
+                "explanation": "is. 1. arzu edilən bir şeyin ola biləcəyinəinanma və bu inamdan doğan daxilifərəh",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 13
+            },
+            {
+                "word": "DƏMƏT",
+                "explanation": "is. [ər.] çiçək dəstəsi",
                 "isPanagram": false,
                 "score": 5,
-                "length": 5
+                "length": 5,
+                "id": 14
             },
             {
-                "word": "MİNİK",
-                "explanation": "is. 1. bir yerə getmək üçün nəqliyyatvasitələrinin birinə minmiş adam. ancaqtək-tük üstüörtülü faytonlar içində ***lərgörünür",
+                "word": "DƏMİR",
+                "explanation": "is. 1. təbiətdə çox yayılmış",
                 "isPanagram": false,
                 "score": 5,
-                "length": 5
+                "length": 5,
+                "id": 15
             },
             {
-                "word": "MAKAKA",
-                "explanation": "is. [port.] əntərlər yarımfəsiləsindənolan meymun",
+                "word": "DƏRMƏ",
+                "explanation": "1. “***k”dən f.is.2. sif. dərilmiş",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 16
+            },
+            {
+                "word": "ƏMİRİ",
+                "explanation": "sif. 1. əmirə mənsub",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 17
+            },
+            {
+                "word": "ƏMTƏƏ",
+                "explanation": "is. [ər. “məta” söz. cəmi] iqt. kit. mübadilə üçün istehsal edilən əmək məhsulları; mal. *** insanın hər hansı bir ehtiyacını təmin edən",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 18
+            },
+            {
+                "word": "ƏRDƏM",
+                "explanation": "is. dan. hövsələ",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 19
+            },
+            {
+                "word": "MƏDƏD",
+                "explanation": "[ər.] 1. is. kömək",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 20
+            },
+            {
+                "word": "MƏRMİ",
+                "explanation": "is. [ər.] top kimi silahların gülləsi.birdən top ***si partladı",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 21
+            },
+            {
+                "word": "MÜDİR",
+                "explanation": "is. [ər.] bir idarəni",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 22
+            },
+            {
+                "word": "MÜRİD",
+                "explanation": "is. [ər.] keçmişdə: bir müsəlmantəriqət şeyxinə və ya mürşidə beyət edərəkondan təriqətin üsul və mərasimlərini öyrənənadam; şagird",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 23
+            },
+            {
+                "word": "TƏMİM",
+                "explanation": "is. [ər.] 1. ümumiləşdirmə.2. yayma",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 24
+            },
+            {
+                "word": "TƏMİR",
+                "explanation": "is. [ər.] bir şeyin xarab olmuş",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 25
+            },
+            {
+                "word": "TİRMƏ",
+                "explanation": "is. şərqdə: yun və ya ipəkdən toxunmanaxışlı qiymətli şal parça; ***şal.5 metr ***. // həmin parçadan olan",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 26
+            },
+            {
+                "word": "ÜMMƏT",
+                "explanation": "is. [ər.] 1. xalq",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 27
+            },
+            {
+                "word": "DƏMİRİ",
+                "explanation": "sif. dəmir rəngli",
                 "isPanagram": false,
                 "score": 6,
-                "length": 6
+                "length": 6,
+                "id": 28
             },
             {
-                "word": "MAKİNA",
-                "explanation": "[lat.] 1. ba x maşın 1-ci mənada.avtomobillərin",
+                "word": "DÜDƏMƏ",
+                "explanation": "sif. və is. 1. iki cinsdən törəmiş;mələz. qatır *** heyvandır.2. ikiağızlı; iri. *** bıçaq",
                 "isPanagram": false,
                 "score": 6,
-                "length": 6
+                "length": 6,
+                "id": 29
             },
             {
-                "word": "MAMAÇA",
-                "explanation": "is. xüsusi təhsili olmayanmama",
+                "word": "DÜRTMƏ",
+                "explanation": "1. “***k”dən f.is.2. is. əlini yumruq halına gətirərək barmaqlarınınqatlanmış yeri ilə vurma. onunqoluna bir *** vurdu",
                 "isPanagram": false,
                 "score": 6,
-                "length": 6
+                "length": 6,
+                "id": 30
             },
             {
-                "word": "MİÇMAN",
-                "explanation": "[ing.] 1. rus hərbi dəniz donanmasındastarşina heyətində ən böyük ad",
+                "word": "ƏRİTMƏ",
+                "explanation": "“***k”dən f.is. *** sexi",
                 "isPanagram": false,
                 "score": 6,
-                "length": 6
+                "length": 6,
+                "id": 31
             },
             {
-                "word": "MİNMİN",
-                "explanation": "zərf və sif. minlərcə",
+                "word": "MƏRMƏR",
+                "explanation": "is. [lat.] 1. heykəltəraşlıqda vəmemarlıqda işlənən müxtəlif rəngli kristallikdağ süxuru – kirəc daş",
                 "isPanagram": false,
                 "score": 6,
-                "length": 6
+                "length": 6,
+                "id": 32
             },
             {
-                "word": "MİNAÇI",
-                "explanation": "is. xüs. mina düzmə və ya düzülmüşminaları çıxarıb zərərsizləşdirmə mütəxəssisi",
+                "word": "MƏTƏRƏ",
+                "explanation": "is. [ər.] yolda",
                 "isPanagram": false,
                 "score": 6,
-                "length": 6
+                "length": 6,
+                "id": 33
             },
             {
-                "word": "NİKNAM",
-                "explanation": "sif. [fars.] köhn. yaxşı ad qoymuş",
+                "word": "MÜDDƏİ",
+                "explanation": "is. [ər.] köhn. 1. hüq. iddia edən",
                 "isPanagram": false,
                 "score": 6,
-                "length": 6
+                "length": 6,
+                "id": 34
             },
             {
-                "word": "KAMANÇA",
-                "explanation": "is. [fars.] alt tərəfi diz üstünəqoyulub yayla çalınan musiqi aləti; kaman.*** çalmaq. *** kirişi",
+                "word": "MÜDDƏT",
+                "explanation": "is. [ər.] 1. bir işin",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 35
+            },
+            {
+                "word": "MÜDİRƏ",
+                "explanation": "is. [ər.] qadın müdir. …reyhanxanım qızı ilə bərabər ***nin otağına daxiloldu. t.ş.simurq. [gilan qızı:] küçə qapısıağzında oturub ***mizin ə",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 36
+            },
+            {
+                "word": "MÜRTƏD",
+                "explanation": "is. və sif. [ər.] 1. öz dinini (müsəlmanlığı)atmış; allahsız",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 37
+            },
+            {
+                "word": "DİMDİRİ",
+                "explanation": "sif. çox diri",
                 "isPanagram": false,
                 "score": 7,
-                "length": 7
+                "length": 7,
+                "id": 38
             },
             {
-                "word": "KAMANÇI",
-                "explanation": "is. bax kamançaçı",
+                "word": "DÜMƏRDİ",
+                "explanation": "is. [fars.] köhn. ikiadamlıq.[ağa mərdan:] ağa kərim",
                 "isPanagram": false,
                 "score": 7,
-                "length": 7
+                "length": 7,
+                "id": 39
             },
             {
-                "word": "MAÇAMAÇA",
-                "explanation": "is. maça ilə oynanılan uşaqoyunu; aşıq-aşıq. uşaqlar maça-maça oynayırlar",
+                "word": "MÜƏTTƏR",
+                "explanation": "sif. [ər.] köhn. ətirli",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 40
+            },
+            {
+                "word": "TİTRƏMƏ",
+                "explanation": "“***k”dən f.is. işığın ***si.monometr əqrəbinin ***si. –[mələyin] canı sızıldayır və ağladığı səsinin***sindən anlaşılırdı",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 41
+            },
+            {
+                "word": "MƏRƏMƏRƏ",
+                "explanation": "is. qoz",
                 "isPanagram": false,
                 "score": 8,
-                "length": 8
+                "length": 8,
+                "id": 42
             },
             {
-                "word": "MİMİKAÇI",
-                "explanation": "is. 1. yaxşı mimikası olan artist",
+                "word": "MƏTƏMƏTƏ",
+                "explanation": "is. mətə içərisində oynanılanuşaq oyunu",
                 "isPanagram": false,
                 "score": 8,
-                "length": 8
+                "length": 8,
+                "id": 43
             },
             {
-                "word": "MİNİMİNİ",
-                "explanation": "sif. oxş. kiçicik",
+                "word": "TƏRƏDDÜM",
+                "explanation": "is. [ər.] köhn. irəlidə olma",
                 "isPanagram": false,
                 "score": 8,
-                "length": 8
+                "length": 8,
+                "id": 44
             },
             {
-                "word": "KAMANÇAÇI",
-                "explanation": "is. kamançada çalan çalğıçı. tarzən ilə *** məharətlə çalır",
+                "word": "TİTRƏTMƏ",
+                "explanation": "1. “***k”dən f.is.2. bax ***-qızdırma",
                 "isPanagram": false,
-                "score": 9,
-                "length": 9
+                "score": 8,
+                "length": 8,
+                "id": 45
             },
             {
-                "word": "MAKİNAÇI",
-                "explanation": "is. yazı maşınında yazan (qadın).sərvərov əmri qaraladı",
+                "word": "MÜTƏRƏDDİD",
+                "explanation": "sif. [ər.] müəyyən qərara gələ bilməyən",
                 "isPanagram": true,
                 "score": 17,
-                "length": 8
+                "length": 10,
+                "id": 46
             }
         ]
     }

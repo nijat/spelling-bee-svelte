@@ -2,168 +2,187 @@
     "gameData": {
         "day": "20221030",
         "expiration": "1667170740",
-        "centerLetter": "T",
+        "centerLetter": "C",
         "outerLetters": [
-            "İ",
-            "Z",
+            "G",
             "Ə",
-            "V",
-            "R",
-            "Ç"
+            "İ",
+            "M",
+            "K",
+            "R"
         ],
         "words_info": {
             "word_count": 20,
-            "sum_score": 85,
+            "sum_score": 91,
             "panagram_count": 1,
             "word_length": {
-                "4": 9,
-                "6": 4,
-                "5": 4,
-                "7": 1,
-                "9": 1,
-                "8": 1
+                "4": 7,
+                "6": 3,
+                "5": 7,
+                "8": 1,
+                "7": 2
             }
         },
         "words": [
             {
-                "word": "ÇƏTƏ",
-                "explanation": "is. [alb.] qeyri-müəyyən silahlıdəstə",
+                "word": "CƏMİ",
+                "explanation": "is. [ər.] bütün",
                 "isPanagram": false,
                 "score": 1,
-                "length": 4
+                "length": 4,
+                "id": 1
             },
             {
-                "word": "ƏTÇİ",
-                "explanation": "is. ətsatan",
+                "word": "CİCİ",
+                "explanation": "is. bəzi yerlərdə nəvazişlə anayadeyilir. …bunlar məgər təzə sözdür? bunu***m də bilir. “mol. nəsr",
                 "isPanagram": false,
                 "score": 1,
-                "length": 4
+                "length": 4,
+                "id": 2
             },
             {
-                "word": "ƏTƏR",
-                "explanation": "is. dan. iz",
+                "word": "CİRƏ",
+                "explanation": "is. bot. xırda ağ çiçəkləri olan birillikbitki (toxumlarından ədviyyə kimi istifadəedilir)",
                 "isPanagram": false,
                 "score": 1,
-                "length": 4
+                "length": 4,
+                "id": 3
             },
             {
-                "word": "ƏTİR",
-                "explanation": "is. [ər.] 1. gözəl iy",
+                "word": "ƏCƏM",
+                "explanation": "is. [ər.] 1. köhn. keçmişdə ərəbolmayan xalqlara və onların nümayəndələrinə",
                 "isPanagram": false,
                 "score": 1,
-                "length": 4
+                "length": 4,
+                "id": 4
             },
             {
-                "word": "TƏRZ",
-                "explanation": "is. [ər.] 1. üsul",
+                "word": "ƏCƏR",
+                "explanation": "is. təzəlik",
                 "isPanagram": false,
                 "score": 1,
-                "length": 4
+                "length": 4,
+                "id": 5
             },
             {
-                "word": "TƏZƏ",
-                "explanation": "sif. [fars.] yeni. aptekdən *** dərmangətirmişdilər. c.məmmədquluzadə. [gülyaz:]kəndimizə xəbər yayılıb ki",
+                "word": "ƏKƏC",
+                "explanation": "sif. və is. böyük",
                 "isPanagram": false,
                 "score": 1,
-                "length": 4
+                "length": 4,
+                "id": 6
             },
             {
-                "word": "TİRƏ",
-                "explanation": "is. 1. arx",
+                "word": "MƏRC",
+                "explanation": "is. bir şey üstündə mübahisə edəniki nəfər arasında bağlanan və uduzan tərəfinyerinə yetirməli olduğu bir şeyi nəzərdətutan şərt",
                 "isPanagram": false,
                 "score": 1,
-                "length": 4
+                "length": 4,
+                "id": 7
             },
             {
-                "word": "TİTƏ",
-                "explanation": "is. bəzi adamların göz bəbəyindəolan ağ ləkə",
-                "isPanagram": false,
-                "score": 1,
-                "length": 4
-            },
-            {
-                "word": "TİTR",
-                "explanation": "[fr.] 1. kinolentdə yazı",
-                "isPanagram": false,
-                "score": 1,
-                "length": 4
-            },
-            {
-                "word": "ÇƏTİR",
-                "explanation": "is. 1. günəşdən",
+                "word": "ƏCƏMİ",
+                "explanation": "sif. [ər.] köhn. 1. qeyri-ərəb qövmvə tayfalardan birinə mənsub olan",
                 "isPanagram": false,
                 "score": 5,
-                "length": 5
+                "length": 5,
+                "id": 8
             },
             {
-                "word": "VƏRTƏ",
-                "explanation": "is. [ər.] uçurum; təhlükə. boz at",
+                "word": "ƏCƏRİ",
+                "explanation": "sif. təzə",
                 "isPanagram": false,
                 "score": 5,
-                "length": 5
+                "length": 5,
+                "id": 9
             },
             {
-                "word": "VƏTƏR",
-                "explanation": "is. [ər.] anat. əzələləri sümüklərəbağlayan lent və lövhə şəklində sıx birləşdiricitoxumadan ibarət elastik törəmə",
+                "word": "ƏMCƏK",
+                "explanation": "is. məmə",
                 "isPanagram": false,
                 "score": 5,
-                "length": 5
+                "length": 5,
+                "id": 10
             },
             {
-                "word": "VİZİT",
-                "explanation": "[fr.] 1. görüş. [əbdürrəhman bəy:]elə şeyləri sən özün yaxşı bilirsən",
+                "word": "ƏMİCİ",
+                "explanation": "sif. 1. əmən",
                 "isPanagram": false,
                 "score": 5,
-                "length": 5
+                "length": 5,
+                "id": 11
             },
             {
-                "word": "ÇƏTƏÇİ",
-                "explanation": "is. çətə iştirakçısı",
+                "word": "GİCİK",
+                "explanation": "is. gic",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 12
+            },
+            {
+                "word": "KİRƏC",
+                "explanation": "is. tikintidə",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 13
+            },
+            {
+                "word": "MƏRCİ",
+                "explanation": "is. 1. bot. paxlalılar fəsiləsindəndənli bitki.2. həmin bitkinin xörəkdə işlədilən toxumu.şorbaya *** tökmək",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 14
+            },
+            {
+                "word": "CƏRİMƏ",
+                "explanation": "is. [ər.] pulla ödənilən cəza növü.[fəxrəddin:] məlumunuz olmalıdır ki",
                 "isPanagram": false,
                 "score": 6,
-                "length": 6
+                "length": 6,
+                "id": 15
             },
             {
-                "word": "ÇƏTVƏR",
-                "explanation": "is. [rus. четверг] köhn. metr sistemi tətbiqindən əvvəl 100 qrama bərabər ağırlıq ölçüsü. bir *** xına",
+                "word": "KƏRƏCİ",
+                "explanation": "is. bir neçə adamlıq dorlu qayıq.gəmi",
                 "isPanagram": false,
                 "score": 6,
-                "length": 6
+                "length": 6,
+                "id": 16
             },
             {
-                "word": "TƏRƏZİ",
-                "explanation": "is. [fars. tərazu] ağırlığı çəkibmüəyyənləşdirmək üçün cihaz. *** başındaduran kolxozçu tez-tez pambıq kisələriniçəkir",
+                "word": "MƏRCƏK",
+                "explanation": "is. qulağın aşağı ətli hissəsi",
                 "isPanagram": false,
                 "score": 6,
-                "length": 6
+                "length": 6,
+                "id": 17
             },
             {
-                "word": "TƏZVİR",
-                "explanation": "is. [ər.] 1. saxtalaşdırma.2. köhn. hiyləbazlıq",
-                "isPanagram": false,
-                "score": 6,
-                "length": 6
-            },
-            {
-                "word": "TƏRƏVƏZ",
-                "explanation": "is. yemək və xörək üçün işlədilənbostan bitkiləri (xiyar",
+                "word": "GİRƏCƏK",
+                "explanation": "is. 1. qapı ağzı",
                 "isPanagram": false,
                 "score": 7,
-                "length": 7
+                "length": 7,
+                "id": 18
             },
             {
-                "word": "TƏRƏZİÇİ",
-                "explanation": "is. şeyləri tərəzidə çəkən vəya onların çəkilməsinə nəzarət edən işçi.// qapançı",
+                "word": "MƏMƏCİK",
+                "explanation": "is. 1. balaca məmə",
                 "isPanagram": false,
-                "score": 8,
-                "length": 8
+                "score": 7,
+                "length": 7,
+                "id": 19
             },
             {
-                "word": "TƏRƏVƏZÇİ",
-                "explanation": "is. tərəvəz əkib becərməkləməşğul olan adam. ***lər briqadası",
+                "word": "GƏMİRCƏK",
+                "explanation": "is. 1. qığırdaq.2. atın (və ya eşşəyin) burun deşiklərindəəmələ gələn və kəsilib atılmaqla müalicəedilən şiş",
                 "isPanagram": true,
                 "score": 17,
-                "length": 9
+                "length": 8,
+                "id": 20
             }
         ]
     }

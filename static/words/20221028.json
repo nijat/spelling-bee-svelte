@@ -2,302 +2,163 @@
     "gameData": {
         "day": "20221028",
         "expiration": "1666994340",
-        "centerLetter": "L",
+        "centerLetter": "E",
         "outerLetters": [
-            "A",
-            "C",
-            "S",
-            "I",
-            "Ğ",
-            "D"
+            "Y",
+            "N",
+            "T",
+            "O",
+            "K",
+            "R"
         ],
         "words_info": {
-            "word_count": 39,
-            "sum_score": 215,
+            "word_count": 17,
+            "sum_score": 101,
             "panagram_count": 1,
             "word_length": {
-                "5": 15,
-                "7": 7,
-                "4": 6,
-                "6": 7,
-                "8": 2,
-                "10": 1,
-                "9": 1
+                "5": 7,
+                "7": 2,
+                "9": 2,
+                "6": 4,
+                "4": 2
             }
         },
         "words": [
             {
-                "word": "ADLI",
-                "explanation": "sif. 1. müəyyən adı olan",
+                "word": "TENT",
+                "explanation": "[ing.] günəş və yağışdan qorunmaqüçün parusin örtük. avtomaşının ***i",
                 "isPanagram": false,
                 "score": 1,
-                "length": 4
+                "length": 4,
+                "id": 1
             },
             {
-                "word": "AĞIL",
-                "explanation": "is. içərisində mal-qara və qoyunsaxlamaq üçün ətrafı tikan və ya ağac iləhasarlanmış üstüaçıq yer. qoyunlar s***ıbqurtardıqdan sonra",
+                "word": "TREK",
+                "explanation": "is. [ing.] idm. tamaşaçı tribunalarıilə əhatələnən və bərk örtüyü (beton",
                 "isPanagram": false,
                 "score": 1,
-                "length": 4
+                "length": 4,
+                "id": 2
             },
             {
-                "word": "ALĞI",
-                "explanation": "is. satın alma işi",
-                "isPanagram": false,
-                "score": 1,
-                "length": 4
-            },
-            {
-                "word": "ALLI",
-                "explanation": "sif. köhn. al rəngli paltar geymiş.tərifli gözəllər gəlhagəl oldu; yaşıllı",
-                "isPanagram": false,
-                "score": 1,
-                "length": 4
-            },
-            {
-                "word": "LIĞA",
-                "explanation": "is. qatı",
-                "isPanagram": false,
-                "score": 1,
-                "length": 4
-            },
-            {
-                "word": "SALI",
-                "explanation": "is. həftənin ikinci günü",
-                "isPanagram": false,
-                "score": 1,
-                "length": 4
-            },
-            {
-                "word": "ACILI",
-                "explanation": "sif. zəhərli",
+                "word": "EKKER",
+                "explanation": "[fr.] yerdə müəyyən dərəcəli bucaqlarqurmaq üçün geodeziya aləti; künyə",
                 "isPanagram": false,
                 "score": 5,
-                "length": 5
+                "length": 5,
+                "id": 3
             },
             {
-                "word": "AĞILI",
-                "explanation": "sif. zəhərli",
+                "word": "NETTO",
+                "explanation": "[ital.] 1. əmtəənin qabsız xaliskütləsi.2. itkilər",
                 "isPanagram": false,
                 "score": 5,
-                "length": 5
+                "length": 5,
+                "id": 4
             },
             {
-                "word": "ALALI",
-                "explanation": "sif. alası olan",
+                "word": "NONET",
+                "explanation": "is. [ital.] 1. doqquz alət və ya səsüçün musiqi əsəri.2. doqquz ifaçıdan ibarət musiqi ansamblı",
                 "isPanagram": false,
                 "score": 5,
-                "length": 5
+                "length": 5,
+                "id": 5
             },
             {
-                "word": "ALICI",
-                "explanation": "1. is. müştəri",
+                "word": "REKON",
+                "explanation": "is. [lat.] genetik rekombinasiyanınelementar vahidi",
                 "isPanagram": false,
                 "score": 5,
-                "length": 5
+                "length": 5,
+                "id": 6
             },
             {
-                "word": "ASILI",
-                "explanation": "sif. 1. asılmış halda olan",
+                "word": "RETRO",
+                "explanation": "is. [ing.] 1. geri qayıtmaq.2. keçmişə uyğunluq",
                 "isPanagram": false,
                 "score": 5,
-                "length": 5
+                "length": 5,
+                "id": 7
             },
             {
-                "word": "CAĞLI",
-                "explanation": "sif. cağ vurulmuş",
+                "word": "TENOR",
+                "explanation": "[ital.] ən uca zil kişi səsi. // beləsəsi olan müğənni. *** artist",
                 "isPanagram": false,
                 "score": 5,
-                "length": 5
+                "length": 5,
+                "id": 8
             },
             {
-                "word": "CALAL",
-                "explanation": "is. [ər.] əzəmət",
+                "word": "YENOT",
+                "explanation": "[lat. geneta] 1. zool. tünd-sarırəngli qiymətli xəzi olan yırtıcı heyvan.2. bu heyvanın dərisi",
                 "isPanagram": false,
                 "score": 5,
-                "length": 5
+                "length": 5,
+                "id": 9
             },
             {
-                "word": "CIĞAL",
-                "explanation": "sif. oyun zamanı oyunun qaydalarınıpozmağa və haqsız olduğu halda mübahisəetməyə adət etmiş adam. [həbibə]saçı dağınıq",
-                "isPanagram": false,
-                "score": 5,
-                "length": 5
-            },
-            {
-                "word": "DADLI",
-                "explanation": "1. sif. yaxşı dadı olan",
-                "isPanagram": false,
-                "score": 5,
-                "length": 5
-            },
-            {
-                "word": "DAĞAL",
-                "explanation": "sif. və is. dan. cığal; davakar.*** adam. oyuna *** qatmaq (cığallıqeləmək)",
-                "isPanagram": false,
-                "score": 5,
-                "length": 5
-            },
-            {
-                "word": "DAĞLI",
-                "explanation": "is. ***q yerdə yaşayan adam.burada ***lar yaşar bəxtiyar; qürurdanaralı",
-                "isPanagram": false,
-                "score": 5,
-                "length": 5
-            },
-            {
-                "word": "DALDA",
-                "explanation": "1. sif. sığınmağa və ya gizlənməyəyarayan. *** yer. *** divar.– kosa boşalmış küçənin *** yeri ilə yeriyibat tövlələrinin yanına çatdı",
-                "isPanagram": false,
-                "score": 5,
-                "length": 5
-            },
-            {
-                "word": "DALĞA",
-                "explanation": "is. 1. su səthinin hərəkəti nəticəsində əmələ gələn böyük ləpə. dənizdə *** var. köpüklü ***lar. – qabağındakı daşlara toxunan ***ların hər biri",
-                "isPanagram": false,
-                "score": 5,
-                "length": 5
-            },
-            {
-                "word": "DALLI",
-                "explanation": "sif. dalları (budaqları) olan. ***ağac",
-                "isPanagram": false,
-                "score": 5,
-                "length": 5
-            },
-            {
-                "word": "SIĞAL",
-                "explanation": "is. [ər. seyqəl] 1. bir şeyin üzərinə əlini yavaş-yavaş gəzdirmək və ya ona xəfif-xəfif toxundurmaqla öz sevgisini",
-                "isPanagram": false,
-                "score": 5,
-                "length": 5
-            },
-            {
-                "word": "AĞACLI",
-                "explanation": "sif. 1. ağacı olan",
+                "word": "KROKET",
+                "explanation": "[ing.] 1. şarları taxta çəkiclərləvurub məftil qapılardan keçirməkdən ibarətoyun. *** oynamaq. // bu oyun üçün ləvazimat",
                 "isPanagram": false,
                 "score": 6,
-                "length": 6
+                "length": 6,
+                "id": 10
             },
             {
-                "word": "AĞCALI",
-                "explanation": "sif. 1. köhn. pullu",
+                "word": "NEYRON",
+                "explanation": "is. [yun.] sinir sisteminin əsasfunksional və quruluş vahidi",
                 "isPanagram": false,
                 "score": 6,
-                "length": 6
+                "length": 6,
+                "id": 11
             },
             {
-                "word": "AĞILLI",
-                "explanation": "sif. 1. dərrakəli",
+                "word": "REKTOR",
+                "explanation": "[lat. rector – rəhbər",
                 "isPanagram": false,
                 "score": 6,
-                "length": 6
+                "length": 6,
+                "id": 12
             },
             {
-                "word": "ALADAĞ",
-                "explanation": "sif. dan. yanıq bişirilmiş (çörəkvə s.)",
+                "word": "TERROR",
+                "explanation": "[lat. therror – qorxu",
                 "isPanagram": false,
                 "score": 6,
-                "length": 6
+                "length": 6,
+                "id": 13
             },
             {
-                "word": "ALAĞAC",
-                "explanation": "is. dan. 1. sərhədlərdə basdırılannişan ağacı.2. məsafəni göstərmək üçün yol kənarlarındabasdırılan ağac",
-                "isPanagram": false,
-                "score": 6,
-                "length": 6
-            },
-            {
-                "word": "DALĞIC",
-                "explanation": "is. xüs. su keçirməyən xüsusipaltarla suyun altına dalıb orada iş görənpeşəkar işçi. ***lar dənizin dibinə düşdülər",
-                "isPanagram": false,
-                "score": 6,
-                "length": 6
-            },
-            {
-                "word": "LAĞLAĞ",
-                "explanation": "sif. və zərf 1. boş",
-                "isPanagram": false,
-                "score": 6,
-                "length": 6
-            },
-            {
-                "word": "ACILICA",
-                "explanation": "is. bot. bəzi növlərindən dərmanhasil edilən çoxillik ot bitkisi",
+                "word": "KONKRET",
+                "explanation": "sif. [lat. concretus – qatı",
                 "isPanagram": false,
                 "score": 7,
-                "length": 7
+                "length": 7,
+                "id": 14
             },
             {
-                "word": "ALACALI",
-                "explanation": "sif. dan. rəngbərəng",
+                "word": "NEYTRON",
+                "explanation": "[lat. neutum – nə o",
                 "isPanagram": false,
                 "score": 7,
-                "length": 7
+                "length": 7,
+                "id": 15
             },
             {
-                "word": "CALALLI",
-                "explanation": "sif. dəbdəbəli",
+                "word": "KORREKTOR",
+                "explanation": "[lat.] korrektura oxuyanvə düzəldən mətbəə və ya nəşriyyat işçisi;müsəhhih",
                 "isPanagram": false,
-                "score": 7,
-                "length": 7
+                "score": 9,
+                "length": 9,
+                "id": 16
             },
             {
-                "word": "DADLICA",
-                "explanation": "sif. çox dadlı",
-                "isPanagram": false,
-                "score": 7,
-                "length": 7
-            },
-            {
-                "word": "DALĞALI",
-                "explanation": "sif. 1. dalğası olan",
-                "isPanagram": false,
-                "score": 7,
-                "length": 7
-            },
-            {
-                "word": "LAĞLAĞI",
-                "explanation": "sif. çoxdanışan",
-                "isPanagram": false,
-                "score": 7,
-                "length": 7
-            },
-            {
-                "word": "SIĞALLI",
-                "explanation": "sif. hamar",
-                "isPanagram": false,
-                "score": 7,
-                "length": 7
-            },
-            {
-                "word": "AĞLADICI",
-                "explanation": "sif. 1. ağladan",
-                "isPanagram": false,
-                "score": 8,
-                "length": 8
-            },
-            {
-                "word": "ALDADICI",
-                "explanation": "sif. 1. tovlayan",
-                "isPanagram": false,
-                "score": 8,
-                "length": 8
-            },
-            {
-                "word": "DADLIDADLI",
-                "explanation": "1) sif. ləzzətli-ləzzətli",
-                "isPanagram": false,
-                "score": 10,
-                "length": 10
-            },
-            {
-                "word": "SAĞALDICI",
-                "explanation": "sif. sağaldan",
+                "word": "KONTEYNER",
+                "explanation": "[ing.] xüs. qablaşdırılmışyüklərin daşınması üçün böyük yeşik. ***lərivaqondan boşaltmaq. ***ləyük göndərmək",
                 "isPanagram": true,
                 "score": 17,
-                "length": 9
+                "length": 9,
+                "id": 17
             }
         ]
     }

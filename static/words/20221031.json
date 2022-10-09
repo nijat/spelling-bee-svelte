@@ -2,342 +2,164 @@
     "gameData": {
         "day": "20221031",
         "expiration": "1667257140",
-        "centerLetter": "N",
+        "centerLetter": "K",
         "outerLetters": [
+            "T",
+            "İ",
+            "Ç",
+            "U",
             "A",
-            "Ə",
-            "Ş",
-            "S",
-            "K",
-            "D"
+            "R"
         ],
         "words_info": {
-            "word_count": 45,
-            "sum_score": 180,
+            "word_count": 17,
+            "sum_score": 97,
             "panagram_count": 1,
             "word_length": {
-                "5": 12,
-                "4": 19,
-                "6": 9,
-                "7": 2,
-                "8": 3
+                "6": 6,
+                "4": 3,
+                "5": 5,
+                "9": 1,
+                "11": 1,
+                "7": 1
             }
         },
         "words": [
             {
-                "word": "ADNA",
-                "explanation": "is. cümə axşamı",
+                "word": "ÇİRK",
+                "explanation": "is. [fars.] 1. natəmizlikdən",
                 "isPanagram": false,
                 "score": 1,
-                "length": 4
+                "length": 4,
+                "id": 1
             },
             {
-                "word": "ANƏN",
-                "explanation": "zərf [ər.] birdən",
+                "word": "KİRT",
+                "explanation": "is. dəridə əmələ gələn qırış",
                 "isPanagram": false,
                 "score": 1,
-                "length": 4
+                "length": 4,
+                "id": 2
             },
             {
-                "word": "ASAN",
-                "explanation": "sif. zəhmət tələb etməyən",
+                "word": "KURA",
+                "explanation": "is. bot. sarı rəngli yabanı yeməlibitki",
                 "isPanagram": false,
                 "score": 1,
-                "length": 4
+                "length": 4,
+                "id": 3
             },
             {
-                "word": "AŞNA",
-                "explanation": "is. 1. dost",
-                "isPanagram": false,
-                "score": 1,
-                "length": 4
-            },
-            {
-                "word": "DANA",
-                "explanation": "is. bir yaşdan iki yaşa qədər olaninək balası. *** əti. – danışıq ***nı qurdaverər. (məsəl)",
-                "isPanagram": false,
-                "score": 1,
-                "length": 4
-            },
-            {
-                "word": "DƏNƏ",
-                "explanation": "is. [fars.] 1. eyni cinsdən olan şeylərin hər biri",
-                "isPanagram": false,
-                "score": 1,
-                "length": 4
-            },
-            {
-                "word": "ƏDNA",
-                "explanation": "sif. və is. [ər.] klas. 1. alçaq",
-                "isPanagram": false,
-                "score": 1,
-                "length": 4
-            },
-            {
-                "word": "ƏNƏK",
-                "explanation": "is. 1. yük atı",
-                "isPanagram": false,
-                "score": 1,
-                "length": 4
-            },
-            {
-                "word": "ƏSƏN",
-                "explanation": "sif. qəd. sağ",
-                "isPanagram": false,
-                "score": 1,
-                "length": 4
-            },
-            {
-                "word": "ƏSNA",
-                "explanation": "is. [ər.] vaxt",
-                "isPanagram": false,
-                "score": 1,
-                "length": 4
-            },
-            {
-                "word": "KƏND",
-                "explanation": "is. əhalisi",
-                "isPanagram": false,
-                "score": 1,
-                "length": 4
-            },
-            {
-                "word": "NANƏ",
-                "explanation": "[ər.] bot. yeyilən çoxillik ətirligöyərti növü. *** qurutmaq. üç dəstə ***.□ *** cövhəri (arağı) – ***dən çəkilənaraq",
-                "isPanagram": false,
-                "score": 1,
-                "length": 4
-            },
-            {
-                "word": "NƏNƏ",
-                "explanation": "is. 1. atanın",
-                "isPanagram": false,
-                "score": 1,
-                "length": 4
-            },
-            {
-                "word": "NƏŞƏ",
-                "explanation": "is. [ər.] kef",
-                "isPanagram": false,
-                "score": 1,
-                "length": 4
-            },
-            {
-                "word": "SƏNA",
-                "explanation": "is. [ər.] klas. tərif",
-                "isPanagram": false,
-                "score": 1,
-                "length": 4
-            },
-            {
-                "word": "SƏNƏ",
-                "explanation": "is. [ər.] il. bir gecəlik mətləbin bir*** mabədi var. m.ə.sabir. millətin beş*** bundan əqdəm; yüz nəfərdən biri tutmazdıqələm",
-                "isPanagram": false,
-                "score": 1,
-                "length": 4
-            },
-            {
-                "word": "ŞANA",
-                "explanation": "is. otu",
-                "isPanagram": false,
-                "score": 1,
-                "length": 4
-            },
-            {
-                "word": "ŞANƏ",
-                "explanation": "is. [fars.] klas. daraq. xumar-xumarbaxmaq göz qaydasıdır; lalətək qızarmaq üzqaydasıdır; pərişanlıq zülfün öz qaydasıdır;nə badi-səbadan",
-                "isPanagram": false,
-                "score": 1,
-                "length": 4
-            },
-            {
-                "word": "ŞANS",
-                "explanation": "is. [fr.] uğur qazanmaq imkanı",
-                "isPanagram": false,
-                "score": 1,
-                "length": 4
-            },
-            {
-                "word": "ADSAN",
-                "explanation": "is. nüfuz",
+                "word": "KARAT",
+                "explanation": "is. [ərəbcədən] xüs. qiymətlidaşların 200-206 mq-a bərabər çəki ölçüsü",
                 "isPanagram": false,
                 "score": 5,
-                "length": 5
+                "length": 5,
+                "id": 4
             },
             {
-                "word": "ANAŞA",
-                "explanation": "is. dan. xaşxaşdan hasil olan çoxzəhərli narkotik maddə",
+                "word": "KATTA",
+                "explanation": "is. dan. bax kətxuda. ***nıgör",
                 "isPanagram": false,
                 "score": 5,
-                "length": 5
+                "length": 5,
+                "id": 5
             },
             {
-                "word": "DƏŞNƏ",
-                "explanation": "is. [fars.] köhn. kiçik xəncər",
+                "word": "KİÇİK",
+                "explanation": "sif. 1. həcmcə",
                 "isPanagram": false,
                 "score": 5,
-                "length": 5
+                "length": 5,
+                "id": 6
             },
             {
-                "word": "ƏNƏNƏ",
-                "explanation": "is. [ər.] tarixən meydana gələrəknəsildən-nəslə keçən adətlər",
+                "word": "KİRKİ",
+                "explanation": "1 is. xüs. xalça toxunarkən ilməklərini sıxlaşdırmaq üçün işlədilən alət; daraq",
                 "isPanagram": false,
                 "score": 5,
-                "length": 5
+                "length": 5,
+                "id": 7
             },
             {
-                "word": "ƏSNƏK",
-                "explanation": "1. sif. çox əsnəyən.2. is. əsnəmə. *** gəlmək. – *** ***gətirər. (ata. sözü).3. anat. ağız boşluğundan qırtlağa gedəndeşik",
+                "word": "TARİK",
+                "explanation": "is. [ər.] köhn. tərk edən",
                 "isPanagram": false,
                 "score": 5,
-                "length": 5
+                "length": 5,
+                "id": 8
             },
             {
-                "word": "KƏNƏK",
-                "explanation": "sif. 1. ləpəsi çətin çıxan. ***qoz.2. məc. çətinliklə başa gələn",
-                "isPanagram": false,
-                "score": 5,
-                "length": 5
-            },
-            {
-                "word": "KƏSƏN",
-                "explanation": "f.is. hənd. əyrini iki və ya birneçə nöqtədə *** düz xətt. □ ***(kəsici) diş(lər) – ağzın ön tərəfində olanön diş(lər)",
-                "isPanagram": false,
-                "score": 5,
-                "length": 5
-            },
-            {
-                "word": "NADAN",
-                "explanation": "sif. [fars.] 1. cahil",
-                "isPanagram": false,
-                "score": 5,
-                "length": 5
-            },
-            {
-                "word": "NAKƏS",
-                "explanation": "sif. və is. [fars.] şərəfsiz",
-                "isPanagram": false,
-                "score": 5,
-                "length": 5
-            },
-            {
-                "word": "NAŞAD",
-                "explanation": "sif. [fars.] klas. qəmgin",
-                "isPanagram": false,
-                "score": 5,
-                "length": 5
-            },
-            {
-                "word": "NƏDƏN",
-                "explanation": "əvəz. nə üçün",
-                "isPanagram": false,
-                "score": 5,
-                "length": 5
-            },
-            {
-                "word": "SƏNƏD",
-                "explanation": "is. [ər.] 1. bir şeyi",
-                "isPanagram": false,
-                "score": 5,
-                "length": 5
-            },
-            {
-                "word": "ANDDAŞ",
-                "explanation": "is. müəyyən əhd",
+                "word": "ARKTİK",
+                "explanation": "sif. coğr. ***aya aid olan; şimali",
                 "isPanagram": false,
                 "score": 6,
-                "length": 6
+                "length": 6,
+                "id": 9
             },
             {
-                "word": "DƏNDAN",
-                "explanation": "is. [fars.] klas. diş. olmasa qabiləgər dəhr cəfa verməz ona; təm biləzzətolanda necə ***ə dəyər? m",
+                "word": "KAUÇUK",
+                "explanation": "[ing. əsli isp.] bəzi tropik bitkilərinşirəsindən",
                 "isPanagram": false,
                 "score": 6,
-                "length": 6
+                "length": 6,
+                "id": 10
             },
             {
-                "word": "ƏKƏNƏK",
-                "explanation": "is. taxıl əkilmiş yer",
+                "word": "KİRKİT",
+                "explanation": "1 is. xüs. xalça toxunarkən ilməklərini sıxlaşdırmaq üçün işlədilən alət; daraq",
                 "isPanagram": false,
                 "score": 6,
-                "length": 6
+                "length": 6,
+                "id": 11
             },
             {
-                "word": "ƏSASƏN",
-                "explanation": "[ər.] 1. zərf əsli",
+                "word": "KİRTİK",
+                "explanation": "is. bayt. atın axsamasına səbəbolan azar. at *** olmuşdur",
                 "isPanagram": false,
                 "score": 6,
-                "length": 6
+                "length": 6,
+                "id": 12
             },
             {
-                "word": "KANKAN",
-                "explanation": "is. [fars.] köhn. əl ilə quyuqazan;quyuçu. ***ın vəsiyyəti qızıl öküzdür.(ata. sözü). [məmməd:] atam ***idi",
+                "word": "KUTKUT",
+                "explanation": "zərf və sif. yığın halında",
                 "isPanagram": false,
                 "score": 6,
-                "length": 6
+                "length": 6,
+                "id": 13
             },
             {
-                "word": "KAŞANƏ",
-                "explanation": "is. [fars.] qəsr",
+                "word": "TAKTİK",
+                "explanation": "sif. [yun.] 1. ***aya aid olan",
                 "isPanagram": false,
                 "score": 6,
-                "length": 6
+                "length": 6,
+                "id": 14
             },
             {
-                "word": "ŞADƏNƏ",
-                "explanation": "sif. iri dənələri olan",
-                "isPanagram": false,
-                "score": 6,
-                "length": 6
-            },
-            {
-                "word": "ŞANŞAN",
-                "explanation": "sif. şanlar şəklində",
-                "isPanagram": false,
-                "score": 6,
-                "length": 6
-            },
-            {
-                "word": "ŞƏNŞƏN",
-                "explanation": "sif. və zərf sevinə-sevinə",
-                "isPanagram": false,
-                "score": 6,
-                "length": 6
-            },
-            {
-                "word": "DANƏNDƏ",
-                "explanation": "is. [fars.] klas. bilici",
+                "word": "TRAKTAT",
+                "explanation": "[lat. tractaus – müzakirə]1. ayrıca bir məsələdən",
                 "isPanagram": false,
                 "score": 7,
-                "length": 7
+                "length": 7,
+                "id": 15
             },
             {
-                "word": "DƏNDƏNƏ",
-                "explanation": "is. [fars.] 1. təkərin çevrəsinimərkəzə birləşdirən taxta. arabanın bir ***sisınmışdır. – [arabaçı:] …atlar arıq",
+                "word": "KARİKATUR",
+                "explanation": "[ital.] 1. bir şəxsi və hadisəni qəsdən gülünc surətdə təsvir edən şəkil. gülməli ***a. – qəzetin birinci səhifəsində çəkilmiş ***ada ağ b",
                 "isPanagram": false,
-                "score": 7,
-                "length": 7
+                "score": 9,
+                "length": 9,
+                "id": 16
             },
             {
-                "word": "DƏNƏDƏNƏ",
-                "explanation": "sif. dənələr halında",
-                "isPanagram": false,
-                "score": 8,
-                "length": 8
-            },
-            {
-                "word": "ŞANAŞANA",
-                "explanation": "sif. göz-göz",
-                "isPanagram": false,
-                "score": 8,
-                "length": 8
-            },
-            {
-                "word": "DAŞKƏSƏN",
-                "explanation": "sif. xüs. tikinti üçün daşlarımüəyyən ölçüdə kəsən; daşqıran. ***maşın",
+                "word": "KARİKATURÇU",
+                "explanation": "is. karikatura çəkən rəssam",
                 "isPanagram": true,
                 "score": 17,
-                "length": 8
+                "length": 11,
+                "id": 17
             }
         ]
     }
