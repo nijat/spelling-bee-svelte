@@ -1,6 +1,6 @@
 import { get } from 'svelte/store';
 import { toast } from '@zerodevx/svelte-toast';
-import { successToastOptions, errorToastOptions, hintToastOptions } from '$utils/config'
+import { successToastOptions, errorToastOptions } from '$utils/config'
 import gameDataStore from '$utils/store';
 
 const data = get(gameDataStore);
@@ -104,7 +104,8 @@ export function calculateUserPoints(word: string) {
 export function showHintonUI() {
 	toast.pop();
 	if (isHintAvailable()) {
-		toast.push(getHint(), hintToastOptions)
+		console.log("show hint")
+		// toast.push(getHint(), hintToastOptions)
 	} else {
 		toast.push(ErrorMessages.HINT_IS_NOT_AVAILABLE)
 	}

@@ -1,23 +1,22 @@
 import { writable } from 'svelte/store';
+import { browser } from '$app/env';
+
+const defaultValue = {};
+const initialValue = browser ? JSON.parse(window.localStorage.getItem('gameState')) ?? defaultValue : defaultValue;
 
 const foundWordList: string[] = []
-const gameDataStore = writable({
-	currentWord: '',
-	outerLetters: [''],
-	centerLetter: '',
-	foundWordList: foundWordList,
-	userPoints: 0,
-	words_info: {
-		sum_score: 0,
-		word_count: 0,
-		panagram_count: 0,
-		word_length: {}
-	},
-	words: []
+
+export const gameDataStore = writable<any>(initialValue);
+
+gameDataStore.subscribe((value) => {
+	if (browser) {
+		if (value != undefined)
+			window.localStorage.setItem('gameState', JSON.stringify(value));
+	}
 });
 
-export default gameDataStore;
 
+export default gameDataStore;
 export const storedData = writable(new Promise(() => { }));
 export const gameDataFromServer = writable({});
 
@@ -32,6 +31,22 @@ export function getData() {
 			localData.outerLetters = data.gameData.outerLetters
 			localData.words_info = data.gameData.words_info
 			localData.words = data.gameData.words
+			var timezone = new Date().getTime().toString().slice(0,10);
+			if (localData.expiration == null) {
+				localData.expiration = data.gameData.expiration
+				localData.currentWord = '';
+				localData.foundWordList = foundWordList;
+				localData.userPoints = 0;
+				localData.hintStep = 0;
+			}
+			if (timezone > localData.expiration) {
+				localData.expiration = data.gameData.expiration
+				localData.currentWord = '';
+				localData.foundWordList = foundWordList;
+				localData.userPoints = 0;
+				localData.hintStep = 0;
+			}
+
 			return localData
 		})
 	};

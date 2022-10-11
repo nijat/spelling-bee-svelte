@@ -227,6 +227,6 @@ mont-font {
 	--toastContainerRight: auto;
 	--toastBackground: #F56565;
 	--toastBarBackground: #C53030;
-	--toastContainerTop: 4rem;
+	--toastContainerTop: 3.5rem;
 	--toastContainerLeft: calc(50vw - 8rem);
 }
