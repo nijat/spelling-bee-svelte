@@ -39,7 +39,6 @@ export function getData() {
 				localData.userPoints = 0;
 				localData.hintStep = 0;
 			}
-
 			return localData
 		})
 	};
@@ -48,9 +47,7 @@ export function getData() {
 }
 
 export function getCurrentDate(separator = '') {
-	var dt = new Date();
-	const myTimeZone = 4; // Baku Timezone
-	dt.setTime(dt.getTime() + myTimeZone * 60 * 60 * 1000);
+	var dt = new Date(new Date().toLocaleString('en', {timeZone: 'Asia/Baku'}))
 	var year = dt.getFullYear();
 	var month = (dt.getMonth() + 1).toString().padStart(2, "0");
 	var day = dt.getDate().toString().padStart(2, "0");
