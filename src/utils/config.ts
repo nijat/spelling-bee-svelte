@@ -40,3 +40,11 @@ export var successToastOptions = {
 export var errorToastOptions = {
     duration: 2000,
 }
+
+export var hintToastOptions = {
+    theme: {
+        '--toastBackground': '#808080',
+        '--toastBarBackground': '#808080'
+    },
+    initial: 0, intro: { y: -64 },
+}

@@ -1,6 +1,6 @@
 import { get } from 'svelte/store';
 import { toast } from '@zerodevx/svelte-toast';
-import { successToastOptions, errorToastOptions } from '$utils/config'
+import { successToastOptions, errorToastOptions, hintToastOptions } from '$utils/config'
 import gameDataStore from '$utils/store';
 
 const data = get(gameDataStore);
@@ -10,8 +10,7 @@ enum ErrorMessages {
 	WORD_IS_NOT_CORRECT = 'Ən azı 3 hərfli söz yazmağa çalışın',
 	WORD_IS_EMPTY = 'Verilmiş hərflərdən söz yaratmağa çalışın',
 	WORD_IS_NOT_EXIST = 'Belə bir söz bazada mövcüd deyil',
-	CENTER_LETTER_NOT_EXIST = 'CENTER LETTER',
-	HINT_IS_NOT_AVAILABLE = 'HINT YOXDUR'
+	CENTER_LETTER_NOT_EXIST = 'Ortadakı hərfdən istifadə edərək söz yazın',
 }
 
 enum SuccessMessages {
@@ -103,18 +102,29 @@ export function calculateUserPoints(word: string) {
 
 export function showHintonUI() {
 	toast.pop();
-	if (isHintAvailable()) {
-		console.log("show hint")
-		// toast.push(getHint(), hintToastOptions)
-	} else {
-		toast.push(ErrorMessages.HINT_IS_NOT_AVAILABLE)
-	}
-}
-
-export function isHintAvailable() {
-	return true
+	toast.push(getHint(), hintToastOptions)
 }
 
 export function getHint() {
-	return data.words[0]["explanation"]
+	var currentTimestamp = getTimestamp()
+	if (currentTimestamp > data.hintExpiration || checkHintWordInFoundList(data.hintStep)) {
+		data.hintStep = data.hintStep + 1
+		while (checkHintWordInFoundList(data.hintStep)) {
+			data.hintStep = data.hintStep + 1
+		}
+		data.hintExpiration = currentTimestamp + 30 * 60
+	}
+
+	return data.words[data.hintStep]["explanation"]
+}
+
+export function getTimestamp(): number {
+	return parseInt(new Date().getTime().toString().slice(0, 10));
+}
+
+export function checkHintWordInFoundList(hintStep: number) {
+	if (data.foundWordList.includes(data.words[data.hintStep]["word"])) {
+		return true
+	}
+	return false
 }

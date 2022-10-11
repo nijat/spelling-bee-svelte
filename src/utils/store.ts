@@ -37,7 +37,8 @@ export function getData() {
 				localData.currentWord = '';
 				localData.foundWordList = foundWordList;
 				localData.userPoints = 0;
-				localData.hintStep = 0;
+				localData.hintStep = -1;
+				localData.hintExpiration = 0;
 			}
 			return localData
 		})
