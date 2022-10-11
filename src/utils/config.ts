@@ -29,6 +29,19 @@ export const rankingLevels = [
     }
 ]
 
+export const infoModalLangugage = {
+    "type": "Info",
+    "title": "Qaydalar",
+    "messages":
+        ["Pətəkdəki hərflərdən istifadə edərək sözlər qurun. Sözlər minimum 4 hərfdən ibarət olmalıdır. Sözlərdə mütləq “mərkəz hərf” olmalıdır. Lüğətdə müəyyən olmayan, tireli, xüsusi isimlər yoxdur. Sözlərdə hər hərfdən bir neçə dəfə istifadə oluna bilər. Reytinqinizi qaldırmaq üçün xallar toplayın. 4 hərfli sözlərin hər biri 1 xal dəyərindədir. Daha uzun sözlərdə isə hər hərf üçün əlavə 1 xal qazana bilərsiniz. Hər günün oyununda bütün hərflərdən istifadə olunmuş ən az bir ədəd “panqramma” var. Hər panqramma əlavə 7 xal dəyərindədir!"]
+}
+
+export const scoreModalLangugage = {
+    "type": "Score",
+    "title": "Xallar",
+    "messages": []
+}
+
 export var successToastOptions = {
     theme: {
         '--toastBackground': '#48BB78',

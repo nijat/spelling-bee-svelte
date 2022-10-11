@@ -36,6 +36,7 @@
 	},
 	"type": "module",
 	"dependencies": {
-		"@iconify/svelte": "^2.2.1"
+		"@iconify/svelte": "^2.2.1",
+		"svelte-modals": "^1.2.0"
 	}
 }
