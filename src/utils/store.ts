@@ -32,14 +32,7 @@ export function getData() {
 			localData.words_info = data.gameData.words_info
 			localData.words = data.gameData.words
 			var timezone = new Date().getTime().toString().slice(0, 10);
-			if (localData.expiration == null) {
-				localData.expiration = data.gameData.expiration
-				localData.currentWord = '';
-				localData.foundWordList = foundWordList;
-				localData.userPoints = 0;
-				localData.hintStep = 0;
-			}
-			if (timezone > localData.expiration) {
+			if (localData.expiration == null || timezone > localData.expiration) {
 				localData.expiration = data.gameData.expiration
 				localData.currentWord = '';
 				localData.foundWordList = foundWordList;
