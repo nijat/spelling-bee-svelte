@@ -77,7 +77,7 @@ export function isWordCorrect(currentWord: string) {
 }
 
 export function isWordExist(currentWord: string) {
-	if (data.words.some(e => e["word"] == currentWord)) {
+	if (data.words.some((e: any) => e["word"] == currentWord)) {
 		return true
 	}
 	return false;
@@ -94,7 +94,7 @@ export function showSuccessMessage(type: SuccessMessages) {
 }
 
 export function calculateUserPoints(word: string) {
-	data.words.forEach(function (value) {
+	data.words.forEach(function (value: any) {
 		if (value["word"] == word) {
 			data.userPoints += value["score"]
 		}
@@ -111,10 +111,10 @@ export function showHintonUI() {
 	}
 }
 
-export function isHintAvailable(){
+export function isHintAvailable() {
 	return true
 }
 
-export function getHint(){
+export function getHint() {
 	return data.words[0]["explanation"]
 }
