@@ -1,53 +1,15 @@
 <script lang="ts">
 	import Icon from '@iconify/svelte';
-	import { infoModalLangugage, scoreModalLangugage } from '$utils/config';
-	import { openModal } from 'svelte-modals';
-	import Modal from '$lib/modal.svelte';
-	import gameDataStore from '$utils/store';
+	import Modal from '$lib/modal/modal.svelte';
 
-	var word_length = $gameDataStore.words_info.word_length;
-	var found_length: any = {};
+	import { openModal } from 'svelte-modals';
 
 	function openInfo() {
-		openModal(Modal, infoModalLangugage);
+		openModal(Modal, {"type": "Info"});
 	}
 
 	function openScore() {
-		calculateWordLength();
-		getScoreText();
-		openModal(Modal, scoreModalLangugage);
-	}
-
-	function getScoreText() {
-		scoreModalLangugage.messages = [];
-		scoreModalLangugage.messages.push(
-			'Bu günün hərfləri ilə <b>' +
-				$gameDataStore.words_info.word_count +
-				'</b> söz tapmaq mümkündür.'
-		);
-		scoreModalLangugage.messages.push(
-			'Və <b>' +
-				$gameDataStore.words_info.panagram_count +
-				'</b> dənə panagram var, ala biləcəyiniz maximum xal: <b>' +
-				$gameDataStore.words_info.sum_score +
-				'</b>'
-		);
-
-		for (let length in found_length) {
-			scoreModalLangugage.messages.push(
-				length + ' hərfli sözlərin sayı: ' + found_length[length] + '/' + word_length[length]
-			);
-		}
-	}
-
-	function calculateWordLength() {
-		for (let length in word_length) {
-			found_length[length] = 0;
-		}
-		for (let word in $gameDataStore.foundWordList) {
-			let length = $gameDataStore.foundWordList[word].length;
-			found_length[length]++;
-		}
+		openModal(Modal, {"type": "Score"});
 	}
 </script>
 

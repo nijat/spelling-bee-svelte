@@ -22,6 +22,7 @@ export const gameDataFromServer = writable({});
 
 export function getData() {
 	const load = async () => {
+		console.log(getCurrentDate())
 		const response = await fetch(`https://sozuyaz.com/words/` + getCurrentDate() + `.json`);
 		const data = await response.json();
 		storedData.set(Promise.resolve(data));
@@ -31,8 +32,10 @@ export function getData() {
 			localData.outerLetters = data.gameData.outerLetters
 			localData.words_info = data.gameData.words_info
 			localData.words = data.gameData.words
-			var timezone = new Date().getTime().toString().slice(0, 10);
-			if (localData.expiration == null || timezone > localData.expiration) {
+			var current_timestamp = getTimestampAsTime()
+			console.log("old"+current_timestamp)
+			console.log("new"+localData.expiration)
+			if (localData.expiration == null || current_timestamp > localData.expiration) {
 				localData.expiration = data.gameData.expiration
 				localData.currentWord = '';
 				localData.foundWordList = foundWordList;
@@ -55,3 +58,7 @@ export function getCurrentDate(separator = '') {
 	return year + '' + month + '' + day;
 }
 
+export function getTimestampAsTime(){
+	var dt = new Date(new Date().toLocaleString('en', {timeZone: 'Asia/Baku'}))
+	return dt.getTime().toString().slice(0, 10);
+}
