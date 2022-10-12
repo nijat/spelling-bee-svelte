@@ -9,14 +9,22 @@
 	import SplashScreen from '$lib/splash_screen.svelte';
 	import Twitter from '$lib/twitter.svelte';
 
+	import { Confetti } from "svelte-confetti"
+
 	import { Modals, closeModal } from 'svelte-modals';
-	import { getData, storedData } from '$utils/store';
+	import { getData, storedData, gameDataStore } from '$utils/store';
 	getData();
 </script>
+
 
 {#await $storedData}
 	<SplashScreen />
 {:then data}
+	{#if $gameDataStore.userPoints==$gameDataStore.words_info.sum_score}
+		<div style="position: fixed; top: -50px; left: 0; height: 100vh; width: 100vw; display: flex; justify-content: center; overflow: hidden;">
+			<Confetti x={[-5, 5]} y={[0, 0.1]} delay={[500, 2000]}  infinite duration=5000 amount=500 fallDistance="100vh" />
+		</div>
+	{/if}
 	<Header />
 	<UserRankingBar />
 	<WordList />
@@ -28,6 +36,7 @@
 		<div slot="backdrop" class="backdrop" on:click={closeModal} />
 	</Modals>
 	<Twitter />
+	
 {:catch error}
 	Oops. something's wrong.
 {/await}

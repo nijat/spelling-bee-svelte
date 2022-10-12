@@ -37,6 +37,7 @@
 	"type": "module",
 	"dependencies": {
 		"@iconify/svelte": "^2.2.1",
+		"svelte-confetti": "^1.2.0",
 		"svelte-modals": "^1.2.0"
 	}
 }
