@@ -1,17 +1,15 @@
 <script lang="ts">
+	import { onMount } from 'svelte';
 	import { rankingLevels } from '$utils/config';
 	import gameDataStore from '$utils/store';
 
-	$: userPoints = $gameDataStore.userPoints
-	$: rankIndex = 0
-	$: maxScore = $gameDataStore.words_info.sum_score
+	$: userPoints = $gameDataStore.userPoints;
+	$: rankIndex = 0;
+	$: maxScore = $gameDataStore.words_info.sum_score;
 
 	function calculateUserRankBar() {
 		for (let i = 0; i < rankingLevels.length; i++) {
-			if (
-				rankingLevels &&
-				Math.floor(rankingLevels[i].minScoreMultiplier * maxScore) > userPoints
-			) {
+			if (rankingLevels && Math.floor(rankingLevels[i].minScoreMultiplier * maxScore) > userPoints) {
 				rankIndex = i - 1;
 				return;
 			}
@@ -20,10 +18,12 @@
 			}
 		}
 	}
-	gameDataStore.subscribe( valueE => {
-		calculateUserRankBar()
-	})
-	
+	gameDataStore.subscribe((valueE) => {
+		calculateUserRankBar();
+	});
+	onMount(async () => {
+		calculateUserRankBar();
+	});
 </script>
 
 <div class="max-w-md mx-auto p-2">
