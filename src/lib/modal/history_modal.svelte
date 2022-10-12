@@ -14,14 +14,14 @@
 
 	let promise = getYesterdayWords();
 
-    function getYesterdayTime(separator = '') {
-        var dt = new Date(new Date().toLocaleString('en', { timeZone: 'Asia/Baku' }))
-        dt.setDate(dt.getDate()-1)
-        var year = dt.getFullYear();
-        var month = (dt.getMonth() + 1).toString().padStart(2, "0");
-        var day = dt.getDate().toString().padStart(2, "0");
-        return year + '' + month + '' + day;
-    }
+	function getYesterdayTime(separator = '') {
+		var dt = new Date(new Date().toLocaleString('en', { timeZone: 'Asia/Baku' }));
+		dt.setDate(dt.getDate() - 1);
+		var year = dt.getFullYear();
+		var month = (dt.getMonth() + 1).toString().padStart(2, '0');
+		var day = dt.getDate().toString().padStart(2, '0');
+		return year + '' + month + '' + day;
+	}
 </script>
 
 <div role="dialog" class="modal">
@@ -35,8 +35,7 @@
 					<div id="scrollable-content">
 						<ul>
 							{#each words as word, i}
-                                
-								<p>{i+=1}. {word.word}</p>
+								<p>{(i += 1)}. {word.word}</p>
 							{/each}
 						</ul>
 					</div>
