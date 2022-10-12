@@ -22,7 +22,7 @@ export const gameDataFromServer = writable({});
 
 export function getData() {
 	const load = async () => {
-		const response = await fetch(`https://spelling-bee-svelte.vercel.app/words/` + getCurrentDate() + `.json`);
+		const response = await fetch(`https://sozuyaz.com/words/` + getCurrentDate() + `.json`);
 		const data = await response.json();
 		storedData.set(Promise.resolve(data));
 		gameDataFromServer.set(data)
