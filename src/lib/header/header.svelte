@@ -16,9 +16,8 @@
 
 	function getScoreText(){
 		scoreModalLangugage.messages = []
-		scoreModalLangugage.messages.push("Bu günün hərfləri ilə "+$gameDataStore.words_info.word_count+" söz tapmaq mümkündür.")
-		scoreModalLangugage.messages.push("Və "+$gameDataStore.words_info.panagram_count+" dənə panagram var, ala biləcəyiniz maximum xal: "+$gameDataStore.words_info.sum_score)
-		// scoreModalLangugage.message += "Bu günün hərfləri ilə "+$gameDataStore.words_info.word_count+" söz tapmaq mümkündür.\n"
+		scoreModalLangugage.messages.push("Bu günün hərfləri ilə <b>"+$gameDataStore.words_info.word_count+"</b> söz tapmaq mümkündür.")
+		scoreModalLangugage.messages.push("Və <b>"+$gameDataStore.words_info.panagram_count+"</b> dənə panagram var, ala biləcəyiniz maximum xal: <b>"+$gameDataStore.words_info.sum_score+"</b>")
 	}
 </script>
 

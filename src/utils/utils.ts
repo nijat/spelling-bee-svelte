@@ -1,21 +1,9 @@
 import { get } from 'svelte/store';
 import { toast } from '@zerodevx/svelte-toast';
-import { successToastOptions, errorToastOptions, hintToastOptions } from '$utils/config'
+import { successToastOptions, errorToastOptions, hintToastOptions, ErrorMessages, SuccessMessages } from '$utils/config'
 import gameDataStore from '$utils/store';
 
 const data = get(gameDataStore);
-
-enum ErrorMessages {
-	WORD_EXIST_ALREADY = 'Bu sözü artıq yazmısınız',
-	WORD_IS_NOT_CORRECT = 'Ən azı 3 hərfli söz yazmağa çalışın',
-	WORD_IS_EMPTY = 'Verilmiş hərflərdən söz yaratmağa çalışın',
-	WORD_IS_NOT_EXIST = 'Belə bir söz bazada mövcüd deyil',
-	CENTER_LETTER_NOT_EXIST = 'Ortadakı hərfdən istifadə edərək söz yazın',
-}
-
-enum SuccessMessages {
-	CORRECT = 'Əla, davam edin😛'
-}
 
 export function checkAndAddWord() {
 	let currentWord = data.currentWord;
@@ -123,7 +111,7 @@ export function getTimestamp(): number {
 }
 
 export function checkHintWordInFoundList(hintStep: number) {
-	if (data.foundWordList.includes(data.words[data.hintStep]["word"])) {
+	if (data.foundWordList.includes(data.words[hintStep]["word"])) {
 		return true
 	}
 	return false

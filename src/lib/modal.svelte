@@ -14,7 +14,7 @@
 			<div class="contents">
 				<h2>{title}</h2>
 				{#each messages as message, i}
-                    <p>{message}</p>
+                    <p>{@html message}</p>
                 {/each}
 				<div class="actions">
 					<button on:click={closeModal}>OK</button>
@@ -26,7 +26,7 @@
             <div class="contents">
                 <h2>{title}</h2>
                 {#each messages as message, i}
-                    <p>{message}</p>
+                    <p>{@html message}</p>
                 {/each}
                 <div class="actions">
                     <button on:click={closeModal}>OK</button>
