@@ -1,5 +1,5 @@
 <script lang="ts">
-	import gameDataStore from '$utils/store'
+	import gameDataStore from '$utils/store';
 	import Hex from '$lib/hexagon/hex.svelte';
 	$: outerLetters = $gameDataStore.outerLetters;
 	$: centerLetter = $gameDataStore.centerLetter;

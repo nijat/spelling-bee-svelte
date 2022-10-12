@@ -1,24 +1,19 @@
 <script lang="ts">
 	import Icon from '@iconify/svelte';
-	import { infoModalLangugage, scoreModalLangugage } from '$utils/config'
+	import Modal from '$lib/modal/modal.svelte';
+
 	import { openModal } from 'svelte-modals';
-	import Modal from '$lib/modal.svelte';
-	import gameDataStore from '$utils/store';
 
 	function openInfo() {
-		openModal(Modal, infoModalLangugage);
+		openModal(Modal, {"type": "Info"});
 	}
 
-	function openScore(){
-		getScoreText()
-		openModal(Modal, scoreModalLangugage)
+	function openScore() {
+		openModal(Modal, {"type": "Score"});
 	}
 
-	function getScoreText(){
-		scoreModalLangugage.messages = []
-		scoreModalLangugage.messages.push("Bu günün hərfləri ilə "+$gameDataStore.words_info.word_count+" söz tapmaq mümkündür.")
-		scoreModalLangugage.messages.push("Və "+$gameDataStore.words_info.panagram_count+" dənə panagram var, ala biləcəyiniz maximum xal: "+$gameDataStore.words_info.sum_score)
-		// scoreModalLangugage.message += "Bu günün hərfləri ilə "+$gameDataStore.words_info.word_count+" söz tapmaq mümkündür.\n"
+	function openHistory() {
+		openModal(Modal, {"type": "History"});
 	}
 </script>
 
@@ -31,11 +26,17 @@
 					class="text-gray-700 h-8 w-8 asm:h-6 asm:w-6"
 				/>
 			</div>
+			<div class="flex items-center cursor-pointer" style="visibility: hidden">
+				<Icon icon="bx:bx-bar-chart-alt-2" class="text-gray-700 h-8 w-8 asm:h-6 asm:w-6" />
+			</div>
 
 			<div class="flex items-center">
 				<div class="flex text-4xl space-x-2 asm:text-2xl font-medium text-gray-700">SÖZÜ YAZ</div>
 			</div>
 
+			<div class="flex items-center cursor-pointer" on:click={openHistory}>
+				<Icon icon="fluent:history-20-filled" class="text-gray-700 h-8 w-8 asm:h-6 asm:w-6" />
+			</div>
 			<div class="flex items-center cursor-pointer" on:click={openScore}>
 				<Icon icon="bx:bx-bar-chart-alt-2" class="text-gray-700 h-8 w-8 asm:h-6 asm:w-6" />
 			</div>

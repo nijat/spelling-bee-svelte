@@ -230,3 +230,69 @@ mont-font {
 	--toastContainerTop: 3.5rem;
 	--toastContainerLeft: calc(50vw - 8rem);
 }
+
+
+.modal {
+	position: fixed;
+	top: 0;
+	bottom: 0;
+	right: 0;
+	left: 0;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+
+	/* allow click-through to backdrop */
+	pointer-events: none;
+}
+
+.modal_contents {
+	/* min-width: 100%; */
+	max-width: 390px;
+	min-width: 380px;
+	
+	border-radius: 6px;
+	padding: 16px;
+	background: white;
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+	pointer-events: auto;
+}
+
+.modal_title {
+	text-align: center;
+	font-size: 24px;
+}
+
+.modal_content {
+	text-align: justify;
+	margin-top: 16px;
+}
+
+.modal_actions {
+	margin-top: 32px;
+	display: flex;
+	justify-content: flex-end;
+}
+
+.backdrop {
+	position: fixed;
+	top: 0;
+	bottom: 0;
+	right: 0;
+	left: 0;
+	background: rgba(0, 0, 0, 0.5);
+}
+
+#dialog-window {
+	height: 200px;
+}
+
+#scrollable-content {
+	height: 180px;
+	overflow: scroll;
+	background-color: #f0f0f0;
+	padding: 10px;
+	border-radius: 10px;
+}
