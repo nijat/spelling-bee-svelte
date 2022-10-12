@@ -248,7 +248,8 @@ mont-font {
 
 .modal_contents {
 	/* min-width: 100%; */
-	max-width: 440px;
+	max-width: 390px;
+	min-width: 380px;
 	
 	border-radius: 6px;
 	padding: 16px;

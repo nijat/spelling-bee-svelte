@@ -1,6 +1,7 @@
 <script lang="ts">
 	import ScoreModal from './score_modal.svelte';
 	import InfoModal from './info_modal.svelte';
+	import HistoryModal from './history_modal.svelte';
 
 	import { closeModal } from 'svelte-modals';
 
@@ -12,4 +13,6 @@
 	<InfoModal on:click={closeModal} />
 {:else if type == 'Score' && isOpen}
 	<ScoreModal on:click={closeModal} />
+{:else if type == 'History' && isOpen}
+	<HistoryModal on:click={closeModal} />
 {/if}
