@@ -1,5 +1,5 @@
 <script lang="ts">
-	import gameDataStore from '$utils/store'
+	import gameDataStore from '$utils/store';
 	export let center = true;
 	export let letter = '';
 
@@ -8,8 +8,8 @@
 	const midClassList = 'flex flex-col justify-center items-center';
 	const middleClass = center ? 'hex-center' : 'hex-middle';
 
-	function addLetterToCurrentWord(letter: string){
-		$gameDataStore.currentWord = $gameDataStore.currentWord + letter
+	function addLetterToCurrentWord(letter: string) {
+		$gameDataStore.currentWord = $gameDataStore.currentWord + letter;
 	}
 </script>
 

@@ -10,7 +10,6 @@
 	function cleanCurrentWord() {
 		$gameDataStore.currentWord = '';
 	}
-
 </script>
 
 <div class="max-w-md mx-auto">

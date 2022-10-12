@@ -19,9 +19,9 @@
 <div role="dialog" class="modal">
 	<div class="modal_contents">
 		<h2 class="modal_title">Xallar</h2>
-		<p class="pl-3 pb-1">Sözlər sayı: <b>{$gameDataStore.words_info.word_count}</b> </p>
-		<p class="pl-3 pb-1">Panaqram sayı: <b>{$gameDataStore.words_info.panagram_count}</b> </p>
-		<p class="pl-3 pb-5">Maksimum xal: <b>{$gameDataStore.words_info.sum_score}</b> </p>
+		<p class="pl-3 pb-1">Sözlər sayı: <b>{$gameDataStore.words_info.word_count}</b></p>
+		<p class="pl-3 pb-1">Panaqram sayı: <b>{$gameDataStore.words_info.panagram_count}</b></p>
+		<p class="pl-3 pb-5">Maksimum xal: <b>{$gameDataStore.words_info.sum_score}</b></p>
 		<ul class="list-disc pl-8">
 			{#each Object.entries(word_length) as [length, i]}
 				<li>

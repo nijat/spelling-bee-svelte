@@ -33,8 +33,8 @@ export function getData() {
 			localData.words_info = data.gameData.words_info
 			localData.words = data.gameData.words
 			var current_timestamp = getTimestampAsTime()
-			console.log("old"+current_timestamp)
-			console.log("new"+localData.expiration)
+			console.log("old" + current_timestamp)
+			console.log("new" + localData.expiration)
 			if (localData.expiration == null || current_timestamp > localData.expiration) {
 				localData.expiration = data.gameData.expiration
 				localData.currentWord = '';
@@ -51,14 +51,14 @@ export function getData() {
 }
 
 export function getCurrentDate(separator = '') {
-	var dt = new Date(new Date().toLocaleString('en', {timeZone: 'Asia/Baku'}))
+	var dt = new Date(new Date().toLocaleString('en', { timeZone: 'Asia/Baku' }))
 	var year = dt.getFullYear();
 	var month = (dt.getMonth() + 1).toString().padStart(2, "0");
 	var day = dt.getDate().toString().padStart(2, "0");
 	return year + '' + month + '' + day;
 }
 
-export function getTimestampAsTime(){
-	var dt = new Date(new Date().toLocaleString('en', {timeZone: 'Asia/Baku'}))
+export function getTimestampAsTime() {
+	var dt = new Date(new Date().toLocaleString('en', { timeZone: 'Asia/Baku' }))
 	return dt.getTime().toString().slice(0, 10);
 }

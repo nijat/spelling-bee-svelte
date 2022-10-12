@@ -27,7 +27,7 @@
 	<Modals>
 		<div slot="backdrop" class="backdrop" on:click={closeModal} />
 	</Modals>
-	<Twitter/>
+	<Twitter />
 {:catch error}
 	Oops. something's wrong.
 {/await}

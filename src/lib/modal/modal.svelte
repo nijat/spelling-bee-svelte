@@ -10,6 +10,6 @@
 
 {#if type == 'Info' && isOpen}
 	<InfoModal on:click={closeModal} />
-{:else if type == 'Score'  && isOpen}
+{:else if type == 'Score' && isOpen}
 	<ScoreModal on:click={closeModal} />
 {/if}
