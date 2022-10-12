@@ -49,14 +49,3 @@
 		</div>
 	</div>
 </div>
-
-<style>
-	#dialog-window {
-		height: 200px;
-	}
-
-	#scrollable-content {
-		height: 180px;
-		overflow: auto;
-	}
-</style>

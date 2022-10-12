@@ -284,3 +284,15 @@ mont-font {
 	left: 0;
 	background: rgba(0, 0, 0, 0.5);
 }
+
+#dialog-window {
+	height: 200px;
+}
+
+#scrollable-content {
+	height: 180px;
+	overflow: scroll;
+	background-color: #f0f0f0;
+	padding: 10px;
+	border-radius: 10px;
+}
