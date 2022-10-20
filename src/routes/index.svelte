@@ -20,11 +20,7 @@
 {#await $storedData}
 	<SplashScreen />
 {:then data}
-	{#if $gameDataStore.userPoints==$gameDataStore.words_info.sum_score}
-		<div style="position: fixed; top: -50px; left: 0; height: 100vh; width: 100vw; display: flex; justify-content: center; overflow: hidden;">
-			<Confetti x={[-5, 5]} y={[0, 0.1]} delay={[500, 2000]}  infinite duration=5000 amount=500 fallDistance="100vh" />
-		</div>
-	{/if}
+
 	<Header />
 	<UserRankingBar />
 	<WordList />
@@ -36,7 +32,11 @@
 		<div slot="backdrop" class="backdrop" on:click={closeModal} />
 	</Modals>
 	<Twitter />
-	
+	{#if $gameDataStore.userPoints==$gameDataStore.words_info.sum_score}
+		<div style="z-index: -1; position: fixed; top: -50px; left: 0; height: 100vh; width: 100vw; display: flex; justify-content: center; overflow: hidden; ">
+			<Confetti x={[-5, 5]} y={[0, 0.1]} delay={[500, 2000]}  infinite duration=5000 amount=500 fallDistance="100vh" />
+		</div>
+	{/if}
 {:catch error}
 	Oops. something's wrong.
 {/await}
