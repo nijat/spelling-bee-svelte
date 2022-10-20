@@ -20,7 +20,6 @@
 {#await $storedData}
 	<SplashScreen />
 {:then data}
-
 	<Header />
 	<UserRankingBar />
 	<WordList />
