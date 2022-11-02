@@ -1,0 +1,229 @@
+{
+    "gameData": {
+        "day": "20221222",
+        "expiration": "1671749940",
+        "centerLetter": "D",
+        "outerLetters": [
+            "Q",
+            "M",
+            "Ə",
+            "Y",
+            "Ö",
+            "İ"
+        ],
+        "words_info": {
+            "word_count": 25,
+            "sum_score": 106,
+            "panagram_count": 1,
+            "word_length": {
+                "4": 9,
+                "5": 11,
+                "6": 3,
+                "10": 1,
+                "7": 1
+            }
+        },
+        "words": [
+            {
+                "word": "DƏDƏ",
+                "explanation": "is. 1. ata. *** görməyib",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "DƏYƏ",
+                "explanation": "is. qarğıdan və s.-dən düzəldilmişkomacıq; alaçıq",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "DİDƏ",
+                "explanation": "is. [fars.] klas. göz. gər inanmazsan ki",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "DİYƏ",
+                "explanation": "is. [ər.] köhn. keçmiş zamanda: öldürülmüşadam və ya heyvan əvəzinə öldürəninverməli olduğu mal və ya pul; qanbahası",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "ƏDƏD",
+                "explanation": "is. [ər.] 1. say",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 5
+            },
+            {
+                "word": "ƏDƏM",
+                "explanation": "is. [ər.] klas. yoxluq. yəni ki",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 6
+            },
+            {
+                "word": "QƏDD",
+                "explanation": "is. [ər.] 1. boy",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 7
+            },
+            {
+                "word": "MƏDD",
+                "explanation": "is. [ər.] 1. coğr. köhn. bax qabarma2(cəzr müqabili).2. ərəb əlifbasında əlifin (“ ”) “a” kimioxunması üçün üstünə qoyulan diakritikişarə (~)",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 8
+            },
+            {
+                "word": "MƏDƏ",
+                "explanation": "is. [ər. midə] anat. insanda və heyvanlardaqarın boşluğunun yuxarı hissəsindəyerləşən həzm orqanı. *** ağrısı",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 9
+            },
+            {
+                "word": "DƏQİQ",
+                "explanation": "sif. [ər] 1. düpdüz",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 10
+            },
+            {
+                "word": "DƏMYƏ",
+                "explanation": "1. is. k.t. suvarılmayan yer. butorpaq ***dir. // sif. mənasında. bu yerlərdəəkilən. *** taxıl",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 11
+            },
+            {
+                "word": "DƏYMƏ",
+                "explanation": "“***k1”dən f.is. yerə ***",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 12
+            },
+            {
+                "word": "DÖYMƏ",
+                "explanation": "is. 1. “***k”dən f.is.2. quru meyvə tozu (poroşoku).3. xüs. *** üsulu ilə mis",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 13
+            },
+            {
+                "word": "ƏDƏDİ",
+                "explanation": "sif. [ər.] riyaz. ədədlərlə ifadəolunan. *** kəmiyyət. ədəbi nisbət. –diferensial tənlikləri təqribi həll etmək üçünmüxtəlif qrafik və *** meto",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 14
+            },
+            {
+                "word": "ƏQDƏM",
+                "explanation": "zərf. [ər.] qabaq",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 15
+            },
+            {
+                "word": "ƏQİDƏ",
+                "explanation": "is. [ər.] 1. insanın mühit",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 16
+            },
+            {
+                "word": "ƏYDƏM",
+                "explanation": "is. əyrilik",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 17
+            },
+            {
+                "word": "QƏDƏM",
+                "explanation": "is. [ər.] 1. addım. vəsiqəli adamlara hər ***də təsadüf etmək mümkün idi. m.s.ordubadi. atlar başladılar *** ilə getməyə",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 18
+            },
+            {
+                "word": "QƏDİM",
+                "explanation": "sif. [ər.] 1. çox köhnə zamanlara",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 19
+            },
+            {
+                "word": "MƏDƏD",
+                "explanation": "[ər.] 1. is. kömək",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 20
+            },
+            {
+                "word": "DƏQİQƏ",
+                "explanation": "is. [ər] 1. bir saatın altmışda birinə bərabər və ya 60 saniyədən ibarət olan vaxt ölçüsü. bir *** sükutdan sonra vəzir mirzə möhsün başladı danışm",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 21
+            },
+            {
+                "word": "QƏDƏMƏ",
+                "explanation": "is. [ər.] pillə (nərdivanda",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 22
+            },
+            {
+                "word": "QƏDİMİ",
+                "explanation": "sif. köhnə",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 23
+            },
+            {
+                "word": "QƏMDİDƏ",
+                "explanation": "sif. və is. [ər. qəm və fars.…didə] klas. qəm görmüş",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 24
+            },
+            {
+                "word": "DÖYMƏQİYMƏ",
+                "explanation": "is. aşp. döyülmüş ət",
+                "isPanagram": true,
+                "score": 17,
+                "length": 10,
+                "id": 25
+            }
+        ]
+    }
+}

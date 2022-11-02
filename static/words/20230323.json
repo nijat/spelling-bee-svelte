@@ -1,0 +1,157 @@
+{
+    "gameData": {
+        "day": "20230323",
+        "expiration": "1679612340",
+        "centerLetter": "I",
+        "outerLetters": [
+            "R",
+            "A",
+            "L",
+            "Ö",
+            "V",
+            "D"
+        ],
+        "words_info": {
+            "word_count": 16,
+            "sum_score": 85,
+            "panagram_count": 1,
+            "word_length": {
+                "4": 5,
+                "5": 4,
+                "7": 3,
+                "6": 2,
+                "10": 2
+            }
+        },
+        "words": [
+            {
+                "word": "ADLI",
+                "explanation": "sif. 1. müəyyən adı olan",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "ALLI",
+                "explanation": "sif. köhn. al rəngli paltar geymiş.tərifli gözəllər gəlhagəl oldu; yaşıllı",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "ARLI",
+                "explanation": "sif. həyalı",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "DARI",
+                "explanation": "is. yumru toxumları olan birillik taxılbitkisi və bu bitkinin dəni. *** əkini. – actoyuq yuxusunda *** görər",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "LARI",
+                "explanation": "sif. uzunqıçlı",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 5
+            },
+            {
+                "word": "ALALI",
+                "explanation": "sif. alası olan",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 6
+            },
+            {
+                "word": "DADLI",
+                "explanation": "1. sif. yaxşı dadı olan",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 7
+            },
+            {
+                "word": "DALLI",
+                "explanation": "sif. dalları (budaqları) olan. ***ağac",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 8
+            },
+            {
+                "word": "VARLI",
+                "explanation": "sif. dövlətli",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 9
+            },
+            {
+                "word": "AVARLI",
+                "explanation": "sif. avarı olan",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 10
+            },
+            {
+                "word": "DAVALI",
+                "explanation": "sif. dərman olan",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 11
+            },
+            {
+                "word": "ARVADLI",
+                "explanation": "sif. 1. evli; evi-arvadı olan.*** kişilər.2. yanında arvadı olan",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 12
+            },
+            {
+                "word": "DAVARLI",
+                "explanation": "sif. davarı olan",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 13
+            },
+            {
+                "word": "ÖVLADLI",
+                "explanation": "sif. övladı olan",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 14
+            },
+            {
+                "word": "DADLIDADLI",
+                "explanation": "1) sif. ləzzətli-ləzzətli",
+                "isPanagram": false,
+                "score": 10,
+                "length": 10,
+                "id": 15
+            },
+            {
+                "word": "DÖRDAVARLI",
+                "explanation": "sif. iki cüt avarı olan.*** qayıq",
+                "isPanagram": true,
+                "score": 17,
+                "length": 10,
+                "id": 16
+            }
+        ]
+    }
+}

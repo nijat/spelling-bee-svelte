@@ -1,0 +1,311 @@
+{
+    "gameData": {
+        "day": "20230130",
+        "expiration": "1675119540",
+        "centerLetter": "L",
+        "outerLetters": [
+            "U",
+            "Ə",
+            "N",
+            "D",
+            "Z",
+            "İ"
+        ],
+        "words_info": {
+            "word_count": 35,
+            "sum_score": 174,
+            "panagram_count": 1,
+            "word_length": {
+                "6": 4,
+                "4": 10,
+                "7": 6,
+                "5": 11,
+                "9": 2,
+                "11": 1,
+                "8": 1
+            }
+        },
+        "words": [
+            {
+                "word": "DƏLƏ",
+                "explanation": "is. 1. zool. yırtıcılar dəstəsindənxəzdərili məməli kiçik heyvan. *** dərisi.2. həmin heyvanın dərisi",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "DƏLİ",
+                "explanation": "1. sif. ağlı və şüuru yerində olmayan",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "ƏLİL",
+                "explanation": "is. və sif. xəstəlik və ya qocalıqnəticəsində əmək qabiliyyətini itirmiş;şikəst. ***lər cəmiyyəti",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "ƏLLİ",
+                "explanation": "sif. 1. əli olan. iri *** adam. 2. məc. qolu güclü",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "ƏZƏL",
+                "explanation": "[ər.] 1. is. əvvəli",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 5
+            },
+            {
+                "word": "LƏİN",
+                "explanation": "sif. və is. [ər.] bax məlun. bu isə",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 6
+            },
+            {
+                "word": "LƏLƏ",
+                "explanation": "is. 1. keçmişdə kübar və varlı ai***rdəoğlan uşağının tərbiyəsilə məşğul olanadam. [qətibə xanım:] səba xanım",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 7
+            },
+            {
+                "word": "UNLU",
+                "explanation": "sif. üstünə un səpilmiş (tökülmüş);una batmış. üstü-başı bütöv ***dur",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 8
+            },
+            {
+                "word": "ZƏLİ",
+                "explanation": "is. 1. şirin sularda yaşayan",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 9
+            },
+            {
+                "word": "ZİLİ",
+                "explanation": "is. xüs. xalça növlərindən birinin adı. [xalçanın sumaq] tipinin müxtəlif növləri qubada",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 10
+            },
+            {
+                "word": "DƏLİL",
+                "explanation": "is. [ər.] hər hansı bir şeyi sübut etməküçün əsas; sübut. tutarlı ***. *** gətirmək.bunu sübut etmək üçün *** lazımdır",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 11
+            },
+            {
+                "word": "DƏNLİ",
+                "explanation": "sif. k.t. dəni çox və yaxşı olan.*** sünbül. bu taxıllar çox ***dir.– …çöllər bərəkətli yaşıllıqla örtülürdü",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 12
+            },
+            {
+                "word": "DİLLİ",
+                "explanation": "sif. 1. ağzında dili olan. // danışa bilən",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 13
+            },
+            {
+                "word": "DUZLU",
+                "explanation": "sif. 1. tərkibində duz olan; şor. *** göl. *** su. xəzər dənizinin ətrafında *** göllər çoxdur",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 14
+            },
+            {
+                "word": "ƏZƏLƏ",
+                "explanation": "is. [ər.] anat. insan və heyvanbədəninin",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 15
+            },
+            {
+                "word": "ƏZƏLİ",
+                "explanation": "sif. [ər.] zamanca başlanğıcı",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 16
+            },
+            {
+                "word": "LƏZİZ",
+                "explanation": "sif. [ər.] bax ləzzətli 1-ci mənada.*** yeməklər. – bəli",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 17
+            },
+            {
+                "word": "LİLLİ",
+                "explanation": "sif. lehməli",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 18
+            },
+            {
+                "word": "ULDUZ",
+                "explanation": "is. 1. öz təbiəti etibarilə günəşəbənzəyən və gecələr göydə parıldayaraqnöqtə kimi görünən göy cismi",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 19
+            },
+            {
+                "word": "ZƏLİL",
+                "explanation": "sif. [ər.] zəlalətə düşmüş; yazıq",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 20
+            },
+            {
+                "word": "ZİLLİ",
+                "explanation": "sif. zil tökülmüş",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 21
+            },
+            {
+                "word": "DƏDƏLİ",
+                "explanation": "sif. atası olan",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 22
+            },
+            {
+                "word": "DƏNƏLİ",
+                "explanation": "sif. 1. dənli",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 23
+            },
+            {
+                "word": "ƏNZƏLİ",
+                "explanation": "is. [iranda şəhər adından]azərbaycan xalq oyun havalarından birininadı. tərəkəmə oyun havası ilə *** oyunhavasını müqayisə etsək",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 24
+            },
+            {
+                "word": "ZƏDƏLİ",
+                "explanation": "sif. zədəsi olan",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 25
+            },
+            {
+                "word": "DƏLƏDUZ",
+                "explanation": "is. fırıldaqçı",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 26
+            },
+            {
+                "word": "DƏLİLLİ",
+                "explanation": "sif. dəlili olan; sübutlu",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 27
+            },
+            {
+                "word": "ƏLİUZUN",
+                "explanation": "sif. dan. 1. başqasının malınaxəyanət edən",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 28
+            },
+            {
+                "word": "ƏZƏLƏLİ",
+                "explanation": "sif. inkişaf etmiş əzələləriolan. *** qollar. – həmişə fiziki işdə çalışanadamlara məxsus yoğun *** bir gəncingurultulu səsi onların danışı",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 29
+            },
+            {
+                "word": "ULDUZLU",
+                "explanation": "sif. ulduzlarla örtülü",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 30
+            },
+            {
+                "word": "ZƏLZƏLƏ",
+                "explanation": "is. [ər.] yer qabığının bəzi sahələrininvulkanik və ya tektonik proseslərüzündən güclü titrəməsi; yer sarsıntısı",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 31
+            },
+            {
+                "word": "DİLİUZUN",
+                "explanation": "sif. işində",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 32
+            },
+            {
+                "word": "DƏNDƏNƏLİ",
+                "explanation": "sif. dəndənəsi olan. o",
+                "isPanagram": false,
+                "score": 9,
+                "length": 9,
+                "id": 33
+            },
+            {
+                "word": "ZƏLZƏLƏLİ",
+                "explanation": "sif. tez-tez zəlzələ olan",
+                "isPanagram": false,
+                "score": 9,
+                "length": 9,
+                "id": 34
+            },
+            {
+                "word": "DƏNİZULDUZU",
+                "explanation": "is. zool. dərisitikanlılartipindən beşguşəli dəniz heyvanı",
+                "isPanagram": true,
+                "score": 17,
+                "length": 11,
+                "id": 35
+            }
+        ]
+    }
+}

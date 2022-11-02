@@ -1,0 +1,238 @@
+{
+    "gameData": {
+        "day": "20230208",
+        "expiration": "1675897140",
+        "centerLetter": "B",
+        "outerLetters": [
+            "D",
+            "Ö",
+            "R",
+            "Ə",
+            "T",
+            "M"
+        ],
+        "words_info": {
+            "word_count": 26,
+            "sum_score": 121,
+            "panagram_count": 1,
+            "word_length": {
+                "4": 10,
+                "6": 4,
+                "5": 4,
+                "7": 6,
+                "8": 1,
+                "11": 1
+            }
+        },
+        "words": [
+            {
+                "word": "BƏBƏ",
+                "explanation": "is. 1. körpə uşaq",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "BƏBR",
+                "explanation": "is. [fars.] məməli heyvanların yırtıcılar dəstəsinə mənsub pələngəoxşar heyvan. vəhşi heyvanlardan lənkəran sahəsində bəbir və respublikamızın meşələr",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "BƏDR",
+                "explanation": "is. [ər.] on dörd gecəlik ay",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "BƏRƏ",
+                "explanation": "is. 1. böyük çayların üstündə qurulanmütəhərrik körpü",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "DƏBƏ",
+                "explanation": "is. tib. qasıq yırtıqlığı xəstəliyi;qrıja. // bu cür xəstəliyi olan adam",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 5
+            },
+            {
+                "word": "ƏBƏD",
+                "explanation": "zərf [ər.] sonsuz gələcək zaman(əzəl qarşılığı). // ***i",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 6
+            },
+            {
+                "word": "ƏDƏB",
+                "explanation": "is. [ər.] əxlaq qaydalarına riayət",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 7
+            },
+            {
+                "word": "ƏRƏB",
+                "explanation": "is. 1. ön asiyada və şimali afrikadayaşayan",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 8
+            },
+            {
+                "word": "RƏBB",
+                "explanation": "is. ər. allah",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 9
+            },
+            {
+                "word": "RƏBT",
+                "explanation": "is. [ər.] 1. bağlama",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 10
+            },
+            {
+                "word": "DƏBBƏ",
+                "explanation": "is. [ər.] bir şey haqqında əldəedilmiş saziş və razılığı pozmaq üçün bəhanə",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 11
+            },
+            {
+                "word": "DƏRBƏ",
+                "explanation": "is. məh. mal-qaranın qışlıq yemehtiyatı",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 12
+            },
+            {
+                "word": "MƏBƏD",
+                "explanation": "is. [ər.] 1. ibadətgah",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 13
+            },
+            {
+                "word": "TƏBƏƏ",
+                "explanation": "is. [ər. “tabe” söz. cəmi] bir dövlətə tabe olan",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 14
+            },
+            {
+                "word": "BƏDTƏR",
+                "explanation": "sif. [fars.] bax betər. [heydərbəy:] səni toysuz aparmaq mənə ölümdən ***görünür. m.f.axundzadə",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 15
+            },
+            {
+                "word": "BƏRBƏT",
+                "explanation": "is. [ər.] uda oxşar qədim çalğıaləti. əldə incə ***",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 16
+            },
+            {
+                "word": "DƏMBƏR",
+                "explanation": "is. məh. quyruğu belinə qıvrılanit",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 17
+            },
+            {
+                "word": "MƏTBƏƏ",
+                "explanation": "is. [ər.] kitab",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 18
+            },
+            {
+                "word": "DƏBDƏBƏ",
+                "explanation": "is. [ər.] təmtəraq",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 19
+            },
+            {
+                "word": "DƏMBƏRƏ",
+                "explanation": "is. məh. qurumuş torpaq parçası;kəsək",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 20
+            },
+            {
+                "word": "DƏRBƏRƏ",
+                "explanation": "is. böyük darvazalardakı kiçikqapı",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 21
+            },
+            {
+                "word": "MƏRTƏBƏ",
+                "explanation": "is. [ər.] 1. evin üst-üstə tikilmişqatlarının hər biri; qat. evin üst ***si.5-ci ***.2. bir səviyyədə",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 22
+            },
+            {
+                "word": "MÖTƏBƏR",
+                "explanation": "sif. [ər.] 1. etibarlı",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 23
+            },
+            {
+                "word": "TƏTƏBBÖ",
+                "explanation": "is. [ər.] 1. tədqiq etmə",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 24
+            },
+            {
+                "word": "DƏRBƏDƏR",
+                "explanation": "sif. [fars.] qapı-qapı gəzən",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 25
+            },
+            {
+                "word": "DÖRDMƏRTƏBƏ",
+                "explanation": "sif. dörd mərtəbədən ibarət olan. ***(li) ev. – onlar geniş bir küçədə",
+                "isPanagram": true,
+                "score": 17,
+                "length": 11,
+                "id": 26
+            }
+        ]
+    }
+}

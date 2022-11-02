@@ -1,0 +1,214 @@
+{
+    "gameData": {
+        "day": "20230507",
+        "expiration": "1683496740",
+        "centerLetter": "U",
+        "outerLetters": [
+            "R",
+            "T",
+            "A",
+            "Q",
+            "S",
+            "O"
+        ],
+        "words_info": {
+            "word_count": 23,
+            "sum_score": 114,
+            "panagram_count": 1,
+            "word_length": {
+                "8": 2,
+                "5": 7,
+                "6": 5,
+                "4": 7,
+                "7": 1,
+                "10": 1
+            }
+        },
+        "words": [
+            {
+                "word": "QURS",
+                "explanation": "[ər. qürs] 1. is. yastı",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "QURU",
+                "explanation": "sif. 1. yaş olmayan",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "QUTU",
+                "explanation": "is. içinə şey qoymaq üçün taxtadan",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "SOUS",
+                "explanation": "[fr. sauce] xörək şirəsi",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "UQOR",
+                "explanation": "is. mərkəzi və şərqi avropada",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 5
+            },
+            {
+                "word": "URUQ",
+                "explanation": "is. ailə. uruğum olsun",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 6
+            },
+            {
+                "word": "USTA",
+                "explanation": "is. 1. bir sənəti lazımınca",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 7
+            },
+            {
+                "word": "QORUQ",
+                "explanation": "is. 1. təbii-tarixi əhəmiyyəti olanbitki",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 8
+            },
+            {
+                "word": "QOTUR",
+                "explanation": "1. is. heyvanlarda və bəzən insanlardayoluxucu dəri xəstəliyi (bu xəstəlikdədəridə xırda səpmə əmələ gəlir və çoxşiddətli qaşınma olur)",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 9
+            },
+            {
+                "word": "QUQQU",
+                "explanation": "is. zool. adətən özünə yuva tikməyib",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 10
+            },
+            {
+                "word": "QURAQ",
+                "explanation": "sif. və zərf yağmursuz",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 11
+            },
+            {
+                "word": "QURUT",
+                "explanation": "is. yumru-yumru edilib qurudulmuşşor",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 12
+            },
+            {
+                "word": "TOTUQ",
+                "explanation": "sif. sağlam",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 13
+            },
+            {
+                "word": "TUTAR",
+                "explanation": "is. güc",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 14
+            },
+            {
+                "word": "QURQUR",
+                "explanation": "is. dan. içinə giləli meyvəyığmaq üçün ağac qabığından qayrılanboruşəkilli qab. uşaqlar qur-qurda çiyələkgətirmişdilər",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 15
+            },
+            {
+                "word": "QURSAQ",
+                "explanation": "is. 1. gövşəyən heyvanların vəquşların birinci mədəsi. // ümumiyyətlə",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 16
+            },
+            {
+                "word": "OTURAQ",
+                "explanation": "1. sif. köçəri həyat keçirməyən",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 17
+            },
+            {
+                "word": "STATUS",
+                "explanation": "is. [lat.] vətəndaşın",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 18
+            },
+            {
+                "word": "SURSAT",
+                "explanation": "is. 1. bax azuqə. [qatırlara] su tuluqları",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 19
+            },
+            {
+                "word": "SUTUTAR",
+                "explanation": "is. sonradan istifadə etmək üçünsu toplanılan yer",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 20
+            },
+            {
+                "word": "QARAQURA",
+                "explanation": "is. 1. qarabasma. [əhməd:]ay oğlum",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 21
+            },
+            {
+                "word": "TARAQTURUQ",
+                "explanation": "is. təkrar edən",
+                "isPanagram": false,
+                "score": 10,
+                "length": 10,
+                "id": 22
+            },
+            {
+                "word": "SURROQAT",
+                "explanation": "is. [lat.] 1. nəyisə qismən əvəzedə bilən qayırma (geydirmə) məhsul; bədəl.2. saxta şey",
+                "isPanagram": true,
+                "score": 17,
+                "length": 8,
+                "id": 23
+            }
+        ]
+    }
+}

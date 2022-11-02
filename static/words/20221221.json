@@ -1,0 +1,199 @@
+{
+    "gameData": {
+        "day": "20221221",
+        "expiration": "1671663540",
+        "centerLetter": "R",
+        "outerLetters": [
+            "O",
+            "K",
+            "P",
+            "Ç",
+            "A",
+            "İ"
+        ],
+        "words_info": {
+            "word_count": 21,
+            "sum_score": 119,
+            "panagram_count": 2,
+            "word_length": {
+                "4": 6,
+                "6": 5,
+                "7": 2,
+                "5": 5,
+                "9": 1,
+                "8": 1,
+                "10": 1
+            }
+        },
+        "words": [
+            {
+                "word": "AÇAR",
+                "explanation": "is. 1. qıfılı açmaq və ya bağlamaqaləti. qapı ***ı. stolun ***ı. şkaf ***ı.– sən də açılmamış bir dəfinəsən; ***ıqeyb olan bir xəzinəsən",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "ARPA",
+                "explanation": "is. 1. adətən",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "ÇİRK",
+                "explanation": "is. [fars.] 1. natəmizlikdən",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "PARA",
+                "explanation": "is. [fars. parə] 1. bir parça",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "PARÇ",
+                "explanation": "is. tayqulp",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 5
+            },
+            {
+                "word": "PARK",
+                "explanation": "[ing.] 1. xiyabanları",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 6
+            },
+            {
+                "word": "ÇAPAR",
+                "explanation": "is. 1. keçmişdə: atla bir yerə məktub",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 7
+            },
+            {
+                "word": "KİRKİ",
+                "explanation": "1 is. xüs. xalça toxunarkən ilməklərini sıxlaşdırmaq üçün işlədilən alət; daraq",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 8
+            },
+            {
+                "word": "KİRPİ",
+                "explanation": "is. zool. məməlilər sinfindən dərisitikanla örtülü heyvan. çəpgöz ayı",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 9
+            },
+            {
+                "word": "PARÇA",
+                "explanation": "is. toxunma mallar: çit",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 10
+            },
+            {
+                "word": "PARİK",
+                "explanation": "[fr.] parçaya tikilmiş süni taxmasaç. *** qoymaq. teatr ***i. – ***in ənxırda təfərrüatında da zahiri bənzəyişə xüsusifikir verilmişdi",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 11
+            },
+            {
+                "word": "APRİOR",
+                "explanation": "[lat.] fəls. təcrübədən və təcrübənin nəticəsindən asılı olmayaraq. *** bilik",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 12
+            },
+            {
+                "word": "KARKOR",
+                "explanation": "is. həm qulağı eşitməyən",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 13
+            },
+            {
+                "word": "KİRPİK",
+                "explanation": "is. 1. göz qapağının kənarlarındakı tükcüklər. uzun ***lər. – anamın buz məzarından; bilirəm ki",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 14
+            },
+            {
+                "word": "RAPİRA",
+                "explanation": "[fr.] dördüzlü uzun elastik tiyəsi olan itiuclu silah (indi ancaq təlim və qılıncoynatma idmanında işlədilir)",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 15
+            },
+            {
+                "word": "ROKOKO",
+                "explanation": "[fr.] xvııı əsrdə fransadameydana gəlib formalarının zərifliyi və mürəkkəbliyi",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 16
+            },
+            {
+                "word": "APRİORİ",
+                "explanation": "[lat.] fəls. təcrübədən və təcrübənin nəticəsindən asılı olmayaraq. aprior bilik",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 17
+            },
+            {
+                "word": "ÇARPARA",
+                "explanation": "is. metal",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 18
+            },
+            {
+                "word": "PARÇAPARÇA",
+                "explanation": "zərf və sif. sınıq-sınıq",
+                "isPanagram": false,
+                "score": 10,
+                "length": 10,
+                "id": 19
+            },
+            {
+                "word": "KAPRİÇÇİO",
+                "explanation": "[ital.] mus. sərbəst və oynaq musiqi əsəri. fikrət əmirovun “azərbaycan” ***su",
+                "isPanagram": true,
+                "score": 17,
+                "length": 9,
+                "id": 20
+            },
+            {
+                "word": "KAPRİÇÇO",
+                "explanation": "[ital.] mus. sərbəst və oynaq musiqi əsəri. fikrət əmirovun “azərbaycan” kapriççiosu",
+                "isPanagram": true,
+                "score": 17,
+                "length": 8,
+                "id": 21
+            }
+        ]
+    }
+}

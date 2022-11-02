@@ -1,0 +1,253 @@
+{
+    "gameData": {
+        "day": "20230125",
+        "expiration": "1674687540",
+        "centerLetter": "M",
+        "outerLetters": [
+            "B",
+            "R",
+            "L",
+            "A",
+            "İ",
+            "E"
+        ],
+        "words_info": {
+            "word_count": 28,
+            "sum_score": 110,
+            "panagram_count": 1,
+            "word_length": {
+                "4": 13,
+                "6": 1,
+                "5": 9,
+                "8": 1,
+                "7": 4
+            }
+        },
+        "words": [
+            {
+                "word": "ALAM",
+                "explanation": "is. [ər. “ələm” söz. cəmi] qəm",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "ALİM",
+                "explanation": "[ər.] 1. is. hər hansı bir elm sahəsindəmütəxəssis olan adam. azərbaycan***ləri. dünyada tanınmış ***",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "ALMA",
+                "explanation": "is. müxtəlif çeşidləri və müxtəlif rənglərdə olan girdə",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "AMAL",
+                "explanation": "is. [ər. “əməl” söz. cəmi] tənt. qayə",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "AMİL",
+                "explanation": "is. [ər.] köhn. tacir müvəkkili",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 5
+            },
+            {
+                "word": "AMİR",
+                "explanation": "is. [ər.] buyuran",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 6
+            },
+            {
+                "word": "ARAM",
+                "explanation": "is. [fars.] sakitlik",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 7
+            },
+            {
+                "word": "ELAM",
+                "explanation": "is. [ər.] klas. bildirmə",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 8
+            },
+            {
+                "word": "ELMİ",
+                "explanation": "sif. [ər.] 1. elmə aid",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 9
+            },
+            {
+                "word": "EMAL",
+                "explanation": "is. [ər.] müxtəlif əməliyyat vasitəsiləqayırma",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 10
+            },
+            {
+                "word": "MAİL",
+                "explanation": "sif. [ər.] 1. hər hansı bir tərəfə əyilmiş; meyilli. *** xətt. *** səth. *** divar. – aşağı enən günəş də öz *** şüaları ilə gözləri qamaşdırırdı",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 11
+            },
+            {
+                "word": "MALA",
+                "explanation": "is. [fars.] 1. binanın iç və bayırdivarlarına çəkmək üçün əhəng",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 12
+            },
+            {
+                "word": "MAMA",
+                "explanation": "is. doğuş zamanı kömək göstərməkləməşğul olan (keçmişdə təhsilsiz",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 13
+            },
+            {
+                "word": "BİELM",
+                "explanation": "sif. [fars. bi… və ər. elm] elmsiz",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 14
+            },
+            {
+                "word": "BİMAR",
+                "explanation": "sif. və is. [fars.] xəstə",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 15
+            },
+            {
+                "word": "ELMLİ",
+                "explanation": "sif. təhsil görmüş",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 16
+            },
+            {
+                "word": "MAİLİ",
+                "explanation": "sif. [ər.] bir yana meyil edən; əyilən;düz olmayan",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 17
+            },
+            {
+                "word": "MARAL",
+                "explanation": "is. zool. buynuzları budaq kimişaxələnən",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 18
+            },
+            {
+                "word": "MEBEL",
+                "explanation": "[fr.] stol",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 19
+            },
+            {
+                "word": "MEMAR",
+                "explanation": "is. [ər.] ***lıq mütəxəssisi;arxitektor. [sənubər pərşana:] bu çox ciddiişdir",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 20
+            },
+            {
+                "word": "MİLLİ",
+                "explanation": "sif. 1. üzərində milləri olan",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 21
+            },
+            {
+                "word": "MİRAB",
+                "explanation": "is. [ər. mir və fars. ab] tar. keçmişdəşərq ölkələrində suvarma işlərinə nəzarətedən şəxs. [iskəndərzadə:] mən ***ıçağırtdırmışam",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 22
+            },
+            {
+                "word": "BARAMA",
+                "explanation": "is. 1. ipəkqurdu tırtılının nazikipək liflərindən hörərək",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 23
+            },
+            {
+                "word": "MALAMAL",
+                "explanation": "sif. və zərf [fars.] dolu",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 24
+            },
+            {
+                "word": "MARİMBA",
+                "explanation": "is. afrikada zərb musiqi aləti",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 25
+            },
+            {
+                "word": "MEBELLİ",
+                "explanation": "sif. mebeli olan",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 26
+            },
+            {
+                "word": "BİLAARAM",
+                "explanation": "[ər. bila… və fars. aram] baxaramsız. *** yağış yağır. ***danışır",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 27
+            },
+            {
+                "word": "MİRABEL",
+                "explanation": "is. [fr.] sarı gavalı növü",
+                "isPanagram": true,
+                "score": 17,
+                "length": 7,
+                "id": 28
+            }
+        ]
+    }
+}

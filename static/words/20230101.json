@@ -1,0 +1,318 @@
+{
+    "gameData": {
+        "day": "20230101",
+        "expiration": "1672613940",
+        "centerLetter": "T",
+        "outerLetters": [
+            "B",
+            "H",
+            "R",
+            "Ə",
+            "M",
+            "İ"
+        ],
+        "words_info": {
+            "word_count": 36,
+            "sum_score": 187,
+            "panagram_count": 1,
+            "word_length": {
+                "6": 8,
+                "10": 2,
+                "5": 10,
+                "4": 9,
+                "8": 4,
+                "7": 3
+            }
+        },
+        "words": [
+            {
+                "word": "ƏTƏR",
+                "explanation": "is. dan. iz",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "ƏTİR",
+                "explanation": "is. [ər.] 1. gözəl iy",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "MƏTƏ",
+                "explanation": "is. yerdə oyun üçün çəkilən dairə(əsasən uşaq oyunlarında). ***dən çıxmaq",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "RƏBT",
+                "explanation": "is. [ər.] 1. bağlama",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "TƏHT",
+                "explanation": "is. [ər.] adətən ***ində şəklində– altında",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 5
+            },
+            {
+                "word": "TİBB",
+                "explanation": "is. [ər.] 1. xəstəliklər",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 6
+            },
+            {
+                "word": "TİRƏ",
+                "explanation": "is. 1. arx",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 7
+            },
+            {
+                "word": "TİTƏ",
+                "explanation": "is. bəzi adamların göz bəbəyindəolan ağ ləkə",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 8
+            },
+            {
+                "word": "TİTR",
+                "explanation": "[fr.] 1. kinolentdə yazı",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 9
+            },
+            {
+                "word": "ƏMTƏƏ",
+                "explanation": "is. [ər. “məta” söz. cəmi] iqt. kit. mübadilə üçün istehsal edilən əmək məhsulları; mal. *** insanın hər hansı bir ehtiyacını təmin edən",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 10
+            },
+            {
+                "word": "TƏBƏƏ",
+                "explanation": "is. [ər. “tabe” söz. cəmi] bir dövlətə tabe olan",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 11
+            },
+            {
+                "word": "TƏBİB",
+                "explanation": "is. [ər.] həkim. *** olsam",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 12
+            },
+            {
+                "word": "TƏBİİ",
+                "explanation": "sif. [ər.] 1. təbiətə (yer səthinə",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 13
+            },
+            {
+                "word": "TƏBİR",
+                "explanation": "is. [ər.] 1. söz",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 14
+            },
+            {
+                "word": "TƏHƏR",
+                "explanation": "[ər. tövr-dən] 1. is. cür",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 15
+            },
+            {
+                "word": "TƏMİM",
+                "explanation": "is. [ər.] 1. ümumiləşdirmə.2. yayma",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 16
+            },
+            {
+                "word": "TƏMİR",
+                "explanation": "is. [ər.] bir şeyin xarab olmuş",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 17
+            },
+            {
+                "word": "TİBBİ",
+                "explanation": "sif. [ər.] tiblə",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 18
+            },
+            {
+                "word": "TİRMƏ",
+                "explanation": "is. şərqdə: yun və ya ipəkdən toxunmanaxışlı qiymətli şal parça; ***şal.5 metr ***. // həmin parçadan olan",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 19
+            },
+            {
+                "word": "BƏRBƏT",
+                "explanation": "is. [ər.] uda oxşar qədim çalğıaləti. əldə incə ***",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 20
+            },
+            {
+                "word": "ƏRİTMƏ",
+                "explanation": "“***k”dən f.is. *** sexi",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 21
+            },
+            {
+                "word": "MƏTBƏƏ",
+                "explanation": "is. [ər.] kitab",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 22
+            },
+            {
+                "word": "MƏTƏRƏ",
+                "explanation": "is. [ər.] yolda",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 23
+            },
+            {
+                "word": "RƏHMƏT",
+                "explanation": "is. [ər.] klas. 1. yazığı gəlmə",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 24
+            },
+            {
+                "word": "TƏBİƏT",
+                "explanation": "is. [ər.] 1. yerdə təbii şəraitin(yerin səthi",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 25
+            },
+            {
+                "word": "TƏHRİR",
+                "explanation": "is. [ər.] klas. yazma",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 26
+            },
+            {
+                "word": "TƏRTİB",
+                "explanation": "is. [ər.] 1. ayrı-ayrı hissələri",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 27
+            },
+            {
+                "word": "MƏRTƏBƏ",
+                "explanation": "is. [ər.] 1. evin üst-üstə tikilmişqatlarının hər biri; qat. evin üst ***si.5-ci ***.2. bir səviyyədə",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 28
+            },
+            {
+                "word": "TƏHRİRİ",
+                "explanation": "sif. və zərf [ər.] yazılı",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 29
+            },
+            {
+                "word": "TİTRƏMƏ",
+                "explanation": "“***k”dən f.is. işığın ***si.monometr əqrəbinin ***si. –[mələyin] canı sızıldayır və ağladığı səsinin***sindən anlaşılırdı",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 30
+            },
+            {
+                "word": "MƏHƏBBƏT",
+                "explanation": "is. [ər.] 1. eşq",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 31
+            },
+            {
+                "word": "MƏRHƏMƏT",
+                "explanation": "is. [ər.] rəhm",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 32
+            },
+            {
+                "word": "MƏTƏMƏTƏ",
+                "explanation": "is. mətə içərisində oynanılanuşaq oyunu",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 33
+            },
+            {
+                "word": "TİTRƏTMƏ",
+                "explanation": "1. “***k”dən f.is.2. bax ***-qızdırma",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 34
+            },
+            {
+                "word": "BİRMƏRTƏBƏ",
+                "explanation": "sif. bir mərtəbəsi",
+                "isPanagram": false,
+                "score": 10,
+                "length": 10,
+                "id": 35
+            },
+            {
+                "word": "BİMƏRHƏMƏT",
+                "explanation": "sif. [fars. bi… və ər.mərhəmət] mərhəmətsiz",
+                "isPanagram": true,
+                "score": 17,
+                "length": 10,
+                "id": 36
+            }
+        ]
+    }
+}

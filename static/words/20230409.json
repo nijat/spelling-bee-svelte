@@ -1,0 +1,414 @@
+{
+    "gameData": {
+        "day": "20230409",
+        "expiration": "1681077540",
+        "centerLetter": "Ü",
+        "outerLetters": [
+            "L",
+            "K",
+            "D",
+            "S",
+            "Ö",
+            "Z"
+        ],
+        "words_info": {
+            "word_count": 48,
+            "sum_score": 237,
+            "panagram_count": 1,
+            "word_length": {
+                "6": 12,
+                "9": 2,
+                "5": 15,
+                "4": 12,
+                "7": 4,
+                "8": 3
+            }
+        },
+        "words": [
+            {
+                "word": "DÜZÜ",
+                "explanation": "is. doğrusu (bəzən “sözün” sözüilə birlikdə). eşitginən koroğlunun sözünü;mən bilirəm əyrisini",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "KÜKÜ",
+                "explanation": "is. göyərti və yumurtadan (bəzəndə balıqdan) hazırlanan xörək. *** bişirmək.– bəylər yeyər nahara küftə",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "KÜLL",
+                "explanation": "[ər.] 1. bütün",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "KÜLÜ",
+                "explanation": "sif. 1. k.t. bozumtul-ağ. *** torpaq.2. kül rəngində olan",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "KÜSÜ",
+                "explanation": "is. bir-biri ilə danışmama halı; küsmə.***lü qardaş",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 5
+            },
+            {
+                "word": "LÖKÜ",
+                "explanation": "is. məh. düyü unundan bişirilənqoğal",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 6
+            },
+            {
+                "word": "ÖDÜL",
+                "explanation": "is. mükafat",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 7
+            },
+            {
+                "word": "ÖKÜZ",
+                "explanation": "is. 1. iş heyvanı kimi istifadə edilənbuğa. təpəl ***. ***ləri arabaya qoşmaq.– …kiçik çobanlar ***lərə minib",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 8
+            },
+            {
+                "word": "ÖZLÜ",
+                "explanation": "sif. yapışqanlı",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 9
+            },
+            {
+                "word": "ÖZÜL",
+                "explanation": "is. bünövrə",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 10
+            },
+            {
+                "word": "ÜZLÜ",
+                "explanation": "sif. 1. üzü",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 11
+            },
+            {
+                "word": "ÜZÜK",
+                "explanation": "is. 1. əsasən qızıldan qayrılan",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 12
+            },
+            {
+                "word": "DÜDÜK",
+                "explanation": "is. 1. qarğıdan və s.-dən qayrılan",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 13
+            },
+            {
+                "word": "KÖKLÜ",
+                "explanation": "sif. 1. torpaq altında kökü",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 14
+            },
+            {
+                "word": "KÜDÜL",
+                "explanation": "sif. məh. quyruğu olmayan",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 15
+            },
+            {
+                "word": "KÜLLÜ",
+                "explanation": "sif. 1. külə bulaşmış",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 16
+            },
+            {
+                "word": "KÜZLÜ",
+                "explanation": "sif. kotanla",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 17
+            },
+            {
+                "word": "ÖDLÜK",
+                "explanation": "is. bax öd kisəsi (“öd”də)",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 18
+            },
+            {
+                "word": "ÖKSÜZ",
+                "explanation": "is. 1. yetim. ta uşaqlıqdan ***qalmış gülzar öz kor anası ilə yoxsul qardaşıaslanın himayəsində yaşayırdı",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 19
+            },
+            {
+                "word": "SÖKÜK",
+                "explanation": "sif. 1. sökülmüş",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 20
+            },
+            {
+                "word": "SÖZLÜ",
+                "explanation": "sif. deməyə sözü olan",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 21
+            },
+            {
+                "word": "SÜDLÜ",
+                "explanation": "sif. 1. yaxşı süd verən",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 22
+            },
+            {
+                "word": "SÜLÜK",
+                "explanation": "is. baldırı koğuş bitkilərin (qarğınınvə s.-nin) təzə göyərmiş gövdəsi. qarğısülüyü. qanqal sülüyü",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 23
+            },
+            {
+                "word": "SÜSLÜ",
+                "explanation": "sif. bəzəkli",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 24
+            },
+            {
+                "word": "ÜSKÜK",
+                "explanation": "is. məh. bax oymaq3. həsən sapçıxardıb sapladı və barmağına *** taxıb",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 25
+            },
+            {
+                "word": "ÜZLÜK",
+                "explanation": "is. 1. üz çəkmək üçün yarar parçavə s. döşək üzlüyü. // sif. mənasında. ***çit. *** məxmər. // sif",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 26
+            },
+            {
+                "word": "ÜZSÜZ",
+                "explanation": "sif. 1. üzü",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 27
+            },
+            {
+                "word": "DÖLLÜK",
+                "explanation": "sif. dölə yarayan",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 28
+            },
+            {
+                "word": "DÖLSÜZ",
+                "explanation": "sif. biol. döl verməyən",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 29
+            },
+            {
+                "word": "DÜZLÜK",
+                "explanation": "is. 1. düz",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 30
+            },
+            {
+                "word": "DÜZÜLÜ",
+                "explanation": "sif. 1. düzülmüş. ipə ***muncuq.2. müəyyən qaydada qoyulmuş",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 31
+            },
+            {
+                "word": "KÖKLÜK",
+                "explanation": "is. musiqi alətlərində simlərinsəslənməsinin bir-birinə uyğunluq vəziyyəti.tarın köklüyünü yoxlamaq",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 32
+            },
+            {
+                "word": "KÖKSÜZ",
+                "explanation": "sif. kökü",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 33
+            },
+            {
+                "word": "KÜLLÜK",
+                "explanation": "is. 1. kül tökülən yer. toyuqlar ***də eşələnir. – külü ***dən götür. (ata. sözü). zibil təpə olsa",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 34
+            },
+            {
+                "word": "KÜSÜLÜ",
+                "explanation": "sif. küsmüş",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 35
+            },
+            {
+                "word": "ÖZÜLLÜ",
+                "explanation": "sif. özülü olan",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 36
+            },
+            {
+                "word": "SÖZLÜK",
+                "explanation": "is. lüğətlərdə izah və ya tərcüməediləcək sözlərin tərkibi",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 37
+            },
+            {
+                "word": "SÖZSÜZ",
+                "explanation": "sif. və zərf 1. danışmadan",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 38
+            },
+            {
+                "word": "SÜDLÜK",
+                "explanation": "is. süd vermək üçün yetişdirilən",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 39
+            },
+            {
+                "word": "KÜKÜLÜK",
+                "explanation": "sif. kükü üçün yararlı",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 40
+            },
+            {
+                "word": "ÖKÜZLÜK",
+                "explanation": "is. yekəlik",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 41
+            },
+            {
+                "word": "ÖZLÜLÜK",
+                "explanation": "is. yapışqanlılıq",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 42
+            },
+            {
+                "word": "ÖZÜLSÜZ",
+                "explanation": "sif. özülü",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 43
+            },
+            {
+                "word": "ÖKSÜZLÜK",
+                "explanation": "is. yetimlik. // kimsəsizlik.baxdım ki",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 44
+            },
+            {
+                "word": "SÜDLÜLÜK",
+                "explanation": "is. ev heyvanlarının bu vəbaşqa miqdarda südvermə qabiliyyəti. heyvanlarınyüksək südlülüyü. bu inək öz südlülüyücəhətdən başqalarından fərqlənir",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 45
+            },
+            {
+                "word": "ÜZÜKÜZÜK",
+                "explanation": "is. üzüklə oynanılan bir oyun adı. bir yanda toya gələnlər üzük-üzük oynarlar. r.əfəndiyev",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 46
+            },
+            {
+                "word": "KÜSÜLÜLÜK",
+                "explanation": "is. bir-biri ilə danışmama",
+                "isPanagram": false,
+                "score": 9,
+                "length": 9,
+                "id": 47
+            },
+            {
+                "word": "DÖLSÜZLÜK",
+                "explanation": "is. biol. ürəmə və ya ürətməqabiliyyətinin olmaması; sonsuzluq",
+                "isPanagram": true,
+                "score": 17,
+                "length": 9,
+                "id": 48
+            }
+        ]
+    }
+}

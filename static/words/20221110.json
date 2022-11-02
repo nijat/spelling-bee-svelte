@@ -1,0 +1,149 @@
+{
+    "gameData": {
+        "day": "20221110",
+        "expiration": "1668121140",
+        "centerLetter": "P",
+        "outerLetters": [
+            "O",
+            "I",
+            "N",
+            "K",
+            "L",
+            "A"
+        ],
+        "words_info": {
+            "word_count": 15,
+            "sum_score": 72,
+            "panagram_count": 1,
+            "word_length": {
+                "6": 3,
+                "8": 1,
+                "5": 5,
+                "4": 5,
+                "7": 1
+            }
+        },
+        "words": [
+            {
+                "word": "LOPA",
+                "explanation": "is. 1. odunu alovlandırmaq və ya işıq yaratmaq üçün neft hopdurulub yumruladılmış əski",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "OPAL",
+                "explanation": "[lat.] bəzi növləri qiymətli sayılanşəffaf şüşəvari daş",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "PAPA",
+                "explanation": "[lat.] roma katolik kilsəsinin başçısı.[iblis:] bəzən oluram bir ***! cənnətsatıram mən; isa dirilib gəlsə də qorxar qəzəbimdən",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "PLAN",
+                "explanation": "[lat. ***us – səth] 1. bir şeyin (yer",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "POLK",
+                "explanation": "is. [rus.] adətən diviziya",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 5
+            },
+            {
+                "word": "LAPAN",
+                "explanation": "is. bot. dilim-dilim iri yarpaqlarıolan ağcaqayın növündən ağac",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 6
+            },
+            {
+                "word": "NAPAK",
+                "explanation": "sif. və is. [fars.] 1. pak olmayan",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 7
+            },
+            {
+                "word": "PALAN",
+                "explanation": "is. [“plan” sözünün danışıqda işlədiləntəhrif olunmuş forması] şəhərin birneçə evdən ibarət hissəsi; məhəllə",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 8
+            },
+            {
+                "word": "PANNO",
+                "explanation": "[fr.] 1. divarın",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 9
+            },
+            {
+                "word": "POLKA",
+                "explanation": "is. [çex. ***] 1. cəld oynanılan avropa rəqslərindən birinin adı",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 10
+            },
+            {
+                "word": "KLAPAN",
+                "explanation": "is. maşın motorunun hissələrindənbiri",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 11
+            },
+            {
+                "word": "KOLPAN",
+                "explanation": "sif. məh. qollu-budaqlı",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 12
+            },
+            {
+                "word": "PLANLI",
+                "explanation": "sif. əvvəlcədən müəyyənləşdirilmişplana əsasən həyata keçirilən",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 13
+            },
+            {
+                "word": "PALANLI",
+                "explanation": "sif. dalında palanı olan; çullu. birgün … *** ata minmiş bir qocanı darvazamızınağzında durmuş gördüm",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 14
+            },
+            {
+                "word": "KOLPANLI",
+                "explanation": "sif. məh. kolpanı olan",
+                "isPanagram": true,
+                "score": 17,
+                "length": 8,
+                "id": 15
+            }
+        ]
+    }
+}

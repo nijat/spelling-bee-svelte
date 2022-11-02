@@ -1,0 +1,164 @@
+{
+    "gameData": {
+        "day": "20230327",
+        "expiration": "1679954340",
+        "centerLetter": "Y",
+        "outerLetters": [
+            "R",
+            "S",
+            "A",
+            "P",
+            "İ",
+            "O"
+        ],
+        "words_info": {
+            "word_count": 17,
+            "sum_score": 70,
+            "panagram_count": 1,
+            "word_length": {
+                "5": 3,
+                "4": 8,
+                "6": 5,
+                "7": 1
+            }
+        },
+        "words": [
+            {
+                "word": "AROY",
+                "explanation": "is. məh. paltar yuyulduqdan sonra qalan kirli su; çirkab",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "AYAR",
+                "explanation": "is. dan. 1. barama",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "PAYA",
+                "explanation": "is. bir şeyi saxlamaq üçün tir",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "RİYA",
+                "explanation": "is. [ər.] ikiüzlülük. məsciddə həsirieləmə aləti-təzvir; mərdanə qədəh tut",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "SAYA",
+                "explanation": "sif. 1. bir rəngdə olan",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 5
+            },
+            {
+                "word": "SOYA",
+                "explanation": "is. [yapon.] paxla fəsiləsindən birillikbitki",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 6
+            },
+            {
+                "word": "YARA",
+                "explanation": "is. 1. bədən",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 7
+            },
+            {
+                "word": "YASA",
+                "explanation": "is. [türkcə] qanun. ana *** (konstitusiya)",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 8
+            },
+            {
+                "word": "ARİYA",
+                "explanation": "[ital.] mus. 1. opera",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 9
+            },
+            {
+                "word": "AYSOR",
+                "explanation": "is. əsas kütləsi iranda və türkiyədəyaşayan və süryani dili ləhcələrindənbirində danışan kiçik bir xalqın adı və buxalqa mənsub adam",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 10
+            },
+            {
+                "word": "SARAY",
+                "explanation": "is. 1. padşahın",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 11
+            },
+            {
+                "word": "AYPARA",
+                "explanation": "is. 1. ayın nazik qövs şəklindəolan dövrü; hilal; yeni ay",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 12
+            },
+            {
+                "word": "SAPYOR",
+                "explanation": "is. [fr.] mühəndis işləri ilə məşğulolan hərbi qulluqçu; minatəmizləyən",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 13
+            },
+            {
+                "word": "SİYASİ",
+                "explanation": "sif. [ər.] 1. siyasətlə bağlı",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 14
+            },
+            {
+                "word": "YARASA",
+                "explanation": "is. 1. zool. gündüzlər yatıb gecələrov edən",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 15
+            },
+            {
+                "word": "YASSAR",
+                "explanation": "sif. və is. məh. 1. bacarıqsız",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 16
+            },
+            {
+                "word": "PORSİYA",
+                "explanation": "[lat.] yeməkxanada",
+                "isPanagram": true,
+                "score": 17,
+                "length": 7,
+                "id": 17
+            }
+        ]
+    }
+}

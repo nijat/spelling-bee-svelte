@@ -1,0 +1,156 @@
+{
+    "gameData": {
+        "day": "20221209",
+        "expiration": "1670626740",
+        "centerLetter": "R",
+        "outerLetters": [
+            "B",
+            "D",
+            "K",
+            "N",
+            "U",
+            "İ"
+        ],
+        "words_info": {
+            "word_count": 16,
+            "sum_score": 68,
+            "panagram_count": 1,
+            "word_length": {
+                "4": 7,
+                "5": 4,
+                "6": 4,
+                "8": 1
+            }
+        },
+        "words": [
+            {
+                "word": "BİKR",
+                "explanation": "[ər.] bax bakir(ə)",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "BİRİ",
+                "explanation": "əvəz. 1. müəyyən olmayan şəxs",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "BURU",
+                "explanation": "is. sancı",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "DİRİ",
+                "explanation": "sif. 1. canı olan",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "DURU",
+                "explanation": "sif. 1. maye halında olan",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 5
+            },
+            {
+                "word": "KİBR",
+                "explanation": "is. [ər.] özünü hamıdan üstün tutma",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 6
+            },
+            {
+                "word": "RİND",
+                "explanation": "is. [ər.] klas. vaxtını eyş-işrətlə keçirənlaqeyd",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 7
+            },
+            {
+                "word": "BİRUN",
+                "explanation": "is. [fars.] köhn. çöl",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 8
+            },
+            {
+                "word": "BURUN",
+                "explanation": "is. 1. insan və heyvanın üzündə iybilmə və tənəffüs orqanı. dik ***. düz ***. yastı ***. *** pərdəsi (*** deşiklərinin arasındakı pərdə)",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 9
+            },
+            {
+                "word": "DİBİR",
+                "explanation": "is. məh. təsbəhlərdə olan uzunsovmuncuq dənəsi",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 10
+            },
+            {
+                "word": "KİRKİ",
+                "explanation": "1 is. xüs. xalça toxunarkən ilməklərini sıxlaşdırmaq üçün işlədilən alət; daraq",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 11
+            },
+            {
+                "word": "BİRUNİ",
+                "explanation": "sif. [fars.] köhn. 1. xarici",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 12
+            },
+            {
+                "word": "DİKDİR",
+                "explanation": "is. dik yer",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 13
+            },
+            {
+                "word": "DİRRİK",
+                "explanation": "is. səbzəvat",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 14
+            },
+            {
+                "word": "DURBİN",
+                "explanation": "[fars.] 1. is. uzaq şeyləri görməküçün iki paralel müşahidə borucuğundanibarət",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 15
+            },
+            {
+                "word": "DİKBURUN",
+                "explanation": "sif. 1. burnunun uc tərəfi dikolan. sualı verən arıq",
+                "isPanagram": true,
+                "score": 17,
+                "length": 8,
+                "id": 16
+            }
+        ]
+    }
+}

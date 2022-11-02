@@ -1,0 +1,413 @@
+{
+    "gameData": {
+        "day": "20230520",
+        "expiration": "1684619940",
+        "centerLetter": "Ə",
+        "outerLetters": [
+            "M",
+            "H",
+            "C",
+            "S",
+            "İ",
+            "N"
+        ],
+        "words_info": {
+            "word_count": 48,
+            "sum_score": 197,
+            "panagram_count": 1,
+            "word_length": {
+                "8": 1,
+                "5": 16,
+                "4": 18,
+                "6": 10,
+                "7": 3
+            }
+        },
+        "words": [
+            {
+                "word": "CƏMİ",
+                "explanation": "is. [ər.] bütün",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "ƏCƏM",
+                "explanation": "is. [ər.] 1. köhn. keçmişdə ərəbolmayan xalqlara və onların nümayəndələrinə",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "ƏMİN",
+                "explanation": "sif. [ər.] 1. qorxusuz",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "ƏMMƏ",
+                "explanation": "is. [ər.] klas. bibi. aya",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "ƏNİN",
+                "explanation": "is. [ər.] şair. inləmə",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 5
+            },
+            {
+                "word": "ƏNİS",
+                "explanation": "is. [ər.] şair. yaxın dost",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 6
+            },
+            {
+                "word": "ƏSƏN",
+                "explanation": "sif. qəd. sağ",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 7
+            },
+            {
+                "word": "ƏSMƏ",
+                "explanation": "1. “***k”dən f.is.2. bax ***cə. *** azarı. *** tutmuşdur.– məs geyinib",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 8
+            },
+            {
+                "word": "HƏCC",
+                "explanation": "is. [ər.] müsəlmanlarda: zilhiccəayında məkkədə ziyarət mərasimini yerinəyetirmə. bəhs ilə ***ə gedən yorulub yoldaqalar",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 9
+            },
+            {
+                "word": "HƏCM",
+                "explanation": "is. [ər.] 1. bir şeyin kub vahidləriilə ölçülən uzunluğu",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 10
+            },
+            {
+                "word": "MƏMƏ",
+                "explanation": "is. məc. ana. [şərəfnisə xanım:]əgər ***m deyən dərviş olmasaydı",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 11
+            },
+            {
+                "word": "NƏHS",
+                "explanation": "[ər.] 1. sif. uğursuz",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 12
+            },
+            {
+                "word": "NƏMİ",
+                "explanation": "is. məh. alaçığın içəri-sində qarğıdanhörülmüş bağlı yer; anbar. [güldəstə:]atam karıxdığından ***nin qapısını açıqqoyub gedibdir",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 13
+            },
+            {
+                "word": "NƏNƏ",
+                "explanation": "is. 1. atanın",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 14
+            },
+            {
+                "word": "SƏHM",
+                "explanation": "is. [ər.] 1. ayrı-ayrı müəssisəninişində və gəlirində iştirak etməyə hüquq verənpul payı; həmin pula bərabər qiymətlikağız",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 15
+            },
+            {
+                "word": "SƏMƏ",
+                "explanation": "sif. ağıldan kəm",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 16
+            },
+            {
+                "word": "SƏNƏ",
+                "explanation": "is. [ər.] il. bir gecəlik mətləbin bir*** mabədi var. m.ə.sabir. millətin beş*** bundan əqdəm; yüz nəfərdən biri tutmazdıqələm",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 17
+            },
+            {
+                "word": "SİNƏ",
+                "explanation": "is. [fars.] 1. döş",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 18
+            },
+            {
+                "word": "CƏMƏN",
+                "explanation": "zərf [ər.] köhn. bütünlüklə",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 19
+            },
+            {
+                "word": "CƏSİM",
+                "explanation": "sif. [ər.] böyük",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 20
+            },
+            {
+                "word": "ƏCƏMİ",
+                "explanation": "sif. [ər.] köhn. 1. qeyri-ərəb qövmvə tayfalardan birinə mənsub olan",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 21
+            },
+            {
+                "word": "ƏHSƏN",
+                "explanation": "nida [ər.] 1. bəyənmə",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 22
+            },
+            {
+                "word": "ƏMİCİ",
+                "explanation": "sif. 1. əmən",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 23
+            },
+            {
+                "word": "ƏNƏNƏ",
+                "explanation": "is. [ər.] tarixən meydana gələrəknəsildən-nəslə keçən adətlər",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 24
+            },
+            {
+                "word": "HƏCMİ",
+                "explanation": "sif. [ər.] həcm cəhətdən",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 25
+            },
+            {
+                "word": "HƏMƏN",
+                "explanation": "[fars.] 1. əvəz. həmin",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 26
+            },
+            {
+                "word": "HİSSƏ",
+                "explanation": "is. [ər.] 1. tamın bölündüyü parçalardanhər biri; qisim. binanın bir ***si.çayın aşağı ***si. – şirvan şimaliazərbaycanın bir ***sidir",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 27
+            },
+            {
+                "word": "MƏNƏN",
+                "explanation": "zərf [ər.] mənəvi cəhətdən; ruhən.…bizim şüəra cismən ölüb fövt olublarsada",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 28
+            },
+            {
+                "word": "MİNCƏ",
+                "explanation": "sif. ancaq min",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 29
+            },
+            {
+                "word": "NƏNNİ",
+                "explanation": "is. 1. körpə uşaqları yatırtmaq üçünasılan kiçik yatacaq. [qumru] uşağı ***yəsalıb küncə qısıldı",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 30
+            },
+            {
+                "word": "NƏSİM",
+                "explanation": "is. [ər.] xəfif",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 31
+            },
+            {
+                "word": "SƏHİH",
+                "explanation": "sif. [ər.] düzgün",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 32
+            },
+            {
+                "word": "SƏHNƏ",
+                "explanation": "is. [ər.] 1. teatr tamaşalarının göstərildiyixüsusi meydança. pərdə qalxdı",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 33
+            },
+            {
+                "word": "SƏNƏM",
+                "explanation": "is. [ər.] 1. klas. bax büt 1-ci mənada.surəti ziba ***lər yox demək bütxanədə;var çox",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 34
+            },
+            {
+                "word": "CİSMƏN",
+                "explanation": "zərf [ər.] bir cisim olaraq",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 35
+            },
+            {
+                "word": "ƏCİNNƏ",
+                "explanation": "is. [ər.] din. köhn. cin. ***padşahı (nağıllarda). – əhmədi-çekkaş durubgəldi evə. çağırıb ***ləri",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 36
+            },
+            {
+                "word": "ƏSMƏCƏ",
+                "explanation": "is. bədənin və ya onun ayrıayrıhissələrinin titrəməsi şəklində təzahüredən xəstəlik. başladı *** tutmuş adamlarkimi titrəməyə",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 37
+            },
+            {
+                "word": "ƏSNƏMƏ",
+                "explanation": "“***k”dən f.is. darıxandaadamı *** tutar. – ***",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 38
+            },
+            {
+                "word": "HƏCMCƏ",
+                "explanation": "sif. həcminə",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 39
+            },
+            {
+                "word": "HƏMSİN",
+                "explanation": "sif. və is. [fars. həm və ər. sinn]həmyaş",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 40
+            },
+            {
+                "word": "MƏNƏNƏ",
+                "explanation": "is. zool. bitkilərin şirəsilə qidalananziyanverici bir cücü növü",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 41
+            },
+            {
+                "word": "MƏSİHİ",
+                "explanation": "is. [ər.] klas. 1. xristian dini",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 42
+            },
+            {
+                "word": "SƏMƏNİ",
+                "explanation": "is. etnoqr. 1. novruz bayramındaboşqablarda göyərdilən buğda. süfrənin ortasındaara-sıra boşqablarda yaşıl ***qoyardılar",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 43
+            },
+            {
+                "word": "SƏMİMİ",
+                "explanation": "sif. [ər.] ürəkdən gələn; dəruni",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 44
+            },
+            {
+                "word": "HƏMHƏMƏ",
+                "explanation": "is. pıçıltı",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 45
+            },
+            {
+                "word": "MƏSMƏSİ",
+                "explanation": "is. bot. üzəri sadə və ya budaqlıtüklərlə örtülü birillik bitki",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 46
+            },
+            {
+                "word": "CƏHƏNNƏM",
+                "explanation": "is. [ər.] 1. bu dünyada günahişlər görmüş adamların öldükdən sonra əbədiəzab çəkəcəkləri yer. [xortdan:] nagah xəyalıma*** düşdü",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 47
+            },
+            {
+                "word": "HƏMCİNS",
+                "explanation": "is. [fars. həm və ər. cins] 1. bircinsdən olan",
+                "isPanagram": true,
+                "score": 17,
+                "length": 7,
+                "id": 48
+            }
+        ]
+    }
+}

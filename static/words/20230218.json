@@ -1,0 +1,150 @@
+{
+    "gameData": {
+        "day": "20230218",
+        "expiration": "1676761140",
+        "centerLetter": "G",
+        "outerLetters": [
+            "S",
+            "Ü",
+            "Z",
+            "L",
+            "K",
+            "C"
+        ],
+        "words_info": {
+            "word_count": 15,
+            "sum_score": 90,
+            "panagram_count": 1,
+            "word_length": {
+                "5": 5,
+                "6": 4,
+                "8": 1,
+                "9": 1,
+                "4": 2,
+                "7": 2
+            }
+        },
+        "words": [
+            {
+                "word": "GÜLÜ",
+                "explanation": "sif. 1. açıq gül rəngli",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "ÜLGÜ",
+                "explanation": "is. 1. paltar və ya ayaqqabı hissələrinibiçmək üçün nümunə; ölçü-biçi",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "GÜCLÜ",
+                "explanation": "sif. 1. fiziki qüvvəsi çox olan",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 3
+            },
+            {
+                "word": "GÜLGÜ",
+                "explanation": "is. 1. gülmə işi; gülüş",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 4
+            },
+            {
+                "word": "GÜLLÜ",
+                "explanation": "sif. 1. çoxlu gül olan",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 5
+            },
+            {
+                "word": "GÜZGÜ",
+                "explanation": "is. 1. qarşısındakı şeylərin şəkilləriniəks etdirən",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 6
+            },
+            {
+                "word": "ÜLGÜC",
+                "explanation": "is. 1. tük qırxmaq üçün iti bıçaq.dəllək kisəbəndindən enli ***ünü çıxarıbqırxırdı. çəmənzəminli",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 7
+            },
+            {
+                "word": "GÜCLÜK",
+                "explanation": "is.: *** çəkmək – çətinlikçəkmək",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 8
+            },
+            {
+                "word": "GÜCSÜZ",
+                "explanation": "sif. 1. gücü",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 9
+            },
+            {
+                "word": "GÜLGÜL",
+                "explanation": "sif. üzərində gül şəkilləriolan; güllü. gül-gül yaylıq",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 10
+            },
+            {
+                "word": "GÜLLÜK",
+                "explanation": "is. çoxlu gül əkilmiş və ya gülaçmış yer; çiçəklik",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 11
+            },
+            {
+                "word": "GÜLÜZLÜ",
+                "explanation": "sif. gözəlin epitetlərindən(sifətlərindən) biri. göy üzünü bəzər parlaqulduzlar; yer üzünü bəzər *** qızlar",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 12
+            },
+            {
+                "word": "GÜZGÜLÜ",
+                "explanation": "sif. güzgüsü olan",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 13
+            },
+            {
+                "word": "GÜCLÜLÜK",
+                "explanation": "is. güclü adamın",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 14
+            },
+            {
+                "word": "GÜCSÜZLÜK",
+                "explanation": "is. gücsüz adam və ya şeyinkeyfiyyəti: qüvvətsizlik",
+                "isPanagram": true,
+                "score": 17,
+                "length": 9,
+                "id": 15
+            }
+        ]
+    }
+}

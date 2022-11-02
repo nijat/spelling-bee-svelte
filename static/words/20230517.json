@@ -1,0 +1,157 @@
+{
+    "gameData": {
+        "day": "20230517",
+        "expiration": "1684360740",
+        "centerLetter": "Ş",
+        "outerLetters": [
+            "I",
+            "R",
+            "A",
+            "İ",
+            "X",
+            "D"
+        ],
+        "words_info": {
+            "word_count": 16,
+            "sum_score": 83,
+            "panagram_count": 1,
+            "word_length": {
+                "4": 5,
+                "7": 2,
+                "5": 1,
+                "6": 7,
+                "8": 1
+            }
+        },
+        "words": [
+            {
+                "word": "ADAŞ",
+                "explanation": "is. adları eyni olan adamlar. o mənimlə***dır. ***lar gəldilər. – dodaqlarındakövrək təbəssüm",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "AXIŞ",
+                "explanation": "is. axma",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "DİŞİ",
+                "explanation": "sif. və is. 1. canlıların doğan və yumurtlayancinsi (erkək ziddi). *** buzov.madyan atların ***sinə deyilir",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "XAŞA",
+                "explanation": "is. iri torba",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "ŞAİR",
+                "explanation": "is. [ər.] şeir söyləyən və ya yazanşəxs; təbiətində şeir söyləmək və yazmaqqabiliyyəti olan şəxs. sabir azərbaycanınböyük satirik ***idir",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 5
+            },
+            {
+                "word": "DADAŞ",
+                "explanation": "is. kiçik qardaş və bacıların böyükqardaşa verdikləri ad; böyük qardaşa müraciət.bir gün gəldim",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 6
+            },
+            {
+                "word": "DIŞARI",
+                "explanation": "is. bayır",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 7
+            },
+            {
+                "word": "DİŞDİŞ",
+                "explanation": "sif. dişlər halında olan; üzərindədişlər",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 8
+            },
+            {
+                "word": "XAŞXAŞ",
+                "explanation": "is. bot. 1. tərkibində süd şirəsiolan iri çiçəkli və içi xırda toxumlarla doluqozaşəkilli meyvə verən bitki",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 9
+            },
+            {
+                "word": "ŞADARA",
+                "explanation": "is. buğdanın",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 10
+            },
+            {
+                "word": "ŞAXŞAX",
+                "explanation": "is. silkələdikdə içərisindəki xırdadaşlardan səs çıxan uşaq oyuncağı. uşaq üçün*** almaq. – [oyuncaqsatan:] ay yaxşı***",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 11
+            },
+            {
+                "word": "ŞARADA",
+                "explanation": "is. [fr.] cavabı müxtəlif sözlərdənibarət tapmaca. isti + ot = istiot",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 12
+            },
+            {
+                "word": "ŞIRŞIR",
+                "explanation": "təql. 1. is. bir qaydada axan",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 13
+            },
+            {
+                "word": "ARXADAŞ",
+                "explanation": "is. kömək",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 14
+            },
+            {
+                "word": "DİŞDAŞI",
+                "explanation": "is. dişlərdə əmələ gələn daşaoxşarxırda törəmə",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 15
+            },
+            {
+                "word": "XIRDADİŞ",
+                "explanation": "sif. dişləri xırda olan. *** balıq",
+                "isPanagram": true,
+                "score": 17,
+                "length": 8,
+                "id": 16
+            }
+        ]
+    }
+}

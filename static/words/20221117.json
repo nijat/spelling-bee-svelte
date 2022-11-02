@@ -1,0 +1,286 @@
+{
+    "gameData": {
+        "day": "20221117",
+        "expiration": "1668725940",
+        "centerLetter": "D",
+        "outerLetters": [
+            "O",
+            "Q",
+            "I",
+            "Z",
+            "L",
+            "A"
+        ],
+        "words_info": {
+            "word_count": 32,
+            "sum_score": 186,
+            "panagram_count": 1,
+            "word_length": {
+                "4": 5,
+                "8": 6,
+                "7": 4,
+                "5": 10,
+                "10": 1,
+                "6": 6
+            }
+        },
+        "words": [
+            {
+                "word": "ADAQ",
+                "explanation": "is. məh. uşağın ilk addımı",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "ADLI",
+                "explanation": "sif. 1. müəyyən adı olan",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "AZAD",
+                "explanation": "sif. [fars.] 1. ***lıqdan istifadəedən",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "DAZI",
+                "explanation": "is. bot. ot və kol bitkiləri daxil olanbitki cinsi; boyotu",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "QADA",
+                "explanation": "is. 1. bəla",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 5
+            },
+            {
+                "word": "DADLI",
+                "explanation": "1. sif. yaxşı dadı olan",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 6
+            },
+            {
+                "word": "DAQQA",
+                "explanation": "is. məh. 1. dəridən tikilmiş hündürpapaq. şiraslan … *** divan papağınıbaşına qoydu",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 7
+            },
+            {
+                "word": "DALAQ",
+                "explanation": "is. anat. qarın boşluğunun soltərəfində olub qan kürəcikləri hazırlayan vəbu proseslə bağlı başqa mürəkkəb vəzifələrgörən bədən üzvü",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 8
+            },
+            {
+                "word": "DALDA",
+                "explanation": "1. sif. sığınmağa və ya gizlənməyəyarayan. *** yer. *** divar.– kosa boşalmış küçənin *** yeri ilə yeriyibat tövlələrinin yanına çatdı",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 9
+            },
+            {
+                "word": "DALLI",
+                "explanation": "sif. dalları (budaqları) olan. ***ağac",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 10
+            },
+            {
+                "word": "DODAQ",
+                "explanation": "is. 1. ağız kənarlarını təşkil edən iki mütəhərrik dəri-damar büküklərindən hər biri. adamın iki dodağı olur",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 11
+            },
+            {
+                "word": "DOLAQ",
+                "explanation": "is. 1. qılçaya sarılan",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 12
+            },
+            {
+                "word": "QADAQ",
+                "explanation": "is. bıçaq",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 13
+            },
+            {
+                "word": "QIDIQ",
+                "explanation": "is. bədənin bir yerinə əl və s. ilətoxunduqda onda əmələ gələn və adamınqeyri-ixtiyari gülməsinə səbəb olan hal; yüngültəxərrüş",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 14
+            },
+            {
+                "word": "ODLAQ",
+                "explanation": "is. od düşüb alışan",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 15
+            },
+            {
+                "word": "DALLIQ",
+                "explanation": "is. söykənəcək",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 16
+            },
+            {
+                "word": "DAZLIQ",
+                "explanation": "is. 1. daz olmuş başın halı; tüksüzlük.başın dazlığı.2. bitkisizlik",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 17
+            },
+            {
+                "word": "DOQQAZ",
+                "explanation": "is. adətən kənd yerlərindəevin",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 18
+            },
+            {
+                "word": "QADALI",
+                "explanation": "sif. bəlalı",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 19
+            },
+            {
+                "word": "QIDQID",
+                "explanation": "is. dan. deyinmə; dedi-qodu",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 20
+            },
+            {
+                "word": "QILDIQ",
+                "explanation": "is. məh. inam",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 21
+            },
+            {
+                "word": "AZADLIQ",
+                "explanation": "is. 1. hər hansı bir sinfin",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 22
+            },
+            {
+                "word": "DODAQLI",
+                "explanation": "sif. dodağı",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 23
+            },
+            {
+                "word": "DOLAQLI",
+                "explanation": "sif. qılçasına dolaq sarımış.*** əsgər",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 24
+            },
+            {
+                "word": "QIDIQLI",
+                "explanation": "sif. qıdığı gələn",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 25
+            },
+            {
+                "word": "ALADODAQ",
+                "explanation": "sif. məh. dodağının rəngiağ",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 26
+            },
+            {
+                "word": "DADLILIQ",
+                "explanation": "is. dadlı şeyin hal və keyfiyyəti;şirinlik",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 27
+            },
+            {
+                "word": "DALDALIQ",
+                "explanation": "1. bax daldalanmalı.2. is. dalda yer; dalda. ***da oturubgünəşin batmasını gözlədik",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 28
+            },
+            {
+                "word": "DODAQLIQ",
+                "explanation": "is. nəfəsli musiqi alətlərinindodaq dayadılan hissəsi; ağızlıq",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 29
+            },
+            {
+                "word": "DOLAQLIQ",
+                "explanation": "is. dolağa yarayan",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 30
+            },
+            {
+                "word": "DADLIDADLI",
+                "explanation": "1) sif. ləzzətli-ləzzətli",
+                "isPanagram": false,
+                "score": 10,
+                "length": 10,
+                "id": 31
+            },
+            {
+                "word": "DOQQAZLI",
+                "explanation": "sif. doqqazı olan",
+                "isPanagram": true,
+                "score": 17,
+                "length": 8,
+                "id": 32
+            }
+        ]
+    }
+}

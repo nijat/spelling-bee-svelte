@@ -1,0 +1,166 @@
+{
+    "gameData": {
+        "day": "20230329",
+        "expiration": "1680127140",
+        "centerLetter": "L",
+        "outerLetters": [
+            "Ğ",
+            "R",
+            "S",
+            "Z",
+            "Q",
+            "U"
+        ],
+        "words_info": {
+            "word_count": 17,
+            "sum_score": 98,
+            "panagram_count": 1,
+            "word_length": {
+                "7": 4,
+                "6": 6,
+                "4": 4,
+                "5": 1,
+                "8": 1,
+                "10": 1
+            }
+        },
+        "words": [
+            {
+                "word": "SULU",
+                "explanation": "sif. 1. tərkibində suyu",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "ULUS",
+                "explanation": "is. qəd. el",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "URLU",
+                "explanation": "sif. uru olan",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "USLU",
+                "explanation": "sif. qəd. 1. ağıllı",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "SULUQ",
+                "explanation": "is. 1. içi maye ilə dolu qabarcıq;qabartı",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 5
+            },
+            {
+                "word": "QUQULU",
+                "explanation": "is. məh. 1. bütöv çıxarılmış qoz içi",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 6
+            },
+            {
+                "word": "QULLUQ",
+                "explanation": "is. 1. xidmət",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 7
+            },
+            {
+                "word": "QURULU",
+                "explanation": "sif. qurulmuş",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 8
+            },
+            {
+                "word": "QUZULU",
+                "explanation": "sif. yanında quzusu olan",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 9
+            },
+            {
+                "word": "UĞURLU",
+                "explanation": "sif. müvəffəqiyyətli",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 10
+            },
+            {
+                "word": "ULULUQ",
+                "explanation": "is. böyüklük",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 11
+            },
+            {
+                "word": "QUQQULU",
+                "explanation": "is. məh. 1. bütöv çıxarılmış qoz içi",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 12
+            },
+            {
+                "word": "QURULUQ",
+                "explanation": "is. 1. quru",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 13
+            },
+            {
+                "word": "QUZULUQ",
+                "explanation": "is. 1. quzu saxlanan yer",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 14
+            },
+            {
+                "word": "SULULUQ",
+                "explanation": "is. sulu şeyin halı və keyfiyyəti;şirəlilik. meyvənin sululuğu",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 15
+            },
+            {
+                "word": "SUSUZLUQ",
+                "explanation": "is. 1. ürəyi bərk su istəmə",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 16
+            },
+            {
+                "word": "UĞURSUZLUQ",
+                "explanation": "is. 1. məşumluq",
+                "isPanagram": true,
+                "score": 17,
+                "length": 10,
+                "id": 17
+            }
+        ]
+    }
+}

@@ -1,0 +1,343 @@
+{
+    "gameData": {
+        "day": "20230215",
+        "expiration": "1676501940",
+        "centerLetter": "R",
+        "outerLetters": [
+            "Z",
+            "D",
+            "A",
+            "Q",
+            "Ş",
+            "I"
+        ],
+        "words_info": {
+            "word_count": 39,
+            "sum_score": 210,
+            "panagram_count": 1,
+            "word_length": {
+                "5": 10,
+                "4": 10,
+                "6": 6,
+                "8": 2,
+                "7": 7,
+                "12": 1,
+                "10": 3
+            }
+        },
+        "words": [
+            {
+                "word": "ARAQ",
+                "explanation": "is. [ər.] 1. meyvədən və s.-dənçəkilən spirtli içki. tut arağı. zoğal arağı.*** çəkmək. – ərəqlə badədir ol iki cövhər;ki",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "ARIQ",
+                "explanation": "sif. cılız",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "AZAR",
+                "explanation": "is. [fars.] 1. xəstəlik",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "DARI",
+                "explanation": "is. yumru toxumları olan birillik taxılbitkisi və bu bitkinin dəni. *** əkini. – actoyuq yuxusunda *** görər",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "QARA",
+                "explanation": "is. yer kürəsinin torpaqla örtülühissəsi; torpaq (su qarşılığı). ***da və suda.*** qüvvələri",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 5
+            },
+            {
+                "word": "QARI",
+                "explanation": "is. 1. qoca qadın",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 6
+            },
+            {
+                "word": "QIRA",
+                "explanation": "is. məh. təndirdən çörəyi qoparmaqüçün qarmaqlı alət. // qarmaq. …küçədə***dan tutub dartanda məftilin vasitəsilə zəngiçəridə tərpənir",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 7
+            },
+            {
+                "word": "RAQA",
+                "explanation": "is. [sanskr.] mus. qədim hind klassikmusiqisi növlərindən biri",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 8
+            },
+            {
+                "word": "RAZI",
+                "explanation": "sif. və zərf [ər.] bir şeydən ***olan; məmnun. yüz cəfa eyləsən",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 9
+            },
+            {
+                "word": "ZIRI",
+                "explanation": "sif. və is. vulq. 1. çox yekə və yöndəmsiz",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 10
+            },
+            {
+                "word": "AQRAR",
+                "explanation": "sif. [lat.] 1. torpağa aid olan. ***məsələ. *** islahatı.2. kənd təsərrüfatının sənayedən yüksəkolması ilə səciyyələnən",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 11
+            },
+            {
+                "word": "AŞQAR",
+                "explanation": "is. müəyyən məqsədlə bir şeyəəlavə edilən",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 12
+            },
+            {
+                "word": "DARAQ",
+                "explanation": "is. 1. saçı darayıb düzəltmək üçün dişli alət. narındişli ***. başını ***la daramaq. – siyah zülfü *** ilə dara",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 13
+            },
+            {
+                "word": "QARIŞ",
+                "explanation": "is. açıq əlin baş barmağı ucundançeçələ barmağın ucuna qədər olan məsafə(ölçü kimi işlənir). □ bir *** – çox kiçik",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 14
+            },
+            {
+                "word": "QARŞI",
+                "explanation": "1. is. bir şeylə üzbəüz olan yer və ya şey",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 15
+            },
+            {
+                "word": "QIRAQ",
+                "explanation": "is. 1. bir şeyin kənarı",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 16
+            },
+            {
+                "word": "QIRIQ",
+                "explanation": "sif. 1. qırılmış",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 17
+            },
+            {
+                "word": "QIRIŞ",
+                "explanation": "is. 1. bir şeyin büküldüyü",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 18
+            },
+            {
+                "word": "RADAR",
+                "explanation": "[ing.] bax radiolokator. radiolokasiyadaişlədilən qurğulara radiolokatordeyilir. bəzi yerlərdə bunları müxtəsər olaraq*** adlandırırlar",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 19
+            },
+            {
+                "word": "ZIRIQ",
+                "explanation": "sif. və is. vulq. 1. çox yekə və yöndəmsiz",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 20
+            },
+            {
+                "word": "DIŞARI",
+                "explanation": "is. bayır",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 21
+            },
+            {
+                "word": "QARDAŞ",
+                "explanation": "is. 1. bir ata-anadan",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 22
+            },
+            {
+                "word": "ŞADARA",
+                "explanation": "is. buğdanın",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 23
+            },
+            {
+                "word": "ŞAQRAQ",
+                "explanation": "sif. şən",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 24
+            },
+            {
+                "word": "ŞARADA",
+                "explanation": "is. [fr.] cavabı müxtəlif sözlərdənibarət tapmaca. isti + ot = istiot",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 25
+            },
+            {
+                "word": "ŞIRŞIR",
+                "explanation": "təql. 1. is. bir qaydada axan",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 26
+            },
+            {
+                "word": "QARAQAŞ",
+                "explanation": "sif. qaşları qara olan. *** oğlan. *** qız. – zeynəb ***",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 27
+            },
+            {
+                "word": "QARIŞIQ",
+                "explanation": "sif. 1. müxtəlif şeylərdən və yanövlərdən ibarət olan",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 28
+            },
+            {
+                "word": "QARIŞQA",
+                "explanation": "is. torpaq altında böyük cəmiyyəthalında yaşayan zərqanadlılar fəsiləsindənkiçik cücü. qara ***",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 29
+            },
+            {
+                "word": "QARQARA",
+                "explanation": "is. xüs. ağır şeyləri qaldırmaqüçün yüksəkdə mil üstündə dolanan vəüzərindən ip sallanan çarx. // ümumiyyətlə",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 30
+            },
+            {
+                "word": "QIRQIRA",
+                "explanation": "is. məh. qır-qır səs çıxaranuşaq oyuncağı",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 31
+            },
+            {
+                "word": "QIZARAQ",
+                "explanation": "is. bot. quru dağ yamaclarındabitən çoxillik ot bitki",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 32
+            },
+            {
+                "word": "QIZARIQ",
+                "explanation": "is. bədəndə bir yerin qaşınmasından",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 33
+            },
+            {
+                "word": "QARAAZAR",
+                "explanation": "is. bayt. çox yoluxucu mal***ı",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 34
+            },
+            {
+                "word": "QIŞQIRIQ",
+                "explanation": "is. çığırtı",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 35
+            },
+            {
+                "word": "QIRIQQIRIQ",
+                "explanation": "sif. və zərf tikə-tikə",
+                "isPanagram": false,
+                "score": 10,
+                "length": 10,
+                "id": 36
+            },
+            {
+                "word": "QIRIŞQIRIŞ",
+                "explanation": "sif. və zərf qırışları çox olan",
+                "isPanagram": false,
+                "score": 10,
+                "length": 10,
+                "id": 37
+            },
+            {
+                "word": "QARAQIŞQIRIQ",
+                "explanation": "is. səs-küy",
+                "isPanagram": false,
+                "score": 12,
+                "length": 12,
+                "id": 38
+            },
+            {
+                "word": "QARDAŞQIZI",
+                "explanation": "is. 1. qardaşın qızı.2. yaşlı adamın yad qıza müraciəti",
+                "isPanagram": true,
+                "score": 17,
+                "length": 10,
+                "id": 39
+            }
+        ]
+    }
+}

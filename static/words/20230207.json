@@ -1,0 +1,345 @@
+{
+    "gameData": {
+        "day": "20230207",
+        "expiration": "1675810740",
+        "centerLetter": "Q",
+        "outerLetters": [
+            "Z",
+            "R",
+            "L",
+            "T",
+            "I",
+            "M"
+        ],
+        "words_info": {
+            "word_count": 39,
+            "sum_score": 284,
+            "panagram_count": 2,
+            "word_length": {
+                "5": 12,
+                "7": 9,
+                "10": 4,
+                "8": 6,
+                "11": 2,
+                "6": 3,
+                "9": 1,
+                "14": 1,
+                "4": 1
+            }
+        },
+        "words": [
+            {
+                "word": "QIRT",
+                "explanation": "is. cücə çıxarmaq üçün yumurtaüstündə yatan toyuq. □ *** basdırmaq –*** düşmüş toyuğun altına yumurta qoymaq",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "QILIQ",
+                "explanation": "is. xasiyyət",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 2
+            },
+            {
+                "word": "QILLI",
+                "explanation": "sif. 1. üzərində qıllar olan",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 3
+            },
+            {
+                "word": "QIMIZ",
+                "explanation": "is. 1. turşumuş at (bəzən dəvə)südündən hazırlanan qidalı içki. ***lamüalicə. – buyur",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 4
+            },
+            {
+                "word": "QIRIQ",
+                "explanation": "sif. 1. qırılmış",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 5
+            },
+            {
+                "word": "QIRIM",
+                "explanation": "is. dan. görkəm",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 6
+            },
+            {
+                "word": "QIRLI",
+                "explanation": "sif. qır salınmış",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 7
+            },
+            {
+                "word": "QIRTI",
+                "explanation": "is. dan. parça",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 8
+            },
+            {
+                "word": "QIZIL",
+                "explanation": "1. is. rəngi sarı",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 9
+            },
+            {
+                "word": "MIRIQ",
+                "explanation": "sif. 1. qabaq dişləri çürümüş kötükhalında olan",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 10
+            },
+            {
+                "word": "ZIQQI",
+                "explanation": "sif. və is. 1. çox xəsis",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 11
+            },
+            {
+                "word": "ZILIQ",
+                "explanation": "is. məh. gözdən",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 12
+            },
+            {
+                "word": "ZIRIQ",
+                "explanation": "sif. və is. vulq. 1. çox yekə və yöndəmsiz",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 13
+            },
+            {
+                "word": "QIRMIZ",
+                "explanation": "is. 1. bax ***böcəyi.2. bu böcəkdən hasil edilən ***ı boya",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 14
+            },
+            {
+                "word": "QIZILI",
+                "explanation": "sif. qızıl rəngində olan",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 15
+            },
+            {
+                "word": "QIZLIQ",
+                "explanation": "is. 1. qadın cinsinin ərə gedincəyəqədər olan halı",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 16
+            },
+            {
+                "word": "QILIQLI",
+                "explanation": "sif. yaxşı xasiyyətli",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 17
+            },
+            {
+                "word": "QIMILTI",
+                "explanation": "is. qımıldama",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 18
+            },
+            {
+                "word": "QIRILTI",
+                "explanation": "is. 1. qarğanın",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 19
+            },
+            {
+                "word": "QIRMIZI",
+                "explanation": "sif. 1. qan rəngli; al. ***boya. *** şərab. – gəlin ağlayır; gözlərininyaşları od kimi tökülüb",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 20
+            },
+            {
+                "word": "QIRTLIQ",
+                "explanation": "is. qırt düşmüş toyuğun halı",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 21
+            },
+            {
+                "word": "QIRTMIQ",
+                "explanation": "sif. dan. qıraqlarının tükü getmiş.başında bir *** papağı var idi",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 22
+            },
+            {
+                "word": "QIZILLI",
+                "explanation": "sif. qızıl vurulmuş",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 23
+            },
+            {
+                "word": "LIRTLIQ",
+                "explanation": "is. 1. lırt şeyin (adamın) halı.2. məc. boşluq",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 24
+            },
+            {
+                "word": "ZILIQLI",
+                "explanation": "sif. məh. zılığı olan",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 25
+            },
+            {
+                "word": "QILLILIQ",
+                "explanation": "is. qıllı olma",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 26
+            },
+            {
+                "word": "QIRIQLIQ",
+                "explanation": "is. 1. qırıq şeyin halı; sınıqlıq.2. əzginlik",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 27
+            },
+            {
+                "word": "QIZILLIQ",
+                "explanation": "is. 1. qırmızılıq",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 28
+            },
+            {
+                "word": "MIQQILTI",
+                "explanation": "is. inilti",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 29
+            },
+            {
+                "word": "TIQQILTI",
+                "explanation": "is. tıqq (tıq-tıq) səsi. sayad pəri*** eşidib qarabaşı ağcaqızı dürtmələdi.“əmrah”. a kişi",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 30
+            },
+            {
+                "word": "ZIQQILTI",
+                "explanation": "is. zıqqıldama səsi",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 31
+            },
+            {
+                "word": "QIRMIZILI",
+                "explanation": "sif. qırmızıya çalar",
+                "isPanagram": false,
+                "score": 9,
+                "length": 9,
+                "id": 32
+            },
+            {
+                "word": "QILIQLILIQ",
+                "explanation": "is. yaxşı xasiyyətlilik",
+                "isPanagram": false,
+                "score": 10,
+                "length": 10,
+                "id": 33
+            },
+            {
+                "word": "QIRIQQIRIQ",
+                "explanation": "sif. və zərf tikə-tikə",
+                "isPanagram": false,
+                "score": 10,
+                "length": 10,
+                "id": 34
+            },
+            {
+                "word": "QIRIMQIRTI",
+                "explanation": "sif. dan. qırıq",
+                "isPanagram": false,
+                "score": 10,
+                "length": 10,
+                "id": 35
+            },
+            {
+                "word": "QIRMIZILIQ",
+                "explanation": "is. 1. qırmızı rəngdə olanşeyin halı; allıq. qanın qırmızılığı. üzün qırmızılığı.// qırmızı rəng",
+                "isPanagram": false,
+                "score": 10,
+                "length": 10,
+                "id": 36
+            },
+            {
+                "word": "QIRIMQIRTIQ",
+                "explanation": "sif. dan. qırıq",
+                "isPanagram": false,
+                "score": 11,
+                "length": 11,
+                "id": 37
+            },
+            {
+                "word": "QIRMIZIMTIL",
+                "explanation": "sif. qırmızı rəngə çalar",
+                "isPanagram": true,
+                "score": 17,
+                "length": 11,
+                "id": 38
+            },
+            {
+                "word": "QIRMIZIMTILLIQ",
+                "explanation": "is. qırmızımtıl şeyinhalı; qırmızıya çalarlıq",
+                "isPanagram": true,
+                "score": 17,
+                "length": 14,
+                "id": 39
+            }
+        ]
+    }
+}

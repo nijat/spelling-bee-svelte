@@ -1,0 +1,293 @@
+{
+    "gameData": {
+        "day": "20230111",
+        "expiration": "1673477940",
+        "centerLetter": "M",
+        "outerLetters": [
+            "S",
+            "N",
+            "R",
+            "A",
+            "İ",
+            "E"
+        ],
+        "words_info": {
+            "word_count": 33,
+            "sum_score": 125,
+            "panagram_count": 1,
+            "word_length": {
+                "4": 16,
+                "6": 5,
+                "7": 3,
+                "5": 8,
+                "8": 1
+            }
+        },
+        "words": [
+            {
+                "word": "AMAN",
+                "explanation": "is. [ər.] 1. əmin-***lıq",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "AMİN",
+                "explanation": "[ər. əsli qədim yəh.] din. qəbulolsun",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "AMİR",
+                "explanation": "is. [ər.] buyuran",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "ANMA",
+                "explanation": "“***q”dan f.is. *** mərasimi",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "ARAM",
+                "explanation": "is. [fars.] sakitlik",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 5
+            },
+            {
+                "word": "ASMA",
+                "explanation": "1. “***q”dan f.is.2. sif. bir yerdən asılan",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 6
+            },
+            {
+                "word": "MAMA",
+                "explanation": "is. doğuş zamanı kömək göstərməkləməşğul olan (keçmişdə təhsilsiz",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 7
+            },
+            {
+                "word": "MANE",
+                "explanation": "[ər.] : *** olmaq – əngəl olmaq",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 8
+            },
+            {
+                "word": "MANİ",
+                "explanation": "is. türk xalq şeri və nəğmə janrı",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 9
+            },
+            {
+                "word": "MARS",
+                "explanation": "is. nərd oyununda: oyunun axırına kimi bir daş da olsa çıxa bilməyib ikiqat uduzma. qayınata ilə kürəkən nərd oynayırdılar",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 10
+            },
+            {
+                "word": "MASA",
+                "explanation": "is. [rumıncadan] miz",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 11
+            },
+            {
+                "word": "MİNA",
+                "explanation": "[fr.] 1. adətən torpağın",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 12
+            },
+            {
+                "word": "MİSS",
+                "explanation": "[ing. ***] ingiltərə və amerikadaərə getməmiş qadın (adətən ad və ya familiyanınəvvəlində işlədilir)",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 13
+            },
+            {
+                "word": "SAAM",
+                "explanation": "is. kola yarımadasında",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 14
+            },
+            {
+                "word": "SİAM",
+                "explanation": "is. tai tayfalarına verilən ad",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 15
+            },
+            {
+                "word": "SİMA",
+                "explanation": "is. [ər.] 1. üz",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 16
+            },
+            {
+                "word": "MEMAR",
+                "explanation": "is. [ər.] ***lıq mütəxəssisi;arxitektor. [sənubər pərşana:] bu çox ciddiişdir",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 17
+            },
+            {
+                "word": "MESSA",
+                "explanation": "is. [fr.] 1. xristianlarda sübh vəgünorta ibadəti.2. dini məzmunda xor musiqisi",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 18
+            },
+            {
+                "word": "MİRAS",
+                "explanation": "is. [ər.] 1. ölən adamdan sonra varislərə qalan mal",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 19
+            },
+            {
+                "word": "MİSRA",
+                "explanation": "is. [ər.] şerin ayrılıqda götürülmüşbir sətri. qəzəldən iki *** demək. şerin***sı. – xanqızı … vaqifin hər ***sındandoğan atəşi göz yaşları i",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 20
+            },
+            {
+                "word": "MİSRİ",
+                "explanation": "sif. misirə məxsus. misirə mənsub.// misirli.◊ *** qılınc – koroğlunun qılıncına verilənad. *** qılınc hamayıldı belində; geyərhər vaxt al-qum",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 21
+            },
+            {
+                "word": "SAMAN",
+                "explanation": "is. [fars.] var",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 22
+            },
+            {
+                "word": "SARMA",
+                "explanation": "1. “***q”dan f.is.2. parça üzərində güləbətinlə işlənmiş incənaxış",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 23
+            },
+            {
+                "word": "SİMİN",
+                "explanation": "sif. [fars.] köhn. 1. gümüşdən qayrılmış",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 24
+            },
+            {
+                "word": "ASİMAN",
+                "explanation": "is. [fars.] göy",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 25
+            },
+            {
+                "word": "MARİNA",
+                "explanation": "is. [ital.] dəniz mənzərəsinintəsvirinə həsr olunmuş rəsm əsəri",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 26
+            },
+            {
+                "word": "MİNMİN",
+                "explanation": "zərf və sif. minlərcə",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 27
+            },
+            {
+                "word": "MİSMAR",
+                "explanation": "is. [ər.] mıx. …mən elə pis uşaq görmüşəm ki",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 28
+            },
+            {
+                "word": "SİMSAR",
+                "explanation": "sif. [fars.] 1. yaxın",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 29
+            },
+            {
+                "word": "ASİMANİ",
+                "explanation": "sif. [fars.] 1. açıq-mavi",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 30
+            },
+            {
+                "word": "EMİSSAR",
+                "explanation": "[lat.] dipl. hər hansı bir siyasitəşkilat və ya dövlət təşkilatı tərəfindənməxfi tapşırıqla başqa bir ölkəyə göndərilənşəxs",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 31
+            },
+            {
+                "word": "MİNİMİNİ",
+                "explanation": "sif. oxş. kiçicik",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 32
+            },
+            {
+                "word": "SEMİNAR",
+                "explanation": "[lat. ***ium – ocaq] 1. aliməktəblərdə tələbələrin xüsusi fənn və yamövzu üzrə keçirdikləri qrup məşğələsi",
+                "isPanagram": true,
+                "score": 17,
+                "length": 7,
+                "id": 33
+            }
+        ]
+    }
+}

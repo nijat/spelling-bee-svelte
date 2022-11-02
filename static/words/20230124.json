@@ -1,0 +1,438 @@
+{
+    "gameData": {
+        "day": "20230124",
+        "expiration": "1674601140",
+        "centerLetter": "Ə",
+        "outerLetters": [
+            "S",
+            "R",
+            "Ü",
+            "M",
+            "A",
+            "İ"
+        ],
+        "words_info": {
+            "word_count": 51,
+            "sum_score": 241,
+            "panagram_count": 2,
+            "word_length": {
+                "4": 18,
+                "9": 1,
+                "5": 12,
+                "6": 9,
+                "7": 6,
+                "8": 5
+            }
+        },
+        "words": [
+            {
+                "word": "ƏMİR",
+                "explanation": "sif. [ər.] 1. bir tayfanın və ya ölkəninbaşçısı. qəbilənin ***i. – şairin qəzəllərinəməftun olmuş dərbənd ***i onubu xaraba kənddən öz sarayına d",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "ƏMMA",
+                "explanation": "[ər.] 1. bax amma. şeir bir zivərdir",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "ƏMMƏ",
+                "explanation": "is. [ər.] klas. bibi. aya",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "ƏRƏR",
+                "explanation": "is. [ər.] ardıc ağacı. qəddintəknə ər-ər",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "ƏRRƏ",
+                "explanation": "is. [fars.] ikidəstəli iri mişar",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 5
+            },
+            {
+                "word": "ƏRSƏ",
+                "explanation": "is. [ər.] 1. meydan",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 6
+            },
+            {
+                "word": "ƏSAS",
+                "explanation": "is. [ər.] 1. bünövrə",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 7
+            },
+            {
+                "word": "ƏSƏR",
+                "explanation": "is. [ər.] 1. iz",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 8
+            },
+            {
+                "word": "ƏSİR",
+                "explanation": "is. [ər.] 1. müharibədə ələ keçirilən düşmən əsgəri",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 9
+            },
+            {
+                "word": "ƏSMƏ",
+                "explanation": "1. “***k”dən f.is.2. bax ***cə. *** azarı. *** tutmuşdur.– məs geyinib",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 10
+            },
+            {
+                "word": "ƏSRİ",
+                "explanation": "sif. müasir",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 11
+            },
+            {
+                "word": "MƏMƏ",
+                "explanation": "is. məc. ana. [şərəfnisə xanım:]əgər ***m deyən dərviş olmasaydı",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 12
+            },
+            {
+                "word": "MƏRƏ",
+                "explanation": "is. ***-*** oyunu üçün qazılançuxur",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 13
+            },
+            {
+                "word": "RƏİS",
+                "explanation": "is. [ər.] idarə edən",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 14
+            },
+            {
+                "word": "RƏMƏ",
+                "explanation": "is. [fars.] sürü. qoyun sürüsü",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 15
+            },
+            {
+                "word": "RƏSM",
+                "explanation": "is. [ər.] 1. kağız",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 16
+            },
+            {
+                "word": "SƏMA",
+                "explanation": "is. [ər.] göy",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 17
+            },
+            {
+                "word": "SƏMƏ",
+                "explanation": "sif. ağıldan kəm",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 18
+            },
+            {
+                "word": "ƏMİRİ",
+                "explanation": "sif. 1. əmirə mənsub",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 19
+            },
+            {
+                "word": "ƏSASİ",
+                "explanation": "sif. [ər.] köhn. bax əsas 2-ci mənada.*** cəhətlər. – həyat *** birdəyişikliyə uğrayınca ədəbiyyat büsbütünbaşını itirdi",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 20
+            },
+            {
+                "word": "ƏSMƏR",
+                "explanation": "sif. [ər.] qarabuğdayı",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 21
+            },
+            {
+                "word": "ƏSRAR",
+                "explanation": "is. [ər. “sirr” söz. cəmi] sirlər.mən belə ***ı qana bilmərəm; qanmazolub da dayana bilmərəm. m.ə",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 22
+            },
+            {
+                "word": "MƏRAM",
+                "explanation": "is. [ər.] istək",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 23
+            },
+            {
+                "word": "MƏRMİ",
+                "explanation": "is. [ər.] top kimi silahların gülləsi.birdən top ***si partladı",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 24
+            },
+            {
+                "word": "RƏSMİ",
+                "explanation": "sif. və zərf [ər.] 1. hökumət",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 25
+            },
+            {
+                "word": "SAİRƏ",
+                "explanation": "is. bir neçə şey sayıldıqdan sonra",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 26
+            },
+            {
+                "word": "SƏMƏR",
+                "explanation": "[ər.] bax ***ə. de görüm",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 27
+            },
+            {
+                "word": "SƏMİR",
+                "explanation": "is. [ər.] səs",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 28
+            },
+            {
+                "word": "SÜRMƏ",
+                "explanation": "is. bax siyirmə2. stolun ***siniaçmaq",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 29
+            },
+            {
+                "word": "ÜMƏRA",
+                "explanation": "is. [ər. “əmir” söz. cəmi] klas.əmirlər",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 30
+            },
+            {
+                "word": "ƏMMAMƏ",
+                "explanation": "is. [ər.] bəzi şərq ölkələrində:sarınmış uzun ağ parça",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 31
+            },
+            {
+                "word": "MƏRMƏR",
+                "explanation": "is. [lat.] 1. heykəltəraşlıqda vəmemarlıqda işlənən müxtəlif rəngli kristallikdağ süxuru – kirəc daş",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 32
+            },
+            {
+                "word": "MƏSAMƏ",
+                "explanation": "is. [ər.] 1. dərinin üzərində tərvəzilərinin ən xırda deşiyi.2. maddənin hissəcikləri arasındakı boşluq",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 33
+            },
+            {
+                "word": "MÜƏMMA",
+                "explanation": "is. [ər.] 1. mənası gizli",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 34
+            },
+            {
+                "word": "RƏSSAM",
+                "explanation": "is. [ər.] təsviri incəsənət sahəsindəyaradıcı işçi; rəsm çəkən sənətkar.mənzərə ***ı. – ***ın fırçası yorulmadanişlərdi",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 35
+            },
+            {
+                "word": "SƏMƏRƏ",
+                "explanation": "is. [ər.] 1. fayda",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 36
+            },
+            {
+                "word": "SƏMİMİ",
+                "explanation": "sif. [ər.] ürəkdən gələn; dəruni",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 37
+            },
+            {
+                "word": "SƏRSƏM",
+                "explanation": "sif. [fars.] ağlını itirmiş",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 38
+            },
+            {
+                "word": "SƏRSƏR",
+                "explanation": "is. [ər.] güclü və soyuq külək",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 39
+            },
+            {
+                "word": "MƏRASİM",
+                "explanation": "is. [ər. “rəsm” söz. cəmi] qəbulvə ya müəyyən olunmuş qayda və üsullarlaicra edilən təntənə",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 40
+            },
+            {
+                "word": "MƏSMƏSİ",
+                "explanation": "is. bot. üzəri sadə və ya budaqlıtüklərlə örtülü birillik bitki",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 41
+            },
+            {
+                "word": "MÜƏSSİR",
+                "explanation": "sif. [ər.] təsir edən",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 42
+            },
+            {
+                "word": "MÜƏSSİS",
+                "explanation": "is. [ər.] təsis edən",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 43
+            },
+            {
+                "word": "MÜSƏMMA",
+                "explanation": "is. [ər.] aşp. qoyun və ya toyuqətindən albuxara",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 44
+            },
+            {
+                "word": "SƏRSƏRİ",
+                "explanation": "sif. [fars.] 1. işi-gücü və müəyyənyeri olmayıb orada-burada dolaşan",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 45
+            },
+            {
+                "word": "MƏRƏMƏRƏ",
+                "explanation": "is. qoz",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 46
+            },
+            {
+                "word": "MÜƏSSİSƏ",
+                "explanation": "is. [ər.] 1. istehsalat və yaticarət-təsərrüfat vahidi",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 47
+            },
+            {
+                "word": "SƏSSƏMİR",
+                "explanation": "is. 1. bax səs 1-ci mənada.sonra səs-səmir kəsilib",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 48
+            },
+            {
+                "word": "ƏMİRÜMƏRA",
+                "explanation": "top. [ər.] əmirlər. vəzir",
+                "isPanagram": false,
+                "score": 9,
+                "length": 9,
+                "id": 49
+            },
+            {
+                "word": "MÜMARİSƏ",
+                "explanation": "is. [ər.] bir şeyi (məs.: idmanhərəkətlərini",
+                "isPanagram": true,
+                "score": 17,
+                "length": 8,
+                "id": 50
+            },
+            {
+                "word": "MÜSAMİRƏ",
+                "explanation": "[ər.] bax konsert 1-ci mənada.bir gecə istirahət evində *** tərtibedilmişdi. s.hüseyn. [nuriyyə:] həmişəməktəb ***lərində güldürücü rolla",
+                "isPanagram": true,
+                "score": 17,
+                "length": 8,
+                "id": 51
+            }
+        ]
+    }
+}

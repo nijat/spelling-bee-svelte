@@ -1,0 +1,280 @@
+{
+    "gameData": {
+        "day": "20230306",
+        "expiration": "1678143540",
+        "centerLetter": "Ş",
+        "outerLetters": [
+            "R",
+            "A",
+            "I",
+            "P",
+            "Q",
+            "Ç"
+        ],
+        "words_info": {
+            "word_count": 31,
+            "sum_score": 197,
+            "panagram_count": 1,
+            "word_length": {
+                "4": 4,
+                "8": 4,
+                "5": 12,
+                "7": 4,
+                "12": 1,
+                "14": 1,
+                "10": 2,
+                "6": 3
+            }
+        },
+        "words": [
+            {
+                "word": "AÇIŞ",
+                "explanation": "is. açma işi",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "AŞÇI",
+                "explanation": "is. xüs. dəri",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "AŞIQ",
+                "explanation": "is. 1. anat. diz qapaqlarından çıxanoynaq sümüyü. // uşaqların ***-*** oyunundaişlətdikləri həmin (adətən qoyunlarındiz qapağından çıxarılan) süm",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "PAŞA",
+                "explanation": "is. köhn. keçmiş sultan türkiyəsində",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "AŞQAR",
+                "explanation": "is. müəyyən məqsədlə bir şeyəəlavə edilən",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 5
+            },
+            {
+                "word": "ÇAPIŞ",
+                "explanation": "is. çapmaq işi",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 6
+            },
+            {
+                "word": "ÇARŞI",
+                "explanation": "is. [fars.] bax çarsu. mən üz qoydumbazara tərəf. xəyalımda qoymuşdum:gedərəm düz baqqal ***sına və buzu allam",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 7
+            },
+            {
+                "word": "ÇAŞIR",
+                "explanation": "is. bot. çətirçiçəklilərdən ot bitkisi.ballı bacısı oğlu ilə birlikdə kəndin üst tərəfindəkigüneylərə gedər",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 8
+            },
+            {
+                "word": "QAÇIŞ",
+                "explanation": "is. qaçma",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 9
+            },
+            {
+                "word": "QARIŞ",
+                "explanation": "is. açıq əlin baş barmağı ucundançeçələ barmağın ucuna qədər olan məsafə(ölçü kimi işlənir). □ bir *** – çox kiçik",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 10
+            },
+            {
+                "word": "QARŞI",
+                "explanation": "1. is. bir şeylə üzbəüz olan yer və ya şey",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 11
+            },
+            {
+                "word": "QAŞIQ",
+                "explanation": "is. 1. duru",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 12
+            },
+            {
+                "word": "QAŞQA",
+                "explanation": "is. 1. ümumiyyətlə",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 13
+            },
+            {
+                "word": "QIRIŞ",
+                "explanation": "is. 1. bir şeyin büküldüyü",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 14
+            },
+            {
+                "word": "PAPIŞ",
+                "explanation": "is. [fars.] adətən evdə geyilənyüngül ayaqqabı. // ümumiyyətlə",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 15
+            },
+            {
+                "word": "ŞAQQA",
+                "explanation": "is. ikiyə parçalanmış cəmdək.[fərhad:] bir qoyunun da ***sını yeməkolarmı? ə.haqverdiyev. tahirzadənin ilk işio oldu ki",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 16
+            },
+            {
+                "word": "ŞAQRAQ",
+                "explanation": "sif. şən",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 17
+            },
+            {
+                "word": "ŞAPŞAP",
+                "explanation": "is. yüngül",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 18
+            },
+            {
+                "word": "ŞIRŞIR",
+                "explanation": "təql. 1. is. bir qaydada axan",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 19
+            },
+            {
+                "word": "QARAQAŞ",
+                "explanation": "sif. qaşları qara olan. *** oğlan. *** qız. – zeynəb ***",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 20
+            },
+            {
+                "word": "QARIŞIQ",
+                "explanation": "sif. 1. müxtəlif şeylərdən və yanövlərdən ibarət olan",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 21
+            },
+            {
+                "word": "QARIŞQA",
+                "explanation": "is. torpaq altında böyük cəmiyyəthalında yaşayan zərqanadlılar fəsiləsindənkiçik cücü. qara ***",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 22
+            },
+            {
+                "word": "QAŞIQÇI",
+                "explanation": "is. qaşıq qayıran usta",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 23
+            },
+            {
+                "word": "AŞIQAŞIQ",
+                "explanation": "is. aşıqla oynanılan uşaqoyunu. aşıq-aşıq oynamaq",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 24
+            },
+            {
+                "word": "QAŞIQAŞI",
+                "explanation": "is. qaşıq ilə yeyilən duru xörək",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 25
+            },
+            {
+                "word": "QIŞQIRIQ",
+                "explanation": "is. çığırtı",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 26
+            },
+            {
+                "word": "QIRIŞQIRIŞ",
+                "explanation": "sif. və zərf qırışları çox olan",
+                "isPanagram": false,
+                "score": 10,
+                "length": 10,
+                "id": 27
+            },
+            {
+                "word": "QIŞQIRIQÇI",
+                "explanation": "sif. daima qışqıran",
+                "isPanagram": false,
+                "score": 10,
+                "length": 10,
+                "id": 28
+            },
+            {
+                "word": "QARAQIŞQIRIQ",
+                "explanation": "is. səs-küy",
+                "isPanagram": false,
+                "score": 12,
+                "length": 12,
+                "id": 29
+            },
+            {
+                "word": "QARAQIŞQIRIQÇI",
+                "explanation": "sif. və is. səs-küy salan",
+                "isPanagram": false,
+                "score": 14,
+                "length": 14,
+                "id": 30
+            },
+            {
+                "word": "ÇARPAŞIQ",
+                "explanation": "1. sif. dolaşıq",
+                "isPanagram": true,
+                "score": 17,
+                "length": 8,
+                "id": 31
+            }
+        ]
+    }
+}

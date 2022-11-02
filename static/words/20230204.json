@@ -1,0 +1,551 @@
+{
+    "gameData": {
+        "day": "20230204",
+        "expiration": "1675551540",
+        "centerLetter": "B",
+        "outerLetters": [
+            "D",
+            "R",
+            "L",
+            "Ə",
+            "T",
+            "İ"
+        ],
+        "words_info": {
+            "word_count": 65,
+            "sum_score": 317,
+            "panagram_count": 1,
+            "word_length": {
+                "4": 16,
+                "5": 26,
+                "6": 11,
+                "7": 7,
+                "9": 2,
+                "8": 2,
+                "13": 1
+            }
+        },
+        "words": [
+            {
+                "word": "BƏBƏ",
+                "explanation": "is. 1. körpə uşaq",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "BƏBR",
+                "explanation": "is. [fars.] məməli heyvanların yırtıcılar dəstəsinə mənsub pələngəoxşar heyvan. vəhşi heyvanlardan lənkəran sahəsində bəbir və respublikamızın meşələr",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "BƏDR",
+                "explanation": "is. [ər.] on dörd gecəlik ay",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "BƏRƏ",
+                "explanation": "is. 1. böyük çayların üstündə qurulanmütəhərrik körpü",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "BİBİ",
+                "explanation": "is. övlad üçün atanın bacısı",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 5
+            },
+            {
+                "word": "BİRƏ",
+                "explanation": "is. insan və heyvanları sancıb əziyyət verən çox sıçraq cücü. köhnə məscid hücrələrində *** əlindən tərpənmək olmazdı",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 6
+            },
+            {
+                "word": "BİRİ",
+                "explanation": "əvəz. 1. müəyyən olmayan şəxs",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 7
+            },
+            {
+                "word": "DƏBƏ",
+                "explanation": "is. tib. qasıq yırtıqlığı xəstəliyi;qrıja. // bu cür xəstəliyi olan adam",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 8
+            },
+            {
+                "word": "ƏBƏD",
+                "explanation": "zərf [ər.] sonsuz gələcək zaman(əzəl qarşılığı). // ***i",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 9
+            },
+            {
+                "word": "ƏBİR",
+                "explanation": "is. [ər.] klas. bax ənbər. gülzarəhava *** tökdü; səhrayə qübari-mişk çökdü.füzuli",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 10
+            },
+            {
+                "word": "ƏDƏB",
+                "explanation": "is. [ər.] əxlaq qaydalarına riayət",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 11
+            },
+            {
+                "word": "ƏDİB",
+                "explanation": "is. [ər.] 1. yazıçı",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 12
+            },
+            {
+                "word": "ƏRƏB",
+                "explanation": "is. 1. ön asiyada və şimali afrikadayaşayan",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 13
+            },
+            {
+                "word": "RƏBB",
+                "explanation": "is. ər. allah",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 14
+            },
+            {
+                "word": "RƏBT",
+                "explanation": "is. [ər.] 1. bağlama",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 15
+            },
+            {
+                "word": "TİBB",
+                "explanation": "is. [ər.] 1. xəstəliklər",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 16
+            },
+            {
+                "word": "BƏBİR",
+                "explanation": "is. [fars.] məməli heyvanların yırtıcılar dəstəsinə mənsub pələngəoxşar heyvan. vəhşi heyvanlardan lənkəran sahəsində *** və respublikamızın meşələr",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 17
+            },
+            {
+                "word": "BƏDƏL",
+                "explanation": "is. [ər.] köhn. 1. bir şeyin yerinitutan və ya tuta bilən",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 18
+            },
+            {
+                "word": "BƏDİƏ",
+                "explanation": "is. [ər.] misli-bərabəri görünməmişşey",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 19
+            },
+            {
+                "word": "BƏDİİ",
+                "explanation": "sif. [ər.] 1. estetik zövqə",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 20
+            },
+            {
+                "word": "BƏLƏD",
+                "explanation": "[ər.] 1. sif. bir adam",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 21
+            },
+            {
+                "word": "BƏLLİ",
+                "explanation": "sif. aydın",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 22
+            },
+            {
+                "word": "BİBƏR",
+                "explanation": "is. dadı acı",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 23
+            },
+            {
+                "word": "BİDƏT",
+                "explanation": "is. [ər.] hamı tərəfindən qədimdənbəri qəbul edilmiş qayda və adətə",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 24
+            },
+            {
+                "word": "BİLLƏ",
+                "explanation": "is. məh. uşaqlara verilən hər cürşirniyyat",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 25
+            },
+            {
+                "word": "BİTLİ",
+                "explanation": "sif. biti olan; başını",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 26
+            },
+            {
+                "word": "DƏBBƏ",
+                "explanation": "is. [ər.] bir şey haqqında əldəedilmiş saziş və razılığı pozmaq üçün bəhanə",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 27
+            },
+            {
+                "word": "DƏBİR",
+                "explanation": "is. [ər.] köhn. 1. kargüzar.2. xəttat",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 28
+            },
+            {
+                "word": "DƏRBƏ",
+                "explanation": "is. məh. mal-qaranın qışlıq yemehtiyatı",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 29
+            },
+            {
+                "word": "DİBİR",
+                "explanation": "is. məh. təsbəhlərdə olan uzunsovmuncuq dənəsi",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 30
+            },
+            {
+                "word": "DİBLİ",
+                "explanation": "sif. dibi olan. *** çəllək",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 31
+            },
+            {
+                "word": "ƏBƏDİ",
+                "explanation": "sif. və zərf [ər.] 1. daimi",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 32
+            },
+            {
+                "word": "ƏDƏBİ",
+                "explanation": "sif. [ər.] ***yyata aid olan.*** əsər. *** cərəyan. *** irs. ***müşavirə. *** müsabiqə",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 33
+            },
+            {
+                "word": "ƏLBƏT",
+                "explanation": "[ər.] 1. bax ***tə. *** gələcəkdir.dünyaya gələn *** gedər. – deməkolmaz dirilər tək yatıb",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 34
+            },
+            {
+                "word": "ƏRƏBİ",
+                "explanation": "sif. [ər.] ərəbcə; ərəb dilinə vəxalqına mənsub; ərəb üslubunda",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 35
+            },
+            {
+                "word": "TƏBƏƏ",
+                "explanation": "is. [ər. “tabe” söz. cəmi] bir dövlətə tabe olan",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 36
+            },
+            {
+                "word": "TƏBİB",
+                "explanation": "is. [ər.] həkim. *** olsam",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 37
+            },
+            {
+                "word": "TƏBİİ",
+                "explanation": "sif. [ər.] 1. təbiətə (yer səthinə",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 38
+            },
+            {
+                "word": "TƏBİL",
+                "explanation": "is. [ər.] iri nağara. səhnənin dalından*** və sinc səsi gəlir. ə.haqverdiyev.[cavanşir:] qoy şeypurlar gurlasın",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 39
+            },
+            {
+                "word": "TƏBİR",
+                "explanation": "is. [ər.] 1. söz",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 40
+            },
+            {
+                "word": "TƏLƏB",
+                "explanation": "is. [ər.] 1. bir şeyi israrla",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 41
+            },
+            {
+                "word": "TİBBİ",
+                "explanation": "sif. [ər.] tiblə",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 42
+            },
+            {
+                "word": "BƏDTƏR",
+                "explanation": "sif. [fars.] bax betər. [heydərbəy:] səni toysuz aparmaq mənə ölümdən ***görünür. m.f.axundzadə",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 43
+            },
+            {
+                "word": "BƏRBƏT",
+                "explanation": "is. [ər.] uda oxşar qədim çalğıaləti. əldə incə ***",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 44
+            },
+            {
+                "word": "BİRƏLİ",
+                "explanation": "sif. birə basmış",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 45
+            },
+            {
+                "word": "DİLBƏR",
+                "explanation": "sif. [fars.] şair. gözəl",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 46
+            },
+            {
+                "word": "DİLBİR",
+                "explanation": "sif. və zərf sözü",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 47
+            },
+            {
+                "word": "ƏDƏBLİ",
+                "explanation": "sif. 1. yaxşı tərbiyə görmüş",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 48
+            },
+            {
+                "word": "TƏBDİL",
+                "explanation": "is. [ər.] köhn. 1. dəyişmə",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 49
+            },
+            {
+                "word": "TƏBİƏT",
+                "explanation": "is. [ər.] 1. yerdə təbii şəraitin(yerin səthi",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 50
+            },
+            {
+                "word": "TƏDBİR",
+                "explanation": "is. [ər.] 1. bir işi görmək",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 51
+            },
+            {
+                "word": "TƏLƏBƏ",
+                "explanation": "is. [ər.] ali məktəb və ya texnikumdaoxuyan adam. mən təklif edirəm",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 52
+            },
+            {
+                "word": "TƏRTİB",
+                "explanation": "is. [ər.] 1. ayrı-ayrı hissələri",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 53
+            },
+            {
+                "word": "BİBƏRLİ",
+                "explanation": "sif. içində bibər olan",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 54
+            },
+            {
+                "word": "BİDƏLİL",
+                "explanation": "sif. [fars. bi… və ər. dəlil] baxdəlilsiz",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 55
+            },
+            {
+                "word": "BİRƏLLİ",
+                "explanation": "1. sif. bir əli olmayan",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 56
+            },
+            {
+                "word": "DƏBDƏBƏ",
+                "explanation": "is. [ər.] təmtəraq",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 57
+            },
+            {
+                "word": "DƏRBƏRƏ",
+                "explanation": "is. böyük darvazalardakı kiçikqapı",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 58
+            },
+            {
+                "word": "ƏLDƏBİR",
+                "explanation": "sif. məh. birinci növbədə nəzərəalınmalı olan; vacib",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 59
+            },
+            {
+                "word": "LƏBLƏBİ",
+                "explanation": "is. çərəz kimi yeyilən qovrulmuşqabıqsız noxud. əkdiyim noxud",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 60
+            },
+            {
+                "word": "DƏRBƏDƏR",
+                "explanation": "sif. [fars.] qapı-qapı gəzən",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 61
+            },
+            {
+                "word": "BİRƏDƏDLİ",
+                "explanation": "sif. bir ədəddən ibarət olan",
+                "isPanagram": false,
+                "score": 9,
+                "length": 9,
+                "id": 62
+            },
+            {
+                "word": "DƏBDƏBƏLİ",
+                "explanation": "sif. 1. təntənəli",
+                "isPanagram": false,
+                "score": 9,
+                "length": 9,
+                "id": 63
+            },
+            {
+                "word": "ƏDƏLLİBƏDƏLLİ",
+                "explanation": "sif. dan. yaxşı",
+                "isPanagram": false,
+                "score": 13,
+                "length": 13,
+                "id": 64
+            },
+            {
+                "word": "TƏDBİRLİ",
+                "explanation": "sif. tədbirlə iş görən",
+                "isPanagram": true,
+                "score": 17,
+                "length": 8,
+                "id": 65
+            }
+        ]
+    }
+}

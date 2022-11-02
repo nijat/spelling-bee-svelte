@@ -1,0 +1,198 @@
+{
+    "gameData": {
+        "day": "20230302",
+        "expiration": "1677797940",
+        "centerLetter": "Z",
+        "outerLetters": [
+            "R",
+            "A",
+            "M",
+            "Q",
+            "U",
+            "T"
+        ],
+        "words_info": {
+            "word_count": 21,
+            "sum_score": 111,
+            "panagram_count": 1,
+            "word_length": {
+                "4": 5,
+                "6": 4,
+                "8": 2,
+                "5": 7,
+                "7": 2,
+                "9": 1
+            }
+        },
+        "words": [
+            {
+                "word": "ARZU",
+                "explanation": "is. [fars.] 1. bir şeyin olmasını ürəkdən istəmə; istək",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "AZAR",
+                "explanation": "is. [fars.] 1. xəstəlik",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "QUZU",
+                "explanation": "is. 1. qoyun balası. *** əti. ***dərisi. – mal qapıya gələndə axşam-səhər;qoyun mələr",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "UMUZ",
+                "explanation": "is. çiyin. [zaman:] mən tüfəngi***uma sıxaraq gedirdim. c.cabbarlı. yunşalını ***undan alıb kreslonun söykənəcəyinəburaxdı",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "UZAQ",
+                "explanation": "sif. və zərf 1. məsafə etibarilə yaxın olmayan",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 5
+            },
+            {
+                "word": "QAZAQ",
+                "explanation": "is. 1. bax kazak.2. çar rusiyasında: ayrıca bir təbəqə təşkiledən atlı qoşunun süvarisi",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 6
+            },
+            {
+                "word": "QAZMA",
+                "explanation": "1. “***q1”dan f.is. ***texnikasının inkişafı.2. sif. oyulmuş",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 7
+            },
+            {
+                "word": "MAZAQ",
+                "explanation": "is. [ər.] vulq. zarafat",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 8
+            },
+            {
+                "word": "MAZAT",
+                "explanation": "is. : özünü ***a qoymaq dan. – naz eləmək",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 9
+            },
+            {
+                "word": "MAZUT",
+                "explanation": "is. neftdən ağneft",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 10
+            },
+            {
+                "word": "TARAZ",
+                "explanation": "[fars.] 1. sif. və zərf düz",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 11
+            },
+            {
+                "word": "ZUMAR",
+                "explanation": "is. məh. qış ehtiyatı. hamınınanbarında üzümü",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 12
+            },
+            {
+                "word": "QAQAUZ",
+                "explanation": "is. moldova və ukraynada",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 13
+            },
+            {
+                "word": "QAZMAQ",
+                "explanation": "is. bişmişin",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 14
+            },
+            {
+                "word": "MARAZM",
+                "explanation": "is. [yun.] 1. beyin qabığınınümumi üzgünlüklə müşayiət olunan atrofiyasıvə psixi fəaliyyətinin dayanması",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 15
+            },
+            {
+                "word": "MURQUZ",
+                "explanation": "is. bot. taxıllar fəsiləsindənqarğıyabənzər bitki",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 16
+            },
+            {
+                "word": "QAZAMAT",
+                "explanation": "is. [əsli ital.] dustaqxana",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 17
+            },
+            {
+                "word": "MAZARAT",
+                "explanation": "is. [ər.] dan. 1. ziyan",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 18
+            },
+            {
+                "word": "QARAAZAR",
+                "explanation": "is. bayt. çox yoluxucu mal***ı",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 19
+            },
+            {
+                "word": "UZAQUZAQ",
+                "explanation": "sif. çox uzaq. uzaq-uzaq dağbaşında; tala-tala qar görünür. “koroğlu”.uzaq-uzaq ölkələrdən; uçub gəlir qaranquşlar",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 20
+            },
+            {
+                "word": "QURTARMAZ",
+                "explanation": "sif. bitməz",
+                "isPanagram": true,
+                "score": 17,
+                "length": 9,
+                "id": 21
+            }
+        ]
+    }
+}

@@ -1,0 +1,188 @@
+{
+    "gameData": {
+        "day": "20230105",
+        "expiration": "1672959540",
+        "centerLetter": "D",
+        "outerLetters": [
+            "I",
+            "Ş",
+            "R",
+            "Z",
+            "A",
+            "Q"
+        ],
+        "words_info": {
+            "word_count": 20,
+            "sum_score": 94,
+            "panagram_count": 1,
+            "word_length": {
+                "4": 6,
+                "5": 7,
+                "6": 6,
+                "10": 1
+            }
+        },
+        "words": [
+            {
+                "word": "ADAQ",
+                "explanation": "is. məh. uşağın ilk addımı",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "ADAŞ",
+                "explanation": "is. adları eyni olan adamlar. o mənimlə***dır. ***lar gəldilər. – dodaqlarındakövrək təbəssüm",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "AZAD",
+                "explanation": "sif. [fars.] 1. ***lıqdan istifadəedən",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "DARI",
+                "explanation": "is. yumru toxumları olan birillik taxılbitkisi və bu bitkinin dəni. *** əkini. – actoyuq yuxusunda *** görər",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "DAZI",
+                "explanation": "is. bot. ot və kol bitkiləri daxil olanbitki cinsi; boyotu",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 5
+            },
+            {
+                "word": "QADA",
+                "explanation": "is. 1. bəla",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 6
+            },
+            {
+                "word": "DADAŞ",
+                "explanation": "is. kiçik qardaş və bacıların böyükqardaşa verdikləri ad; böyük qardaşa müraciət.bir gün gəldim",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 7
+            },
+            {
+                "word": "DAQQA",
+                "explanation": "is. məh. 1. dəridən tikilmiş hündürpapaq. şiraslan … *** divan papağınıbaşına qoydu",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 8
+            },
+            {
+                "word": "DARAQ",
+                "explanation": "is. 1. saçı darayıb düzəltmək üçün dişli alət. narındişli ***. başını ***la daramaq. – siyah zülfü *** ilə dara",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 9
+            },
+            {
+                "word": "DAŞIQ",
+                "explanation": "sif. məh. daşınacaq",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 10
+            },
+            {
+                "word": "QADAQ",
+                "explanation": "is. bıçaq",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 11
+            },
+            {
+                "word": "QIDIQ",
+                "explanation": "is. bədənin bir yerinə əl və s. ilətoxunduqda onda əmələ gələn və adamınqeyri-ixtiyari gülməsinə səbəb olan hal; yüngültəxərrüş",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 12
+            },
+            {
+                "word": "RADAR",
+                "explanation": "[ing.] bax radiolokator. radiolokasiyadaişlədilən qurğulara radiolokatordeyilir. bəzi yerlərdə bunları müxtəsər olaraq*** adlandırırlar",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 13
+            },
+            {
+                "word": "DIŞARI",
+                "explanation": "is. bayır",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 14
+            },
+            {
+                "word": "QARDAŞ",
+                "explanation": "is. 1. bir ata-anadan",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 15
+            },
+            {
+                "word": "QAŞDAŞ",
+                "explanation": "is. qiymətli daşlar: qızıl və cavahirat.[gültəkin:] mənim üçün nə paltarın",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 16
+            },
+            {
+                "word": "QIDQID",
+                "explanation": "is. dan. deyinmə; dedi-qodu",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 17
+            },
+            {
+                "word": "ŞADARA",
+                "explanation": "is. buğdanın",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 18
+            },
+            {
+                "word": "ŞARADA",
+                "explanation": "is. [fr.] cavabı müxtəlif sözlərdənibarət tapmaca. isti + ot = istiot",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 19
+            },
+            {
+                "word": "QARDAŞQIZI",
+                "explanation": "is. 1. qardaşın qızı.2. yaşlı adamın yad qıza müraciəti",
+                "isPanagram": true,
+                "score": 17,
+                "length": 10,
+                "id": 20
+            }
+        ]
+    }
+}

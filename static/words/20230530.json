@@ -1,0 +1,181 @@
+{
+    "gameData": {
+        "day": "20230530",
+        "expiration": "1685483940",
+        "centerLetter": "K",
+        "outerLetters": [
+            "R",
+            "E",
+            "Ç",
+            "İ",
+            "P",
+            "Ü"
+        ],
+        "words_info": {
+            "word_count": 19,
+            "sum_score": 83,
+            "panagram_count": 1,
+            "word_length": {
+                "4": 7,
+                "5": 8,
+                "7": 1,
+                "8": 1,
+                "6": 2
+            }
+        },
+        "words": [
+            {
+                "word": "ÇİRK",
+                "explanation": "is. [fars.] 1. natəmizlikdən",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "EPİK",
+                "explanation": "sif. [yun.] ədəb. eposa aid",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "KEÇİ",
+                "explanation": "is. süd",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "KREP",
+                "explanation": "[fr.] 1. səthi nahamar ipək və yayun parça. ***dən paltar tikdirmək.2. yığış-yığış",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "KÜKÜ",
+                "explanation": "is. göyərti və yumurtadan (bəzəndə balıqdan) hazırlanan xörək. *** bişirmək.– bəylər yeyər nahara küftə",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 5
+            },
+            {
+                "word": "KÜRK",
+                "explanation": "is. 1. keçmişdə",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 6
+            },
+            {
+                "word": "KÜRÜ",
+                "explanation": "is. zool. 1. balıqların",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 7
+            },
+            {
+                "word": "ÇÜRÜK",
+                "explanation": "sif. 1. çürüyüb xarab olmuş; çürümüş.*** taxta. *** meyvə. – [balaş:]artıq bu həqiqətdir ki",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 8
+            },
+            {
+                "word": "EKKER",
+                "explanation": "[fr.] yerdə müəyyən dərəcəli bucaqlarqurmaq üçün geodeziya aləti; künyə",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 9
+            },
+            {
+                "word": "KİÇİK",
+                "explanation": "sif. 1. həcmcə",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 10
+            },
+            {
+                "word": "KİRKİ",
+                "explanation": "1 is. xüs. xalça toxunarkən ilməklərini sıxlaşdırmaq üçün işlədilən alət; daraq",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 11
+            },
+            {
+                "word": "KİRPİ",
+                "explanation": "is. zool. məməlilər sinfindən dərisitikanla örtülü heyvan. çəpgöz ayı",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 12
+            },
+            {
+                "word": "KÜÇÜK",
+                "explanation": "is. 1. it balası. küçüyü qovmaq. küçüyü yedirtmək. 2. uşaq",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 13
+            },
+            {
+                "word": "KÜPÇÜ",
+                "explanation": "is. ip və s. boyayan adam; boyaqçı",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 14
+            },
+            {
+                "word": "PİPİK",
+                "explanation": "is. bəzi quşların (məs.: xoruzun və bəzi toyuqların) başında olan qırmızı ət parçası",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 15
+            },
+            {
+                "word": "KİRPİK",
+                "explanation": "is. 1. göz qapağının kənarlarındakı tükcüklər. uzun ***lər. – anamın buz məzarından; bilirəm ki",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 16
+            },
+            {
+                "word": "KÜRKÇÜ",
+                "explanation": "is. 1. kürktikən usta; kürk tikib satmaqla məşğul olan adam. ***nün kürkü olmaz",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 17
+            },
+            {
+                "word": "ÇÜRÜKÇÜ",
+                "explanation": "is. bir şeyi həddindən artıqtəkrar etməklə bıqdıran",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 18
+            },
+            {
+                "word": "EPİKÜRÇÜ",
+                "explanation": "is. 1. epikür fəlsəfəsi tərəfdarı.2. məc. kit. zövq və nəşəni hər şeydən üstüntutan adam; kefcil",
+                "isPanagram": true,
+                "score": 17,
+                "length": 8,
+                "id": 19
+            }
+        ]
+    }
+}

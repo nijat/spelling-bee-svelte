@@ -1,0 +1,911 @@
+{
+    "gameData": {
+        "day": "20230405",
+        "expiration": "1680731940",
+        "centerLetter": "M",
+        "outerLetters": [
+            "Ə",
+            "N",
+            "L",
+            "A",
+            "T",
+            "İ"
+        ],
+        "words_info": {
+            "word_count": 110,
+            "sum_score": 540,
+            "panagram_count": 3,
+            "word_length": {
+                "6": 21,
+                "4": 34,
+                "7": 20,
+                "5": 23,
+                "8": 7,
+                "10": 1,
+                "9": 4
+            }
+        },
+        "words": [
+            {
+                "word": "ALAM",
+                "explanation": "is. [ər. “ələm” söz. cəmi] qəm",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "ALƏM",
+                "explanation": "is. [ər.] 1. kainat",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "ALİM",
+                "explanation": "[ər.] 1. is. hər hansı bir elm sahəsindəmütəxəssis olan adam. azərbaycan***ləri. dünyada tanınmış ***",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "ALMA",
+                "explanation": "is. müxtəlif çeşidləri və müxtəlif rənglərdə olan girdə",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "AMAL",
+                "explanation": "is. [ər. “əməl” söz. cəmi] tənt. qayə",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 5
+            },
+            {
+                "word": "AMAN",
+                "explanation": "is. [ər.] 1. əmin-***lıq",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 6
+            },
+            {
+                "word": "AMİL",
+                "explanation": "is. [ər.] köhn. tacir müvəkkili",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 7
+            },
+            {
+                "word": "AMİN",
+                "explanation": "[ər. əsli qədim yəh.] din. qəbulolsun",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 8
+            },
+            {
+                "word": "ANMA",
+                "explanation": "“***q”dan f.is. *** mərasimi",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 9
+            },
+            {
+                "word": "ATMA",
+                "explanation": "“***q”dan f.is. və s. *** nizə.ən qədim insanların ilk *** silahı daş",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 10
+            },
+            {
+                "word": "ƏLƏM",
+                "explanation": "is. [ər.] dərd",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 11
+            },
+            {
+                "word": "ƏMAN",
+                "explanation": "[ər.] bax aman. böylə gedərsəbakı əldən gedər; qalmaz o məvadə ***",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 12
+            },
+            {
+                "word": "ƏMƏL",
+                "explanation": "is. [ər.] qayə",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 13
+            },
+            {
+                "word": "ƏMİN",
+                "explanation": "sif. [ər.] 1. qorxusuz",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 14
+            },
+            {
+                "word": "ƏMMA",
+                "explanation": "[ər.] 1. bax amma. şeir bir zivərdir",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 15
+            },
+            {
+                "word": "ƏMMƏ",
+                "explanation": "is. [ər.] klas. bibi. aya",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 16
+            },
+            {
+                "word": "ƏNAM",
+                "explanation": "is. [ər. “nemət” söz. cəmi] bəxşiş",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 17
+            },
+            {
+                "word": "LƏMƏ",
+                "explanation": "is. tavandan bir az aşağı divaruzunu kərpicdən",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 18
+            },
+            {
+                "word": "MAİL",
+                "explanation": "sif. [ər.] 1. hər hansı bir tərəfə əyilmiş; meyilli. *** xətt. *** səth. *** divar. – aşağı enən günəş də öz *** şüaları ilə gözləri qamaşdırırdı",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 19
+            },
+            {
+                "word": "MALA",
+                "explanation": "is. [fars.] 1. binanın iç və bayırdivarlarına çəkmək üçün əhəng",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 20
+            },
+            {
+                "word": "MAMA",
+                "explanation": "is. doğuş zamanı kömək göstərməkləməşğul olan (keçmişdə təhsilsiz",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 21
+            },
+            {
+                "word": "MANİ",
+                "explanation": "is. türk xalq şeri və nəğmə janrı",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 22
+            },
+            {
+                "word": "MƏAL",
+                "explanation": "is. [ər.] klas. bir yazı və ya söz iləanladılmaq istənilən fikir",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 23
+            },
+            {
+                "word": "MƏLƏ",
+                "explanation": "is. 1. zool. çox bərk sancan qanadsız",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 24
+            },
+            {
+                "word": "MƏMƏ",
+                "explanation": "is. məc. ana. [şərəfnisə xanım:]əgər ***m deyən dərviş olmasaydı",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 25
+            },
+            {
+                "word": "MƏNA",
+                "explanation": "is. [ər.] 1. sözün",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 26
+            },
+            {
+                "word": "MƏTA",
+                "explanation": "is. [ər.] 1. satılan mal",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 27
+            },
+            {
+                "word": "MƏTƏ",
+                "explanation": "is. yerdə oyun üçün çəkilən dairə(əsasən uşaq oyunlarında). ***dən çıxmaq",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 28
+            },
+            {
+                "word": "MƏTN",
+                "explanation": "is. [ər.] 1. yazılmış və ya çap edilmişhalda olan hər cür nitq (ədəbi əsər",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 29
+            },
+            {
+                "word": "MİNA",
+                "explanation": "[fr.] 1. adətən torpağın",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 30
+            },
+            {
+                "word": "NAMƏ",
+                "explanation": "is. [fars.] məktub",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 31
+            },
+            {
+                "word": "NƏMİ",
+                "explanation": "is. məh. alaçığın içəri-sində qarğıdanhörülmüş bağlı yer; anbar. [güldəstə:]atam karıxdığından ***nin qapısını açıqqoyub gedibdir",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 32
+            },
+            {
+                "word": "TAAM",
+                "explanation": "is. [ər.] 1. xörək",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 33
+            },
+            {
+                "word": "TƏAM",
+                "explanation": "is. bax taam",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 34
+            },
+            {
+                "word": "ALMAN",
+                "explanation": "is. ***iyanın əsas əhalisinitəşkil edən xalq və bu xalqa mənsub adam.*** ədəbiyyatının qədim abidələri",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 35
+            },
+            {
+                "word": "ƏMƏLƏ",
+                "explanation": "is. [ər.] fəhlə",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 36
+            },
+            {
+                "word": "ƏMƏLİ",
+                "explanation": "sif. 1. icrası (tətbiqi) lazım olan",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 37
+            },
+            {
+                "word": "ƏMTƏƏ",
+                "explanation": "is. [ər. “məta” söz. cəmi] iqt. kit. mübadilə üçün istehsal edilən əmək məhsulları; mal. *** insanın hər hansı bir ehtiyacını təmin edən",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 38
+            },
+            {
+                "word": "LİMİT",
+                "explanation": "[lat. ***es – sərhəd] bir şeyi işlətmək",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 39
+            },
+            {
+                "word": "MAİLİ",
+                "explanation": "sif. [ər.] bir yana meyil edən; əyilən;düz olmayan",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 40
+            },
+            {
+                "word": "MANAT",
+                "explanation": "is. azərbaycanda yüz qəpiyəbərabər olan əsas pul vahidi. // bu dəyərdəolan kağız və ya metal pul. hər biri mərdlikedib isbat; dəftərə yazdı: verrəm",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 41
+            },
+            {
+                "word": "MATAN",
+                "explanation": "sif. və is. dan. kök",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 42
+            },
+            {
+                "word": "MATƏM",
+                "explanation": "is. [ər.] yas",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 43
+            },
+            {
+                "word": "MƏLAL",
+                "explanation": "is. [ər.] ürək sıxıntısı; usanma",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 44
+            },
+            {
+                "word": "MƏMAT",
+                "explanation": "is. [ər.] ölüm",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 45
+            },
+            {
+                "word": "MƏNƏN",
+                "explanation": "zərf [ər.] mənəvi cəhətdən; ruhən.…bizim şüəra cismən ölüb fövt olublarsada",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 46
+            },
+            {
+                "word": "MƏTİN",
+                "explanation": "sif. [ər.] 1. bərk",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 47
+            },
+            {
+                "word": "MƏTLƏ",
+                "explanation": "is. [ər.] ədəb. qəsidə və ya qəzəlinilk beyti (məqtə müqabili). // giriş",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 48
+            },
+            {
+                "word": "MİLƏL",
+                "explanation": "is. [ər. “millət” söz. cəmi] millətlər.sair *** övrətlə ədalət edir",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 49
+            },
+            {
+                "word": "MİLLİ",
+                "explanation": "sif. 1. üzərində milləri olan",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 50
+            },
+            {
+                "word": "MİTİL",
+                "explanation": "is. 1. yorğanın",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 51
+            },
+            {
+                "word": "NƏMLİ",
+                "explanation": "sif. 1. bax nəm 1-ci mənada.*** torpaq. *** divar. – [vaqif:] gözümünişığı",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 52
+            },
+            {
+                "word": "TAMAM",
+                "explanation": "is. [ər.] 1. bitmə",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 53
+            },
+            {
+                "word": "TƏLİM",
+                "explanation": "is. [ər.] 1. öyrətmə",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 54
+            },
+            {
+                "word": "TƏMƏL",
+                "explanation": "[ər.] 1. bünövrə",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 55
+            },
+            {
+                "word": "TƏMİM",
+                "explanation": "is. [ər.] 1. ümumiləşdirmə.2. yayma",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 56
+            },
+            {
+                "word": "TƏMİN",
+                "explanation": "is. [ər.] adətən “etmək”",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 57
+            },
+            {
+                "word": "ALANƏM",
+                "explanation": "sif. və zərf bir qədər nəm",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 58
+            },
+            {
+                "word": "ALAMAN",
+                "explanation": "is. məh. köhn. çapqın",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 59
+            },
+            {
+                "word": "ATAMAN",
+                "explanation": "is. 1. tar. rusiyada: kazak vilayətlərindəvə qədimdə kazak qoşunlarındahərbi inzibati vəzifələrin adı",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 60
+            },
+            {
+                "word": "ATLAMA",
+                "explanation": "is. su qatılaraq duru hala salınmışqatıq; ayran. yayın ***sı",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 61
+            },
+            {
+                "word": "ƏLAMAN",
+                "explanation": "[ər.] 1. yardıma",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 62
+            },
+            {
+                "word": "ƏLAMƏT",
+                "explanation": "is. [ər.] 1. bir şeyin bilinməsinə",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 63
+            },
+            {
+                "word": "ƏLƏMLİ",
+                "explanation": "sif. qəmli",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 64
+            },
+            {
+                "word": "ƏLLAMƏ",
+                "explanation": "is. və sif. [ər.] 1. çox bilən",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 65
+            },
+            {
+                "word": "ƏLLƏMƏ",
+                "explanation": "is. məh. daş",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 66
+            },
+            {
+                "word": "ƏMANƏT",
+                "explanation": "is. [ər.] 1. birinə inanıb bir şeyi müvəqqəti olaraq tapşırma",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 67
+            },
+            {
+                "word": "ƏMƏLLİ",
+                "explanation": "sif. və zərf yaxşı",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 68
+            },
+            {
+                "word": "ƏMMAMƏ",
+                "explanation": "is. [ər.] bəzi şərq ölkələrində:sarınmış uzun ağ parça",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 69
+            },
+            {
+                "word": "LƏMƏLİ",
+                "explanation": "sif. ləməsi olan; rəfli. ***otaq",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 70
+            },
+            {
+                "word": "MƏLƏMƏ",
+                "explanation": "“***k”dən f.is. bu haldaqızıl inəyin ***si qızxanımın qulağınaçatdı. s.s.axundov",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 71
+            },
+            {
+                "word": "MƏMƏLİ",
+                "explanation": "sif. məməsi olan. □ ***heyvanlar – bax ***lər. soyuq ölkələrdəyaşayan *** heyvanların dərilərindəkitük həm sıx",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 72
+            },
+            {
+                "word": "MƏNƏNƏ",
+                "explanation": "is. zool. bitkilərin şirəsilə qidalananziyanverici bir cücü növü",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 73
+            },
+            {
+                "word": "MİLLƏT",
+                "explanation": "is. [ər.] 1. insanların tarixən dil",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 74
+            },
+            {
+                "word": "MİNMİN",
+                "explanation": "zərf və sif. minlərcə",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 75
+            },
+            {
+                "word": "MİNNƏT",
+                "explanation": "is. [ər.] edilən hörmət və yaxşılığaqarşı daxilən duyulan borcluluq hissi",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 76
+            },
+            {
+                "word": "NİMTƏN",
+                "explanation": "is. [fars.] qolsuz üst qadın geyimi",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 77
+            },
+            {
+                "word": "TİAMİN",
+                "explanation": "is. b 1 vitamini",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 78
+            },
+            {
+                "word": "ALİMANƏ",
+                "explanation": "[ər. alim və fars. …anə] baxalimcəsinə",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 79
+            },
+            {
+                "word": "ATMİNƏN",
+                "explanation": "is. yaxşı at sürən adam",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 80
+            },
+            {
+                "word": "ƏMANƏTİ",
+                "explanation": "sif. 1. əmanət olaraq verilən.2. bax amanatabənd",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 81
+            },
+            {
+                "word": "ƏTLƏNMƏ",
+                "explanation": "“***k”dən f.is. tədqiqatlarımızagörə camışlarda tezyetişgənlik",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 82
+            },
+            {
+                "word": "ƏTMƏTƏN",
+                "explanation": "is. məh. tüklənməmiş quşbalası; ətcəbala",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 83
+            },
+            {
+                "word": "MALAMAL",
+                "explanation": "sif. və zərf [fars.] dolu",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 84
+            },
+            {
+                "word": "MATƏMLİ",
+                "explanation": "sif. 1. yaslı. *** adam.– göylər ***lər kimi qara çarşaba bürünmüş",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 85
+            },
+            {
+                "word": "MƏƏTTƏL",
+                "explanation": "is. [ər. müəttəl] 1. gözləmə",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 86
+            },
+            {
+                "word": "MƏLAMƏT",
+                "explanation": "is. [ər.] danlaq",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 87
+            },
+            {
+                "word": "MƏTANƏT",
+                "explanation": "is. [ər.] dözüm",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 88
+            },
+            {
+                "word": "MİLƏMİL",
+                "explanation": "sif. milləri olan",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 89
+            },
+            {
+                "word": "MİLLƏMƏ",
+                "explanation": "1. “***k”dən f. is.2. zərf mil kimi",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 90
+            },
+            {
+                "word": "MİNİMAL",
+                "explanation": "sif. [lat.] başqaları sırasındaən kiçik",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 91
+            },
+            {
+                "word": "NATAMAM",
+                "explanation": "sif. [fars. na… və ər. təmam]1. bitməmiş",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 92
+            },
+            {
+                "word": "NİMTƏNƏ",
+                "explanation": "is. [fars.] qolsuz üst qadın geyimi",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 93
+            },
+            {
+                "word": "TAMAMƏN",
+                "explanation": "[ər.] bax tamamilə. bu yerinəhalisi *** seyiddilər. ə.haqverdiyev",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 94
+            },
+            {
+                "word": "TƏLİMAT",
+                "explanation": "is. [ər. “təlim” söz. cəmi] birşeyi həyata keçirmək üçün qayda və üsullarmüəyyən edən yazılı göstəriş; əmrnamə",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 95
+            },
+            {
+                "word": "TƏMƏLLİ",
+                "explanation": "sif. bünövrəli",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 96
+            },
+            {
+                "word": "TƏMƏNNA",
+                "explanation": "is. [ər.] 1. arzu",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 97
+            },
+            {
+                "word": "TƏMİNAT",
+                "explanation": "is. [ər. “təmin” söz. cəmi]1. birisinin həyatını təmin etmək üçün onaverilən pul",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 98
+            },
+            {
+                "word": "ƏMANƏTƏN",
+                "explanation": "zərf [ər.] 1. əmanət yoluilə",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 99
+            },
+            {
+                "word": "ƏMMAMƏLİ",
+                "explanation": "1. sif. başında əmmaməolan. bunlar keçəndən sonra ***həşəratı nə eləyək? c.məmmədquluzadə.mənim *** yoldaşım birdən ucadanmüsəlmanca səs",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 100
+            },
+            {
+                "word": "MƏMANİƏT",
+                "explanation": "is. [ər. mümaniət] maneçilik",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 101
+            },
+            {
+                "word": "MƏTƏMƏTƏ",
+                "explanation": "is. mətə içərisində oynanılanuşaq oyunu",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 102
+            },
+            {
+                "word": "MİNAATAN",
+                "explanation": "is. mina atan silah-top; minomyot",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 103
+            },
+            {
+                "word": "MİNİMİNİ",
+                "explanation": "sif. oxş. kiçicik",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 104
+            },
+            {
+                "word": "MİNNƏTLİ",
+                "explanation": "sif. minnət qarşısında",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 105
+            },
+            {
+                "word": "NİMTƏNƏLİ",
+                "explanation": "sif. nimtənə geymiş",
+                "isPanagram": false,
+                "score": 9,
+                "length": 9,
+                "id": 106
+            },
+            {
+                "word": "TAMAMLAMA",
+                "explanation": "1. “***q”dan f.is.2. is. əgər-əskiyini düzəltmə",
+                "isPanagram": false,
+                "score": 9,
+                "length": 9,
+                "id": 107
+            },
+            {
+                "word": "MƏMANİƏTLİ",
+                "explanation": "sif. və zərf məmaniətiolan",
+                "isPanagram": true,
+                "score": 17,
+                "length": 10,
+                "id": 108
+            },
+            {
+                "word": "MƏTANƏTLİ",
+                "explanation": "sif. mətanəti olan",
+                "isPanagram": true,
+                "score": 17,
+                "length": 9,
+                "id": 109
+            },
+            {
+                "word": "TƏLİMNAMƏ",
+                "explanation": "[ər. təlim və fars. …namə]bax təlimat. direktor zəngi basıb",
+                "isPanagram": true,
+                "score": 17,
+                "length": 9,
+                "id": 110
+            }
+        ]
+    }
+}

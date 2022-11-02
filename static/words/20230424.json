@@ -1,0 +1,333 @@
+{
+    "gameData": {
+        "day": "20230424",
+        "expiration": "1682373540",
+        "centerLetter": "A",
+        "outerLetters": [
+            "Ə",
+            "N",
+            "F",
+            "T",
+            "S",
+            "İ"
+        ],
+        "words_info": {
+            "word_count": 38,
+            "sum_score": 141,
+            "panagram_count": 1,
+            "word_length": {
+                "4": 20,
+                "6": 5,
+                "7": 4,
+                "5": 6,
+                "8": 3
+            }
+        },
+        "words": [
+            {
+                "word": "AFAT",
+                "explanation": "is. [ər. “afət” söz. cəmi] bax afət1-ci mənada. [nəsib:] mat-məəttəl qalmışamki",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "AFƏT",
+                "explanation": "is. [ər.] 1. bəla",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "ANƏN",
+                "explanation": "zərf [ər.] birdən",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "ASAN",
+                "explanation": "sif. zəhmət tələb etməyən",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "ATAT",
+                "explanation": "is. uşaqların ağac üstə minərəkoynadıqları oyun. at-at oynamaq",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 5
+            },
+            {
+                "word": "ƏSAS",
+                "explanation": "is. [ər.] 1. bünövrə",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 6
+            },
+            {
+                "word": "ƏSNA",
+                "explanation": "is. [ər.] vaxt",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 7
+            },
+            {
+                "word": "FANİ",
+                "explanation": "sif. [ər.] həmişəlik olmayan",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 8
+            },
+            {
+                "word": "FATA",
+                "explanation": "is. [lat.] duvaq",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 9
+            },
+            {
+                "word": "FƏNA",
+                "explanation": "is. [ər.] pis",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 10
+            },
+            {
+                "word": "NANƏ",
+                "explanation": "[ər.] bot. yeyilən çoxillik ətirligöyərti növü. *** qurutmaq. üç dəstə ***.□ *** cövhəri (arağı) – ***dən çəkilənaraq",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 11
+            },
+            {
+                "word": "SAAT",
+                "explanation": "is. [ər.] 1. gecə-gündüzün iyirmi dörddə birini təşkil edən və 60 dəqiqədən ibarət olan vaxt ölçüsü vahidi",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 12
+            },
+            {
+                "word": "SAƏT",
+                "explanation": "is. [ər.] bax saat. iraq olsun yamangözdən",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 13
+            },
+            {
+                "word": "SAİT",
+                "explanation": "sif. [ər.] dilç. hava axınının ağız boşluğundanheç bir maneəyə rast gəlmədənkeçməsi yolu ilə əmələ gələn (səslər haqqında)",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 14
+            },
+            {
+                "word": "SANİ",
+                "explanation": "sif. [ər.] ikinci",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 15
+            },
+            {
+                "word": "SƏFA",
+                "explanation": "is. [ər.] zövq",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 16
+            },
+            {
+                "word": "SƏNA",
+                "explanation": "is. [ər.] klas. tərif",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 17
+            },
+            {
+                "word": "SİAN",
+                "explanation": "is. kəskin iyli",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 18
+            },
+            {
+                "word": "TANA",
+                "explanation": "is. 1. sırğa. qızıl ***. – qızıl üzük",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 19
+            },
+            {
+                "word": "TASA",
+                "explanation": "is. [fars.] 1. qəm",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 20
+            },
+            {
+                "word": "ƏSASİ",
+                "explanation": "sif. [ər.] köhn. bax əsas 2-ci mənada.*** cəhətlər. – həyat *** birdəyişikliyə uğrayınca ədəbiyyat büsbütünbaşını itirdi",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 21
+            },
+            {
+                "word": "ƏSNAF",
+                "explanation": "is. [ər. “sinf” söz. cəmi] sənətkarlar",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 22
+            },
+            {
+                "word": "SATİN",
+                "explanation": "[fr.] möhkəm parlaq pambıq parça.// ***dən tikilmiş. *** köynək. *** tuman",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 23
+            },
+            {
+                "word": "SİTAT",
+                "explanation": "[lat. citatum] olduğu kimi",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 24
+            },
+            {
+                "word": "TAFTA",
+                "explanation": "is. [fars.] sıx toxunmuş ipək vəya pambıq parça. [tarverdi:] a gədə",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 25
+            },
+            {
+                "word": "TANİN",
+                "explanation": "is. [fr.] dəri aşılanmasında",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 26
+            },
+            {
+                "word": "AFTAFA",
+                "explanation": "is. lüləyi və qulpu olan su qabı;lüləyin. səriyyə tas və ***nı gətiribmübaşir məmmədin … əllərinə su tökdü",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 27
+            },
+            {
+                "word": "ASTANA",
+                "explanation": "is. kandar",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 28
+            },
+            {
+                "word": "ATAANA",
+                "explanation": "is. öz övladına münasibətdəkişi və qadın; valideyn. ata-analar öz uşaqlarınıntərbiyəsinə fikir verməlidirlər",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 29
+            },
+            {
+                "word": "ƏFSANƏ",
+                "explanation": "is. [fars.] 1. nəsillərdən nəsillərəağızda dolaşan və mövzusu çox zamanfövqəladə xarakter daşıyan hekayə",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 30
+            },
+            {
+                "word": "ƏSASƏN",
+                "explanation": "[ər.] 1. zərf əsli",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 31
+            },
+            {
+                "word": "ATSİFƏT",
+                "explanation": "sif. dan. sifəti çox yekə vəuzun. jandarmların yanında dayanmış qoca*** bir arvad … bu qadınları axtarmağabaşladı",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 32
+            },
+            {
+                "word": "NƏFSANİ",
+                "explanation": "sif. [ər.] ehtirasa",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 33
+            },
+            {
+                "word": "TƏSİSAT",
+                "explanation": "is. [ər. “təsis” söz. cəmi] kit.1. qurulmuş",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 34
+            },
+            {
+                "word": "TİTANİT",
+                "explanation": "is. [yun.] şəffaf növləri yarımqiymətlidaş olan mineral",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 35
+            },
+            {
+                "word": "NİSTATİN",
+                "explanation": "is. [lat.] antibiotiklər qrupundandərman preparatı",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 36
+            },
+            {
+                "word": "STANİTSA",
+                "explanation": "is. [rus.] kənd tipli yaşayışməntəqəsi",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 37
+            },
+            {
+                "word": "TƏSNİFAT",
+                "explanation": "is. [ər. “təsnif” söz. cəmi] hərhansı eynicinsli şeylərin və ya anlayışlarınmüəyyən ümumi əlamətlərə görə siniflərə",
+                "isPanagram": true,
+                "score": 17,
+                "length": 8,
+                "id": 38
+            }
+        ]
+    }
+}

@@ -1,0 +1,157 @@
+{
+    "gameData": {
+        "day": "20230427",
+        "expiration": "1682632740",
+        "centerLetter": "E",
+        "outerLetters": [
+            "O",
+            "L",
+            "B",
+            "T",
+            "İ",
+            "R"
+        ],
+        "words_info": {
+            "word_count": 16,
+            "sum_score": 75,
+            "panagram_count": 1,
+            "word_length": {
+                "5": 5,
+                "7": 3,
+                "4": 6,
+                "8": 1,
+                "6": 1
+            }
+        },
+        "words": [
+            {
+                "word": "ELİT",
+                "explanation": "[fr.] k.t. 1. bitki və heyvanların ən seçmə",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "ELLİ",
+                "explanation": "sif. 1 vətəni",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "ELTİ",
+                "explanation": "is. qardaş arvadlarının bir-birinəolan qohumluq münasibəti",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "OTEL",
+                "explanation": "[fr.] mehmanxana. *** sahibi vəonun dalısınca bir əcnəbi nömrəyə girdilər.s.m.qənizadə. restorandan aşağı nemətinnəzərinə çarpan böyük bir *** ol",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "RELE",
+                "explanation": "[fr.] elektrik dövrəsini müəyyənhadisələr zamanı avtomatik olaraq açan vəya bağlayan alət",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 5
+            },
+            {
+                "word": "TİRE",
+                "explanation": "[fr.] 1. uzun üfüqi xətt (–) şəklindədurğu işarəsi.2. morze əlifbasında belə işarə",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 6
+            },
+            {
+                "word": "BERET",
+                "explanation": "[fr.] günlüyü və kənarları olmayanyumşaq baş geyimi",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 7
+            },
+            {
+                "word": "BİLET",
+                "explanation": "[fr.] 1. kitabça",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 8
+            },
+            {
+                "word": "LİTER",
+                "explanation": "[lat. lit(t)era – hərf] 1. dəmir yolu və bəzi başqa nəqliyyat vasitələrində pulsuz və ya güzəştlə getmək üçün (müəyyən hərflə işarə olunmuş) sənəd",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 9
+            },
+            {
+                "word": "RETRO",
+                "explanation": "is. [ing.] 1. geri qayıtmaq.2. keçmişə uyğunluq",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 10
+            },
+            {
+                "word": "TELLİ",
+                "explanation": "sif. telləri olan; tellərini alnına tökmüş;saçlı",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 11
+            },
+            {
+                "word": "TERROR",
+                "explanation": "[lat. therror – qorxu",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 12
+            },
+            {
+                "word": "BERTOLE",
+                "explanation": "duzu [xüs. is.-dən] kimyasənayesində və təbabətdə işlənən kristallikağ poroşok (kalium-xloratın köhnə adı)",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 13
+            },
+            {
+                "word": "LİBERTİ",
+                "explanation": "[ing.] ipək və ya ipək qarışıqyumşaq",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 14
+            },
+            {
+                "word": "LİTERLİ",
+                "explanation": "sif. literi olan",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 15
+            },
+            {
+                "word": "LİBRETTO",
+                "explanation": "[ital.] 1. böyük musiqi-vokaləsərinin (opera",
+                "isPanagram": true,
+                "score": 17,
+                "length": 8,
+                "id": 16
+            }
+        ]
+    }
+}

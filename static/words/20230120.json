@@ -1,0 +1,166 @@
+{
+    "gameData": {
+        "day": "20230120",
+        "expiration": "1674255540",
+        "centerLetter": "Ü",
+        "outerLetters": [
+            "S",
+            "N",
+            "T",
+            "Ə",
+            "M",
+            "İ"
+        ],
+        "words_info": {
+            "word_count": 17,
+            "sum_score": 94,
+            "panagram_count": 1,
+            "word_length": {
+                "12": 1,
+                "7": 2,
+                "8": 1,
+                "6": 2,
+                "4": 3,
+                "5": 8
+            }
+        },
+        "words": [
+            {
+                "word": "MÜTİ",
+                "explanation": "sif. [ər.] itaət edən",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "SÜNİ",
+                "explanation": "sif. [ər.] 1. təbii deyil",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "SÜST",
+                "explanation": "sif. [fars.] 1. hərəkət etməyə iqtidarı olmayan",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "SÜMSÜ",
+                "explanation": "is. quşları aldadıb tutmaq üçünonların səsini yamsılayan ovçu aləti. [kərimbaba:] *** quş kimi oxuyur",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 4
+            },
+            {
+                "word": "SÜNNİ",
+                "explanation": "is. [ər.] islam məzhəblərindən birininadı. bu kəndin [mərğuzlunun] əhli ***",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 5
+            },
+            {
+                "word": "SÜSƏN",
+                "explanation": "is. bot. iri bənövşəyi",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 6
+            },
+            {
+                "word": "TÜMƏN",
+                "explanation": "is. 1. iranda: 10 riala bərabər pulvahidi. [xortdan:] rəştə teleqram çəkib",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 7
+            },
+            {
+                "word": "TÜSTÜ",
+                "explanation": "is. 1. yanan bir şeydən havaya qalxandumanaoxşar qazvari kəsif zərrəciklər.papiros ***sü. qara ***",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 8
+            },
+            {
+                "word": "TÜTÜN",
+                "explanation": "is. 1. yarpaqlarında nikotin olanquşüzümü ailəsindən ot-bitki. *** zəmisi.*** yığımı. – ağacların qalın gövdələriarasından yaşıl *** plantasi",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 9
+            },
+            {
+                "word": "ÜMMƏT",
+                "explanation": "is. [ər.] 1. xalq",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 10
+            },
+            {
+                "word": "ÜSTÜN",
+                "explanation": "sif. 1. bənzərlərinə görə daha yaxşı",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 11
+            },
+            {
+                "word": "MÜSİNN",
+                "explanation": "sif. [ər.] klas. sinli",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 12
+            },
+            {
+                "word": "SÜNNƏT",
+                "explanation": "is. [ər.] din. müsəlmanlarda",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 13
+            },
+            {
+                "word": "MÜƏNNƏS",
+                "explanation": "is. [ər.] ərəb qrammatikasında:qadın cinsi",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 14
+            },
+            {
+                "word": "MÜƏSSİS",
+                "explanation": "is. [ər.] təsis edən",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 15
+            },
+            {
+                "word": "MÜƏSSİSƏ",
+                "explanation": "is. [ər.] 1. istehsalat və yaticarət-təsərrüfat vahidi",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 16
+            },
+            {
+                "word": "MİNNƏTSÜNNƏT",
+                "explanation": "is. [ər.] dan. ayağa düşüb xahiş etmə; xahiş",
+                "isPanagram": true,
+                "score": 17,
+                "length": 12,
+                "id": 17
+            }
+        ]
+    }
+}

@@ -1,0 +1,1151 @@
+{
+    "gameData": {
+        "day": "20221126",
+        "expiration": "1669503540",
+        "centerLetter": "Ə",
+        "outerLetters": [
+            "R",
+            "İ",
+            "Z",
+            "K",
+            "L",
+            "D"
+        ],
+        "words_info": {
+            "word_count": 140,
+            "sum_score": 704,
+            "panagram_count": 2,
+            "word_length": {
+                "4": 39,
+                "6": 17,
+                "7": 29,
+                "5": 37,
+                "10": 3,
+                "9": 6,
+                "8": 9
+            }
+        },
+        "words": [
+            {
+                "word": "DƏDƏ",
+                "explanation": "is. 1. ata. *** görməyib",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "DƏLƏ",
+                "explanation": "is. 1. zool. yırtıcılar dəstəsindənxəzdərili məməli kiçik heyvan. *** dərisi.2. həmin heyvanın dərisi",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "DƏLİ",
+                "explanation": "1. sif. ağlı və şüuru yerində olmayan",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "DƏRD",
+                "explanation": "is. [fars.] 1. qəm",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "DƏRƏ",
+                "explanation": "is. 1. iki dağ və ya təpə arasında",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 5
+            },
+            {
+                "word": "DƏRİ",
+                "explanation": "is. 1. insan və heyvanın bədənininüstünü örtən mikroskopik məsaməli ət örtüyü.qolumun ***si soyulub",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 6
+            },
+            {
+                "word": "DƏRK",
+                "explanation": "[ər.] : *** etmək – anlamaq",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 7
+            },
+            {
+                "word": "DƏRZ",
+                "explanation": "is. biçilmiş taxıl bağlaması. *** qalağı. *** bağlamaq. – …***lər bağlanır",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 8
+            },
+            {
+                "word": "DİDƏ",
+                "explanation": "is. [fars.] klas. göz. gər inanmazsan ki",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 9
+            },
+            {
+                "word": "ƏDƏD",
+                "explanation": "is. [ər.] 1. say",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 10
+            },
+            {
+                "word": "ƏKİZ",
+                "explanation": "1. sif. anadan cüt olan",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 11
+            },
+            {
+                "word": "ƏLƏK",
+                "explanation": "is. unun kəpək və qeyri zibillərinitəmizləmək üçün sağanağa keçirilmiş sıxtordan ibarət alət. *** dairəvi qutu şəklindəolur",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 12
+            },
+            {
+                "word": "ƏLİK",
+                "explanation": "is. zool. vəhşi keçi; keyik. davanınşiddətli vaxtında dağın döşündə bir sürü*** göründü. “qaçaq nəbi”",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 13
+            },
+            {
+                "word": "ƏLİL",
+                "explanation": "is. və sif. xəstəlik və ya qocalıqnəticəsində əmək qabiliyyətini itirmiş;şikəst. ***lər cəmiyyəti",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 14
+            },
+            {
+                "word": "ƏLLİ",
+                "explanation": "sif. 1. əli olan. iri *** adam. 2. məc. qolu güclü",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 15
+            },
+            {
+                "word": "ƏRƏR",
+                "explanation": "is. [ər.] ardıc ağacı. qəddintəknə ər-ər",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 16
+            },
+            {
+                "word": "ƏRİK",
+                "explanation": "is. 1. sarı",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 17
+            },
+            {
+                "word": "ƏRKƏ",
+                "explanation": "is. uşaq",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 18
+            },
+            {
+                "word": "ƏRLİ",
+                "explanation": "sif. əri olan. ev tikdirənlər təkcə*** qadınlar deyildi. ə.əbülhəsən. // is. mənasında.*** qadın",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 19
+            },
+            {
+                "word": "ƏRRƏ",
+                "explanation": "is. [fars.] ikidəstəli iri mişar",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 20
+            },
+            {
+                "word": "ƏZƏL",
+                "explanation": "[ər.] 1. is. əvvəli",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 21
+            },
+            {
+                "word": "ƏZİK",
+                "explanation": "sif. 1. əzilmiş. *** meyvə. ***pomidor.2. ütüsü",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 22
+            },
+            {
+                "word": "ƏZİZ",
+                "explanation": "sif. [ər.] 1. sevimli",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 23
+            },
+            {
+                "word": "KƏKƏ",
+                "explanation": "sif. danışarkən ***ləyən; kəkov.*** uşaq. anadan *** (z.) doğulmaq",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 24
+            },
+            {
+                "word": "KƏLƏ",
+                "explanation": "is. 1. cins artırmaq üçün saxlanılanaxtalanmamış",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 25
+            },
+            {
+                "word": "KƏRƏ",
+                "explanation": "zərf [ər.] dəfə. iki *** iki elər dörd. adama neçə *** deyərlər. iki *** getmək. bir *** görmək. – adam adamı bir *** aldadar",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 26
+            },
+            {
+                "word": "KİLƏ",
+                "explanation": "is. 1. altı kiloqrama bərabər köhnə ağırlıq ölçüsü. iki *** arpa. 2. ikigözlü taxta tərəzi",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 27
+            },
+            {
+                "word": "KİRƏ",
+                "explanation": "is. [fars.] 1. bir şeyin müəyyən haqq müqabilində müvəqqəti olaraq sahibi tərəfindən başqasına istifadəyə verilməsi; kirayə",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 28
+            },
+            {
+                "word": "LƏKƏ",
+                "explanation": "is. 1. ***ləyici bir şeyin səth üzərindəburaxdığı iz. qan ***si. yağ ***si. mürəkkəb***si. paltarındakı ***ni silmək",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 29
+            },
+            {
+                "word": "LƏLƏ",
+                "explanation": "is. 1. keçmişdə kübar və varlı ai***rdəoğlan uşağının tərbiyəsilə məşğul olanadam. [qətibə xanım:] səba xanım",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 30
+            },
+            {
+                "word": "LİRƏ",
+                "explanation": "[ital.] türkiyədə",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 31
+            },
+            {
+                "word": "RƏDD",
+                "explanation": "is. [ər.] qəbul etməmə",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 32
+            },
+            {
+                "word": "RƏZƏ",
+                "explanation": "is. dan. cəftə. ***ni bağlamaq. –qəsrin qalın taxta qapısı ***sindən qopubayaq altına düşmüşdü. m",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 33
+            },
+            {
+                "word": "RİZƏ",
+                "explanation": "is. [fars.] tikə",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 34
+            },
+            {
+                "word": "ZƏDƏ",
+                "explanation": "is. [fars.] 1. toxunmaq",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 35
+            },
+            {
+                "word": "ZƏKİ",
+                "explanation": "[ər.] bax zəkalı. [şeyx kəbir:]lakin ən son yerin",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 36
+            },
+            {
+                "word": "ZƏLİ",
+                "explanation": "is. 1. şirin sularda yaşayan",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 37
+            },
+            {
+                "word": "ZƏRD",
+                "explanation": "sif. [fars.] klas. sarı. əşkimi",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 38
+            },
+            {
+                "word": "ZİRƏ",
+                "explanation": "is. bot. çətirçiçəklilər fəsiləsindəniki və ya çoxillik ot cinsi və həmin bitkininədviyyat kimi xəmirə və s",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 39
+            },
+            {
+                "word": "DƏKKƏ",
+                "explanation": "is. məh. iri heyvanların (inək",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 40
+            },
+            {
+                "word": "DƏLİL",
+                "explanation": "is. [ər.] hər hansı bir şeyi sübut etməküçün əsas; sübut. tutarlı ***. *** gətirmək.bunu sübut etmək üçün *** lazımdır",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 41
+            },
+            {
+                "word": "DƏRƏK",
+                "explanation": "is. [ər.] 1. köhn. uçurumun dibi.2. aşağı dərəcə",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 42
+            },
+            {
+                "word": "DƏRZİ",
+                "explanation": "is. paltar biçib-tikən usta. ***şagirdi. uşaq ***si. – ***yə köç dedilər",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 43
+            },
+            {
+                "word": "DİLƏK",
+                "explanation": "is. istək",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 44
+            },
+            {
+                "word": "DİRƏK",
+                "explanation": "is. 1. bir şeyi saxlamaq üçün altınavurulan tir",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 45
+            },
+            {
+                "word": "ƏDƏDİ",
+                "explanation": "sif. [ər.] riyaz. ədədlərlə ifadəolunan. *** kəmiyyət. ədəbi nisbət. –diferensial tənlikləri təqribi həll etmək üçünmüxtəlif qrafik və *** meto",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 46
+            },
+            {
+                "word": "ƏKİLİ",
+                "explanation": "sif. əkilmiş. bütün bu yerlər ***dir",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 47
+            },
+            {
+                "word": "ƏKLİL",
+                "explanation": "is. [ər.] çiçəklərdən və ya yarpaqlardandairə və ya tac şəklində hörülmüşbəzək; çələng. canlı çiçəklərdən düzəldilmiş***",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 48
+            },
+            {
+                "word": "ƏLLİK",
+                "explanation": "is. 1. bax əlcək.2. bir şeyin əllə tutulan yeri",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 49
+            },
+            {
+                "word": "ƏRİZƏ",
+                "explanation": "is. [ər.] rəs. bir arzu və ya xahişifadə edən məktub",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 50
+            },
+            {
+                "word": "ƏRLİK",
+                "explanation": "is. 1. ərin öz qadınına olan münasibəti",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 51
+            },
+            {
+                "word": "ƏZƏLƏ",
+                "explanation": "is. [ər.] anat. insan və heyvanbədəninin",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 52
+            },
+            {
+                "word": "ƏZƏLİ",
+                "explanation": "sif. [ər.] zamanca başlanğıcı",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 53
+            },
+            {
+                "word": "KƏDƏR",
+                "explanation": "is. [ər.] qəm",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 54
+            },
+            {
+                "word": "KƏKİL",
+                "explanation": "is. [fars.] 1. bəzi quşların başındatopa şəklində tük. fərənin ***i. göyərçin***i. // at və bəzi başqa heyvanların qulaqlarıarasından sallanan",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 55
+            },
+            {
+                "word": "KƏKRƏ",
+                "explanation": "is. bot. əsasən dəvələrin yediyi yabanı acı ot bitkisi",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 56
+            },
+            {
+                "word": "KƏLƏK",
+                "explanation": "is. hiylə",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 57
+            },
+            {
+                "word": "KƏLƏZ",
+                "explanation": "is. zool. sürünənlər sinfinə aidolan",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 58
+            },
+            {
+                "word": "KƏLİK",
+                "explanation": "is. [fars.] dəyməmiş",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 59
+            },
+            {
+                "word": "KƏLLƏ",
+                "explanation": "is. [fars.] 1. baş. ***sindən vurmaq.– ox atma sən bu daşa; bu qayaya",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 60
+            },
+            {
+                "word": "KƏRDİ",
+                "explanation": "is. bot. şaftalı növü",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 61
+            },
+            {
+                "word": "KƏRKƏ",
+                "explanation": "is. zool. şirin sularda yaşayan",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 62
+            },
+            {
+                "word": "KƏRKİ",
+                "explanation": "is. aşağı çevrilmiş enli tiyəsi olanuzunsaplı",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 63
+            },
+            {
+                "word": "KƏRRƏ",
+                "explanation": "[ər.] bax kərə3. bir *** düşəndəxəbər al badi-səbadan; saçın həvəsigör ki",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 64
+            },
+            {
+                "word": "KİLKƏ",
+                "explanation": "is. [rus.] zool. siyənəkkimilərailəsinə mənsub xırda balıq növü",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 65
+            },
+            {
+                "word": "LƏKƏR",
+                "explanation": "is. dan. görkəm",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 66
+            },
+            {
+                "word": "LƏLƏK",
+                "explanation": "is. 1. quşların qanadlarının vəquyruqlarının uclarındakı uzun saplaqlı tük.[qız] eyvanın küncündə ları xoruzun qanadındandüşmüş uzun lələyi görüb s",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 67
+            },
+            {
+                "word": "LƏRZƏ",
+                "explanation": "is. [fars.] titrəmə",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 68
+            },
+            {
+                "word": "LƏZİZ",
+                "explanation": "sif. [ər.] bax ləzzətli 1-ci mənada.*** yeməklər. – bəli",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 69
+            },
+            {
+                "word": "RƏZİL",
+                "explanation": "sif. [ər.] alçaq",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 70
+            },
+            {
+                "word": "ZƏLİL",
+                "explanation": "sif. [ər.] zəlalətə düşmüş; yazıq",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 71
+            },
+            {
+                "word": "ZƏRDƏ",
+                "explanation": "is. məh. yerkökü",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 72
+            },
+            {
+                "word": "ZƏRƏR",
+                "explanation": "is. [ər.] ziyan. bunun xeyri var ki",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 73
+            },
+            {
+                "word": "ZƏRLİ",
+                "explanation": "1. sif. zərlə bəzəkli",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 74
+            },
+            {
+                "word": "ZƏRRƏ",
+                "explanation": "is. [ər.] bir şeyin ən kiçik hissəsi. [qəhrəman:] kənarda şiddətlə əsən qış ruzgarı birqat pəncərələri yumruqlayır",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 75
+            },
+            {
+                "word": "ZİRƏK",
+                "explanation": "sif. [fars.] bacarıqlı",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 76
+            },
+            {
+                "word": "DƏDƏLİ",
+                "explanation": "sif. atası olan",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 77
+            },
+            {
+                "word": "DƏLLƏK",
+                "explanation": "is. [ər.] 1. baş və üz qırxmaqpeşəsi ilə məşğul olan adam; bərbər. bəli",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 78
+            },
+            {
+                "word": "DƏRDLİ",
+                "explanation": "sif. 1. dərdi",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 79
+            },
+            {
+                "word": "DƏRİLİ",
+                "explanation": "sif. dərisi olan. // dəridən olan",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 80
+            },
+            {
+                "word": "ƏKƏLİK",
+                "explanation": "is. böyüklük",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 81
+            },
+            {
+                "word": "ƏLDƏKİ",
+                "explanation": "sif. əldə olan",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 82
+            },
+            {
+                "word": "ƏLƏKLİ",
+                "explanation": "sif. xüs. ələyi olan. *** konveyer",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 83
+            },
+            {
+                "word": "ƏRİKLİ",
+                "explanation": "sif. 1. ərik ağacları olan. ***dərə. – nəbi bu dəfə özünü *** dağınaverir. “qaçaq nəbi”.2. tərkibində",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 84
+            },
+            {
+                "word": "ƏRKLİK",
+                "explanation": "is. ərk etmə",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 85
+            },
+            {
+                "word": "ƏZƏLKİ",
+                "explanation": "sif. əzəldə olan",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 86
+            },
+            {
+                "word": "KƏKLİK",
+                "explanation": "is. toyuq cinsindən əlvan tüklü çöl quşu. çil ***. ağ ***. – çoban oxur",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 87
+            },
+            {
+                "word": "KƏLƏKƏ",
+                "explanation": "is. məh. yeni doğmuş heyvanınağuz südünün bişmişi",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 88
+            },
+            {
+                "word": "KİRƏLİ",
+                "explanation": "sif. kirə ilə tutulmuş",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 89
+            },
+            {
+                "word": "LƏKƏLİ",
+                "explanation": "sif. 1. ləkəsi olan",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 90
+            },
+            {
+                "word": "RƏZƏLİ",
+                "explanation": "sif. rəzəsi olan; cəftəli. ***qapı. – *** sandıqdakı boğçaların hərəsibir ömrə bəs edərdi. mir cəlal",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 91
+            },
+            {
+                "word": "ZƏDƏLİ",
+                "explanation": "sif. zədəsi olan",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 92
+            },
+            {
+                "word": "ZƏRZƏR",
+                "explanation": "is. [fars.] zərlə toxunmuş parça",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 93
+            },
+            {
+                "word": "DƏDƏLİK",
+                "explanation": "is. atalıq",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 94
+            },
+            {
+                "word": "DƏLİKLİ",
+                "explanation": "sif. dəliyi olan; deşikli. ***sərnic. *** dolça.◊ *** sümük anat. – qılça ilə birləşənsümük",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 95
+            },
+            {
+                "word": "DƏLİLİK",
+                "explanation": "is. 1. ağlı başından çıxmış adamınhalı. *** əlamətləri.2. məc. ağılsız iş və hərəkət",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 96
+            },
+            {
+                "word": "DƏLİLLİ",
+                "explanation": "sif. dəlili olan; sübutlu",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 97
+            },
+            {
+                "word": "DƏRDDİL",
+                "explanation": "is. [fars.] köhn. ürək dərdi",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 98
+            },
+            {
+                "word": "DƏRƏLİK",
+                "explanation": "is. dərələr olan yer. // sif. mənasında.…uçurum",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 99
+            },
+            {
+                "word": "DƏRİLİK",
+                "explanation": "sif. xəzlik; dəri (xəz) hazırlamağayarayan",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 100
+            },
+            {
+                "word": "DİLƏKLİ",
+                "explanation": "sif. diləyi olan",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 101
+            },
+            {
+                "word": "DİRƏKLİ",
+                "explanation": "sif. dirəyi",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 102
+            },
+            {
+                "word": "ƏKİZLİK",
+                "explanation": "is. əkiz olma halı. *** ikiadamın bir-birinə oxşamasını tələb etmir",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 103
+            },
+            {
+                "word": "ƏLİLLİK",
+                "explanation": "is. əlil adamın hal və vəziyyəti.təqaüdün miqdarı *** dərəcəsinəgörə təyin edilir",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 104
+            },
+            {
+                "word": "ƏLLİLİK",
+                "explanation": "1. is. əlli manatlıq kağız pul.əlliliyi xırdalamaq. bir *** verdim",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 105
+            },
+            {
+                "word": "ƏRİKLİK",
+                "explanation": "is. ərik ağacları olan bağ",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 106
+            },
+            {
+                "word": "ƏRLİLİK",
+                "explanation": "is. əri olan qadının hal vəvəziyyəti",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 107
+            },
+            {
+                "word": "ƏZƏLƏLİ",
+                "explanation": "sif. inkişaf etmiş əzələləriolan. *** qollar. – həmişə fiziki işdə çalışanadamlara məxsus yoğun *** bir gəncingurultulu səsi onların danışı",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 108
+            },
+            {
+                "word": "ƏZİKLİK",
+                "explanation": "is. əzik şeyin halı. almanınəzikliyinə baxma",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 109
+            },
+            {
+                "word": "ƏZİZLİK",
+                "explanation": "is. 1. əziz olma",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 110
+            },
+            {
+                "word": "KƏDƏRLİ",
+                "explanation": "sif. qəmgin",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 111
+            },
+            {
+                "word": "KƏKƏLİK",
+                "explanation": "is. kəkə adamın halı; kəkovluq.kəkəliyindən utanmaq",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 112
+            },
+            {
+                "word": "KƏKİLLİ",
+                "explanation": "sif. 1. kəkili olan. *** fərə.– *** durnalar hey qatar-qatar; qaqqıldaşıbkeçir",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 113
+            },
+            {
+                "word": "KƏLLƏLİ",
+                "explanation": "sif. dan. zar. başlı",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 114
+            },
+            {
+                "word": "KİLKƏLİ",
+                "explanation": "sif. kilkəsi olan (saç",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 115
+            },
+            {
+                "word": "KİRƏLİK",
+                "explanation": "is. kirə ilə tutma. özününkünverib yarılığa; özgədən tutub kiralığa. (ata.sözü)",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 116
+            },
+            {
+                "word": "KİRKİRƏ",
+                "explanation": "is. əldəyirmanı. □ ***kimi – dəyirman kimi. şahpərinin çənəsi*** kimi üyüdür",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 117
+            },
+            {
+                "word": "LƏLƏKLİ",
+                "explanation": "sif. 1. uzun lələkləri olan",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 118
+            },
+            {
+                "word": "LƏLƏLİK",
+                "explanation": "is. köhn. lələnin gördüyü iş;tərbiyəçilik. [cəbi:] allah mənə o qədər ömürversin ki",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 119
+            },
+            {
+                "word": "ZƏLZƏLƏ",
+                "explanation": "is. [ər.] yer qabığının bəzi sahələrininvulkanik və ya tektonik proseslərüzündən güclü titrəməsi; yer sarsıntısı",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 120
+            },
+            {
+                "word": "ZƏRƏRLİ",
+                "explanation": "sif. 1. zərəri toxuna bilən",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 121
+            },
+            {
+                "word": "DİRƏKLİK",
+                "explanation": "sif. dirək üçün yararlı. ***ağac",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 122
+            },
+            {
+                "word": "KƏLLƏLİK",
+                "explanation": "is. 1. çərçivənin üst uclarınıbirləşdirən gödək ağac. *** kəsmək. ***düzəltmək.2. bir şeyin kəllə (üst) tərəfini təşkil edənhissəsi",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 123
+            },
+            {
+                "word": "LƏKƏLƏKƏ",
+                "explanation": "sif. və zərf çoxlu ləkələriolan",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 124
+            },
+            {
+                "word": "RƏZİLLİK",
+                "explanation": "is. alçaqlıq",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 125
+            },
+            {
+                "word": "RİZƏRİZƏ",
+                "explanation": "sif. və zərf parça-parça",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 126
+            },
+            {
+                "word": "ZƏLİLLİK",
+                "explanation": "is. zəlalətə düşmüş adamınhalı; zəlalət",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 127
+            },
+            {
+                "word": "ZƏRLİLİK",
+                "explanation": "is. zərli şeyin xassəsi",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 128
+            },
+            {
+                "word": "ZİRƏKLİK",
+                "explanation": "is. bacarıq",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 129
+            },
+            {
+                "word": "DƏLLƏKLİK",
+                "explanation": "is. 1. dəllək (1",
+                "isPanagram": false,
+                "score": 9,
+                "length": 9,
+                "id": 130
+            },
+            {
+                "word": "DƏRDLİLİK",
+                "explanation": "is. dərdli adamın halı",
+                "isPanagram": false,
+                "score": 9,
+                "length": 9,
+                "id": 131
+            },
+            {
+                "word": "LƏKƏLİLİK",
+                "explanation": "is. ləkəli şeyin və ya adamınhalı",
+                "isPanagram": false,
+                "score": 9,
+                "length": 9,
+                "id": 132
+            },
+            {
+                "word": "ZƏDƏLİLİK",
+                "explanation": "is. zədəli şeyin hal və keyfiyyəti",
+                "isPanagram": false,
+                "score": 9,
+                "length": 9,
+                "id": 133
+            },
+            {
+                "word": "ZƏLZƏLƏLİ",
+                "explanation": "sif. tez-tez zəlzələ olan",
+                "isPanagram": false,
+                "score": 9,
+                "length": 9,
+                "id": 134
+            },
+            {
+                "word": "ZƏRƏRDİDƏ",
+                "explanation": "sif. [ər. zərər və fars. …didə]bir hadisə",
+                "isPanagram": false,
+                "score": 9,
+                "length": 9,
+                "id": 135
+            },
+            {
+                "word": "DƏLİKDƏLİK",
+                "explanation": "sif. deşik-deşik",
+                "isPanagram": false,
+                "score": 10,
+                "length": 10,
+                "id": 136
+            },
+            {
+                "word": "KƏDƏRLİLİK",
+                "explanation": "is. kədərli adamın hal vəvəziyyəti; qüssəlilik",
+                "isPanagram": false,
+                "score": 10,
+                "length": 10,
+                "id": 137
+            },
+            {
+                "word": "ZƏRƏRLİLİK",
+                "explanation": "is. zərərli şeyin xassəsi",
+                "isPanagram": false,
+                "score": 10,
+                "length": 10,
+                "id": 138
+            },
+            {
+                "word": "DƏRZİLİK",
+                "explanation": "is. dərzinin peşəsi",
+                "isPanagram": true,
+                "score": 17,
+                "length": 8,
+                "id": 139
+            },
+            {
+                "word": "DƏRZLİK",
+                "explanation": "sif. dərz bağlamağa yarayan",
+                "isPanagram": true,
+                "score": 17,
+                "length": 7,
+                "id": 140
+            }
+        ]
+    }
+}

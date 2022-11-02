@@ -1,0 +1,207 @@
+{
+    "gameData": {
+        "day": "20221130",
+        "expiration": "1669849140",
+        "centerLetter": "Ö",
+        "outerLetters": [
+            "Ü",
+            "N",
+            "Z",
+            "K",
+            "L",
+            "D"
+        ],
+        "words_info": {
+            "word_count": 22,
+            "sum_score": 127,
+            "panagram_count": 1,
+            "word_length": {
+                "6": 3,
+                "5": 5,
+                "8": 3,
+                "7": 4,
+                "10": 1,
+                "4": 5,
+                "11": 1
+            }
+        },
+        "words": [
+            {
+                "word": "LÖKÜ",
+                "explanation": "is. məh. düyü unundan bişirilənqoğal",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "ÖDÜL",
+                "explanation": "is. mükafat",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "ÖKÜZ",
+                "explanation": "is. 1. iş heyvanı kimi istifadə edilənbuğa. təpəl ***. ***ləri arabaya qoşmaq.– …kiçik çobanlar ***lərə minib",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "ÖZLÜ",
+                "explanation": "sif. yapışqanlı",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "ÖZÜL",
+                "explanation": "is. bünövrə",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 5
+            },
+            {
+                "word": "DÖNÜK",
+                "explanation": "sif. sözündə",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 6
+            },
+            {
+                "word": "KÖKLÜ",
+                "explanation": "sif. 1. torpaq altında kökü",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 7
+            },
+            {
+                "word": "KÖNÜL",
+                "explanation": "is. şair. 1. qəlb",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 8
+            },
+            {
+                "word": "ÖDLÜK",
+                "explanation": "is. bax öd kisəsi (“öd”də)",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 9
+            },
+            {
+                "word": "ÖNLÜK",
+                "explanation": "is. iş görəndə paltar çirklənməsindeyə üstdən taxılan geyim; döşlük. ballı… göz yaşlarını önlüyünün ətəyi ilə qurudurdu",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 10
+            },
+            {
+                "word": "DÖLLÜK",
+                "explanation": "sif. dölə yarayan",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 11
+            },
+            {
+                "word": "KÖKLÜK",
+                "explanation": "is. musiqi alətlərində simlərinsəslənməsinin bir-birinə uyğunluq vəziyyəti.tarın köklüyünü yoxlamaq",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 12
+            },
+            {
+                "word": "ÖZÜLLÜ",
+                "explanation": "sif. özülü olan",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 13
+            },
+            {
+                "word": "KÖNÜLLÜ",
+                "explanation": "sif. 1. öz xoşu ilə",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 14
+            },
+            {
+                "word": "ÖKÜZLÜK",
+                "explanation": "is. yekəlik",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 15
+            },
+            {
+                "word": "ÖNLÜKLÜ",
+                "explanation": "sif. önlük geymiş",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 16
+            },
+            {
+                "word": "ÖZLÜLÜK",
+                "explanation": "is. yapışqanlılıq",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 17
+            },
+            {
+                "word": "DÖNÜKLÜK",
+                "explanation": "is. 1. əhdində",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 18
+            },
+            {
+                "word": "ÖZÜNÜNKÜ",
+                "explanation": "1. əvəz. özünə məxsus olan",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 19
+            },
+            {
+                "word": "ÜZÜDÖNÜK",
+                "explanation": "sif. və zərf öz yaxınlarındanüzünü döndərmiş",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 20
+            },
+            {
+                "word": "KÖNÜLLÜLÜK",
+                "explanation": "is. öz razılığı",
+                "isPanagram": false,
+                "score": 10,
+                "length": 10,
+                "id": 21
+            },
+            {
+                "word": "ÜZÜDÖNÜKLÜK",
+                "explanation": "is. üzüdönük adamınhərəkəti; üzü dönmə",
+                "isPanagram": true,
+                "score": 17,
+                "length": 11,
+                "id": 22
+            }
+        ]
+    }
+}

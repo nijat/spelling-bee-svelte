@@ -1,0 +1,214 @@
+{
+    "gameData": {
+        "day": "20230226",
+        "expiration": "1677452340",
+        "centerLetter": "R",
+        "outerLetters": [
+            "Y",
+            "A",
+            "L",
+            "Ş",
+            "I",
+            "V"
+        ],
+        "words_info": {
+            "word_count": 23,
+            "sum_score": 111,
+            "panagram_count": 1,
+            "word_length": {
+                "6": 4,
+                "4": 7,
+                "5": 8,
+                "7": 2,
+                "8": 1,
+                "9": 1
+            }
+        },
+        "words": [
+            {
+                "word": "ARLI",
+                "explanation": "sif. həyalı",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "ARVA",
+                "explanation": "is. dan. içinə şey qoyulan və yatökülən qabların (qutu",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "AVAR",
+                "explanation": "is. məh. keçmişdə kənd evlərinindamına döşənən qamışaoxşar ot; ümumiyyətlə",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "AYAR",
+                "explanation": "is. dan. 1. barama",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "LARI",
+                "explanation": "sif. uzunqıçlı",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 5
+            },
+            {
+                "word": "YARA",
+                "explanation": "is. 1. bədən",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 6
+            },
+            {
+                "word": "YARI",
+                "explanation": "is. tən bölünmüş iki hissədən biri. eyni ***sı. almanın ***sı. kitabın ***sını oxudum. ömrünün ***sını səhayətdə keçirmişdir",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 7
+            },
+            {
+                "word": "AVARA",
+                "explanation": "[fars.] 1. is. heç bir işlə məşğul olmayaraq boş-boş gəzən adam",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 8
+            },
+            {
+                "word": "AVRAL",
+                "explanation": "[ing.] 1. gəmidə bütün komandanıniştirakı ilə görülən iş. artıq ***dançox nadir hallarda istifadə edilir",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 9
+            },
+            {
+                "word": "AVŞAR",
+                "explanation": "is. məh. şəlalə",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 10
+            },
+            {
+                "word": "ŞARLI",
+                "explanation": "sif. şarı olan; öz quruluşunda",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 11
+            },
+            {
+                "word": "VARLI",
+                "explanation": "sif. dövlətli",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 12
+            },
+            {
+                "word": "YARIŞ",
+                "explanation": "is. bir işdə üstün gəlmək",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 13
+            },
+            {
+                "word": "YARLI",
+                "explanation": "sif. yarı",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 14
+            },
+            {
+                "word": "YAŞAR",
+                "explanation": "sif. 1. …yaşında olan",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 15
+            },
+            {
+                "word": "ARAYIŞ",
+                "explanation": "is. 1. arama",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 16
+            },
+            {
+                "word": "AVARLI",
+                "explanation": "sif. avarı olan",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 17
+            },
+            {
+                "word": "ŞALVAR",
+                "explanation": "is. bədənin beldən aşağı hissəsinivə qıçları örtən ikibalaqlı üst kişi geyimi.şərəfoğlu … ***ının cibindən balaca biraçar çıxarıb",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 18
+            },
+            {
+                "word": "ŞIRŞIR",
+                "explanation": "təql. 1. is. bir qaydada axan",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 19
+            },
+            {
+                "word": "AYRILIŞ",
+                "explanation": "is. ayrılmaq işi",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 20
+            },
+            {
+                "word": "YARARLI",
+                "explanation": "sif. yarayan",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 21
+            },
+            {
+                "word": "YARIARALI",
+                "explanation": "sif. bir az aralı",
+                "isPanagram": false,
+                "score": 9,
+                "length": 9,
+                "id": 22
+            },
+            {
+                "word": "YALVARIŞ",
+                "explanation": "is. yalvarma",
+                "isPanagram": true,
+                "score": 17,
+                "length": 8,
+                "id": 23
+            }
+        ]
+    }
+}

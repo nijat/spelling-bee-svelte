@@ -1,0 +1,198 @@
+{
+    "gameData": {
+        "day": "20221202",
+        "expiration": "1670021940",
+        "centerLetter": "C",
+        "outerLetters": [
+            "Q",
+            "O",
+            "Y",
+            "N",
+            "A",
+            "U"
+        ],
+        "words_info": {
+            "word_count": 21,
+            "sum_score": 111,
+            "panagram_count": 1,
+            "word_length": {
+                "4": 6,
+                "6": 5,
+                "8": 1,
+                "5": 4,
+                "7": 4,
+                "9": 1
+            }
+        },
+        "words": [
+            {
+                "word": "ANAC",
+                "explanation": "sif. 1. dəfələrlə bala doğub",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "QACA",
+                "explanation": "sif. çox işlənmək nəticəsində çalaçuxurbir hala düşmüş. *** yol",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "QOCA",
+                "explanation": "1. sif. yaşlı",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "QUNC",
+                "explanation": "is. 1. corabın",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "OCAQ",
+                "explanation": "is. 1. xörək bişirmək",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 5
+            },
+            {
+                "word": "ONCA",
+                "explanation": "sif. ancaq on",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 6
+            },
+            {
+                "word": "CANAN",
+                "explanation": "is. [fars.] sevgili",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 7
+            },
+            {
+                "word": "QUCAQ",
+                "explanation": "is. 1. qolları açdıqda döş ilə qollar arasında əmələ gələn boşluq. bayram aşağı əyildi",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 8
+            },
+            {
+                "word": "NACAQ",
+                "explanation": "is. 1. enliağızlı",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 9
+            },
+            {
+                "word": "YONCA",
+                "explanation": "is. bot. paxlalılar fəsiləsindən çoxillikbitki cinsi. *** tarlası. – şəbistan mərəkdənbir bağlama *** götürüb tövləyətərəf yönəlirdi",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 10
+            },
+            {
+                "word": "ANACAN",
+                "explanation": "is. anaya nəvazişlə müraciət.[rəsul:] ***",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 11
+            },
+            {
+                "word": "CAYNAQ",
+                "explanation": "is. 1. bir çox heyvan və quşlarınbarmaqlarının qarmaqvari iti ucları. qartalcaynağı. – [tağı:] qaraquş da yerdə dovşanınqaçdığını",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 12
+            },
+            {
+                "word": "YANCAQ",
+                "explanation": "is. dan. sağrı",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 13
+            },
+            {
+                "word": "YONUCU",
+                "explanation": "1. sif. yonan",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 14
+            },
+            {
+                "word": "YUYUCU",
+                "explanation": "sif. xüs. təmizləmək üçün birşeyi yuyan. *** cihaz",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 15
+            },
+            {
+                "word": "QANACAQ",
+                "explanation": "is. 1. düşüncə",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 16
+            },
+            {
+                "word": "YANACAQ",
+                "explanation": "is. 1. yandıqda istilik",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 17
+            },
+            {
+                "word": "YUNANCA",
+                "explanation": "zərf və sif. yunan dilində. *** danışmaq. ***dan tərcümə. ***-rusca lüğət",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 18
+            },
+            {
+                "word": "CANACUNA",
+                "explanation": "sif. dan. boş",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 19
+            },
+            {
+                "word": "YUYUNACAQ",
+                "explanation": "is. əlüzyuyan (cihaz).[kəblə rəcəb] cəld gedib",
+                "isPanagram": false,
+                "score": 9,
+                "length": 9,
+                "id": 20
+            },
+            {
+                "word": "OYUNCAQ",
+                "explanation": "is. 1. uşaqların oynayıb əylənməsi üçün düzəldilmiş hər cür şey. uşaq oyuncağı. *** mağazası. – sarı o biri otaqdan ***larla əyləndirib saxlad",
+                "isPanagram": true,
+                "score": 17,
+                "length": 7,
+                "id": 21
+            }
+        ]
+    }
+}

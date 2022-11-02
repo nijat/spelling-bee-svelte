@@ -1,0 +1,287 @@
+{
+    "gameData": {
+        "day": "20221219",
+        "expiration": "1671490740",
+        "centerLetter": "C",
+        "outerLetters": [
+            "B",
+            "L",
+            "N",
+            "A",
+            "Z",
+            "I"
+        ],
+        "words_info": {
+            "word_count": 32,
+            "sum_score": 197,
+            "panagram_count": 1,
+            "word_length": {
+                "5": 8,
+                "7": 9,
+                "4": 4,
+                "6": 5,
+                "8": 3,
+                "9": 2,
+                "10": 1
+            }
+        },
+        "words": [
+            {
+                "word": "ANAC",
+                "explanation": "sif. 1. dəfələrlə bala doğub",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "AZCA",
+                "explanation": "sif. və zərf azacıq",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "BACA",
+                "explanation": "is. 1. tüstü çıxmaq üçün ocağınüstündə kərpicdən hörülən və ya dəmirdənqayrılan içi boş boru. evin ***sı",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "BACI",
+                "explanation": "is. 1. bir ata-anadan",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "ACICA",
+                "explanation": "sif. 1. bir qədər acı",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 5
+            },
+            {
+                "word": "ACILI",
+                "explanation": "sif. zəhərli",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 6
+            },
+            {
+                "word": "ALICI",
+                "explanation": "1. is. müştəri",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 7
+            },
+            {
+                "word": "CALAL",
+                "explanation": "is. [ər.] əzəmət",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 8
+            },
+            {
+                "word": "CANAN",
+                "explanation": "is. [fars.] sevgili",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 9
+            },
+            {
+                "word": "CANLI",
+                "explanation": "sif. 1. diri",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 10
+            },
+            {
+                "word": "CILIZ",
+                "explanation": "sif. 1. çox arıq",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 11
+            },
+            {
+                "word": "LAZCA",
+                "explanation": "sif. və zərf laz dilində. ***mahnı. *** danışmaq",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 12
+            },
+            {
+                "word": "ANACAN",
+                "explanation": "is. anaya nəvazişlə müraciət.[rəsul:] ***",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 13
+            },
+            {
+                "word": "BACALI",
+                "explanation": "sif. bacası",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 14
+            },
+            {
+                "word": "BALACA",
+                "explanation": "sif. 1. həcmcə",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 15
+            },
+            {
+                "word": "CANBAZ",
+                "explanation": "is. [fars.] 1. tamaşa yerlərindəöz canı üçün təhlükəli oyunlar göstərən sirkartisti; kəndirbaz",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 16
+            },
+            {
+                "word": "CIZBIZ",
+                "explanation": "is. içqovurması. …leylək bir qədərgedəndən sonra *** iyi aldı. s.rəhimov.bir tərəfdə ***",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 17
+            },
+            {
+                "word": "ACILICA",
+                "explanation": "is. bot. bəzi növlərindən dərmanhasil edilən çoxillik ot bitkisi",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 18
+            },
+            {
+                "word": "ALACALI",
+                "explanation": "sif. dan. rəngbərəng",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 19
+            },
+            {
+                "word": "ALBANCA",
+                "explanation": "sif. və zərf alban dilində",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 20
+            },
+            {
+                "word": "ANABACI",
+                "explanation": "is. dan. ana və bacı kimiolanlar",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 21
+            },
+            {
+                "word": "BABACAN",
+                "explanation": "is. babaya",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 22
+            },
+            {
+                "word": "CALALLI",
+                "explanation": "sif. dəbdəbəli",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 23
+            },
+            {
+                "word": "CANALAN",
+                "explanation": "sif. 1. cəllad",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 24
+            },
+            {
+                "word": "CANLICA",
+                "explanation": "sif. çox canlı",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 25
+            },
+            {
+                "word": "CIBBILI",
+                "explanation": "sif. dan. çox balaca",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 26
+            },
+            {
+                "word": "BACABACA",
+                "explanation": "is. köhnə məişətdə: novruzbayramı axşamı qapı-qapı dolaşıb bayramlıqpay almaq adəti; qodu-qodu",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 27
+            },
+            {
+                "word": "BALABACI",
+                "explanation": "is. dan. qohum-əqrəba arasındahörmət üçün kiçiklər tərəfindənböyüklərə (qadınlara) müraciət (ad çəkməməküçün işlənən söz)",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 28
+            },
+            {
+                "word": "CANALICI",
+                "explanation": "sif. 1. cəllad",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 29
+            },
+            {
+                "word": "BALACANLI",
+                "explanation": "sif. öz uşaqlarını həddənartıq sevən",
+                "isPanagram": false,
+                "score": 9,
+                "length": 9,
+                "id": 30
+            },
+            {
+                "word": "CIBCIBBILI",
+                "explanation": "sif. dan. çox balaca",
+                "isPanagram": false,
+                "score": 10,
+                "length": 10,
+                "id": 31
+            },
+            {
+                "word": "NAZBALINC",
+                "explanation": "is. içində təmizlənmiş",
+                "isPanagram": true,
+                "score": 17,
+                "length": 9,
+                "id": 32
+            }
+        ]
+    }
+}

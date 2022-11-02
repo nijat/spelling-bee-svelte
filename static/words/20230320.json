@@ -1,0 +1,238 @@
+{
+    "gameData": {
+        "day": "20230320",
+        "expiration": "1679353140",
+        "centerLetter": "B",
+        "outerLetters": [
+            "R",
+            "N",
+            "A",
+            "Ç",
+            "U",
+            "D"
+        ],
+        "words_info": {
+            "word_count": 26,
+            "sum_score": 129,
+            "panagram_count": 1,
+            "word_length": {
+                "4": 7,
+                "5": 9,
+                "6": 6,
+                "8": 2,
+                "7": 1,
+                "9": 1
+            }
+        },
+        "words": [
+            {
+                "word": "ABAD",
+                "explanation": "sif. [fars.] 1. müntəzəm və çoxlu tikintisi",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "ABRU",
+                "explanation": "is. [fars.] bax abır. [mirzə əsgər:]saqqal deyəndə kişinin ***sudur və üzününnurudur. n.vəzirov. yaman yoldaş səbəbinəinsan min bəlaya düçar olar",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "ADAB",
+                "explanation": "is. [ər. “ədəb” söz. cəmi] köhn.əxlaq qaydaları",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "BABA",
+                "explanation": "is. 1. atanın",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "BANU",
+                "explanation": "is. [fars.] köhn. xanım. açıldı başın",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 5
+            },
+            {
+                "word": "BURU",
+                "explanation": "is. sancı",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 6
+            },
+            {
+                "word": "RUBA",
+                "explanation": "is. bir pud ağırlığında olan köhnəçəki ölçüsü. [xeyransanın] hacı manafdanaldığı isə yalnız bir *** taxıl olmuşdu",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 7
+            },
+            {
+                "word": "ABDAR",
+                "explanation": "sif. [fars.] 1. sulu",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 8
+            },
+            {
+                "word": "ANBAR",
+                "explanation": "is. taxıl",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 9
+            },
+            {
+                "word": "ARABA",
+                "explanation": "is. iki və ya dördtəkərli nəqliyyatvasitəsi. minik ***sı. yük ***sı. əl ***sı(əl ilə sürülən ***)",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 10
+            },
+            {
+                "word": "BADAR",
+                "explanation": "məh. 1. is. kiçicik əkin yeri.2. sif. dağınıq",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 11
+            },
+            {
+                "word": "BANDA",
+                "explanation": "is. [ital.] cinayətkarlar",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 12
+            },
+            {
+                "word": "BARAN",
+                "explanation": "is. [fars.] klas. yağış",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 13
+            },
+            {
+                "word": "BURUN",
+                "explanation": "is. 1. insan və heyvanın üzündə iybilmə və tənəffüs orqanı. dik ***. düz ***. yastı ***. *** pərdəsi (*** deşiklərinin arasındakı pərdə)",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 14
+            },
+            {
+                "word": "DABAN",
+                "explanation": "is. 1. insan və heyvan ayağının dal hissəsi. çox gəzməkdən ***larım sızıldayır. 2. ayağa geyilən şeylərin arxa hissəsi",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 15
+            },
+            {
+                "word": "NABUD",
+                "explanation": "sif. [fars.] köhn. olmayan",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 16
+            },
+            {
+                "word": "BADBAN",
+                "explanation": "is. [fars.] ensiz nazik taxta çərçivəyəyapışdırılmış və uzun sapa bənd edilərək",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 17
+            },
+            {
+                "word": "BARDAN",
+                "explanation": "is. içərisinə pambıq",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 18
+            },
+            {
+                "word": "BUNDÇU",
+                "explanation": "is. bund təşkilatının üzvü; bundtərəfdarı",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 19
+            },
+            {
+                "word": "BURADA",
+                "explanation": "zərf (bəzən əvəz. mənasındaişlənir). bu yerdə. *** heç kəs yoxdur.getmə",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 20
+            },
+            {
+                "word": "DABANA",
+                "explanation": "is. qapının",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 21
+            },
+            {
+                "word": "DARABA",
+                "explanation": "is. məh. 1. taxtadan və s.-dənhasar; arakəsmə. otağı *** ilə iki hissəyəayırmaq.2. evin yanında taxtadan və s",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 22
+            },
+            {
+                "word": "BURADAN",
+                "explanation": "zərf (bəzən əvəz. mənasındaişlənir). 1. bu yerdən. *** başlamaq lazımdır.bu həftənin axırında *** gedəcəyəm",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 23
+            },
+            {
+                "word": "DARABARA",
+                "explanation": "is. mübahisə",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 24
+            },
+            {
+                "word": "DANABURNU",
+                "explanation": "is. bot. rütubətli yerlərdəbitən ot bitkisi",
+                "isPanagram": false,
+                "score": 9,
+                "length": 9,
+                "id": 25
+            },
+            {
+                "word": "BANDURÇU",
+                "explanation": "is. bandur adlı musiqi aləti çalan çalğıçı",
+                "isPanagram": true,
+                "score": 17,
+                "length": 8,
+                "id": 26
+            }
+        ]
+    }
+}

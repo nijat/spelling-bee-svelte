@@ -1,0 +1,148 @@
+{
+    "gameData": {
+        "day": "20230103",
+        "expiration": "1672786740",
+        "centerLetter": "Y",
+        "outerLetters": [
+            "X",
+            "H",
+            "R",
+            "A",
+            "İ",
+            "E"
+        ],
+        "words_info": {
+            "word_count": 15,
+            "sum_score": 62,
+            "panagram_count": 1,
+            "word_length": {
+                "5": 4,
+                "4": 7,
+                "6": 3,
+                "8": 1
+            }
+        },
+        "words": [
+            {
+                "word": "AYAR",
+                "explanation": "is. dan. 1. barama",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "EHYA",
+                "explanation": "[ər.] klas. vücuda gətirmə",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "XAYA",
+                "explanation": "is. [fars.] anat. erkəklik vəzilərininyerləşdiyi kisəcik. // erkəklik vəziləri",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "XEYR",
+                "explanation": "əd. [ər.] bir şeylə razı olmadıqdavə ya verilən suala mənfi cavab üçünişlənir. suallarla razısan? – ***",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "RİYA",
+                "explanation": "is. [ər.] ikiüzlülük. məsciddə həsirieləmə aləti-təzvir; mərdanə qədəh tut",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 5
+            },
+            {
+                "word": "YAXA",
+                "explanation": "is. 1. paltarın boyun keçən hissəsi",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 6
+            },
+            {
+                "word": "YARA",
+                "explanation": "is. 1. bədən",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 7
+            },
+            {
+                "word": "ARİYA",
+                "explanation": "[ital.] mus. 1. opera",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 8
+            },
+            {
+                "word": "XEYİR",
+                "explanation": "is. [ər.] 1. fayda",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 9
+            },
+            {
+                "word": "XEYRİ",
+                "explanation": "is. qırmızı rəngli",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 10
+            },
+            {
+                "word": "XİYAR",
+                "explanation": "is. qabaq fəsiləsindən olan uzunsov",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 11
+            },
+            {
+                "word": "HARAYA",
+                "explanation": "sual əvəz. hansı yerə? hansıtərəfə? hayana? *** gedirsən? ***baxırsan? – *** belə",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 12
+            },
+            {
+                "word": "HAYHAY",
+                "explanation": "is. 1. dan. tab",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 13
+            },
+            {
+                "word": "YEHAYE",
+                "explanation": "is. dan. 1. ardı kəsilmədən iştahailə yemə (çoxları haqqında). *** başlandı.2. məc. hərə bir tərəfdən yemə",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 14
+            },
+            {
+                "word": "XEYİRXAH",
+                "explanation": "sif. [ər. xeyir və fars. xah]başqasının və hamının yaxşılığını istəyən",
+                "isPanagram": true,
+                "score": 17,
+                "length": 8,
+                "id": 15
+            }
+        ]
+    }
+}

@@ -1,0 +1,213 @@
+{
+    "gameData": {
+        "day": "20230426",
+        "expiration": "1682546340",
+        "centerLetter": "E",
+        "outerLetters": [
+            "L",
+            "K",
+            "A",
+            "S",
+            "Y",
+            "İ"
+        ],
+        "words_info": {
+            "word_count": 23,
+            "sum_score": 127,
+            "panagram_count": 2,
+            "word_length": {
+                "4": 6,
+                "5": 7,
+                "6": 4,
+                "7": 5,
+                "9": 1
+            }
+        },
+        "words": [
+            {
+                "word": "ELLİ",
+                "explanation": "sif. 1 vətəni",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "ESSE",
+                "explanation": "is. [fr. essai – təcrübə",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "KEKS",
+                "explanation": "[ing. cake",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "LEYK",
+                "explanation": "[ər.] klas. bax lakin. *** mənimqışda dəxi yaz kimi; yaşıl olur paltarım ətləskimi. m.ə.sabir. *** mən vermədim ona fürsət;onu vurmaqda eylədim s",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "LEYL",
+                "explanation": "is. [ər.] klas. gecə",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 5
+            },
+            {
+                "word": "SEKS",
+                "explanation": "is. [lat.] kişi və qadın arasında fizikiyaxınlıq",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 6
+            },
+            {
+                "word": "ELLİK",
+                "explanation": "1. sif. bir yerin bütün camaatına",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 7
+            },
+            {
+                "word": "KİSEL",
+                "explanation": "is. [rus.] meyvə şirəsinə nişastavə s. qarışdırılmaqla hazırlanan həlməşik yeməknövü. meyvə ***i",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 8
+            },
+            {
+                "word": "LAKEY",
+                "explanation": "is. [fr.] 1. nökər. ***lər səf-səfdurub",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 9
+            },
+            {
+                "word": "LEYLİ",
+                "explanation": "sif. [ər.] klas. 1. gecəyə məxsus",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 10
+            },
+            {
+                "word": "SELİK",
+                "explanation": "is. bəzi heyvan və bitki hüceyrələrininifraz etdiyi suvaşqan maddə. balıq bədənininsəthi xüsusi sürüşkən ***lə örtülüolur",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 11
+            },
+            {
+                "word": "SELLİ",
+                "explanation": "sif. çox sel olan; çox yağışlı",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 12
+            },
+            {
+                "word": "YELLİ",
+                "explanation": "sif. 1. küləkli. *** hava. *** bir gün. 2. məc. dan. hirsli",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 13
+            },
+            {
+                "word": "EYİLİK",
+                "explanation": "is. yaxşılıq. [aşıq sultan:]fənalıq",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 14
+            },
+            {
+                "word": "KEYLİK",
+                "explanation": "is. 1. keyləşmiş",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 15
+            },
+            {
+                "word": "LEKSİK",
+                "explanation": "sif. dilç. [yun.] ***aya aidolan",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 16
+            },
+            {
+                "word": "SELLİK",
+                "explanation": "is. selin yuyub gətirdiyi qum",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 17
+            },
+            {
+                "word": "KALSEKS",
+                "explanation": "[lat.] əcz. xlorlu kalsium vəurotropin duzu (qripin qabağını almaq üçündərman kimi işlənir)",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 18
+            },
+            {
+                "word": "SEKSİYA",
+                "explanation": "[lat. sectio – bölmə] 1. bir idarənin",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 19
+            },
+            {
+                "word": "SELİKLİ",
+                "explanation": "sif. anat. seliyi olan",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 20
+            },
+            {
+                "word": "SESSİYA",
+                "explanation": "[lat. sessio – oturma] 1. müxtəlifseçkili orqanların və kollegial idarələrinvaxtaşırı keçirilən iclasları",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 21
+            },
+            {
+                "word": "LEKSİYA",
+                "explanation": "[lat.] bax mühazirə. bu qaydailə polis darülfünuna gəlib ***larda iştiraketməyənləri bəlli etmək istəyirdi",
+                "isPanagram": true,
+                "score": 17,
+                "length": 7,
+                "id": 22
+            },
+            {
+                "word": "SELEKSİYA",
+                "explanation": "[lat. selectio – seçmə] heyvancinsləri və ya bitki növlərini yaxşılaşdırma",
+                "isPanagram": true,
+                "score": 17,
+                "length": 9,
+                "id": 23
+            }
+        ]
+    }
+}

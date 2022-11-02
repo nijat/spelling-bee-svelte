@@ -1,0 +1,398 @@
+{
+    "gameData": {
+        "day": "20230206",
+        "expiration": "1675724340",
+        "centerLetter": "D",
+        "outerLetters": [
+            "S",
+            "Z",
+            "A",
+            "N",
+            "Ə",
+            "İ"
+        ],
+        "words_info": {
+            "word_count": 46,
+            "sum_score": 191,
+            "panagram_count": 1,
+            "word_length": {
+                "5": 10,
+                "4": 19,
+                "7": 7,
+                "6": 8,
+                "8": 1,
+                "9": 1
+            }
+        },
+        "words": [
+            {
+                "word": "ADNA",
+                "explanation": "is. cümə axşamı",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "AZAD",
+                "explanation": "sif. [fars.] 1. ***lıqdan istifadəedən",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "DANA",
+                "explanation": "is. bir yaşdan iki yaşa qədər olaninək balası. *** əti. – danışıq ***nı qurdaverər. (məsəl)",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "DƏDƏ",
+                "explanation": "is. 1. ata. *** görməyib",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "DƏNƏ",
+                "explanation": "is. [fars.] 1. eyni cinsdən olan şeylərin hər biri",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 5
+            },
+            {
+                "word": "DƏNİ",
+                "explanation": "sif. [ər.] alçaq",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 6
+            },
+            {
+                "word": "DİDƏ",
+                "explanation": "is. [fars.] klas. göz. gər inanmazsan ki",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 7
+            },
+            {
+                "word": "DİNA",
+                "explanation": "is. [yun.] fiz. kütləsi bir qram olancismə bir saniyədə bir santimetr təcil verənqüvvə",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 8
+            },
+            {
+                "word": "DİNİ",
+                "explanation": "sif. [ər.] dinlə əlaqədar olan",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 9
+            },
+            {
+                "word": "ƏDƏD",
+                "explanation": "is. [ər.] 1. say",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 10
+            },
+            {
+                "word": "ƏDNA",
+                "explanation": "sif. və is. [ər.] klas. 1. alçaq",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 11
+            },
+            {
+                "word": "NİDA",
+                "explanation": "is. [ər.] 1. hiss",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 12
+            },
+            {
+                "word": "SADƏ",
+                "explanation": "sif. [fars.] 1. mürəkkəb olmayan",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 13
+            },
+            {
+                "word": "SƏDA",
+                "explanation": "is. [ər.] səs",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 14
+            },
+            {
+                "word": "SƏDD",
+                "explanation": "is. [ər.] 1. müxtəlif məqsədlər üçünçəkilən divar",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 15
+            },
+            {
+                "word": "ZADƏ",
+                "explanation": "is. [fars.] klas. oğul",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 16
+            },
+            {
+                "word": "ZAİD",
+                "explanation": "is. [ər.] köhn. 1. artan",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 17
+            },
+            {
+                "word": "ZƏDƏ",
+                "explanation": "is. [fars.] 1. toxunmaq",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 18
+            },
+            {
+                "word": "ZİDD",
+                "explanation": "[ər.] sif. tamamilə başqasına əks olan",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 19
+            },
+            {
+                "word": "ADSAN",
+                "explanation": "is. nüfuz",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 20
+            },
+            {
+                "word": "DƏNİZ",
+                "explanation": "is. 1. yer kürəsinin acı-duzlu suilə örtülü olan və az-çox quru ilə əhatəolunmuş böyük sahəsi",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 21
+            },
+            {
+                "word": "ƏDƏDİ",
+                "explanation": "sif. [ər.] riyaz. ədədlərlə ifadəolunan. *** kəmiyyət. ədəbi nisbət. –diferensial tənlikləri təqribi həll etmək üçünmüxtəlif qrafik və *** meto",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 22
+            },
+            {
+                "word": "ƏDƏSƏ",
+                "explanation": "is. [ər.] 1. mərcimək dənəsi.2. gözlük",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 23
+            },
+            {
+                "word": "ƏZDAD",
+                "explanation": "is. [ər.] köhn. 1. zidd sözününcəmi (zidlər).2. köhn. rəqiblər",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 24
+            },
+            {
+                "word": "NADAN",
+                "explanation": "sif. [fars.] 1. cahil",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 25
+            },
+            {
+                "word": "NANDİ",
+                "explanation": "is. afrikada yaşayan qohum xalqlarqrupu",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 26
+            },
+            {
+                "word": "NƏDƏN",
+                "explanation": "əvəz. nə üçün",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 27
+            },
+            {
+                "word": "SƏNƏD",
+                "explanation": "is. [ər.] 1. bir şeyi",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 28
+            },
+            {
+                "word": "ZİNDƏ",
+                "explanation": "sif. [fars.] klas. diri",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 29
+            },
+            {
+                "word": "DƏNDAN",
+                "explanation": "is. [fars.] klas. diş. olmasa qabiləgər dəhr cəfa verməz ona; təm biləzzətolanda necə ***ə dəyər? m",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 30
+            },
+            {
+                "word": "DƏNSİZ",
+                "explanation": "sif. dəni olmayan",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 31
+            },
+            {
+                "word": "DƏSİSƏ",
+                "explanation": "is. [ər.] hiylə",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 32
+            },
+            {
+                "word": "DİNSİZ",
+                "explanation": "sif. və is. 1. heç bir dinə inanmayan;ateist. [şeyx sənan:] dəlilik başqa birfəzilətdir; *** olmaq da bir təriqətdir",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 33
+            },
+            {
+                "word": "ƏNDAZƏ",
+                "explanation": "is. [fars.] 1. kağızdan",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 34
+            },
+            {
+                "word": "NADİDƏ",
+                "explanation": "sif. [fars.] köhn. 1. görünməmiş",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 35
+            },
+            {
+                "word": "SİANİD",
+                "explanation": "is. acı badam iyli rəngsiz uçucumaye",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 36
+            },
+            {
+                "word": "ZİNDAN",
+                "explanation": "is. [fars.] 1. keçmiş zamanlarda:qaranlıq və müdhiş dustaqxana (adətən yerinaltında olardı). ***a atmaq",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 37
+            },
+            {
+                "word": "DANƏNDƏ",
+                "explanation": "is. [fars.] klas. bilici",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 38
+            },
+            {
+                "word": "DƏDƏSİZ",
+                "explanation": "sif. və is. atasız. əziziyəm təndirə;odun qala təndirə; ***in nə həddi;dədəliyə tən dura? (bayatı)",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 39
+            },
+            {
+                "word": "DƏNDƏNƏ",
+                "explanation": "is. [fars.] 1. təkərin çevrəsinimərkəzə birləşdirən taxta. arabanın bir ***sisınmışdır. – [arabaçı:] …atlar arıq",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 40
+            },
+            {
+                "word": "DƏNƏZƏN",
+                "explanation": "is. tex. dənin yeyilməsiniasanlaşdırmaq üçün onu xırdalayan və əzənmaşın. yemləri hazırlamaq üçün bölmələrəküləşdoğrayan",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 41
+            },
+            {
+                "word": "ƏDƏDSİZ",
+                "explanation": "sif. saysız-hesabsız",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 42
+            },
+            {
+                "word": "SAZANDA",
+                "explanation": "is. [fars.] köhn. çalğıçı. xanuşaqları keçiliyə həm ova",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 43
+            },
+            {
+                "word": "ZƏDƏSİZ",
+                "explanation": "sif. zədəsi",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 44
+            },
+            {
+                "word": "DƏNƏDƏNƏ",
+                "explanation": "sif. dənələr halında",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 45
+            },
+            {
+                "word": "ƏNDAZƏSİZ",
+                "explanation": "sif. 1. biçimsiz",
+                "isPanagram": true,
+                "score": 17,
+                "length": 9,
+                "id": 46
+            }
+        ]
+    }
+}

@@ -1,0 +1,189 @@
+{
+    "gameData": {
+        "day": "20230401",
+        "expiration": "1680386340",
+        "centerLetter": "A",
+        "outerLetters": [
+            "Ə",
+            "Ş",
+            "G",
+            "D",
+            "İ",
+            "R"
+        ],
+        "words_info": {
+            "word_count": 20,
+            "sum_score": 96,
+            "panagram_count": 1,
+            "word_length": {
+                "4": 6,
+                "5": 7,
+                "10": 1,
+                "6": 5,
+                "8": 1
+            }
+        },
+        "words": [
+            {
+                "word": "ADAŞ",
+                "explanation": "is. adları eyni olan adamlar. o mənimlə***dır. ***lar gəldilər. – dodaqlarındakövrək təbəssüm",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "DAİR",
+                "explanation": "qoş. [ər.] haqqında",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "ƏŞAR",
+                "explanation": "is. [ər. “şeir” söz. cəmi] şeirlər.şairəm",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "GƏDA",
+                "explanation": "is. [fars.] 1. köhn. keçmişdə yoxsul",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "RADƏ",
+                "explanation": "is. [ər.] vaxt bildirən rəqəmlərdən sonra gələrək həmin rəqəmin təxmini olduğunu göstərir (adətən “***ləri” və “***lərində” şəklində işlədilir)",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 5
+            },
+            {
+                "word": "ŞAİR",
+                "explanation": "is. [ər.] şeir söyləyən və ya yazanşəxs; təbiətində şeir söyləmək və yazmaqqabiliyyəti olan şəxs. sabir azərbaycanınböyük satirik ***idir",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 6
+            },
+            {
+                "word": "DADAŞ",
+                "explanation": "is. kiçik qardaş və bacıların böyükqardaşa verdikləri ad; böyük qardaşa müraciət.bir gün gəldim",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 7
+            },
+            {
+                "word": "DAİRƏ",
+                "explanation": "is. [ər] 1. bütün nöqtələri mərkəznöqtədən bərabər uzaqlıqda olan qapalı",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 8
+            },
+            {
+                "word": "DİDAR",
+                "explanation": "is. [fars.] klas. 1. görünüş",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 9
+            },
+            {
+                "word": "RADAR",
+                "explanation": "[ing.] bax radiolokator. radiolokasiyadaişlədilən qurğulara radiolokatordeyilir. bəzi yerlərdə bunları müxtəsər olaraq*** adlandırırlar",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 10
+            },
+            {
+                "word": "RADDƏ",
+                "explanation": "is. [ər.] vaxt bildirən rəqəmlərdən sonra gələrək həmin rəqəmin təxmini olduğunu göstərir (adətən “radələri” və “radələrində” şəklində işlədilir)",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 11
+            },
+            {
+                "word": "ŞAİRƏ",
+                "explanation": "is. [ər.] qadın şair. cəfərin bibisi*** idi. m.arif. səsimizi eşitdi; tez gəldi*** də; görəndə səni birdən; yerində donduqaldı",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 12
+            },
+            {
+                "word": "ŞƏRAR",
+                "explanation": "is. [ər.] klas. qığılcım. nagəhan bir ***ə qəlyandan; düşdü əmmaməsinə sol yandan. s.ə.şirvani. gətirdiyin yumurtadan nəticə cücə gözləmə; qazanda q",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 13
+            },
+            {
+                "word": "ƏRRADƏ",
+                "explanation": "is. [ər.] köhn. 1. təkərlər üzərindəyerləşdirilmiş top",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 14
+            },
+            {
+                "word": "ŞADARA",
+                "explanation": "is. buğdanın",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 15
+            },
+            {
+                "word": "ŞAGİRD",
+                "explanation": "is. [fars.] 1. ibtidai və ya ortaməktəbdə oxuyan uşaq; məktəbli. məşədibütün sinifdə ən yaxşı oxuyan ***lərdəndir",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 16
+            },
+            {
+                "word": "ŞARADA",
+                "explanation": "is. [fr.] cavabı müxtəlif sözlərdənibarət tapmaca. isti + ot = istiot",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 17
+            },
+            {
+                "word": "ŞƏRARƏ",
+                "explanation": "is. [ər.] klas. qığılcım. nagəhan bir *** qəlyandan; düşdü əmmaməsinə sol yandan. s.ə.şirvani. gətirdiyin yumurtadan nəticə cücə gözləmə; qazanda q",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 18
+            },
+            {
+                "word": "ŞƏŞƏƏDAR",
+                "explanation": "sif. [ər. şəşəə və fars. …dar] klas. tənt. parıldayan",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 19
+            },
+            {
+                "word": "DAŞGƏRDİŞİ",
+                "explanation": "is. məh. hörülən daş və kərpiclərarasındakı məsafə",
+                "isPanagram": true,
+                "score": 17,
+                "length": 10,
+                "id": 20
+            }
+        ]
+    }
+}

@@ -1,0 +1,254 @@
+{
+    "gameData": {
+        "day": "20230506",
+        "expiration": "1683410340",
+        "centerLetter": "A",
+        "outerLetters": [
+            "R",
+            "E",
+            "L",
+            "K",
+            "S",
+            "D"
+        ],
+        "words_info": {
+            "word_count": 28,
+            "sum_score": 152,
+            "panagram_count": 1,
+            "word_length": {
+                "5": 9,
+                "4": 5,
+                "6": 8,
+                "7": 4,
+                "8": 1,
+                "9": 1
+            }
+        },
+        "words": [
+            {
+                "word": "ASAR",
+                "explanation": "is. [ər. “əsər” söz. cəmi] köhn. 1. əlamət",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "KADR",
+                "explanation": "[fr.] kino və ya fotolentində ayrıayrışəkil",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "KALA",
+                "explanation": "is. məh. böyük şüşə qab",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "KASA",
+                "explanation": "is. [fars.] 1. çini",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "REAL",
+                "explanation": "sif. [lat. ***is] 1. xəyalda deyil",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 5
+            },
+            {
+                "word": "ADRES",
+                "explanation": "[fr.] 1. bir şəxsə",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 6
+            },
+            {
+                "word": "AREAL",
+                "explanation": "is. [lat.] müxtəlif qəbildən olanşeylərin (dil",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 7
+            },
+            {
+                "word": "ASRAL",
+                "explanation": "is. bot. bax kəndirotu",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 8
+            },
+            {
+                "word": "DALDA",
+                "explanation": "1. sif. sığınmağa və ya gizlənməyəyarayan. *** yer. *** divar.– kosa boşalmış küçənin *** yeri ilə yeriyibat tövlələrinin yanına çatdı",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 9
+            },
+            {
+                "word": "KALKA",
+                "explanation": "[fr.] 1. çertyojlardan",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 10
+            },
+            {
+                "word": "KASAD",
+                "explanation": "[ər.] 1. sif. ticarətdə: mala tələbolmadığı",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 11
+            },
+            {
+                "word": "KASKA",
+                "explanation": "[fr. casque",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 12
+            },
+            {
+                "word": "KASSA",
+                "explanation": "[ital.] 1. pul",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 13
+            },
+            {
+                "word": "RADAR",
+                "explanation": "[ing.] bax radiolokator. radiolokasiyadaişlədilən qurğulara radiolokatordeyilir. bəzi yerlərdə bunları müxtəsər olaraq*** adlandırırlar",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 14
+            },
+            {
+                "word": "DEKADA",
+                "explanation": "[fr. əsli yun.] on günlük zamanölçüsü; ayın üçdə biri; ongünlük. incəsənətvə ədəbiyyat ***sı. ayın birinci***sı",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 15
+            },
+            {
+                "word": "KARLAL",
+                "explanation": "is. həm eşitmək",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 16
+            },
+            {
+                "word": "KARKAS",
+                "explanation": "[ital. carcassa] bina və s.-nin dəmirdən düzəldilən gövdəsi",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 17
+            },
+            {
+                "word": "KARSER",
+                "explanation": "[lat.] müqəssirin müvəqqətisaxlandığı biradamlıq otaq. ***ə salmaq",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 18
+            },
+            {
+                "word": "LALKAR",
+                "explanation": "1. sif. həm danışmaq",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 19
+            },
+            {
+                "word": "SAKLAR",
+                "explanation": "is. qədim iran tayfalarından birininadı",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 20
+            },
+            {
+                "word": "SALAKA",
+                "explanation": "is. [rus.] balıq növü",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 21
+            },
+            {
+                "word": "SKLERA",
+                "explanation": "is. [yun.] göz almasının qeyrişəffafxarici qişası",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 22
+            },
+            {
+                "word": "ESKADRA",
+                "explanation": "[fr.] hərbi dəniz",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 23
+            },
+            {
+                "word": "KALSEKS",
+                "explanation": "[lat.] əcz. xlorlu kalsium vəurotropin duzu (qripin qabağını almaq üçündərman kimi işlənir)",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 24
+            },
+            {
+                "word": "KARSALA",
+                "explanation": "sif. dan. 1. qulağı ağır eşidən. 2. key",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 25
+            },
+            {
+                "word": "SAKSLAR",
+                "explanation": "is. german tayfaları",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 26
+            },
+            {
+                "word": "SERADELLA",
+                "explanation": "is. [ital.] paxlalılar fəsiləsindənbitki cinsi",
+                "isPanagram": false,
+                "score": 9,
+                "length": 9,
+                "id": 27
+            },
+            {
+                "word": "SARDELKA",
+                "explanation": "[ital.] qısa",
+                "isPanagram": true,
+                "score": 17,
+                "length": 8,
+                "id": 28
+            }
+        ]
+    }
+}

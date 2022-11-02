@@ -1,0 +1,229 @@
+{
+    "gameData": {
+        "day": "20230112",
+        "expiration": "1673564340",
+        "centerLetter": "M",
+        "outerLetters": [
+            "X",
+            "N",
+            "K",
+            "A",
+            "İ",
+            "E"
+        ],
+        "words_info": {
+            "word_count": 25,
+            "sum_score": 107,
+            "panagram_count": 1,
+            "word_length": {
+                "4": 11,
+                "7": 3,
+                "5": 4,
+                "6": 5,
+                "8": 2
+            }
+        },
+        "words": [
+            {
+                "word": "AMAN",
+                "explanation": "is. [ər.] 1. əmin-***lıq",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "AMİN",
+                "explanation": "[ər. əsli qədim yəh.] din. qəbulolsun",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "ANMA",
+                "explanation": "“***q”dan f.is. *** mərasimi",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "XAMA",
+                "explanation": "is. çiy südün üzü",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "KİMİ",
+                "explanation": "əvəz. bəzisi",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 5
+            },
+            {
+                "word": "MAKİ",
+                "explanation": "is. [fr.] 1. meşənin sıx yeri.2. ikinci dünya müharibəsi zamanı fransızpartizan dəstəsinin adı",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 6
+            },
+            {
+                "word": "MAMA",
+                "explanation": "is. doğuş zamanı kömək göstərməkləməşğul olan (keçmişdə təhsilsiz",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 7
+            },
+            {
+                "word": "MANE",
+                "explanation": "[ər.] : *** olmaq – əngəl olmaq",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 8
+            },
+            {
+                "word": "MANİ",
+                "explanation": "is. türk xalq şeri və nəğmə janrı",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 9
+            },
+            {
+                "word": "MİXİ",
+                "explanation": "sif. [fars.] : *** xətt (yazı) – qabaq asiyanın qədim xalqlarında (assuriyada",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 10
+            },
+            {
+                "word": "MİNA",
+                "explanation": "[fr.] 1. adətən torpağın",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 11
+            },
+            {
+                "word": "XAXAM",
+                "explanation": "is. yəhudilərdə baş kahin",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 12
+            },
+            {
+                "word": "XAMNA",
+                "explanation": "is. xam",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 13
+            },
+            {
+                "word": "KAMAN",
+                "explanation": "is. [fars.] 1. bax ***ça. nəqədər dərdlidir o qırıq ***; şikayət eyləyiröz dünyasından. s.vurğun",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 14
+            },
+            {
+                "word": "MİNİK",
+                "explanation": "is. 1. bir yerə getmək üçün nəqliyyatvasitələrinin birinə minmiş adam. ancaqtək-tük üstüörtülü faytonlar içində ***lərgörünür",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 15
+            },
+            {
+                "word": "XAMXAM",
+                "explanation": "1. sif. bişməmiş",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 16
+            },
+            {
+                "word": "MAKAKA",
+                "explanation": "is. [port.] əntərlər yarımfəsiləsindənolan meymun",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 17
+            },
+            {
+                "word": "MAKİNA",
+                "explanation": "[lat.] 1. ba x maşın 1-ci mənada.avtomobillərin",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 18
+            },
+            {
+                "word": "MİNMİN",
+                "explanation": "zərf və sif. minlərcə",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 19
+            },
+            {
+                "word": "NİKNAM",
+                "explanation": "sif. [fars.] köhn. yaxşı ad qoymuş",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 20
+            },
+            {
+                "word": "AMİNXAN",
+                "explanation": "[ər. amin və fars. xan] din.amin deyən",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 21
+            },
+            {
+                "word": "XANİMAN",
+                "explanation": "is. [fars.] 1. ev-eşik",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 22
+            },
+            {
+                "word": "MANEKEN",
+                "explanation": "is. [fr.] mağaza və atelyelərdəpaltar nümayiş etdirmək üçün insan formasındadüzəldilən fiqur; müqəvva",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 23
+            },
+            {
+                "word": "MİNİMİNİ",
+                "explanation": "sif. oxş. kiçicik",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 24
+            },
+            {
+                "word": "MEXANİKİ",
+                "explanation": "sif. [yun. mechanike və ər. …i]1. mexanikanın öyrəndiyi hadisə və proseslərəaid olan. *** hərəkət",
+                "isPanagram": true,
+                "score": 17,
+                "length": 8,
+                "id": 25
+            }
+        ]
+    }
+}

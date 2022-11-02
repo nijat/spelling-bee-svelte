@@ -1,0 +1,253 @@
+{
+    "gameData": {
+        "day": "20230123",
+        "expiration": "1674514740",
+        "centerLetter": "L",
+        "outerLetters": [
+            "Ç",
+            "F",
+            "K",
+            "A",
+            "İ",
+            "E"
+        ],
+        "words_info": {
+            "word_count": 28,
+            "sum_score": 134,
+            "panagram_count": 1,
+            "word_length": {
+                "4": 9,
+                "5": 9,
+                "6": 3,
+                "7": 4,
+                "8": 3
+            }
+        },
+        "words": [
+            {
+                "word": "ALAF",
+                "explanation": "is. heyvan yemi (ot",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "ALÇA",
+                "explanation": "is. cır və peyvənd cinsləri olançəyirdəkli turş və ya şirin yumru bir meyvə.cır ***. *** qurusu. turş ***",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "ÇALA",
+                "explanation": "is. çökək yer",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "ELÇİ",
+                "explanation": "is. 1. dipl. bir dövləti başqa bir dövlətdətəmsil edən diplomatik nümayəndə;səfir.2. oğlan və ya onun adamları tərəfindənqız istəmək üçün qız evin",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "ELLİ",
+                "explanation": "sif. 1 vətəni",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 5
+            },
+            {
+                "word": "FAİL",
+                "explanation": "sif. [ər.] köhn. 1. işləyən",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 6
+            },
+            {
+                "word": "FEİL",
+                "explanation": "is. [ər.] 1. iş",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 7
+            },
+            {
+                "word": "FELİ",
+                "explanation": "sif. [ər.] 1. həqiqətən icra olunan",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 8
+            },
+            {
+                "word": "KALA",
+                "explanation": "is. məh. böyük şüşə qab",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 9
+            },
+            {
+                "word": "ALAFA",
+                "explanation": "is. məh. böyük",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 10
+            },
+            {
+                "word": "ALLAF",
+                "explanation": "is. [ər.] köhn. taxıl",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 11
+            },
+            {
+                "word": "ELLİK",
+                "explanation": "1. sif. bir yerin bütün camaatına",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 12
+            },
+            {
+                "word": "KALKA",
+                "explanation": "[fr.] 1. çertyojlardan",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 13
+            },
+            {
+                "word": "KEFLİ",
+                "explanation": "sif. 1. içki içərək keflənmiş; sərxoş.*** adam. – rəşid bəy bərk *** idi",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 14
+            },
+            {
+                "word": "KİFLİ",
+                "explanation": "sif. kifi olan",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 15
+            },
+            {
+                "word": "LİFÇİ",
+                "explanation": "is. hamamda lif çəkən adam; kisəçi",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 16
+            },
+            {
+                "word": "LİFLİ",
+                "explanation": "sif. tərkibində lif olan",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 17
+            },
+            {
+                "word": "LİLLİ",
+                "explanation": "sif. lehməli",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 18
+            },
+            {
+                "word": "ÇİLÇİL",
+                "explanation": "sif. çoxlu çili olan",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 19
+            },
+            {
+                "word": "FİLİAL",
+                "explanation": "[lat. ***is – oğula məxsus] hər hansı təşkilatın (idarənin",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 20
+            },
+            {
+                "word": "KALAFA",
+                "explanation": "is. 1. dağılmış tikintinin qalığı",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 21
+            },
+            {
+                "word": "ELÇİLİK",
+                "explanation": "is. 1. elçinin vəzifəsi",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 22
+            },
+            {
+                "word": "KAFELLİ",
+                "explanation": "sif. üzünə kafel (kaşı) çəkilmiş.*** divar. *** mətbəx",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 23
+            },
+            {
+                "word": "KAFİLİK",
+                "explanation": "is. kifayət etmə",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 24
+            },
+            {
+                "word": "KEFLİLİK",
+                "explanation": "is. kefli adamın halı; sərxoşluq",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 25
+            },
+            {
+                "word": "KİÇİKLİK",
+                "explanation": "is. 1. həcmcə",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 26
+            },
+            {
+                "word": "LİLLİLİK",
+                "explanation": "is. lilli olma; lehməlilik",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 27
+            },
+            {
+                "word": "KAFELÇİ",
+                "explanation": "is. xüs. 1. kafel hazırlayan",
+                "isPanagram": true,
+                "score": 17,
+                "length": 7,
+                "id": 28
+            }
+        ]
+    }
+}

@@ -1,0 +1,238 @@
+{
+    "gameData": {
+        "day": "20221119",
+        "expiration": "1668898740",
+        "centerLetter": "S",
+        "outerLetters": [
+            "İ",
+            "U",
+            "Y",
+            "K",
+            "L",
+            "A"
+        ],
+        "words_info": {
+            "word_count": 26,
+            "sum_score": 109,
+            "panagram_count": 1,
+            "word_length": {
+                "7": 4,
+                "6": 4,
+                "12": 1,
+                "4": 12,
+                "8": 1,
+                "5": 4
+            }
+        },
+        "words": [
+            {
+                "word": "KASA",
+                "explanation": "is. [fars.] 1. çini",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "SAİL",
+                "explanation": "is. [ər.] dilənçi",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "SAYA",
+                "explanation": "sif. 1. bir rəngdə olan",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "SİKL",
+                "explanation": "is. [yun.] dövr",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "SİLK",
+                "explanation": "is. [ər.] 1. feodalizm dövründəkisinfi münasibətlər əsasında meydana gələrək",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 5
+            },
+            {
+                "word": "SİLL",
+                "explanation": "is. [ər.] köhn. vərəm. [ələkbər:] hərkim bu arvadın üzünə baxsa",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 6
+            },
+            {
+                "word": "SUAL",
+                "explanation": "is. [ər.] 1. bir şey haqqında cavab",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 7
+            },
+            {
+                "word": "SULU",
+                "explanation": "sif. 1. tərkibində suyu",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 8
+            },
+            {
+                "word": "ULAS",
+                "explanation": "is. bot. tozağacı fəsiləsindən dağlıqyerlərdə bitən ağac; vələs. *** meşəsi.– uzun *** ağacı öz kökündən qopub yerəgəlmişdi",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 9
+            },
+            {
+                "word": "ULUS",
+                "explanation": "is. qəd. el",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 10
+            },
+            {
+                "word": "USLU",
+                "explanation": "sif. qəd. 1. ağıllı",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 11
+            },
+            {
+                "word": "YASA",
+                "explanation": "is. [türkcə] qanun. ana *** (konstitusiya)",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 12
+            },
+            {
+                "word": "KASKA",
+                "explanation": "[fr. casque",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 13
+            },
+            {
+                "word": "KASSA",
+                "explanation": "[ital.] 1. pul",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 14
+            },
+            {
+                "word": "SİSLİ",
+                "explanation": "sif. çənli",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 15
+            },
+            {
+                "word": "SİYAL",
+                "explanation": "is. məh. üzümdə gülləmə xəstəliyi",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 16
+            },
+            {
+                "word": "AKSİYA",
+                "explanation": "[fr.] iq. səhm (aksioner şirkətinüzvlərinə verilən qiymətli kağız). ***larınbirjada ucuzlaşdığını aslan bəy öyrənmişdi",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 17
+            },
+            {
+                "word": "ASİLİK",
+                "explanation": "is. 1. itaətsizlik",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 18
+            },
+            {
+                "word": "SALAKA",
+                "explanation": "is. [rus.] balıq növü",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 19
+            },
+            {
+                "word": "SİYASİ",
+                "explanation": "sif. [ər.] 1. siyasətlə bağlı",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 20
+            },
+            {
+                "word": "AKASİYA",
+                "explanation": "is. [yun.] bot. paxlalılar fəsiləsindənağac və ya kol cinsi. ağ ***.sarı ***. – *** 5-6 m hündürlüyündəağac olub xırda lələkli yarpaqla",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 21
+            },
+            {
+                "word": "KLASSİK",
+                "explanation": "[lat.] 1. elm",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 22
+            },
+            {
+                "word": "SAİLLİK",
+                "explanation": "is. dilənçilik",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 23
+            },
+            {
+                "word": "SAKSAUL",
+                "explanation": "is. bot. orta asiya səhralarındabitən alçaq ağac və ya kol",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 24
+            },
+            {
+                "word": "KASASİYA",
+                "explanation": "is. [lat.] hüq. qanuni qüvvəyəminməmiş məhkəmə qərar və hökmlərindənşikayət. // yuxarı məhkəmə orqanlarıtərəfindən bu şikayətə baxılması",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 25
+            },
+            {
+                "word": "KALKULYASİYA",
+                "explanation": "[lat.] malın maya vəsatış qiymətinin hesablanması. malın ***sı.kitabın ***sı (kitabın dəyərinimüəyyən etmək üçün mətbəə işarələri",
+                "isPanagram": true,
+                "score": 17,
+                "length": 12,
+                "id": 26
+            }
+        ]
+    }
+}

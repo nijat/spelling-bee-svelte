@@ -1,0 +1,206 @@
+{
+    "gameData": {
+        "day": "20230518",
+        "expiration": "1684447140",
+        "centerLetter": "Q",
+        "outerLetters": [
+            "M",
+            "H",
+            "Ə",
+            "B",
+            "İ",
+            "D"
+        ],
+        "words_info": {
+            "word_count": 22,
+            "sum_score": 121,
+            "panagram_count": 1,
+            "word_length": {
+                "8": 2,
+                "5": 8,
+                "6": 5,
+                "11": 1,
+                "4": 4,
+                "7": 2
+            }
+        },
+        "words": [
+            {
+                "word": "ƏQİQ",
+                "explanation": "is. [ər.] müxtəlif rənglərə çalanlaylardan ibarət olan",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "HƏQQ",
+                "explanation": "[ər.] bax haqq2 1-ci mənada.[rəsul:] qadir həqdən mən bir dilək dilədim;şükür",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "QƏDD",
+                "explanation": "is. [ər.] 1. boy",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "QƏMƏ",
+                "explanation": "is. kiçik xəncər. əlini ətəyininaltındakı ***nin dəstəsinə aparıb səsləndi:– uşaqlar! hazır olun! m",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "DƏQİQ",
+                "explanation": "sif. [ər] 1. düpdüz",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 5
+            },
+            {
+                "word": "ƏHMƏQ",
+                "explanation": "[ər.] bax axmaq. əlhəq",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 6
+            },
+            {
+                "word": "ƏQDƏM",
+                "explanation": "zərf. [ər.] qabaq",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 7
+            },
+            {
+                "word": "ƏQİDƏ",
+                "explanation": "is. [ər.] 1. insanın mühit",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 8
+            },
+            {
+                "word": "QƏBİH",
+                "explanation": "sif. [ər.] köhn. 1. çirkin",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 9
+            },
+            {
+                "word": "QƏDƏH",
+                "explanation": "is. [ər.] şərab",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 10
+            },
+            {
+                "word": "QƏDƏM",
+                "explanation": "is. [ər.] 1. addım. vəsiqəli adamlara hər ***də təsadüf etmək mümkün idi. m.s.ordubadi. atlar başladılar *** ilə getməyə",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 11
+            },
+            {
+                "word": "QƏDİM",
+                "explanation": "sif. [ər.] 1. çox köhnə zamanlara",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 12
+            },
+            {
+                "word": "DƏQİQƏ",
+                "explanation": "is. [ər] 1. bir saatın altmışda birinə bərabər və ya 60 saniyədən ibarət olan vaxt ölçüsü. bir *** sükutdan sonra vəzir mirzə möhsün başladı danışm",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 13
+            },
+            {
+                "word": "HƏDƏQƏ",
+                "explanation": "is. [ər.] anat. göz almasınınyerləşdiyi çuxur; göz çuxuru. sultanın gözləriningilələri öz ***sində tez-tez sağasolagedib-gəldi",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 14
+            },
+            {
+                "word": "HƏQİQİ",
+                "explanation": "sif. [ər.] 1. həqiqətən mövcudolan və ya olmuş",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 15
+            },
+            {
+                "word": "QƏDƏMƏ",
+                "explanation": "is. [ər.] pillə (nərdivanda",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 16
+            },
+            {
+                "word": "QƏDİMİ",
+                "explanation": "sif. köhnə",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 17
+            },
+            {
+                "word": "QƏHQƏHƏ",
+                "explanation": "is. [ər.] bərkdən gülüş",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 18
+            },
+            {
+                "word": "QƏMDİDƏ",
+                "explanation": "sif. və is. [ər. qəm və fars.…didə] klas. qəm görmüş",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 19
+            },
+            {
+                "word": "BƏDQƏDƏM",
+                "explanation": "sif. [fars. bəd və ər. qədəm]ağırayaqlı",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 20
+            },
+            {
+                "word": "HƏMƏQİDƏ",
+                "explanation": "sif. və zərf [fars. həm və ər.əqidə] eyni əqidədə olan; həmməslək.rzaquluxan ilə *** olan müsyö lui də… iran səfərinə hazırlaşmaqda idi",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 21
+            },
+            {
+                "word": "ƏHMƏDİBİQƏM",
+                "explanation": "is. dan. qəmsiz",
+                "isPanagram": true,
+                "score": 17,
+                "length": 11,
+                "id": 22
+            }
+        ]
+    }
+}

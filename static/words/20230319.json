@@ -1,0 +1,190 @@
+{
+    "gameData": {
+        "day": "20230319",
+        "expiration": "1679266740",
+        "centerLetter": "K",
+        "outerLetters": [
+            "L",
+            "A",
+            "Ü",
+            "P",
+            "Q",
+            "T"
+        ],
+        "words_info": {
+            "word_count": 20,
+            "sum_score": 96,
+            "panagram_count": 1,
+            "word_length": {
+                "4": 7,
+                "5": 5,
+                "7": 1,
+                "6": 4,
+                "8": 2,
+                "10": 1
+            }
+        },
+        "words": [
+            {
+                "word": "KALA",
+                "explanation": "is. məh. böyük şüşə qab",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "KÜKÜ",
+                "explanation": "is. göyərti və yumurtadan (bəzəndə balıqdan) hazırlanan xörək. *** bişirmək.– bəylər yeyər nahara küftə",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "KÜLL",
+                "explanation": "[ər.] 1. bütün",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "KÜLÜ",
+                "explanation": "sif. 1. k.t. bozumtul-ağ. *** torpaq.2. kül rəngində olan",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "PAKT",
+                "explanation": "[lat.] adətən böyük siyasi əhəmiyyətiolan beynəlxalq müqavilə. hücum etməməkhaqqında ***. ***ı imzalamaq",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 5
+            },
+            {
+                "word": "TALK",
+                "explanation": "is. [ər.] adətən toz halında təbabətdəvə tibdə işlədilən ağ və ya göy rəngliyumşaq mineral",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 6
+            },
+            {
+                "word": "ÜTÜK",
+                "explanation": "sif. üzdən yanmış",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 7
+            },
+            {
+                "word": "KALKA",
+                "explanation": "[fr.] 1. çertyojlardan",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 8
+            },
+            {
+                "word": "KATTA",
+                "explanation": "is. dan. bax kətxuda. ***nıgör",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 9
+            },
+            {
+                "word": "KÜLLÜ",
+                "explanation": "sif. 1. külə bulaşmış",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 10
+            },
+            {
+                "word": "TÜKLÜ",
+                "explanation": "sif. 1. tükü olan",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 11
+            },
+            {
+                "word": "TÜLKÜ",
+                "explanation": "is. 1. zool. itlər ailəsindən",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 12
+            },
+            {
+                "word": "KÜLLÜK",
+                "explanation": "is. 1. kül tökülən yer. toyuqlar ***də eşələnir. – külü ***dən götür. (ata. sözü). zibil təpə olsa",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 13
+            },
+            {
+                "word": "KÜTLÜK",
+                "explanation": "is. 1. küt şeyin hal və keyfiyyəti.bıçağın kütlüyü. qayçı ***dən kəsmir.2. məc. həssaslığın",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 14
+            },
+            {
+                "word": "LÜTLÜK",
+                "explanation": "is. 1. çılpaqlıq.2. məc. bitkisizlik; yaşıllıqdan",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 15
+            },
+            {
+                "word": "PLAKAT",
+                "explanation": "[lat. placatum – şəhadətnamə]küçə və ya ictimai yerlərdə təbliğat",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 16
+            },
+            {
+                "word": "KÜKÜLÜK",
+                "explanation": "sif. kükü üçün yararlı",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 17
+            },
+            {
+                "word": "TÜKLÜLÜK",
+                "explanation": "is. tüklü olma",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 18
+            },
+            {
+                "word": "TÜLKÜLÜK",
+                "explanation": "is. hiyləgərlik",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 19
+            },
+            {
+                "word": "TÜKLÜPAPAQ",
+                "explanation": "sif. başında tüklü dəridəntikilmiş papaq olan. ***",
+                "isPanagram": true,
+                "score": 17,
+                "length": 10,
+                "id": 20
+            }
+        ]
+    }
+}

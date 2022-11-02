@@ -1,0 +1,254 @@
+{
+    "gameData": {
+        "day": "20230324",
+        "expiration": "1679698740",
+        "centerLetter": "Y",
+        "outerLetters": [
+            "N",
+            "M",
+            "E",
+            "İ",
+            "Ə",
+            "T"
+        ],
+        "words_info": {
+            "word_count": 28,
+            "sum_score": 143,
+            "panagram_count": 1,
+            "word_length": {
+                "4": 8,
+                "5": 9,
+                "8": 3,
+                "7": 4,
+                "6": 2,
+                "9": 2
+            }
+        },
+        "words": [
+            {
+                "word": "EYMƏ",
+                "explanation": "is. məh. içində qatıq",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "EYNİ",
+                "explanation": "sif. bir-birinə tamamilə oxşar",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "ƏYİN",
+                "explanation": "is. 1. bədənin başdan qeyri bütünhissəsi. əyninə yeni kostyum geymişdir.əynində heç bir şey yoxdur (çılpaqdır)",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "ƏYMƏ",
+                "explanation": "is. 1. dişləni (əskeşi) qayışlar vasitəsiləxamuta (boyunduruğa) bənd etməküçün istifadə edilən əyilmiş ağacdan ibarətqoşqu hissəsi",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "TİYƏ",
+                "explanation": "is. qılınc",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 5
+            },
+            {
+                "word": "YENİ",
+                "explanation": "sif. 1. ilk dəfə yaradılmış lap yaxınlarda meydana gəlmiş",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 6
+            },
+            {
+                "word": "YEYƏ",
+                "explanation": "is. metalı yonmaq",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 7
+            },
+            {
+                "word": "YİYƏ",
+                "explanation": "is. hər hansı bir şey üzərində mülkiyyəthüququ olan adam; sahib. oğul",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 8
+            },
+            {
+                "word": "EYMƏN",
+                "explanation": "sif. və zərf [ər.] klas. arxayın",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 9
+            },
+            {
+                "word": "EYNƏN",
+                "explanation": "[ər.] bax eyni ilə (“eyni”də).sonra dəmirovun xəyalında həkim məntəqələri*** canlanırdı. s.rəhimov",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 10
+            },
+            {
+                "word": "MEYİT",
+                "explanation": "is. [ər.] ölmüş adam; cənazə",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 11
+            },
+            {
+                "word": "MEYNƏ",
+                "explanation": "is. məc. üzüm tənəyi. *** əkmək.***lərin başını vurmaq. – ***lərindəqora; ilişdim",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 12
+            },
+            {
+                "word": "TƏYİN",
+                "explanation": "is. [ər.] 1. müəyyən etmə",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 13
+            },
+            {
+                "word": "YETİM",
+                "explanation": "sif. 1. atası-anası",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 14
+            },
+            {
+                "word": "YETMƏ",
+                "explanation": "1. “***k”dən f.is.2. sif. yetişmiş",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 15
+            },
+            {
+                "word": "YEYİN",
+                "explanation": "sif. tez",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 16
+            },
+            {
+                "word": "YƏMİN",
+                "explanation": "is. [ər.] and",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 17
+            },
+            {
+                "word": "ƏYİNTİ",
+                "explanation": "is. 1. əyilmiş yer",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 18
+            },
+            {
+                "word": "NİYYƏT",
+                "explanation": "is. [ər.] 1. məqsəd",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 19
+            },
+            {
+                "word": "ƏMNİYYƏ",
+                "explanation": "is. [ər.] iranda: jandarm",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 20
+            },
+            {
+                "word": "ƏTYEYƏN",
+                "explanation": "sif. ətlə qidalanan",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 21
+            },
+            {
+                "word": "MƏİYYƏT",
+                "explanation": "is. [ər.] kit. böyük vəzifəlişəxsi müşayiət edən heyət. çar konsulu özdostlarını vəliəhdin ***i içərisində aramağabaşlamışdı",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 22
+            },
+            {
+                "word": "YEYİNTİ",
+                "explanation": "is. 1. yeməyə yarayan şeylər",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 23
+            },
+            {
+                "word": "EYNİYYƏT",
+                "explanation": "is. [ər.] 1. tam oxşarlıq",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 24
+            },
+            {
+                "word": "ƏMNİYYƏT",
+                "explanation": "is. [ər.] 1. təhlükəsizlik",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 25
+            },
+            {
+                "word": "YENİYENİ",
+                "explanation": "1. sif. təzə-təzə. yeni-yenievlər. yeni-yeni adamlar. yeni-yeni qüvvələr.– [mirpaşa:] amma çox sağ ol",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 26
+            },
+            {
+                "word": "MƏMƏYEYƏN",
+                "explanation": "is. : ***dən-pəpəyeyənə qədər (kimi) – böyüklü-kiçikli",
+                "isPanagram": false,
+                "score": 9,
+                "length": 9,
+                "id": 27
+            },
+            {
+                "word": "YENİYETMƏ",
+                "explanation": "is. çox gənc",
+                "isPanagram": true,
+                "score": 17,
+                "length": 9,
+                "id": 28
+            }
+        ]
+    }
+}

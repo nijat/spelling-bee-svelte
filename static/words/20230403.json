@@ -1,0 +1,214 @@
+{
+    "gameData": {
+        "day": "20230403",
+        "expiration": "1680559140",
+        "centerLetter": "A",
+        "outerLetters": [
+            "Q",
+            "N",
+            "K",
+            "E",
+            "Y",
+            "Z"
+        ],
+        "words_info": {
+            "word_count": 23,
+            "sum_score": 103,
+            "panagram_count": 1,
+            "word_length": {
+                "4": 9,
+                "6": 3,
+                "7": 2,
+                "8": 1,
+                "5": 7,
+                "9": 1
+            }
+        },
+        "words": [
+            {
+                "word": "AYAQ",
+                "explanation": "is. klas. qədəh",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "AYAZ",
+                "explanation": "is. qışda buludsuz",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "AYNA",
+                "explanation": "is. [fars.] 1. güzgü. ***nın çatdığıcalaq qəbul eləməz. (ata. sözü). əgərbilmək istəyirsiniz ki",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "AZAN",
+                "explanation": "is. [ər.] müsəlmanları namazaçağırmaq üçün ***çının səhər",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "AZAY",
+                "explanation": "is. məh. şikayət",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 5
+            },
+            {
+                "word": "QAAN",
+                "explanation": "is. tar. türk",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 6
+            },
+            {
+                "word": "QANE",
+                "explanation": "[ər.] *** olan",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 7
+            },
+            {
+                "word": "QAYA",
+                "explanation": "is. 1. daşlıq və sarp dağ; daşlıq uçurum",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 8
+            },
+            {
+                "word": "ZAYE",
+                "explanation": "[ər.] klas. bax zay. □ *** etmək (eyləmək) – bax zay etmək (eləmək) (“zay”da). vəchindəki bənzər ay olar ***; verdilər ömrümü",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 9
+            },
+            {
+                "word": "QAYKA",
+                "explanation": "is. [rus.] tex. boltları bərkitməküçün onların başına keçirilən çoxüzlü yivlihalqa",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 10
+            },
+            {
+                "word": "QAZAQ",
+                "explanation": "is. 1. bax kazak.2. çar rusiyasında: ayrıca bir təbəqə təşkiledən atlı qoşunun süvarisi",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 11
+            },
+            {
+                "word": "QAZAN",
+                "explanation": "is. içində xörək bişirmək",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 12
+            },
+            {
+                "word": "NAQAN",
+                "explanation": "[xüs. is.-dən] hərlənən topu(barabanı) olan tapança növü. [balaqardaş:]güldəstə! bir gözümün içinə dürüst bax! bu***ı görürsənmi? n",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 13
+            },
+            {
+                "word": "NAQQA",
+                "explanation": "is. zool. şirin suda yaşayan üstü pulsuz",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 14
+            },
+            {
+                "word": "NANAY",
+                "explanation": "is. uzaq şərqdə yaşayan xalq;həmin xalqa mənsub olan adam",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 15
+            },
+            {
+                "word": "YANAQ",
+                "explanation": "is. üzün almacıq sümüyündən çənəyə qədər olan qismi. yanağından öpmək. qırmızı ***. – *** üzrə saçın tavusa bənzər; ki",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 16
+            },
+            {
+                "word": "KANKAN",
+                "explanation": "is. [fars.] köhn. əl ilə quyuqazan;quyuçu. ***ın vəsiyyəti qızıl öküzdür.(ata. sözü). [məmməd:] atam ***idi",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 17
+            },
+            {
+                "word": "QAYNAQ",
+                "explanation": "is. tex. 1. metalda qaynayıb(*** olub) bitişən yer.2. metal hissələrin aralarına ərgin metaltökmək yolu ilə onları birləşdirmə",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 18
+            },
+            {
+                "word": "QAZNAQ",
+                "explanation": "is. qazılmış yer",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 19
+            },
+            {
+                "word": "QAQQANA",
+                "explanation": "is. qaqqıltı. pilləkəni titrətdi muştuluqçu qonşu qızın ***sı. r.rza. □ ***q çalmaq – 1) qaqqıldamaq",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 20
+            },
+            {
+                "word": "QAQQANAQ",
+                "explanation": "is. qaqqıltı. pilləkəni titrətdi muştuluqçu qonşu qızın qaqqanası. r.rza. □ *** çalmaq – 1) qaqqıldamaq",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 21
+            },
+            {
+                "word": "QAZAQYANA",
+                "explanation": "is. etnoqr. məh. köhnə məişətdə:toy adətlərindən birinin adı. gəlin aparanzaman o məhəllənin adamları faytonunqabağını kəsərdi",
+                "isPanagram": false,
+                "score": 9,
+                "length": 9,
+                "id": 22
+            },
+            {
+                "word": "QEYZNAK",
+                "explanation": "zərf [ər. qeyz və fars. …nak]köhn. qeyzli surətdə",
+                "isPanagram": true,
+                "score": 17,
+                "length": 7,
+                "id": 23
+            }
+        ]
+    }
+}

@@ -1,0 +1,253 @@
+{
+    "gameData": {
+        "day": "20230421",
+        "expiration": "1682114340",
+        "centerLetter": "T",
+        "outerLetters": [
+            "Ə",
+            "C",
+            "B",
+            "Ü",
+            "İ",
+            "R"
+        ],
+        "words_info": {
+            "word_count": 28,
+            "sum_score": 139,
+            "panagram_count": 2,
+            "word_length": {
+                "6": 5,
+                "9": 1,
+                "7": 4,
+                "5": 9,
+                "4": 9
+            }
+        },
+        "words": [
+            {
+                "word": "ƏTCƏ",
+                "explanation": "is. 1. çılpaq uşaq bədəni.2. bax ***bala. yuvada yumurtadan yenicəçıxmış *** kəklik balaları vardı",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "ƏTƏC",
+                "explanation": "is. məh. yun təmizləyən alət",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "ƏTƏR",
+                "explanation": "is. dan. iz",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "ƏTİR",
+                "explanation": "is. [ər.] 1. gözəl iy",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "RƏBT",
+                "explanation": "is. [ər.] 1. bağlama",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 5
+            },
+            {
+                "word": "TİBB",
+                "explanation": "is. [ər.] 1. xəstəliklər",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 6
+            },
+            {
+                "word": "TİRƏ",
+                "explanation": "is. 1. arx",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 7
+            },
+            {
+                "word": "TİTƏ",
+                "explanation": "is. bəzi adamların göz bəbəyindəolan ağ ləkə",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 8
+            },
+            {
+                "word": "TİTR",
+                "explanation": "[fr.] 1. kinolentdə yazı",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 9
+            },
+            {
+                "word": "CÜRƏT",
+                "explanation": "is. [ər.] cəsarət",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 10
+            },
+            {
+                "word": "RİCƏT",
+                "explanation": "is. [ər.] 1. geriyə dönmə",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 11
+            },
+            {
+                "word": "RÜTBƏ",
+                "explanation": "is. [ər.] 1. xidməti dərəcə",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 12
+            },
+            {
+                "word": "TƏBƏƏ",
+                "explanation": "is. [ər. “tabe” söz. cəmi] bir dövlətə tabe olan",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 13
+            },
+            {
+                "word": "TƏBİB",
+                "explanation": "is. [ər.] həkim. *** olsam",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 14
+            },
+            {
+                "word": "TƏBİİ",
+                "explanation": "sif. [ər.] 1. təbiətə (yer səthinə",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 15
+            },
+            {
+                "word": "TƏBİR",
+                "explanation": "is. [ər.] 1. söz",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 16
+            },
+            {
+                "word": "TİBBİ",
+                "explanation": "sif. [ər.] tiblə",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 17
+            },
+            {
+                "word": "TÜRBƏ",
+                "explanation": "is. [ər.] qəbir",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 18
+            },
+            {
+                "word": "BƏRBƏT",
+                "explanation": "is. [ər.] uda oxşar qədim çalğıaləti. əldə incə ***",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 19
+            },
+            {
+                "word": "TƏBİƏT",
+                "explanation": "is. [ər.] 1. yerdə təbii şəraitin(yerin səthi",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 20
+            },
+            {
+                "word": "TƏRƏCƏ",
+                "explanation": "is. üstünə barama qurdu buraxmaqvə ya üstündə pambıq",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 21
+            },
+            {
+                "word": "TƏRTİB",
+                "explanation": "is. [ər.] 1. ayrı-ayrı hissələri",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 22
+            },
+            {
+                "word": "TÜRBƏT",
+                "explanation": "is. [ər.] 1. torpaq. elə bir ölkədədoğulmuşam ki; onun ***inə minnətdarammən. m.rahim. // məc. müqəddəs torpaq",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 23
+            },
+            {
+                "word": "CÜCƏRTİ",
+                "explanation": "is. torpaqdan görünən",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 24
+            },
+            {
+                "word": "TƏCRÜBƏ",
+                "explanation": "is. [ər.] 1. sınama",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 25
+            },
+            {
+                "word": "TƏƏCCÜB",
+                "explanation": "is. [ər.] 1. qeyri-adi",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 26
+            },
+            {
+                "word": "BİTƏCRÜBƏ",
+                "explanation": "sif. [fars. bi… və ər. təcrübə]təcrübəsiz",
+                "isPanagram": true,
+                "score": 17,
+                "length": 9,
+                "id": 27
+            },
+            {
+                "word": "TƏCRÜBİ",
+                "explanation": "[ər.] 1. bax təcrübəvi. şiraslanınindiki *** işi",
+                "isPanagram": true,
+                "score": 17,
+                "length": 7,
+                "id": 28
+            }
+        ]
+    }
+}

@@ -1,0 +1,374 @@
+{
+    "gameData": {
+        "day": "20221123",
+        "expiration": "1669244340",
+        "centerLetter": "D",
+        "outerLetters": [
+            "R",
+            "M",
+            "İ",
+            "Y",
+            "L",
+            "A"
+        ],
+        "words_info": {
+            "word_count": 43,
+            "sum_score": 238,
+            "panagram_count": 1,
+            "word_length": {
+                "4": 7,
+                "6": 8,
+                "7": 6,
+                "5": 17,
+                "10": 3,
+                "8": 2
+            }
+        },
+        "words": [
+            {
+                "word": "ADAM",
+                "explanation": "is. [ər.] 1. heyvandan fərqli olaraqdanışmaq və düşünmək",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "ADİL",
+                "explanation": "sif. [ər.] ədalətli",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "DAİM",
+                "explanation": "zərf [ər.] həmişə",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "DAİR",
+                "explanation": "qoş. [ər.] haqqında",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "DAMA",
+                "explanation": "is. 1. şahmat taxtası üzərində qara vəağ daşlarla (dairəciklərlə) oynanılan oyun; şaşka.*** oynamaq",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 5
+            },
+            {
+                "word": "DİRİ",
+                "explanation": "sif. 1. canı olan",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 6
+            },
+            {
+                "word": "YARD",
+                "explanation": "[ing.] 81 sm-ə bərabər olan ingilisuzunluq ölçüsü. // 1",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 7
+            },
+            {
+                "word": "ADYAL",
+                "explanation": "is. [əsli rus.] yun və ya iplikdəntoxunma birqat yorğan. nəriman gah ***üstünə atılmış sədəfli tara",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 8
+            },
+            {
+                "word": "DAİMA",
+                "explanation": "zərf [ər.] həmişə",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 9
+            },
+            {
+                "word": "DAİMİ",
+                "explanation": "sif. [ər] 1. uzunmüddətli",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 10
+            },
+            {
+                "word": "DALDA",
+                "explanation": "1. sif. sığınmağa və ya gizlənməyəyarayan. *** yer. *** divar.– kosa boşalmış küçənin *** yeri ilə yeriyibat tövlələrinin yanına çatdı",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 11
+            },
+            {
+                "word": "DAMAD",
+                "explanation": "is. [fars.] qızın əri",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 12
+            },
+            {
+                "word": "DAMAR",
+                "explanation": "is. 1. canlıların bədənində: içərisində qan və ya limfanın dövr etdiyi boruşəkilli orqan. qan ***ları",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 13
+            },
+            {
+                "word": "DARAM",
+                "explanation": "sif. tarım; çox dar. dağbaşevdanışa-danışa *** şinelinin dəmir düymələriilə əlləşməkdə davam edirdi",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 14
+            },
+            {
+                "word": "DİDAR",
+                "explanation": "is. [fars.] klas. 1. görünüş",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 15
+            },
+            {
+                "word": "DİLİM",
+                "explanation": "is. uzununa dil kimi kəsilmiş parça",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 16
+            },
+            {
+                "word": "DİLİR",
+                "explanation": "sif. [fars.] köhn. igid",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 17
+            },
+            {
+                "word": "DİLLİ",
+                "explanation": "sif. 1. ağzında dili olan. // danışa bilən",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 18
+            },
+            {
+                "word": "DİYAR",
+                "explanation": "is. [ər.] ölkə",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 19
+            },
+            {
+                "word": "MADAM",
+                "explanation": "[fr.] fransada",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 20
+            },
+            {
+                "word": "MADAR",
+                "explanation": "sif. [ər.] ən istəkli",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 21
+            },
+            {
+                "word": "MADDİ",
+                "explanation": "sif. [ər.] 1. şüurdan asılı olmayaraqmövcud olan; cismani",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 22
+            },
+            {
+                "word": "MİLAD",
+                "explanation": "is. [ər.] xristianlarda: isanın doğulduğuil. // həmin ildən başlanan təqvim.***ın ıı əsrində. ***dan əvvəl",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 23
+            },
+            {
+                "word": "RADAR",
+                "explanation": "[ing.] bax radiolokator. radiolokasiyadaişlədilən qurğulara radiolokatordeyilir. bəzi yerlərdə bunları müxtəsər olaraq*** adlandırırlar",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 24
+            },
+            {
+                "word": "ADDAMA",
+                "explanation": "1. “***q”dan f.is. 2. is. məh. çaydan",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 25
+            },
+            {
+                "word": "DAMDAM",
+                "explanation": "is. məh. doşab bişirmək üçünsıxılıb damcı-damcı yığılan üzüm suyu. bulanıqdərman … nərimana dam-dam suyunuxatırlatdı",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 26
+            },
+            {
+                "word": "DAYDAY",
+                "explanation": "is. uşaq dilində: dayı. [səttar:]… sabah anan məni kürdəxanıya ***giləaparacaq… ə.məmmədxanlı",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 27
+            },
+            {
+                "word": "DİLARA",
+                "explanation": "sif. [fars.] şair. ürəkaçan",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 28
+            },
+            {
+                "word": "MADYAR",
+                "explanation": "is. macarların özlərinə verdikləriad",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 29
+            },
+            {
+                "word": "MALDAR",
+                "explanation": "is. [ər. mal və fars. …dar] evheyvanları saxlamaqla məşğul olan kəndlivə ya kənd təsərrüfatı. // sif",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 30
+            },
+            {
+                "word": "MİLADİ",
+                "explanation": "sif. [ər.] isanın anadan olduğugündən başlanan",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 31
+            },
+            {
+                "word": "RADİAL",
+                "explanation": "[lat.] radius istiqamətində yerləşən.*** simmetriya",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 32
+            },
+            {
+                "word": "ADMİRAL",
+                "explanation": "is. [ər. əmirülbəhr – “dənizəmiri” sözündən] bütün dövlətlərdə qəbuledilmiş hərbi dəniz donanmasında yüksəkrütbə",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 33
+            },
+            {
+                "word": "DADAMAL",
+                "explanation": "sif. dan. bir şeyə (adətən arzuedilməyən şeyə) dadanmış",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 34
+            },
+            {
+                "word": "DİLİMLİ",
+                "explanation": "sif. dilimi olan",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 35
+            },
+            {
+                "word": "DİMDİRİ",
+                "explanation": "sif. çox diri",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 36
+            },
+            {
+                "word": "MALDİLİ",
+                "explanation": "is. bot. üstü tikanlı",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 37
+            },
+            {
+                "word": "DAMADAMA",
+                "explanation": "1. sif. üzərində damalar",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 38
+            },
+            {
+                "word": "MALMADAR",
+                "explanation": "is. dan. var",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 39
+            },
+            {
+                "word": "DALAYDALAY",
+                "explanation": "is. xanəndələrin oxumağabaşlarkən əvvəlcə giriş kimi söylədiklərisöz",
+                "isPanagram": false,
+                "score": 10,
+                "length": 10,
+                "id": 40
+            },
+            {
+                "word": "DAMARDAMAR",
+                "explanation": "sif. damarlar",
+                "isPanagram": false,
+                "score": 10,
+                "length": 10,
+                "id": 41
+            },
+            {
+                "word": "DİLİMDİLİM",
+                "explanation": "zərf və sif. dilimlər halında",
+                "isPanagram": false,
+                "score": 10,
+                "length": 10,
+                "id": 42
+            },
+            {
+                "word": "MİLYARD",
+                "explanation": "[fr. milliard] 1.000.000.000 sayı. // 1.000.000.000 miqdarında. iki *** manat",
+                "isPanagram": true,
+                "score": 17,
+                "length": 7,
+                "id": 43
+            }
+        ]
+    }
+}

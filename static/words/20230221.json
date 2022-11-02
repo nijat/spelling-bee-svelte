@@ -1,0 +1,173 @@
+{
+    "gameData": {
+        "day": "20230221",
+        "expiration": "1677020340",
+        "centerLetter": "R",
+        "outerLetters": [
+            "Y",
+            "Z",
+            "A",
+            "F",
+            "N",
+            "T"
+        ],
+        "words_info": {
+            "word_count": 18,
+            "sum_score": 91,
+            "panagram_count": 1,
+            "word_length": {
+                "4": 6,
+                "5": 6,
+                "7": 4,
+                "10": 1,
+                "11": 1
+            }
+        },
+        "words": [
+            {
+                "word": "ARAN",
+                "explanation": "is. azərbaycanda: yaylaq yerlərənisbətən alçaq və iqlimcə isti olan yerlər.azərbaycanın əsas *** yerləri muğan",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "ARAT",
+                "explanation": "is. k.t. şumlanıb sulanmış",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "AYAR",
+                "explanation": "is. dan. 1. barama",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "AZAR",
+                "explanation": "is. [fars.] 1. xəstəlik",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "FARA",
+                "explanation": "[fr.] yolu işıqlandırmaq üçün avtomobillərdə",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 5
+            },
+            {
+                "word": "YARA",
+                "explanation": "is. 1. bədən",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 6
+            },
+            {
+                "word": "ARTAN",
+                "explanation": "f.sif. getdikcə çoxalan",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 7
+            },
+            {
+                "word": "AYRAN",
+                "explanation": "is. yağı alınıb su qarışdırılmışqatıq. heç kəs öz ***ına turş deməz. (ata.sözü). masanın üzərində böyük bir mətərəbuzlu *** qoyulmuşdu",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 8
+            },
+            {
+                "word": "TARAZ",
+                "explanation": "[fars.] 1. sif. və zərf düz",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 9
+            },
+            {
+                "word": "TATAR",
+                "explanation": "is. 1. ***ıstanın əsas əhalisinitəşkil edən türkdilli xalq və bu xalqa mənsubadam.2. volqaboyunda",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 10
+            },
+            {
+                "word": "YANAR",
+                "explanation": "sif. odpüskürən",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 11
+            },
+            {
+                "word": "YATAR",
+                "explanation": "is. 1. yatmaq",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 12
+            },
+            {
+                "word": "NATARAZ",
+                "explanation": "sif. [fars.] 1. kobud(ca)",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 13
+            },
+            {
+                "word": "RAZYANA",
+                "explanation": "is. [fars.] bot. 1. efir yağı verənot-bitki; həmin bitkinin şirin dadan vəədviyyə kimi işlədilən xoşiyli toxumu",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 14
+            },
+            {
+                "word": "YARANAN",
+                "explanation": "f.sif. yaradılmış",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 15
+            },
+            {
+                "word": "ZARAFAT",
+                "explanation": "1. is. [ər.] gülmək",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 16
+            },
+            {
+                "word": "YANARYANAR",
+                "explanation": "sif. yanmaqda olan. yenəməni yanar-yanar odlara; dağılmış ayrılıqsaldı",
+                "isPanagram": false,
+                "score": 10,
+                "length": 10,
+                "id": 17
+            },
+            {
+                "word": "ZARAFATYANA",
+                "explanation": "zərf və sif. zarafat yoluilə",
+                "isPanagram": true,
+                "score": 17,
+                "length": 11,
+                "id": 18
+            }
+        ]
+    }
+}

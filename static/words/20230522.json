@@ -1,0 +1,238 @@
+{
+    "gameData": {
+        "day": "20230522",
+        "expiration": "1684792740",
+        "centerLetter": "U",
+        "outerLetters": [
+            "R",
+            "L",
+            "A",
+            "B",
+            "D",
+            "Z"
+        ],
+        "words_info": {
+            "word_count": 26,
+            "sum_score": 124,
+            "panagram_count": 1,
+            "word_length": {
+                "4": 8,
+                "7": 3,
+                "6": 5,
+                "8": 1,
+                "10": 1,
+                "5": 8
+            }
+        },
+        "words": [
+            {
+                "word": "ABRU",
+                "explanation": "is. [fars.] bax abır. [mirzə əsgər:]saqqal deyəndə kişinin ***sudur və üzününnurudur. n.vəzirov. yaman yoldaş səbəbinəinsan min bəlaya düçar olar",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "ARZU",
+                "explanation": "is. [fars.] 1. bir şeyin olmasını ürəkdən istəmə; istək",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "BAZU",
+                "explanation": "is. [fars.] qolun çiyindən dirsəyəqədər olan hissəsi; qol. ol gümüş biləklər",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "BURU",
+                "explanation": "is. sancı",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "DUDA",
+                "explanation": "is. [fars.] neft",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 5
+            },
+            {
+                "word": "DURU",
+                "explanation": "sif. 1. maye halında olan",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 6
+            },
+            {
+                "word": "RUBA",
+                "explanation": "is. bir pud ağırlığında olan köhnəçəki ölçüsü. [xeyransanın] hacı manafdanaldığı isə yalnız bir *** taxıl olmuşdu",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 7
+            },
+            {
+                "word": "URLU",
+                "explanation": "sif. uru olan",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 8
+            },
+            {
+                "word": "BLUZA",
+                "explanation": "[fr.] kəmərsiz geniş köynək şəklindəkişi iş paltarı",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 9
+            },
+            {
+                "word": "BUDAL",
+                "explanation": "sif. məh. qoçaq",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 10
+            },
+            {
+                "word": "BULUD",
+                "explanation": "is. 1. səmada toplanan su buxarıyığını. ağ ***lar. qara ***lar. – günçıxır",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 11
+            },
+            {
+                "word": "BURAZ",
+                "explanation": "is. çox yoğun ip. ***la bağlamaq.gəmi ***ı",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 12
+            },
+            {
+                "word": "BUZLU",
+                "explanation": "sif. 1. üstü donmuş",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 13
+            },
+            {
+                "word": "DUZLU",
+                "explanation": "sif. 1. tərkibində duz olan; şor. *** göl. *** su. xəzər dənizinin ətrafında *** göllər çoxdur",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 14
+            },
+            {
+                "word": "ULDUZ",
+                "explanation": "is. 1. öz təbiəti etibarilə günəşəbənzəyən və gecələr göydə parıldayaraqnöqtə kimi görünən göy cismi",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 15
+            },
+            {
+                "word": "ZUBUL",
+                "explanation": "is. odun doğramaqda",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 16
+            },
+            {
+                "word": "ARZULU",
+                "explanation": "sif. 1. istənilən",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 17
+            },
+            {
+                "word": "BUDALA",
+                "explanation": "sif. məh. dəlixasiyyət",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 18
+            },
+            {
+                "word": "BURADA",
+                "explanation": "zərf (bəzən əvəz. mənasındaişlənir). bu yerdə. *** heç kəs yoxdur.getmə",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 19
+            },
+            {
+                "word": "BURULU",
+                "explanation": "sif. buruq",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 20
+            },
+            {
+                "word": "DADDUZ",
+                "explanation": "is. bax dad1 1-ci mənada. buxörəyin dadı-duzu yoxdur. dadına-duzunabaxmaq. – nanə xala yeyir",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 21
+            },
+            {
+                "word": "ALABULA",
+                "explanation": "sif. rəngbərəng xallardan",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 22
+            },
+            {
+                "word": "BULUDLU",
+                "explanation": "sif. 1. buludla örtülmüş",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 23
+            },
+            {
+                "word": "ULDUZLU",
+                "explanation": "sif. ulduzlarla örtülü",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 24
+            },
+            {
+                "word": "BAZBURUD",
+                "explanation": "is. [əsli fars. bad burut] dan.görkəm",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 25
+            },
+            {
+                "word": "BAZBURUDLU",
+                "explanation": "sif. dan. boylu-buxunlu",
+                "isPanagram": true,
+                "score": 17,
+                "length": 10,
+                "id": 26
+            }
+        ]
+    }
+}

@@ -1,0 +1,164 @@
+{
+    "gameData": {
+        "day": "20230513",
+        "expiration": "1684015140",
+        "centerLetter": "C",
+        "outerLetters": [
+            "R",
+            "T",
+            "H",
+            "Ə",
+            "G",
+            "İ"
+        ],
+        "words_info": {
+            "word_count": 17,
+            "sum_score": 75,
+            "panagram_count": 1,
+            "word_length": {
+                "5": 5,
+                "4": 7,
+                "8": 2,
+                "6": 3
+            }
+        },
+        "words": [
+            {
+                "word": "CİCİ",
+                "explanation": "is. bəzi yerlərdə nəvazişlə anayadeyilir. …bunlar məgər təzə sözdür? bunu***m də bilir. “mol. nəsr",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "CİRƏ",
+                "explanation": "is. bot. xırda ağ çiçəkləri olan birillikbitki (toxumlarından ədviyyə kimi istifadəedilir)",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "ƏCƏR",
+                "explanation": "is. təzəlik",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "ƏTCƏ",
+                "explanation": "is. 1. çılpaq uşaq bədəni.2. bax ***bala. yuvada yumurtadan yenicəçıxmış *** kəklik balaları vardı",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "ƏTƏC",
+                "explanation": "is. məh. yun təmizləyən alət",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 5
+            },
+            {
+                "word": "HƏCC",
+                "explanation": "is. [ər.] müsəlmanlarda: zilhiccəayında məkkədə ziyarət mərasimini yerinəyetirmə. bəhs ilə ***ə gedən yorulub yoldaqalar",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 6
+            },
+            {
+                "word": "HİCR",
+                "explanation": "[ər.] klas. bax ***an. qəm əlindənsinə yırtdım",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 7
+            },
+            {
+                "word": "CƏHƏT",
+                "explanation": "is. [ər.] 1. tərəf",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 8
+            },
+            {
+                "word": "CƏHRƏ",
+                "explanation": "is. 1. yun əyirmək üçün əl iləişlədilən ən sadə alət. iydə varsa",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 9
+            },
+            {
+                "word": "ƏCƏRİ",
+                "explanation": "sif. təzə",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 10
+            },
+            {
+                "word": "HİCRİ",
+                "explanation": "is. [ər.] hicrətə aid",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 11
+            },
+            {
+                "word": "RİCƏT",
+                "explanation": "is. [ər.] 1. geriyə dönmə",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 12
+            },
+            {
+                "word": "HİCRƏT",
+                "explanation": "is. [ər.] 1. öz vətənini tərk edibbaşqa bir yerə getmə",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 13
+            },
+            {
+                "word": "TƏRCİH",
+                "explanation": "is. [ər.] : *** etmək – üstün tutmaq",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 14
+            },
+            {
+                "word": "TƏRƏCƏ",
+                "explanation": "is. üstünə barama qurdu buraxmaqvə ya üstündə pambıq",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 15
+            },
+            {
+                "word": "GƏTİRİCİ",
+                "explanation": "1. is. köhn. malını dükanda deyil",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 16
+            },
+            {
+                "word": "GİCTƏHƏR",
+                "explanation": "sif. bir az gic",
+                "isPanagram": true,
+                "score": 17,
+                "length": 8,
+                "id": 17
+            }
+        ]
+    }
+}

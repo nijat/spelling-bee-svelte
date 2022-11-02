@@ -1,0 +1,352 @@
+{
+    "gameData": {
+        "day": "20221103",
+        "expiration": "1667516340",
+        "centerLetter": "U",
+        "outerLetters": [
+            "Q",
+            "I",
+            "R",
+            "N",
+            "L",
+            "A"
+        ],
+        "words_info": {
+            "word_count": 40,
+            "sum_score": 227,
+            "panagram_count": 2,
+            "word_length": {
+                "6": 7,
+                "5": 10,
+                "8": 3,
+                "7": 7,
+                "9": 2,
+                "12": 1,
+                "10": 1,
+                "4": 9
+            }
+        },
+        "words": [
+            {
+                "word": "QULA",
+                "explanation": "is. məh. açıq-sarı rəngli at. ***madyan",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "QURU",
+                "explanation": "sif. 1. yaş olmayan",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "NUQA",
+                "explanation": "is. [fr.] şəkər və qozdan hazırlanmışşirniyyat növü; qənnadı məmulatı",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "ULAQ",
+                "explanation": "is. yük və ya minik heyvanı. ***larıo tərəfdəki otluğa buraxıb gələn yusifatasının yanında durdu. ə",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "ULAN",
+                "explanation": "is. [pol.",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 5
+            },
+            {
+                "word": "UNLU",
+                "explanation": "sif. üstünə un səpilmiş (tökülmüş);una batmış. üstü-başı bütöv ***dur",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 6
+            },
+            {
+                "word": "URLU",
+                "explanation": "sif. uru olan",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 7
+            },
+            {
+                "word": "URNA",
+                "explanation": "is. [lat.] 1. yandırılmış cənazəninkülünü saxlamaq üçün qab.2. seçki qutusu; səsvermə qutusu",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 8
+            },
+            {
+                "word": "URUQ",
+                "explanation": "is. ailə. uruğum olsun",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 9
+            },
+            {
+                "word": "QANUN",
+                "explanation": "is. [ər. əsli yun.] 1. ictimai vəhüquqi münasibətlərin hər hansı bir sahəsininizama salmaq üçün dövlət tərəfindənmüəyyən edilən qərar",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 10
+            },
+            {
+                "word": "QARUN",
+                "explanation": "is. [xüs. is.-dən] çox dövlətli",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 11
+            },
+            {
+                "word": "QUQQU",
+                "explanation": "is. zool. adətən özünə yuva tikməyib",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 12
+            },
+            {
+                "word": "QULAQ",
+                "explanation": "is. 1. insan və heyvanlarda eşitməorqanı. qulağı ağrımaq. *** həkimi.– nəvəsi onun … burnundan",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 13
+            },
+            {
+                "word": "QULUN",
+                "explanation": "is. körpə at balası. …göydə birmadyan gördüm; yerdə *** əmər hey.(bayatı). daylar tülədi",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 14
+            },
+            {
+                "word": "QURAQ",
+                "explanation": "sif. və zərf yağmursuz",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 15
+            },
+            {
+                "word": "QURAN",
+                "explanation": "is. müsəlmanların müqəddəsdini kitabı. nə bilir oxumayan müshəfi-hüsnünşərhin; yerə gögdən nə üçün endigini***ın",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 16
+            },
+            {
+                "word": "QURNA",
+                "explanation": "is. 1. çeşmə",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 17
+            },
+            {
+                "word": "NURLU",
+                "explanation": "sif. işıqlı",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 18
+            },
+            {
+                "word": "UNLUQ",
+                "explanation": "is. dəyirmanın un tökülən çuxuryeri. qarı unluğun dibini",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 19
+            },
+            {
+                "word": "ALANQU",
+                "explanation": "is. məh. balaca alovlu ocaq",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 20
+            },
+            {
+                "word": "QRANUL",
+                "explanation": "is. [lat.] dənəvərləşdirilmiş qatışıqyem",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 21
+            },
+            {
+                "word": "QUQULU",
+                "explanation": "is. məh. 1. bütöv çıxarılmış qoz içi",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 22
+            },
+            {
+                "word": "QULLUQ",
+                "explanation": "is. 1. xidmət",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 23
+            },
+            {
+                "word": "QURQUR",
+                "explanation": "is. dan. içinə giləli meyvəyığmaq üçün ağac qabığından qayrılanboruşəkilli qab. uşaqlar qur-qurda çiyələkgətirmişdilər",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 24
+            },
+            {
+                "word": "QURULU",
+                "explanation": "sif. qurulmuş",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 25
+            },
+            {
+                "word": "ULULUQ",
+                "explanation": "is. böyüklük",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 26
+            },
+            {
+                "word": "QARAQUL",
+                "explanation": "is. keçmiş zamanlarda qarairqə mənsub olan hər bir adama",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 27
+            },
+            {
+                "word": "QARANQU",
+                "explanation": "is. və sif. “qaranlıq” sözününqədimi forması. saçın ***sundan yüzünnuri göründü; hər qanda şam olursa",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 28
+            },
+            {
+                "word": "QUQQULU",
+                "explanation": "is. məh. 1. bütöv çıxarılmış qoz içi",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 29
+            },
+            {
+                "word": "QULAQLI",
+                "explanation": "sif. 1. qulaqları olan (bax qulaq2-ci mənada). sifətini *** papaq altındagizlətmiş dəmiryolçu qarşımdan ötürdü",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 30
+            },
+            {
+                "word": "QULUNLU",
+                "explanation": "sif. yanında balası olan",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 31
+            },
+            {
+                "word": "QURAQLI",
+                "explanation": "sif. qurağı olan (bax quraq2)",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 32
+            },
+            {
+                "word": "QURULUQ",
+                "explanation": "is. 1. quru",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 33
+            },
+            {
+                "word": "QARAQURA",
+                "explanation": "is. 1. qarabasma. [əhməd:]ay oğlum",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 34
+            },
+            {
+                "word": "QULAQLIQ",
+                "explanation": "is. 1. isti papağın qulağı örtənhissəsi",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 35
+            },
+            {
+                "word": "QURAQLIQ",
+                "explanation": "is. havaların isti keçməsi iləbərabər",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 36
+            },
+            {
+                "word": "QARAQULAQ",
+                "explanation": "is. zool. tülküyə bənzəryırtıcı heyvan",
+                "isPanagram": false,
+                "score": 9,
+                "length": 9,
+                "id": 37
+            },
+            {
+                "word": "QIRIQQURAQ",
+                "explanation": "sif. qırıq parçalardanibarət olan",
+                "isPanagram": false,
+                "score": 10,
+                "length": 10,
+                "id": 38
+            },
+            {
+                "word": "QARINQULU",
+                "explanation": "sif. və is. qarnına qul olan",
+                "isPanagram": true,
+                "score": 17,
+                "length": 9,
+                "id": 39
+            },
+            {
+                "word": "QARINQULULUQ",
+                "explanation": "is. qarınqulu",
+                "isPanagram": true,
+                "score": 17,
+                "length": 12,
+                "id": 40
+            }
+        ]
+    }
+}

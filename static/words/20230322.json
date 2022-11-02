@@ -1,0 +1,415 @@
+{
+    "gameData": {
+        "day": "20230322",
+        "expiration": "1679525940",
+        "centerLetter": "H",
+        "outerLetters": [
+            "L",
+            "M",
+            "A",
+            "İ",
+            "Ə",
+            "T"
+        ],
+        "words_info": {
+            "word_count": 48,
+            "sum_score": 244,
+            "panagram_count": 1,
+            "word_length": {
+                "5": 22,
+                "7": 7,
+                "4": 10,
+                "6": 5,
+                "10": 2,
+                "8": 1,
+                "9": 1
+            }
+        },
+        "words": [
+            {
+                "word": "ƏHLİ",
+                "explanation": "sif. [ər.] 1. ***ləşdirilmiş",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "HAİL",
+                "explanation": "is. [ər.] köhn. 1. dəyişmiş",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "HALA",
+                "explanation": "zərf [ər.] klas. indi",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "HALƏ",
+                "explanation": "is. [ər.] ayın və bəzi iri ulduzlarınətrafında bəzən görünən işıq dairəsi. fikrini",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "HALİ",
+                "explanation": "is. [ər.] bir hadisə",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 5
+            },
+            {
+                "word": "HAMİ",
+                "explanation": "is. [ər.] 1. birini himayə edən",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 6
+            },
+            {
+                "word": "HAMM",
+                "explanation": "is. hürərkən itin çıxardığı səs",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 7
+            },
+            {
+                "word": "HƏLL",
+                "explanation": "[ər.] 1. is. xüs. bir cismin və yamayenin suda və ya başqa maye içərisindəöz tərkibini pozub onunla qarışması",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 8
+            },
+            {
+                "word": "HƏML",
+                "explanation": "is. [ər.] klas. yük",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 9
+            },
+            {
+                "word": "TƏHT",
+                "explanation": "is. [ər.] adətən ***ində şəklində– altında",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 10
+            },
+            {
+                "word": "ALLAH",
+                "explanation": "is. [ər.] 1. bütün kainatın yeganə yaradıcısı və idarə edəni; yaradan",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 11
+            },
+            {
+                "word": "ƏHALİ",
+                "explanation": "is. [ər. “əhl” söz. cəmi] 1. bir yerdəyaşamaqda olan adamlar; camaat. şəhər***si. kənd ***si. rayonun ***si",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 12
+            },
+            {
+                "word": "ƏHATƏ",
+                "explanation": "is. [ər.] ətrafını tutma",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 13
+            },
+            {
+                "word": "ƏLHAL",
+                "explanation": "zərf [ər.] klas. indi",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 14
+            },
+            {
+                "word": "HALAL",
+                "explanation": "sif. [ər.] 1. islam dininin ehkamlarınagörə yeyilməsinə",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 15
+            },
+            {
+                "word": "HALƏT",
+                "explanation": "is. [ər.] klas. hal",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 16
+            },
+            {
+                "word": "HAMAM",
+                "explanation": "is. [ər.] çimmək üçün isti və soyuqsuyu olan xüsusi bina. şəhər ***ları.məhəllə ***ı. – [məşədi qəzənfər:] dahakim deyə bilər ki",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 17
+            },
+            {
+                "word": "HAMİL",
+                "explanation": "sif. [ər.] köhn. 1. yüklü",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 18
+            },
+            {
+                "word": "HATƏM",
+                "explanation": "is. [şərq əsatirində çox varlı",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 19
+            },
+            {
+                "word": "HƏLİM",
+                "explanation": "is. [ər.] içərisində düyü və s.qaynadılması nəticəsində hasil olan qəlizsu. süzülmüş düyünün üstünə ilıq su gəzdirməkləonu yuyurlar ki",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 20
+            },
+            {
+                "word": "HƏMƏL",
+                "explanation": "is. [ər.] ərəb astronomiyasındaqoç bürcünün adı. günəş *** bürcünəyaxınlaşdığı dəqiqədə sultan toğrulun qapısındavurulan kərənayxana novruz bayra",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 21
+            },
+            {
+                "word": "HƏMLƏ",
+                "explanation": "is. [ər.] hücum",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 22
+            },
+            {
+                "word": "HƏMTA",
+                "explanation": "is. [fars.] həmyaş",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 23
+            },
+            {
+                "word": "HƏTTA",
+                "explanation": "bağl. [ər.] cümlədə aid olduğusözü və ya söz birləşməsini ayırmaq vəgücləndirmək üçün işlədilir – üstəlik",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 24
+            },
+            {
+                "word": "HİLAL",
+                "explanation": "is. [ər.] 1. təzə çıxmış bir-ikigünlük ay; aypara. hər gecə fəğanım yetişirgöydə ***ə. s.ə.şirvani",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 25
+            },
+            {
+                "word": "HİLLİ",
+                "explanation": "sif. tərkibində hil olan",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 26
+            },
+            {
+                "word": "MAHAL",
+                "explanation": "is. [ər. məhəll] tar. dövlət ərazisininmüəyyən idarəçilik sahəsi (inzibatisiyasi",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 27
+            },
+            {
+                "word": "MATAH",
+                "explanation": "is. [ər. “mətə” sözünün canlı dildəişlənən forması] qiymətli",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 28
+            },
+            {
+                "word": "MƏHAL",
+                "explanation": "[ər.] klas. bax mahal2. qərəzfüzuliyə ancaq əlində ölməkdir; bəli",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 29
+            },
+            {
+                "word": "MƏHƏL",
+                "explanation": "is. [ər.] yer. necə surət bağlasınkönlüm xilasi-eşqdən; eşqdir bir hal kim",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 30
+            },
+            {
+                "word": "MƏLİH",
+                "explanation": "sif. [ər.] məlahətli",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 31
+            },
+            {
+                "word": "TAMAH",
+                "explanation": "is. [ər. təmə] bir şeyi əldə etməyə göstərilən hədsiz arzu; hərislik",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 32
+            },
+            {
+                "word": "HAMİLƏ",
+                "explanation": "sif. və is. [ər.] ***lik vəziyyətindəolan; ikicanlı",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 33
+            },
+            {
+                "word": "HƏMAİL",
+                "explanation": "is. [ər.] 1. qılınc",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 34
+            },
+            {
+                "word": "HİLALİ",
+                "explanation": "sif. hilal şəklində",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 35
+            },
+            {
+                "word": "MƏLHƏM",
+                "explanation": "is. [ər. mərhəm] 1. yaraya vəya ağrıyan yerlərə sürtülən yağlı dərman.yaraya *** yaxmaq. – hələ qədim misirdə***lər",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 36
+            },
+            {
+                "word": "TƏHLİL",
+                "explanation": "is. [ər.] 1. tamı",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 37
+            },
+            {
+                "word": "ƏHATƏLİ",
+                "explanation": "sif. geniş",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 38
+            },
+            {
+                "word": "HƏLHƏLƏ",
+                "explanation": "is. [ər.] hay-küy",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 39
+            },
+            {
+                "word": "HƏMHƏMƏ",
+                "explanation": "is. pıçıltı",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 40
+            },
+            {
+                "word": "MAHATMA",
+                "explanation": "is. [sanskr.] 1. hind mifologiyasındadünya ruhu",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 41
+            },
+            {
+                "word": "MƏHƏLLƏ",
+                "explanation": "is. [ər.] 1. bir şəhər və ya qəsəbənin bölündüyü hissələrdən hər biri. hər ***dən iki-üç nəfər adam uşaqları ilə bir yerdə arabaya",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 42
+            },
+            {
+                "word": "MƏHƏLLİ",
+                "explanation": "sif. yalnız bir məhəllə",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 43
+            },
+            {
+                "word": "MƏLAHƏT",
+                "explanation": "is. [ər.] gözəllik",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 44
+            },
+            {
+                "word": "LAMƏHALƏ",
+                "explanation": "zərf [ər.] dan. heç olmazsa",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 45
+            },
+            {
+                "word": "HƏLƏMHƏLƏM",
+                "explanation": "dan. sif. hər hansı",
+                "isPanagram": false,
+                "score": 10,
+                "length": 10,
+                "id": 46
+            },
+            {
+                "word": "HƏMMƏHƏLLƏ",
+                "explanation": "sif. və is. [fars. həm vəər. məhəllə] eyni məhəllədə doğulmuş",
+                "isPanagram": false,
+                "score": 10,
+                "length": 10,
+                "id": 47
+            },
+            {
+                "word": "MƏLAHƏTLİ",
+                "explanation": "sif. gözəl",
+                "isPanagram": true,
+                "score": 17,
+                "length": 9,
+                "id": 48
+            }
+        ]
+    }
+}

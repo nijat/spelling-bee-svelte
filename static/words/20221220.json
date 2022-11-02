@@ -1,0 +1,164 @@
+{
+    "gameData": {
+        "day": "20221220",
+        "expiration": "1671577140",
+        "centerLetter": "Y",
+        "outerLetters": [
+            "Ə",
+            "H",
+            "L",
+            "Ç",
+            "A",
+            "İ"
+        ],
+        "words_info": {
+            "word_count": 17,
+            "sum_score": 82,
+            "panagram_count": 1,
+            "word_length": {
+                "6": 5,
+                "4": 5,
+                "5": 6,
+                "8": 1
+            }
+        },
+        "words": [
+            {
+                "word": "ALAY",
+                "explanation": "is. 1. camaat",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "ƏHYA",
+                "explanation": "is. [ər.] klas. 1. diriltmə",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "ƏYAL",
+                "explanation": "is. [ər.] köhn. 1. ailə",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "HƏYA",
+                "explanation": "is. [ər.] 1. abır",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "YİYƏ",
+                "explanation": "is. hər hansı bir şey üzərində mülkiyyəthüququ olan adam; sahib. oğul",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 5
+            },
+            {
+                "word": "ALİYƏ",
+                "explanation": "sif. [ər.] klas. uca",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 6
+            },
+            {
+                "word": "ƏLHAY",
+                "explanation": "is. hay-küy",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 7
+            },
+            {
+                "word": "HALAY",
+                "explanation": "is. dairə",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 8
+            },
+            {
+                "word": "HİYLƏ",
+                "explanation": "is. [ər.] kələk",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 9
+            },
+            {
+                "word": "LAYLA",
+                "explanation": "is. 1. körpə uşaqları yatırtmaq üçün hava ilə oxunan həzin şeir parçası; nənni",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 10
+            },
+            {
+                "word": "YAYLA",
+                "explanation": "is. 1. ***q. [molla həmid:]allaha şükür",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 11
+            },
+            {
+                "word": "ALAÇİY",
+                "explanation": "sif. yarımçıq bişmiş",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 12
+            },
+            {
+                "word": "HAYHAY",
+                "explanation": "is. 1. dan. tab",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 13
+            },
+            {
+                "word": "LAYİHƏ",
+                "explanation": "is. [ər.] 1. tikiləcək",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 14
+            },
+            {
+                "word": "LAYLAY",
+                "explanation": "is. 1. körpə uşaqları yatırtmaq üçün hava ilə oxunan həzin şeir parçası; nənni",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 15
+            },
+            {
+                "word": "YİYƏLİ",
+                "explanation": "sif. yiyəsi",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 16
+            },
+            {
+                "word": "LAYİHƏÇİ",
+                "explanation": "is. layihələşdirmə mütəxəssisi",
+                "isPanagram": true,
+                "score": 17,
+                "length": 8,
+                "id": 17
+            }
+        ]
+    }
+}

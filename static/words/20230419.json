@@ -1,0 +1,181 @@
+{
+    "gameData": {
+        "day": "20230419",
+        "expiration": "1681941540",
+        "centerLetter": "T",
+        "outerLetters": [
+            "Ə",
+            "F",
+            "M",
+            "Z",
+            "H",
+            "İ"
+        ],
+        "words_info": {
+            "word_count": 19,
+            "sum_score": 88,
+            "panagram_count": 1,
+            "word_length": {
+                "5": 6,
+                "6": 3,
+                "4": 7,
+                "8": 2,
+                "7": 1
+            }
+        },
+        "words": [
+            {
+                "word": "FƏTH",
+                "explanation": "is. [ər.] 1. bir şəhər və ya ölkənisilah gücü ilə zəbt etmə",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "FİTƏ",
+                "explanation": "is. [ər.] hamamda çimərkən və yabir iş görərkən belə bağlanılan qumaş parça(əsasən qırmızı rəngdə olur)",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "MƏTƏ",
+                "explanation": "is. yerdə oyun üçün çəkilən dairə(əsasən uşaq oyunlarında). ***dən çıxmaq",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "TƏHT",
+                "explanation": "is. [ər.] adətən ***ində şəklində– altında",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "TƏZƏ",
+                "explanation": "sif. [fars.] yeni. aptekdən *** dərmangətirmişdilər. c.məmmədquluzadə. [gülyaz:]kəndimizə xəbər yayılıb ki",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 5
+            },
+            {
+                "word": "TİTƏ",
+                "explanation": "is. bəzi adamların göz bəbəyindəolan ağ ləkə",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 6
+            },
+            {
+                "word": "ZİFT",
+                "explanation": "is. [ər.] 1. şam ağacından",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 7
+            },
+            {
+                "word": "ƏMTƏƏ",
+                "explanation": "is. [ər. “məta” söz. cəmi] iqt. kit. mübadilə üçün istehsal edilən əmək məhsulları; mal. *** insanın hər hansı bir ehtiyacını təmin edən",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 8
+            },
+            {
+                "word": "FƏTHƏ",
+                "explanation": "[ər.] bax zəbər",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 9
+            },
+            {
+                "word": "HƏFTƏ",
+                "explanation": "is. [fars.] şənbədən bazar gününəqədər yeddi günə bərabər vaxt ölçüsüvahidi. ***nin birinci günü",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 10
+            },
+            {
+                "word": "TƏMİM",
+                "explanation": "is. [ər.] 1. ümumiləşdirmə.2. yayma",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 11
+            },
+            {
+                "word": "TƏMİZ",
+                "explanation": "sif. və zərf 1. çirk olmayan",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 12
+            },
+            {
+                "word": "TƏZİM",
+                "explanation": "is. [ər.] baş əyərək salam vermə; baş endirmə. □ *** etmək – 1) baş əyərək salam vermək",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 13
+            },
+            {
+                "word": "ƏZƏMƏT",
+                "explanation": "is. [ər.] 1. böyüklük",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 14
+            },
+            {
+                "word": "ƏZİMƏT",
+                "explanation": "is. [ər.] bir yerə doğru hərəkət",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 15
+            },
+            {
+                "word": "ZƏHMƏT",
+                "explanation": "is. [ər.] 1. əmək. ***in barı.öz ***inin bəhəri. – əgər ki yayda ***iəkinçinin ziyad olur; ziyad olursa",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 16
+            },
+            {
+                "word": "MƏTƏMƏTƏ",
+                "explanation": "is. mətə içərisində oynanılanuşaq oyunu",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 17
+            },
+            {
+                "word": "MƏZƏMMƏT",
+                "explanation": "is. [ər.] danlama",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 18
+            },
+            {
+                "word": "TİZFƏHM",
+                "explanation": "sif. [fars. tiz və ər. fəhm] tezbaşa düşən",
+                "isPanagram": true,
+                "score": 17,
+                "length": 7,
+                "id": 19
+            }
+        ]
+    }
+}

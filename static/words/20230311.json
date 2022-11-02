@@ -1,0 +1,303 @@
+{
+    "gameData": {
+        "day": "20230311",
+        "expiration": "1678575540",
+        "centerLetter": "X",
+        "outerLetters": [
+            "N",
+            "L",
+            "A",
+            "I",
+            "C",
+            "Q"
+        ],
+        "words_info": {
+            "word_count": 34,
+            "sum_score": 194,
+            "panagram_count": 2,
+            "word_length": {
+                "4": 8,
+                "5": 7,
+                "8": 5,
+                "6": 9,
+                "7": 2,
+                "9": 2,
+                "10": 1
+            }
+        },
+        "words": [
+            {
+                "word": "AXAN",
+                "explanation": "f.sif. 1. bax axar 1-ci mənada. [salam] lal *** kəhriz suyundan ovuc dolusu içdi. mir cəlal. 2. məc",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "AXIN",
+                "explanation": "is. 1. sürətlə axan su; sel; iti cərəyan",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "XALA",
+                "explanation": "is. 1. ananın bacısı. [sultan bəy:]***nın muzdu o olar ki",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "XALI",
+                "explanation": "is. böyük xalça. azərbaycan ***ları.iran ***sı. – [hacı qambay] divardakı***lara",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "XALQ",
+                "explanation": "is. 1. ölkənin",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 5
+            },
+            {
+                "word": "XANA",
+                "explanation": "is. 1. xırda dördbucaqlara bölünmüş bir şeyin qisimlərindən hər biri; dama",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 6
+            },
+            {
+                "word": "XANI",
+                "explanation": "is. zool. şirin sularda yaşayan qara zolaqlı",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 7
+            },
+            {
+                "word": "XINA",
+                "explanation": "is. saçı (keçmişdə",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 8
+            },
+            {
+                "word": "AXICI",
+                "explanation": "sif. 1. axmağa qabil olan; duru.*** cisimlər.2. məc. səlis",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 9
+            },
+            {
+                "word": "CILXA",
+                "explanation": "sif. xalis",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 10
+            },
+            {
+                "word": "XAQAN",
+                "explanation": "is. tar. qədim türk və monqolhökmdarlarına verilən ad",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 11
+            },
+            {
+                "word": "XALLI",
+                "explanation": "sif. 1. üzündə xalı olan. iki övladanası",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 12
+            },
+            {
+                "word": "XILXA",
+                "explanation": "sif. və is. geyməyə və ya işlətməyəyaramayan; gərəksiz",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 13
+            },
+            {
+                "word": "QAXAC",
+                "explanation": "is. 1. günəşdə və ya başqa üsulilə qurudulmuş ət. □ *** etmək – günəşdəvə ya başqa üsul ilə qurutmaq (əti)",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 14
+            },
+            {
+                "word": "NANIX",
+                "explanation": "sif. məh. bacarıqsız",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 15
+            },
+            {
+                "word": "XALXAL",
+                "explanation": "is. heyvanlara məxsus binalardaayrıca bölmə. ***ı təmiz saxlamalı.– [zərnigar xanım] əlində çatı",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 16
+            },
+            {
+                "word": "XANALI",
+                "explanation": "sif. xanası olan",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 17
+            },
+            {
+                "word": "XANLIQ",
+                "explanation": "is. 1. hakimlik. *** sürmək.*** eləmək. – bilmirəm neyləyir ol xanlığıya dünyanı; hər kimin dövləti vardır",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 18
+            },
+            {
+                "word": "XILXIN",
+                "explanation": "sif. sınıq",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 19
+            },
+            {
+                "word": "XINALI",
+                "explanation": "sif. 1. xına çəkilmiş",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 20
+            },
+            {
+                "word": "QAXINC",
+                "explanation": "is. edilən yaxşılığı adamın üzünəvurma",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 21
+            },
+            {
+                "word": "QALXAN",
+                "explanation": "is. köhn. qədim müharibələrdəqılınc və s. zərbəsindən qorunmaq üçün əldətutulan dairə və ya düzbucaq şəkilli sipər(ağacdan",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 22
+            },
+            {
+                "word": "QALXIQ",
+                "explanation": "sif. qalxmış halda olan",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 23
+            },
+            {
+                "word": "LAXLIQ",
+                "explanation": "is. 1. lax şeyin halı.2. məc. boşluq",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 24
+            },
+            {
+                "word": "XALACAN",
+                "explanation": "is. xalaya nəvazişlə müraciət.***",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 25
+            },
+            {
+                "word": "XALLICA",
+                "explanation": "sif. oxş. incə xalları olan",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 26
+            },
+            {
+                "word": "XAQANLIQ",
+                "explanation": "is. 1. hökmdarlıq",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 27
+            },
+            {
+                "word": "XALAXALA",
+                "explanation": "is. kiçik qızların gəlincikləoynadıqları oyun adı; gəlin-gəlin",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 28
+            },
+            {
+                "word": "XALLILIQ",
+                "explanation": "is. üzündə çoxlu xal olma",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 29
+            },
+            {
+                "word": "XANAXANA",
+                "explanation": "sif. 1. xanalardan ibarət",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 30
+            },
+            {
+                "word": "QALXANLI",
+                "explanation": "sif. qalxanla silahlanmış",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 31
+            },
+            {
+                "word": "XINCAXINC",
+                "explanation": "sif. ağzınacan. ***dolu çamadan",
+                "isPanagram": false,
+                "score": 9,
+                "length": 9,
+                "id": 32
+            },
+            {
+                "word": "QALXANCIQ",
+                "explanation": "is. zool. qın",
+                "isPanagram": true,
+                "score": 17,
+                "length": 9,
+                "id": 33
+            },
+            {
+                "word": "QALXANLICA",
+                "explanation": "is. məh. quru yamaclardabitən bir bitki",
+                "isPanagram": true,
+                "score": 17,
+                "length": 10,
+                "id": 34
+            }
+        ]
+    }
+}

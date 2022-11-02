@@ -1,0 +1,285 @@
+{
+    "gameData": {
+        "day": "20230109",
+        "expiration": "1673305140",
+        "centerLetter": "T",
+        "outerLetters": [
+            "X",
+            "V",
+            "H",
+            "Ə",
+            "M",
+            "A"
+        ],
+        "words_info": {
+            "word_count": 32,
+            "sum_score": 119,
+            "panagram_count": 1,
+            "word_length": {
+                "4": 15,
+                "5": 12,
+                "6": 2,
+                "7": 2,
+                "8": 1
+            }
+        },
+        "words": [
+            {
+                "word": "AXTA",
+                "explanation": "1. sif. erkəkliyi alınmış canlı. *** öküz. *** qoç. *** xoruz. □ *** eləmək – bax ***lamaq. 2. sif",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "ATAT",
+                "explanation": "is. uşaqların ağac üstə minərəkoynadıqları oyun. at-at oynamaq",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "ATMA",
+                "explanation": "“***q”dan f.is. və s. *** nizə.ən qədim insanların ilk *** silahı daş",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "XATA",
+                "explanation": "is. [ər.] 1. bax xəta. // qəbahət",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "XƏTA",
+                "explanation": "is. [ər.] səhv",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 5
+            },
+            {
+                "word": "XƏTM",
+                "explanation": "is. [ər.] 1. bitirmə",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 6
+            },
+            {
+                "word": "XƏTT",
+                "explanation": "is. 1. yazarkən hərfləri təsvir etmətərzi",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 7
+            },
+            {
+                "word": "MƏTA",
+                "explanation": "is. [ər.] 1. satılan mal",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 8
+            },
+            {
+                "word": "MƏTƏ",
+                "explanation": "is. yerdə oyun üçün çəkilən dairə(əsasən uşaq oyunlarında). ***dən çıxmaq",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 9
+            },
+            {
+                "word": "TAAM",
+                "explanation": "is. [ər.] 1. xörək",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 10
+            },
+            {
+                "word": "TAXT",
+                "explanation": "is. [fars.] 1. söykənəcəyi olmayan enli divan. mayaya elə gəldi ki",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 11
+            },
+            {
+                "word": "TAVA",
+                "explanation": "is. içində ət və s. qızartmaq üçünkənarları yastı",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 12
+            },
+            {
+                "word": "TƏAM",
+                "explanation": "is. bax taam",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 13
+            },
+            {
+                "word": "TƏHT",
+                "explanation": "is. [ər.] adətən ***ində şəklində– altında",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 14
+            },
+            {
+                "word": "VAXT",
+                "explanation": "is. [ər. vəqt] 1. cərəyan edən birişin",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 15
+            },
+            {
+                "word": "ƏHATƏ",
+                "explanation": "is. [ər.] ətrafını tutma",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 16
+            },
+            {
+                "word": "ƏMTƏƏ",
+                "explanation": "is. [ər. “məta” söz. cəmi] iqt. kit. mübadilə üçün istehsal edilən əmək məhsulları; mal. *** insanın hər hansı bir ehtiyacını təmin edən",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 17
+            },
+            {
+                "word": "HATƏM",
+                "explanation": "is. [şərq əsatirində çox varlı",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 18
+            },
+            {
+                "word": "HƏMTA",
+                "explanation": "is. [fars.] həmyaş",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 19
+            },
+            {
+                "word": "HƏTTA",
+                "explanation": "bağl. [ər.] cümlədə aid olduğusözü və ya söz birləşməsini ayırmaq vəgücləndirmək üçün işlədilir – üstəlik",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 20
+            },
+            {
+                "word": "XATƏM",
+                "explanation": "is. [ər.] klas. 1. üzük. barmağında***",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 21
+            },
+            {
+                "word": "MATAH",
+                "explanation": "is. [ər. “mətə” sözünün canlı dildəişlənən forması] qiymətli",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 22
+            },
+            {
+                "word": "MATƏM",
+                "explanation": "is. [ər.] yas",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 23
+            },
+            {
+                "word": "MƏMAT",
+                "explanation": "is. [ər.] ölüm",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 24
+            },
+            {
+                "word": "TAXTA",
+                "explanation": "is. [fars.] 1. şalbandan mişarlakəsilmiş çox qalın olmayan yastı ağac parçası.ağacdan *** kəsmək",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 25
+            },
+            {
+                "word": "TAMAH",
+                "explanation": "is. [ər. təmə] bir şeyi əldə etməyə göstərilən hədsiz arzu; hərislik",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 26
+            },
+            {
+                "word": "TAMAM",
+                "explanation": "is. [ər.] 1. bitmə",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 27
+            },
+            {
+                "word": "HAVAXT",
+                "explanation": "əvəz. haçan",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 28
+            },
+            {
+                "word": "XƏTTAT",
+                "explanation": "is. [ər.] gözəl xətti olan adam",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 29
+            },
+            {
+                "word": "MAHATMA",
+                "explanation": "is. [sanskr.] 1. hind mifologiyasındadünya ruhu",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 30
+            },
+            {
+                "word": "MƏTƏMƏTƏ",
+                "explanation": "is. mətə içərisində oynanılanuşaq oyunu",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 31
+            },
+            {
+                "word": "HƏMVAXT",
+                "explanation": "sif. [fars. həm və ər. vəqt]bir vaxtda olan",
+                "isPanagram": true,
+                "score": 17,
+                "length": 7,
+                "id": 32
+            }
+        ]
+    }
+}

@@ -1,0 +1,352 @@
+{
+    "gameData": {
+        "day": "20221216",
+        "expiration": "1671231540",
+        "centerLetter": "N",
+        "outerLetters": [
+            "Ə",
+            "D",
+            "L",
+            "G",
+            "Ö",
+            "İ"
+        ],
+        "words_info": {
+            "word_count": 40,
+            "sum_score": 201,
+            "panagram_count": 1,
+            "word_length": {
+                "7": 4,
+                "9": 2,
+                "4": 12,
+                "8": 2,
+                "6": 5,
+                "12": 1,
+                "5": 13,
+                "10": 1
+            }
+        },
+        "words": [
+            {
+                "word": "DƏNƏ",
+                "explanation": "is. [fars.] 1. eyni cinsdən olan şeylərin hər biri",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "DƏNG",
+                "explanation": "is. 1. məh. bərabər",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "DƏNİ",
+                "explanation": "sif. [ər.] alçaq",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "DİNG",
+                "explanation": "is. çəltiyi döyüb dənlərini qabığındançıxarmaq üçün qurğu. su ***i. ayaq***i. *** döymək. ***i işlətmək",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "DİNİ",
+                "explanation": "sif. [ər.] dinlə əlaqədar olan",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 5
+            },
+            {
+                "word": "DÖNƏ",
+                "explanation": "is. məh. dəfə",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 6
+            },
+            {
+                "word": "ƏNİN",
+                "explanation": "is. [ər.] şair. inləmə",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 7
+            },
+            {
+                "word": "GƏNƏ",
+                "explanation": "is. zool. xırda caynaqları ilə heyvanların",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 8
+            },
+            {
+                "word": "LƏİN",
+                "explanation": "sif. və is. [ər.] bax məlun. bu isə",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 9
+            },
+            {
+                "word": "LƏNG",
+                "explanation": "[fars.] sif. 1. ağır",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 10
+            },
+            {
+                "word": "LİNG",
+                "explanation": "is. ağır şeyləri qaldırmaq",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 11
+            },
+            {
+                "word": "NƏNƏ",
+                "explanation": "is. 1. atanın",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 12
+            },
+            {
+                "word": "DƏNLİ",
+                "explanation": "sif. k.t. dəni çox və yaxşı olan.*** sünbül. bu taxıllar çox ***dir.– …çöllər bərəkətli yaşıllıqla örtülürdü",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 13
+            },
+            {
+                "word": "DİNGƏ",
+                "explanation": "is. məh. 1. hündür yer.2. söhbət",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 14
+            },
+            {
+                "word": "DİNGİ",
+                "explanation": "is. bot. şitil",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 15
+            },
+            {
+                "word": "DÖNGƏ",
+                "explanation": "is. küçənin",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 16
+            },
+            {
+                "word": "ƏNƏNƏ",
+                "explanation": "is. [ər.] tarixən meydana gələrəknəsildən-nəslə keçən adətlər",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 17
+            },
+            {
+                "word": "ƏNGƏL",
+                "explanation": "is. 1. bir şeyin başa yetməməsinə",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 18
+            },
+            {
+                "word": "ƏNGİN",
+                "explanation": "sif. şair. 1. geniş",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 19
+            },
+            {
+                "word": "GƏLƏN",
+                "explanation": "1. sif. bundan sonrakı",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 20
+            },
+            {
+                "word": "GƏLİN",
+                "explanation": "is. 1. toyu keçirilən",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 21
+            },
+            {
+                "word": "GÖDƏN",
+                "explanation": "is. dan. qarın. çaqqal var ki",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 22
+            },
+            {
+                "word": "NƏDƏN",
+                "explanation": "əvəz. nə üçün",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 23
+            },
+            {
+                "word": "NƏNNİ",
+                "explanation": "is. 1. körpə uşaqları yatırtmaq üçünasılan kiçik yatacaq. [qumru] uşağı ***yəsalıb küncə qısıldı",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 24
+            },
+            {
+                "word": "NİNNİ",
+                "explanation": "is. layla",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 25
+            },
+            {
+                "word": "DƏNƏLİ",
+                "explanation": "sif. 1. dənli",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 26
+            },
+            {
+                "word": "DƏNGİL",
+                "explanation": "sif. dan. xal-xal",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 27
+            },
+            {
+                "word": "DÖNGƏL",
+                "explanation": "is. məh. cır əzgil",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 28
+            },
+            {
+                "word": "ƏLƏNGƏ",
+                "explanation": "is. quru sümük. at-inəyin",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 29
+            },
+            {
+                "word": "GƏNƏLİ",
+                "explanation": "sif. gənəsi olan",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 30
+            },
+            {
+                "word": "DƏNDƏNƏ",
+                "explanation": "is. [fars.] 1. təkərin çevrəsinimərkəzə birləşdirən taxta. arabanın bir ***sisınmışdır. – [arabaçı:] …atlar arıq",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 31
+            },
+            {
+                "word": "DƏNGƏNƏ",
+                "explanation": "is. məh. kasaya oxşayan kiçiksaxsı qab. ***də qatıq çalmaq",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 32
+            },
+            {
+                "word": "ƏNGƏLLİ",
+                "explanation": "sif. əngəli olan",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 33
+            },
+            {
+                "word": "DƏNƏDƏNƏ",
+                "explanation": "sif. dənələr halında",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 34
+            },
+            {
+                "word": "ƏLƏGƏLƏN",
+                "explanation": "sif. əldə edilə bilən",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 35
+            },
+            {
+                "word": "DƏNDƏNƏLİ",
+                "explanation": "sif. dəndənəsi olan. o",
+                "isPanagram": false,
+                "score": 9,
+                "length": 9,
+                "id": 36
+            },
+            {
+                "word": "LİNGLİNGİ",
+                "explanation": "is. bir ayaq üstə atıla-atılaoynanılan uşaq oyunu",
+                "isPanagram": false,
+                "score": 9,
+                "length": 9,
+                "id": 37
+            },
+            {
+                "word": "GƏLİNGƏLİN",
+                "explanation": "is. qız uşaqlarının gəlincikləoynadıqları oyun (adətən “oynamaq” feliilə). tubu qonşu evində qonşu qızları ilə ***oynamaqla məşğuldur",
+                "isPanagram": false,
+                "score": 10,
+                "length": 10,
+                "id": 38
+            },
+            {
+                "word": "DƏNGİLDƏNGİL",
+                "explanation": "sif. dan. çoxlu xallarıolan",
+                "isPanagram": false,
+                "score": 12,
+                "length": 12,
+                "id": 39
+            },
+            {
+                "word": "DÖNGƏLİ",
+                "explanation": "sif. döngəsi",
+                "isPanagram": true,
+                "score": 17,
+                "length": 7,
+                "id": 40
+            }
+        ]
+    }
+}

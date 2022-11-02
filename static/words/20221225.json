@@ -1,0 +1,150 @@
+{
+    "gameData": {
+        "day": "20221225",
+        "expiration": "1672009140",
+        "centerLetter": "Y",
+        "outerLetters": [
+            "Q",
+            "M",
+            "Ə",
+            "T",
+            "Z",
+            "İ"
+        ],
+        "words_info": {
+            "word_count": 15,
+            "sum_score": 90,
+            "panagram_count": 1,
+            "word_length": {
+                "4": 4,
+                "9": 1,
+                "7": 3,
+                "8": 3,
+                "5": 1,
+                "6": 3
+            }
+        },
+        "words": [
+            {
+                "word": "ƏYMƏ",
+                "explanation": "is. 1. dişləni (əskeşi) qayışlar vasitəsiləxamuta (boyunduruğa) bənd etməküçün istifadə edilən əyilmiş ağacdan ibarətqoşqu hissəsi",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "QİYƏ",
+                "explanation": "is. [ər.] köhn. üç girvənkəyəbərabər köhnə ölçü vahidi. biz bir ***buğdanı min hiylə ilə ələ keçirdiyimiz halda",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "TİYƏ",
+                "explanation": "is. qılınc",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "YİYƏ",
+                "explanation": "is. hər hansı bir şey üzərində mülkiyyəthüququ olan adam; sahib. oğul",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "QİYMƏ",
+                "explanation": "is. 1. çox xırda döyülmüş ət. □ *** etmək – ***ləmək",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 5
+            },
+            {
+                "word": "QİYMƏT",
+                "explanation": "is. [ər.] 1. bir şeyin (əmtəənin)pul vahidləri ilə ifadə olunan dəyəri. malın***i. bazar ***ləri",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 6
+            },
+            {
+                "word": "TƏMYİZ",
+                "explanation": "[ər.] köhn. bax kassasiya",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 7
+            },
+            {
+                "word": "TƏZYİQ",
+                "explanation": "is. [ər.] 1. öz ağırlığı ilə basma",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 8
+            },
+            {
+                "word": "ƏZİYYƏT",
+                "explanation": "is. [ər.] 1. məşəqqət",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 9
+            },
+            {
+                "word": "QƏZİYYƏ",
+                "explanation": "is. [ər.] 1. əhvalat",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 10
+            },
+            {
+                "word": "MƏİYYƏT",
+                "explanation": "is. [ər.] kit. böyük vəzifəlişəxsi müşayiət edən heyət. çar konsulu özdostlarını vəliəhdin ***i içərisində aramağabaşlamışdı",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 11
+            },
+            {
+                "word": "QƏTİYYƏT",
+                "explanation": "is. [ər.] qətilik",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 12
+            },
+            {
+                "word": "MƏZİYYƏT",
+                "explanation": "is. [ər.] bir şeyin",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 13
+            },
+            {
+                "word": "ƏZƏMİYYƏT",
+                "explanation": "is. [ər.] klas. böyüklük",
+                "isPanagram": false,
+                "score": 9,
+                "length": 9,
+                "id": 14
+            },
+            {
+                "word": "ZİQİYMƏT",
+                "explanation": "sif. [ər.] köhn. qiymətli",
+                "isPanagram": true,
+                "score": 17,
+                "length": 8,
+                "id": 15
+            }
+        ]
+    }
+}

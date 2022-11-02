@@ -1,0 +1,189 @@
+{
+    "gameData": {
+        "day": "20221218",
+        "expiration": "1671404340",
+        "centerLetter": "R",
+        "outerLetters": [
+            "Ş",
+            "O",
+            "S",
+            "Y",
+            "A",
+            "I"
+        ],
+        "words_info": {
+            "word_count": 20,
+            "sum_score": 82,
+            "panagram_count": 1,
+            "word_length": {
+                "6": 4,
+                "4": 9,
+                "5": 5,
+                "7": 1,
+                "8": 1
+            }
+        },
+        "words": [
+            {
+                "word": "AROY",
+                "explanation": "is. məh. paltar yuyulduqdan sonra qalan kirli su; çirkab",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "ASAR",
+                "explanation": "is. [ər. “əsər” söz. cəmi] köhn. 1. əlamət",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "AYAR",
+                "explanation": "is. dan. 1. barama",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "RISA",
+                "explanation": "is. ipə",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "SARI",
+                "explanation": "1. sif. narıncı rənglə yaşıl arasındaolan (rəng)",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 5
+            },
+            {
+                "word": "SIRA",
+                "explanation": "is. 1. yan-yana və ya ard-arda duranadamlar və ya şeylər düzümü; səf",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 6
+            },
+            {
+                "word": "ŞORA",
+                "explanation": "is. çeşidli metalların qarışığındandüzəldilib partlayıcı maddələr texnikasındaaqranomiyada gübrə kimi işlədilən azot duzu",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 7
+            },
+            {
+                "word": "YARA",
+                "explanation": "is. 1. bədən",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 8
+            },
+            {
+                "word": "YARI",
+                "explanation": "is. tən bölünmüş iki hissədən biri. eyni ***sı. almanın ***sı. kitabın ***sını oxudum. ömrünün ***sını səhayətdə keçirmişdir",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 9
+            },
+            {
+                "word": "AYSOR",
+                "explanation": "is. əsas kütləsi iranda və türkiyədəyaşayan və süryani dili ləhcələrindənbirində danışan kiçik bir xalqın adı və buxalqa mənsub adam",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 10
+            },
+            {
+                "word": "SARAY",
+                "explanation": "is. 1. padşahın",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 11
+            },
+            {
+                "word": "SAYRI",
+                "explanation": "sif. qəd. xəstə. qurbani der: könlümbundan ***dır; nə etmişəm",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 12
+            },
+            {
+                "word": "YARIŞ",
+                "explanation": "is. bir işdə üstün gəlmək",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 13
+            },
+            {
+                "word": "YAŞAR",
+                "explanation": "sif. 1. …yaşında olan",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 14
+            },
+            {
+                "word": "ARAYIŞ",
+                "explanation": "is. 1. arama",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 15
+            },
+            {
+                "word": "ŞIRŞIR",
+                "explanation": "təql. 1. is. bir qaydada axan",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 16
+            },
+            {
+                "word": "YARASA",
+                "explanation": "is. 1. zool. gündüzlər yatıb gecələrov edən",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 17
+            },
+            {
+                "word": "YASSAR",
+                "explanation": "sif. və is. məh. 1. bacarıqsız",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 18
+            },
+            {
+                "word": "SIRSIRA",
+                "explanation": "is. axmaqda olan su damcılarınındonması nəticəsində əmələ gələn buzlülələri. daşın kənarı *** bağlamışdır",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 19
+            },
+            {
+                "word": "SOSYARIŞ",
+                "explanation": "is. “sosializm yarışı” qısaltmaforması",
+                "isPanagram": true,
+                "score": 17,
+                "length": 8,
+                "id": 20
+            }
+        ]
+    }
+}

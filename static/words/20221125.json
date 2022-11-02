@@ -1,0 +1,301 @@
+{
+    "gameData": {
+        "day": "20221125",
+        "expiration": "1669417140",
+        "centerLetter": "S",
+        "outerLetters": [
+            "M",
+            "İ",
+            "Y",
+            "Ə",
+            "B",
+            "A"
+        ],
+        "words_info": {
+            "word_count": 34,
+            "sum_score": 122,
+            "panagram_count": 1,
+            "word_length": {
+                "8": 3,
+                "4": 19,
+                "7": 3,
+                "6": 4,
+                "5": 5
+            }
+        },
+        "words": [
+            {
+                "word": "ASMA",
+                "explanation": "1. “***q”dan f.is.2. sif. bir yerdən asılan",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "BAİS",
+                "explanation": "is. [ər.] səbəb. gər ibni-səlam idibəhanə; məcnun idi *** ol fəğanə. füzuli.[hacı nuru:] hər kəsin öz sənəti özünəiksirdir və xoş güzəranlığına ba",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "ƏBƏS",
+                "explanation": "sif. [ər.] 1. nahaq",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "ƏSAS",
+                "explanation": "is. [ər.] 1. bünövrə",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "ƏSBƏ",
+                "explanation": "is. qızdırma ilə başlayıb",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 5
+            },
+            {
+                "word": "ƏSƏB",
+                "explanation": "is. [ər.] anat. fiziol. 1. insan",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 6
+            },
+            {
+                "word": "ƏSMƏ",
+                "explanation": "1. “***k”dən f.is.2. bax ***cə. *** azarı. *** tutmuşdur.– məs geyinib",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 7
+            },
+            {
+                "word": "MASA",
+                "explanation": "is. [rumıncadan] miz",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 8
+            },
+            {
+                "word": "MİSS",
+                "explanation": "[ing. ***] ingiltərə və amerikadaərə getməmiş qadın (adətən ad və ya familiyanınəvvəlində işlədilir)",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 9
+            },
+            {
+                "word": "SAAM",
+                "explanation": "is. kola yarımadasında",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 10
+            },
+            {
+                "word": "SAYA",
+                "explanation": "sif. 1. bir rəngdə olan",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 11
+            },
+            {
+                "word": "SAYƏ",
+                "explanation": "is. [fars.] 1. kölgə. sən bir ağacsan ki",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 12
+            },
+            {
+                "word": "SƏBA",
+                "explanation": "is. [ər.] şair. səhər əsən xəfif yel; meh. ***",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 13
+            },
+            {
+                "word": "SƏBİ",
+                "explanation": "is. [ər.] 1. məğlub edilmiş tərəfdənəsir tutulub satılan adam.2. həddi-büluğa çatmamış oğlan; gənc",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 14
+            },
+            {
+                "word": "SƏMA",
+                "explanation": "is. [ər.] göy",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 15
+            },
+            {
+                "word": "SƏMƏ",
+                "explanation": "sif. ağıldan kəm",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 16
+            },
+            {
+                "word": "SİAM",
+                "explanation": "is. tai tayfalarına verilən ad",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 17
+            },
+            {
+                "word": "SİMA",
+                "explanation": "is. [ər.] 1. üz",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 18
+            },
+            {
+                "word": "YASA",
+                "explanation": "is. [türkcə] qanun. ana *** (konstitusiya)",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 19
+            },
+            {
+                "word": "BASMA",
+                "explanation": "is. saç boyamaq üçün rəng",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 20
+            },
+            {
+                "word": "ƏSASİ",
+                "explanation": "sif. [ər.] köhn. bax əsas 2-ci mənada.*** cəhətlər. – həyat *** birdəyişikliyə uğrayınca ədəbiyyat büsbütünbaşını itirdi",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 21
+            },
+            {
+                "word": "ƏSBAB",
+                "explanation": "is. [ər. “səbəb” söz. cəmi] köhn.1. səbəblər",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 22
+            },
+            {
+                "word": "ƏSƏBİ",
+                "explanation": "sif. [ər.] 1. sinirləri son dərəcəhəssas olduğu üçün cüzi bir şeydən çox tez***ləşən",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 23
+            },
+            {
+                "word": "SƏBƏB",
+                "explanation": "is. [ər.] 1. bir şeyin",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 24
+            },
+            {
+                "word": "BASBAS",
+                "explanation": "is. məh. yaş meyvələri",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 25
+            },
+            {
+                "word": "MƏSAMƏ",
+                "explanation": "is. [ər.] 1. dərinin üzərində tərvəzilərinin ən xırda deşiyi.2. maddənin hissəcikləri arasındakı boşluq",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 26
+            },
+            {
+                "word": "SƏMİMİ",
+                "explanation": "sif. [ər.] ürəkdən gələn; dəruni",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 27
+            },
+            {
+                "word": "SİYASİ",
+                "explanation": "sif. [ər.] 1. siyasətlə bağlı",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 28
+            },
+            {
+                "word": "BASABAS",
+                "explanation": "is. basırıq",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 29
+            },
+            {
+                "word": "MƏSMƏSİ",
+                "explanation": "is. bot. üzəri sadə və ya budaqlıtüklərlə örtülü birillik bitki",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 30
+            },
+            {
+                "word": "MİSSİYA",
+                "explanation": "is. [lat.] vəzifə",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 31
+            },
+            {
+                "word": "ABASBƏYİ",
+                "explanation": "is. çox şirin",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 32
+            },
+            {
+                "word": "AMBİSİYA",
+                "explanation": "is. [fr.] lovğalıq",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 33
+            },
+            {
+                "word": "MASABƏYİ",
+                "explanation": "is. qonaqlığı",
+                "isPanagram": true,
+                "score": 17,
+                "length": 8,
+                "id": 34
+            }
+        ]
+    }
+}

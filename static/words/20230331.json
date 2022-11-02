@@ -1,0 +1,157 @@
+{
+    "gameData": {
+        "day": "20230331",
+        "expiration": "1680299940",
+        "centerLetter": "I",
+        "outerLetters": [
+            "N",
+            "L",
+            "A",
+            "K",
+            "İ",
+            "Ç"
+        ],
+        "words_info": {
+            "word_count": 16,
+            "sum_score": 71,
+            "panagram_count": 1,
+            "word_length": {
+                "6": 1,
+                "4": 6,
+                "5": 7,
+                "7": 1,
+                "9": 1
+            }
+        },
+        "words": [
+            {
+                "word": "AKIN",
+                "explanation": "is. [qazax.] qazax və qırğızlardaxalq aşığı",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "ALÇI",
+                "explanation": "is. aşıq-aşıq oyununda: aşığın birüzü",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "ALIN",
+                "explanation": "is. 1. üzün saç ilə qaş arasında olanön hissəsi. geniş ***. dar ***. – süleymanbəy əyləşir yerdə",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "ALLI",
+                "explanation": "sif. köhn. al rəngli paltar geymiş.tərifli gözəllər gəlhagəl oldu; yaşıllı",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "ANLI",
+                "explanation": "sif. qəd. ağıllı",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 5
+            },
+            {
+                "word": "ÇALI",
+                "explanation": "is. kol-kos",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 6
+            },
+            {
+                "word": "ALALI",
+                "explanation": "sif. alası olan",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 7
+            },
+            {
+                "word": "ANALI",
+                "explanation": "sif. anası olan. *** uşaq. ***quzu. – *** quzu",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 8
+            },
+            {
+                "word": "ÇALIN",
+                "explanation": "is. otu dəryaz",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 9
+            },
+            {
+                "word": "LAÇIN",
+                "explanation": "is. 1. keçmişdə quş ovlamaq üçünsaxlanılan şahin cinsindən yırtıcı",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 10
+            },
+            {
+                "word": "LAKÇI",
+                "explanation": "is. dəriyə",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 11
+            },
+            {
+                "word": "LAKLI",
+                "explanation": "sif. lak çəkilmiş",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 12
+            },
+            {
+                "word": "NALLI",
+                "explanation": "sif. nal vurulmuş; nallanmış. ***at. – əyilmiş çəkmənin *** dabanı; siyrilibpapağın o yan-bu yanı",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 13
+            },
+            {
+                "word": "AÇILAN",
+                "explanation": "is. məh. atəş açan silah",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 14
+            },
+            {
+                "word": "ÇALINÇI",
+                "explanation": "is. biçinçi",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 15
+            },
+            {
+                "word": "KLİNİKAÇI",
+                "explanation": "is. [yun.] klinikada işləyən və praktiki həkimlikdən əlavə",
+                "isPanagram": true,
+                "score": 17,
+                "length": 9,
+                "id": 16
+            }
+        ]
+    }
+}

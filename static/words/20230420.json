@@ -1,0 +1,229 @@
+{
+    "gameData": {
+        "day": "20230420",
+        "expiration": "1682027940",
+        "centerLetter": "A",
+        "outerLetters": [
+            "I",
+            "P",
+            "L",
+            "S",
+            "H",
+            "İ"
+        ],
+        "words_info": {
+            "word_count": 25,
+            "sum_score": 106,
+            "panagram_count": 1,
+            "word_length": {
+                "4": 9,
+                "5": 12,
+                "6": 1,
+                "10": 1,
+                "7": 2
+            }
+        },
+        "words": [
+            {
+                "word": "AHIL",
+                "explanation": "sif. [fars.] yaşa dolmuş",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "ALLI",
+                "explanation": "sif. köhn. al rəngli paltar geymiş.tərifli gözəllər gəlhagəl oldu; yaşıllı",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "HAİL",
+                "explanation": "is. [ər.] köhn. 1. dəyişmiş",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "HALA",
+                "explanation": "zərf [ər.] klas. indi",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "HALİ",
+                "explanation": "is. [ər.] bir hadisə",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 5
+            },
+            {
+                "word": "PAPA",
+                "explanation": "[lat.] roma katolik kilsəsinin başçısı.[iblis:] bəzən oluram bir ***! cənnətsatıram mən; isa dirilib gəlsə də qorxar qəzəbimdən",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 6
+            },
+            {
+                "word": "SAİL",
+                "explanation": "is. [ər.] dilənçi",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 7
+            },
+            {
+                "word": "SALI",
+                "explanation": "is. həftənin ikinci günü",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 8
+            },
+            {
+                "word": "SIPA",
+                "explanation": "is. bir yaşar qoduq (bəzən söyüşyerində işlənir)",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 9
+            },
+            {
+                "word": "ALAHI",
+                "explanation": "sif. [ər.] dan. ayrı",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 10
+            },
+            {
+                "word": "ALALI",
+                "explanation": "sif. alası olan",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 11
+            },
+            {
+                "word": "ALLAH",
+                "explanation": "is. [ər.] 1. bütün kainatın yeganə yaradıcısı və idarə edəni; yaradan",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 12
+            },
+            {
+                "word": "ASILI",
+                "explanation": "sif. 1. asılmış halda olan",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 13
+            },
+            {
+                "word": "HALAL",
+                "explanation": "sif. [ər.] 1. islam dininin ehkamlarınagörə yeyilməsinə",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 14
+            },
+            {
+                "word": "HALLI",
+                "explanation": "sif. və is. 1. kefli",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 15
+            },
+            {
+                "word": "HASİL",
+                "explanation": "[ər.] 1. sif. kit. hüsula gələn",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 16
+            },
+            {
+                "word": "HİLAL",
+                "explanation": "is. [ər.] 1. təzə çıxmış bir-ikigünlük ay; aypara. hər gecə fəğanım yetişirgöydə ***ə. s.ə.şirvani",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 17
+            },
+            {
+                "word": "PASLI",
+                "explanation": "sif. pası olan",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 18
+            },
+            {
+                "word": "SAHİL",
+                "explanation": "is. [ər.] dənizin",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 19
+            },
+            {
+                "word": "SAPLI",
+                "explanation": "sif. sapı",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 20
+            },
+            {
+                "word": "SİLAH",
+                "explanation": "is. [ər.] 1. hücum və ya müdafiə üçün alət; yaraq. …***larını yanlarına atıb oturmuş üç əsgər … söhbət edirdi",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 21
+            },
+            {
+                "word": "HİLALİ",
+                "explanation": "sif. hilal şəklində",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 22
+            },
+            {
+                "word": "PISPISA",
+                "explanation": "is. zool. peyinliklərdə",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 23
+            },
+            {
+                "word": "SİLAHLI",
+                "explanation": "sif. silahı olan",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 24
+            },
+            {
+                "word": "HİSLİPASLI",
+                "explanation": "sif. dan. his-pas (his-toz) basmış",
+                "isPanagram": true,
+                "score": 17,
+                "length": 10,
+                "id": 25
+            }
+        ]
+    }
+}

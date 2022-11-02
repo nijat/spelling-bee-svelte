@@ -1,0 +1,221 @@
+{
+    "gameData": {
+        "day": "20221217",
+        "expiration": "1671317940",
+        "centerLetter": "X",
+        "outerLetters": [
+            "Ə",
+            "D",
+            "L",
+            "N",
+            "A",
+            "İ"
+        ],
+        "words_info": {
+            "word_count": 24,
+            "sum_score": 127,
+            "panagram_count": 2,
+            "word_length": {
+                "4": 8,
+                "5": 6,
+                "7": 4,
+                "6": 3,
+                "8": 3
+            }
+        },
+        "words": [
+            {
+                "word": "ADAX",
+                "explanation": "is. ad",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "AXAN",
+                "explanation": "f.sif. 1. bax axar 1-ci mənada. [salam] lal *** kəhriz suyundan ovuc dolusu içdi. mir cəlal. 2. məc",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "DƏXL",
+                "explanation": "[ər.] əlaqə",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "XAİN",
+                "explanation": "sif. [ər.] 1. vətəninə",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "XALA",
+                "explanation": "is. 1. ananın bacısı. [sultan bəy:]***nın muzdu o olar ki",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 5
+            },
+            {
+                "word": "XALİ",
+                "explanation": "sif. [ər.] 1. boş",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 6
+            },
+            {
+                "word": "XANA",
+                "explanation": "is. 1. xırda dördbucaqlara bölünmüş bir şeyin qisimlərindən hər biri; dama",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 7
+            },
+            {
+                "word": "XANƏ",
+                "explanation": "is. [fars.] 1. ev",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 8
+            },
+            {
+                "word": "DAXAL",
+                "explanation": "is. məh. qarğıdan",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 9
+            },
+            {
+                "word": "DAXİL",
+                "explanation": "is. [ər.] içəri",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 10
+            },
+            {
+                "word": "DƏXİL",
+                "explanation": "is. [ər.] köhn. sığınan",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 11
+            },
+            {
+                "word": "XƏLƏL",
+                "explanation": "is. [ər.] pozuculuq",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 12
+            },
+            {
+                "word": "XƏNDƏ",
+                "explanation": "is. [fars.] köhn. gülüş",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 13
+            },
+            {
+                "word": "XİLLƏ",
+                "explanation": "is. bəzi məməli heyvanların (fil",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 14
+            },
+            {
+                "word": "DAXİLİ",
+                "explanation": "sif. [ər.] 1. daxilə",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 15
+            },
+            {
+                "word": "XALXAL",
+                "explanation": "is. heyvanlara məxsus binalardaayrıca bölmə. ***ı təmiz saxlamalı.– [zərnigar xanım] əlində çatı",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 16
+            },
+            {
+                "word": "XƏNDAN",
+                "explanation": "sif. [fars.] klas. 1. gülən",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 17
+            },
+            {
+                "word": "XANƏDAN",
+                "explanation": "is. [fars.] 1. qohumluq",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 18
+            },
+            {
+                "word": "XANƏNDƏ",
+                "explanation": "is. [fars.] toylarda",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 19
+            },
+            {
+                "word": "LƏXLƏXƏ",
+                "explanation": "is. dan. pozğunluq",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 20
+            },
+            {
+                "word": "XALAXALA",
+                "explanation": "is. kiçik qızların gəlincikləoynadıqları oyun adı; gəlin-gəlin",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 21
+            },
+            {
+                "word": "XANAXANA",
+                "explanation": "sif. 1. xanalardan ibarət",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 22
+            },
+            {
+                "word": "DAXİLƏN",
+                "explanation": "zərf [ər.] 1. iç tərəfdən",
+                "isPanagram": true,
+                "score": 17,
+                "length": 7,
+                "id": 23
+            },
+            {
+                "word": "DƏLİXANA",
+                "explanation": "is. 1. ruhi xəstələri",
+                "isPanagram": true,
+                "score": 17,
+                "length": 8,
+                "id": 24
+            }
+        ]
+    }
+}

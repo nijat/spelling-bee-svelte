@@ -1,0 +1,204 @@
+{
+    "gameData": {
+        "day": "20230305",
+        "expiration": "1678057140",
+        "centerLetter": "İ",
+        "outerLetters": [
+            "N",
+            "A",
+            "B",
+            "Ç",
+            "U",
+            "Ə"
+        ],
+        "words_info": {
+            "word_count": 22,
+            "sum_score": 78,
+            "panagram_count": 1,
+            "word_length": {
+                "7": 2,
+                "4": 12,
+                "5": 6,
+                "6": 2
+            }
+        },
+        "words": [
+            {
+                "word": "BABİ",
+                "explanation": "is. [xüs. is.-dən] 1. xıx əsrin ortasında iranda “bab” təxəllüslü mirzə əli məhəmməd tərəfindən təsis edilmiş dini təriqətə mənsub olan adam",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "BANİ",
+                "explanation": "is. [ər.] 1. bir şeyin əsasını",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "BƏNİ",
+                "explanation": "[ər.] övlad",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "BİBİ",
+                "explanation": "is. övlad üçün atanın bacısı",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "BİNA",
+                "explanation": "is. [ər.] 1. tikili",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 5
+            },
+            {
+                "word": "BİNƏ",
+                "explanation": "is. 1. köçərilərin mal-qara ilə köçüb",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 6
+            },
+            {
+                "word": "ÇİÇƏ",
+                "explanation": "sif. saf",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 7
+            },
+            {
+                "word": "ÇİNİ",
+                "explanation": "is. [coğr. addan] müxtəlif məmulatistehsal etmək üçün istifadə olunan əla gildənhazırlanmış süni mineral kütlə",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 8
+            },
+            {
+                "word": "ƏNİN",
+                "explanation": "is. [ər.] şair. inləmə",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 9
+            },
+            {
+                "word": "NAİB",
+                "explanation": "is. [ər.] tar. 1. böyük bir şəxsin yerinidolandıran şəxs; vəkil",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 10
+            },
+            {
+                "word": "NƏBİ",
+                "explanation": "is. [ər.] klas. peyğəmbər. ya ***",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 11
+            },
+            {
+                "word": "NƏÇİ",
+                "explanation": "əvəz. birinin sənətini",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 12
+            },
+            {
+                "word": "BİÇİN",
+                "explanation": "is. otu",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 13
+            },
+            {
+                "word": "ÇİBAN",
+                "explanation": "is. tib. dərinin tük kisəciyinin vəpiy vəzisinin irinli iltihabı",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 14
+            },
+            {
+                "word": "ÇİBİN",
+                "explanation": "is. milçək. quş dənə yığılar",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 15
+            },
+            {
+                "word": "ƏBƏÇİ",
+                "explanation": "sif. məh. mamaça",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 16
+            },
+            {
+                "word": "NƏNNİ",
+                "explanation": "is. 1. körpə uşaqları yatırtmaq üçünasılan kiçik yatacaq. [qumru] uşağı ***yəsalıb küncə qısıldı",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 17
+            },
+            {
+                "word": "NİNNİ",
+                "explanation": "is. layla",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 18
+            },
+            {
+                "word": "BİNAƏN",
+                "explanation": "qoş. [ər.] köhn. görə",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 19
+            },
+            {
+                "word": "ÇİNÇİN",
+                "explanation": "sif. və zərf qat-qat",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 20
+            },
+            {
+                "word": "BİÇİNÇİ",
+                "explanation": "is. biçin işi ilə məşğul olan adam",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 21
+            },
+            {
+                "word": "ABUNƏÇİ",
+                "explanation": "is. abunəsi olan adam",
+                "isPanagram": true,
+                "score": 17,
+                "length": 7,
+                "id": 22
+            }
+        ]
+    }
+}

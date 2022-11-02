@@ -1,0 +1,221 @@
+{
+    "gameData": {
+        "day": "20230328",
+        "expiration": "1680040740",
+        "centerLetter": "I",
+        "outerLetters": [
+            "S",
+            "R",
+            "A",
+            "Y",
+            "Ş",
+            "Ç"
+        ],
+        "words_info": {
+            "word_count": 24,
+            "sum_score": 120,
+            "panagram_count": 1,
+            "word_length": {
+                "6": 4,
+                "4": 6,
+                "5": 9,
+                "7": 4,
+                "8": 1
+            }
+        },
+        "words": [
+            {
+                "word": "AÇIŞ",
+                "explanation": "is. açma işi",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "AŞÇI",
+                "explanation": "is. xüs. dəri",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "RISA",
+                "explanation": "is. ipə",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "SARI",
+                "explanation": "1. sif. narıncı rənglə yaşıl arasındaolan (rəng)",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "SIRA",
+                "explanation": "is. 1. yan-yana və ya ard-arda duranadamlar və ya şeylər düzümü; səf",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 5
+            },
+            {
+                "word": "YARI",
+                "explanation": "is. tən bölünmüş iki hissədən biri. eyni ***sı. almanın ***sı. kitabın ***sını oxudum. ömrünün ***sını səhayətdə keçirmişdir",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 6
+            },
+            {
+                "word": "ARAÇI",
+                "explanation": "is. ara düzəldən adam",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 7
+            },
+            {
+                "word": "ARIÇI",
+                "explanation": "is. arı saxlayan",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 8
+            },
+            {
+                "word": "ÇARŞI",
+                "explanation": "is. [fars.] bax çarsu. mən üz qoydumbazara tərəf. xəyalımda qoymuşdum:gedərəm düz baqqal ***sına və buzu allam",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 9
+            },
+            {
+                "word": "ÇAŞIR",
+                "explanation": "is. bot. çətirçiçəklilərdən ot bitkisi.ballı bacısı oğlu ilə birlikdə kəndin üst tərəfindəkigüneylərə gedər",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 10
+            },
+            {
+                "word": "ÇAYÇI",
+                "explanation": "is. 1. çay əkib-becərməklə məşğulolan adam; çaybecərən. ***ların yarışı.// çay mütəxəssisi.2. çayxanada xidmət edən adam",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 11
+            },
+            {
+                "word": "ÇAYIR",
+                "explanation": "is. 1. bot. taxıllar fəsiləsindənkökümsovlu alaq otu. belin ağzı saralmış***ları xırpıltı ilə kəsə-kəsə yekə bir dairəcızdı",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 12
+            },
+            {
+                "word": "SAYRI",
+                "explanation": "sif. qəd. xəstə. qurbani der: könlümbundan ***dır; nə etmişəm",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 13
+            },
+            {
+                "word": "YARIŞ",
+                "explanation": "is. bir işdə üstün gəlmək",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 14
+            },
+            {
+                "word": "YAYÇI",
+                "explanation": "is. qədim türkdilli tayfalardan biri",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 15
+            },
+            {
+                "word": "AÇARÇI",
+                "explanation": "is. 1. açar qayıran",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 16
+            },
+            {
+                "word": "ARAYIŞ",
+                "explanation": "is. 1. arama",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 17
+            },
+            {
+                "word": "SAYAÇI",
+                "explanation": "is. ədəb. qoyun",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 18
+            },
+            {
+                "word": "ŞIRŞIR",
+                "explanation": "təql. 1. is. bir qaydada axan",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 19
+            },
+            {
+                "word": "SARISAÇ",
+                "explanation": "sif. saçı sarı; kürən. ***lı qız. *** uşaq. – …ikinci maşının qabağında … *** bir oğlan durmuşdu",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 20
+            },
+            {
+                "word": "SIRSIRA",
+                "explanation": "is. axmaqda olan su damcılarınındonması nəticəsində əmələ gələn buzlülələri. daşın kənarı *** bağlamışdır",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 21
+            },
+            {
+                "word": "YARIŞÇI",
+                "explanation": "is. yarışda iştirak edən",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 22
+            },
+            {
+                "word": "YAŞAYIŞ",
+                "explanation": "is. 1. həyat tərzi",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 23
+            },
+            {
+                "word": "SIÇRAYIŞ",
+                "explanation": "is. 1. sıçrama işi",
+                "isPanagram": true,
+                "score": 17,
+                "length": 8,
+                "id": 24
+            }
+        ]
+    }
+}

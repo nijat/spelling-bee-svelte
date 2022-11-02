@@ -1,0 +1,165 @@
+{
+    "gameData": {
+        "day": "20221203",
+        "expiration": "1670108340",
+        "centerLetter": "R",
+        "outerLetters": [
+            "O",
+            "S",
+            "K",
+            "N",
+            "A",
+            "F"
+        ],
+        "words_info": {
+            "word_count": 17,
+            "sum_score": 80,
+            "panagram_count": 1,
+            "word_length": {
+                "7": 1,
+                "4": 6,
+                "5": 4,
+                "6": 5,
+                "8": 1
+            }
+        },
+        "words": [
+            {
+                "word": "ARAN",
+                "explanation": "is. azərbaycanda: yaylaq yerlərənisbətən alçaq və iqlimcə isti olan yerlər.azərbaycanın əsas *** yerləri muğan",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "ASAR",
+                "explanation": "is. [ər. “əsər” söz. cəmi] köhn. 1. əlamət",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "FARA",
+                "explanation": "[fr.] yolu işıqlandırmaq üçün avtomobillərdə",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "FARS",
+                "explanation": "is. [fr.] yüngül komediya",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "FORS",
+                "explanation": "[fr. force – güc",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 5
+            },
+            {
+                "word": "FRAK",
+                "explanation": "is. [fr.] qabaq ətəkləri kəsik",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 6
+            },
+            {
+                "word": "FRANK",
+                "explanation": "is.[fr.] fransada pul vahidi",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 7
+            },
+            {
+                "word": "KROSS",
+                "explanation": "[ing.] dərə-təpəli yerdə maneələriaşmaqla idman qaçışı",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 8
+            },
+            {
+                "word": "NORKA",
+                "explanation": "is. [rus.] dələlər fəsiləsindənyırtıcı məməli heyvan cinsi və onun dərisi",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 9
+            },
+            {
+                "word": "SONOR",
+                "explanation": "is. [lat.] səs tellərinin ahəngdarhərəkəti ilə yaranan samit səs",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 10
+            },
+            {
+                "word": "KARKOR",
+                "explanation": "is. həm qulağı eşitməyən",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 11
+            },
+            {
+                "word": "KARKAS",
+                "explanation": "[ital. carcassa] bina və s.-nin dəmirdən düzəldilən gövdəsi",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 12
+            },
+            {
+                "word": "KORSAR",
+                "explanation": "is. [ital.] dəniz qulduru",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 13
+            },
+            {
+                "word": "NANKOR",
+                "explanation": "sif. və is. [fars.] yaxşılıq bilməyən",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 14
+            },
+            {
+                "word": "ROKOKO",
+                "explanation": "[fr.] xvııı əsrdə fransadameydana gəlib formalarının zərifliyi və mürəkkəbliyi",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 15
+            },
+            {
+                "word": "ANAFORA",
+                "explanation": "is. [yun.] misraların əvvəlindəeyni səsin və ya eyni sözün təkrarı",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 16
+            },
+            {
+                "word": "KONFRANS",
+                "explanation": "[lat.] müəyyən məsələlərimüzakirə və həll etmək üçün partiya",
+                "isPanagram": true,
+                "score": 17,
+                "length": 8,
+                "id": 17
+            }
+        ]
+    }
+}

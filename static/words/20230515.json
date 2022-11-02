@@ -1,0 +1,286 @@
+{
+    "gameData": {
+        "day": "20230515",
+        "expiration": "1684187940",
+        "centerLetter": "A",
+        "outerLetters": [
+            "I",
+            "R",
+            "M",
+            "Ş",
+            "B",
+            "Z"
+        ],
+        "words_info": {
+            "word_count": 32,
+            "sum_score": 139,
+            "panagram_count": 1,
+            "word_length": {
+                "4": 13,
+                "5": 7,
+                "8": 3,
+                "6": 7,
+                "9": 1,
+                "7": 1
+            }
+        },
+        "words": [
+            {
+                "word": "ABIR",
+                "explanation": "is. [fars.] 1. həya",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "ARAM",
+                "explanation": "is. [fars.] sakitlik",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "AZAR",
+                "explanation": "is. [fars.] 1. xəstəlik",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "BABA",
+                "explanation": "is. 1. atanın",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "BABI",
+                "explanation": "is. [xüs. is.-dən] 1. xıx əsrin ortasında iranda “bab” təxəllüslü mirzə əli məhəmməd tərəfindən təsis edilmiş dini təriqətə mənsub olan adam",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 5
+            },
+            {
+                "word": "BARI",
+                "explanation": "is. [fars.] hasar",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 6
+            },
+            {
+                "word": "BAZI",
+                "explanation": "is. çöl",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 7
+            },
+            {
+                "word": "MAAŞ",
+                "explanation": "is. [ər.] əmək",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 8
+            },
+            {
+                "word": "MAMA",
+                "explanation": "is. doğuş zamanı kömək göstərməkləməşğul olan (keçmişdə təhsilsiz",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 9
+            },
+            {
+                "word": "MARŞ",
+                "explanation": "[fr.] 1. sırada bir qaydada",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 10
+            },
+            {
+                "word": "MAŞA",
+                "explanation": "is. ocaqdan od və ya qızmar bir şeyigötürmək üçün metal alət. vaqif arabir buxarını*** ilə qurdalayırdı",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 11
+            },
+            {
+                "word": "MAZI",
+                "explanation": "is. 1. bəzi ağacların üzərində həşərat yumurtacıqlarından əmələ gələn yumru fır (ur). ağacda var ***lar; könlüm səni arzular; əyil",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 12
+            },
+            {
+                "word": "RAZI",
+                "explanation": "sif. və zərf [ər.] bir şeydən ***olan; məmnun. yüz cəfa eyləsən",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 13
+            },
+            {
+                "word": "AMBIR",
+                "explanation": "is. xüs. dəmirçilərin",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 14
+            },
+            {
+                "word": "ARABA",
+                "explanation": "is. iki və ya dördtəkərli nəqliyyatvasitəsi. minik ***sı. yük ***sı. əl ***sı(əl ilə sürülən ***)",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 15
+            },
+            {
+                "word": "AZMIŞ",
+                "explanation": "f.sif. 1. yolunu itirmiş",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 16
+            },
+            {
+                "word": "BARIŞ",
+                "explanation": "is. ***ma",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 17
+            },
+            {
+                "word": "BAZAR",
+                "explanation": "is. 1. alış-veriş yeri. bütün şəhər***",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 18
+            },
+            {
+                "word": "MAMIR",
+                "explanation": "is. bot. ali sporlu bitkilərdən ibtidaiquruluşa malik bitki. həyətin hündürhasarları rütubətdən ***la örtülmüşdü",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 19
+            },
+            {
+                "word": "ŞABAŞ",
+                "explanation": "is. [fars.] toy məclislərində oynayanlaraxanəndə və çalğıçılar üçün verilənpul. gənclər oynayanda yoldaşları onlarınbaşına kağız pul (əsginas) şaba",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 20
+            },
+            {
+                "word": "AŞBAŞI",
+                "explanation": "is. məh. aşın (plovun) başına qoyulanxuruş (ət",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 21
+            },
+            {
+                "word": "AŞIRIM",
+                "explanation": "is. dağın beli",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 22
+            },
+            {
+                "word": "AŞIRMA",
+                "explanation": "is. 1. “***q”dan f.is.2. bir şeyin üstündən atılan",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 23
+            },
+            {
+                "word": "BARAMA",
+                "explanation": "is. 1. ipəkqurdu tırtılının nazikipək liflərindən hörərək",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 24
+            },
+            {
+                "word": "BAZARI",
+                "explanation": "sif. bazarda satılmaq üçün hazırlanmış",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 25
+            },
+            {
+                "word": "MARAZM",
+                "explanation": "is. [yun.] 1. beyin qabığınınümumi üzgünlüklə müşayiət olunan atrofiyasıvə psixi fəaliyyətinin dayanması",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 26
+            },
+            {
+                "word": "ŞAMAMA",
+                "explanation": "is. [ər.] çox ətirli və şirin",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 27
+            },
+            {
+                "word": "ZIRRAMA",
+                "explanation": "is. və sif. gic",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 28
+            },
+            {
+                "word": "ARAZBARI",
+                "explanation": "is. azərbaycan musiqisindətəbiət və insan gözəlliyini vəsf edən lirikxarakterli",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 29
+            },
+            {
+                "word": "MAZIMAZI",
+                "explanation": "is. düz və hamar yerdə mazı (2-ci mənada) ilə oynanılan oyun. mazı-mazı oynayan on yeddi-on səkkiz yaşındakı gənclərin səsindən qulaq tutulurdu",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 30
+            },
+            {
+                "word": "BAZARBAŞI",
+                "explanation": "is. keçmişdə bazara nəzarətedən şəxs. sevər arvadın əri ilə qaynını ***tutub saxlayıbdır. p.makulu",
+                "isPanagram": false,
+                "score": 9,
+                "length": 9,
+                "id": 31
+            },
+            {
+                "word": "BARIŞMAZ",
+                "explanation": "sif. 1. heç bir sazişə",
+                "isPanagram": true,
+                "score": 17,
+                "length": 8,
+                "id": 32
+            }
+        ]
+    }
+}

@@ -1,0 +1,206 @@
+{
+    "gameData": {
+        "day": "20221112",
+        "expiration": "1668293940",
+        "centerLetter": "S",
+        "outerLetters": [
+            "R",
+            "A",
+            "E",
+            "K",
+            "L",
+            "D"
+        ],
+        "words_info": {
+            "word_count": 22,
+            "sum_score": 115,
+            "panagram_count": 1,
+            "word_length": {
+                "5": 5,
+                "4": 6,
+                "7": 4,
+                "6": 5,
+                "8": 1,
+                "9": 1
+            }
+        },
+        "words": [
+            {
+                "word": "ASAR",
+                "explanation": "is. [ər. “əsər” söz. cəmi] köhn. 1. əlamət",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "ESSE",
+                "explanation": "is. [fr. essai – təcrübə",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "KASA",
+                "explanation": "is. [fars.] 1. çini",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "KEKS",
+                "explanation": "[ing. cake",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "RELS",
+                "explanation": "[ing. rails",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 5
+            },
+            {
+                "word": "SEKS",
+                "explanation": "is. [lat.] kişi və qadın arasında fizikiyaxınlıq",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 6
+            },
+            {
+                "word": "ADRES",
+                "explanation": "[fr.] 1. bir şəxsə",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 7
+            },
+            {
+                "word": "ASRAL",
+                "explanation": "is. bot. bax kəndirotu",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 8
+            },
+            {
+                "word": "KASAD",
+                "explanation": "[ər.] 1. sif. ticarətdə: mala tələbolmadığı",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 9
+            },
+            {
+                "word": "KASKA",
+                "explanation": "[fr. casque",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 10
+            },
+            {
+                "word": "KASSA",
+                "explanation": "[ital.] 1. pul",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 11
+            },
+            {
+                "word": "KARKAS",
+                "explanation": "[ital. carcassa] bina və s.-nin dəmirdən düzəldilən gövdəsi",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 12
+            },
+            {
+                "word": "KARSER",
+                "explanation": "[lat.] müqəssirin müvəqqətisaxlandığı biradamlıq otaq. ***ə salmaq",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 13
+            },
+            {
+                "word": "SAKLAR",
+                "explanation": "is. qədim iran tayfalarından birininadı",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 14
+            },
+            {
+                "word": "SALAKA",
+                "explanation": "is. [rus.] balıq növü",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 15
+            },
+            {
+                "word": "SKLERA",
+                "explanation": "is. [yun.] göz almasının qeyrişəffafxarici qişası",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 16
+            },
+            {
+                "word": "ESKADRA",
+                "explanation": "[fr.] hərbi dəniz",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 17
+            },
+            {
+                "word": "KALSEKS",
+                "explanation": "[lat.] əcz. xlorlu kalsium vəurotropin duzu (qripin qabağını almaq üçündərman kimi işlənir)",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 18
+            },
+            {
+                "word": "KARSALA",
+                "explanation": "sif. dan. 1. qulağı ağır eşidən. 2. key",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 19
+            },
+            {
+                "word": "SAKSLAR",
+                "explanation": "is. german tayfaları",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 20
+            },
+            {
+                "word": "SERADELLA",
+                "explanation": "is. [ital.] paxlalılar fəsiləsindənbitki cinsi",
+                "isPanagram": false,
+                "score": 9,
+                "length": 9,
+                "id": 21
+            },
+            {
+                "word": "SARDELKA",
+                "explanation": "[ital.] qısa",
+                "isPanagram": true,
+                "score": 17,
+                "length": 8,
+                "id": 22
+            }
+        ]
+    }
+}

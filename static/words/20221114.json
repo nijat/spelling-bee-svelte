@@ -1,0 +1,165 @@
+{
+    "gameData": {
+        "day": "20221114",
+        "expiration": "1668466740",
+        "centerLetter": "T",
+        "outerLetters": [
+            "R",
+            "A",
+            "U",
+            "K",
+            "V",
+            "D"
+        ],
+        "words_info": {
+            "word_count": 17,
+            "sum_score": 83,
+            "panagram_count": 1,
+            "word_length": {
+                "4": 5,
+                "5": 7,
+                "6": 2,
+                "7": 2,
+                "10": 1
+            }
+        },
+        "words": [
+            {
+                "word": "ADAT",
+                "explanation": "is. [ər. “adət” söz. cəmi] bax adət.məstəli şirvani hər iki səyahətində dünyanınyarısını gəştü güzar edib",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "ARAT",
+                "explanation": "is. k.t. şumlanıb sulanmış",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "ATAT",
+                "explanation": "is. uşaqların ağac üstə minərəkoynadıqları oyun. at-at oynamaq",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "TAVA",
+                "explanation": "is. içində ət və s. qızartmaq üçünkənarları yastı",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "TAVR",
+                "explanation": "is. krımın cənub hissəsinin qədiməhalisi",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 5
+            },
+            {
+                "word": "DAVAT",
+                "explanation": "is. [ər.] köhn. mürəkkəbqabı. buludhavada gedər; qələm ***a gedər. (bayatı).…*** və qələmimdən başqa",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 6
+            },
+            {
+                "word": "KARAT",
+                "explanation": "is. [ərəbcədən] xüs. qiymətlidaşların 200-206 mq-a bərabər çəki ölçüsü",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 7
+            },
+            {
+                "word": "KATTA",
+                "explanation": "is. dan. bax kətxuda. ***nıgör",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 8
+            },
+            {
+                "word": "TATAR",
+                "explanation": "is. 1. ***ıstanın əsas əhalisinitəşkil edən türkdilli xalq və bu xalqa mənsubadam.2. volqaboyunda",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 9
+            },
+            {
+                "word": "TAVAR",
+                "explanation": "is. balaq (camış balası)",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 10
+            },
+            {
+                "word": "TUTAR",
+                "explanation": "is. güc",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 11
+            },
+            {
+                "word": "URVAT",
+                "explanation": "is. dan. hörmət",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 12
+            },
+            {
+                "word": "KUTKUT",
+                "explanation": "zərf və sif. yığın halında",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 13
+            },
+            {
+                "word": "KVARTA",
+                "explanation": "[lat.] mus. diatonik qammadadördüncü pillə. // həmin pillə ilə birinci pilləarasındakı interval",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 14
+            },
+            {
+                "word": "KVADRAT",
+                "explanation": "[lat.] 1. riyaz. dörd tərəfi bərabərdüzbucaq. // *** şəklində olan şey;çargül. *** kərpic. – qarovulçu",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 15
+            },
+            {
+                "word": "TRAKTAT",
+                "explanation": "[lat. tractaus – müzakirə]1. ayrıca bir məsələdən",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 16
+            },
+            {
+                "word": "KVADRATURA",
+                "explanation": "[lat. quadratus-dan]kvadrat vahidlərlə (metr və s. ilə) hesablanansahənin ölçüsü. otağın (mənzilin) ***sı",
+                "isPanagram": true,
+                "score": 17,
+                "length": 10,
+                "id": 17
+            }
+        ]
+    }
+}

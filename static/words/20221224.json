@@ -1,0 +1,173 @@
+{
+    "gameData": {
+        "day": "20221224",
+        "expiration": "1671922740",
+        "centerLetter": "Y",
+        "outerLetters": [
+            "Q",
+            "R",
+            "E",
+            "A",
+            "Z",
+            "U"
+        ],
+        "words_info": {
+            "word_count": 18,
+            "sum_score": 61,
+            "panagram_count": 1,
+            "word_length": {
+                "4": 12,
+                "8": 2,
+                "9": 1,
+                "6": 1,
+                "5": 2
+            }
+        },
+        "words": [
+            {
+                "word": "AYAQ",
+                "explanation": "is. klas. qədəh",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "AYAR",
+                "explanation": "is. dan. 1. barama",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "AYAZ",
+                "explanation": "is. qışda buludsuz",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "AZAY",
+                "explanation": "is. məh. şikayət",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "QAYA",
+                "explanation": "is. 1. daşlıq və sarp dağ; daşlıq uçurum",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 5
+            },
+            {
+                "word": "QEYR",
+                "explanation": "[ər.] bax ***i 3-cü mənada.edəsən *** ilə seyri-gülüstan; xəstə zakirqala külxan içində. q.zakir",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 6
+            },
+            {
+                "word": "QEYZ",
+                "explanation": "is. [ər.] qəzəb",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 7
+            },
+            {
+                "word": "QUYU",
+                "explanation": "is. su",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 8
+            },
+            {
+                "word": "UYAR",
+                "explanation": "sif. uyğun",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 9
+            },
+            {
+                "word": "UYQU",
+                "explanation": "is. yuxu. kəndlilər çox yorulub",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 10
+            },
+            {
+                "word": "YARA",
+                "explanation": "is. 1. bədən",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 11
+            },
+            {
+                "word": "ZAYE",
+                "explanation": "[ər.] klas. bax zay. □ *** etmək (eyləmək) – bax zay etmək (eləmək) (“zay”da). vəchindəki bənzər ay olar ***; verdilər ömrümü",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 12
+            },
+            {
+                "word": "QUZEY",
+                "explanation": "is. 1. dağın",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 13
+            },
+            {
+                "word": "YARAQ",
+                "explanation": "is. 1. silah. koroğlu gördü",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 14
+            },
+            {
+                "word": "QUYRUQ",
+                "explanation": "is. 1. heyvanların çoxunun bədənlərininqurtaracağındakı mütəhərrik törəmə",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 15
+            },
+            {
+                "word": "QARAAYAQ",
+                "explanation": "sif. bədəni başqa rəng",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 16
+            },
+            {
+                "word": "QARAYARA",
+                "explanation": "is. qaramalda",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 17
+            },
+            {
+                "word": "QARAQUZEY",
+                "explanation": "is. yüksək binanın və yahündür bir yerin arxasında olub",
+                "isPanagram": true,
+                "score": 17,
+                "length": 9,
+                "id": 18
+            }
+        ]
+    }
+}

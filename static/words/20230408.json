@@ -1,0 +1,332 @@
+{
+    "gameData": {
+        "day": "20230408",
+        "expiration": "1680991140",
+        "centerLetter": "A",
+        "outerLetters": [
+            "Ə",
+            "C",
+            "M",
+            "Z",
+            "İ",
+            "R"
+        ],
+        "words_info": {
+            "word_count": 38,
+            "sum_score": 120,
+            "panagram_count": 1,
+            "word_length": {
+                "4": 22,
+                "5": 10,
+                "6": 4,
+                "7": 2
+            }
+        },
+        "words": [
+            {
+                "word": "ACAR",
+                "explanation": "is. cənubi qafqazda yaşayanxalqlardan birinin adı",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "ACİZ",
+                "explanation": "sif. [ər.] 1. əlindən iş gəlməyən",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "AMAC",
+                "explanation": "is. [fars.] klas. nişanə",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "AMİR",
+                "explanation": "is. [ər.] buyuran",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "ARAM",
+                "explanation": "is. [fars.] sakitlik",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 5
+            },
+            {
+                "word": "ARİZ",
+                "explanation": "[ər.] köhn. 1. zühur edən",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 6
+            },
+            {
+                "word": "AZAR",
+                "explanation": "is. [fars.] 1. xəstəlik",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 7
+            },
+            {
+                "word": "AZCA",
+                "explanation": "sif. və zərf azacıq",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 8
+            },
+            {
+                "word": "AZƏR",
+                "explanation": "is. [fars.] oda xidmət göstərənmələk",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 9
+            },
+            {
+                "word": "AZİM",
+                "explanation": "[ər.] : *** olmaq klas. – getmək",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 10
+            },
+            {
+                "word": "CAİZ",
+                "explanation": "sif. [ər.] hər hansı bir baxımdanedilməsinə",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 11
+            },
+            {
+                "word": "CAMƏ",
+                "explanation": "is. [fars.] paltar",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 12
+            },
+            {
+                "word": "CARİ",
+                "explanation": "sif. [ər.] 1. klas. cərəyan edən",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 13
+            },
+            {
+                "word": "CƏZA",
+                "explanation": "is. [ər.] hər hansı təqsirə",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 14
+            },
+            {
+                "word": "ƏCZA",
+                "explanation": "is. [ər. “cüz” söz. cəmi] 1. klas.bir şeyin tərkibini təşkil edən xırda hissəciklər;cüzlər. yandırıb ***yi-tərkibim",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 15
+            },
+            {
+                "word": "ƏMMA",
+                "explanation": "[ər.] 1. bax amma. şeir bir zivərdir",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 16
+            },
+            {
+                "word": "MAMA",
+                "explanation": "is. doğuş zamanı kömək göstərməkləməşğul olan (keçmişdə təhsilsiz",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 17
+            },
+            {
+                "word": "MAZİ",
+                "explanation": "is. [ər.] 1. klas. keçmiş zaman",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 18
+            },
+            {
+                "word": "RACA",
+                "explanation": "is. [sanskr.] qədim hindistandarəhbərlik və hakimlik rütbəsi",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 19
+            },
+            {
+                "word": "RİCA",
+                "explanation": "is. [ər.] birinə müraciət edərək birişin yerinə yetirilməsini arzu etmə",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 20
+            },
+            {
+                "word": "RİZA",
+                "explanation": "is. [ər.] razılıq. soralım hər zaman ***lərini; alalım xeyirli düalərini. m.ə.sabir. üzərimdə olan ləkələri bir qadının riyasını əldə etməklə yox",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 21
+            },
+            {
+                "word": "ZİRA",
+                "explanation": "bağl. [ər.] çünki",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 22
+            },
+            {
+                "word": "ARİZƏ",
+                "explanation": "is. [ər.] köhn. 1. maneə",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 23
+            },
+            {
+                "word": "AZƏRİ",
+                "explanation": "is. azərbaycanlı. ***lər haqqındayaqut həməvinin rəyi şayani-diqqətdir…çəmənzəminli. ***dir mənim adım; füzulidirsöz ustadım",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 24
+            },
+            {
+                "word": "ƏMRAZ",
+                "explanation": "is. [ər. “mərəz” söz. cəmi] köhn.azarlar",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 25
+            },
+            {
+                "word": "ƏRAZİ",
+                "explanation": "is. [ər. “ərz1” söz. cəmi] müəyyənhüdudları olan torpaq sahəsi. respublikamızın***si. – rey məmləkəti bir padşahınsahib ola biləcəyi ***dən bir",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 26
+            },
+            {
+                "word": "MƏCAZ",
+                "explanation": "is. [ər.] ədəb. həqiqi mənasındaişlənməyib",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 27
+            },
+            {
+                "word": "MƏCRA",
+                "explanation": "is. [ər.] 1. suyun axdığı yataq",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 28
+            },
+            {
+                "word": "MƏRAM",
+                "explanation": "is. [ər.] istək",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 29
+            },
+            {
+                "word": "MƏZAC",
+                "explanation": "is. [ər. mizac] 1. xasiyyət",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 30
+            },
+            {
+                "word": "MƏZAR",
+                "explanation": "is. [ər.] qəbir. mən bu dərd iləəgər ölsəm",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 31
+            },
+            {
+                "word": "MİZAC",
+                "explanation": "[ər.] bax məzac. incitdimi dərdidil***ın; kim",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 32
+            },
+            {
+                "word": "ƏMMAMƏ",
+                "explanation": "is. [ər.] bəzi şərq ölkələrində:sarınmış uzun ağ parça",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 33
+            },
+            {
+                "word": "MACƏRA",
+                "explanation": "is. [ər.] 1. başa gələn həyəcanlıhadisə; qəziyyə",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 34
+            },
+            {
+                "word": "MARAZM",
+                "explanation": "is. [yun.] 1. beyin qabığınınümumi üzgünlüklə müşayiət olunan atrofiyasıvə psixi fəaliyyətinin dayanması",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 35
+            },
+            {
+                "word": "MƏCAZİ",
+                "explanation": "sif. [ər.] ədəb. həqiqi",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 36
+            },
+            {
+                "word": "MACARCA",
+                "explanation": "sif. və zərf macar dilində.*** dərslik. *** danışmaq",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 37
+            },
+            {
+                "word": "ZİRCAMƏ",
+                "explanation": "is. [fars.] köhn. alt paltarı",
+                "isPanagram": true,
+                "score": 17,
+                "length": 7,
+                "id": 38
+            }
+        ]
+    }
+}

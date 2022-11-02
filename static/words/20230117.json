@@ -1,0 +1,149 @@
+{
+    "gameData": {
+        "day": "20230117",
+        "expiration": "1673996340",
+        "centerLetter": "Ü",
+        "outerLetters": [
+            "C",
+            "R",
+            "T",
+            "Ə",
+            "M",
+            "İ"
+        ],
+        "words_info": {
+            "word_count": 15,
+            "sum_score": 71,
+            "panagram_count": 1,
+            "word_length": {
+                "4": 6,
+                "7": 3,
+                "5": 3,
+                "6": 2,
+                "8": 1
+            }
+        },
+        "words": [
+            {
+                "word": "CÜCƏ",
+                "explanation": "is. toyuq balası. əlimi hinə soxub",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "CÜCÜ",
+                "explanation": "is. zool. milçək",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "CÜMƏ",
+                "explanation": "is. [ər.] həftənin beşinci günü; *** axşamından sonra gələn gün. [hacı:] hazırla",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "CÜRƏ",
+                "explanation": "sif. çox balaca",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "CÜRM",
+                "explanation": "is. [ər.] klas. günah",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 5
+            },
+            {
+                "word": "MÜTİ",
+                "explanation": "sif. [ər.] itaət edən",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 6
+            },
+            {
+                "word": "CÜRƏT",
+                "explanation": "is. [ər.] cəsarət",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 7
+            },
+            {
+                "word": "MÜCRÜ",
+                "explanation": "is. balaca sandıqça. taxçayadüzülübdü bir neçə boğça",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 8
+            },
+            {
+                "word": "ÜMMƏT",
+                "explanation": "is. [ər.] 1. xalq",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 9
+            },
+            {
+                "word": "MÜCRİM",
+                "explanation": "is. [ər.] köhn. günahkar",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 10
+            },
+            {
+                "word": "MÜRCÜM",
+                "explanation": "is. üzdə",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 11
+            },
+            {
+                "word": "CÜCƏRTİ",
+                "explanation": "is. torpaqdan görünən",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 12
+            },
+            {
+                "word": "MÜƏTTƏR",
+                "explanation": "sif. [ər.] köhn. ətirli",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 13
+            },
+            {
+                "word": "TƏRCÜMƏ",
+                "explanation": "is. [ər.] bir dildən başqa diləçevirmə (çevrilmə). sərbəst ***. “şahnamə”nin ***si. – usta zeynalın dükanındamirzə qəzəllər oxuyub",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 14
+            },
+            {
+                "word": "MÜTƏRCİM",
+                "explanation": "sif. [ər.] tərcüməçi",
+                "isPanagram": true,
+                "score": 17,
+                "length": 8,
+                "id": 15
+            }
+        ]
+    }
+}

@@ -1,0 +1,231 @@
+{
+    "gameData": {
+        "day": "20230131",
+        "expiration": "1675205940",
+        "centerLetter": "D",
+        "outerLetters": [
+            "K",
+            "L",
+            "T",
+            "A",
+            "İ",
+            "E"
+        ],
+        "words_info": {
+            "word_count": 25,
+            "sum_score": 170,
+            "panagram_count": 2,
+            "word_length": {
+                "4": 2,
+                "6": 5,
+                "7": 4,
+                "5": 8,
+                "9": 2,
+                "8": 2,
+                "10": 2
+            }
+        },
+        "words": [
+            {
+                "word": "ADAT",
+                "explanation": "is. [ər. “adət” söz. cəmi] bax adət.məstəli şirvani hər iki səyahətində dünyanınyarısını gəştü güzar edib",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "ADİL",
+                "explanation": "sif. [ər.] ədalətli",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "DALDA",
+                "explanation": "1. sif. sığınmağa və ya gizlənməyəyarayan. *** yer. *** divar.– kosa boşalmış küçənin *** yeri ilə yeriyibat tövlələrinin yanına çatdı",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 3
+            },
+            {
+                "word": "DETAL",
+                "explanation": "is. [fr.] 1. ən xırda təfərrüat.2. tex. maşın və mexanizmin irili-xırdalıhissələri. ağ hamar *** iti bıçaq altında fırlanır…h",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 4
+            },
+            {
+                "word": "DİDİK",
+                "explanation": "sif. didilmiş halda olan. *** yun.*** ət. *** gündə",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 5
+            },
+            {
+                "word": "DİKLİ",
+                "explanation": "sif. diki",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 6
+            },
+            {
+                "word": "DİLİK",
+                "explanation": "is. 1. nəyinsə uzunsov hissəsi.2. köhn. bəzək",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 7
+            },
+            {
+                "word": "DİLLİ",
+                "explanation": "sif. 1. ağzında dili olan. // danışa bilən",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 8
+            },
+            {
+                "word": "KADET",
+                "explanation": "[fr.] çar rusiyasında: qapalı orta hərbi məktəb müdavimi. hələ baqidir yerində; köhnə qaydalar",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 9
+            },
+            {
+                "word": "KİLİD",
+                "explanation": "is. [fars.] 1. qıfıl. asma ***. – siyirmə***lər biləkdən yoğun; asılmış qıfıllarbuğunbəbuğun. h",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 10
+            },
+            {
+                "word": "ADİLİK",
+                "explanation": "is. 1. adi şeyin halı. qız etirazetdi: – söhbətlərimizdə *** yoxdur.m.s.ordubadi.2. bəsitlik",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 11
+            },
+            {
+                "word": "DEKADA",
+                "explanation": "[fr. əsli yun.] on günlük zamanölçüsü; ayın üçdə biri; ongünlük. incəsənətvə ədəbiyyat ***sı. ayın birinci***sı",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 12
+            },
+            {
+                "word": "DİKİLİ",
+                "explanation": "sif. dik halda olan",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 13
+            },
+            {
+                "word": "DİKLİK",
+                "explanation": "is. 1. dik şeyin halı",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 14
+            },
+            {
+                "word": "ETİDAL",
+                "explanation": "is. [ər.] 1. mötədillik",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 15
+            },
+            {
+                "word": "ADİLLİK",
+                "explanation": "is. ədalətlilik",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 16
+            },
+            {
+                "word": "DİLİKLİ",
+                "explanation": "sif. diliyi",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 17
+            },
+            {
+                "word": "DİTDİLİ",
+                "explanation": "is. məh. ağcaqanad. qərvənd çox*** və milçək olan yerdi. ə.haqverdiyev.durğun suyun qırağında toz kimi ***uçuşurdu",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 18
+            },
+            {
+                "word": "KİLİDLİ",
+                "explanation": "sif. kilid vurulmuş",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 19
+            },
+            {
+                "word": "DİDAKTİK",
+                "explanation": "sif. [yun.] təlimverici",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 20
+            },
+            {
+                "word": "DİLLİLİK",
+                "explanation": "is. dilli adamın xassəsi",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 21
+            },
+            {
+                "word": "DİDİKDİDİK",
+                "explanation": "sif. çox didilmiş",
+                "isPanagram": false,
+                "score": 10,
+                "length": 10,
+                "id": 22
+            },
+            {
+                "word": "DİLİKDİLİK",
+                "explanation": "sif. 1. kənarı diliklər şəklindəolan. kənarı dilik-dilik süfrə.2. tikə-tikə",
+                "isPanagram": false,
+                "score": 10,
+                "length": 10,
+                "id": 23
+            },
+            {
+                "word": "DİALEKTAL",
+                "explanation": "sif. [yun.] dilç. dialektə aidolan",
+                "isPanagram": true,
+                "score": 17,
+                "length": 9,
+                "id": 24
+            },
+            {
+                "word": "DİALEKTİK",
+                "explanation": "sif. [yun.] fəls. ***ayaaid olan",
+                "isPanagram": true,
+                "score": 17,
+                "length": 9,
+                "id": 25
+            }
+        ]
+    }
+}

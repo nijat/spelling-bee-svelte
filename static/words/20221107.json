@@ -1,0 +1,175 @@
+{
+    "gameData": {
+        "day": "20221107",
+        "expiration": "1667861940",
+        "centerLetter": "N",
+        "outerLetters": [
+            "O",
+            "A",
+            "U",
+            "Z",
+            "Y",
+            "B"
+        ],
+        "words_info": {
+            "word_count": 18,
+            "sum_score": 97,
+            "panagram_count": 1,
+            "word_length": {
+                "4": 6,
+                "6": 2,
+                "5": 4,
+                "7": 2,
+                "8": 2,
+                "9": 1,
+                "10": 1
+            }
+        },
+        "words": [
+            {
+                "word": "AYNA",
+                "explanation": "is. [fars.] 1. güzgü. ***nın çatdığıcalaq qəbul eləməz. (ata. sözü). əgərbilmək istəyirsiniz ki",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "AZAN",
+                "explanation": "is. [ər.] müsəlmanları namazaçağırmaq üçün ***çının səhər",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "BANU",
+                "explanation": "is. [fars.] köhn. xanım. açıldı başın",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "OYUN",
+                "explanation": "is. 1. əylənmək və vaxt keçirməküçün bir neçə adam (əsasən uşaq) arasındaicra olunan müxtəlif növlü əyləncə",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "OZAN",
+                "explanation": "is. 1. qəd. el şairi",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 5
+            },
+            {
+                "word": "UZUN",
+                "explanation": "sif. 1. iki ucunun arası çox",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 6
+            },
+            {
+                "word": "BOYUN",
+                "explanation": "is. 1. başın bədənlə birləşən hissəsi.yoğun ***. əyri ***. uzun ***.boynundan yapışmaq.2. paltarın",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 7
+            },
+            {
+                "word": "NANAY",
+                "explanation": "is. uzaq şərqdə yaşayan xalq;həmin xalqa mənsub olan adam",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 8
+            },
+            {
+                "word": "YABAN",
+                "explanation": "is. [fars.] çöl",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 9
+            },
+            {
+                "word": "YUNAN",
+                "explanation": "is. ***ıstanın əsas əhalisini təşkil edən xalq və bu xalqa mənsub adam. *** dili. qədim *** mədəniyyəti",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 10
+            },
+            {
+                "word": "BOYANA",
+                "explanation": "is. bot. cirə; təbabətdə və kulinariyadaistifadə olunan ətirli bitki",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 11
+            },
+            {
+                "word": "BUYNUZ",
+                "explanation": "is. 1. bəzi heyvanların başındasümük kimi bərk maddədən ibarət çıxıntı(bəzi cücülərin də başında olur)",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 12
+            },
+            {
+                "word": "UZUNBOY",
+                "explanation": "sif. boyu uzun olan",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 13
+            },
+            {
+                "word": "UZUNUZUN",
+                "explanation": "sif. və zərf çox uzun. …vəkilləryanlaricə uzun-uzun ərizələr",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 14
+            },
+            {
+                "word": "YUNYUYAN",
+                "explanation": "sif. yunu yumağa məxsus.*** maşın",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 15
+            },
+            {
+                "word": "UZUNBOYUN",
+                "explanation": "sif. boynu uzun olan. ***adam",
+                "isPanagram": false,
+                "score": 9,
+                "length": 9,
+                "id": 16
+            },
+            {
+                "word": "UZUNBUYNUZ",
+                "explanation": "sif. buynuzları uzun olan. ***lu camışlar … cənubi çində",
+                "isPanagram": false,
+                "score": 10,
+                "length": 10,
+                "id": 17
+            },
+            {
+                "word": "OYUNBAZ",
+                "explanation": "is. 1. gülməli oyunlar çıxarıbbaşqalarını güldürən adam; hoqqabaz",
+                "isPanagram": true,
+                "score": 17,
+                "length": 7,
+                "id": 18
+            }
+        ]
+    }
+}

@@ -1,0 +1,502 @@
+{
+    "gameData": {
+        "day": "20230430",
+        "expiration": "1682891940",
+        "centerLetter": "T",
+        "outerLetters": [
+            "Ə",
+            "L",
+            "B",
+            "S",
+            "İ",
+            "R"
+        ],
+        "words_info": {
+            "word_count": 59,
+            "sum_score": 270,
+            "panagram_count": 1,
+            "word_length": {
+                "6": 10,
+                "7": 7,
+                "9": 1,
+                "5": 23,
+                "4": 17,
+                "12": 1
+            }
+        },
+        "words": [
+            {
+                "word": "BƏST",
+                "explanation": "is. [fars.] tar. iranda hökumətin təqibindənvə ya dini təqibdən qaçıb xaricisəfarətxanalara və ya ziyarətxanalara pənahaparan şəxsin daldalandığı y",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "ƏTƏR",
+                "explanation": "is. dan. iz",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "ƏTİR",
+                "explanation": "is. [ər.] 1. gözəl iy",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "ƏTLİ",
+                "explanation": "sif. 1. ətcə dolğun; kök",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "LİTR",
+                "explanation": "[fr. ***e] 1000 kub santimetrə bərabər maye ölçüsü. bir *** süd",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 5
+            },
+            {
+                "word": "RƏBT",
+                "explanation": "is. [ər.] 1. bağlama",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 6
+            },
+            {
+                "word": "SƏBT",
+                "explanation": "is. [ər.] : *** etmək – qeyd etmək",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 7
+            },
+            {
+                "word": "SƏLT",
+                "explanation": "sif. dan. bütünlüklə",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 8
+            },
+            {
+                "word": "SƏRT",
+                "explanation": "sif. 1. bərk",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 9
+            },
+            {
+                "word": "STİL",
+                "explanation": "[fr. style] bax üslub",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 10
+            },
+            {
+                "word": "TƏLƏ",
+                "explanation": "is. vəhşi və ov heyvanlarını və yaquşları",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 11
+            },
+            {
+                "word": "TƏLL",
+                "explanation": "is. uzun təpə. [bəxtiyar] gözünüaçanda gördü",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 12
+            },
+            {
+                "word": "TƏRS",
+                "explanation": "is. və sif. 1. bir şeyin əks tərəfi",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 13
+            },
+            {
+                "word": "TİBB",
+                "explanation": "is. [ər.] 1. xəstəliklər",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 14
+            },
+            {
+                "word": "TİRƏ",
+                "explanation": "is. 1. arx",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 15
+            },
+            {
+                "word": "TİTƏ",
+                "explanation": "is. bəzi adamların göz bəbəyindəolan ağ ləkə",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 16
+            },
+            {
+                "word": "TİTR",
+                "explanation": "[fr.] 1. kinolentdə yazı",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 17
+            },
+            {
+                "word": "BƏSİT",
+                "explanation": "sif. [ər.] tərkibi bir ünsürdən ibarətolan; mürəkkəb olmayan",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 18
+            },
+            {
+                "word": "BƏSTƏ",
+                "explanation": "sif. bir qədər alçaq. mən sonayam boyu ***; dərdindən olmuşam xəstə. aşıq sona. eldə bir qız sevmişəm; alagöz",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 19
+            },
+            {
+                "word": "BƏSTİ",
+                "explanation": "is. kiçik küp",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 20
+            },
+            {
+                "word": "BİTLİ",
+                "explanation": "sif. biti olan; başını",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 21
+            },
+            {
+                "word": "ƏLBƏT",
+                "explanation": "[ər.] 1. bax ***tə. *** gələcəkdir.dünyaya gələn *** gedər. – deməkolmaz dirilər tək yatıb",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 22
+            },
+            {
+                "word": "SƏBƏT",
+                "explanation": "is. içinə meyvə",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 23
+            },
+            {
+                "word": "SƏTİR",
+                "explanation": "is. [ər.] hər hansı bir mətnin birxətdə yazılmış hissəsi",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 24
+            },
+            {
+                "word": "SƏTRİ",
+                "explanation": "sif. [ər.] sətirbəsətir",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 25
+            },
+            {
+                "word": "TƏBƏƏ",
+                "explanation": "is. [ər. “tabe” söz. cəmi] bir dövlətə tabe olan",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 26
+            },
+            {
+                "word": "TƏBİB",
+                "explanation": "is. [ər.] həkim. *** olsam",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 27
+            },
+            {
+                "word": "TƏBİİ",
+                "explanation": "sif. [ər.] 1. təbiətə (yer səthinə",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 28
+            },
+            {
+                "word": "TƏBİL",
+                "explanation": "is. [ər.] iri nağara. səhnənin dalından*** və sinc səsi gəlir. ə.haqverdiyev.[cavanşir:] qoy şeypurlar gurlasın",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 29
+            },
+            {
+                "word": "TƏBİR",
+                "explanation": "is. [ər.] 1. söz",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 30
+            },
+            {
+                "word": "TƏLƏB",
+                "explanation": "is. [ər.] 1. bir şeyi israrla",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 31
+            },
+            {
+                "word": "TƏLƏT",
+                "explanation": "is. [ər.] 1. üz",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 32
+            },
+            {
+                "word": "TƏLİS",
+                "explanation": "is. əl-üz dəsmalı",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 33
+            },
+            {
+                "word": "TƏRLİ",
+                "explanation": "sif. 1. tərləmiş",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 34
+            },
+            {
+                "word": "TƏRSƏ",
+                "explanation": "sif. və zərf tərs",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 35
+            },
+            {
+                "word": "TƏSİR",
+                "explanation": "is. [ər.] 1. əsər etmə və bunun nəticəsindəəmələ gələn hal",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 36
+            },
+            {
+                "word": "TƏSİS",
+                "explanation": "is. [ər.] əsasını",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 37
+            },
+            {
+                "word": "TƏTİL",
+                "explanation": "is. [ər.] 1. işin kütləvi və mütəşəkkilsurətdə dayandırılması. aprelin iyirmi doqquzundabaşlanan xırda ***lər iyulun ikisindənümumi *** şəklini",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 38
+            },
+            {
+                "word": "TİBBİ",
+                "explanation": "sif. [ər.] tiblə",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 39
+            },
+            {
+                "word": "TİRLİ",
+                "explanation": "sif. tiri (tirləri) olan",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 40
+            },
+            {
+                "word": "BƏRBƏT",
+                "explanation": "is. [ər.] uda oxşar qədim çalğıaləti. əldə incə ***",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 41
+            },
+            {
+                "word": "BƏSTƏR",
+                "explanation": "is. [fars.] yataq",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 42
+            },
+            {
+                "word": "ƏLİİTİ",
+                "explanation": "sif. əldən çapıq; zirək",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 43
+            },
+            {
+                "word": "ƏTİRLİ",
+                "explanation": "sif. 1. özündən ətir saçan; rayihəli.*** çiçəklər. *** otlar. – bu bağçalardaev sahibləri *** güllər və çiçəklərəkmişdilər",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 44
+            },
+            {
+                "word": "SİSTİT",
+                "explanation": "is. [yun.] sidik kisəsinin iltihabıxəstəliyi",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 45
+            },
+            {
+                "word": "TƏBİƏT",
+                "explanation": "is. [ər.] 1. yerdə təbii şəraitin(yerin səthi",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 46
+            },
+            {
+                "word": "TƏLƏBƏ",
+                "explanation": "is. [ər.] ali məktəb və ya texnikumdaoxuyan adam. mən təklif edirəm",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 47
+            },
+            {
+                "word": "TƏRTİB",
+                "explanation": "is. [ər.] 1. ayrı-ayrı hissələri",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 48
+            },
+            {
+                "word": "TƏSBİT",
+                "explanation": "is. [ər.] əvvəl deyilmiş bir sözün",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 49
+            },
+            {
+                "word": "TİTƏLİ",
+                "explanation": "sif. titəsi olan",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 50
+            },
+            {
+                "word": "BƏSİRƏT",
+                "explanation": "is. [ər.] bir şeyi dərindən və tezanlama qabiliyyəti",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 51
+            },
+            {
+                "word": "BƏSTƏRİ",
+                "explanation": "sif. [fars.] yorğan-döşəyə düşmüş(xəstə haqqında). gövhərtac da o gündən*** naxoşdur. ə.haqverdiyev",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 52
+            },
+            {
+                "word": "ƏLİİSTİ",
+                "explanation": "sif. mahir atıcı",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 53
+            },
+            {
+                "word": "ƏRƏBİST",
+                "explanation": "is. 1. bax ərəbşünas. 2. ərəbçilik tərəfdarı",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 54
+            },
+            {
+                "word": "SƏRBƏST",
+                "explanation": "sif. və zərf [fars.] 1. başqasındanasılı olmayan",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 55
+            },
+            {
+                "word": "TƏSƏLLİ",
+                "explanation": "is. [ər.] bir acını az da olsa unutduracaq",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 56
+            },
+            {
+                "word": "TƏSİRLİ",
+                "explanation": "sif. təsir edən",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 57
+            },
+            {
+                "word": "SƏTİRBƏSƏTİR",
+                "explanation": "sif. [ər. sətir və fars. bitişdiricibə] hər sətri ayrılıqda",
+                "isPanagram": false,
+                "score": 12,
+                "length": 12,
+                "id": 58
+            },
+            {
+                "word": "BƏSİRƏTLİ",
+                "explanation": "sif. bir şeyin əsil və həqiqətinidərindən və tez anlayan",
+                "isPanagram": true,
+                "score": 17,
+                "length": 9,
+                "id": 59
+            }
+        ]
+    }
+}

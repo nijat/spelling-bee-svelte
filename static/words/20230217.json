@@ -1,0 +1,292 @@
+{
+    "gameData": {
+        "day": "20230217",
+        "expiration": "1676674740",
+        "centerLetter": "R",
+        "outerLetters": [
+            "Y",
+            "Ü",
+            "Ö",
+            "K",
+            "N",
+            "Ə"
+        ],
+        "words_info": {
+            "word_count": 33,
+            "sum_score": 131,
+            "panagram_count": 1,
+            "word_length": {
+                "4": 14,
+                "7": 5,
+                "5": 12,
+                "6": 2
+            }
+        },
+        "words": [
+            {
+                "word": "ƏRƏR",
+                "explanation": "is. [ər.] ardıc ağacı. qəddintəknə ər-ər",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "ƏRƏN",
+                "explanation": "is. (adətən cəm şəklində). 1. ər",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "ƏRKƏ",
+                "explanation": "is. uşaq",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "ƏRRƏ",
+                "explanation": "is. [fars.] ikidəstəli iri mişar",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "KƏRƏ",
+                "explanation": "zərf [ər.] dəfə. iki *** iki elər dörd. adama neçə *** deyərlər. iki *** getmək. bir *** görmək. – adam adamı bir *** aldadar",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 5
+            },
+            {
+                "word": "KÜRƏ",
+                "explanation": "is. [fars.] 1. dəmiri qızdırmaqüçün körüklə odu közərdilən dəmirçi ocağı.***ni körükləmək. dəmirçi ***si",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 6
+            },
+            {
+                "word": "KÜRK",
+                "explanation": "is. 1. keçmişdə",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 7
+            },
+            {
+                "word": "KÜRÜ",
+                "explanation": "is. zool. 1. balıqların",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 8
+            },
+            {
+                "word": "NƏRƏ",
+                "explanation": "is. məh. evlərin üstünə qoyulan tir.su gəldi",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 9
+            },
+            {
+                "word": "ÖRƏN",
+                "explanation": "is. əkilməmiş sahə",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 10
+            },
+            {
+                "word": "RÜKN",
+                "explanation": "is. [ər.] 1. bir şeyin ən sağlam vəmöhkəm tərəfi; təməl",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 11
+            },
+            {
+                "word": "ÜRƏK",
+                "explanation": "is. 1. insanda qan dövranının",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 12
+            },
+            {
+                "word": "ÜRKƏ",
+                "explanation": "is. ikiyaşar at balası. [qədir] qaşlarınıçataraq öz alapaça ***sindən danışmağabaşlayırdı. i.əfəndiyev",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 13
+            },
+            {
+                "word": "YÖRƏ",
+                "explanation": "is. yan",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 14
+            },
+            {
+                "word": "KƏKRƏ",
+                "explanation": "is. bot. əsasən dəvələrin yediyi yabanı acı ot bitkisi",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 15
+            },
+            {
+                "word": "KƏRƏN",
+                "explanation": "is. məh. yonulmamış yoğun ağac",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 16
+            },
+            {
+                "word": "KƏRKƏ",
+                "explanation": "is. zool. şirin sularda yaşayan",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 17
+            },
+            {
+                "word": "KƏRRƏ",
+                "explanation": "[ər.] bax kərə3. bir *** düşəndəxəbər al badi-səbadan; saçın həvəsigör ki",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 18
+            },
+            {
+                "word": "KÖRÜK",
+                "explanation": "is. 1. kürədə odu qızartmaq və s. məqsədlər üçün yanları büküşlü dəri və taxtadan düzəldilmiş alət. dəmirçi körüyü",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 19
+            },
+            {
+                "word": "KÜRƏK",
+                "explanation": "is. 1. bədənin arxa hissəsininyuxarısında olan üçkünc şəkilli yastı sümüklərdənhər biri. [qəhrəman:] güllə arxasından",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 20
+            },
+            {
+                "word": "KÜRƏN",
+                "explanation": "sif. saçı",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 21
+            },
+            {
+                "word": "NÖKƏR",
+                "explanation": "is. keçmişdə ağasına xidmət edənvə onun şəxsi tapşırıqlarını yerinə yetirən evxidmətçisi (oğlan). [əhməd tacirbaşı] özüsərkarını",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 22
+            },
+            {
+                "word": "ÖRKƏN",
+                "explanation": "is. minik heyvanlarının çulunusarıyıb bərkitmək üçün başında doğanaqolan uzun ip; çatı. *** nə qədər uzun olsa",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 23
+            },
+            {
+                "word": "ÖRNƏK",
+                "explanation": "is. nümunə",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 24
+            },
+            {
+                "word": "ÜRKƏK",
+                "explanation": "sif. tez hürkən",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 25
+            },
+            {
+                "word": "YÜRÜK",
+                "explanation": "is. çapar",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 26
+            },
+            {
+                "word": "KÜKRƏK",
+                "explanation": "sif. coşqun",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 27
+            },
+            {
+                "word": "YÜYRƏK",
+                "explanation": "sif. bərk qaçan; itigedən",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 28
+            },
+            {
+                "word": "KÜRƏKƏN",
+                "explanation": "is. qızın ərinin",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 29
+            },
+            {
+                "word": "ÜRKƏYƏN",
+                "explanation": "sif. tez hürkən",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 30
+            },
+            {
+                "word": "YÜYÜRƏK",
+                "explanation": "sif. bərk qaçan; itigedən",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 31
+            },
+            {
+                "word": "YÜYÜRÜK",
+                "explanation": "is. 1. yeni ayaq tutmağa başlayanuşağın tez və yaxşı yeriməyi öyrənməsiüçün xüsusi quruluşlu arabacıq",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 32
+            },
+            {
+                "word": "ƏRKÖYÜN",
+                "explanation": "sif. həddindən artıq əzizlənmək",
+                "isPanagram": true,
+                "score": 17,
+                "length": 7,
+                "id": 33
+            }
+        ]
+    }
+}

@@ -1,0 +1,196 @@
+{
+    "gameData": {
+        "day": "20230122",
+        "expiration": "1674428340",
+        "centerLetter": "D",
+        "outerLetters": [
+            "U",
+            "I",
+            "B",
+            "Z",
+            "A",
+            "Q"
+        ],
+        "words_info": {
+            "word_count": 21,
+            "sum_score": 83,
+            "panagram_count": 1,
+            "word_length": {
+                "4": 9,
+                "5": 9,
+                "6": 2,
+                "7": 1
+            }
+        },
+        "words": [
+            {
+                "word": "ABAD",
+                "explanation": "sif. [fars.] 1. müntəzəm və çoxlu tikintisi",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "ADAB",
+                "explanation": "is. [ər. “ədəb” söz. cəmi] köhn.əxlaq qaydaları",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "ADAQ",
+                "explanation": "is. məh. uşağın ilk addımı",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "AZAD",
+                "explanation": "sif. [fars.] 1. ***lıqdan istifadəedən",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "BADI",
+                "explanation": "is. məh. saxsı nimçə",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 5
+            },
+            {
+                "word": "DAZI",
+                "explanation": "is. bot. ot və kol bitkiləri daxil olanbitki cinsi; boyotu",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 6
+            },
+            {
+                "word": "DUDA",
+                "explanation": "is. [fars.] neft",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 7
+            },
+            {
+                "word": "QADA",
+                "explanation": "is. 1. bəla",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 8
+            },
+            {
+                "word": "QUDA",
+                "explanation": "is. gəlin ilə oğlanın ata-analarınınbir-birinə olan qohumluq münasibəti. iki*** ötə-bəridən məhəbbətlə danışdılar",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 9
+            },
+            {
+                "word": "ABDUQ",
+                "explanation": "is. su qatılmış qatıq; atılama",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 10
+            },
+            {
+                "word": "BADAQ",
+                "explanation": "is. 1. bax badalaq.2. sınmış ağacı bərkitmək üçün ona keçirilənenli dəmir halqa.3. ev quşlarının ayaqlarına bağlanan bağ",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 11
+            },
+            {
+                "word": "BUDAQ",
+                "explanation": "is. 1. ağac və kolların gövdələrindən ayrılan hər bir qol; şaxə. payız çağında hər səhər soyuq-soyuq külək əsər; ağaclara",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 12
+            },
+            {
+                "word": "DABAQ",
+                "explanation": "is. bayt. qaramal",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 13
+            },
+            {
+                "word": "DAQQA",
+                "explanation": "is. məh. 1. dəridən tikilmiş hündürpapaq. şiraslan … *** divan papağınıbaşına qoydu",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 14
+            },
+            {
+                "word": "DUZAQ",
+                "explanation": "is. quş və vəhşi heyvan tutmaqüçün alət; tələ",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 15
+            },
+            {
+                "word": "QADAQ",
+                "explanation": "is. bıçaq",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 16
+            },
+            {
+                "word": "QIDIQ",
+                "explanation": "is. bədənin bir yerinə əl və s. ilətoxunduqda onda əmələ gələn və adamınqeyri-ixtiyari gülməsinə səbəb olan hal; yüngültəxərrüş",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 17
+            },
+            {
+                "word": "QUDUZ",
+                "explanation": "sif. 1. ***luq xəstəliyinə tutulmuş;qudurmuş. *** it. *** canavar.*** olmaq (***luq xəstəliyinə tutulmaq)",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 18
+            },
+            {
+                "word": "DADDUZ",
+                "explanation": "is. bax dad1 1-ci mənada. buxörəyin dadı-duzu yoxdur. dadına-duzunabaxmaq. – nanə xala yeyir",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 19
+            },
+            {
+                "word": "QIDQID",
+                "explanation": "is. dan. deyinmə; dedi-qodu",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 20
+            },
+            {
+                "word": "DUZQABI",
+                "explanation": "is. içinə duz tökmək üçün kiçikqab; nəməkdan. duzunu dadıb",
+                "isPanagram": true,
+                "score": 17,
+                "length": 7,
+                "id": 21
+            }
+        ]
+    }
+}

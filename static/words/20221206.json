@@ -1,0 +1,149 @@
+{
+    "gameData": {
+        "day": "20221206",
+        "expiration": "1670367540",
+        "centerLetter": "E",
+        "outerLetters": [
+            "S",
+            "H",
+            "R",
+            "T",
+            "A",
+            "İ"
+        ],
+        "words_info": {
+            "word_count": 15,
+            "sum_score": 77,
+            "panagram_count": 1,
+            "word_length": {
+                "8": 1,
+                "5": 3,
+                "7": 3,
+                "4": 5,
+                "6": 3
+            }
+        },
+        "words": [
+            {
+                "word": "ESSE",
+                "explanation": "is. [fr. essai – təcrübə",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "HERS",
+                "explanation": "[xüs. is.-dən] fiz. rəqs tezliyininölçü vahidi",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "SEHR",
+                "explanation": "is. [ər.] 1. köhnə mövhumi təsəvvürlərəgörə",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "TEST",
+                "explanation": "is. [ing.] 1. insanın zehni inkişafını",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "TİRE",
+                "explanation": "[fr.] 1. uzun üfüqi xətt (–) şəklindədurğu işarəsi.2. morze əlifbasında belə işarə",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 5
+            },
+            {
+                "word": "EHSAS",
+                "explanation": "is. [ər.] kit. duyma",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 6
+            },
+            {
+                "word": "SETAR",
+                "explanation": "is. [fars.] şərq simli musiqi alətlərindənbirinin adı; tarın bir növü. [ərən:]içəri",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 7
+            },
+            {
+                "word": "TREST",
+                "explanation": "[ing.] 1. bir sahənin bir neçə müəssisəsininbirləşməsi",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 8
+            },
+            {
+                "word": "STRESS",
+                "explanation": "[ing. *** – gərginlik] xaricivə ya daxili mühitin mənfi qeyri-spesifikamillərinin təsirinə cavab olaraq canlı orqanizmdəəmələ gələn spesifik fiz",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 9
+            },
+            {
+                "word": "TERRAS",
+                "explanation": "is. [fr.] 1. dərə yamacları",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 10
+            },
+            {
+                "word": "TESTER",
+                "explanation": "is. [ing.] bir şeyi yoxlamaq",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 11
+            },
+            {
+                "word": "EHSASAT",
+                "explanation": "is. [ər. “ehsas” söz. cəmi] kit.hisslər",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 12
+            },
+            {
+                "word": "TETATET",
+                "explanation": "zərf [fr.] təklikdə",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 13
+            },
+            {
+                "word": "ATTESTAT",
+                "explanation": "[lat.] 1. orta məktəbi bitirməkvə ya xidmət haqqında şəhadətnamə.mənim 20 yaşında olan oğlum rəşid bəyaxundov 2 il bundan qabaq tiflis klassikgimn",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 14
+            },
+            {
+                "word": "EHTİRAS",
+                "explanation": "is. [ər.] 1. ağlın çətinliklə idarəedə bildiyi hiss. ***ını saxlamaq.– [xəlifə:] səndə var coşqun *** alovu;yaxar atəşlərin sönük bir evi",
+                "isPanagram": true,
+                "score": 17,
+                "length": 7,
+                "id": 15
+            }
+        ]
+    }
+}

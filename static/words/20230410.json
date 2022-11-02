@@ -1,0 +1,180 @@
+{
+    "gameData": {
+        "day": "20230410",
+        "expiration": "1681163940",
+        "centerLetter": "D",
+        "outerLetters": [
+            "Ə",
+            "F",
+            "A",
+            "T",
+            "Ü",
+            "S"
+        ],
+        "words_info": {
+            "word_count": 19,
+            "sum_score": 65,
+            "panagram_count": 1,
+            "word_length": {
+                "4": 11,
+                "6": 2,
+                "5": 5,
+                "7": 1
+            }
+        },
+        "words": [
+            {
+                "word": "ADAT",
+                "explanation": "is. [ər. “adət” söz. cəmi] bax adət.məstəli şirvani hər iki səyahətində dünyanınyarısını gəştü güzar edib",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "ADƏT",
+                "explanation": "is. [ər.] 1. hər hansı bir xalqınhəyatında qədimdən bəri qəbul edilmiş vəkök salmış ənənə",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "DƏDƏ",
+                "explanation": "is. 1. ata. *** görməyib",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "DƏFƏ",
+                "explanation": "zərf [ər.] 1. kəmiyyət bildirən sözlə birgə işləndikdə bir işin",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "DƏST",
+                "explanation": "is. [fars.] 1. bir adamın geyimini təmin edəcək paltar komplekti. [mirzə dadaş:] arvad",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 5
+            },
+            {
+                "word": "ƏDAT",
+                "explanation": "is. [ər.] 1. qram. müstəqil mənasıolmayan",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 6
+            },
+            {
+                "word": "ƏDƏD",
+                "explanation": "is. [ər.] 1. say",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 7
+            },
+            {
+                "word": "FƏDA",
+                "explanation": "is. [ər.] ən əziz bir adam və yayüksək amal",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 8
+            },
+            {
+                "word": "SADƏ",
+                "explanation": "sif. [fars.] 1. mürəkkəb olmayan",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 9
+            },
+            {
+                "word": "SƏDA",
+                "explanation": "is. [ər.] səs",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 10
+            },
+            {
+                "word": "SƏDD",
+                "explanation": "is. [ər.] 1. müxtəlif məqsədlər üçünçəkilən divar",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 11
+            },
+            {
+                "word": "DƏSTƏ",
+                "explanation": "is. [fars.] 1. birgə fəaliyyət üçün birləşmiş adamlardan ibarət mütəşəkkil qrup. geoloji kəşfiyyat ***si",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 12
+            },
+            {
+                "word": "ƏDƏSƏ",
+                "explanation": "is. [ər.] 1. mərcimək dənəsi.2. gözlük",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 13
+            },
+            {
+                "word": "FASAD",
+                "explanation": "[fr.] binanın çölə baxan əsas qabaqtərəfi; ön tərəf. [fazilov:] harası xoşagəlmir? [arxitektor:] xüsusən qabağı",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 14
+            },
+            {
+                "word": "FƏSAD",
+                "explanation": "is. [ər.] 1. nifaq",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 15
+            },
+            {
+                "word": "SƏDƏF",
+                "explanation": "is. [ər.] bəzi balıqqulağıların iç qatını təşkil edən və müxtəlif bəzək şeyləri hazırlamaq üçün istifadə edilən",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 16
+            },
+            {
+                "word": "DƏFƏAT",
+                "explanation": "[ər. “dəfə” söz. cəmi] köhn.adətən “ilə” qoşması (bitişik yazıldıqda – la)ilə birlikdə – dəfələrlə",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 17
+            },
+            {
+                "word": "SƏADƏT",
+                "explanation": "is. [ər.] 1. həyatda ən yüksəkməmnunluq hissi; bir şəxsin hər hansı bir şeydənduyduğu dərin məmnunluq və sevinchissi; xoşbəxtlik",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 18
+            },
+            {
+                "word": "TƏSADÜF",
+                "explanation": "is. [ər.] 1. baş vermiş gözlənilməyən",
+                "isPanagram": true,
+                "score": 17,
+                "length": 7,
+                "id": 19
+            }
+        ]
+    }
+}

@@ -1,0 +1,301 @@
+{
+    "gameData": {
+        "day": "20230514",
+        "expiration": "1684101540",
+        "centerLetter": "Ş",
+        "outerLetters": [
+            "R",
+            "V",
+            "L",
+            "Ə",
+            "İ",
+            "D"
+        ],
+        "words_info": {
+            "word_count": 34,
+            "sum_score": 139,
+            "panagram_count": 1,
+            "word_length": {
+                "6": 7,
+                "4": 13,
+                "5": 12,
+                "7": 1,
+                "8": 1
+            }
+        },
+        "words": [
+            {
+                "word": "DİŞƏ",
+                "explanation": "is. bot. çöldə bitən və heyvan yemikimi istifadə olunan dənli ot növü. yazındumanlı günlərində yerdən göyərən ***otları yeyən at hörükdə idi",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "DİŞİ",
+                "explanation": "sif. və is. 1. canlıların doğan və yumurtlayancinsi (erkək ziddi). *** buzov.madyan atların ***sinə deyilir",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "ƏRƏŞ",
+                "explanation": "is. köhn. dirsəkdən barmaqlarınucuna qədər olan uzunluq ölçüsü",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "ƏRİŞ",
+                "explanation": "is. toxuc. xalçada və başqa toxunmamallarda uzununa müvazi gedən əsasiplər. xananın ***i. – toxunmalar üçün işlənənsaplar",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "ƏŞƏR",
+                "explanation": "is. [ər.] tar. keçmişdə müəyyənməqsədlər üçün gəlirin onda biri miqdarındaverilən vergi",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 5
+            },
+            {
+                "word": "RƏŞƏ",
+                "explanation": "is. [ər.] titrəmə",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 6
+            },
+            {
+                "word": "RİŞƏ",
+                "explanation": "is. [fars.] kök (bitkidə). yazın birayında xoş keçər illər; zoğ edib ***dən başverər güllər. aşıq ələsgər",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 7
+            },
+            {
+                "word": "ŞƏLƏ",
+                "explanation": "is. arxada aparıla biləcək qədərbağlanmış yük (şax",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 8
+            },
+            {
+                "word": "ŞƏRİ",
+                "explanation": "[ər.] din. ***ətcə qanuni",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 9
+            },
+            {
+                "word": "ŞƏVƏ",
+                "explanation": "is. [fars.] 1. əqiq (qiymətli daş). 2. məc. qara. *** saç. *** bığ. – [zabit:] yox",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 10
+            },
+            {
+                "word": "ŞİLƏ",
+                "explanation": "is. qatı düyü şorbası. nə yemisənturşulu ***. (ata. sözü). elədir",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 11
+            },
+            {
+                "word": "ŞİRƏ",
+                "explanation": "is. [fars.] 1. toxumalarda",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 12
+            },
+            {
+                "word": "ŞİVƏ",
+                "explanation": "is. [fars.] 1. danışma tərzi",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 13
+            },
+            {
+                "word": "DİŞLƏ",
+                "explanation": "is. [rus.] arabaya qoşulmuş qoşa atınarasında olub",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 14
+            },
+            {
+                "word": "DİŞLİ",
+                "explanation": "sif. 1. dişi",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 15
+            },
+            {
+                "word": "ƏŞƏDD",
+                "explanation": "sif. [ər.] şiddətli",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 16
+            },
+            {
+                "word": "LƏLƏŞ",
+                "explanation": "is. zar. bir adam özünü öydüyü",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 17
+            },
+            {
+                "word": "RƏŞİD",
+                "explanation": "is. [ər.] igid",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 18
+            },
+            {
+                "word": "ŞƏDDƏ",
+                "explanation": "is. [ər.] 1. bax təşdid.2. sapa düzülmüş mirvari",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 19
+            },
+            {
+                "word": "ŞƏDİD",
+                "explanation": "sif. [ər.] klas. şiddətli",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 20
+            },
+            {
+                "word": "ŞƏRƏR",
+                "explanation": "[ər.] klas. bax şərar(ə). şikəstə zakirəm",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 21
+            },
+            {
+                "word": "ŞƏRİD",
+                "explanation": "is. [ər.] 1. lent",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 22
+            },
+            {
+                "word": "ŞƏRİR",
+                "explanation": "sif. və is. [ər.] şər işlər görən",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 23
+            },
+            {
+                "word": "ŞƏŞƏƏ",
+                "explanation": "is. [ər.] klas. tənt. 1. parlaqlıq",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 24
+            },
+            {
+                "word": "ŞİRLİ",
+                "explanation": "sif. şir vurulmuş",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 25
+            },
+            {
+                "word": "DƏRVİŞ",
+                "explanation": "is. [fars.] 1. qapı-qapı gəzərək",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 26
+            },
+            {
+                "word": "DİŞDİŞ",
+                "explanation": "sif. dişlər halında olan; üzərindədişlər",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 27
+            },
+            {
+                "word": "ŞƏLƏLİ",
+                "explanation": "sif. dalına şələ götürmüş",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 28
+            },
+            {
+                "word": "ŞƏRƏRƏ",
+                "explanation": "[ər.] klas. bax şərar(ə). şikəstə zakirəm",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 29
+            },
+            {
+                "word": "ŞİRƏLİ",
+                "explanation": "sif. 1. şirəsi olan",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 30
+            },
+            {
+                "word": "ŞİVƏLİ",
+                "explanation": "sif. yazlı",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 31
+            },
+            {
+                "word": "VƏRDİŞ",
+                "explanation": "is. təcrübə",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 32
+            },
+            {
+                "word": "ŞƏŞƏƏLİ",
+                "explanation": "sif. təntənəli",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 33
+            },
+            {
+                "word": "VƏRDİŞLİ",
+                "explanation": "sif. vərdişi olan",
+                "isPanagram": true,
+                "score": 17,
+                "length": 8,
+                "id": 34
+            }
+        ]
+    }
+}

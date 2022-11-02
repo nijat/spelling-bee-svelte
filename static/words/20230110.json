@@ -1,0 +1,155 @@
+{
+    "gameData": {
+        "day": "20230110",
+        "expiration": "1673391540",
+        "centerLetter": "L",
+        "outerLetters": [
+            "S",
+            "C",
+            "N",
+            "Y",
+            "İ",
+            "E"
+        ],
+        "words_info": {
+            "word_count": 16,
+            "sum_score": 72,
+            "panagram_count": 1,
+            "word_length": {
+                "5": 10,
+                "4": 5,
+                "10": 1
+            }
+        },
+        "words": [
+            {
+                "word": "ELLİ",
+                "explanation": "sif. 1 vətəni",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "ENLİ",
+                "explanation": "sif. en cəhətdən geniş olan",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "LEYL",
+                "explanation": "is. [ər.] klas. gecə",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "LİNC",
+                "explanation": "sif. 1. aşp. dəm almayıb bir-birinəyapışan düyü. gülmə gülünc olana; bir aşı*** olana; gülürsən də gülgilən; qulağı dincolana",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "SİLL",
+                "explanation": "is. [ər.] köhn. vərəm. [ələkbər:] hərkim bu arvadın üzünə baxsa",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 5
+            },
+            {
+                "word": "CİNLİ",
+                "explanation": "sif. dəli",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 6
+            },
+            {
+                "word": "LEYLİ",
+                "explanation": "sif. [ər.] klas. 1. gecəyə məxsus",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 7
+            },
+            {
+                "word": "LİLLİ",
+                "explanation": "sif. lehməli",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 8
+            },
+            {
+                "word": "SELEN",
+                "explanation": "is. [yun.] kimyəvi element",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 9
+            },
+            {
+                "word": "SELLİ",
+                "explanation": "sif. çox sel olan; çox yağışlı",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 10
+            },
+            {
+                "word": "SİNEL",
+                "explanation": "is. [fr.] qotaz",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 11
+            },
+            {
+                "word": "SİNLİ",
+                "explanation": "sif. yaşlı",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 12
+            },
+            {
+                "word": "SİSLİ",
+                "explanation": "sif. çənli",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 13
+            },
+            {
+                "word": "YELİN",
+                "explanation": "is. məməli heyvanlarda süd yığılan(süd vəziləri və məmələri yerləşən) orqan.bu inəyin ***ində süd çoxdur",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 14
+            },
+            {
+                "word": "YELLİ",
+                "explanation": "sif. 1. küləkli. *** hava. *** bir gün. 2. məc. dan. hirsli",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 15
+            },
+            {
+                "word": "EYNİCİNSLİ",
+                "explanation": "sif. bir cinsə mənsub olan",
+                "isPanagram": true,
+                "score": 17,
+                "length": 10,
+                "id": 16
+            }
+        ]
+    }
+}

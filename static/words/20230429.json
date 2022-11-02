@@ -1,0 +1,149 @@
+{
+    "gameData": {
+        "day": "20230429",
+        "expiration": "1682805540",
+        "centerLetter": "T",
+        "outerLetters": [
+            "Ə",
+            "C",
+            "F",
+            "S",
+            "Z",
+            "İ"
+        ],
+        "words_info": {
+            "word_count": 15,
+            "sum_score": 67,
+            "panagram_count": 1,
+            "word_length": {
+                "5": 5,
+                "8": 1,
+                "4": 6,
+                "7": 1,
+                "6": 2
+            }
+        },
+        "words": [
+            {
+                "word": "ƏTCƏ",
+                "explanation": "is. 1. çılpaq uşaq bədəni.2. bax ***bala. yuvada yumurtadan yenicəçıxmış *** kəklik balaları vardı",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "ƏTƏC",
+                "explanation": "is. məh. yun təmizləyən alət",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "FİTƏ",
+                "explanation": "is. [ər.] hamamda çimərkən və yabir iş görərkən belə bağlanılan qumaş parça(əsasən qırmızı rəngdə olur)",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "TƏZƏ",
+                "explanation": "sif. [fars.] yeni. aptekdən *** dərmangətirmişdilər. c.məmmədquluzadə. [gülyaz:]kəndimizə xəbər yayılıb ki",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "TİTƏ",
+                "explanation": "is. bəzi adamların göz bəbəyindəolan ağ ləkə",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 5
+            },
+            {
+                "word": "ZİFT",
+                "explanation": "is. [ər.] 1. şam ağacından",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 6
+            },
+            {
+                "word": "CƏFTƏ",
+                "explanation": "is. [ər.] möhkəm bağlanmaq üçünqapıya",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 7
+            },
+            {
+                "word": "ƏTSİZ",
+                "explanation": "sif. 1. arıq",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 8
+            },
+            {
+                "word": "SİFƏT",
+                "explanation": "is. [ər.] qram. əşyanın əlamətvə ya keyfiyyətini bildirən nitq hissəsi. sadə***. mürəkkəb ***. ***in müqayisə dərəcəsi",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 9
+            },
+            {
+                "word": "SİFTƏ",
+                "explanation": "1. sif. və zərf qabaqca",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 10
+            },
+            {
+                "word": "TƏSİS",
+                "explanation": "is. [ər.] əsasını",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 11
+            },
+            {
+                "word": "SİSTİT",
+                "explanation": "is. [yun.] sidik kisəsinin iltihabıxəstəliyi",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 12
+            },
+            {
+                "word": "TƏZƏCƏ",
+                "explanation": "1. sif. təzə",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 13
+            },
+            {
+                "word": "SİFƏTCƏ",
+                "explanation": "sif. sifətinə görə",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 14
+            },
+            {
+                "word": "CƏFTƏSİZ",
+                "explanation": "sif. cəftəsi olmayan. ***qapı",
+                "isPanagram": true,
+                "score": 17,
+                "length": 8,
+                "id": 15
+            }
+        ]
+    }
+}

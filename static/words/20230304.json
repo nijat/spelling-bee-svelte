@@ -1,0 +1,295 @@
+{
+    "gameData": {
+        "day": "20230304",
+        "expiration": "1677970740",
+        "centerLetter": "C",
+        "outerLetters": [
+            "R",
+            "N",
+            "L",
+            "K",
+            "İ",
+            "Ə"
+        ],
+        "words_info": {
+            "word_count": 33,
+            "sum_score": 175,
+            "panagram_count": 1,
+            "word_length": {
+                "4": 9,
+                "6": 5,
+                "8": 3,
+                "5": 6,
+                "7": 8,
+                "10": 1,
+                "9": 1
+            }
+        },
+        "words": [
+            {
+                "word": "CƏLƏ",
+                "explanation": "is. at quyruğu qılından ilmək şəklində düzəldilən tələ; duzaq. hər səhər malların altını təmizləyib",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "CİCİ",
+                "explanation": "is. bəzi yerlərdə nəvazişlə anayadeyilir. …bunlar məgər təzə sözdür? bunu***m də bilir. “mol. nəsr",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "CİRƏ",
+                "explanation": "is. bot. xırda ağ çiçəkləri olan birillikbitki (toxumlarından ədviyyə kimi istifadəedilir)",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "ƏCƏL",
+                "explanation": "is. [ər.] hər bir canlının",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "ƏCƏR",
+                "explanation": "is. təzəlik",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 5
+            },
+            {
+                "word": "ƏKƏC",
+                "explanation": "sif. və is. böyük",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 6
+            },
+            {
+                "word": "ƏLCƏ",
+                "explanation": "sif. kiçik",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 7
+            },
+            {
+                "word": "LİNC",
+                "explanation": "sif. 1. aşp. dəm almayıb bir-birinəyapışan düyü. gülmə gülünc olana; bir aşı*** olana; gülürsən də gülgilən; qulağı dincolana",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 8
+            },
+            {
+                "word": "RƏNC",
+                "explanation": "is. [fars.] klas. 1. əziyyət",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 9
+            },
+            {
+                "word": "CİNLİ",
+                "explanation": "sif. dəli",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 10
+            },
+            {
+                "word": "ƏCƏLƏ",
+                "explanation": "[ər.] 1. is. tələsmə",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 11
+            },
+            {
+                "word": "ƏCƏRİ",
+                "explanation": "sif. təzə",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 12
+            },
+            {
+                "word": "ƏLCƏK",
+                "explanation": "is. əli soyuqdan və s.-dən qorumaqüçün barmaqlı",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 13
+            },
+            {
+                "word": "ƏNCİR",
+                "explanation": "is. [fars.] içində xaş-xaş kimixırda tumları olan ətli",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 14
+            },
+            {
+                "word": "KİRƏC",
+                "explanation": "is. tikintidə",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 15
+            },
+            {
+                "word": "CƏNCƏL",
+                "explanation": "1. sif. qarışıq",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 16
+            },
+            {
+                "word": "ƏCİNNƏ",
+                "explanation": "is. [ər.] din. köhn. cin. ***padşahı (nağıllarda). – əhmədi-çekkaş durubgəldi evə. çağırıb ***ləri",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 17
+            },
+            {
+                "word": "KƏCLİK",
+                "explanation": "is. 1. qıyqaclıq",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 18
+            },
+            {
+                "word": "KƏRƏCİ",
+                "explanation": "is. bir neçə adamlıq dorlu qayıq.gəmi",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 19
+            },
+            {
+                "word": "LƏCLİK",
+                "explanation": "is. tərslik",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 20
+            },
+            {
+                "word": "ƏCƏLƏLİ",
+                "explanation": "sif. tələsik",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 21
+            },
+            {
+                "word": "ƏKƏCLİK",
+                "explanation": "is. böyüklük",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 22
+            },
+            {
+                "word": "ƏLCƏCİK",
+                "explanation": "sif. lap balaca",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 23
+            },
+            {
+                "word": "ƏNCİRLİ",
+                "explanation": "sif. 1. əncir ağacları olan. mənsəni çox görmüşəm cavanlıq çağlarında; bol***",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 24
+            },
+            {
+                "word": "ƏRİNCƏK",
+                "explanation": "sif. tənbəl",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 25
+            },
+            {
+                "word": "KİRƏCLİ",
+                "explanation": "sif. tərkibində kirəc olan. ***su. *** torpaq",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 26
+            },
+            {
+                "word": "LƏKƏCİK",
+                "explanation": "is. kiçik ləkə",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 27
+            },
+            {
+                "word": "LİNCLİK",
+                "explanation": "is. dan. günəşdən",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 28
+            },
+            {
+                "word": "CƏNCƏLLİ",
+                "explanation": "sif. davalı",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 29
+            },
+            {
+                "word": "CƏRCƏNƏK",
+                "explanation": "is. omba sümüklərini birləşdirən buğum. □ *** olmaq – omba ağrısı tutmaq. [rüstəm kişi:] çünki tələsərsən",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 30
+            },
+            {
+                "word": "KƏKİLCİK",
+                "explanation": "is. balaca kəkil",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 31
+            },
+            {
+                "word": "KƏRKİNCƏK",
+                "explanation": "is. zool. kiçik şahin; tərlan",
+                "isPanagram": false,
+                "score": 9,
+                "length": 9,
+                "id": 32
+            },
+            {
+                "word": "ƏRİNCƏKLİK",
+                "explanation": "is. tənbəllik",
+                "isPanagram": true,
+                "score": 17,
+                "length": 10,
+                "id": 33
+            }
+        ]
+    }
+}

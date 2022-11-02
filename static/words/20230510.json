@@ -1,0 +1,326 @@
+{
+    "gameData": {
+        "day": "20230510",
+        "expiration": "1683755940",
+        "centerLetter": "Ə",
+        "outerLetters": [
+            "M",
+            "L",
+            "Ş",
+            "Ü",
+            "Z",
+            "Ğ"
+        ],
+        "words_info": {
+            "word_count": 37,
+            "sum_score": 147,
+            "panagram_count": 1,
+            "word_length": {
+                "4": 17,
+                "6": 3,
+                "5": 9,
+                "8": 1,
+                "7": 6,
+                "10": 1
+            }
+        },
+        "words": [
+            {
+                "word": "ƏLƏM",
+                "explanation": "is. [ər.] dərd",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "ƏMƏL",
+                "explanation": "is. [ər.] qayə",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "ƏMMƏ",
+                "explanation": "is. [ər.] klas. bibi. aya",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "ƏZƏL",
+                "explanation": "[ər.] 1. is. əvvəli",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "ƏZƏM",
+                "explanation": "sif. [ər.] köhn. böyük",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 5
+            },
+            {
+                "word": "ƏZMƏ",
+                "explanation": "is. məh. bülöv. dəryazı *** iləitiləmək",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 6
+            },
+            {
+                "word": "LƏLƏ",
+                "explanation": "is. 1. keçmişdə kübar və varlı ai***rdəoğlan uşağının tərbiyəsilə məşğul olanadam. [qətibə xanım:] səba xanım",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 7
+            },
+            {
+                "word": "LƏMƏ",
+                "explanation": "is. tavandan bir az aşağı divaruzunu kərpicdən",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 8
+            },
+            {
+                "word": "LÜLƏ",
+                "explanation": "is. 1. odlu silahların gülləyə",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 9
+            },
+            {
+                "word": "LÜMƏ",
+                "explanation": "sif. quyruğu olmayan və ya qısa olan; quyruğukəsik. *** xoruz (toyuq). – cücələrim ***k-***k; qanadları gödək-gödək",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 10
+            },
+            {
+                "word": "MƏĞZ",
+                "explanation": "is. [fars.] 1. dan. bax ləpə2. badamın***i. qoz ***i.2. məc. mahiyyət",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 11
+            },
+            {
+                "word": "MƏLƏ",
+                "explanation": "is. 1. zool. çox bərk sancan qanadsız",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 12
+            },
+            {
+                "word": "MƏMƏ",
+                "explanation": "is. məc. ana. [şərəfnisə xanım:]əgər ***m deyən dərviş olmasaydı",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 13
+            },
+            {
+                "word": "MƏZƏ",
+                "explanation": "is. [fars.] 1. adətən iştaha üçünəsas yeməkdən qabaq və ya onunla birlikdə",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 14
+            },
+            {
+                "word": "ŞƏLƏ",
+                "explanation": "is. arxada aparıla biləcək qədərbağlanmış yük (şax",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 15
+            },
+            {
+                "word": "ŞÜLƏ",
+                "explanation": "is. məh. hər iki tərəfə uzadılmış qollarınarasındakı məsafə (şərti uzunluq ölçüsü)",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 16
+            },
+            {
+                "word": "ŞÜŞƏ",
+                "explanation": "is. 1. kvarslı qumu əridib kimyəvi üsulla işləmək nəticəsində alınan sərt",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 17
+            },
+            {
+                "word": "ƏLZƏM",
+                "explanation": "sif. [ər.] klas. daha lazım",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 18
+            },
+            {
+                "word": "ƏMƏLƏ",
+                "explanation": "is. [ər.] fəhlə",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 19
+            },
+            {
+                "word": "ƏZƏLƏ",
+                "explanation": "is. [ər.] anat. insan və heyvanbədəninin",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 20
+            },
+            {
+                "word": "LƏLƏŞ",
+                "explanation": "is. zar. bir adam özünü öydüyü",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 21
+            },
+            {
+                "word": "MƏLƏZ",
+                "explanation": "sif. [ər. mələs] 1. müxtəlif irqdəntörəmiş; metis. *** adam.2. başqa-başqa cinslərin birləşməsindəntörəmiş",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 22
+            },
+            {
+                "word": "MƏMƏŞ",
+                "explanation": "is. uş. məmə",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 23
+            },
+            {
+                "word": "MƏŞƏL",
+                "explanation": "is. [ər.] 1. ətrafı işıqlandırmaqüçün ağac və s. başına sarınaraq",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 24
+            },
+            {
+                "word": "ŞƏŞƏƏ",
+                "explanation": "is. [ər.] klas. tənt. 1. parlaqlıq",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 25
+            },
+            {
+                "word": "ZƏMMƏ",
+                "explanation": "is. [ər.] ərəb əlifbasında “ü”saitini əvəz edən və hərfin üstündə qoyulanişarəsinin adı; piş",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 26
+            },
+            {
+                "word": "ƏLLƏMƏ",
+                "explanation": "is. məh. daş",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 27
+            },
+            {
+                "word": "MƏLƏMƏ",
+                "explanation": "“***k”dən f.is. bu haldaqızıl inəyin ***si qızxanımın qulağınaçatdı. s.s.axundov",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 28
+            },
+            {
+                "word": "ZƏMZƏM",
+                "explanation": "is. [ər.] məkkənin yanındaolub",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 29
+            },
+            {
+                "word": "MƏLƏŞMƏ",
+                "explanation": "“***k”dən f.is. qoyun***si",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 30
+            },
+            {
+                "word": "MƏŞĞƏLƏ",
+                "explanation": "is. [ər.] 1. bir şeyi bir yerəyığışaraq öyrənmə",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 31
+            },
+            {
+                "word": "MÜƏZZƏM",
+                "explanation": "sif. [ər.] 1. tənt. əzəmətli",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 32
+            },
+            {
+                "word": "MÜLƏMMƏ",
+                "explanation": "is. [ər.] ədəb. 1. hər misrasıbaşqa dildə olan şeir. füzulinin ***ləriməşhurdur.2. sif. köhn. ala-bula",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 33
+            },
+            {
+                "word": "ZƏLZƏLƏ",
+                "explanation": "is. [ər.] yer qabığının bəzi sahələrininvulkanik və ya tektonik proseslərüzündən güclü titrəməsi; yer sarsıntısı",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 34
+            },
+            {
+                "word": "ZÜMZÜMƏ",
+                "explanation": "is. [ər.] ahəstə səslə",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 35
+            },
+            {
+                "word": "LÜLƏLÜLƏ",
+                "explanation": "sif. və zərf lüləyə oxşar",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 36
+            },
+            {
+                "word": "ŞÜĞÜLZÜMMƏ",
+                "explanation": "is. [ər.] köhn. din. müsəlmanlıqda: allah qabağında günahkarlıq",
+                "isPanagram": true,
+                "score": 17,
+                "length": 10,
+                "id": 37
+            }
+        ]
+    }
+}

@@ -1,0 +1,175 @@
+{
+    "gameData": {
+        "day": "20221231",
+        "expiration": "1672527540",
+        "centerLetter": "R",
+        "outerLetters": [
+            "B",
+            "K",
+            "L",
+            "E",
+            "V",
+            "İ"
+        ],
+        "words_info": {
+            "word_count": 18,
+            "sum_score": 101,
+            "panagram_count": 1,
+            "word_length": {
+                "4": 4,
+                "7": 1,
+                "10": 1,
+                "8": 2,
+                "6": 3,
+                "5": 6,
+                "9": 1
+            }
+        },
+        "words": [
+            {
+                "word": "BİKR",
+                "explanation": "[ər.] bax bakir(ə)",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "BİRİ",
+                "explanation": "əvəz. 1. müəyyən olmayan şəxs",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "KİBR",
+                "explanation": "is. [ər.] özünü hamıdan üstün tutma",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "RELE",
+                "explanation": "[fr.] elektrik dövrəsini müəyyənhadisələr zamanı avtomatik olaraq açan vəya bağlayan alət",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "EKKER",
+                "explanation": "[fr.] yerdə müəyyən dərəcəli bucaqlarqurmaq üçün geodeziya aləti; künyə",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 5
+            },
+            {
+                "word": "KİRKİ",
+                "explanation": "1 is. xüs. xalça toxunarkən ilməklərini sıxlaşdırmaq üçün işlədilən alət; daraq",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 6
+            },
+            {
+                "word": "KİRLİ",
+                "explanation": "sif. kir tutmuş",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 7
+            },
+            {
+                "word": "KLERK",
+                "explanation": "is. [fr.] 1. kontor xidmətçisi.2. köhn. ruhani",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 8
+            },
+            {
+                "word": "LİRİK",
+                "explanation": "sif. [yun.] 1. ***a xüsusiyyətləriolan",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 9
+            },
+            {
+                "word": "LİVER",
+                "explanation": "is. [ing.] ətlik malın",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 10
+            },
+            {
+                "word": "BİRLİK",
+                "explanation": "is. 1. bir olma",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 11
+            },
+            {
+                "word": "KİBRLİ",
+                "explanation": "sif. lovğa",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 12
+            },
+            {
+                "word": "KİRLİK",
+                "explanation": "is. bir şeyin çirklənməməsi üçünonun üzərinə çəkilən parça. // döşlük",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 13
+            },
+            {
+                "word": "BİREVLİ",
+                "explanation": "sif. çox yaxın",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 14
+            },
+            {
+                "word": "BİRİLLİK",
+                "explanation": "sif. 1. bir il davam edən",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 15
+            },
+            {
+                "word": "KİRLİLİK",
+                "explanation": "is. kirli şeyin halı; çirklilik",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 16
+            },
+            {
+                "word": "KİBRLİLİK",
+                "explanation": "is. kibrli adamın hal və keyfiyyəti;lovğalıq",
+                "isPanagram": false,
+                "score": 9,
+                "length": 9,
+                "id": 17
+            },
+            {
+                "word": "BİREVLİLİK",
+                "explanation": "is. çox yaxınlıq",
+                "isPanagram": true,
+                "score": 17,
+                "length": 10,
+                "id": 18
+            }
+        ]
+    }
+}

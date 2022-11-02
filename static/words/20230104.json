@@ -1,0 +1,277 @@
+{
+    "gameData": {
+        "day": "20230104",
+        "expiration": "1672873140",
+        "centerLetter": "L",
+        "outerLetters": [
+            "B",
+            "S",
+            "N",
+            "T",
+            "A",
+            "E"
+        ],
+        "words_info": {
+            "word_count": 31,
+            "sum_score": 163,
+            "panagram_count": 1,
+            "word_length": {
+                "8": 2,
+                "7": 5,
+                "5": 11,
+                "4": 6,
+                "6": 7
+            }
+        },
+        "words": [
+            {
+                "word": "BALA",
+                "explanation": "1. is. övlad",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "ELAN",
+                "explanation": "is. [ər.] 1. yazılı",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "LAST",
+                "explanation": "is. [ing.] sualtı üzgüçülükdə istifadəedilən xüsusi rezin ayaqlıq",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "LENT",
+                "explanation": "is. [alm.] 1. bəzək və s. üçün işlədiləndar",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "TALA",
+                "explanation": "is. meşədə ağacsız",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 5
+            },
+            {
+                "word": "TALE",
+                "explanation": "is. [ər.] 1. bəxt",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 6
+            },
+            {
+                "word": "ALANA",
+                "explanation": "is. içərisi şəkərli qozla doldurulmuşmeyvə qurusu (armud",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 7
+            },
+            {
+                "word": "ALBAN",
+                "explanation": "is. 1. ***iya xalq respublikasının əsas əhalisinin adı və bu xalqa mənsub adam; arnaud. 2. tar. azərbaycanın şimal hissəsində yaşamış qədim xalqın a",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 8
+            },
+            {
+                "word": "ASLAN",
+                "explanation": "is. 1. şir",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 9
+            },
+            {
+                "word": "BALBA",
+                "explanation": "is. məh. cincilim",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 10
+            },
+            {
+                "word": "BALET",
+                "explanation": "is. [ital.] 1. musiqinin müşayiətiilə icra edilən rəqs və mimik hərəkətlərdənibarət müəyyən teatr tamaşası",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 11
+            },
+            {
+                "word": "BALTA",
+                "explanation": "is. odun doğramaq",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 12
+            },
+            {
+                "word": "NALAN",
+                "explanation": "sif. və zərf [fars.] ağlayan",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 13
+            },
+            {
+                "word": "SALAT",
+                "explanation": "[ər.] dəfn günü vəfat edənin evinin üstündə uca səslə oxunan minacat. □ *** çəkmək – vəfat edənin evinin üstündə uca səslə minacat oxumaq",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 14
+            },
+            {
+                "word": "SELAB",
+                "explanation": "is. [ər. seyl və fars. ab] 1. sel suyu.dağdan *** gəlir. – [şahin:] görəsən",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 15
+            },
+            {
+                "word": "SELEN",
+                "explanation": "is. [yun.] kimyəvi element",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 16
+            },
+            {
+                "word": "TALAN",
+                "explanation": "is. [fars.] 1. qarət",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 17
+            },
+            {
+                "word": "BALANS",
+                "explanation": "[fr.] 1. mühasibatda: aktiv vəpassiv hesabların qalıqlarını göstərən və hərhansı bir təsərrüfat və ya müəssisəninmüəyyən dövr ərzindəki maliyyə vəz",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 18
+            },
+            {
+                "word": "BALATA",
+                "explanation": "is. məh. maya",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 19
+            },
+            {
+                "word": "BALBAS",
+                "explanation": "is. iri qoyun cinsi",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 20
+            },
+            {
+                "word": "BANBAL",
+                "explanation": "is. məh. iri barama",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 21
+            },
+            {
+                "word": "LANSET",
+                "explanation": "is. [alm.] cərrah aləti",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 22
+            },
+            {
+                "word": "SANBAL",
+                "explanation": "is. çəki",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 23
+            },
+            {
+                "word": "TANTAL",
+                "explanation": "is. [lat.] elementlərin dövrü sistemininv qrupundan ta-kimyəvi element",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 24
+            },
+            {
+                "word": "ALATALA",
+                "explanation": "sif. tala-tala",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 25
+            },
+            {
+                "word": "ANABALA",
+                "explanation": "is. ana ilə oğlu və ya qızı.səməd getdi. ana-bala baş-başa veribağlaşdılar. b.talıblı. taxt üstündə ***oturublar yanaşı",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 26
+            },
+            {
+                "word": "ATABALA",
+                "explanation": "is. ata ilə oğlu",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 27
+            },
+            {
+                "word": "BALABAN",
+                "explanation": "is. nəfəslə çalınan qamışdan",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 28
+            },
+            {
+                "word": "BALLAST",
+                "explanation": "[ing.] üzərində dəmiryol şpallarıduran dəmiryol yatağının üzərinə döşənənçınqıl",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 29
+            },
+            {
+                "word": "ALABABAT",
+                "explanation": "sif. və zərf dan. nə yaxşı",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 30
+            },
+            {
+                "word": "TELBASAN",
+                "explanation": "is. saçları başda düzgün saxlamaq üçün qadınların saçlarına sancdıqları əşya",
+                "isPanagram": true,
+                "score": 17,
+                "length": 8,
+                "id": 31
+            }
+        ]
+    }
+}

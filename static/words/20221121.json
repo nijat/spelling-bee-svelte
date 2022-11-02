@@ -1,0 +1,165 @@
+{
+    "gameData": {
+        "day": "20221121",
+        "expiration": "1669071540",
+        "centerLetter": "S",
+        "outerLetters": [
+            "M",
+            "A",
+            "N",
+            "L",
+            "V",
+            "D"
+        ],
+        "words_info": {
+            "word_count": 17,
+            "sum_score": 77,
+            "panagram_count": 1,
+            "word_length": {
+                "5": 7,
+                "4": 6,
+                "6": 2,
+                "7": 1,
+                "10": 1
+            }
+        },
+        "words": [
+            {
+                "word": "ASAN",
+                "explanation": "sif. zəhmət tələb etməyən",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "ASMA",
+                "explanation": "1. “***q”dan f.is.2. sif. bir yerdən asılan",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "MASA",
+                "explanation": "is. [rumıncadan] miz",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "SAAM",
+                "explanation": "is. kola yarımadasında",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "SAVA",
+                "explanation": "sif. öz vaxtında deyil",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 5
+            },
+            {
+                "word": "VALS",
+                "explanation": "[fr.] 1. iki nəfərin birgə oynadığıavropa rəqslərindən birinin adı. *** oynayanoğlan və qızlar bir-iki-üç",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 6
+            },
+            {
+                "word": "ADSAN",
+                "explanation": "is. nüfuz",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 7
+            },
+            {
+                "word": "ASLAN",
+                "explanation": "is. 1. şir",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 8
+            },
+            {
+                "word": "AVANS",
+                "explanation": "is. [fr.] əvvəlcədən ödəmə",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 9
+            },
+            {
+                "word": "MASAL",
+                "explanation": "is. nağıl",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 10
+            },
+            {
+                "word": "SALAM",
+                "explanation": "is. [ər.] görüşərkən bir-birinə sülhvə əmin-amanlıq diləmək ifadəsi. □ ***e(y)ləmək klas. – ***lamaq",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 11
+            },
+            {
+                "word": "SAMAN",
+                "explanation": "is. [fars.] var",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 12
+            },
+            {
+                "word": "SAVAD",
+                "explanation": "is. [ər.] yazıb-oxumağı bacarma; yazı-pozu. [mozalanbəy:] axı rusca ***ım yoxdur. ə.haqverdiyev. şagirdlərin ***ı müxtəlif idi",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 13
+            },
+            {
+                "word": "LAVSAN",
+                "explanation": "is. sintetik lif növü və ondantoxunmuş parça",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 14
+            },
+            {
+                "word": "VASSAL",
+                "explanation": "[fr.] 1. tar. orta əsrlərdə qərbiavropada: özündən daha böyük və güclüolan feodaldan asılı və onun üçün müəyyənmükəlləfiyyətlər görməyə borclu olan",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 15
+            },
+            {
+                "word": "SALLAMA",
+                "explanation": "1. “***q”dan f.is.2. zərf bir ucunu aşağı salladaraq",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 16
+            },
+            {
+                "word": "SAVADLANMA",
+                "explanation": "“***q”dan f.is.köhnə ərəb əlifbasının çətinliyi geniş xalqkütləsinin ***sına imkan vermirdi",
+                "isPanagram": true,
+                "score": 17,
+                "length": 10,
+                "id": 17
+            }
+        ]
+    }
+}

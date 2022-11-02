@@ -1,0 +1,534 @@
+{
+    "gameData": {
+        "day": "20221127",
+        "expiration": "1669589940",
+        "centerLetter": "T",
+        "outerLetters": [
+            "Ü",
+            "İ",
+            "N",
+            "Ə",
+            "K",
+            "L"
+        ],
+        "words_info": {
+            "word_count": 63,
+            "sum_score": 343,
+            "panagram_count": 1,
+            "word_length": {
+                "6": 16,
+                "4": 10,
+                "7": 8,
+                "5": 21,
+                "8": 6,
+                "9": 2
+            }
+        },
+        "words": [
+            {
+                "word": "ƏTƏK",
+                "explanation": "is. 1. paltarın beldən aşağı tərəfəuzanan hissəsi. paltonun ətəyi uzundur. pencəyinətəyini bir qədər qısaltmaq lazımdır",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "ƏTLİ",
+                "explanation": "sif. 1. ətcə dolğun; kök",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "KƏTƏ",
+                "explanation": "is. ı. göyərti qutabı. [mahmud:] bir***yə bax",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "TƏKƏ",
+                "explanation": "is. 1. erkək keçi.2. vəhşi keçi",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "TƏLƏ",
+                "explanation": "is. vəhşi və ov heyvanlarını və yaquşları",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 5
+            },
+            {
+                "word": "TƏLL",
+                "explanation": "is. uzun təpə. [bəxtiyar] gözünüaçanda gördü",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 6
+            },
+            {
+                "word": "TƏNƏ",
+                "explanation": "[ər.] 1. is. danlaq",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 7
+            },
+            {
+                "word": "TİKƏ",
+                "explanation": "is. 1. böyük bir şeydən sınmış",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 8
+            },
+            {
+                "word": "TİTƏ",
+                "explanation": "is. bəzi adamların göz bəbəyindəolan ağ ləkə",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 9
+            },
+            {
+                "word": "ÜTÜK",
+                "explanation": "sif. üzdən yanmış",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 10
+            },
+            {
+                "word": "ƏTƏNƏ",
+                "explanation": "is. məməlilərdə: ana bətnindəbalanı bürüyən və bala onun içindən çıxdıqdansonra cırılıb düşən ət pərdəsi; son",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 11
+            },
+            {
+                "word": "ƏTLİK",
+                "explanation": "sif. kəsilmək (əti yeyilmək) üçünsaxlanılan. *** mal. – öküzün cütə getməyənini*** adına satarlar",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 12
+            },
+            {
+                "word": "KƏTİL",
+                "explanation": "is. 1. söykənəcəyi olmayan sadəstul",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 13
+            },
+            {
+                "word": "KÜTLƏ",
+                "explanation": "is. [ər.] mexanikanın əsas kəmiyyətlərindənbiri – bir cisimdə olan maddəninmiqdarını ölçən əsas kəmiyyət; cismin",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 14
+            },
+            {
+                "word": "LƏKTƏ",
+                "explanation": "sif. dan. köhn. həyasız",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 15
+            },
+            {
+                "word": "LƏNƏT",
+                "explanation": "[ər.] 1. dini etiqada görə allahın mərhəmətindən məhrum olma",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 16
+            },
+            {
+                "word": "NÜKTƏ",
+                "explanation": "is. [ər.] klas. bir sözdən",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 17
+            },
+            {
+                "word": "TƏKNƏ",
+                "explanation": "is. 1. əsasən xəmir yoğurmaq üçünişlədilən dərin",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 18
+            },
+            {
+                "word": "TƏLƏT",
+                "explanation": "is. [ər.] 1. üz",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 19
+            },
+            {
+                "word": "TƏNƏK",
+                "explanation": "is. üzüm ağacı",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 20
+            },
+            {
+                "word": "TƏTİK",
+                "explanation": "is. odlu silahların atəş açmaq üçünbarmaqla geri çəkilən manivelası. avtomatıntətiyi. tüfəngin tətiyi",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 21
+            },
+            {
+                "word": "TƏTİL",
+                "explanation": "is. [ər.] 1. işin kütləvi və mütəşəkkilsurətdə dayandırılması. aprelin iyirmi doqquzundabaşlanan xırda ***lər iyulun ikisindənümumi *** şəklini",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 22
+            },
+            {
+                "word": "TİNƏT",
+                "explanation": "is. [ər.] klas. xilqət",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 23
+            },
+            {
+                "word": "TİNLİ",
+                "explanation": "sif. tini olan; tilli. iti *** stol",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 24
+            },
+            {
+                "word": "TÜKLÜ",
+                "explanation": "sif. 1. tükü olan",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 25
+            },
+            {
+                "word": "TÜLƏK",
+                "explanation": "sif. tükünü",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 26
+            },
+            {
+                "word": "TÜLKÜ",
+                "explanation": "is. 1. zool. itlər ailəsindən",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 27
+            },
+            {
+                "word": "TÜNÜK",
+                "explanation": "sif. dan. nazik",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 28
+            },
+            {
+                "word": "TÜTƏK",
+                "explanation": "is. qarğıdan və s.-dən qayrılmışnəfəsli xalq musiqi aləti. *** çalmaq. – çobananar səni",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 29
+            },
+            {
+                "word": "TÜTÜN",
+                "explanation": "is. 1. yarpaqlarında nikotin olanquşüzümü ailəsindən ot-bitki. *** zəmisi.*** yığımı. – ağacların qalın gövdələriarasından yaşıl *** plantasi",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 30
+            },
+            {
+                "word": "ÜTÜLÜ",
+                "explanation": "sif. ütü çəkilmiş",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 31
+            },
+            {
+                "word": "ƏLİİTİ",
+                "explanation": "sif. əldən çapıq; zirək",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 32
+            },
+            {
+                "word": "ƏTƏKLİ",
+                "explanation": "sif. 1. ətəyi geniş və uzun. *** paltar. 2. ətəyi",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 33
+            },
+            {
+                "word": "KƏLTƏN",
+                "explanation": "is. məh. iri kəsək. dişli malalariri ***ləri əzib xırdalayır. – əkbər***i… məşədi hüseynin kəlləsinə çırpmaqistəyəndə müslüm qoymadı",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 34
+            },
+            {
+                "word": "KÜTLÜK",
+                "explanation": "is. 1. küt şeyin hal və keyfiyyəti.bıçağın kütlüyü. qayçı ***dən kəsmir.2. məc. həssaslığın",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 35
+            },
+            {
+                "word": "LÜTLÜK",
+                "explanation": "is. 1. çılpaqlıq.2. məc. bitkisizlik; yaşıllıqdan",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 36
+            },
+            {
+                "word": "TƏKTƏK",
+                "explanation": "sif. və zərf 1. birbəbir",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 37
+            },
+            {
+                "word": "TƏKTÜK",
+                "explanation": "sif. tək-tək",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 38
+            },
+            {
+                "word": "TƏKLİK",
+                "explanation": "is. 1. onluqda birinci",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 39
+            },
+            {
+                "word": "TƏLƏKƏ",
+                "explanation": "sif. köhnə cır-cındır",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 40
+            },
+            {
+                "word": "TƏNƏKƏ",
+                "explanation": "is. nazik dəmir təbəqəsi. ***parçası. // ***dən düzəldilmiş. ***vedrə. *** suqabı",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 41
+            },
+            {
+                "word": "TƏNƏLİ",
+                "explanation": "sif. tənə ilə deyilən",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 42
+            },
+            {
+                "word": "TƏNLİK",
+                "explanation": "is. riyaz. bir və ya bir neçə məchulkəmiyyəti olan və həmin məchul kəmiyyətlərinmüəyyən qiymətləri zamanı öz bərabərliyinisaxlayan riyazi bərabərli",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 43
+            },
+            {
+                "word": "TƏNTİK",
+                "explanation": "sif. dan. 1. sadədil",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 44
+            },
+            {
+                "word": "TİKİLİ",
+                "explanation": "is. bina",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 45
+            },
+            {
+                "word": "TİTƏLİ",
+                "explanation": "sif. titəsi olan",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 46
+            },
+            {
+                "word": "TÜNLÜK",
+                "explanation": "is. qələbəlik",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 47
+            },
+            {
+                "word": "ƏTƏKLİK",
+                "explanation": "is. köhn. zinət üçün qadınpaltarının ətəyinə düzülən pul və s. ətəkliyialtun",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 48
+            },
+            {
+                "word": "ƏTƏNƏLİ",
+                "explanation": "sif. ətənəsi olan (məməlilərhaqqında)",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 49
+            },
+            {
+                "word": "ƏTLİLİK",
+                "explanation": "is. ətli heyvanın hal və keyfiyyəti",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 50
+            },
+            {
+                "word": "KÜTLƏLİ",
+                "explanation": "sif. kütləsi olan; tutumlu",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 51
+            },
+            {
+                "word": "TƏKLÜLƏ",
+                "explanation": "is. bir lüləsi olan tüfəng",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 52
+            },
+            {
+                "word": "TƏNTƏNƏ",
+                "explanation": "is. [ər.] 1. təmtəraq",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 53
+            },
+            {
+                "word": "TİKİNTİ",
+                "explanation": "is. 1. bina",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 54
+            },
+            {
+                "word": "KƏKKİLTİ",
+                "explanation": "is. kəkliyin çıxardığı səs. kəkliyin***si eşidilirdi",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 55
+            },
+            {
+                "word": "KƏLTƏNLİ",
+                "explanation": "sif. məh. kəltəni olan; kəsəkli.*** yer. *** tarla",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 56
+            },
+            {
+                "word": "TƏNƏKLİK",
+                "explanation": "is. çoxlu tənək əkilmiş yer;üzümlük",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 57
+            },
+            {
+                "word": "TÜKLÜLÜK",
+                "explanation": "is. tüklü olma",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 58
+            },
+            {
+                "word": "TÜLKÜLÜK",
+                "explanation": "is. hiyləgərlik",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 59
+            },
+            {
+                "word": "TÜNÜKLÜK",
+                "explanation": "is. dan. tünük şeyin halı;naziklik. parçanın tünüklüyü",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 60
+            },
+            {
+                "word": "TƏNTƏNƏLİ",
+                "explanation": "sif. və zərf 1. təntənə iləkeçirilən; dəbdəbəli",
+                "isPanagram": false,
+                "score": 9,
+                "length": 9,
+                "id": 61
+            },
+            {
+                "word": "TƏNTİKLİK",
+                "explanation": "is. dan. 1. sadədillik",
+                "isPanagram": false,
+                "score": 9,
+                "length": 9,
+                "id": 62
+            },
+            {
+                "word": "NÜKTƏLİ",
+                "explanation": "sif. içərisində incə və dərin",
+                "isPanagram": true,
+                "score": 17,
+                "length": 7,
+                "id": 63
+            }
+        ]
+    }
+}

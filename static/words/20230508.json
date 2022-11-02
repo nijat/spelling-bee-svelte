@@ -1,0 +1,190 @@
+{
+    "gameData": {
+        "day": "20230508",
+        "expiration": "1683583140",
+        "centerLetter": "T",
+        "outerLetters": [
+            "R",
+            "M",
+            "E",
+            "Ş",
+            "Ə",
+            "B"
+        ],
+        "words_info": {
+            "word_count": 20,
+            "sum_score": 100,
+            "panagram_count": 1,
+            "word_length": {
+                "5": 6,
+                "8": 2,
+                "10": 1,
+                "6": 4,
+                "4": 6,
+                "7": 1
+            }
+        },
+        "words": [
+            {
+                "word": "ƏTƏR",
+                "explanation": "is. dan. iz",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "ƏTƏŞ",
+                "explanation": "is. [fars.] susuzluq",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "MƏTƏ",
+                "explanation": "is. yerdə oyun üçün çəkilən dairə(əsasən uşaq oyunlarında). ***dən çıxmaq",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "RƏBT",
+                "explanation": "is. [ər.] 1. bağlama",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "ŞƏRT",
+                "explanation": "is. [ər.] 1. bir şeyin var olması",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 5
+            },
+            {
+                "word": "TEŞT",
+                "explanation": "is. [fars.] iri mis tas. [dərviş:] xanım",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 6
+            },
+            {
+                "word": "BERET",
+                "explanation": "[fr.] günlüyü və kənarları olmayanyumşaq baş geyimi",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 7
+            },
+            {
+                "word": "BETƏR",
+                "explanation": "sif. və zərf [fars.] 1. daha pis",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 8
+            },
+            {
+                "word": "ƏMTƏƏ",
+                "explanation": "is. [ər. “məta” söz. cəmi] iqt. kit. mübadilə üçün istehsal edilən əmək məhsulları; mal. *** insanın hər hansı bir ehtiyacını təmin edən",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 9
+            },
+            {
+                "word": "TEMBR",
+                "explanation": "[fr. timbre] hər bir səs və yamusiqi aləti üçün səciyyəvi olan xüsusi səskeyfiyyəti",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 10
+            },
+            {
+                "word": "TƏBƏƏ",
+                "explanation": "is. [ər. “tabe” söz. cəmi] bir dövlətə tabe olan",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 11
+            },
+            {
+                "word": "TƏŞƏR",
+                "explanation": "sif. nadinc. *** uşaq",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 12
+            },
+            {
+                "word": "BƏRBƏT",
+                "explanation": "is. [ər.] uda oxşar qədim çalğıaləti. əldə incə ***",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 13
+            },
+            {
+                "word": "MƏTBƏƏ",
+                "explanation": "is. [ər.] kitab",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 14
+            },
+            {
+                "word": "MƏTƏRƏ",
+                "explanation": "is. [ər.] yolda",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 15
+            },
+            {
+                "word": "ŞƏRBƏT",
+                "explanation": "is. [ər.] 1. meyvə şirələrinə vəya adi suya qənd qatmaqla hazırlanan şiriniçki. // sirop. bayram zamanı hil",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 16
+            },
+            {
+                "word": "MƏRTƏBƏ",
+                "explanation": "is. [ər.] 1. evin üst-üstə tikilmişqatlarının hər biri; qat. evin üst ***si.5-ci ***.2. bir səviyyədə",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 17
+            },
+            {
+                "word": "BEŞBETƏR",
+                "explanation": "sif. [beş və fars. bədtər]daha pis",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 18
+            },
+            {
+                "word": "MƏTƏMƏTƏ",
+                "explanation": "is. mətə içərisində oynanılanuşaq oyunu",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 19
+            },
+            {
+                "word": "BEŞMƏRTƏBƏ",
+                "explanation": "sif. beş mərtəbəsi olan; beşqat. ***(li) ev",
+                "isPanagram": true,
+                "score": 17,
+                "length": 10,
+                "id": 20
+            }
+        ]
+    }
+}

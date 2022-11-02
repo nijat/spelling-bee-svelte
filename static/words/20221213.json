@@ -1,0 +1,197 @@
+{
+    "gameData": {
+        "day": "20221213",
+        "expiration": "1670972340",
+        "centerLetter": "B",
+        "outerLetters": [
+            "Ş",
+            "M",
+            "Ə",
+            "L",
+            "N",
+            "İ"
+        ],
+        "words_info": {
+            "word_count": 21,
+            "sum_score": 95,
+            "panagram_count": 1,
+            "word_length": {
+                "4": 7,
+                "5": 8,
+                "6": 4,
+                "7": 1,
+                "8": 1
+            }
+        },
+        "words": [
+            {
+                "word": "BƏBƏ",
+                "explanation": "is. 1. körpə uşaq",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "BƏNİ",
+                "explanation": "[ər.] övlad",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "BİBİ",
+                "explanation": "is. övlad üçün atanın bacısı",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "BİNƏ",
+                "explanation": "is. 1. köçərilərin mal-qara ilə köçüb",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "BİŞİ",
+                "explanation": "is. yağlı şirin xəmirdən ***rilən nazikqoğal növü",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 5
+            },
+            {
+                "word": "BLİN",
+                "explanation": "is. [rus.] mayalı xəmirdən qızartmaüsulu ilə bişirilmiş nazik kökə",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 6
+            },
+            {
+                "word": "NƏBİ",
+                "explanation": "is. [ər.] klas. peyğəmbər. ya ***",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 7
+            },
+            {
+                "word": "BƏLƏN",
+                "explanation": "is. məh. dağ döşündə tala. ***dənendim düzə; su bağladım nərgizə.(bayatı). …eyvaz koroğluynan bərabər qoyunlarıhayladı",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 8
+            },
+            {
+                "word": "BƏLİM",
+                "explanation": "is. darı",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 9
+            },
+            {
+                "word": "BƏLLİ",
+                "explanation": "sif. aydın",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 10
+            },
+            {
+                "word": "BİLƏN",
+                "explanation": "sif. anlayan",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 11
+            },
+            {
+                "word": "BİLİŞ",
+                "explanation": "is. 1. bilmək işi",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 12
+            },
+            {
+                "word": "BİLLƏ",
+                "explanation": "is. məh. uşaqlara verilən hər cürşirniyyat",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 13
+            },
+            {
+                "word": "MƏNBƏ",
+                "explanation": "is. [ər.] 1. yeraltı suların çıxdığıyer; qaynaq",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 14
+            },
+            {
+                "word": "ŞƏNBƏ",
+                "explanation": "is. [fars.] həftənin cümədən sonra gələn günü. *** günü. – [yusif:] uşaqlar",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 15
+            },
+            {
+                "word": "BİƏMƏL",
+                "explanation": "sif. [fars. bi… və ər. əməl] dediyinə və ya deyilənə əməl etməyən; boşboğaz",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 16
+            },
+            {
+                "word": "BİNƏLİ",
+                "explanation": "sif. dan. 1. bir yerdə yurd salmış",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 17
+            },
+            {
+                "word": "BİŞMİŞ",
+                "explanation": "1. sif. odda qızardılmaqla və yasuda qaynadılmaqla hazırlanmış (çiy müqabili).*** ət. *** yumurta",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 18
+            },
+            {
+                "word": "ŞƏBNƏM",
+                "explanation": "is. [fars.] bax şeh. [dərviş:]gül qonçasında *** parıldayan kimi",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 19
+            },
+            {
+                "word": "LƏBLƏBİ",
+                "explanation": "is. çərəz kimi yeyilən qovrulmuşqabıqsız noxud. əkdiyim noxud",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 20
+            },
+            {
+                "word": "ŞƏBNƏMLİ",
+                "explanation": "sif. şəbnəm (şeh) düşmüş",
+                "isPanagram": true,
+                "score": 17,
+                "length": 8,
+                "id": 21
+            }
+        ]
+    }
+}

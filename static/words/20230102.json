@@ -1,0 +1,366 @@
+{
+    "gameData": {
+        "day": "20230102",
+        "expiration": "1672700340",
+        "centerLetter": "T",
+        "outerLetters": [
+            "Ö",
+            "R",
+            "K",
+            "Ü",
+            "Ə",
+            "M"
+        ],
+        "words_info": {
+            "word_count": 42,
+            "sum_score": 199,
+            "panagram_count": 1,
+            "word_length": {
+                "5": 14,
+                "4": 12,
+                "6": 8,
+                "7": 4,
+                "9": 1,
+                "8": 3
+            }
+        },
+        "words": [
+            {
+                "word": "ƏTƏK",
+                "explanation": "is. 1. paltarın beldən aşağı tərəfəuzanan hissəsi. paltonun ətəyi uzundur. pencəyinətəyini bir qədər qısaltmaq lazımdır",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "ƏTƏR",
+                "explanation": "is. dan. iz",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "KƏRT",
+                "explanation": "is. ağac parçasının iki yoğun yeriarasında çuxur",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "KƏTƏ",
+                "explanation": "is. ı. göyərti qutabı. [mahmud:] bir***yə bax",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "KÜRT",
+                "explanation": "sif. quşların bala çıxarma zamanındakıhalı",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 5
+            },
+            {
+                "word": "MƏTƏ",
+                "explanation": "is. yerdə oyun üçün çəkilən dairə(əsasən uşaq oyunlarında). ***dən çıxmaq",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 6
+            },
+            {
+                "word": "ÖRTÜ",
+                "explanation": "is. 1. başa ***lən hər hansı birşey. başındakı ***nü götürmək. – [sevda]başındakı ağ ipək ***nü bir yana atar",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 7
+            },
+            {
+                "word": "TƏKƏ",
+                "explanation": "is. 1. erkək keçi.2. vəhşi keçi",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 8
+            },
+            {
+                "word": "TƏRK",
+                "explanation": "is. atın belinin yəhər qoyulan yerinin dal tərəfi. …çavuş qəndabı içib",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 9
+            },
+            {
+                "word": "TÖRƏ",
+                "explanation": "sif. məh. hündür olmayan",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 10
+            },
+            {
+                "word": "TÜRK",
+                "explanation": "is. ***iyənin əsas əhalisini təşkiledən və *** dillərindən birində danışan xalqvə bu xalqa mənsub adam",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 11
+            },
+            {
+                "word": "ÜTÜK",
+                "explanation": "sif. üzdən yanmış",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 12
+            },
+            {
+                "word": "ƏMTƏƏ",
+                "explanation": "is. [ər. “məta” söz. cəmi] iqt. kit. mübadilə üçün istehsal edilən əmək məhsulları; mal. *** insanın hər hansı bir ehtiyacını təmin edən",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 13
+            },
+            {
+                "word": "ƏTMƏK",
+                "explanation": "is. köhn. çörək. yanmış ***yeməz idin əsla. m.ə.sabir. [birinci işçi:]bunu gördükdə hər insan utanır? bu qabarlarsizə *** qazanır! h",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 14
+            },
+            {
+                "word": "KÖTƏK",
+                "explanation": "is. ağac",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 15
+            },
+            {
+                "word": "KÖTÜK",
+                "explanation": "is. 1. ağacın yerdən iri budaqlarınaqədər olan hissəsi; oduncaq. ağacınkötüyünü kəsmək. – [piri-fani:] o zaman buqurumuş ağac kötüyü göyərər… s",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 16
+            },
+            {
+                "word": "KÜTÜM",
+                "explanation": "is. zool. çəkikimilər fəsiləsindənvətəgə balığı",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 17
+            },
+            {
+                "word": "ÖRTÜK",
+                "explanation": "is. 1. hər hansı bir şeyin üzərinəçəkilən",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 18
+            },
+            {
+                "word": "ÖTKƏM",
+                "explanation": "sif. və zərf dilli-dilavər",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 19
+            },
+            {
+                "word": "RÜKƏT",
+                "explanation": "is. [ər.] din. namazda bir qiyam(ayağa qalxma) ilə bir rüku (əyilmə) və ikisəcdədən ibarət hərəkət",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 20
+            },
+            {
+                "word": "TƏKƏR",
+                "explanation": "is. [ər.] 1. ox ətrafında fırlanıb***li nəqliyyat vasitələrini hərəkətə gətirəndəndəli və ya bütöv dairə; çarx",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 21
+            },
+            {
+                "word": "TƏRƏK",
+                "explanation": "is. [fars.] yağda qovrulmuş şəkərvə undan hazırlanan halva növü; sucuq. ramazanayının özünə məxsus süfrəsi vardı: firni",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 22
+            },
+            {
+                "word": "TÖKMƏ",
+                "explanation": "1. “***k”dən f.is.2. is. tex. əridilib qəlibə tökülmüş metalməmulat. polad ***lər.3. sif. *** yolu ilə hazırlanmış",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 23
+            },
+            {
+                "word": "TÜRKÜ",
+                "explanation": "is. klas. mahnı",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 24
+            },
+            {
+                "word": "TÜTƏK",
+                "explanation": "is. qarğıdan və s.-dən qayrılmışnəfəsli xalq musiqi aləti. *** çalmaq. – çobananar səni",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 25
+            },
+            {
+                "word": "ÜMMƏT",
+                "explanation": "is. [ər.] 1. xalq",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 26
+            },
+            {
+                "word": "KƏMTƏR",
+                "explanation": "sif. [fars.] klas. alçaq",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 27
+            },
+            {
+                "word": "KÜRTÜK",
+                "explanation": "is. məh. yazda dərələrdə qalmışqar komaları",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 28
+            },
+            {
+                "word": "MƏTƏRƏ",
+                "explanation": "is. [ər.] yolda",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 29
+            },
+            {
+                "word": "ÖTÜRÜM",
+                "explanation": "is. udum. …pendir-çörəyi iki***də yedi. s.rəhman",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 30
+            },
+            {
+                "word": "TƏKTƏK",
+                "explanation": "sif. və zərf 1. birbəbir",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 31
+            },
+            {
+                "word": "TƏKTÜK",
+                "explanation": "sif. tək-tək",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 32
+            },
+            {
+                "word": "TƏRƏKƏ",
+                "explanation": "is. [ər.] mirasın varislər arasındabölümü",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 33
+            },
+            {
+                "word": "TÖRƏMƏ",
+                "explanation": "1. “***k”dən f.is.2. is. nəsil. [mirzə cəmil:] böyük bir ***niniçində vur-tut fərasətlisi ortancıl əmiminoğlu idi ki",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 34
+            },
+            {
+                "word": "KƏRTMƏK",
+                "explanation": "is. kir",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 35
+            },
+            {
+                "word": "MÜƏTTƏR",
+                "explanation": "sif. [ər.] köhn. ətirli",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 36
+            },
+            {
+                "word": "MÜTƏKKƏ",
+                "explanation": "is. [ər.] uzunsov",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 37
+            },
+            {
+                "word": "TƏKƏRƏK",
+                "explanation": "is. təkərcik. şofer traktoru işəsalıb təkərəyi yavaş-yavaş burmağa",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 38
+            },
+            {
+                "word": "MƏTƏMƏTƏ",
+                "explanation": "is. mətə içərisində oynanılanuşaq oyunu",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 39
+            },
+            {
+                "word": "TƏRƏKƏMƏ",
+                "explanation": "is. 1. keçmişdə: azərbaycandaköçəri heyvandarlara verilən ad. tarverdibaşıbağlı",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 40
+            },
+            {
+                "word": "TÖKMƏRƏK",
+                "explanation": "sif. kök",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 41
+            },
+            {
+                "word": "KÜRÜTÖKMƏ",
+                "explanation": "is. xüs. balıqların ***dövrü və prosesi",
+                "isPanagram": true,
+                "score": 17,
+                "length": 9,
+                "id": 42
+            }
+        ]
+    }
+}

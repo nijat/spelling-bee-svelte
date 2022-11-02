@@ -1,0 +1,247 @@
+{
+    "gameData": {
+        "day": "20221205",
+        "expiration": "1670281140",
+        "centerLetter": "D",
+        "outerLetters": [
+            "Ş",
+            "Q",
+            "O",
+            "N",
+            "A",
+            "V"
+        ],
+        "words_info": {
+            "word_count": 27,
+            "sum_score": 141,
+            "panagram_count": 1,
+            "word_length": {
+                "4": 6,
+                "6": 5,
+                "5": 11,
+                "8": 1,
+                "11": 1,
+                "9": 2,
+                "7": 1
+            }
+        },
+        "words": [
+            {
+                "word": "ADAQ",
+                "explanation": "is. məh. uşağın ilk addımı",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "ADAŞ",
+                "explanation": "is. adları eyni olan adamlar. o mənimlə***dır. ***lar gəldilər. – dodaqlarındakövrək təbəssüm",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "ADNA",
+                "explanation": "is. cümə axşamı",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "DANA",
+                "explanation": "is. bir yaşdan iki yaşa qədər olaninək balası. *** əti. – danışıq ***nı qurdaverər. (məsəl)",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "DAVA",
+                "explanation": "is. [ər.] 1. dalaşma",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 5
+            },
+            {
+                "word": "QADA",
+                "explanation": "is. 1. bəla",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 6
+            },
+            {
+                "word": "AVAND",
+                "explanation": "is. bir şeyin",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 7
+            },
+            {
+                "word": "DADAŞ",
+                "explanation": "is. kiçik qardaş və bacıların böyükqardaşa verdikləri ad; böyük qardaşa müraciət.bir gün gəldim",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 8
+            },
+            {
+                "word": "DAQQA",
+                "explanation": "is. məh. 1. dəridən tikilmiş hündürpapaq. şiraslan … *** divan papağınıbaşına qoydu",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 9
+            },
+            {
+                "word": "DANQA",
+                "explanation": "is. mal aşığı. ***ları çıxmışqoca inəklər",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 10
+            },
+            {
+                "word": "DODAQ",
+                "explanation": "is. 1. ağız kənarlarını təşkil edən iki mütəhərrik dəri-damar büküklərindən hər biri. adamın iki dodağı olur",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 11
+            },
+            {
+                "word": "DONQA",
+                "explanation": "1. sif. bax ***r 1-ci mənada.***r adam. – bünyad … *** belinigüclə sürüyürmüş kimi yavaş-yavaş yeriyəncaninin ardınca baxdı",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 12
+            },
+            {
+                "word": "QADAQ",
+                "explanation": "is. bıçaq",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 13
+            },
+            {
+                "word": "QANAD",
+                "explanation": "is. 1. quşlarda və cücülərdə uçmaqorqanı. quş ***ı. *** açıb uçmaq.göyərçinin ***ı. milçəklər ***larında",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 14
+            },
+            {
+                "word": "NADAN",
+                "explanation": "sif. [fars.] 1. cahil",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 15
+            },
+            {
+                "word": "NAŞAD",
+                "explanation": "sif. [fars.] klas. qəmgin",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 16
+            },
+            {
+                "word": "OVDAN",
+                "explanation": "is. [fars. ab-dan] suyu yığıb saxlamaqüçün üstü tikili yeraltı hovuz",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 17
+            },
+            {
+                "word": "ANDDAŞ",
+                "explanation": "is. müəyyən əhd",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 18
+            },
+            {
+                "word": "DOVDAQ",
+                "explanation": "is. 1. zool. durnalar fəsiləsindənyeyilən iri çöl quşu.2. məc. çox asan aldadıla bilən",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 19
+            },
+            {
+                "word": "DOVŞAN",
+                "explanation": "is. 1. gəmiricilər dəstəsindənqabaq ayaqları dal ayaqlarından qısa",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 20
+            },
+            {
+                "word": "QAŞDAŞ",
+                "explanation": "is. qiymətli daşlar: qızıl və cavahirat.[gültəkin:] mənim üçün nə paltarın",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 21
+            },
+            {
+                "word": "NOVDAN",
+                "explanation": "is. [fars.] bax novça. əriyənqarın axıb getdiyini",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 22
+            },
+            {
+                "word": "NAAVAND",
+                "explanation": "sif. və zərf [fars.] avand olmayan",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 23
+            },
+            {
+                "word": "DAVADAVA",
+                "explanation": "is. uşaqların oynadığı vuruşma",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 24
+            },
+            {
+                "word": "QOŞADODAQ",
+                "explanation": "sif. üst dodağı yarıq olan(dəvə",
+                "isPanagram": false,
+                "score": 9,
+                "length": 9,
+                "id": 25
+            },
+            {
+                "word": "QOŞAQANAD",
+                "explanation": "sif. 1. cüt qanadı olan",
+                "isPanagram": false,
+                "score": 9,
+                "length": 9,
+                "id": 26
+            },
+            {
+                "word": "DOVŞANDODAQ",
+                "explanation": "is. bot. dodaqçiçəklilərfəsiləsindən çoxillik bitki",
+                "isPanagram": true,
+                "score": 17,
+                "length": 11,
+                "id": 27
+            }
+        ]
+    }
+}

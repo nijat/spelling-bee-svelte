@@ -1,0 +1,431 @@
+{
+    "gameData": {
+        "day": "20221113",
+        "expiration": "1668380340",
+        "centerLetter": "A",
+        "outerLetters": [
+            "O",
+            "R",
+            "M",
+            "U",
+            "N",
+            "D"
+        ],
+        "words_info": {
+            "word_count": 50,
+            "sum_score": 230,
+            "panagram_count": 1,
+            "word_length": {
+                "4": 15,
+                "6": 8,
+                "5": 19,
+                "8": 2,
+                "10": 1,
+                "7": 4,
+                "9": 1
+            }
+        },
+        "words": [
+            {
+                "word": "ADAM",
+                "explanation": "is. [ər.] 1. heyvandan fərqli olaraqdanışmaq və düşünmək",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "ADNA",
+                "explanation": "is. cümə axşamı",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "AMAN",
+                "explanation": "is. [ər.] 1. əmin-***lıq",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "ANMA",
+                "explanation": "“***q”dan f.is. *** mərasimi",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "ARAM",
+                "explanation": "is. [fars.] sakitlik",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 5
+            },
+            {
+                "word": "ARAN",
+                "explanation": "is. azərbaycanda: yaylaq yerlərənisbətən alçaq və iqlimcə isti olan yerlər.azərbaycanın əsas *** yerləri muğan",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 6
+            },
+            {
+                "word": "DAMA",
+                "explanation": "is. 1. şahmat taxtası üzərində qara vəağ daşlarla (dairəciklərlə) oynanılan oyun; şaşka.*** oynamaq",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 7
+            },
+            {
+                "word": "DANA",
+                "explanation": "is. bir yaşdan iki yaşa qədər olaninək balası. *** əti. – danışıq ***nı qurdaverər. (məsəl)",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 8
+            },
+            {
+                "word": "DUDA",
+                "explanation": "is. [fars.] neft",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 9
+            },
+            {
+                "word": "MAMA",
+                "explanation": "is. doğuş zamanı kömək göstərməkləməşğul olan (keçmişdə təhsilsiz",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 10
+            },
+            {
+                "word": "MODA",
+                "explanation": "[fr.] müəyyən dövrdə",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 11
+            },
+            {
+                "word": "MUAR",
+                "explanation": "[fr.] 1. işıq düşəndə müxtəlif rəngliçalarlar verən sıx toxunmuş ipək və yayarımipək parça.2. səthində basma naxışları olan kağız",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 12
+            },
+            {
+                "word": "OMAR",
+                "explanation": "is. onurğasız dəniz heyvanı; onayaqlıxərçəng",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 13
+            },
+            {
+                "word": "UDMA",
+                "explanation": "“***q1”dan f.is. *** prosesi.*** zamanı boğazda ağrı hiss etmək",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 14
+            },
+            {
+                "word": "URNA",
+                "explanation": "is. [lat.] 1. yandırılmış cənazəninkülünü saxlamaq üçün qab.2. seçki qutusu; səsvermə qutusu",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 15
+            },
+            {
+                "word": "ARMUD",
+                "explanation": "is. alt tərəfi yumru",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 16
+            },
+            {
+                "word": "DAMAD",
+                "explanation": "is. [fars.] qızın əri",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 17
+            },
+            {
+                "word": "DAMAR",
+                "explanation": "is. 1. canlıların bədənində: içərisində qan və ya limfanın dövr etdiyi boruşəkilli orqan. qan ***ları",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 18
+            },
+            {
+                "word": "DARAM",
+                "explanation": "sif. tarım; çox dar. dağbaşevdanışa-danışa *** şinelinin dəmir düymələriilə əlləşməkdə davam edirdi",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 19
+            },
+            {
+                "word": "DONMA",
+                "explanation": "1. “***q”dan f.is.2. bax donvurma.◊ *** nöqtəsi – (termometrin şkalasında0 dərəcəsini",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 20
+            },
+            {
+                "word": "DUMAN",
+                "explanation": "is. 1. atmosferin aşağı təbəqələrində su buxarının toplanması nəticəsində əmələ gələn kəsif",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 21
+            },
+            {
+                "word": "DURNA",
+                "explanation": "is. zool. dimdiyi",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 22
+            },
+            {
+                "word": "MADAM",
+                "explanation": "[fr.] fransada",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 23
+            },
+            {
+                "word": "MADAR",
+                "explanation": "sif. [ər.] ən istəkli",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 24
+            },
+            {
+                "word": "MUNDA",
+                "explanation": "is. 1. hindistanda ən qədim dilqruplarından biri.2. hindistan xalq qruplarından biri",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 25
+            },
+            {
+                "word": "MURAD",
+                "explanation": "is. [ər.] arzu",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 26
+            },
+            {
+                "word": "NADAN",
+                "explanation": "sif. [fars.] 1. cahil",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 27
+            },
+            {
+                "word": "NANDU",
+                "explanation": "is. uça bilməyən quşlar qrupu;amerika dəvəquşuları",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 28
+            },
+            {
+                "word": "NORMA",
+                "explanation": "[lat.] 1. qanuna salınmış; qayda",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 29
+            },
+            {
+                "word": "ORMAN",
+                "explanation": "is. meşə. ətraf bir *** kimi ağaclıq idi. s.hüseyn. bülbüllər ***da edirlər fəğan; aydınlıq gecədir gündüztək hər yan",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 30
+            },
+            {
+                "word": "RADAR",
+                "explanation": "[ing.] bax radiolokator. radiolokasiyadaişlədilən qurğulara radiolokatordeyilir. bəzi yerlərdə bunları müxtəsər olaraq*** adlandırırlar",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 31
+            },
+            {
+                "word": "RADON",
+                "explanation": "[lat. rad(iare) və yun. ag(on)]kim. radiumun parçalanması nəticəsindəhasil olan radioaktiv kimyəvi element – qaz",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 32
+            },
+            {
+                "word": "RAUND",
+                "explanation": "[ing.] boksda: vuruşun bir hissəsinindavam etdiyi iki və ya üç dəqiqəlik müddət",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 33
+            },
+            {
+                "word": "ROMAN",
+                "explanation": "is. [fr.] 1. həcmcə böyük",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 34
+            },
+            {
+                "word": "ADDAMA",
+                "explanation": "1. “***q”dan f.is. 2. is. məh. çaydan",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 35
+            },
+            {
+                "word": "ARMUDU",
+                "explanation": "sif. armuda oxşar",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 36
+            },
+            {
+                "word": "DAMDAM",
+                "explanation": "is. məh. doşab bişirmək üçünsıxılıb damcı-damcı yığılan üzüm suyu. bulanıqdərman … nərimana dam-dam suyunuxatırlatdı",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 37
+            },
+            {
+                "word": "DUDMAN",
+                "explanation": "is. [fars.] adlı-sanlı",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 38
+            },
+            {
+                "word": "MONADA",
+                "explanation": "is. [yun.] fəls. varlığın strukturvahidini ifadə edən fəlsəfi termin. ***leybnits fəlsəfəsinin əsas anlayışlarından biridir",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 39
+            },
+            {
+                "word": "MURDAR",
+                "explanation": "sif. [fars.] 1. müsəlman dini etiqadıncatəmiz sayılmayan; napak (pak əksi).*** su. – [pişik itə:] bil nə səbəbdən belə***san; istəməzsən xeyr",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 40
+            },
+            {
+                "word": "NAMDAR",
+                "explanation": "sif. [fars.] klas. ad qazanmış",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 41
+            },
+            {
+                "word": "NARDAN",
+                "explanation": "is. *** bişirilən riçal",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 42
+            },
+            {
+                "word": "DONANMA",
+                "explanation": "is. 1. ölkənin",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 43
+            },
+            {
+                "word": "DUMDUMA",
+                "explanation": "is. məh. fırfıra",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 44
+            },
+            {
+                "word": "MADONNA",
+                "explanation": "[ital.] katoliklərdə: isanınanası sayılan məryəmə verilən ad",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 45
+            },
+            {
+                "word": "NAMURAD",
+                "explanation": "sif. və is. [fars. na… və ər.murad] muradına çatmamış; uğursuz",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 46
+            },
+            {
+                "word": "DAMADAMA",
+                "explanation": "1. sif. üzərində damalar",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 47
+            },
+            {
+                "word": "NARARMUDU",
+                "explanation": "is. meyvəsi dən-dən olanşirəli payız armudu növü",
+                "isPanagram": false,
+                "score": 9,
+                "length": 9,
+                "id": 48
+            },
+            {
+                "word": "DAMARDAMAR",
+                "explanation": "sif. damarlar",
+                "isPanagram": false,
+                "score": 10,
+                "length": 10,
+                "id": 49
+            },
+            {
+                "word": "DONDURMA",
+                "explanation": "1. “***q”dan f.is.2. sif. dondurulmuş və ya buza qoyulmuş",
+                "isPanagram": true,
+                "score": 17,
+                "length": 8,
+                "id": 50
+            }
+        ]
+    }
+}

@@ -1,0 +1,293 @@
+{
+    "gameData": {
+        "day": "20230416",
+        "expiration": "1681682340",
+        "centerLetter": "B",
+        "outerLetters": [
+            "Ə",
+            "Ş",
+            "N",
+            "A",
+            "T",
+            "Z"
+        ],
+        "words_info": {
+            "word_count": 33,
+            "sum_score": 167,
+            "panagram_count": 1,
+            "word_length": {
+                "7": 7,
+                "5": 14,
+                "9": 1,
+                "4": 7,
+                "6": 4
+            }
+        },
+        "words": [
+            {
+                "word": "BABA",
+                "explanation": "is. 1. atanın",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "BƏBƏ",
+                "explanation": "is. 1. körpə uşaq",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "BƏTN",
+                "explanation": "is. [ər.] qarın. mənə elə gələrdi ki",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "ƏBNA",
+                "explanation": "is. [ər. “ibn” söz. cəmi] klas. övladlar",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "ƏZAB",
+                "explanation": "is. [ər.] 1. əziyyət",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 5
+            },
+            {
+                "word": "NƏBZ",
+                "explanation": "is. [ər.] 1. ürəyin fəaliyyəti nəticəsindəarteriya (qan damarları) divarlarınınritmik vurması (adətən biləyin yuxarı hissəsindəduyulur)",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 6
+            },
+            {
+                "word": "ZƏBT",
+                "explanation": "is. [ər.] silah gücü ilə",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 7
+            },
+            {
+                "word": "ATBAZ",
+                "explanation": "is. [at və fars. …baz] son dərəcəat sevən adam",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 8
+            },
+            {
+                "word": "BABAT",
+                "explanation": "sif. və zərf orta keyfiyyətli",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 9
+            },
+            {
+                "word": "BƏNNA",
+                "explanation": "is. [ər.] binanın daş",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 10
+            },
+            {
+                "word": "BƏZƏN",
+                "explanation": "zərf [ər.] bəzi vaxt",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 11
+            },
+            {
+                "word": "ƏTBAŞ",
+                "explanation": "sif. dan. ağılsız",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 12
+            },
+            {
+                "word": "NABAT",
+                "explanation": "is. [ər.] meyvə şirəsilə qənd qarışığındanhazırlanan şəffaf kristallik şirni növü.məşədi hüseyn müştəriyə ***ı verəndənsonra kərbəlayı rzadan kağ",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 13
+            },
+            {
+                "word": "NƏBAT",
+                "explanation": "is. [ər.] klas. bitki",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 14
+            },
+            {
+                "word": "ŞABAŞ",
+                "explanation": "is. [fars.] toy məclislərində oynayanlaraxanəndə və çalğıçılar üçün verilənpul. gənclər oynayanda yoldaşları onlarınbaşına kağız pul (əsginas) şaba",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 15
+            },
+            {
+                "word": "ŞƏBAB",
+                "explanation": "is. [ər.] klas. gənclik",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 16
+            },
+            {
+                "word": "ŞƏBAN",
+                "explanation": "is. [fars.] qəməri ərəb təqvimindəsəkkizinci ayın adı. həmişə ***",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 17
+            },
+            {
+                "word": "ŞƏNBƏ",
+                "explanation": "is. [fars.] həftənin cümədən sonra gələn günü. *** günü. – [yusif:] uşaqlar",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 18
+            },
+            {
+                "word": "TABAN",
+                "explanation": "is. [fars.] köhn. parlaq",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 19
+            },
+            {
+                "word": "TƏBƏƏ",
+                "explanation": "is. [ər. “tabe” söz. cəmi] bir dövlətə tabe olan",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 20
+            },
+            {
+                "word": "ZƏBAN",
+                "explanation": "is. [fars.] klas. dil. bir saat görməsəm",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 21
+            },
+            {
+                "word": "BATBAT",
+                "explanation": "is. bot. bəngotu; pis qoxulu acıdadan ot bitki (xalq təbabətində işlədilir).gödək saplaqlı yaşıl rəngli və yumurtayaoxşarzəhərli otların",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 22
+            },
+            {
+                "word": "BƏŞŞAŞ",
+                "explanation": "sif. və zərf [ər.] klas. gülərüzlü",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 23
+            },
+            {
+                "word": "BƏZZAZ",
+                "explanation": "is. [ər.] köhn. parça",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 24
+            },
+            {
+                "word": "ZƏBANƏ",
+                "explanation": "is. [fars.] klas. 1. alov",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 25
+            },
+            {
+                "word": "AŞNABAZ",
+                "explanation": "sif. vulq. köhn. arvadbaz",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 26
+            },
+            {
+                "word": "ATABABA",
+                "explanation": "is. əcdad",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 27
+            },
+            {
+                "word": "ATƏŞBAZ",
+                "explanation": "is. [fars.] 1. yanar və partlayıcımaddələrdən bəzəkli",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 28
+            },
+            {
+                "word": "BƏŞAŞƏT",
+                "explanation": "is. [ər.] klas. gülərüzlülük",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 29
+            },
+            {
+                "word": "NƏBATAT",
+                "explanation": "is. [ər. “nəbat” söz. cəmi]1. bitki",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 30
+            },
+            {
+                "word": "ŞƏBABƏT",
+                "explanation": "is. [ər.] klas. gənclik",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 31
+            },
+            {
+                "word": "TƏBABƏT",
+                "explanation": "is. [ər.] xəstəliklər",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 32
+            },
+            {
+                "word": "ATƏŞZƏBAN",
+                "explanation": "sif. [fars.] odlu danışan",
+                "isPanagram": true,
+                "score": 17,
+                "length": 9,
+                "id": 33
+            }
+        ]
+    }
+}

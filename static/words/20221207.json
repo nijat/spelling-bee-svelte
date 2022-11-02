@@ -1,0 +1,341 @@
+{
+    "gameData": {
+        "day": "20221207",
+        "expiration": "1670453940",
+        "centerLetter": "R",
+        "outerLetters": [
+            "M",
+            "S",
+            "L",
+            "T",
+            "A",
+            "İ"
+        ],
+        "words_info": {
+            "word_count": 39,
+            "sum_score": 163,
+            "panagram_count": 1,
+            "word_length": {
+                "4": 13,
+                "6": 6,
+                "5": 18,
+                "10": 1,
+                "7": 1
+            }
+        },
+        "words": [
+            {
+                "word": "AMİR",
+                "explanation": "is. [ər.] buyuran",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "ARAM",
+                "explanation": "is. [fars.] sakitlik",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "ARAT",
+                "explanation": "is. k.t. şumlanıb sulanmış",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "ASAR",
+                "explanation": "is. [ər. “əsər” söz. cəmi] köhn. 1. əlamət",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "LİTR",
+                "explanation": "[fr. ***e] 1000 kub santimetrə bərabər maye ölçüsü. bir *** süd",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 5
+            },
+            {
+                "word": "MARS",
+                "explanation": "is. nərd oyununda: oyunun axırına kimi bir daş da olsa çıxa bilməyib ikiqat uduzma. qayınata ilə kürəkən nərd oynayırdılar",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 6
+            },
+            {
+                "word": "MART",
+                "explanation": "[lat.] təqvim ilinin üçüncü ayı.*** qırğınları. – *** çıxdı",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 7
+            },
+            {
+                "word": "RAST",
+                "explanation": "[fars.] sif. düz",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 8
+            },
+            {
+                "word": "RİAL",
+                "explanation": "is. [fars.] iranda pul vahidi",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 9
+            },
+            {
+                "word": "SAİR",
+                "explanation": "sif. [ər.] başqa",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 10
+            },
+            {
+                "word": "SİRR",
+                "explanation": "is. [ər.] 1. başqalarından gizli saxlanılan",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 11
+            },
+            {
+                "word": "TİTR",
+                "explanation": "[fr.] 1. kinolentdə yazı",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 12
+            },
+            {
+                "word": "TRAL",
+                "explanation": "is.[ing.] balıq ovlamaq üçün iri tor",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 13
+            },
+            {
+                "word": "ARTMA",
+                "explanation": "1. “***q”dan f.is.2. is. artan şey",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 14
+            },
+            {
+                "word": "ASRAL",
+                "explanation": "is. bot. bax kəndirotu",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 15
+            },
+            {
+                "word": "ASTAR",
+                "explanation": "is. 1. paltarın və ya başqa bir şeyiniç tərəfinə tikilən və ya çəkilən parça. yorğan***ı. paltar ***ı",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 16
+            },
+            {
+                "word": "MARAL",
+                "explanation": "is. zool. buynuzları budaq kimişaxələnən",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 17
+            },
+            {
+                "word": "MİRAS",
+                "explanation": "is. [ər.] 1. ölən adamdan sonra varislərə qalan mal",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 18
+            },
+            {
+                "word": "MİSRA",
+                "explanation": "is. [ər.] şerin ayrılıqda götürülmüşbir sətri. qəzəldən iki *** demək. şerin***sı. – xanqızı … vaqifin hər ***sındandoğan atəşi göz yaşları i",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 19
+            },
+            {
+                "word": "MİSRİ",
+                "explanation": "sif. misirə məxsus. misirə mənsub.// misirli.◊ *** qılınc – koroğlunun qılıncına verilənad. *** qılınc hamayıldı belində; geyərhər vaxt al-qum",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 20
+            },
+            {
+                "word": "MİTRA",
+                "explanation": "is. [rus.] dini ayin zamanı keşişlərinbaşlarına keçirdikləri qızılı rəngli papaq",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 21
+            },
+            {
+                "word": "RALLİ",
+                "explanation": "is. [ing.] avtomobil idmanı üzrə1000-2000 km məsafədə keçirilən yarışlarkompleksi",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 22
+            },
+            {
+                "word": "RASTA",
+                "explanation": "is. [fars.] köhn. dükanların yerləşdiyikiçik düz küçə; dükanlar sırası. buzualdım əlimə və sərin baqqal ***sından çıxdımgünün qabağına",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 23
+            },
+            {
+                "word": "SARMA",
+                "explanation": "1. “***q”dan f.is.2. parça üzərində güləbətinlə işlənmiş incənaxış",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 24
+            },
+            {
+                "word": "SİRAT",
+                "explanation": "is. [ər.] klas. 1. yol.2. dini etiqada görə cəhənnəm üzərindəqurulmuş çox dar və keçilməsi çox çətin körpü;qıl körpü (guya məhşər günü adamlarbu k",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 25
+            },
+            {
+                "word": "SİRLİ",
+                "explanation": "sif. 1. ürəyində sirri olan. *** adamaoxşayır.2. məxfi",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 26
+            },
+            {
+                "word": "SİTRA",
+                "explanation": "is. [alm.] mizrabla çalınan simlimusiqi aləti",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 27
+            },
+            {
+                "word": "START",
+                "explanation": "[ing.] 1. müəyyən məsafə üzrə idman yarışlarının başlanma momenti",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 28
+            },
+            {
+                "word": "TARLA",
+                "explanation": "is. taxıl",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 29
+            },
+            {
+                "word": "TATAR",
+                "explanation": "is. 1. ***ıstanın əsas əhalisinitəşkil edən türkdilli xalq və bu xalqa mənsubadam.2. volqaboyunda",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 30
+            },
+            {
+                "word": "TİRLİ",
+                "explanation": "sif. tiri (tirləri) olan",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 31
+            },
+            {
+                "word": "ARTİST",
+                "explanation": "[fr.] incəsənət əsərlərinin ifaçısı (aktyor",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 32
+            },
+            {
+                "word": "MARTİT",
+                "explanation": "is. mineral",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 33
+            },
+            {
+                "word": "MİSMAR",
+                "explanation": "is. [ər.] mıx. …mən elə pis uşaq görmüşəm ki",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 34
+            },
+            {
+                "word": "SATİRA",
+                "explanation": "[lat.] 1. cəmiyyətdəki mənfilikləri",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 35
+            },
+            {
+                "word": "SİMSAR",
+                "explanation": "sif. [fars.] 1. yaxın",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 36
+            },
+            {
+                "word": "TARMAR",
+                "explanation": "sif. 1. bir-birinə qarışmış",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 37
+            },
+            {
+                "word": "SAAMLAR",
+                "explanation": "is. kola yarımadasında",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 38
+            },
+            {
+                "word": "MİLİTARİST",
+                "explanation": "[lat. militaris – hərbi] militarizmsiyasəti yeridən; hərbçi",
+                "isPanagram": true,
+                "score": 17,
+                "length": 10,
+                "id": 39
+            }
+        ]
+    }
+}

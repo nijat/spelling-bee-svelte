@@ -1,0 +1,326 @@
+{
+    "gameData": {
+        "day": "20230309",
+        "expiration": "1678402740",
+        "centerLetter": "M",
+        "outerLetters": [
+            "S",
+            "N",
+            "L",
+            "E",
+            "Ə",
+            "T"
+        ],
+        "words_info": {
+            "word_count": 37,
+            "sum_score": 168,
+            "panagram_count": 1,
+            "word_length": {
+                "7": 6,
+                "4": 13,
+                "6": 5,
+                "5": 10,
+                "8": 2,
+                "11": 1
+            }
+        },
+        "words": [
+            {
+                "word": "ƏLƏM",
+                "explanation": "is. [ər.] dərd",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "ƏMƏL",
+                "explanation": "is. [ər.] qayə",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "ƏMMƏ",
+                "explanation": "is. [ər.] klas. bibi. aya",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "ƏSMƏ",
+                "explanation": "1. “***k”dən f.is.2. bax ***cə. *** azarı. *** tutmuşdur.– məs geyinib",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "LƏMƏ",
+                "explanation": "is. tavandan bir az aşağı divaruzunu kərpicdən",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 5
+            },
+            {
+                "word": "LƏMS",
+                "explanation": "sif. [ər.] əzgin",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 6
+            },
+            {
+                "word": "MƏLƏ",
+                "explanation": "is. 1. zool. çox bərk sancan qanadsız",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 7
+            },
+            {
+                "word": "MƏMƏ",
+                "explanation": "is. məc. ana. [şərəfnisə xanım:]əgər ***m deyən dərviş olmasaydı",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 8
+            },
+            {
+                "word": "MƏST",
+                "explanation": "is. [fars. məs] dəridən və ya başqayumşaq materialdan tikilən yüngül ayaqqabı;məs. *** geymək. – [qərib:] birisinin ayağında***i var; birisinin c",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 9
+            },
+            {
+                "word": "MƏTƏ",
+                "explanation": "is. yerdə oyun üçün çəkilən dairə(əsasən uşaq oyunlarında). ***dən çıxmaq",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 10
+            },
+            {
+                "word": "MƏTN",
+                "explanation": "is. [ər.] 1. yazılmış və ya çap edilmişhalda olan hər cür nitq (ədəbi əsər",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 11
+            },
+            {
+                "word": "SƏMƏ",
+                "explanation": "sif. ağıldan kəm",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 12
+            },
+            {
+                "word": "SƏMT",
+                "explanation": "is. [ər.] 1. cəhət",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 13
+            },
+            {
+                "word": "ƏMƏLƏ",
+                "explanation": "is. [ər.] fəhlə",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 14
+            },
+            {
+                "word": "ƏMTƏƏ",
+                "explanation": "is. [ər. “məta” söz. cəmi] iqt. kit. mübadilə üçün istehsal edilən əmək məhsulları; mal. *** insanın hər hansı bir ehtiyacını təmin edən",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 15
+            },
+            {
+                "word": "MƏLƏS",
+                "explanation": "sif. turşaşirin",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 16
+            },
+            {
+                "word": "MƏNƏN",
+                "explanation": "zərf [ər.] mənəvi cəhətdən; ruhən.…bizim şüəra cismən ölüb fövt olublarsada",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 17
+            },
+            {
+                "word": "MƏSƏL",
+                "explanation": "[ər.] bax zərbi-***. çün“uman yerdən küsərlər” bir ***dir xəlq ara;küsdüyüm bica deyildir",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 18
+            },
+            {
+                "word": "MƏTLƏ",
+                "explanation": "is. [ər.] ədəb. qəsidə və ya qəzəlinilk beyti (məqtə müqabili). // giriş",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 19
+            },
+            {
+                "word": "NEMƏT",
+                "explanation": "is. [ər.] 1. yaşamaq üçün lazımolan şeylərin məcmusu (yeyəcək",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 20
+            },
+            {
+                "word": "SƏLƏM",
+                "explanation": "[ər.] bax müamilə 3-cü mənada.əmi qeyri adamlara da ***lə pul verərdi.n.nərimanov. dadaş atlı gedir aşağı kəndə;gedir kəndliləri salmağa bəndə; g",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 21
+            },
+            {
+                "word": "SƏNƏM",
+                "explanation": "is. [ər.] 1. klas. bax büt 1-ci mənada.surəti ziba ***lər yox demək bütxanədə;var çox",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 22
+            },
+            {
+                "word": "TƏMƏL",
+                "explanation": "[ər.] 1. bünövrə",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 23
+            },
+            {
+                "word": "ƏLLƏMƏ",
+                "explanation": "is. məh. daş",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 24
+            },
+            {
+                "word": "ƏSNƏMƏ",
+                "explanation": "“***k”dən f.is. darıxandaadamı *** tutar. – ***",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 25
+            },
+            {
+                "word": "MƏLƏMƏ",
+                "explanation": "“***k”dən f.is. bu haldaqızıl inəyin ***si qızxanımın qulağınaçatdı. s.s.axundov",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 26
+            },
+            {
+                "word": "MƏNƏNƏ",
+                "explanation": "is. zool. bitkilərin şirəsilə qidalananziyanverici bir cücü növü",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 27
+            },
+            {
+                "word": "MƏSƏLƏ",
+                "explanation": "is. [ər.] 1. həll olunması",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 28
+            },
+            {
+                "word": "ELEMENT",
+                "explanation": "[lat.] 1. kim. adi kimyəviüsullarla öz tərkib hissələrinə ayrıla bilməyən",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 29
+            },
+            {
+                "word": "ƏTLƏNMƏ",
+                "explanation": "“***k”dən f.is. tədqiqatlarımızagörə camışlarda tezyetişgənlik",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 30
+            },
+            {
+                "word": "ƏTMƏTƏN",
+                "explanation": "is. məh. tüklənməmiş quşbalası; ətcəbala",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 31
+            },
+            {
+                "word": "MƏƏTTƏL",
+                "explanation": "is. [ər. müəttəl] 1. gözləmə",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 32
+            },
+            {
+                "word": "MƏSƏLƏN",
+                "explanation": "bağl. [ər.] 1. cümlədə bir şeyinşərhinə dair misallar vermək üçün işlədilir.əşyanın adını bildirən sözlərə isim deyilir",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 33
+            },
+            {
+                "word": "SELLƏMƏ",
+                "explanation": "1. is. böyük əkin sahələrinə selkimi axıdılan su. xanpərinin sahəsi ***sulandığı üçün isti günlərdə dərhal quraqsıyırdı",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 34
+            },
+            {
+                "word": "MƏTƏMƏTƏ",
+                "explanation": "is. mətə içərisində oynanılanuşaq oyunu",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 35
+            },
+            {
+                "word": "SƏSLƏNMƏ",
+                "explanation": "“***k”dən f.is. əhmədöz işlərinin musiqi dilinə köçürülməsini",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 36
+            },
+            {
+                "word": "SEMENTLƏNMƏ",
+                "explanation": "“***k”dənf.is. bülənd dərənin dibində sütunların ***sinəbaxırdı. ə.əbülhəsən",
+                "isPanagram": true,
+                "score": 17,
+                "length": 11,
+                "id": 37
+            }
+        ]
+    }
+}

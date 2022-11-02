@@ -1,0 +1,318 @@
+{
+    "gameData": {
+        "day": "20230326",
+        "expiration": "1679867940",
+        "centerLetter": "Y",
+        "outerLetters": [
+            "N",
+            "A",
+            "I",
+            "Q",
+            "Ç",
+            "D"
+        ],
+        "words_info": {
+            "word_count": 36,
+            "sum_score": 196,
+            "panagram_count": 1,
+            "word_length": {
+                "9": 1,
+                "4": 5,
+                "8": 4,
+                "6": 6,
+                "5": 17,
+                "7": 3
+            }
+        },
+        "words": [
+            {
+                "word": "AYAQ",
+                "explanation": "is. klas. qədəh",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "AYIQ",
+                "explanation": "sif. və zərf 1. bayğınlığı",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "AYNA",
+                "explanation": "is. [fars.] 1. güzgü. ***nın çatdığıcalaq qəbul eləməz. (ata. sözü). əgərbilmək istəyirsiniz ki",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "DAYI",
+                "explanation": "is. 1. ananın qardaşı. 2. qoca və ya yaşlı kişiyə müraciət edərkən",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "QAYA",
+                "explanation": "is. 1. daşlıq və sarp dağ; daşlıq uçurum",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 5
+            },
+            {
+                "word": "AYDIN",
+                "explanation": "sif. 1. işıqlı",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 6
+            },
+            {
+                "word": "ÇAYAN",
+                "explanation": "is. əqrəb",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 7
+            },
+            {
+                "word": "ÇAYÇI",
+                "explanation": "is. 1. çay əkib-becərməklə məşğulolan adam; çaybecərən. ***ların yarışı.// çay mütəxəssisi.2. çayxanada xidmət edən adam",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 8
+            },
+            {
+                "word": "DAYAQ",
+                "explanation": "is. 1. binanın və s.-nin sınmış pərdilərini",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 9
+            },
+            {
+                "word": "DAYÇA",
+                "explanation": "is. biryaşar erkək at balası. qaşqa***. – heç kəsin ağlına gəlməzdi ki",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 10
+            },
+            {
+                "word": "QAYÇI",
+                "explanation": "is. 1. ortadan qadaqla bir-birinəçarpaz bənd edilmiş iki hissədən ibarət kəsicialət. dərzi ***sı",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 11
+            },
+            {
+                "word": "QAYDA",
+                "explanation": "is. [ər.] 1. nizam",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 12
+            },
+            {
+                "word": "QAYIQ",
+                "explanation": "is. 1. su nəqliyyat vasitəsi. motorlu***. yelkənli ***. balıqçı qayığı.***da gəzmək. – ***lar",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 13
+            },
+            {
+                "word": "QAYIN",
+                "explanation": "is. bax ağca***",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 14
+            },
+            {
+                "word": "QIYIQ",
+                "explanation": "is. torba",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 15
+            },
+            {
+                "word": "NANAY",
+                "explanation": "is. uzaq şərqdə yaşayan xalq;həmin xalqa mənsub olan adam",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 16
+            },
+            {
+                "word": "YANAQ",
+                "explanation": "is. üzün almacıq sümüyündən çənəyə qədər olan qismi. yanağından öpmək. qırmızı ***. – *** üzrə saçın tavusa bənzər; ki",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 17
+            },
+            {
+                "word": "YANÇI",
+                "explanation": "is. məh. 1. iki küsülü tərəfi barışdıranadam; vasitəçi. xülasə",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 18
+            },
+            {
+                "word": "YANIQ",
+                "explanation": "1. is. yanmış şey. *** qoxusu.*** dadı.2. is. od və ya başqa yandırıcı şeyin təsiriilə bədən toxumasında əmələ gələn zədə",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 19
+            },
+            {
+                "word": "YAYÇI",
+                "explanation": "is. qədim türkdilli tayfalardan biri",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 20
+            },
+            {
+                "word": "YAYIQ",
+                "explanation": "sif. məh. 1. göz qabağında olmayan",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 21
+            },
+            {
+                "word": "YAYQI",
+                "explanation": "is. yerə və ya döşəmə üzərinə sərilənşeylər: palaz",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 22
+            },
+            {
+                "word": "AYAQÇI",
+                "explanation": "is. məh. 1. köhn. qapı-qapı gəzib",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 23
+            },
+            {
+                "word": "AYNAÇI",
+                "explanation": "is. 1. köhn. şüşəsalan",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 24
+            },
+            {
+                "word": "DAYDAY",
+                "explanation": "is. uşaq dilində: dayı. [səttar:]… sabah anan məni kürdəxanıya ***giləaparacaq… ə.məmmədxanlı",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 25
+            },
+            {
+                "word": "QAYNAQ",
+                "explanation": "is. tex. 1. metalda qaynayıb(*** olub) bitişən yer.2. metal hissələrin aralarına ərgin metaltökmək yolu ilə onları birləşdirmə",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 26
+            },
+            {
+                "word": "QIYQIY",
+                "explanation": "is. 1. bir ayağı üstündə yerimə.2. bu cür oynanılan uşaq oyunu",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 27
+            },
+            {
+                "word": "QIYNAQ",
+                "explanation": "is. yırtıcı quş çəngəli; caynaq.çünki onun [insanın] pələng kimi dişləri və***ları yox ki",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 28
+            },
+            {
+                "word": "DAYANIQ",
+                "explanation": "is. 1. davam",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 29
+            },
+            {
+                "word": "QAYIDAN",
+                "explanation": "f.sif. xüs. geri dönən",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 30
+            },
+            {
+                "word": "QAYIQÇI",
+                "explanation": "is. qayıq işlədən",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 31
+            },
+            {
+                "word": "AYAQAÇDI",
+                "explanation": "is. etnoqr. qızın toydan sonra atası evinə birinci dəfə gəlməsi adəti. məşədi öz qızını və kürəkənini … axşam çörəyinə ayaqaçmaya çağırmışdı",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 32
+            },
+            {
+                "word": "QAYINANA",
+                "explanation": "is. ər və ya arvadın anası.sona xala gözəl bir gəlin ***sı oldu.s.s.axundov. ***larınıza çox da üzverməyin",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 33
+            },
+            {
+                "word": "QAYNAQÇI",
+                "explanation": "is. xüs. qaynaq işilə məşğulolan fəhlə (bax qaynaq2). buruqda kəmərendirilərkən",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 34
+            },
+            {
+                "word": "QIYIQDAN",
+                "explanation": "is. qıyıq qabı",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 35
+            },
+            {
+                "word": "AÇIQAYDIN",
+                "explanation": "zərf və sif. bax açıq (12-13-cü mənalarda). açıq-aydın məsələ. fikrini açıq-aydın söyləmək. açıq-aydın danışmaq",
+                "isPanagram": true,
+                "score": 17,
+                "length": 9,
+                "id": 36
+            }
+        ]
+    }
+}

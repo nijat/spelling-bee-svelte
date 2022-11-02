@@ -1,0 +1,230 @@
+{
+    "gameData": {
+        "day": "20221210",
+        "expiration": "1670713140",
+        "centerLetter": "Y",
+        "outerLetters": [
+            "Q",
+            "O",
+            "B",
+            "Ç",
+            "A",
+            "I"
+        ],
+        "words_info": {
+            "word_count": 25,
+            "sum_score": 119,
+            "panagram_count": 1,
+            "word_length": {
+                "4": 8,
+                "6": 2,
+                "8": 1,
+                "10": 1,
+                "5": 10,
+                "7": 3
+            }
+        },
+        "words": [
+            {
+                "word": "AYAQ",
+                "explanation": "is. klas. qədəh",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "AYIB",
+                "explanation": "is. [ər. eyb] 1. utanılacaq şey",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "AYIQ",
+                "explanation": "sif. və zərf 1. bayğınlığı",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "BOYA",
+                "explanation": "is. 1. bir şeyə müəyyən rəng vermək",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "QAYA",
+                "explanation": "is. 1. daşlıq və sarp dağ; daşlıq uçurum",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 5
+            },
+            {
+                "word": "OYAQ",
+                "explanation": "sif. 1. yatmamış",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 6
+            },
+            {
+                "word": "YABA",
+                "explanation": "is. ot",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 7
+            },
+            {
+                "word": "YABI",
+                "explanation": "is. 1. arıq",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 8
+            },
+            {
+                "word": "BABAY",
+                "explanation": "is. uşaq dilində: qoca",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 9
+            },
+            {
+                "word": "BOYAQ",
+                "explanation": "is. 1. bax boya 1-ci mənada.2. bot. kökündən boyayıcı maddə hasiledilən bitki",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 10
+            },
+            {
+                "word": "ÇAYÇI",
+                "explanation": "is. 1. çay əkib-becərməklə məşğulolan adam; çaybecərən. ***ların yarışı.// çay mütəxəssisi.2. çayxanada xidmət edən adam",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 11
+            },
+            {
+                "word": "QAYÇI",
+                "explanation": "is. 1. ortadan qadaqla bir-birinəçarpaz bənd edilmiş iki hissədən ibarət kəsicialət. dərzi ***sı",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 12
+            },
+            {
+                "word": "QAYIQ",
+                "explanation": "is. 1. su nəqliyyat vasitəsi. motorlu***. yelkənli ***. balıqçı qayığı.***da gəzmək. – ***lar",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 13
+            },
+            {
+                "word": "QIYIQ",
+                "explanation": "is. torba",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 14
+            },
+            {
+                "word": "QOBOY",
+                "explanation": "is. [fr.] nəfəsli musiqi aləti",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 15
+            },
+            {
+                "word": "YAYÇI",
+                "explanation": "is. qədim türkdilli tayfalardan biri",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 16
+            },
+            {
+                "word": "YAYIQ",
+                "explanation": "sif. məh. 1. göz qabağında olmayan",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 17
+            },
+            {
+                "word": "YAYQI",
+                "explanation": "is. yerə və ya döşəmə üzərinə sərilənşeylər: palaz",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 18
+            },
+            {
+                "word": "AYAQÇI",
+                "explanation": "is. məh. 1. köhn. qapı-qapı gəzib",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 19
+            },
+            {
+                "word": "QIYQIY",
+                "explanation": "is. 1. bir ayağı üstündə yerimə.2. bu cür oynanılan uşaq oyunu",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 20
+            },
+            {
+                "word": "ÇAYQABI",
+                "explanation": "is. quru çayı saxlamaq üçünqab",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 21
+            },
+            {
+                "word": "QAYIQÇI",
+                "explanation": "is. qayıq işlədən",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 22
+            },
+            {
+                "word": "AYAQQABI",
+                "explanation": "is. ayağa geyilən şey. dəri***. rezin ***. *** mağazası.*** fabriki",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 23
+            },
+            {
+                "word": "AYAQQABIÇI",
+                "explanation": "is. çəkməçi",
+                "isPanagram": false,
+                "score": 10,
+                "length": 10,
+                "id": 24
+            },
+            {
+                "word": "BOYAQÇI",
+                "explanation": "is. ***lıqla məşğul olanadam",
+                "isPanagram": true,
+                "score": 17,
+                "length": 7,
+                "id": 25
+            }
+        ]
+    }
+}

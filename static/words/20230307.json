@@ -1,0 +1,173 @@
+{
+    "gameData": {
+        "day": "20230307",
+        "expiration": "1678229940",
+        "centerLetter": "I",
+        "outerLetters": [
+            "Ğ",
+            "R",
+            "A",
+            "D",
+            "C",
+            "O"
+        ],
+        "words_info": {
+            "word_count": 18,
+            "sum_score": 101,
+            "panagram_count": 1,
+            "word_length": {
+                "5": 5,
+                "8": 3,
+                "4": 4,
+                "7": 3,
+                "6": 3
+            }
+        },
+        "words": [
+            {
+                "word": "AĞIR",
+                "explanation": "sif. 1. böyük çəkisi",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "AĞRI",
+                "explanation": "is. 1. duyğu sinirlərinin qıcıqlanmasınəticəsində bədənin hər hansı bir yerindəhiss edilən əziyyət",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "DARI",
+                "explanation": "is. yumru toxumları olan birillik taxılbitkisi və bu bitkinin dəni. *** əkini. – actoyuq yuxusunda *** görər",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "DIĞA",
+                "explanation": "is. [erm.] dan. erməni uşağı",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "ACICA",
+                "explanation": "sif. 1. bir qədər acı",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 5
+            },
+            {
+                "word": "ARDIC",
+                "explanation": "is. bot. sərv ağacı fəsiləsindənolub",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 6
+            },
+            {
+                "word": "CIDIR",
+                "explanation": "is. 1. at yarışı. azərbaycanda ***ınqədim tarixi var. □ ***a çıxmaq – atyarışına çıxmaq",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 7
+            },
+            {
+                "word": "CIĞIR",
+                "explanation": "is. 1. gediş-gəlişdən əmələ gələnensiz",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 8
+            },
+            {
+                "word": "DIĞIR",
+                "explanation": "is. dan. 1. keçi aşığı.2. düyü xırdası",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 9
+            },
+            {
+                "word": "CIĞCIĞ",
+                "explanation": "is. zool. qağayı cinsindən xırdasuquşu",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 10
+            },
+            {
+                "word": "DADICI",
+                "explanation": "is. xüs. bir şeyin dadını müəyyənedən mütəxəssis; dequstator",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 11
+            },
+            {
+                "word": "DIĞDIĞ",
+                "explanation": "is. dan. 1. çox quru.2. dedi-qodu",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 12
+            },
+            {
+                "word": "AĞRIACI",
+                "explanation": "is. 1. çox işləmək",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 13
+            },
+            {
+                "word": "CIĞCIĞA",
+                "explanation": "is. bot. çiy-çiy yeyilən",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 14
+            },
+            {
+                "word": "DIĞDIĞI",
+                "explanation": "sif. və is. dan. çox deyingən(adam)",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 15
+            },
+            {
+                "word": "AĞARDICI",
+                "explanation": "sif. və is. 1. ağartmaqla məşğulolan.2. ağartmağa yarayan. *** məhlul",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 16
+            },
+            {
+                "word": "DAĞIDICI",
+                "explanation": "sif. dağıdan",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 17
+            },
+            {
+                "word": "DORAĞACI",
+                "explanation": "is. müxtəlif məqsədlər üçün gəmilərin ortasında dikəldilən uzun dirək. …çıxasan ***na",
+                "isPanagram": true,
+                "score": 17,
+                "length": 8,
+                "id": 18
+            }
+        ]
+    }
+}

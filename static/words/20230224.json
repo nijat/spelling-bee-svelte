@@ -1,0 +1,198 @@
+{
+    "gameData": {
+        "day": "20230224",
+        "expiration": "1677279540",
+        "centerLetter": "C",
+        "outerLetters": [
+            "Y",
+            "A",
+            "L",
+            "N",
+            "P",
+            "I"
+        ],
+        "words_info": {
+            "word_count": 21,
+            "sum_score": 139,
+            "panagram_count": 1,
+            "word_length": {
+                "5": 7,
+                "7": 6,
+                "4": 1,
+                "6": 3,
+                "8": 1,
+                "9": 3
+            }
+        },
+        "words": [
+            {
+                "word": "ANAC",
+                "explanation": "sif. 1. dəfələrlə bala doğub",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "ACICA",
+                "explanation": "sif. 1. bir qədər acı",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 2
+            },
+            {
+                "word": "ACILI",
+                "explanation": "sif. zəhərli",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 3
+            },
+            {
+                "word": "ALICI",
+                "explanation": "1. is. müştəri",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 4
+            },
+            {
+                "word": "CALAL",
+                "explanation": "is. [ər.] əzəmət",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 5
+            },
+            {
+                "word": "CANAN",
+                "explanation": "is. [fars.] sevgili",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 6
+            },
+            {
+                "word": "CANLI",
+                "explanation": "sif. 1. diri",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 7
+            },
+            {
+                "word": "YAYCI",
+                "explanation": "is. qədim türkdilli tayfalardan biri",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 8
+            },
+            {
+                "word": "ANACAN",
+                "explanation": "is. anaya nəvazişlə müraciət.[rəsul:] ***",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 9
+            },
+            {
+                "word": "YANICI",
+                "explanation": "sif. yanmaq xassəsi olan; tezyanan",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 10
+            },
+            {
+                "word": "YAYICI",
+                "explanation": "sif. 1. bir şeyi yayan",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 11
+            },
+            {
+                "word": "ACILICA",
+                "explanation": "is. bot. bəzi növlərindən dərmanhasil edilən çoxillik ot bitkisi",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 12
+            },
+            {
+                "word": "ALACALI",
+                "explanation": "sif. dan. rəngbərəng",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 13
+            },
+            {
+                "word": "CALALLI",
+                "explanation": "sif. dəbdəbəli",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 14
+            },
+            {
+                "word": "CANALAN",
+                "explanation": "sif. 1. cəllad",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 15
+            },
+            {
+                "word": "CANLICA",
+                "explanation": "sif. çox canlı",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 16
+            },
+            {
+                "word": "YAPINCI",
+                "explanation": "is. basılmış keçi yunundan (keçədən)hazırlanan plaşa oxşar qolsuz",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 17
+            },
+            {
+                "word": "CANALICI",
+                "explanation": "sif. 1. cəllad",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 18
+            },
+            {
+                "word": "CANIYANAN",
+                "explanation": "sif. birinə ürəyi yanan",
+                "isPanagram": false,
+                "score": 9,
+                "length": 9,
+                "id": 19
+            },
+            {
+                "word": "PAYLAYICI",
+                "explanation": "is. tex. maşınlarda",
+                "isPanagram": false,
+                "score": 9,
+                "length": 9,
+                "id": 20
+            },
+            {
+                "word": "YAPINCILI",
+                "explanation": "sif. əynində yapıncı olan.faytondan iki nəfər *** adam düşdü.m.hüseyn. deyəsən",
+                "isPanagram": true,
+                "score": 17,
+                "length": 9,
+                "id": 21
+            }
+        ]
+    }
+}

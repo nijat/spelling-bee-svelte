@@ -1,0 +1,228 @@
+{
+    "gameData": {
+        "day": "20221230",
+        "expiration": "1672441140",
+        "centerLetter": "T",
+        "outerLetters": [
+            "Ş",
+            "B",
+            "R",
+            "A",
+            "I",
+            "İ"
+        ],
+        "words_info": {
+            "word_count": 25,
+            "sum_score": 124,
+            "panagram_count": 1,
+            "word_length": {
+                "4": 6,
+                "6": 7,
+                "7": 3,
+                "5": 9
+            }
+        },
+        "words": [
+            {
+                "word": "ARAT",
+                "explanation": "is. k.t. şumlanıb sulanmış",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "ATAT",
+                "explanation": "is. uşaqların ağac üstə minərəkoynadıqları oyun. at-at oynamaq",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "ATIŞ",
+                "explanation": "is. tüfəng",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "BATI",
+                "explanation": "is. məh. günbatan tərəf",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "TİBB",
+                "explanation": "is. [ər.] 1. xəstəliklər",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 5
+            },
+            {
+                "word": "TİTR",
+                "explanation": "[fr.] 1. kinolentdə yazı",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 6
+            },
+            {
+                "word": "BABAT",
+                "explanation": "sif. və zərf orta keyfiyyətli",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 7
+            },
+            {
+                "word": "BARAT",
+                "explanation": "is. [ər.] 1. bank və s. maliyyə müəssisəsi və ya poçt vasitəsilə göndərilən pul. bütün məktublar və ya ***lar dərhal sahiblərinə paylanır",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 8
+            },
+            {
+                "word": "BARIT",
+                "explanation": "is. odlu silahlardan ötrü patron",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 9
+            },
+            {
+                "word": "BATIŞ",
+                "explanation": "is. batma. [vaqif:] günəşin çıxışıilə ***ı gözəl olur",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 10
+            },
+            {
+                "word": "ŞATIR",
+                "explanation": "is. [ər.] çörəkbişirən",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 11
+            },
+            {
+                "word": "ŞATİR",
+                "explanation": "sif. və zərf [ər.] klas. şən",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 12
+            },
+            {
+                "word": "TARAŞ",
+                "explanation": "is. [fars.] 1. qırxma. □ *** etdirmək– qırxdırmaq. başını *** etdirmək.*** etmək – qırxmaq. üzünü *** etmək",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 13
+            },
+            {
+                "word": "TATAR",
+                "explanation": "is. 1. ***ıstanın əsas əhalisinitəşkil edən türkdilli xalq və bu xalqa mənsubadam.2. volqaboyunda",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 14
+            },
+            {
+                "word": "TİBBİ",
+                "explanation": "sif. [ər.] tiblə",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 15
+            },
+            {
+                "word": "ARBİTR",
+                "explanation": "[lat.] bax münsif",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 16
+            },
+            {
+                "word": "ATABİR",
+                "explanation": "sif. bir atadan törəmiş",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 17
+            },
+            {
+                "word": "BARATA",
+                "explanation": "is. məh. yer səthini örtmüş palçıqlayı",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 18
+            },
+            {
+                "word": "BARITI",
+                "explanation": "sif. barıt rəngində olan",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 19
+            },
+            {
+                "word": "BATBAT",
+                "explanation": "is. bot. bəngotu; pis qoxulu acıdadan ot bitki (xalq təbabətində işlədilir).gödək saplaqlı yaşıl rəngli və yumurtayaoxşarzəhərli otların",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 20
+            },
+            {
+                "word": "ŞİRBİT",
+                "explanation": "is. zool. çəki balığının bir növü",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 21
+            },
+            {
+                "word": "TATARI",
+                "explanation": "is. qırmanc",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 22
+            },
+            {
+                "word": "ATABABA",
+                "explanation": "is. əcdad",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 23
+            },
+            {
+                "word": "TABAŞİR",
+                "explanation": "is. [fars.] kimya",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 24
+            },
+            {
+                "word": "TİRBAŞI",
+                "explanation": "is. tirin başından kəsilmiş parça(bax tir1 1-ci mənada)",
+                "isPanagram": true,
+                "score": 17,
+                "length": 7,
+                "id": 25
+            }
+        ]
+    }
+}

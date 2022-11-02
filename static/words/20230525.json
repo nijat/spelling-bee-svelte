@@ -1,0 +1,237 @@
+{
+    "gameData": {
+        "day": "20230525",
+        "expiration": "1685051940",
+        "centerLetter": "Ş",
+        "outerLetters": [
+            "R",
+            "H",
+            "C",
+            "Ə",
+            "K",
+            "İ"
+        ],
+        "words_info": {
+            "word_count": 26,
+            "sum_score": 102,
+            "panagram_count": 1,
+            "word_length": {
+                "4": 11,
+                "5": 11,
+                "7": 1,
+                "6": 2,
+                "8": 1
+            }
+        },
+        "words": [
+            {
+                "word": "ƏKİŞ",
+                "explanation": "is. əkmə işi və tərzi",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "ƏRƏŞ",
+                "explanation": "is. köhn. dirsəkdən barmaqlarınucuna qədər olan uzunluq ölçüsü",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "ƏRİŞ",
+                "explanation": "is. toxuc. xalçada və başqa toxunmamallarda uzununa müvazi gedən əsasiplər. xananın ***i. – toxunmalar üçün işlənənsaplar",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "ƏŞƏR",
+                "explanation": "is. [ər.] tar. keçmişdə müəyyənməqsədlər üçün gəlirin onda biri miqdarındaverilən vergi",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "KİŞİ",
+                "explanation": "is. 1. cinscə qadının əksi. arvad üzlü***dən",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 5
+            },
+            {
+                "word": "RƏŞƏ",
+                "explanation": "is. [ər.] titrəmə",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 6
+            },
+            {
+                "word": "RİŞƏ",
+                "explanation": "is. [fars.] kök (bitkidə). yazın birayında xoş keçər illər; zoğ edib ***dən başverər güllər. aşıq ələsgər",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 7
+            },
+            {
+                "word": "ŞƏKK",
+                "explanation": "is. [ər.] bir şeyin gerçəkliyinə",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 8
+            },
+            {
+                "word": "ŞƏRH",
+                "explanation": "is. [ər.] açma",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 9
+            },
+            {
+                "word": "ŞƏRİ",
+                "explanation": "[ər.] din. ***ətcə qanuni",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 10
+            },
+            {
+                "word": "ŞİRƏ",
+                "explanation": "is. [fars.] 1. toxumalarda",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 11
+            },
+            {
+                "word": "HƏŞİR",
+                "explanation": "is. [ər.] 1. bax qiyamət 1-cimənada.2. bax qiyamət 3-cü mənada. [kəndlilər:]bu *** kimin evindədir? – deyəsoruşurdular",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 12
+            },
+            {
+                "word": "KİRİŞ",
+                "explanation": "is. 1. möhkəm ip. dəmirçioğlu başa düşdü ki",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 13
+            },
+            {
+                "word": "KİRŞƏ",
+                "explanation": "is. altı hamar iki paralel xizəküzərində düzəldilmiş minik və ya yük arabası.*** ilə odun daşımaq",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 14
+            },
+            {
+                "word": "ŞƏHƏR",
+                "explanation": "is. [fars.] inzibati idarələr",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 15
+            },
+            {
+                "word": "ŞƏHRƏ",
+                "explanation": "is. açıq yara",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 16
+            },
+            {
+                "word": "ŞƏKƏR",
+                "explanation": "is. [fars.] 1. qənd. xalq batıbdırnoğla",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 17
+            },
+            {
+                "word": "ŞƏRƏR",
+                "explanation": "[ər.] klas. bax şərar(ə). şikəstə zakirəm",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 18
+            },
+            {
+                "word": "ŞƏRİK",
+                "explanation": "is. [ər.] 1. hər hansı bir işdə (ticarətdəvə s.-də) başqası ilə birgə iştirak edənadam; ortaq. əbülhəsənbəy cavahirfüruş vəonun ***i ağa əsəd tüt",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 19
+            },
+            {
+                "word": "ŞƏRİR",
+                "explanation": "sif. və is. [ər.] şər işlər görən",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 20
+            },
+            {
+                "word": "ŞƏŞƏƏ",
+                "explanation": "is. [ər.] klas. tənt. 1. parlaqlıq",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 21
+            },
+            {
+                "word": "ŞİŞƏK",
+                "explanation": "is. müxtəlif yerlərdə müxtəlif (2-4)yaşlarda olan erkək qoyun. toğlu birillik",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 22
+            },
+            {
+                "word": "ŞƏCƏRƏ",
+                "explanation": "is. [ər.] bir sülalənin",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 23
+            },
+            {
+                "word": "ŞƏRƏRƏ",
+                "explanation": "[ər.] klas. bax şərar(ə). şikəstə zakirəm",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 24
+            },
+            {
+                "word": "KƏRİŞKƏ",
+                "explanation": "is. içi dəlik ağaca geydirilən",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 25
+            },
+            {
+                "word": "ŞƏHƏRCİK",
+                "explanation": "is. 1. balaca şəhər.2. hər hansı bir məqsədə xidmət edən yaşayışvə ya müəssisə binaları qrupu. fəhləşəhərciyi",
+                "isPanagram": true,
+                "score": 17,
+                "length": 8,
+                "id": 26
+            }
+        ]
+    }
+}

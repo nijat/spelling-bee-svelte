@@ -1,0 +1,260 @@
+{
+    "gameData": {
+        "day": "20230107",
+        "expiration": "1673132340",
+        "centerLetter": "R",
+        "outerLetters": [
+            "I",
+            "Ş",
+            "N",
+            "D",
+            "A",
+            "İ"
+        ],
+        "words_info": {
+            "word_count": 29,
+            "sum_score": 142,
+            "panagram_count": 1,
+            "word_length": {
+                "5": 10,
+                "4": 7,
+                "6": 10,
+                "8": 2
+            }
+        },
+        "words": [
+            {
+                "word": "ANRI",
+                "explanation": "zərf və sif. dan. 1. o yan",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "ARAN",
+                "explanation": "is. azərbaycanda: yaylaq yerlərənisbətən alçaq və iqlimcə isti olan yerlər.azərbaycanın əsas *** yerləri muğan",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "DAİR",
+                "explanation": "qoş. [ər.] haqqında",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "DARI",
+                "explanation": "is. yumru toxumları olan birillik taxılbitkisi və bu bitkinin dəni. *** əkini. – actoyuq yuxusunda *** görər",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "DİRİ",
+                "explanation": "sif. 1. canı olan",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 5
+            },
+            {
+                "word": "RİND",
+                "explanation": "is. [ər.] klas. vaxtını eyş-işrətlə keçirənlaqeyd",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 6
+            },
+            {
+                "word": "ŞAİR",
+                "explanation": "is. [ər.] şeir söyləyən və ya yazanşəxs; təbiətində şeir söyləmək və yazmaqqabiliyyəti olan şəxs. sabir azərbaycanınböyük satirik ***idir",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 7
+            },
+            {
+                "word": "ANDIR",
+                "explanation": "is. dan. əsil mənası “sahibsiz",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 8
+            },
+            {
+                "word": "ARŞIN",
+                "explanation": "is. metrik ölçü sistemi qəbul olunanadək işlədilən uzunluq ölçüsü (0",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 9
+            },
+            {
+                "word": "DİDAR",
+                "explanation": "is. [fars.] klas. 1. görünüş",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 10
+            },
+            {
+                "word": "DİNAR",
+                "explanation": "is. [ər.] 1. tar. yaxın şərqin bəziölkələrində qızıl pul. [əli xan] dirhəm və*** təmənnasında olmayıb",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 11
+            },
+            {
+                "word": "NADİR",
+                "explanation": "sif. [ər.] aztapılan",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 12
+            },
+            {
+                "word": "NARIN",
+                "explanation": "sif. 1. son dərəcə xırda",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 13
+            },
+            {
+                "word": "NAŞİR",
+                "explanation": "is. [ər.] kitab və s. nəşr edənadam. qəzetin ***i məmmədağa şaxtaxtlımaarifpərvər",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 14
+            },
+            {
+                "word": "RADAR",
+                "explanation": "[ing.] bax radiolokator. radiolokasiyadaişlədilən qurğulara radiolokatordeyilir. bəzi yerlərdə bunları müxtəsər olaraq*** adlandırırlar",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 15
+            },
+            {
+                "word": "ŞİRİN",
+                "explanation": "sif. [fars.] 1. ağızda şəkər",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 16
+            },
+            {
+                "word": "ŞİRNİ",
+                "explanation": "is. qənd",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 17
+            },
+            {
+                "word": "DIŞARI",
+                "explanation": "is. bayır",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 18
+            },
+            {
+                "word": "DİNDAR",
+                "explanation": "[ər. din və fars. …dar] bax dinçi.*** adam. – *** olanın halı pərişangərək olsun; əfsürdə dili",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 19
+            },
+            {
+                "word": "NARDAN",
+                "explanation": "is. *** bişirilən riçal",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 20
+            },
+            {
+                "word": "ŞADARA",
+                "explanation": "is. buğdanın",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 21
+            },
+            {
+                "word": "ŞARADA",
+                "explanation": "is. [fr.] cavabı müxtəlif sözlərdənibarət tapmaca. isti + ot = istiot",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 22
+            },
+            {
+                "word": "ŞARNİR",
+                "explanation": "is. [alm.] mexanizmin hərəkətinitəmin edən hissələrinin mühərrik birləşməsi",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 23
+            },
+            {
+                "word": "ŞINDIR",
+                "explanation": "is. ətin atılan hissələri",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 24
+            },
+            {
+                "word": "ŞIRŞIR",
+                "explanation": "təql. 1. is. bir qaydada axan",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 25
+            },
+            {
+                "word": "ŞIRRAN",
+                "explanation": "is. şəlalə. xatun … vedrəni götürüb",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 26
+            },
+            {
+                "word": "ŞİRDAN",
+                "explanation": "is. [fars.] kövşəyən heyvanlarınikinci mədəsi; qursaq. tam məhlul halınasalınmış yem qursaqdan – ***dan nazikbağırsağa keçir",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 27
+            },
+            {
+                "word": "DİNDİRİŞ",
+                "explanation": "is. dindirmə",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 28
+            },
+            {
+                "word": "NARINDİŞ",
+                "explanation": "sif. dişləri sıx və incə; xırdadişli (daraq haqqında)",
+                "isPanagram": true,
+                "score": 17,
+                "length": 8,
+                "id": 29
+            }
+        ]
+    }
+}
