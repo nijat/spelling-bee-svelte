@@ -149,11 +149,13 @@ def main():
 
     first_day = 1
     for i in range(first_day, 32):
-        year = "2022"
-        month = "10"
+        year = "2023"
+        month = "5"
         day = str(i)
         if int(day) < 10:
             day = "0" + day
+        if int(month) < 10:
+            month = "0" + month
         full_day = year + month + day
         store_day(full_day)
        
