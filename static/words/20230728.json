@@ -1,0 +1,318 @@
+{
+    "gameData": {
+        "day": "20230728",
+        "expiration": "1690588740",
+        "centerLetter": "A",
+        "outerLetters": [
+            "L",
+            "Ü",
+            "R",
+            "Ə",
+            "B",
+            "D"
+        ],
+        "words_info": {
+            "word_count": 36,
+            "sum_score": 180,
+            "panagram_count": 1,
+            "word_length": {
+                "4": 9,
+                "5": 13,
+                "7": 5,
+                "6": 5,
+                "8": 3,
+                "9": 1
+            }
+        },
+        "words": [
+            {
+                "word": "ABAD",
+                "explanation": "sif. [fars.] 1. müntəzəm və çoxlu tikintisi",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "ADAB",
+                "explanation": "is. [ər. “ədəb” söz. cəmi] köhn.əxlaq qaydaları",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "BABA",
+                "explanation": "is. 1. atanın",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "BADƏ",
+                "explanation": "is. [fars.] şair. 1. şərab",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "BALA",
+                "explanation": "1. is. övlad",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 5
+            },
+            {
+                "word": "BARƏ",
+                "explanation": "is. [fars.] köhn. bənd",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 6
+            },
+            {
+                "word": "BƏLA",
+                "explanation": "is. [ər.] 1. uğursuzluq",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 7
+            },
+            {
+                "word": "LALƏ",
+                "explanation": "is. [fars.] 1. bot. iriləçəkli qırmızıçiçəkləri olan bitki və bu bitkinin çiçəyi. bitərçəməndə ***lər",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 8
+            },
+            {
+                "word": "RADƏ",
+                "explanation": "is. [ər.] vaxt bildirən rəqəmlərdən sonra gələrək həmin rəqəmin təxmini olduğunu göstərir (adətən “***ləri” və “***lərində” şəklində işlədilir)",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 9
+            },
+            {
+                "word": "ABDAL",
+                "explanation": "[ər.] 1. is. sərsəri",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 10
+            },
+            {
+                "word": "ABDAR",
+                "explanation": "sif. [fars.] 1. sulu",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 11
+            },
+            {
+                "word": "ARABA",
+                "explanation": "is. iki və ya dördtəkərli nəqliyyatvasitəsi. minik ***sı. yük ***sı. əl ***sı(əl ilə sürülən ***)",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 12
+            },
+            {
+                "word": "BADAR",
+                "explanation": "məh. 1. is. kiçicik əkin yeri.2. sif. dağınıq",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 13
+            },
+            {
+                "word": "BALBA",
+                "explanation": "is. məh. cincilim",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 14
+            },
+            {
+                "word": "DALAB",
+                "explanation": "is. məh. dəvə",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 15
+            },
+            {
+                "word": "DALDA",
+                "explanation": "1. sif. sığınmağa və ya gizlənməyəyarayan. *** yer. *** divar.– kosa boşalmış küçənin *** yeri ilə yeriyibat tövlələrinin yanına çatdı",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 16
+            },
+            {
+                "word": "ƏBƏDA",
+                "explanation": "[ər.] klas. 1. bax əbədən.2. heç",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 17
+            },
+            {
+                "word": "ƏRBAB",
+                "explanation": "sif. [ər. “rəbb” söz. cəmi] köhn.ağa",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 18
+            },
+            {
+                "word": "LABÜD",
+                "explanation": "zərf [ər.] 1. yerinə yetirilməsi",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 19
+            },
+            {
+                "word": "RADAR",
+                "explanation": "[ing.] bax radiolokator. radiolokasiyadaişlədilən qurğulara radiolokatordeyilir. bəzi yerlərdə bunları müxtəsər olaraq*** adlandırırlar",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 20
+            },
+            {
+                "word": "RADDƏ",
+                "explanation": "is. [ər.] vaxt bildirən rəqəmlərdən sonra gələrək həmin rəqəmin təxmini olduğunu göstərir (adətən “radələri” və “radələrində” şəklində işlədilir)",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 21
+            },
+            {
+                "word": "RÜBAB",
+                "explanation": "is. [ər.] bir çox şərq xalqlarıarasında geniş yayılmış simli musiqi aləti.***ın incə tellərdir",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 22
+            },
+            {
+                "word": "BƏRBAD",
+                "explanation": "is. [fars.] dağılmış",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 23
+            },
+            {
+                "word": "DARABA",
+                "explanation": "is. məh. 1. taxtadan və s.-dənhasar; arakəsmə. otağı *** ilə iki hissəyəayırmaq.2. evin yanında taxtadan və s",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 24
+            },
+            {
+                "word": "DƏLLAL",
+                "explanation": "is. [ər.] 1. alverdə alanla satanarasında vasitəçilik edən şəxs. genə şəhriçrə gördü ol minval; satır əvvəlki eşşəyi***",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 25
+            },
+            {
+                "word": "DƏRBAR",
+                "explanation": "is. [fars.] padşah sarayı. [xacə mübarəkə] əmr olundu ki",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 26
+            },
+            {
+                "word": "ƏRRADƏ",
+                "explanation": "is. [ər.] köhn. 1. təkərlər üzərindəyerləşdirilmiş top",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 27
+            },
+            {
+                "word": "ARABƏRƏ",
+                "explanation": "is. dan. 1. aralıq",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 28
+            },
+            {
+                "word": "BALLADA",
+                "explanation": "[fr.] ədəb. 1. əfsanə",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 29
+            },
+            {
+                "word": "BƏRABƏR",
+                "explanation": "1. sif. başqası ilə tən",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 30
+            },
+            {
+                "word": "BƏRADƏR",
+                "explanation": "is. [fars.] qardaş. ***imcəmil ilə məsləhəti bu yerə qoyduq ki",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 31
+            },
+            {
+                "word": "LƏBBADƏ",
+                "explanation": "is. [ər.] 1. köhn. bax aba1.[molla xəlil] uzun ***sinin ətəkləriniyelləndirə-yelləndirə o baş-bu başa gəzinir",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 32
+            },
+            {
+                "word": "DARABARA",
+                "explanation": "is. mübahisə",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 33
+            },
+            {
+                "word": "DƏDƏBABA",
+                "explanation": "is. 1. ulu babalar",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 34
+            },
+            {
+                "word": "DƏRDBƏLA",
+                "explanation": "is. [fars.] dərdə",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 35
+            },
+            {
+                "word": "DARÜLƏDƏB",
+                "explanation": "is. [ər.] klas. məktəb. ***inbilməliyiz qədrini",
+                "isPanagram": true,
+                "score": 17,
+                "length": 9,
+                "id": 36
+            }
+        ]
+    }
+}

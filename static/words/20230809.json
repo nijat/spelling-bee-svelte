@@ -1,0 +1,262 @@
+{
+    "gameData": {
+        "day": "20230809",
+        "expiration": "1691625540",
+        "centerLetter": "Z",
+        "outerLetters": [
+            "T",
+            "A",
+            "F",
+            "B",
+            "R",
+            "Ə"
+        ],
+        "words_info": {
+            "word_count": 29,
+            "sum_score": 114,
+            "panagram_count": 1,
+            "word_length": {
+                "5": 9,
+                "4": 13,
+                "6": 4,
+                "7": 1,
+                "8": 1,
+                "11": 1
+            }
+        },
+        "words": [
+            {
+                "word": "AZAR",
+                "explanation": "is. [fars.] 1. xəstəlik",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "AZƏR",
+                "explanation": "is. [fars.] oda xidmət göstərənmələk",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "BƏZR",
+                "explanation": "is. [ər.] 1. toxum əkiləcək dən.2. kətan toxumu. // kətan toxumu yağı",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "ƏFZA",
+                "explanation": "sif. [ər.] köhn. artıran. gərçi qışfəsli idi",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "ƏZAB",
+                "explanation": "is. [ər.] 1. əziyyət",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 5
+            },
+            {
+                "word": "FƏRZ",
+                "explanation": "is. [ər.] 1. güman",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 6
+            },
+            {
+                "word": "FƏZA",
+                "explanation": "is. [ər.] 1. kainatda sonsuz boşluq;göy",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 7
+            },
+            {
+                "word": "RƏZƏ",
+                "explanation": "is. dan. cəftə. ***ni bağlamaq. –qəsrin qalın taxta qapısı ***sindən qopubayaq altına düşmüşdü. m",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 8
+            },
+            {
+                "word": "TƏRZ",
+                "explanation": "is. [ər.] 1. üsul",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 9
+            },
+            {
+                "word": "TƏZƏ",
+                "explanation": "sif. [fars.] yeni. aptekdən *** dərmangətirmişdilər. c.məmmədquluzadə. [gülyaz:]kəndimizə xəbər yayılıb ki",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 10
+            },
+            {
+                "word": "ZƏBT",
+                "explanation": "is. [ər.] silah gücü ilə",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 11
+            },
+            {
+                "word": "ZƏRB",
+                "explanation": "is. [ər.] 1. vurma",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 12
+            },
+            {
+                "word": "ZƏRF",
+                "explanation": "is. [ər.] 1. içərisinə məktub və yabaşqa kağız qoyub başqa yerə göndərməküçün xüsusi biçimli kağız qab; konvert",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 13
+            },
+            {
+                "word": "ATBAZ",
+                "explanation": "is. [at və fars. …baz] son dərəcəat sevən adam",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 14
+            },
+            {
+                "word": "BAZAR",
+                "explanation": "is. 1. alış-veriş yeri. bütün şəhər***",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 15
+            },
+            {
+                "word": "ƏZBƏR",
+                "explanation": "1. is. bir mətni və ya sözü eyniilə təkrar edilə biləcək şəkildə yadda",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 16
+            },
+            {
+                "word": "TARAZ",
+                "explanation": "[fars.] 1. sif. və zərf düz",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 17
+            },
+            {
+                "word": "ZƏBƏR",
+                "explanation": "is. [fars.] ərəb (fars) əlifbasında“ə” səsini bildirmək üçün samitlərin üzərinəqoyulan ",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 18
+            },
+            {
+                "word": "ZƏFƏR",
+                "explanation": "is. [ər.] tənt. qalibiyyət",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 19
+            },
+            {
+                "word": "ZƏRBƏ",
+                "explanation": "is. [ər.] 1. qolaylayaraq bir şeylə şiddətlə vurma; vuruş. yumruq ***si. balta ***si. *** səsi",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 20
+            },
+            {
+                "word": "ZƏRƏR",
+                "explanation": "is. [ər.] ziyan. bunun xeyri var ki",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 21
+            },
+            {
+                "word": "ZƏRRƏ",
+                "explanation": "is. [ər.] bir şeyin ən kiçik hissəsi. [qəhrəman:] kənarda şiddətlə əsən qış ruzgarı birqat pəncərələri yumruqlayır",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 22
+            },
+            {
+                "word": "BƏZZAZ",
+                "explanation": "is. [ər.] köhn. parça",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 23
+            },
+            {
+                "word": "ZƏRBAF",
+                "explanation": "is. [fars.] 1. bafta",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 24
+            },
+            {
+                "word": "ZƏRBƏT",
+                "explanation": "is. [ər. “zərbat”dan – zərbələr]köhn. zərbə",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 25
+            },
+            {
+                "word": "ZƏRZƏR",
+                "explanation": "is. [fars.] zərlə toxunmuş parça",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 26
+            },
+            {
+                "word": "ZARAFAT",
+                "explanation": "1. is. [ər.] gülmək",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 27
+            },
+            {
+                "word": "ZƏBTRƏBT",
+                "explanation": "is. [ər.] köhn. asayiş",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 28
+            },
+            {
+                "word": "ZƏRZƏRBAFTA",
+                "explanation": "is. [fars.] bax zərbaf2-ci mənada",
+                "isPanagram": true,
+                "score": 17,
+                "length": 11,
+                "id": 29
+            }
+        ]
+    }
+}

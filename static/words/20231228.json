@@ -1,0 +1,214 @@
+{
+    "gameData": {
+        "day": "20231228",
+        "expiration": "1703807940",
+        "centerLetter": "R",
+        "outerLetters": [
+            "A",
+            "E",
+            "Z",
+            "Q",
+            "Y",
+            "U"
+        ],
+        "words_info": {
+            "word_count": 23,
+            "sum_score": 95,
+            "panagram_count": 1,
+            "word_length": {
+                "5": 3,
+                "4": 12,
+                "8": 4,
+                "9": 1,
+                "7": 1,
+                "6": 2
+            }
+        },
+        "words": [
+            {
+                "word": "ARAQ",
+                "explanation": "is. [ər.] 1. meyvədən və s.-dənçəkilən spirtli içki. tut arağı. zoğal arağı.*** çəkmək. – ərəqlə badədir ol iki cövhər;ki",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "ARZU",
+                "explanation": "is. [fars.] 1. bir şeyin olmasını ürəkdən istəmə; istək",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "AYAR",
+                "explanation": "is. dan. 1. barama",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "AZAR",
+                "explanation": "is. [fars.] 1. xəstəlik",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "QARA",
+                "explanation": "is. yer kürəsinin torpaqla örtülühissəsi; torpaq (su qarşılığı). ***da və suda.*** qüvvələri",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 5
+            },
+            {
+                "word": "QARE",
+                "explanation": "is. [ər.] köhn. 1. oxucu",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 6
+            },
+            {
+                "word": "QEYR",
+                "explanation": "[ər.] bax ***i 3-cü mənada.edəsən *** ilə seyri-gülüstan; xəstə zakirqala külxan içində. q.zakir",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 7
+            },
+            {
+                "word": "QURU",
+                "explanation": "sif. 1. yaş olmayan",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 8
+            },
+            {
+                "word": "RAQA",
+                "explanation": "is. [sanskr.] mus. qədim hind klassikmusiqisi növlərindən biri",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 9
+            },
+            {
+                "word": "URUQ",
+                "explanation": "is. ailə. uruğum olsun",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 10
+            },
+            {
+                "word": "UYAR",
+                "explanation": "sif. uyğun",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 11
+            },
+            {
+                "word": "YARA",
+                "explanation": "is. 1. bədən",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 12
+            },
+            {
+                "word": "AQRAR",
+                "explanation": "sif. [lat.] 1. torpağa aid olan. ***məsələ. *** islahatı.2. kənd təsərrüfatının sənayedən yüksəkolması ilə səciyyələnən",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 13
+            },
+            {
+                "word": "QURAQ",
+                "explanation": "sif. və zərf yağmursuz",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 14
+            },
+            {
+                "word": "YARAQ",
+                "explanation": "is. 1. silah. koroğlu gördü",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 15
+            },
+            {
+                "word": "QURQUR",
+                "explanation": "is. dan. içinə giləli meyvəyığmaq üçün ağac qabığından qayrılanboruşəkilli qab. uşaqlar qur-qurda çiyələkgətirmişdilər",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 16
+            },
+            {
+                "word": "QUYRUQ",
+                "explanation": "is. 1. heyvanların çoxunun bədənlərininqurtaracağındakı mütəhərrik törəmə",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 17
+            },
+            {
+                "word": "QARQARA",
+                "explanation": "is. xüs. ağır şeyləri qaldırmaqüçün yüksəkdə mil üstündə dolanan vəüzərindən ip sallanan çarx. // ümumiyyətlə",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 18
+            },
+            {
+                "word": "QARAQURA",
+                "explanation": "is. 1. qarabasma. [əhməd:]ay oğlum",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 19
+            },
+            {
+                "word": "QARAAYAQ",
+                "explanation": "sif. bədəni başqa rəng",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 20
+            },
+            {
+                "word": "QARAAZAR",
+                "explanation": "is. bayt. çox yoluxucu mal***ı",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 21
+            },
+            {
+                "word": "QARAYARA",
+                "explanation": "is. qaramalda",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 22
+            },
+            {
+                "word": "QARAQUZEY",
+                "explanation": "is. yüksək binanın və yahündür bir yerin arxasında olub",
+                "isPanagram": true,
+                "score": 17,
+                "length": 9,
+                "id": 23
+            }
+        ]
+    }
+}

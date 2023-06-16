@@ -1,0 +1,477 @@
+{
+    "gameData": {
+        "day": "20231029",
+        "expiration": "1698623940",
+        "centerLetter": "A",
+        "outerLetters": [
+            "T",
+            "B",
+            "O",
+            "Y",
+            "N",
+            "L"
+        ],
+        "words_info": {
+            "word_count": 56,
+            "sum_score": 259,
+            "panagram_count": 1,
+            "word_length": {
+                "8": 3,
+                "7": 6,
+                "5": 23,
+                "4": 15,
+                "6": 9
+            }
+        },
+        "words": [
+            {
+                "word": "ALAY",
+                "explanation": "is. 1. camaat",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "ALLO",
+                "explanation": "[ing.] telefonla danışarkən “qulaqasıram”",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "ALTO",
+                "explanation": "[ital.] mus. 1. xor",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "ATAT",
+                "explanation": "is. uşaqların ağac üstə minərəkoynadıqları oyun. at-at oynamaq",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "AYAT",
+                "explanation": "is. [ər. “ayə” söz. cəmi] bax ayə11-ci mənada. ya ki",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 5
+            },
+            {
+                "word": "AYNA",
+                "explanation": "is. [fars.] 1. güzgü. ***nın çatdığıcalaq qəbul eləməz. (ata. sözü). əgərbilmək istəyirsiniz ki",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 6
+            },
+            {
+                "word": "BABA",
+                "explanation": "is. 1. atanın",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 7
+            },
+            {
+                "word": "BALA",
+                "explanation": "1. is. övlad",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 8
+            },
+            {
+                "word": "BOYA",
+                "explanation": "is. 1. bir şeyə müəyyən rəng vermək",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 9
+            },
+            {
+                "word": "NOTA",
+                "explanation": "[lat. *** – işarə",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 10
+            },
+            {
+                "word": "OLAY",
+                "explanation": "is. hadisə",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 11
+            },
+            {
+                "word": "TALA",
+                "explanation": "is. meşədə ağacsız",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 12
+            },
+            {
+                "word": "TANA",
+                "explanation": "is. 1. sırğa. qızıl ***. – qızıl üzük",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 13
+            },
+            {
+                "word": "TAYA",
+                "explanation": "is. üst-üstə yığılmış ot",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 14
+            },
+            {
+                "word": "YABA",
+                "explanation": "is. ot",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 15
+            },
+            {
+                "word": "ALANA",
+                "explanation": "is. içərisi şəkərli qozla doldurulmuşmeyvə qurusu (armud",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 16
+            },
+            {
+                "word": "ALBAN",
+                "explanation": "is. 1. ***iya xalq respublikasının əsas əhalisinin adı və bu xalqa mənsub adam; arnaud. 2. tar. azərbaycanın şimal hissəsində yaşamış qədim xalqın a",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 17
+            },
+            {
+                "word": "ANTON",
+                "explanation": "*** alması [xüs. is.-dən] – payızda yetişən yaşıl-sarı rəngli",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 18
+            },
+            {
+                "word": "BABAT",
+                "explanation": "sif. və zərf orta keyfiyyətli",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 19
+            },
+            {
+                "word": "BABAY",
+                "explanation": "is. uşaq dilində: qoca",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 20
+            },
+            {
+                "word": "BALBA",
+                "explanation": "is. məh. cincilim",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 21
+            },
+            {
+                "word": "BALON",
+                "explanation": "[fr.] 1. maye və qaz saxlamaqüçün dəmir və ya plastik materialdan hazırlanmışqab.2. içərisinə hava doldurulmuş rezin şin",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 22
+            },
+            {
+                "word": "BALTA",
+                "explanation": "is. odun doğramaq",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 23
+            },
+            {
+                "word": "BAYAT",
+                "explanation": "sif. 1. köhnəlmiş",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 24
+            },
+            {
+                "word": "LAYLA",
+                "explanation": "is. 1. körpə uşaqları yatırtmaq üçün hava ilə oxunan həzin şeir parçası; nənni",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 25
+            },
+            {
+                "word": "LOBYA",
+                "explanation": "is. bot. paxlalılar fəsiləsindən birillik bostan bitkisi. o tərəfdə də hörmə çəpərin içində sarmaşıqlar",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 26
+            },
+            {
+                "word": "LOYAL",
+                "explanation": "[ing. *** – sadiq] 1. dövlət hakimiyyətiqanunlarına",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 27
+            },
+            {
+                "word": "NABAT",
+                "explanation": "is. [ər.] meyvə şirəsilə qənd qarışığındanhazırlanan şəffaf kristallik şirni növü.məşədi hüseyn müştəriyə ***ı verəndənsonra kərbəlayı rzadan kağ",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 28
+            },
+            {
+                "word": "NALAN",
+                "explanation": "sif. və zərf [fars.] ağlayan",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 29
+            },
+            {
+                "word": "NANAY",
+                "explanation": "is. uzaq şərqdə yaşayan xalq;həmin xalqa mənsub olan adam",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 30
+            },
+            {
+                "word": "TABAN",
+                "explanation": "is. [fars.] köhn. parlaq",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 31
+            },
+            {
+                "word": "TABLO",
+                "explanation": "[fr. tableau] 1. rəss. şəkil",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 32
+            },
+            {
+                "word": "TALAN",
+                "explanation": "is. [fars.] 1. qarət",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 33
+            },
+            {
+                "word": "TALON",
+                "explanation": "[fr.] 1. bir şey almaq hüququ verənkiçik vərəqə şəklində sənəd; pətə.[adil:] məktəbdə bir dəst paltar ***unu …başqa bir şagirdə verib dükana yoll",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 34
+            },
+            {
+                "word": "TOTAL",
+                "explanation": "sif. [lat.] hər şeyi əhatə edən",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 35
+            },
+            {
+                "word": "YABAN",
+                "explanation": "is. [fars.] çöl",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 36
+            },
+            {
+                "word": "YALAN",
+                "explanation": "is. aldatmaq məqsədi ilə deyilənəsilsiz söz (doğru",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 37
+            },
+            {
+                "word": "YAYLA",
+                "explanation": "is. 1. ***q. [molla həmid:]allaha şükür",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 38
+            },
+            {
+                "word": "ATAANA",
+                "explanation": "is. öz övladına münasibətdəkişi və qadın; valideyn. ata-analar öz uşaqlarınıntərbiyəsinə fikir verməlidirlər",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 39
+            },
+            {
+                "word": "BALATA",
+                "explanation": "is. məh. maya",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 40
+            },
+            {
+                "word": "BANBAL",
+                "explanation": "is. məh. iri barama",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 41
+            },
+            {
+                "word": "BATBAT",
+                "explanation": "is. bot. bəngotu; pis qoxulu acıdadan ot bitki (xalq təbabətində işlədilir).gödək saplaqlı yaşıl rəngli və yumurtayaoxşarzəhərli otların",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 42
+            },
+            {
+                "word": "BOYANA",
+                "explanation": "is. bot. cirə; təbabətdə və kulinariyadaistifadə olunan ətirli bitki",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 43
+            },
+            {
+                "word": "LAYLAY",
+                "explanation": "is. 1. körpə uşaqları yatırtmaq üçün hava ilə oxunan həzin şeir parçası; nənni",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 44
+            },
+            {
+                "word": "TANTAL",
+                "explanation": "is. [lat.] elementlərin dövrü sistemininv qrupundan ta-kimyəvi element",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 45
+            },
+            {
+                "word": "TAYTAY",
+                "explanation": "sif. taylarla",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 46
+            },
+            {
+                "word": "YANTAY",
+                "explanation": "is. dan. yağışdan",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 47
+            },
+            {
+                "word": "ALATALA",
+                "explanation": "sif. tala-tala",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 48
+            },
+            {
+                "word": "ANABALA",
+                "explanation": "is. ana ilə oğlu və ya qızı.səməd getdi. ana-bala baş-başa veribağlaşdılar. b.talıblı. taxt üstündə ***oturublar yanaşı",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 49
+            },
+            {
+                "word": "ANLAYAN",
+                "explanation": "f.sif. başa düşən",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 50
+            },
+            {
+                "word": "ATABABA",
+                "explanation": "is. əcdad",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 51
+            },
+            {
+                "word": "ATABALA",
+                "explanation": "is. ata ilə oğlu",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 52
+            },
+            {
+                "word": "BALABAN",
+                "explanation": "is. nəfəslə çalınan qamışdan",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 53
+            },
+            {
+                "word": "ALABABAT",
+                "explanation": "sif. və zərf dan. nə yaxşı",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 54
+            },
+            {
+                "word": "LAYBALAY",
+                "explanation": "sif. və zərf hər iki tayı",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 55
+            },
+            {
+                "word": "BATALYON",
+                "explanation": "[fr.] bir neçə rotadan (bölükdən)ibarət hərbi hissə. *** komandiri.tank ***u. – komandanlığınəmrinə görə",
+                "isPanagram": true,
+                "score": 17,
+                "length": 8,
+                "id": 56
+            }
+        ]
+    }
+}

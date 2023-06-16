@@ -1,0 +1,189 @@
+{
+    "gameData": {
+        "day": "20231110",
+        "expiration": "1699660740",
+        "centerLetter": "M",
+        "outerLetters": [
+            "H",
+            "İ",
+            "A",
+            "C",
+            "Ü",
+            "D"
+        ],
+        "words_info": {
+            "word_count": 20,
+            "sum_score": 85,
+            "panagram_count": 1,
+            "word_length": {
+                "4": 8,
+                "6": 2,
+                "5": 8,
+                "8": 1,
+                "7": 1
+            }
+        },
+        "words": [
+            {
+                "word": "ADAM",
+                "explanation": "is. [ər.] 1. heyvandan fərqli olaraqdanışmaq və düşünmək",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "AMAC",
+                "explanation": "is. [fars.] klas. nişanə",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "DAİM",
+                "explanation": "zərf [ər.] həmişə",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "DAMA",
+                "explanation": "is. 1. şahmat taxtası üzərində qara vəağ daşlarla (dairəciklərlə) oynanılan oyun; şaşka.*** oynamaq",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "HAMİ",
+                "explanation": "is. [ər.] 1. birini himayə edən",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 5
+            },
+            {
+                "word": "HAMM",
+                "explanation": "is. hürərkən itin çıxardığı səs",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 6
+            },
+            {
+                "word": "MAMA",
+                "explanation": "is. doğuş zamanı kömək göstərməkləməşğul olan (keçmişdə təhsilsiz",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 7
+            },
+            {
+                "word": "ÜMİD",
+                "explanation": "is. 1. arzu edilən bir şeyin ola biləcəyinəinanma və bu inamdan doğan daxilifərəh",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 8
+            },
+            {
+                "word": "DAİMA",
+                "explanation": "zərf [ər.] həmişə",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 9
+            },
+            {
+                "word": "DAİMİ",
+                "explanation": "sif. [ər] 1. uzunmüddətli",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 10
+            },
+            {
+                "word": "DAMAD",
+                "explanation": "is. [fars.] qızın əri",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 11
+            },
+            {
+                "word": "HAMAM",
+                "explanation": "is. [ər.] çimmək üçün isti və soyuqsuyu olan xüsusi bina. şəhər ***ları.məhəllə ***ı. – [məşədi qəzənfər:] dahakim deyə bilər ki",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 12
+            },
+            {
+                "word": "MADAM",
+                "explanation": "[fr.] fransada",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 13
+            },
+            {
+                "word": "MADDİ",
+                "explanation": "sif. [ər.] 1. şüurdan asılı olmayaraqmövcud olan; cismani",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 14
+            },
+            {
+                "word": "MÜDAM",
+                "explanation": "zərf [ər.] daim",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 15
+            },
+            {
+                "word": "MÜHÜM",
+                "explanation": "sif. [ər.] 1. vacib",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 16
+            },
+            {
+                "word": "ADDAMA",
+                "explanation": "1. “***q”dan f.is. 2. is. məh. çaydan",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 17
+            },
+            {
+                "word": "DAMDAM",
+                "explanation": "is. məh. doşab bişirmək üçünsıxılıb damcı-damcı yığılan üzüm suyu. bulanıqdərman … nərimana dam-dam suyunuxatırlatdı",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 18
+            },
+            {
+                "word": "DAMADAMA",
+                "explanation": "1. sif. üzərində damalar",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 19
+            },
+            {
+                "word": "MÜCAHİD",
+                "explanation": "is. [ər.] 1. tar. iranda: azadlıqhərəkatında iştirak edən adama verilən ad;fədai",
+                "isPanagram": true,
+                "score": 17,
+                "length": 7,
+                "id": 20
+            }
+        ]
+    }
+}

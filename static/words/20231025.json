@@ -1,0 +1,542 @@
+{
+    "gameData": {
+        "day": "20231025",
+        "expiration": "1698278340",
+        "centerLetter": "M",
+        "outerLetters": [
+            "İ",
+            "Ə",
+            "D",
+            "Ş",
+            "A",
+            "N"
+        ],
+        "words_info": {
+            "word_count": 64,
+            "sum_score": 259,
+            "panagram_count": 1,
+            "word_length": {
+                "4": 25,
+                "6": 14,
+                "5": 19,
+                "8": 3,
+                "9": 1,
+                "7": 2
+            }
+        },
+        "words": [
+            {
+                "word": "ADAM",
+                "explanation": "is. [ər.] 1. heyvandan fərqli olaraqdanışmaq və düşünmək",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "ADƏM",
+                "explanation": "[ər.] bax adam. səcdə qıl yarə könül",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "AMAN",
+                "explanation": "is. [ər.] 1. əmin-***lıq",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "AMİN",
+                "explanation": "[ər. əsli qədim yəh.] din. qəbulolsun",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "ANMA",
+                "explanation": "“***q”dan f.is. *** mərasimi",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 5
+            },
+            {
+                "word": "DAİM",
+                "explanation": "zərf [ər.] həmişə",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 6
+            },
+            {
+                "word": "DAMA",
+                "explanation": "is. 1. şahmat taxtası üzərində qara vəağ daşlarla (dairəciklərlə) oynanılan oyun; şaşka.*** oynamaq",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 7
+            },
+            {
+                "word": "ƏDƏM",
+                "explanation": "is. [ər.] klas. yoxluq. yəni ki",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 8
+            },
+            {
+                "word": "ƏMAN",
+                "explanation": "[ər.] bax aman. böylə gedərsəbakı əldən gedər; qalmaz o məvadə ***",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 9
+            },
+            {
+                "word": "ƏMİN",
+                "explanation": "sif. [ər.] 1. qorxusuz",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 10
+            },
+            {
+                "word": "ƏMİŞ",
+                "explanation": "is. 1. əmmək işi",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 11
+            },
+            {
+                "word": "ƏMMA",
+                "explanation": "[ər.] 1. bax amma. şeir bir zivərdir",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 12
+            },
+            {
+                "word": "ƏMMƏ",
+                "explanation": "is. [ər.] klas. bibi. aya",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 13
+            },
+            {
+                "word": "ƏNAM",
+                "explanation": "is. [ər. “nemət” söz. cəmi] bəxşiş",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 14
+            },
+            {
+                "word": "MAAŞ",
+                "explanation": "is. [ər.] əmək",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 15
+            },
+            {
+                "word": "MAMA",
+                "explanation": "is. doğuş zamanı kömək göstərməkləməşğul olan (keçmişdə təhsilsiz",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 16
+            },
+            {
+                "word": "MANİ",
+                "explanation": "is. türk xalq şeri və nəğmə janrı",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 17
+            },
+            {
+                "word": "MAŞA",
+                "explanation": "is. ocaqdan od və ya qızmar bir şeyigötürmək üçün metal alət. vaqif arabir buxarını*** ilə qurdalayırdı",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 18
+            },
+            {
+                "word": "MƏDD",
+                "explanation": "is. [ər.] 1. coğr. köhn. bax qabarma2(cəzr müqabili).2. ərəb əlifbasında əlifin (“ ”) “a” kimioxunması üçün üstünə qoyulan diakritikişarə (~)",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 19
+            },
+            {
+                "word": "MƏDƏ",
+                "explanation": "is. [ər. midə] anat. insanda və heyvanlardaqarın boşluğunun yuxarı hissəsindəyerləşən həzm orqanı. *** ağrısı",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 20
+            },
+            {
+                "word": "MƏMƏ",
+                "explanation": "is. məc. ana. [şərəfnisə xanım:]əgər ***m deyən dərviş olmasaydı",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 21
+            },
+            {
+                "word": "MƏNA",
+                "explanation": "is. [ər.] 1. sözün",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 22
+            },
+            {
+                "word": "MİNA",
+                "explanation": "[fr.] 1. adətən torpağın",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 23
+            },
+            {
+                "word": "NAMƏ",
+                "explanation": "is. [fars.] məktub",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 24
+            },
+            {
+                "word": "NƏMİ",
+                "explanation": "is. məh. alaçığın içəri-sində qarğıdanhörülmüş bağlı yer; anbar. [güldəstə:]atam karıxdığından ***nin qapısını açıqqoyub gedibdir",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 25
+            },
+            {
+                "word": "DAİMA",
+                "explanation": "zərf [ər.] həmişə",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 26
+            },
+            {
+                "word": "DAİMİ",
+                "explanation": "sif. [ər] 1. uzunmüddətli",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 27
+            },
+            {
+                "word": "DAMAD",
+                "explanation": "is. [fars.] qızın əri",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 28
+            },
+            {
+                "word": "DAMƏN",
+                "explanation": "is. [fars.] klas. ətək (paltarda).tutaram yarın qiyamətdə",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 29
+            },
+            {
+                "word": "DAŞMA",
+                "explanation": "“***q”dan f.is. çayın ***sı.samovarın ***sı",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 30
+            },
+            {
+                "word": "ƏNDAM",
+                "explanation": "is. [fars.] 1. bədən. qaşı",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 31
+            },
+            {
+                "word": "MADAM",
+                "explanation": "[fr.] fransada",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 32
+            },
+            {
+                "word": "MADDƏ",
+                "explanation": "is. [ər.] 1. təbiətdəki fiziki cisimlərinəsasını təşkil edən şey. qida ***ləri.zəhərləyici ***lər",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 33
+            },
+            {
+                "word": "MADDİ",
+                "explanation": "sif. [ər.] 1. şüurdan asılı olmayaraqmövcud olan; cismani",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 34
+            },
+            {
+                "word": "MAƏDA",
+                "explanation": "[ər.] köhn. başqa",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 35
+            },
+            {
+                "word": "MƏDƏD",
+                "explanation": "[ər.] 1. is. kömək",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 36
+            },
+            {
+                "word": "MƏDƏN",
+                "explanation": "is. [ər.] 1. yer altından çıxarılanfaydalı qazıntı (metal külçəsi",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 37
+            },
+            {
+                "word": "MƏMƏŞ",
+                "explanation": "is. uş. məmə",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 38
+            },
+            {
+                "word": "MƏNƏN",
+                "explanation": "zərf [ər.] mənəvi cəhətdən; ruhən.…bizim şüəra cismən ölüb fövt olublarsada",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 39
+            },
+            {
+                "word": "MƏNŞƏ",
+                "explanation": "is. ər. 1. bir şeyin çıxdığı",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 40
+            },
+            {
+                "word": "MİNİŞ",
+                "explanation": "is. minmə",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 41
+            },
+            {
+                "word": "NƏDİM",
+                "explanation": "is. [ər.] köhn. 1. sirdaş",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 42
+            },
+            {
+                "word": "NƏMİŞ",
+                "explanation": "sif. rütubətli",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 43
+            },
+            {
+                "word": "ŞAMAN",
+                "explanation": "is. [tunq.] ruhlara",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 44
+            },
+            {
+                "word": "ADDAMA",
+                "explanation": "1. “***q”dan f.is. 2. is. məh. çaydan",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 45
+            },
+            {
+                "word": "DAMDAM",
+                "explanation": "is. məh. doşab bişirmək üçünsıxılıb damcı-damcı yığılan üzüm suyu. bulanıqdərman … nərimana dam-dam suyunuxatırlatdı",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 46
+            },
+            {
+                "word": "DAMDAŞ",
+                "explanation": "is. tikili",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 47
+            },
+            {
+                "word": "ƏMMAMƏ",
+                "explanation": "is. [ər.] bəzi şərq ölkələrində:sarınmış uzun ağ parça",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 48
+            },
+            {
+                "word": "MƏDƏNİ",
+                "explanation": "sif. [ər.] 1. ***yyətcə çoxinkişaf etmiş",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 49
+            },
+            {
+                "word": "MƏNƏNƏ",
+                "explanation": "is. zool. bitkilərin şirəsilə qidalananziyanverici bir cücü növü",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 50
+            },
+            {
+                "word": "MƏŞƏDİ",
+                "explanation": "is. [iranda xorasan – məşhədşəhərinin adından] din. keçmişdə məşhədəgedib “müqəddəs” yerləri ziyarət edən adamaverilən ad (çox vaxt adın qabağında",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 51
+            },
+            {
+                "word": "MİNMİN",
+                "explanation": "zərf və sif. minlərcə",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 52
+            },
+            {
+                "word": "NƏDİMƏ",
+                "explanation": "[ər. ***t] köhn. “nədim”inqadın cinsi (bax nədim 2-ci mənada).[mirzə:] həmin kərbəlayı kazımın arvadıon ildir ki",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 53
+            },
+            {
+                "word": "NİMDAŞ",
+                "explanation": "sif. [fars.] bir qədər geyilmiş",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 54
+            },
+            {
+                "word": "ŞADMAN",
+                "explanation": "sif. və zərf [fars.] klas. şad",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 55
+            },
+            {
+                "word": "ŞAMAMA",
+                "explanation": "is. [ər.] çox ətirli və şirin",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 56
+            },
+            {
+                "word": "ŞAMDAN",
+                "explanation": "is. [ər. və fars.] şam qoymaqüçün altlıq. otaqlarda yanan ***lar söndürülmüşdü.m.s.ordubadi. pəncərədən sarı***lar asılardı",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 57
+            },
+            {
+                "word": "ŞİŞMAN",
+                "explanation": "sif. çox kök",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 58
+            },
+            {
+                "word": "DİDİŞMƏ",
+                "explanation": "1. “***k”dən f.is.2. is. məc. dava",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 59
+            },
+            {
+                "word": "DİNİMAN",
+                "explanation": "is. din",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 60
+            },
+            {
+                "word": "DAMADAMA",
+                "explanation": "1. sif. üzərində damalar",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 61
+            },
+            {
+                "word": "MİNİMİNİ",
+                "explanation": "sif. oxş. kiçicik",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 62
+            },
+            {
+                "word": "NAMNİŞAN",
+                "explanation": "is. [fars.] ad",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 63
+            },
+            {
+                "word": "DANİŞMƏND",
+                "explanation": "is. [fars.] klas. bilikli",
+                "isPanagram": true,
+                "score": 17,
+                "length": 9,
+                "id": 64
+            }
+        ]
+    }
+}

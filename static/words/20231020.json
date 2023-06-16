@@ -1,0 +1,237 @@
+{
+    "gameData": {
+        "day": "20231020",
+        "expiration": "1697846340",
+        "centerLetter": "Z",
+        "outerLetters": [
+            "T",
+            "İ",
+            "Ə",
+            "M",
+            "F",
+            "H"
+        ],
+        "words_info": {
+            "word_count": 26,
+            "sum_score": 95,
+            "panagram_count": 1,
+            "word_length": {
+                "4": 14,
+                "6": 4,
+                "5": 5,
+                "7": 2,
+                "8": 1
+            }
+        },
+        "words": [
+            {
+                "word": "ƏZƏM",
+                "explanation": "sif. [ər.] köhn. böyük",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "ƏZİM",
+                "explanation": "sif. [ər.] klas. 1. böyük. hər birisininbaşına şuriş və tüğyan xəyalı düşdü vətezliklə qəzvində şurişi-*** bərpa oldu",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "ƏZİZ",
+                "explanation": "sif. [ər.] 1. sevimli",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "ƏZMƏ",
+                "explanation": "is. məh. bülöv. dəryazı *** iləitiləmək",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "HƏZM",
+                "explanation": "is. [ər.] yeyilən şeyin *** cihazındahəll olunması. *** prosesi. – qidanınçeynənməsi",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 5
+            },
+            {
+                "word": "HƏZZ",
+                "explanation": "is. [ər.] xoş bir şeydən duyulanləzzət",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 6
+            },
+            {
+                "word": "HİFZ",
+                "explanation": "is. [ər.] qoruma",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 7
+            },
+            {
+                "word": "MƏHZ",
+                "explanation": "əd. [ər.] özündən sonra gələn sözügücləndirir",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 8
+            },
+            {
+                "word": "MƏZƏ",
+                "explanation": "is. [fars.] 1. adətən iştaha üçünəsas yeməkdən qabaq və ya onunla birlikdə",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 9
+            },
+            {
+                "word": "TƏZƏ",
+                "explanation": "sif. [fars.] yeni. aptekdən *** dərmangətirmişdilər. c.məmmədquluzadə. [gülyaz:]kəndimizə xəbər yayılıb ki",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 10
+            },
+            {
+                "word": "ZƏHM",
+                "explanation": "is. [fars. “səhm”dən] 1. qorxu",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 11
+            },
+            {
+                "word": "ZƏİF",
+                "explanation": "sif. [ər.] 1. cismən az qüvvətli",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 12
+            },
+            {
+                "word": "ZƏMİ",
+                "explanation": "is. [fars.] əkin yeri",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 13
+            },
+            {
+                "word": "ZİFT",
+                "explanation": "is. [ər.] 1. şam ağacından",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 14
+            },
+            {
+                "word": "ƏZƏMİ",
+                "explanation": "is. [ər.] 1. keçmişdə palto kimiüstdən geyilən içi xəzli paltar.2. müsəlman dini təriqətlərindən birininadı",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 15
+            },
+            {
+                "word": "HƏMZƏ",
+                "explanation": "is. [ər.] ərəb əlifbasında boğazbağlısamit tələffüzünü göstərən işarə. aynvə *** səslərinin interferensiyası",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 16
+            },
+            {
+                "word": "TƏMİZ",
+                "explanation": "sif. və zərf 1. çirk olmayan",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 17
+            },
+            {
+                "word": "TƏZİM",
+                "explanation": "is. [ər.] baş əyərək salam vermə; baş endirmə. □ *** etmək – 1) baş əyərək salam vermək",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 18
+            },
+            {
+                "word": "ZƏMMƏ",
+                "explanation": "is. [ər.] ərəb əlifbasında “ü”saitini əvəz edən və hərfin üstündə qoyulanişarəsinin adı; piş",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 19
+            },
+            {
+                "word": "ƏZƏMƏT",
+                "explanation": "is. [ər.] 1. böyüklük",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 20
+            },
+            {
+                "word": "ƏZİMƏT",
+                "explanation": "is. [ər.] bir yerə doğru hərəkət",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 21
+            },
+            {
+                "word": "ZƏHMƏT",
+                "explanation": "is. [ər.] 1. əmək. ***in barı.öz ***inin bəhəri. – əgər ki yayda ***iəkinçinin ziyad olur; ziyad olursa",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 22
+            },
+            {
+                "word": "ZƏMZƏM",
+                "explanation": "is. [ər.] məkkənin yanındaolub",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 23
+            },
+            {
+                "word": "MƏHFƏZƏ",
+                "explanation": "is. [ər.] köhn. 1. qab",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 24
+            },
+            {
+                "word": "MƏZƏMMƏT",
+                "explanation": "is. [ər.] danlama",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 25
+            },
+            {
+                "word": "TİZFƏHM",
+                "explanation": "sif. [fars. tiz və ər. fəhm] tezbaşa düşən",
+                "isPanagram": true,
+                "score": 17,
+                "length": 7,
+                "id": 26
+            }
+        ]
+    }
+}

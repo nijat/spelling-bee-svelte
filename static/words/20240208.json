@@ -1,0 +1,263 @@
+{
+    "gameData": {
+        "day": "20240208",
+        "expiration": "1707436740",
+        "centerLetter": "T",
+        "outerLetters": [
+            "Z",
+            "P",
+            "Q",
+            "O",
+            "R",
+            "A"
+        ],
+        "words_info": {
+            "word_count": 29,
+            "sum_score": 148,
+            "panagram_count": 1,
+            "word_length": {
+                "5": 11,
+                "6": 4,
+                "4": 8,
+                "10": 2,
+                "9": 2,
+                "7": 1,
+                "8": 1
+            }
+        },
+        "words": [
+            {
+                "word": "ARAT",
+                "explanation": "is. k.t. şumlanıb sulanmış",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "ATAT",
+                "explanation": "is. uşaqların ağac üstə minərəkoynadıqları oyun. at-at oynamaq",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "QART",
+                "explanation": "is. dan. kəsər alətləri itiləmək üçün daş; bülöv. dəryazları *** ilə itiləmək. *** daşı. mən də *** daşlara verdiyim bu hiss; bu incə mənadan necə",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "ORTA",
+                "explanation": "1. is. bir şeyin kənarlarından",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "OTAQ",
+                "explanation": "is. 1. mənzilin",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 5
+            },
+            {
+                "word": "POTA",
+                "explanation": "1. is. adətən donuz",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 6
+            },
+            {
+                "word": "TOPA",
+                "explanation": "sif. və is. 1. qalaq",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 7
+            },
+            {
+                "word": "TORT",
+                "explanation": "[ital.] yağ",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 8
+            },
+            {
+                "word": "AORTA",
+                "explanation": "is. [yun.] anat. ürəyin sağ mədəciyindənçıxan və bədənin (ciyərlərdənbaşqa) bütün üzvlərini arterial qanla təchizedən ən böyük qan damarı; şah dama",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 9
+            },
+            {
+                "word": "APORT",
+                "explanation": "[xüs. is.-dən] alma ağacı növüvə bu ağacın çox qalan turşməzə-şirin irialması. *** özünü yaxşı tozlamır",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 10
+            },
+            {
+                "word": "QATAR",
+                "explanation": "is. 1. bir-birinin ardınca sıralanmış heyvanlar düzümü; qafilə",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 11
+            },
+            {
+                "word": "QOTAZ",
+                "explanation": "is. üst tərəfi bir yerə qısılıb bağlanmışsaplardan ibarət saçaqlı bəzək. mirzəsüleyman bəy qırmızı fəsi qaşlarının üstə çəkib",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 12
+            },
+            {
+                "word": "ORTAQ",
+                "explanation": "is. birlikdə görülən işin",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 13
+            },
+            {
+                "word": "ROTOR",
+                "explanation": "[lat. rotare – fırlanma] maşının(turbinin",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 14
+            },
+            {
+                "word": "TARAZ",
+                "explanation": "[fars.] 1. sif. və zərf düz",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 15
+            },
+            {
+                "word": "TATAR",
+                "explanation": "is. 1. ***ıstanın əsas əhalisinitəşkil edən türkdilli xalq və bu xalqa mənsubadam.2. volqaboyunda",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 16
+            },
+            {
+                "word": "TOQQA",
+                "explanation": "is. qayışı",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 17
+            },
+            {
+                "word": "TOPAZ",
+                "explanation": "is. [fr.] şəffaf kristalları qiymətlidaş olan rəngsiz",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 18
+            },
+            {
+                "word": "TORTA",
+                "explanation": "is. yağ və s. əridilərkən qabın dibinəçökən çöküntü. kərə yağın ***sı; qızılkəmər ortası; allah muradın versin; gələnbazar ertəsi",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 19
+            },
+            {
+                "word": "APARAT",
+                "explanation": "[lat.] 1. tex. alət",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 20
+            },
+            {
+                "word": "RAPORT",
+                "explanation": "[fr.] 1. hərbi xidmətçinin özböyüyünə verdiyi şifahi və ya yazılı məlumat",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 21
+            },
+            {
+                "word": "TOPTOP",
+                "explanation": "is. topla oynanılan uşaq oyunu;kos-kos. səhər tezdən böyük bir həvəslə məktəbəaxışıb gələn uşaqlar hələ meydançadatop-top oynayırdılar",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 22
+            },
+            {
+                "word": "TORPAQ",
+                "explanation": "is. 1. planetimizin bitki aləminin inkişaf etdiyi üst qatı. yer qabığının istilik",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 23
+            },
+            {
+                "word": "TARAQQA",
+                "explanation": "is. içi barıtla doldurulmuş kağızdandüzələn partlayıcı fişəng (atəşbazlıqdaəyləncə üçün işlənir)",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 24
+            },
+            {
+                "word": "TOPATOPA",
+                "explanation": "sif. və zərf 1. qalaq-qalaq",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 25
+            },
+            {
+                "word": "PARTAPART",
+                "explanation": "is. çoxlu silahdan atəş açılarkənçıxan səs. göydən dolu kimi top gülləsitökülür",
+                "isPanagram": false,
+                "score": 9,
+                "length": 9,
+                "id": 26
+            },
+            {
+                "word": "QARATORPAQ",
+                "explanation": "sif. rəngi qara və çürüntüsüçox olan münbit torpaq. *** sahələr.– *** əkin yerində",
+                "isPanagram": false,
+                "score": 10,
+                "length": 10,
+                "id": 27
+            },
+            {
+                "word": "TARAQTARAQ",
+                "explanation": "is. təkrar edən",
+                "isPanagram": false,
+                "score": 10,
+                "length": 10,
+                "id": 28
+            },
+            {
+                "word": "TOZTORPAQ",
+                "explanation": "is. toz və torpaq",
+                "isPanagram": true,
+                "score": 17,
+                "length": 9,
+                "id": 29
+            }
+        ]
+    }
+}

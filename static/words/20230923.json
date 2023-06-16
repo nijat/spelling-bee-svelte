@@ -1,0 +1,205 @@
+{
+    "gameData": {
+        "day": "20230923",
+        "expiration": "1695513540",
+        "centerLetter": "Q",
+        "outerLetters": [
+            "T",
+            "İ",
+            "V",
+            "Ə",
+            "P",
+            "R"
+        ],
+        "words_info": {
+            "word_count": 22,
+            "sum_score": 89,
+            "panagram_count": 1,
+            "word_length": {
+                "4": 10,
+                "5": 6,
+                "6": 3,
+                "7": 2,
+                "13": 1
+            }
+        },
+        "words": [
+            {
+                "word": "ƏQİQ",
+                "explanation": "is. [ər.] müxtəlif rənglərə çalanlaylardan ibarət olan",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "ƏRƏQ",
+                "explanation": "is. [ər.] klas. 1. tər. ol gülüzardə***in xoş səfası var; türfə budur ki",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "ƏTİQ",
+                "explanation": "sif. [ər.] qədim",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "QƏRQ",
+                "explanation": "[ər.] adətən “etmək”",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "QƏTİ",
+                "explanation": "sif. və zərf [ər.] 1. rədd edilməsimümkün olmayan",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 5
+            },
+            {
+                "word": "QƏVİ",
+                "explanation": "sif. [ər.] qüvvətli",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 6
+            },
+            {
+                "word": "QİTƏ",
+                "explanation": "is. [ər.] 1. coğr. yer kürəsinin",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 7
+            },
+            {
+                "word": "QRİP",
+                "explanation": "[fr.] tib. nəfəs yollarının iltihabı",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 8
+            },
+            {
+                "word": "VƏQƏ",
+                "explanation": "is. [ər.] baş vermiş hadisə",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 9
+            },
+            {
+                "word": "VƏQT",
+                "explanation": "[ər.] bax vaxt",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 10
+            },
+            {
+                "word": "ƏTİQƏ",
+                "explanation": "sif. [ər.] qədim",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 11
+            },
+            {
+                "word": "QƏTRƏ",
+                "explanation": "is. [ər.] damcı. otuz-qırx il bundanirəli bir müsəlman ki",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 12
+            },
+            {
+                "word": "RƏQİQ",
+                "explanation": "is. [ər.] köhn. 1. incə",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 13
+            },
+            {
+                "word": "TƏQTİ",
+                "explanation": "is. [ər.] ədəb. şerin hər misrasındadurğuya",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 14
+            },
+            {
+                "word": "TƏRİQ",
+                "explanation": "is. [ər.] klas. yol. bir il əvvəl varşava***i ilə avropaya səfər edən bir iran[vətəndaşı] bir neçə gün kiyev səfirinin müsafiriolmuşdu",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 15
+            },
+            {
+                "word": "VƏRƏQ",
+                "explanation": "is. 1. müəyyən şəkildə və ölçüdə kəsilmiş kağız parçası",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 16
+            },
+            {
+                "word": "RİQQƏT",
+                "explanation": "is. [ər.] ürək yumşaqlığı",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 17
+            },
+            {
+                "word": "TƏQRİR",
+                "explanation": "is. [ər.] 1. yerini təyin etmə.2. möhkəmləndirmə.3. bəyan etmə",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 18
+            },
+            {
+                "word": "VƏRƏQƏ",
+                "explanation": "is. 1. kiçik vərəq; vərəq. sual***si. anket ***si.2. üzərində mühüm siyasi xəbərlər və s.çap olunmuş kiçik kağız vərəqi",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 19
+            },
+            {
+                "word": "TƏRƏQQİ",
+                "explanation": "is. [ər.] irəliləmə",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 20
+            },
+            {
+                "word": "TƏRİQƏT",
+                "explanation": "is. [ər.] din. hakim dindən ayrılmışdini icma",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 21
+            },
+            {
+                "word": "TƏRƏQQİPƏRVƏR",
+                "explanation": "sif. [ər. tərəqqi və fars.…pərvər] ictimai tərəqqiyə çalışan",
+                "isPanagram": true,
+                "score": 17,
+                "length": 13,
+                "id": 22
+            }
+        ]
+    }
+}

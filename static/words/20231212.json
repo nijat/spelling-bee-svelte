@@ -1,0 +1,262 @@
+{
+    "gameData": {
+        "day": "20231212",
+        "expiration": "1702425540",
+        "centerLetter": "Ə",
+        "outerLetters": [
+            "C",
+            "A",
+            "I",
+            "L",
+            "N",
+            "İ"
+        ],
+        "words_info": {
+            "word_count": 29,
+            "sum_score": 106,
+            "panagram_count": 1,
+            "word_length": {
+                "4": 16,
+                "9": 1,
+                "6": 6,
+                "8": 1,
+                "5": 3,
+                "7": 2
+            }
+        },
+        "words": [
+            {
+                "word": "AİLƏ",
+                "explanation": "is. [ər.] 1. ata-anadan",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "ANƏN",
+                "explanation": "zərf [ər.] birdən",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "CƏLƏ",
+                "explanation": "is. at quyruğu qılından ilmək şəklində düzəldilən tələ; duzaq. hər səhər malların altını təmizləyib",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "ƏCƏL",
+                "explanation": "is. [ər.] hər bir canlının",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "ƏLAC",
+                "explanation": "is. [ər.] 1. bir xəstəliyin sağalmasınakömək edən hər bir şey; dərman",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 5
+            },
+            {
+                "word": "ƏLAN",
+                "explanation": "zərf [ər.] 1. bu an",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 6
+            },
+            {
+                "word": "ƏLCƏ",
+                "explanation": "sif. kiçik",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 7
+            },
+            {
+                "word": "ƏLİL",
+                "explanation": "is. və sif. xəstəlik və ya qocalıqnəticəsində əmək qabiliyyətini itirmiş;şikəst. ***lər cəmiyyəti",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 8
+            },
+            {
+                "word": "ƏLLİ",
+                "explanation": "sif. 1. əli olan. iri *** adam. 2. məc. qolu güclü",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 9
+            },
+            {
+                "word": "ƏNİN",
+                "explanation": "is. [ər.] şair. inləmə",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 10
+            },
+            {
+                "word": "LALƏ",
+                "explanation": "is. [fars.] 1. bot. iriləçəkli qırmızıçiçəkləri olan bitki və bu bitkinin çiçəyi. bitərçəməndə ***lər",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 11
+            },
+            {
+                "word": "LƏİN",
+                "explanation": "sif. və is. [ər.] bax məlun. bu isə",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 12
+            },
+            {
+                "word": "LƏLƏ",
+                "explanation": "is. 1. keçmişdə kübar və varlı ai***rdəoğlan uşağının tərbiyəsilə məşğul olanadam. [qətibə xanım:] səba xanım",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 13
+            },
+            {
+                "word": "NALƏ",
+                "explanation": "is. [fars.] ah-zar",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 14
+            },
+            {
+                "word": "NANƏ",
+                "explanation": "[ər.] bot. yeyilən çoxillik ətirligöyərti növü. *** qurutmaq. üç dəstə ***.□ *** cövhəri (arağı) – ***dən çəkilənaraq",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 15
+            },
+            {
+                "word": "NƏNƏ",
+                "explanation": "is. 1. atanın",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 16
+            },
+            {
+                "word": "ƏCƏLƏ",
+                "explanation": "[ər.] 1. is. tələsmə",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 17
+            },
+            {
+                "word": "ƏNƏNƏ",
+                "explanation": "is. [ər.] tarixən meydana gələrəknəsildən-nəslə keçən adətlər",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 18
+            },
+            {
+                "word": "NƏNNİ",
+                "explanation": "is. 1. körpə uşaqları yatırtmaq üçünasılan kiçik yatacaq. [qumru] uşağı ***yəsalıb küncə qısıldı",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 19
+            },
+            {
+                "word": "AİLƏLİ",
+                "explanation": "sif. ailəsi olan",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 20
+            },
+            {
+                "word": "CƏNCƏL",
+                "explanation": "1. sif. qarışıq",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 21
+            },
+            {
+                "word": "ƏCİNNƏ",
+                "explanation": "is. [ər.] din. köhn. cin. ***padşahı (nağıllarda). – əhmədi-çekkaş durubgəldi evə. çağırıb ***ləri",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 22
+            },
+            {
+                "word": "ƏLACLI",
+                "explanation": "sif. əlacı",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 23
+            },
+            {
+                "word": "LAƏLAC",
+                "explanation": "sif. və zərf [ər.] əlacsız",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 24
+            },
+            {
+                "word": "LALƏLİ",
+                "explanation": "sif. lalə bitmiş",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 25
+            },
+            {
+                "word": "ƏCƏLƏLİ",
+                "explanation": "sif. tələsik",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 26
+            },
+            {
+                "word": "NƏNƏCAN",
+                "explanation": "is. nənəyə",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 27
+            },
+            {
+                "word": "CƏNCƏLLİ",
+                "explanation": "sif. davalı",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 28
+            },
+            {
+                "word": "AİLƏCANLI",
+                "explanation": "sif. öz ailəsini çox sevən",
+                "isPanagram": true,
+                "score": 17,
+                "length": 9,
+                "id": 29
+            }
+        ]
+    }
+}

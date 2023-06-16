@@ -1,0 +1,374 @@
+{
+    "gameData": {
+        "day": "20230807",
+        "expiration": "1691452740",
+        "centerLetter": "N",
+        "outerLetters": [
+            "T",
+            "A",
+            "İ",
+            "M",
+            "V",
+            "L"
+        ],
+        "words_info": {
+            "word_count": 43,
+            "sum_score": 224,
+            "panagram_count": 1,
+            "word_length": {
+                "6": 11,
+                "5": 15,
+                "4": 8,
+                "8": 2,
+                "7": 6,
+                "9": 1
+            }
+        },
+        "words": [
+            {
+                "word": "AMAN",
+                "explanation": "is. [ər.] 1. əmin-***lıq",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "AMİN",
+                "explanation": "[ər. əsli qədim yəh.] din. qəbulolsun",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "ANMA",
+                "explanation": "“***q”dan f.is. *** mərasimi",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "MANİ",
+                "explanation": "is. türk xalq şeri və nəğmə janrı",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "MİNA",
+                "explanation": "[fr.] 1. adətən torpağın",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 5
+            },
+            {
+                "word": "NAİL",
+                "explanation": "[ər.] : *** olmaq – əldə etmək",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 6
+            },
+            {
+                "word": "TANA",
+                "explanation": "is. 1. sırğa. qızıl ***. – qızıl üzük",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 7
+            },
+            {
+                "word": "VANT",
+                "explanation": "is. [holl.] dor ağacını və başqa şeylərigəminin bortlarına bərkitmək üçün takelajipləri",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 8
+            },
+            {
+                "word": "ALANA",
+                "explanation": "is. içərisi şəkərli qozla doldurulmuşmeyvə qurusu (armud",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 9
+            },
+            {
+                "word": "ALMAN",
+                "explanation": "is. ***iyanın əsas əhalisinitəşkil edən xalq və bu xalqa mənsub adam.*** ədəbiyyatının qədim abidələri",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 10
+            },
+            {
+                "word": "LİANA",
+                "explanation": "[fr.] bot. tropik meşələrdə",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 11
+            },
+            {
+                "word": "MANAT",
+                "explanation": "is. azərbaycanda yüz qəpiyəbərabər olan əsas pul vahidi. // bu dəyərdəolan kağız və ya metal pul. hər biri mərdlikedib isbat; dəftərə yazdı: verrəm",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 12
+            },
+            {
+                "word": "MATAN",
+                "explanation": "sif. və is. dan. kök",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 13
+            },
+            {
+                "word": "NALAN",
+                "explanation": "sif. və zərf [fars.] ağlayan",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 14
+            },
+            {
+                "word": "NİNNİ",
+                "explanation": "is. layla",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 15
+            },
+            {
+                "word": "NİVAL",
+                "explanation": "sif. [lat.] qarlı",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 16
+            },
+            {
+                "word": "TALAN",
+                "explanation": "is. [fars.] 1. qarət",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 17
+            },
+            {
+                "word": "TANİN",
+                "explanation": "is. [fr.] dəri aşılanmasında",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 18
+            },
+            {
+                "word": "TAVAN",
+                "explanation": "is. [fars.] güc",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 19
+            },
+            {
+                "word": "TİNLİ",
+                "explanation": "sif. tini olan; tilli. iti *** stol",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 20
+            },
+            {
+                "word": "VANİL",
+                "explanation": "[fr.] tropik bir bitki və bu bitkininədviyyat kimi işlənilən qurudulmuş ətirlimeyvəsi. *** sarmaşan bitki olub",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 21
+            },
+            {
+                "word": "VATİN",
+                "explanation": "[fr.] istilik üçün paltarın üzü iləastarı arasına tikilən çox qalın xovlu seyrəktrikotaj parça",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 22
+            },
+            {
+                "word": "VİNİL",
+                "explanation": "is. kimyəvi maddə",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 23
+            },
+            {
+                "word": "ALAMAN",
+                "explanation": "is. məh. köhn. çapqın",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 24
+            },
+            {
+                "word": "ATAANA",
+                "explanation": "is. öz övladına münasibətdəkişi və qadın; valideyn. ata-analar öz uşaqlarınıntərbiyəsinə fikir verməlidirlər",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 25
+            },
+            {
+                "word": "ATAMAN",
+                "explanation": "is. 1. tar. rusiyada: kazak vilayətlərindəvə qədimdə kazak qoşunlarındahərbi inzibati vəzifələrin adı",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 26
+            },
+            {
+                "word": "MİNMİN",
+                "explanation": "zərf və sif. minlərcə",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 27
+            },
+            {
+                "word": "MİNVAL",
+                "explanation": "is. [ər.] qayda",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 28
+            },
+            {
+                "word": "NAVALA",
+                "explanation": "is. undan",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 29
+            },
+            {
+                "word": "TANTAL",
+                "explanation": "is. [lat.] elementlərin dövrü sistemininv qrupundan ta-kimyəvi element",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 30
+            },
+            {
+                "word": "TAVANA",
+                "explanation": "is. [fars.] 1. maddi imkan",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 31
+            },
+            {
+                "word": "TİAMİN",
+                "explanation": "is. b 1 vitamini",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 32
+            },
+            {
+                "word": "VATMAN",
+                "explanation": "[xüs. is.-dən] : *** kağızı – rəsmxətt və rəsm üçün əla möhkəm kağız növü",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 33
+            },
+            {
+                "word": "VİNTLİ",
+                "explanation": "sif. 1. bərkitmək üçün vinti olan.2. vintlə bərkidilmiş",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 34
+            },
+            {
+                "word": "MİNİMAL",
+                "explanation": "sif. [lat.] başqaları sırasındaən kiçik",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 35
+            },
+            {
+                "word": "NATAMAM",
+                "explanation": "sif. [fars. na… və ər. təmam]1. bitməmiş",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 36
+            },
+            {
+                "word": "TİTANİT",
+                "explanation": "is. [yun.] şəffaf növləri yarımqiymətlidaş olan mineral",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 37
+            },
+            {
+                "word": "VANİLLİ",
+                "explanation": "sif. tərkibində vanil olan; vanilqatılmış. *** bulka",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 38
+            },
+            {
+                "word": "VATİNLİ",
+                "explanation": "sif. vatin tikilmiş",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 39
+            },
+            {
+                "word": "VİTAMİN",
+                "explanation": "[lat.] 1. insan və heyvanın qidalanması",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 40
+            },
+            {
+                "word": "MİNAATAN",
+                "explanation": "is. mina atan silah-top; minomyot",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 41
+            },
+            {
+                "word": "MİNİMİNİ",
+                "explanation": "sif. oxş. kiçicik",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 42
+            },
+            {
+                "word": "VİTAMİNLİ",
+                "explanation": "sif. tərkibində vitamin maddəsiolan. *** yeməklər. *** göyərtilər.*** sabun",
+                "isPanagram": true,
+                "score": 17,
+                "length": 9,
+                "id": 43
+            }
+        ]
+    }
+}

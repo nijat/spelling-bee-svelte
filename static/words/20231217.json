@@ -1,0 +1,229 @@
+{
+    "gameData": {
+        "day": "20231217",
+        "expiration": "1702857540",
+        "centerLetter": "B",
+        "outerLetters": [
+            "C",
+            "A",
+            "O",
+            "D",
+            "L",
+            "N"
+        ],
+        "words_info": {
+            "word_count": 25,
+            "sum_score": 130,
+            "panagram_count": 1,
+            "word_length": {
+                "4": 6,
+                "5": 8,
+                "7": 5,
+                "8": 2,
+                "6": 4
+            }
+        },
+        "words": [
+            {
+                "word": "ABAD",
+                "explanation": "sif. [fars.] 1. müntəzəm və çoxlu tikintisi",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "ABCO",
+                "explanation": "is. [fars.] arpa suyu",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "ADAB",
+                "explanation": "is. [ər. “ədəb” söz. cəmi] köhn.əxlaq qaydaları",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "BABA",
+                "explanation": "is. 1. atanın",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "BACA",
+                "explanation": "is. 1. tüstü çıxmaq üçün ocağınüstündə kərpicdən hörülən və ya dəmirdənqayrılan içi boş boru. evin ***sı",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 5
+            },
+            {
+                "word": "BALA",
+                "explanation": "1. is. övlad",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 6
+            },
+            {
+                "word": "ABDAL",
+                "explanation": "[ər.] 1. is. sərsəri",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 7
+            },
+            {
+                "word": "ALBAN",
+                "explanation": "is. 1. ***iya xalq respublikasının əsas əhalisinin adı və bu xalqa mənsub adam; arnaud. 2. tar. azərbaycanın şimal hissəsində yaşamış qədim xalqın a",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 8
+            },
+            {
+                "word": "BALBA",
+                "explanation": "is. məh. cincilim",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 9
+            },
+            {
+                "word": "BALON",
+                "explanation": "[fr.] 1. maye və qaz saxlamaqüçün dəmir və ya plastik materialdan hazırlanmışqab.2. içərisinə hava doldurulmuş rezin şin",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 10
+            },
+            {
+                "word": "BANDA",
+                "explanation": "is. [ital.] cinayətkarlar",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 11
+            },
+            {
+                "word": "DABAN",
+                "explanation": "is. 1. insan və heyvan ayağının dal hissəsi. çox gəzməkdən ***larım sızıldayır. 2. ayağa geyilən şeylərin arxa hissəsi",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 12
+            },
+            {
+                "word": "DALAB",
+                "explanation": "is. məh. dəvə",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 13
+            },
+            {
+                "word": "DOLAB",
+                "explanation": "is. evin divarında düzəldilən rəf",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 14
+            },
+            {
+                "word": "BADBAN",
+                "explanation": "is. [fars.] ensiz nazik taxta çərçivəyəyapışdırılmış və uzun sapa bənd edilərək",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 15
+            },
+            {
+                "word": "BALACA",
+                "explanation": "sif. 1. həcmcə",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 16
+            },
+            {
+                "word": "BANBAL",
+                "explanation": "is. məh. iri barama",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 17
+            },
+            {
+                "word": "DABANA",
+                "explanation": "is. qapının",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 18
+            },
+            {
+                "word": "ALBANCA",
+                "explanation": "sif. və zərf alban dilində",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 19
+            },
+            {
+                "word": "ANABALA",
+                "explanation": "is. ana ilə oğlu və ya qızı.səməd getdi. ana-bala baş-başa veribağlaşdılar. b.talıblı. taxt üstündə ***oturublar yanaşı",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 20
+            },
+            {
+                "word": "BABACAN",
+                "explanation": "is. babaya",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 21
+            },
+            {
+                "word": "BALABAN",
+                "explanation": "is. nəfəslə çalınan qamışdan",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 22
+            },
+            {
+                "word": "BALLADA",
+                "explanation": "[fr.] ədəb. 1. əfsanə",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 23
+            },
+            {
+                "word": "BACABACA",
+                "explanation": "is. köhnə məişətdə: novruzbayramı axşamı qapı-qapı dolaşıb bayramlıqpay almaq adəti; qodu-qodu",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 24
+            },
+            {
+                "word": "DOLANBAC",
+                "explanation": "1. sif. çox dolaşıq",
+                "isPanagram": true,
+                "score": 17,
+                "length": 8,
+                "id": 25
+            }
+        ]
+    }
+}

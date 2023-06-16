@@ -1,0 +1,342 @@
+{
+    "gameData": {
+        "day": "20231114",
+        "expiration": "1700006340",
+        "centerLetter": "I",
+        "outerLetters": [
+            "A",
+            "U",
+            "R",
+            "C",
+            "Q",
+            "T"
+        ],
+        "words_info": {
+            "word_count": 39,
+            "sum_score": 207,
+            "panagram_count": 1,
+            "word_length": {
+                "5": 13,
+                "4": 9,
+                "9": 2,
+                "7": 5,
+                "6": 7,
+                "10": 3
+            }
+        },
+        "words": [
+            {
+                "word": "ACIQ",
+                "explanation": "is. hirs",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "ARIQ",
+                "explanation": "sif. cılız",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "ATQI",
+                "explanation": "is. 1. bir şeyin üzərindən atılan tir və s. 2. toxuculuqda: ərişin üstünə gələn və məkiklə atılan arğac ipi",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "CIQQ",
+                "explanation": "is. güllə səsi. hər yaraqlanıb döyüşəçıxan",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "CIRT",
+                "explanation": "is. quru ağacı sındırdıqda çıxan səs",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 5
+            },
+            {
+                "word": "QARI",
+                "explanation": "is. 1. qoca qadın",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 6
+            },
+            {
+                "word": "QATI",
+                "explanation": "sif. 1. sıyıq",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 7
+            },
+            {
+                "word": "QIRA",
+                "explanation": "is. məh. təndirdən çörəyi qoparmaqüçün qarmaqlı alət. // qarmaq. …küçədə***dan tutub dartanda məftilin vasitəsilə zəngiçəridə tərpənir",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 8
+            },
+            {
+                "word": "QIRT",
+                "explanation": "is. cücə çıxarmaq üçün yumurtaüstündə yatan toyuq. □ *** basdırmaq –*** düşmüş toyuğun altına yumurta qoymaq",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 9
+            },
+            {
+                "word": "ACICA",
+                "explanation": "sif. 1. bir qədər acı",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 10
+            },
+            {
+                "word": "ARTIQ",
+                "explanation": "zərf və sif. 1. çox",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 11
+            },
+            {
+                "word": "ATICI",
+                "explanation": "1. sif. yaxşı tüfəng atan",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 12
+            },
+            {
+                "word": "CIQQA",
+                "explanation": "is. [fars.] 1. başın ön və yan tərəfinətökülən tellər. siyah zülfü dal gərdəndəbir qulac! sona ***sıtək ucları qıyğac",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 13
+            },
+            {
+                "word": "CIRIQ",
+                "explanation": "sif. 1. bir və ya çox yerdən cırılmış",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 14
+            },
+            {
+                "word": "QARTI",
+                "explanation": "is. yapıncı; keçədən çoban bürüncəyi.dünya malından var: sicim çatısı; patavası",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 15
+            },
+            {
+                "word": "QATIQ",
+                "explanation": "is. 1. südü bişirib",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 16
+            },
+            {
+                "word": "QATIR",
+                "explanation": "is. eşşəklə madyanın cütləşməsindəntörəyən yük heyvanı. kənd təsərrüfatheyvanlarından at",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 17
+            },
+            {
+                "word": "QATQI",
+                "explanation": "is. bir şeyə qatılan başqa maddə;aşqar",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 18
+            },
+            {
+                "word": "QICIQ",
+                "explanation": "is. 1. xarici mühitin orqanizmə",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 19
+            },
+            {
+                "word": "QIRAQ",
+                "explanation": "is. 1. bir şeyin kənarı",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 20
+            },
+            {
+                "word": "QIRIQ",
+                "explanation": "sif. 1. qırılmış",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 21
+            },
+            {
+                "word": "QIRTI",
+                "explanation": "is. dan. parça",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 22
+            },
+            {
+                "word": "ARIQCA",
+                "explanation": "sif. çox arıq. *** bir uşaq.// bir qədər arıq",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 23
+            },
+            {
+                "word": "QATARI",
+                "explanation": "sif. və zərf qatarla",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 24
+            },
+            {
+                "word": "QIRQIC",
+                "explanation": "is. bax qıc. gözündən qan damırdı",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 25
+            },
+            {
+                "word": "QIRICI",
+                "explanation": "sif. 1. qıran",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 26
+            },
+            {
+                "word": "QIRTIC",
+                "explanation": "is. bot. taxıl fəsiləsindən yembitkisi",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 27
+            },
+            {
+                "word": "TACCIQ",
+                "explanation": "is. bot. gülün",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 28
+            },
+            {
+                "word": "TATARI",
+                "explanation": "is. qırmanc",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 29
+            },
+            {
+                "word": "ACIQICI",
+                "explanation": "is. bot. vəzəriyə",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 30
+            },
+            {
+                "word": "QATQATI",
+                "explanation": "is. bayt. gövşəyən heyvanlarınqarnı ilə qursağı arasındakı həzm üzvü",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 31
+            },
+            {
+                "word": "QICIRTI",
+                "explanation": "is. iki şeyin (və ya dişlərin) birbirinəsürtülməsindən hasil olan səs. dişlərinin***sından yatmaq olmur",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 32
+            },
+            {
+                "word": "QIRQIRA",
+                "explanation": "is. məh. qır-qır səs çıxaranuşaq oyuncağı",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 33
+            },
+            {
+                "word": "QIRACAQ",
+                "explanation": "is. nallanan atın dırnağını kəsibhamarlamaq üçün alət. nalbənd ***laatın dırnağını kəsdi",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 34
+            },
+            {
+                "word": "ACIQQICIQ",
+                "explanation": "is. dan. birisini acıqlandırmaq",
+                "isPanagram": false,
+                "score": 9,
+                "length": 9,
+                "id": 35
+            },
+            {
+                "word": "CIRIQCIRIQ",
+                "explanation": "sif. tamam cırıq",
+                "isPanagram": false,
+                "score": 10,
+                "length": 10,
+                "id": 36
+            },
+            {
+                "word": "QIRIQQIRIQ",
+                "explanation": "sif. və zərf tikə-tikə",
+                "isPanagram": false,
+                "score": 10,
+                "length": 10,
+                "id": 37
+            },
+            {
+                "word": "QIRIQQURAQ",
+                "explanation": "sif. qırıq parçalardanibarət olan",
+                "isPanagram": false,
+                "score": 10,
+                "length": 10,
+                "id": 38
+            },
+            {
+                "word": "QURTARICI",
+                "explanation": "is. xilas edən",
+                "isPanagram": true,
+                "score": 17,
+                "length": 9,
+                "id": 39
+            }
+        ]
+    }
+}

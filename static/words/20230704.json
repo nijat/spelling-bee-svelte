@@ -1,0 +1,293 @@
+{
+    "gameData": {
+        "day": "20230704",
+        "expiration": "1688515140",
+        "centerLetter": "A",
+        "outerLetters": [
+            "U",
+            "O",
+            "Y",
+            "Q",
+            "T",
+            "B"
+        ],
+        "words_info": {
+            "word_count": 33,
+            "sum_score": 131,
+            "panagram_count": 1,
+            "word_length": {
+                "4": 13,
+                "7": 1,
+                "5": 14,
+                "6": 4,
+                "8": 1
+            }
+        },
+        "words": [
+            {
+                "word": "ATAT",
+                "explanation": "is. uşaqların ağac üstə minərəkoynadıqları oyun. at-at oynamaq",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "AYAQ",
+                "explanation": "is. klas. qədəh",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "AYAT",
+                "explanation": "is. [ər. “ayə” söz. cəmi] bax ayə11-ci mənada. ya ki",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "BABA",
+                "explanation": "is. 1. atanın",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "BOYA",
+                "explanation": "is. 1. bir şeyə müəyyən rəng vermək",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 5
+            },
+            {
+                "word": "BUTA",
+                "explanation": "is. [fars.] içində qızıl",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 6
+            },
+            {
+                "word": "QABA",
+                "explanation": "sif. 1. kobud",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 7
+            },
+            {
+                "word": "QAYA",
+                "explanation": "is. 1. daşlıq və sarp dağ; daşlıq uçurum",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 8
+            },
+            {
+                "word": "QUBA",
+                "explanation": "is. şair. vəhşi qaz. sona tək silkinib gərdən çəkəndə; bənzəyirsən ***-qaza",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 9
+            },
+            {
+                "word": "OTAQ",
+                "explanation": "is. 1. mənzilin",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 10
+            },
+            {
+                "word": "OYAQ",
+                "explanation": "sif. 1. yatmamış",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 11
+            },
+            {
+                "word": "TAYA",
+                "explanation": "is. üst-üstə yığılmış ot",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 12
+            },
+            {
+                "word": "YABA",
+                "explanation": "is. ot",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 13
+            },
+            {
+                "word": "BABAT",
+                "explanation": "sif. və zərf orta keyfiyyətli",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 14
+            },
+            {
+                "word": "BABAY",
+                "explanation": "is. uşaq dilində: qoca",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 15
+            },
+            {
+                "word": "BATAQ",
+                "explanation": "is. 1. lığ",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 16
+            },
+            {
+                "word": "BAYAT",
+                "explanation": "sif. 1. köhnəlmiş",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 17
+            },
+            {
+                "word": "BAYQU",
+                "explanation": "is. ***ş sözünün qədim forması.*** gələr",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 18
+            },
+            {
+                "word": "BOYAQ",
+                "explanation": "is. 1. bax boya 1-ci mənada.2. bot. kökündən boyayıcı maddə hasiledilən bitki",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 19
+            },
+            {
+                "word": "QABAQ",
+                "explanation": "is. 1. bot. qarpız",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 20
+            },
+            {
+                "word": "QUTAB",
+                "explanation": "is. içərisinə döyülmüş ya ət",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 21
+            },
+            {
+                "word": "TABAQ",
+                "explanation": "is. düyü",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 22
+            },
+            {
+                "word": "TABUT",
+                "explanation": "is. [ər.] cənazəni qoymaq üçün iriqutu. mehralı bəyin ***unu xanlıq imarətininbağına qoymuşdular",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 23
+            },
+            {
+                "word": "TOQQA",
+                "explanation": "is. qayışı",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 24
+            },
+            {
+                "word": "TUTYA",
+                "explanation": "is. [ər.] 1. köhn. kimyəvi maddə –sink.2. məc. mövhumatçıların müqəddəs saydıqlarıhər hansı bir şey",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 25
+            },
+            {
+                "word": "YAQUT",
+                "explanation": "is. [ər.] 1. qırmızı rəngdə olanqiymətli daş. *** üzük (qaşı ***dan olanüzük). – qaş-daşı əlli",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 26
+            },
+            {
+                "word": "YATAQ",
+                "explanation": "is. 1. yatmaq üçün yorğan-döşək salınmış yer",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 27
+            },
+            {
+                "word": "BATBAT",
+                "explanation": "is. bot. bəngotu; pis qoxulu acıdadan ot bitki (xalq təbabətində işlədilir).gödək saplaqlı yaşıl rəngli və yumurtayaoxşarzəhərli otların",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 28
+            },
+            {
+                "word": "QAYTAQ",
+                "explanation": "is. bağ",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 29
+            },
+            {
+                "word": "TAYTAY",
+                "explanation": "sif. taylarla",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 30
+            },
+            {
+                "word": "TAYTAQ",
+                "explanation": "sif. və is. axsaq",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 31
+            },
+            {
+                "word": "ATABABA",
+                "explanation": "is. əcdad",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 32
+            },
+            {
+                "word": "BOYAQOTU",
+                "explanation": "is. bot. başlıca olaraq dağlıqyerlərdə bitən çoxillik ot bitki",
+                "isPanagram": true,
+                "score": 17,
+                "length": 8,
+                "id": 33
+            }
+        ]
+    }
+}

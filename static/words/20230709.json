@@ -1,0 +1,277 @@
+{
+    "gameData": {
+        "day": "20230709",
+        "expiration": "1688947140",
+        "centerLetter": "A",
+        "outerLetters": [
+            "L",
+            "R",
+            "İ",
+            "V",
+            "Ə",
+            "K"
+        ],
+        "words_info": {
+            "word_count": 31,
+            "sum_score": 127,
+            "panagram_count": 1,
+            "word_length": {
+                "4": 13,
+                "6": 10,
+                "5": 6,
+                "9": 1,
+                "7": 1
+            }
+        },
+        "words": [
+            {
+                "word": "AİLƏ",
+                "explanation": "is. [ər.] 1. ata-anadan",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "ARVA",
+                "explanation": "is. dan. içinə şey qoyulan və yatökülən qabların (qutu",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "AVAR",
+                "explanation": "is. məh. keçmişdə kənd evlərinindamına döşənən qamışaoxşar ot; ümumiyyətlə",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "AVİA",
+                "explanation": "[lat.] mürəkkəb sözlərin əvvəlində ***siya mənasını ifadə edir",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "KALA",
+                "explanation": "is. məh. böyük şüşə qab",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 5
+            },
+            {
+                "word": "LALƏ",
+                "explanation": "is. [fars.] 1. bot. iriləçəkli qırmızıçiçəkləri olan bitki və bu bitkinin çiçəyi. bitərçəməndə ***lər",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 6
+            },
+            {
+                "word": "LAVA",
+                "explanation": "[ital.] 1. vulkanın ağzından çıxanərgin odlu kütlə.2. məc. böyük kütlə halında sürətlə hərəkətedən şey haqqında; izdiham",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 7
+            },
+            {
+                "word": "RAVİ",
+                "explanation": "is. [ər.] klas. rəvayət edən",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 8
+            },
+            {
+                "word": "RƏVA",
+                "explanation": "is. [fars.] 1. caiz",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 9
+            },
+            {
+                "word": "RİAL",
+                "explanation": "is. [fars.] iranda pul vahidi",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 10
+            },
+            {
+                "word": "VALA",
+                "explanation": "sif. [fars.] klas. yüksək",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 11
+            },
+            {
+                "word": "VALİ",
+                "explanation": "is. [ər.] 1. keçmişdə: vilayət hakimi",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 12
+            },
+            {
+                "word": "VİKA",
+                "explanation": "[lat.] bot. çölnoxudu; noxudaoxşaryem otu",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 13
+            },
+            {
+                "word": "AVARA",
+                "explanation": "[fars.] 1. is. heç bir işlə məşğul olmayaraq boş-boş gəzən adam",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 14
+            },
+            {
+                "word": "AVRAL",
+                "explanation": "[ing.] 1. gəmidə bütün komandanıniştirakı ilə görülən iş. artıq ***dançox nadir hallarda istifadə edilir",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 15
+            },
+            {
+                "word": "ƏLAVƏ",
+                "explanation": "[ər.] 1. sif. əsas şeyin üstünə artırılan;üstəlik. *** xərc. *** seans. bugün iki *** dərs oxuduq",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 16
+            },
+            {
+                "word": "KALKA",
+                "explanation": "[fr.] 1. çertyojlardan",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 17
+            },
+            {
+                "word": "RALLİ",
+                "explanation": "is. [ing.] avtomobil idmanı üzrə1000-2000 km məsafədə keçirilən yarışlarkompleksi",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 18
+            },
+            {
+                "word": "VİLLA",
+                "explanation": "[lat.] şəhər kənarında bağ-bağatiçərisində qəşəng ev; köşk. burada çox gözəl***lar tikilmiş",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 19
+            },
+            {
+                "word": "AİLƏLİ",
+                "explanation": "sif. ailəsi olan",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 20
+            },
+            {
+                "word": "AİLƏVİ",
+                "explanation": "sif. [ər.] ailəyə mənsub",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 21
+            },
+            {
+                "word": "ƏVVƏLA",
+                "explanation": "ara s. [ər.] birincisi",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 22
+            },
+            {
+                "word": "KALAVA",
+                "explanation": "is. məh. dərə",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 23
+            },
+            {
+                "word": "KALVİL",
+                "explanation": "[fr. xüs. addan] sarımtıl almanövü. *** alması",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 24
+            },
+            {
+                "word": "KARLAL",
+                "explanation": "is. həm eşitmək",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 25
+            },
+            {
+                "word": "LALKAR",
+                "explanation": "1. sif. həm danışmaq",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 26
+            },
+            {
+                "word": "LALƏLİ",
+                "explanation": "sif. lalə bitmiş",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 27
+            },
+            {
+                "word": "VİKARİ",
+                "explanation": "is. [ing.] əvəzedici",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 28
+            },
+            {
+                "word": "VİVARİ",
+                "explanation": "is. [lat.] təcrübədə istifadə olunmaqüçün müxtəlif heyvanlar",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 29
+            },
+            {
+                "word": "VALİLİK",
+                "explanation": "is. 1. vali vəzifəsi. sultan əhmədcəlayir bağdada gəlib",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 30
+            },
+            {
+                "word": "LƏLƏKVARİ",
+                "explanation": "sif. lələyəoxşar",
+                "isPanagram": true,
+                "score": 17,
+                "length": 9,
+                "id": 31
+            }
+        ]
+    }
+}

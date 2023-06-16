@@ -1,0 +1,398 @@
+{
+    "gameData": {
+        "day": "20230814",
+        "expiration": "1692057540",
+        "centerLetter": "M",
+        "outerLetters": [
+            "T",
+            "A",
+            "Q",
+            "U",
+            "Z",
+            "L"
+        ],
+        "words_info": {
+            "word_count": 46,
+            "sum_score": 253,
+            "panagram_count": 1,
+            "word_length": {
+                "4": 8,
+                "5": 17,
+                "8": 6,
+                "6": 6,
+                "9": 2,
+                "7": 7
+            }
+        },
+        "words": [
+            {
+                "word": "ALAM",
+                "explanation": "is. [ər. “ələm” söz. cəmi] qəm",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "ALMA",
+                "explanation": "is. müxtəlif çeşidləri və müxtəlif rənglərdə olan girdə",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "AMAL",
+                "explanation": "is. [ər. “əməl” söz. cəmi] tənt. qayə",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "ATMA",
+                "explanation": "“***q”dan f.is. və s. *** nizə.ən qədim insanların ilk *** silahı daş",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "MALA",
+                "explanation": "is. [fars.] 1. binanın iç və bayırdivarlarına çəkmək üçün əhəng",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 5
+            },
+            {
+                "word": "MAMA",
+                "explanation": "is. doğuş zamanı kömək göstərməkləməşğul olan (keçmişdə təhsilsiz",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 6
+            },
+            {
+                "word": "TAAM",
+                "explanation": "is. [ər.] 1. xörək",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 7
+            },
+            {
+                "word": "UMUZ",
+                "explanation": "is. çiyin. [zaman:] mən tüfəngi***uma sıxaraq gedirdim. c.cabbarlı. yunşalını ***undan alıb kreslonun söykənəcəyinəburaxdı",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 8
+            },
+            {
+                "word": "ALMAZ",
+                "explanation": "is. 1. son dərəcə bərk",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 9
+            },
+            {
+                "word": "QAQUM",
+                "explanation": "is. [ər.] pişik cinsindən olan bozqaraquyruqlu xəzlik heyvan",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 10
+            },
+            {
+                "word": "QATMA",
+                "explanation": "is. kəndir və ya yundan eşilmişip. [hatəmxan ağa:] çiyninə bir *** bağlayıbsan",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 11
+            },
+            {
+                "word": "QAZMA",
+                "explanation": "1. “***q1”dan f.is. ***texnikasının inkişafı.2. sif. oyulmuş",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 12
+            },
+            {
+                "word": "QULAM",
+                "explanation": "is. qədim zamanlarda: qul",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 13
+            },
+            {
+                "word": "QUMLU",
+                "explanation": "sif. 1. içində",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 14
+            },
+            {
+                "word": "QUMUQ",
+                "explanation": "is. dağıstanda yaşayan türkdillixalq və bu xalqa mənsub adam. *** dili.*** xalqı",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 15
+            },
+            {
+                "word": "MAZAQ",
+                "explanation": "is. [ər.] vulq. zarafat",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 16
+            },
+            {
+                "word": "MAZAT",
+                "explanation": "is. : özünü ***a qoymaq dan. – naz eləmək",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 17
+            },
+            {
+                "word": "MAZUT",
+                "explanation": "is. neftdən ağneft",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 18
+            },
+            {
+                "word": "MUMLU",
+                "explanation": "sif. mum sürtülmüş",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 19
+            },
+            {
+                "word": "TAMAM",
+                "explanation": "is. [ər.] 1. bitmə",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 20
+            },
+            {
+                "word": "TUMLU",
+                "explanation": "sif. tumu olan",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 21
+            },
+            {
+                "word": "TUTAM",
+                "explanation": "is. bir dəfədə və birdən tutulacaq miqdar. bir *** ot. – [molla nəsrəddin:] padşah mənim bir *** saqqalımı bir arşın görəndə onun kəndxudası da əl",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 22
+            },
+            {
+                "word": "TUTMA",
+                "explanation": "1. “***q”dan f.is. [ayrım qızı]cücələri ***ması üçün əlinə böyük birağac alıb",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 23
+            },
+            {
+                "word": "TUTUM",
+                "explanation": "is. müəyyən qədər şeyi tutmaq",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 24
+            },
+            {
+                "word": "ULAMA",
+                "explanation": "1. “***q”dan f.is.2. it",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 25
+            },
+            {
+                "word": "ATLAMA",
+                "explanation": "is. su qatılaraq duru hala salınmışqatıq; ayran. yayın ***sı",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 26
+            },
+            {
+                "word": "QALAMA",
+                "explanation": "“***q”dan f.is. □ bir ***– ağzına qədər dolu",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 27
+            },
+            {
+                "word": "QAZMAQ",
+                "explanation": "is. bişmişin",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 28
+            },
+            {
+                "word": "QUMLUQ",
+                "explanation": "1. sif. qumdan ibarət olan",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 29
+            },
+            {
+                "word": "MATQUT",
+                "explanation": "is. : matı-qutu qurumaq (çəkilmək) – donub qalmaq",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 30
+            },
+            {
+                "word": "TUMLUQ",
+                "explanation": "is. və sif. dan. əkmək üçün ayrılmışvə ya yarayan; toxumluq. [aslan bəy tarverdiyə:]keçən qışda gəldin",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 31
+            },
+            {
+                "word": "QATLAMA",
+                "explanation": "1. “***q”dan f.is.2. is. yağda bişirilmiş qat-qat çörək",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 32
+            },
+            {
+                "word": "QAZAMAT",
+                "explanation": "is. [əsli ital.] dustaqxana",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 33
+            },
+            {
+                "word": "QUMQUMA",
+                "explanation": "is. [ər.] 1. yandan asılan kiçiksu qabı. bir çoxları öz yol xərcliyini",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 34
+            },
+            {
+                "word": "MALAMAL",
+                "explanation": "sif. və zərf [fars.] dolu",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 35
+            },
+            {
+                "word": "MAZUTLU",
+                "explanation": "sif. mazut sürtülmüş",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 36
+            },
+            {
+                "word": "TUTULMA",
+                "explanation": "1. “***q”dan f.is. [valentinov:]***sı çətindir. gerisindən qorxmayın.c.cabbarlı.2. is. göy cisminin müvəqqəti olaraq başqagöy cismi ilə ör",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 37
+            },
+            {
+                "word": "TUTUMLU",
+                "explanation": "sif. müəyyən miqdarda şeytuta bilən; həcmli. 5 litr *** neft qabı.// çoxlu miqdarda şey tutan; irihəcmli",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 38
+            },
+            {
+                "word": "AMALQAMA",
+                "explanation": "[fr. əsli ərəbcədən] kim.bəzi metalların civə ilə əmələ gətirdiyiərinti",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 39
+            },
+            {
+                "word": "QALMAQAL",
+                "explanation": "is. səs-küy",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 40
+            },
+            {
+                "word": "QAMQALAQ",
+                "explanation": "is. xarrat işləri zamanı yerətökülən nazik taxta – talaşa. …sarı əlinə düşənçör-çöpü",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 41
+            },
+            {
+                "word": "QUMLULUQ",
+                "explanation": "is. qumlu şeyin halı; tərkibində",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 42
+            },
+            {
+                "word": "TUTULMAZ",
+                "explanation": "sif. tutula bilməyən",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 43
+            },
+            {
+                "word": "AZTUTUMLU",
+                "explanation": "sif. az şey tutan",
+                "isPanagram": false,
+                "score": 9,
+                "length": 9,
+                "id": 44
+            },
+            {
+                "word": "TAMAMLAMA",
+                "explanation": "1. “***q”dan f.is.2. is. əgər-əskiyini düzəltmə",
+                "isPanagram": false,
+                "score": 9,
+                "length": 9,
+                "id": 45
+            },
+            {
+                "word": "MAZUTLUQ",
+                "explanation": "is. mazut tökülmüş yer.mədənlərin ətrafı ***dur",
+                "isPanagram": true,
+                "score": 17,
+                "length": 8,
+                "id": 46
+            }
+        ]
+    }
+}

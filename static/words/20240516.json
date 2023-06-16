@@ -1,0 +1,197 @@
+{
+    "gameData": {
+        "day": "20240516",
+        "expiration": "1715903940",
+        "centerLetter": "R",
+        "outerLetters": [
+            "A",
+            "Y",
+            "E",
+            "M",
+            "T",
+            "İ"
+        ],
+        "words_info": {
+            "word_count": 21,
+            "sum_score": 89,
+            "panagram_count": 1,
+            "word_length": {
+                "4": 9,
+                "5": 7,
+                "6": 3,
+                "8": 1,
+                "10": 1
+            }
+        },
+        "words": [
+            {
+                "word": "AMİR",
+                "explanation": "is. [ər.] buyuran",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "ARAM",
+                "explanation": "is. [fars.] sakitlik",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "ARAT",
+                "explanation": "is. k.t. şumlanıb sulanmış",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "AYAR",
+                "explanation": "is. dan. 1. barama",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "MART",
+                "explanation": "[lat.] təqvim ilinin üçüncü ayı.*** qırğınları. – *** çıxdı",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 5
+            },
+            {
+                "word": "RİYA",
+                "explanation": "is. [ər.] ikiüzlülük. məsciddə həsirieləmə aləti-təzvir; mərdanə qədəh tut",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 6
+            },
+            {
+                "word": "TİRE",
+                "explanation": "[fr.] 1. uzun üfüqi xətt (–) şəklindədurğu işarəsi.2. morze əlifbasında belə işarə",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 7
+            },
+            {
+                "word": "TİTR",
+                "explanation": "[fr.] 1. kinolentdə yazı",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 8
+            },
+            {
+                "word": "YARA",
+                "explanation": "is. 1. bədən",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 9
+            },
+            {
+                "word": "ARİYA",
+                "explanation": "[ital.] mus. 1. opera",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 10
+            },
+            {
+                "word": "ARTMA",
+                "explanation": "1. “***q”dan f.is.2. is. artan şey",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 11
+            },
+            {
+                "word": "MEMAR",
+                "explanation": "is. [ər.] ***lıq mütəxəssisi;arxitektor. [sənubər pərşana:] bu çox ciddiişdir",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 12
+            },
+            {
+                "word": "MİTRA",
+                "explanation": "is. [rus.] dini ayin zamanı keşişlərinbaşlarına keçirdikləri qızılı rəngli papaq",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 13
+            },
+            {
+                "word": "TATAR",
+                "explanation": "is. 1. ***ıstanın əsas əhalisinitəşkil edən türkdilli xalq və bu xalqa mənsubadam.2. volqaboyunda",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 14
+            },
+            {
+                "word": "YARMA",
+                "explanation": "sif. 1. yarıq. qolu *** köynək. *** cibli şalvar. 2. b ax ***ça 1-ci mənada. *** odun",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 15
+            },
+            {
+                "word": "YATAR",
+                "explanation": "is. 1. yatmaq",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 16
+            },
+            {
+                "word": "MARTİT",
+                "explanation": "is. mineral",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 17
+            },
+            {
+                "word": "MERİYA",
+                "explanation": "is. [fr.] icra hakimiyyəti",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 18
+            },
+            {
+                "word": "TARMAR",
+                "explanation": "sif. 1. bir-birinə qarışmış",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 19
+            },
+            {
+                "word": "YARAMYARAM",
+                "explanation": "is. zar. xanəndələrin",
+                "isPanagram": false,
+                "score": 10,
+                "length": 10,
+                "id": 20
+            },
+            {
+                "word": "MATERİYA",
+                "explanation": "[lat.] 1. fəls. insan şüurundankənarda və ondan asılı olmayaraq mövcudolan obyektiv varlıq; maddə.2",
+                "isPanagram": true,
+                "score": 17,
+                "length": 8,
+                "id": 21
+            }
+        ]
+    }
+}

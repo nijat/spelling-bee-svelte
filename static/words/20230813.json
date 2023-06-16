@@ -1,0 +1,327 @@
+{
+    "gameData": {
+        "day": "20230813",
+        "expiration": "1691971140",
+        "centerLetter": "Ş",
+        "outerLetters": [
+            "A",
+            "D",
+            "N",
+            "M",
+            "Ü",
+            "Ə"
+        ],
+        "words_info": {
+            "word_count": 37,
+            "sum_score": 197,
+            "panagram_count": 2,
+            "word_length": {
+                "4": 8,
+                "5": 13,
+                "6": 11,
+                "11": 1,
+                "9": 2,
+                "7": 1,
+                "8": 1
+            }
+        },
+        "words": [
+            {
+                "word": "ADAŞ",
+                "explanation": "is. adları eyni olan adamlar. o mənimlə***dır. ***lar gəldilər. – dodaqlarındakövrək təbəssüm",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "AŞNA",
+                "explanation": "is. 1. dost",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "MAAŞ",
+                "explanation": "is. [ər.] əmək",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "MAŞA",
+                "explanation": "is. ocaqdan od və ya qızmar bir şeyigötürmək üçün metal alət. vaqif arabir buxarını*** ilə qurdalayırdı",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "NƏŞƏ",
+                "explanation": "is. [ər.] kef",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 5
+            },
+            {
+                "word": "ŞANA",
+                "explanation": "is. otu",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 6
+            },
+            {
+                "word": "ŞANƏ",
+                "explanation": "is. [fars.] klas. daraq. xumar-xumarbaxmaq göz qaydasıdır; lalətək qızarmaq üzqaydasıdır; pərişanlıq zülfün öz qaydasıdır;nə badi-səbadan",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 7
+            },
+            {
+                "word": "ŞÜŞƏ",
+                "explanation": "is. 1. kvarslı qumu əridib kimyəvi üsulla işləmək nəticəsində alınan sərt",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 8
+            },
+            {
+                "word": "ANAŞA",
+                "explanation": "is. dan. xaşxaşdan hasil olan çoxzəhərli narkotik maddə",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 9
+            },
+            {
+                "word": "DADAŞ",
+                "explanation": "is. kiçik qardaş və bacıların böyükqardaşa verdikləri ad; böyük qardaşa müraciət.bir gün gəldim",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 10
+            },
+            {
+                "word": "DAŞMA",
+                "explanation": "“***q”dan f.is. çayın ***sı.samovarın ***sı",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 11
+            },
+            {
+                "word": "DƏŞNƏ",
+                "explanation": "is. [fars.] köhn. kiçik xəncər",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 12
+            },
+            {
+                "word": "DÜŞMƏ",
+                "explanation": "1. “***k”dən f.is. [qədir]ağaların",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 13
+            },
+            {
+                "word": "DÜŞÜM",
+                "explanation": "is. uyğunluq",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 14
+            },
+            {
+                "word": "ƏŞƏDD",
+                "explanation": "sif. [ər.] şiddətli",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 15
+            },
+            {
+                "word": "MƏMƏŞ",
+                "explanation": "is. uş. məmə",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 16
+            },
+            {
+                "word": "MƏNŞƏ",
+                "explanation": "is. ər. 1. bir şeyin çıxdığı",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 17
+            },
+            {
+                "word": "NAŞAD",
+                "explanation": "sif. [fars.] klas. qəmgin",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 18
+            },
+            {
+                "word": "ŞAMAN",
+                "explanation": "is. [tunq.] ruhlara",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 19
+            },
+            {
+                "word": "ŞƏDDƏ",
+                "explanation": "is. [ər.] 1. bax təşdid.2. sapa düzülmüş mirvari",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 20
+            },
+            {
+                "word": "ŞƏŞƏƏ",
+                "explanation": "is. [ər.] klas. tənt. 1. parlaqlıq",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 21
+            },
+            {
+                "word": "ANDDAŞ",
+                "explanation": "is. müəyyən əhd",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 22
+            },
+            {
+                "word": "DAMDAŞ",
+                "explanation": "is. tikili",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 23
+            },
+            {
+                "word": "DƏNDÜŞ",
+                "explanation": "is. keyfiyyətsiz və qarışıqheyvan yemi",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 24
+            },
+            {
+                "word": "DÜŞMƏN",
+                "explanation": "is. [fars.] 1. birinə qarşı ədavət",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 25
+            },
+            {
+                "word": "ŞADƏNƏ",
+                "explanation": "sif. iri dənələri olan",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 26
+            },
+            {
+                "word": "ŞADMAN",
+                "explanation": "sif. və zərf [fars.] klas. şad",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 27
+            },
+            {
+                "word": "ŞAMAMA",
+                "explanation": "is. [ər.] çox ətirli və şirin",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 28
+            },
+            {
+                "word": "ŞAMDAN",
+                "explanation": "is. [ər. və fars.] şam qoymaqüçün altlıq. otaqlarda yanan ***lar söndürülmüşdü.m.s.ordubadi. pəncərədən sarı***lar asılardı",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 29
+            },
+            {
+                "word": "ŞANŞAN",
+                "explanation": "sif. şanlar şəklində",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 30
+            },
+            {
+                "word": "ŞƏNŞƏN",
+                "explanation": "sif. və zərf sevinə-sevinə",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 31
+            },
+            {
+                "word": "ŞÜMŞAD",
+                "explanation": "is. [fars.] 1. cürbəcür alətlər",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 32
+            },
+            {
+                "word": "DÜŞÜNÜŞ",
+                "explanation": "is. düşünmək işi",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 33
+            },
+            {
+                "word": "ŞANAŞANA",
+                "explanation": "sif. göz-göz",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 34
+            },
+            {
+                "word": "DÜŞÜNÜŞMƏ",
+                "explanation": "“***k”dən f.is.dövlət zarafatyana",
+                "isPanagram": false,
+                "score": 9,
+                "length": 9,
+                "id": 35
+            },
+            {
+                "word": "DAMDANDÜŞMƏ",
+                "explanation": "sif. dan. təsadüfi",
+                "isPanagram": true,
+                "score": 17,
+                "length": 11,
+                "id": 36
+            },
+            {
+                "word": "DÜŞMƏNANƏ",
+                "explanation": "zərf və sif. [fars.] düşməncəsinə.gətirilən xəbərlərin əsasınıfəxrəddinin əmirə qarşı hazırladığı ***hərəkət təşkil edirdi",
+                "isPanagram": true,
+                "score": 17,
+                "length": 9,
+                "id": 37
+            }
+        ]
+    }
+}

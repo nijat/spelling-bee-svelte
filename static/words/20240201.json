@@ -1,0 +1,342 @@
+{
+    "gameData": {
+        "day": "20240201",
+        "expiration": "1706831940",
+        "centerLetter": "İ",
+        "outerLetters": [
+            "D",
+            "Ə",
+            "X",
+            "N",
+            "L",
+            "A"
+        ],
+        "words_info": {
+            "word_count": 39,
+            "sum_score": 175,
+            "panagram_count": 2,
+            "word_length": {
+                "4": 15,
+                "7": 4,
+                "6": 6,
+                "5": 12,
+                "8": 1,
+                "9": 1
+            }
+        },
+        "words": [
+            {
+                "word": "ADİL",
+                "explanation": "sif. [ər.] ədalətli",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "AİLƏ",
+                "explanation": "is. [ər.] 1. ata-anadan",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "DƏLİ",
+                "explanation": "1. sif. ağlı və şüuru yerində olmayan",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "DƏNİ",
+                "explanation": "sif. [ər.] alçaq",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "DİDƏ",
+                "explanation": "is. [fars.] klas. göz. gər inanmazsan ki",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 5
+            },
+            {
+                "word": "DİNA",
+                "explanation": "is. [yun.] fiz. kütləsi bir qram olancismə bir saniyədə bir santimetr təcil verənqüvvə",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 6
+            },
+            {
+                "word": "DİNİ",
+                "explanation": "sif. [ər.] dinlə əlaqədar olan",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 7
+            },
+            {
+                "word": "ƏLİL",
+                "explanation": "is. və sif. xəstəlik və ya qocalıqnəticəsində əmək qabiliyyətini itirmiş;şikəst. ***lər cəmiyyəti",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 8
+            },
+            {
+                "word": "ƏLLİ",
+                "explanation": "sif. 1. əli olan. iri *** adam. 2. məc. qolu güclü",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 9
+            },
+            {
+                "word": "ƏNİN",
+                "explanation": "is. [ər.] şair. inləmə",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 10
+            },
+            {
+                "word": "XAİN",
+                "explanation": "sif. [ər.] 1. vətəninə",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 11
+            },
+            {
+                "word": "XALİ",
+                "explanation": "sif. [ər.] 1. boş",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 12
+            },
+            {
+                "word": "LƏİN",
+                "explanation": "sif. və is. [ər.] bax məlun. bu isə",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 13
+            },
+            {
+                "word": "NAİL",
+                "explanation": "[ər.] : *** olmaq – əldə etmək",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 14
+            },
+            {
+                "word": "NİDA",
+                "explanation": "is. [ər.] 1. hiss",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 15
+            },
+            {
+                "word": "DAXİL",
+                "explanation": "is. [ər.] içəri",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 16
+            },
+            {
+                "word": "DƏXİL",
+                "explanation": "is. [ər.] köhn. sığınan",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 17
+            },
+            {
+                "word": "DƏLİL",
+                "explanation": "is. [ər.] hər hansı bir şeyi sübut etməküçün əsas; sübut. tutarlı ***. *** gətirmək.bunu sübut etmək üçün *** lazımdır",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 18
+            },
+            {
+                "word": "DƏNLİ",
+                "explanation": "sif. k.t. dəni çox və yaxşı olan.*** sünbül. bu taxıllar çox ***dir.– …çöllər bərəkətli yaşıllıqla örtülürdü",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 19
+            },
+            {
+                "word": "DİLLİ",
+                "explanation": "sif. 1. ağzında dili olan. // danışa bilən",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 20
+            },
+            {
+                "word": "ƏDƏDİ",
+                "explanation": "sif. [ər.] riyaz. ədədlərlə ifadəolunan. *** kəmiyyət. ədəbi nisbət. –diferensial tənlikləri təqribi həll etmək üçünmüxtəlif qrafik və *** meto",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 21
+            },
+            {
+                "word": "XİLLƏ",
+                "explanation": "is. bəzi məməli heyvanların (fil",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 22
+            },
+            {
+                "word": "LİANA",
+                "explanation": "[fr.] bot. tropik meşələrdə",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 23
+            },
+            {
+                "word": "LİLLİ",
+                "explanation": "sif. lehməli",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 24
+            },
+            {
+                "word": "NANDİ",
+                "explanation": "is. afrikada yaşayan qohum xalqlarqrupu",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 25
+            },
+            {
+                "word": "NƏNNİ",
+                "explanation": "is. 1. körpə uşaqları yatırtmaq üçünasılan kiçik yatacaq. [qumru] uşağı ***yəsalıb küncə qısıldı",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 26
+            },
+            {
+                "word": "NİNNİ",
+                "explanation": "is. layla",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 27
+            },
+            {
+                "word": "AİLƏLİ",
+                "explanation": "sif. ailəsi olan",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 28
+            },
+            {
+                "word": "DAXİLİ",
+                "explanation": "sif. [ər.] 1. daxilə",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 29
+            },
+            {
+                "word": "DƏDƏLİ",
+                "explanation": "sif. atası olan",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 30
+            },
+            {
+                "word": "DƏNƏLİ",
+                "explanation": "sif. 1. dənli",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 31
+            },
+            {
+                "word": "LALƏLİ",
+                "explanation": "sif. lalə bitmiş",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 32
+            },
+            {
+                "word": "NADİDƏ",
+                "explanation": "sif. [fars.] köhn. 1. görünməmiş",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 33
+            },
+            {
+                "word": "ADİLANƏ",
+                "explanation": "zərf [ər. adil və fars. …anə]adilcəsinə",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 34
+            },
+            {
+                "word": "DƏLİLLİ",
+                "explanation": "sif. dəlili olan; sübutlu",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 35
+            },
+            {
+                "word": "DİLDADƏ",
+                "explanation": "sif. və is. [fars.] klas. birisinəkönül vermiş",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 36
+            },
+            {
+                "word": "DƏNDƏNƏLİ",
+                "explanation": "sif. dəndənəsi olan. o",
+                "isPanagram": false,
+                "score": 9,
+                "length": 9,
+                "id": 37
+            },
+            {
+                "word": "DAXİLƏN",
+                "explanation": "zərf [ər.] 1. iç tərəfdən",
+                "isPanagram": true,
+                "score": 17,
+                "length": 7,
+                "id": 38
+            },
+            {
+                "word": "DƏLİXANA",
+                "explanation": "is. 1. ruhi xəstələri",
+                "isPanagram": true,
+                "score": 17,
+                "length": 8,
+                "id": 39
+            }
+        ]
+    }
+}

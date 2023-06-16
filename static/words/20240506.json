@@ -1,0 +1,244 @@
+{
+    "gameData": {
+        "day": "20240506",
+        "expiration": "1715039940",
+        "centerLetter": "R",
+        "outerLetters": [
+            "A",
+            "Y",
+            "K",
+            "İ",
+            "X",
+            "Ə"
+        ],
+        "words_info": {
+            "word_count": 27,
+            "sum_score": 96,
+            "panagram_count": 1,
+            "word_length": {
+                "4": 14,
+                "6": 1,
+                "5": 9,
+                "7": 3
+            }
+        },
+        "words": [
+            {
+                "word": "AXAR",
+                "explanation": "1. sif. daim axan (axmaz əksi). *** su. *** çay. *** bulaq. – sevgili bir çoban",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "ARXA",
+                "explanation": "is. 1. insanın",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "AYAR",
+                "explanation": "is. dan. 1. barama",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "ƏRƏR",
+                "explanation": "is. [ər.] ardıc ağacı. qəddintəknə ər-ər",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "ƏRİK",
+                "explanation": "is. 1. sarı",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 5
+            },
+            {
+                "word": "ƏRKƏ",
+                "explanation": "is. uşaq",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 6
+            },
+            {
+                "word": "ƏRRƏ",
+                "explanation": "is. [fars.] ikidəstəli iri mişar",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 7
+            },
+            {
+                "word": "ƏYAR",
+                "explanation": "is. [ər.] 1. qiymətli metalın saflıqvə xalislik dərəcəsi. üzüyün ***ı. qızılpulun ***ı.2. düzgünlük",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 8
+            },
+            {
+                "word": "ƏYRİ",
+                "explanation": "sif. 1. düz istiqamətdə olmayan",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 9
+            },
+            {
+                "word": "XARA",
+                "explanation": "is. özündən naxışları olan parlaqipək parça. gün vurduqca ağacların yarpaqlarırəngdən-rəngə düşür",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 10
+            },
+            {
+                "word": "KƏRƏ",
+                "explanation": "zərf [ər.] dəfə. iki *** iki elər dörd. adama neçə *** deyərlər. iki *** getmək. bir *** görmək. – adam adamı bir *** aldadar",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 11
+            },
+            {
+                "word": "KİRƏ",
+                "explanation": "is. [fars.] 1. bir şeyin müəyyən haqq müqabilində müvəqqəti olaraq sahibi tərəfindən başqasına istifadəyə verilməsi; kirayə",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 12
+            },
+            {
+                "word": "RİYA",
+                "explanation": "is. [ər.] ikiüzlülük. məsciddə həsirieləmə aləti-təzvir; mərdanə qədəh tut",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 13
+            },
+            {
+                "word": "YARA",
+                "explanation": "is. 1. bədən",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 14
+            },
+            {
+                "word": "ARİYA",
+                "explanation": "[ital.] mus. 1. opera",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 15
+            },
+            {
+                "word": "ƏYYAR",
+                "explanation": "sif. və is. [ər.] hiyləbaz",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 16
+            },
+            {
+                "word": "XƏRƏK",
+                "explanation": "is. [fars.] 1. daş",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 17
+            },
+            {
+                "word": "XİYAR",
+                "explanation": "is. qabaq fəsiləsindən olan uzunsov",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 18
+            },
+            {
+                "word": "KƏKRƏ",
+                "explanation": "is. bot. əsasən dəvələrin yediyi yabanı acı ot bitkisi",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 19
+            },
+            {
+                "word": "KƏRKƏ",
+                "explanation": "is. zool. şirin sularda yaşayan",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 20
+            },
+            {
+                "word": "KƏRKİ",
+                "explanation": "is. aşağı çevrilmiş enli tiyəsi olanuzunsaplı",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 21
+            },
+            {
+                "word": "KƏRRƏ",
+                "explanation": "[ər.] bax kərə3. bir *** düşəndəxəbər al badi-səbadan; saçın həvəsigör ki",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 22
+            },
+            {
+                "word": "KİRKİ",
+                "explanation": "1 is. xüs. xalça toxunarkən ilməklərini sıxlaşdırmaq üçün işlədilən alət; daraq",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 23
+            },
+            {
+                "word": "ARXAİK",
+                "explanation": "sif. dilç. köhnəlmiş",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 24
+            },
+            {
+                "word": "KİRKİRƏ",
+                "explanation": "is. əldəyirmanı. □ ***kimi – dəyirman kimi. şahpərinin çənəsi*** kimi üyüdür",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 25
+            },
+            {
+                "word": "RİYAKAR",
+                "explanation": "sif. [ər. riya və fars. …kar] ikiüzlü. lakin vətən və xalq düşməni olan *** xanlar xəyanət yolu ilə nadirə mane olurlar",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 26
+            },
+            {
+                "word": "XİYARƏK",
+                "explanation": "is. tib. qasıqda limfa vəzilərininiltihabından törəyən xəstəlik",
+                "isPanagram": true,
+                "score": 17,
+                "length": 7,
+                "id": 27
+            }
+        ]
+    }
+}

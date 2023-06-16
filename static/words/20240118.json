@@ -1,0 +1,398 @@
+{
+    "gameData": {
+        "day": "20240118",
+        "expiration": "1705622340",
+        "centerLetter": "A",
+        "outerLetters": [
+            "Q",
+            "S",
+            "D",
+            "N",
+            "X",
+            "I"
+        ],
+        "words_info": {
+            "word_count": 46,
+            "sum_score": 193,
+            "panagram_count": 1,
+            "word_length": {
+                "5": 21,
+                "4": 16,
+                "6": 4,
+                "8": 3,
+                "7": 1,
+                "10": 1
+            }
+        },
+        "words": [
+            {
+                "word": "ADAX",
+                "explanation": "is. ad",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "ADAQ",
+                "explanation": "is. məh. uşağın ilk addımı",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "ADNA",
+                "explanation": "is. cümə axşamı",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "AXAN",
+                "explanation": "f.sif. 1. bax axar 1-ci mənada. [salam] lal *** kəhriz suyundan ovuc dolusu içdi. mir cəlal. 2. məc",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "AXIN",
+                "explanation": "is. 1. sürətlə axan su; sel; iti cərəyan",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 5
+            },
+            {
+                "word": "ASAN",
+                "explanation": "sif. zəhmət tələb etməyən",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 6
+            },
+            {
+                "word": "ASQI",
+                "explanation": "is. paltar və ya başqa şeylər asmağaməxsus alət. bu paltarlı skeletin iti çiyinsümükləri *** kimi ağ abanı saxlayır",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 7
+            },
+            {
+                "word": "DANA",
+                "explanation": "is. bir yaşdan iki yaşa qədər olaninək balası. *** əti. – danışıq ***nı qurdaverər. (məsəl)",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 8
+            },
+            {
+                "word": "XANA",
+                "explanation": "is. 1. xırda dördbucaqlara bölünmüş bir şeyin qisimlərindən hər biri; dama",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 9
+            },
+            {
+                "word": "XANI",
+                "explanation": "is. zool. şirin sularda yaşayan qara zolaqlı",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 10
+            },
+            {
+                "word": "XASA",
+                "explanation": "sif. [ər.] yaxşı bişmiş (qızarmış)",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 11
+            },
+            {
+                "word": "XINA",
+                "explanation": "is. saçı (keçmişdə",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 12
+            },
+            {
+                "word": "QAAN",
+                "explanation": "is. tar. türk",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 13
+            },
+            {
+                "word": "QADA",
+                "explanation": "is. 1. bəla",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 14
+            },
+            {
+                "word": "QISA",
+                "explanation": "sif. 1. boyca gödək",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 15
+            },
+            {
+                "word": "SAQA",
+                "explanation": "is. ədəb. nəsrlə yazılmış qədim islandəsərləri",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 16
+            },
+            {
+                "word": "ADSAN",
+                "explanation": "is. nüfuz",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 17
+            },
+            {
+                "word": "ADINA",
+                "explanation": "is. cümə axşamı",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 18
+            },
+            {
+                "word": "AXSAQ",
+                "explanation": "1. sif. bir qıçı qısa və ya əlil olan; topal",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 19
+            },
+            {
+                "word": "DAQQA",
+                "explanation": "is. məh. 1. dəridən tikilmiş hündürpapaq. şiraslan … *** divan papağınıbaşına qoydu",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 20
+            },
+            {
+                "word": "DANQA",
+                "explanation": "is. mal aşığı. ***ları çıxmışqoca inəklər",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 21
+            },
+            {
+                "word": "XAQAN",
+                "explanation": "is. tar. qədim türk və monqolhökmdarlarına verilən ad",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 22
+            },
+            {
+                "word": "QADAQ",
+                "explanation": "is. bıçaq",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 23
+            },
+            {
+                "word": "QADIN",
+                "explanation": "is. cins etibarı ilə kişinin əksi;arvad. ***lar bayramı. evdar ***. ***həkim. – ayrım qızı şişman bir *** idi",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 24
+            },
+            {
+                "word": "QANAD",
+                "explanation": "is. 1. quşlarda və cücülərdə uçmaqorqanı. quş ***ı. *** açıb uçmaq.göyərçinin ***ı. milçəklər ***larında",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 25
+            },
+            {
+                "word": "QANIQ",
+                "explanation": "sif. 1. qana yerikləyən",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 26
+            },
+            {
+                "word": "QASIQ",
+                "explanation": "is. anat. qarnın iki bud arasındaolan alt tərəfi",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 27
+            },
+            {
+                "word": "QINAQ",
+                "explanation": "is. qınama",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 28
+            },
+            {
+                "word": "NADAN",
+                "explanation": "sif. [fars.] 1. cahil",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 29
+            },
+            {
+                "word": "NAQAN",
+                "explanation": "[xüs. is.-dən] hərlənən topu(barabanı) olan tapança növü. [balaqardaş:]güldəstə! bir gözümün içinə dürüst bax! bu***ı görürsənmi? n",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 30
+            },
+            {
+                "word": "NAQQA",
+                "explanation": "is. zool. şirin suda yaşayan üstü pulsuz",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 31
+            },
+            {
+                "word": "NANIX",
+                "explanation": "sif. məh. bacarıqsız",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 32
+            },
+            {
+                "word": "SADAQ",
+                "explanation": "is. köhn. oxqabı. siyirə qılıncı",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 33
+            },
+            {
+                "word": "SAXSI",
+                "explanation": "is. gildən hazırlanan dulusçuluqməmulatı. ***ya verə-verə",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 34
+            },
+            {
+                "word": "SAQQA",
+                "explanation": "is. [ər.] köhn. keçmişdə dalında",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 35
+            },
+            {
+                "word": "SINAQ",
+                "explanation": "is. sınama işi",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 36
+            },
+            {
+                "word": "SISQA",
+                "explanation": "sif. cılız",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 37
+            },
+            {
+                "word": "DANSIQ",
+                "explanation": "is. məh. abır",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 38
+            },
+            {
+                "word": "QASNAQ",
+                "explanation": "is. 1. sağalmaq üzrə olan yaranınüzündə əmələ gələn qabıq",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 39
+            },
+            {
+                "word": "QISNAQ",
+                "explanation": "1. is. çox çətin girilə bilən yer.2. sif. tələsik",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 40
+            },
+            {
+                "word": "SANDIQ",
+                "explanation": "is. [ər. sənduq] 1. içərisinə paltarvə başqa şeylər qoymaq üçün taxtadanqayrılıb",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 41
+            },
+            {
+                "word": "QAQQANA",
+                "explanation": "is. qaqqıltı. pilləkəni titrətdi muştuluqçu qonşu qızın ***sı. r.rza. □ ***q çalmaq – 1) qaqqıldamaq",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 42
+            },
+            {
+                "word": "XANAXANA",
+                "explanation": "sif. 1. xanalardan ibarət",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 43
+            },
+            {
+                "word": "QAQQANAQ",
+                "explanation": "is. qaqqıltı. pilləkəni titrətdi muştuluqçu qonşu qızın qaqqanası. r.rza. □ *** çalmaq – 1) qaqqıldamaq",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 44
+            },
+            {
+                "word": "QISQANAN",
+                "explanation": "f.sif. bax qısqanc. mənimrəhmətlik ərim də çox *** adamdı.m.s.ordubadi",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 45
+            },
+            {
+                "word": "SANDIQXANA",
+                "explanation": "is. [ər. sənduq və fars.…xanə] köhn. pul və qiymətli şeylər saxlananyer. [xırda xanım:] taxtın altında bir cütçəkmə var",
+                "isPanagram": true,
+                "score": 17,
+                "length": 10,
+                "id": 46
+            }
+        ]
+    }
+}

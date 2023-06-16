@@ -1,0 +1,230 @@
+{
+    "gameData": {
+        "day": "20240106",
+        "expiration": "1704585540",
+        "centerLetter": "D",
+        "outerLetters": [
+            "Y",
+            "R",
+            "A",
+            "L",
+            "I",
+            "Ş"
+        ],
+        "words_info": {
+            "word_count": 25,
+            "sum_score": 138,
+            "panagram_count": 1,
+            "word_length": {
+                "4": 5,
+                "5": 8,
+                "10": 2,
+                "6": 8,
+                "8": 1,
+                "9": 1
+            }
+        },
+        "words": [
+            {
+                "word": "ADAŞ",
+                "explanation": "is. adları eyni olan adamlar. o mənimlə***dır. ***lar gəldilər. – dodaqlarındakövrək təbəssüm",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "ADLI",
+                "explanation": "sif. 1. müəyyən adı olan",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "DARI",
+                "explanation": "is. yumru toxumları olan birillik taxılbitkisi və bu bitkinin dəni. *** əkini. – actoyuq yuxusunda *** görər",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "DAYI",
+                "explanation": "is. 1. ananın qardaşı. 2. qoca və ya yaşlı kişiyə müraciət edərkən",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "YARD",
+                "explanation": "[ing.] 81 sm-ə bərabər olan ingilisuzunluq ölçüsü. // 1",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 5
+            },
+            {
+                "word": "ADYAL",
+                "explanation": "is. [əsli rus.] yun və ya iplikdəntoxunma birqat yorğan. nəriman gah ***üstünə atılmış sədəfli tara",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 6
+            },
+            {
+                "word": "DADAŞ",
+                "explanation": "is. kiçik qardaş və bacıların böyükqardaşa verdikləri ad; böyük qardaşa müraciət.bir gün gəldim",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 7
+            },
+            {
+                "word": "DADLI",
+                "explanation": "1. sif. yaxşı dadı olan",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 8
+            },
+            {
+                "word": "DALDA",
+                "explanation": "1. sif. sığınmağa və ya gizlənməyəyarayan. *** yer. *** divar.– kosa boşalmış küçənin *** yeri ilə yeriyibat tövlələrinin yanına çatdı",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 9
+            },
+            {
+                "word": "DALLI",
+                "explanation": "sif. dalları (budaqları) olan. ***ağac",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 10
+            },
+            {
+                "word": "DAŞLI",
+                "explanation": "sif. 1. daşı olan",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 11
+            },
+            {
+                "word": "RADAR",
+                "explanation": "[ing.] bax radiolokator. radiolokasiyadaişlədilən qurğulara radiolokatordeyilir. bəzi yerlərdə bunları müxtəsər olaraq*** adlandırırlar",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 12
+            },
+            {
+                "word": "YAŞID",
+                "explanation": "is. və sif. bir başqası ilə bir yaşda olan (adam); həmyaş. baxdı",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 13
+            },
+            {
+                "word": "DARAYI",
+                "explanation": "is. köhn. qırmızı-bənövşəyi rənglinazik",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 14
+            },
+            {
+                "word": "DAYDAY",
+                "explanation": "is. uşaq dilində: dayı. [səttar:]… sabah anan məni kürdəxanıya ***giləaparacaq… ə.məmmədxanlı",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 15
+            },
+            {
+                "word": "DAYILI",
+                "explanation": "sif. 1. dayısı olan.2. məc. dan. havadarı",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 16
+            },
+            {
+                "word": "DIŞARI",
+                "explanation": "is. bayır",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 17
+            },
+            {
+                "word": "LAYDIR",
+                "explanation": "is. kotanın torpağı çevirən hissəsi",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 18
+            },
+            {
+                "word": "ŞADARA",
+                "explanation": "is. buğdanın",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 19
+            },
+            {
+                "word": "ŞARADA",
+                "explanation": "is. [fr.] cavabı müxtəlif sözlərdənibarət tapmaca. isti + ot = istiot",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 20
+            },
+            {
+                "word": "YADDAŞ",
+                "explanation": "is. bir şeyi zehnində saxlamaqvə yenidən təsəvvürdə canlandırmaq qabiliyyəti;hafizə. ***ı inkişaf etdirmək",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 21
+            },
+            {
+                "word": "YADDAŞLI",
+                "explanation": "sif. yaddaşı",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 22
+            },
+            {
+                "word": "DADLIDADLI",
+                "explanation": "1) sif. ləzzətli-ləzzətli",
+                "isPanagram": false,
+                "score": 10,
+                "length": 10,
+                "id": 23
+            },
+            {
+                "word": "DALAYDALAY",
+                "explanation": "is. xanəndələrin oxumağabaşlarkən əvvəlcə giriş kimi söylədiklərisöz",
+                "isPanagram": false,
+                "score": 10,
+                "length": 10,
+                "id": 24
+            },
+            {
+                "word": "YARADILIŞ",
+                "explanation": "is. 1. yaratmaq işi; yaradılma",
+                "isPanagram": true,
+                "score": 17,
+                "length": 9,
+                "id": 25
+            }
+        ]
+    }
+}

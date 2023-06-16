@@ -1,0 +1,230 @@
+{
+    "gameData": {
+        "day": "20240530",
+        "expiration": "1717113540",
+        "centerLetter": "B",
+        "outerLetters": [
+            "Ə",
+            "Y",
+            "L",
+            "C",
+            "İ",
+            "S"
+        ],
+        "words_info": {
+            "word_count": 25,
+            "sum_score": 111,
+            "panagram_count": 1,
+            "word_length": {
+                "4": 9,
+                "5": 9,
+                "9": 1,
+                "6": 3,
+                "8": 1,
+                "7": 2
+            }
+        },
+        "words": [
+            {
+                "word": "BƏBƏ",
+                "explanation": "is. 1. körpə uşaq",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "BİBİ",
+                "explanation": "is. övlad üçün atanın bacısı",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "CƏLB",
+                "explanation": "[ər.] özünəçəkmə",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "ƏBƏS",
+                "explanation": "sif. [ər.] 1. nahaq",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "ƏCƏB",
+                "explanation": "sif. [ər.] 1. klas. təəccüblü",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 5
+            },
+            {
+                "word": "ƏCİB",
+                "explanation": "[ər.] bax əcaib",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 6
+            },
+            {
+                "word": "ƏSBƏ",
+                "explanation": "is. qızdırma ilə başlayıb",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 7
+            },
+            {
+                "word": "ƏSƏB",
+                "explanation": "is. [ər.] anat. fiziol. 1. insan",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 8
+            },
+            {
+                "word": "SƏBİ",
+                "explanation": "is. [ər.] 1. məğlub edilmiş tərəfdənəsir tutulub satılan adam.2. həddi-büluğa çatmamış oğlan; gənc",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 9
+            },
+            {
+                "word": "BƏLLİ",
+                "explanation": "sif. aydın",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 10
+            },
+            {
+                "word": "BİLLƏ",
+                "explanation": "is. məh. uşaqlara verilən hər cürşirniyyat",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 11
+            },
+            {
+                "word": "CƏBƏL",
+                "explanation": "is. məh. dağ",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 12
+            },
+            {
+                "word": "CİBLİ",
+                "explanation": "sif. cibi",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 13
+            },
+            {
+                "word": "ƏCİBƏ",
+                "explanation": "[ər.] bax əcaib",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 14
+            },
+            {
+                "word": "ƏSƏBİ",
+                "explanation": "sif. [ər.] 1. sinirləri son dərəcəhəssas olduğu üçün cüzi bir şeydən çox tez***ləşən",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 15
+            },
+            {
+                "word": "SƏBƏB",
+                "explanation": "is. [ər.] 1. bir şeyin",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 16
+            },
+            {
+                "word": "SƏLBƏ",
+                "explanation": "is. 1. ağacdan meyvəni salmaq",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 17
+            },
+            {
+                "word": "SƏLİB",
+                "explanation": "is. [ər.] xaç. bir çoxlarının başlarındakı*** qırılmış",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 18
+            },
+            {
+                "word": "BİƏSİL",
+                "explanation": "sif. [fars. bi… və ər. əsil] əsilsiz",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 19
+            },
+            {
+                "word": "BİLİCİ",
+                "explanation": "sif. və is. bilən",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 20
+            },
+            {
+                "word": "ƏLBƏSƏ",
+                "explanation": "is. [ər. “əlbisə” – “libas” söz.cəmi] köhn. libas",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 21
+            },
+            {
+                "word": "LƏBLƏBİ",
+                "explanation": "is. çərəz kimi yeyilən qovrulmuşqabıqsız noxud. əkdiyim noxud",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 22
+            },
+            {
+                "word": "SƏBƏBLİ",
+                "explanation": "sif. müəyyən səbəbi olan",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 23
+            },
+            {
+                "word": "ƏLBƏSƏLİ",
+                "explanation": "sif. köhn. əlbəsə geymiş",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 24
+            },
+            {
+                "word": "BƏSLƏYİCİ",
+                "explanation": "sif. 1. tərbiyə edib böyüdən",
+                "isPanagram": true,
+                "score": 17,
+                "length": 9,
+                "id": 25
+            }
+        ]
+    }
+}

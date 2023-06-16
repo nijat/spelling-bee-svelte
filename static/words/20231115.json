@@ -1,0 +1,263 @@
+{
+    "gameData": {
+        "day": "20231115",
+        "expiration": "1700092740",
+        "centerLetter": "R",
+        "outerLetters": [
+            "B",
+            "A",
+            "N",
+            "I",
+            "Ğ",
+            "Y"
+        ],
+        "words_info": {
+            "word_count": 29,
+            "sum_score": 141,
+            "panagram_count": 1,
+            "word_length": {
+                "4": 9,
+                "6": 4,
+                "8": 1,
+                "7": 2,
+                "5": 10,
+                "9": 1,
+                "10": 2
+            }
+        },
+        "words": [
+            {
+                "word": "ABIR",
+                "explanation": "is. [fars.] 1. həya",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "AĞIR",
+                "explanation": "sif. 1. böyük çəkisi",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "AĞRI",
+                "explanation": "is. 1. duyğu sinirlərinin qıcıqlanmasınəticəsində bədənin hər hansı bir yerindəhiss edilən əziyyət",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "ANRI",
+                "explanation": "zərf və sif. dan. 1. o yan",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "ARAN",
+                "explanation": "is. azərbaycanda: yaylaq yerlərənisbətən alçaq və iqlimcə isti olan yerlər.azərbaycanın əsas *** yerləri muğan",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 5
+            },
+            {
+                "word": "AYAR",
+                "explanation": "is. dan. 1. barama",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 6
+            },
+            {
+                "word": "BARI",
+                "explanation": "is. [fars.] hasar",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 7
+            },
+            {
+                "word": "YARA",
+                "explanation": "is. 1. bədən",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 8
+            },
+            {
+                "word": "YARI",
+                "explanation": "is. tən bölünmüş iki hissədən biri. eyni ***sı. almanın ***sı. kitabın ***sını oxudum. ömrünün ***sını səhayətdə keçirmişdir",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 9
+            },
+            {
+                "word": "ANBAR",
+                "explanation": "is. taxıl",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 10
+            },
+            {
+                "word": "ARABA",
+                "explanation": "is. iki və ya dördtəkərli nəqliyyatvasitəsi. minik ***sı. yük ***sı. əl ***sı(əl ilə sürülən ***)",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 11
+            },
+            {
+                "word": "AYRAN",
+                "explanation": "is. yağı alınıb su qarışdırılmışqatıq. heç kəs öz ***ına turş deməz. (ata.sözü). masanın üzərində böyük bir mətərəbuzlu *** qoyulmuşdu",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 12
+            },
+            {
+                "word": "BAĞIR",
+                "explanation": "is. 1. qaraciyər.2. ürək",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 13
+            },
+            {
+                "word": "BARAN",
+                "explanation": "is. [fars.] klas. yağış",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 14
+            },
+            {
+                "word": "BAYIR",
+                "explanation": "is. 1. binanın və s.-nin xarici; eşik",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 15
+            },
+            {
+                "word": "NARIN",
+                "explanation": "sif. 1. son dərəcə xırda",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 16
+            },
+            {
+                "word": "YAĞIR",
+                "explanation": "is. bel sümüyünün üstündə əmələgələn",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 17
+            },
+            {
+                "word": "YANAR",
+                "explanation": "sif. odpüskürən",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 18
+            },
+            {
+                "word": "YARIN",
+                "explanation": "is. [türk.] kit. sabah",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 19
+            },
+            {
+                "word": "AĞARAN",
+                "explanation": "f.sif. 1. uzaqdan görünən",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 20
+            },
+            {
+                "word": "BAĞARA",
+                "explanation": "is. məh. 1. bax tağalaq.2. dayaz quyulardan dol ilə su",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 21
+            },
+            {
+                "word": "NAĞARA",
+                "explanation": "is. hər iki üzünə dəri çəkilmişsilindrik gövdəli zərb musiqi aləti. ***çalmaq. – kəndin yuxarı tərəfində qarazurnamələyir",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 22
+            },
+            {
+                "word": "YARĞAN",
+                "explanation": "is. müvəqqəti su axınlarınınəmələ gətirdiyi dikyamaclı çuxur",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 23
+            },
+            {
+                "word": "AĞRIYAN",
+                "explanation": "f.sif. əziyyət verən",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 24
+            },
+            {
+                "word": "YARANAN",
+                "explanation": "f.sif. yaradılmış",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 25
+            },
+            {
+                "word": "AĞIRYANA",
+                "explanation": "sif. dan. 1. münasib",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 26
+            },
+            {
+                "word": "YAĞAYIRAN",
+                "explanation": "is. xüs. tərkibində yağ olanmaddəni tərkib hissələrinə ayırmaq və yaonu yağdan təmizləmək üçün cihaz",
+                "isPanagram": false,
+                "score": 9,
+                "length": 9,
+                "id": 27
+            },
+            {
+                "word": "YANARYANAR",
+                "explanation": "sif. yanmaqda olan. yenəməni yanar-yanar odlara; dağılmış ayrılıqsaldı",
+                "isPanagram": false,
+                "score": 10,
+                "length": 10,
+                "id": 28
+            },
+            {
+                "word": "YARIBAYĞIN",
+                "explanation": "sif. və zərf tam bayğınolmayan; azacıq bayğın",
+                "isPanagram": true,
+                "score": 17,
+                "length": 10,
+                "id": 29
+            }
+        ]
+    }
+}

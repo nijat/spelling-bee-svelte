@@ -1,0 +1,236 @@
+{
+    "gameData": {
+        "day": "20240318",
+        "expiration": "1710806340",
+        "centerLetter": "L",
+        "outerLetters": [
+            "J",
+            "E",
+            "A",
+            "T",
+            "N",
+            "İ"
+        ],
+        "words_info": {
+            "word_count": 26,
+            "sum_score": 104,
+            "panagram_count": 1,
+            "word_length": {
+                "7": 3,
+                "5": 10,
+                "4": 11,
+                "6": 2
+            }
+        },
+        "words": [
+            {
+                "word": "ATİL",
+                "explanation": "sif. [ər.] tənbəl",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "ELAN",
+                "explanation": "is. [ər.] 1. yazılı",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "ELİT",
+                "explanation": "[fr.] k.t. 1. bitki və heyvanların ən seçmə",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "ELLİ",
+                "explanation": "sif. 1 vətəni",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "ELTİ",
+                "explanation": "is. qardaş arvadlarının bir-birinəolan qohumluq münasibəti",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 5
+            },
+            {
+                "word": "ENLİ",
+                "explanation": "sif. en cəhətdən geniş olan",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 6
+            },
+            {
+                "word": "JELE",
+                "explanation": "is. [fr.] meyvə şirələrindən hazırlananhəlməşik desert yeməyi",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 7
+            },
+            {
+                "word": "LENT",
+                "explanation": "is. [alm.] 1. bəzək və s. üçün işlədiləndar",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 8
+            },
+            {
+                "word": "NAİL",
+                "explanation": "[ər.] : *** olmaq – əldə etmək",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 9
+            },
+            {
+                "word": "TALA",
+                "explanation": "is. meşədə ağacsız",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 10
+            },
+            {
+                "word": "TALE",
+                "explanation": "is. [ər.] 1. bəxt",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 11
+            },
+            {
+                "word": "ALANA",
+                "explanation": "is. içərisi şəkərli qozla doldurulmuşmeyvə qurusu (armud",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 12
+            },
+            {
+                "word": "ELİTA",
+                "explanation": "[fr.] k.t. 1. bitki və heyvanların ən seçmə",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 13
+            },
+            {
+                "word": "ETİLA",
+                "explanation": "[ər.] tənt. klas. yüksəlmə",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 14
+            },
+            {
+                "word": "JİLET",
+                "explanation": "[fr.] pencək və s. altından geyilənqısa",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 15
+            },
+            {
+                "word": "LİANA",
+                "explanation": "[fr.] bot. tropik meşələrdə",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 16
+            },
+            {
+                "word": "LİLLİ",
+                "explanation": "sif. lehməli",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 17
+            },
+            {
+                "word": "NALAN",
+                "explanation": "sif. və zərf [fars.] ağlayan",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 18
+            },
+            {
+                "word": "TALAN",
+                "explanation": "is. [fars.] 1. qarət",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 19
+            },
+            {
+                "word": "TELLİ",
+                "explanation": "sif. telləri olan; tellərini alnına tökmüş;saçlı",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 20
+            },
+            {
+                "word": "TİNLİ",
+                "explanation": "sif. tini olan; tilli. iti *** stol",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 21
+            },
+            {
+                "word": "LENTLİ",
+                "explanation": "sif. lenti olan",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 22
+            },
+            {
+                "word": "TANTAL",
+                "explanation": "is. [lat.] elementlərin dövrü sistemininv qrupundan ta-kimyəvi element",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 23
+            },
+            {
+                "word": "ALATALA",
+                "explanation": "sif. tala-tala",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 24
+            },
+            {
+                "word": "JİLETLİ",
+                "explanation": "sif. 1. jileti olan. *** kostyum.2. jilet geymiş",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 25
+            },
+            {
+                "word": "JELATİN",
+                "explanation": "[fr.] məhlulu soyudulduqdahəlməşik hala keçən üzvi zülali maddə(texnikada",
+                "isPanagram": true,
+                "score": 17,
+                "length": 7,
+                "id": 26
+            }
+        ]
+    }
+}

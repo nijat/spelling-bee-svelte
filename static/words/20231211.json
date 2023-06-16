@@ -1,0 +1,342 @@
+{
+    "gameData": {
+        "day": "20231211",
+        "expiration": "1702339140",
+        "centerLetter": "L",
+        "outerLetters": [
+            "A",
+            "O",
+            "I",
+            "Y",
+            "X",
+            "N"
+        ],
+        "words_info": {
+            "word_count": 39,
+            "sum_score": 185,
+            "panagram_count": 1,
+            "word_length": {
+                "5": 18,
+                "4": 9,
+                "7": 1,
+                "6": 9,
+                "8": 1,
+                "9": 1
+            }
+        },
+        "words": [
+            {
+                "word": "ALAY",
+                "explanation": "is. 1. camaat",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "ALIN",
+                "explanation": "is. 1. üzün saç ilə qaş arasında olanön hissəsi. geniş ***. dar ***. – süleymanbəy əyləşir yerdə",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "ALLI",
+                "explanation": "sif. köhn. al rəngli paltar geymiş.tərifli gözəllər gəlhagəl oldu; yaşıllı",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "ALLO",
+                "explanation": "[ing.] telefonla danışarkən “qulaqasıram”",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "ANLI",
+                "explanation": "sif. qəd. ağıllı",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 5
+            },
+            {
+                "word": "AYLI",
+                "explanation": "sif. ay işığı ilə işıqlanmış",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 6
+            },
+            {
+                "word": "XALA",
+                "explanation": "is. 1. ananın bacısı. [sultan bəy:]***nın muzdu o olar ki",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 7
+            },
+            {
+                "word": "XALI",
+                "explanation": "is. böyük xalça. azərbaycan ***ları.iran ***sı. – [hacı qambay] divardakı***lara",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 8
+            },
+            {
+                "word": "OLAY",
+                "explanation": "is. hadisə",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 9
+            },
+            {
+                "word": "ALALI",
+                "explanation": "sif. alası olan",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 10
+            },
+            {
+                "word": "ALANA",
+                "explanation": "is. içərisi şəkərli qozla doldurulmuşmeyvə qurusu (armud",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 11
+            },
+            {
+                "word": "ANALI",
+                "explanation": "sif. anası olan. *** uşaq. ***quzu. – *** quzu",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 12
+            },
+            {
+                "word": "XALLI",
+                "explanation": "sif. 1. üzündə xalı olan. iki övladanası",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 13
+            },
+            {
+                "word": "XILXA",
+                "explanation": "sif. və is. geyməyə və ya işlətməyəyaramayan; gərəksiz",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 14
+            },
+            {
+                "word": "LAYLA",
+                "explanation": "is. 1. körpə uşaqları yatırtmaq üçün hava ilə oxunan həzin şeir parçası; nənni",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 15
+            },
+            {
+                "word": "LAYLI",
+                "explanation": "sif. laylardan ibarət",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 16
+            },
+            {
+                "word": "LOYAL",
+                "explanation": "[ing. *** – sadiq] 1. dövlət hakimiyyətiqanunlarına",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 17
+            },
+            {
+                "word": "NALAN",
+                "explanation": "sif. və zərf [fars.] ağlayan",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 18
+            },
+            {
+                "word": "NALLI",
+                "explanation": "sif. nal vurulmuş; nallanmış. ***at. – əyilmiş çəkmənin *** dabanı; siyrilibpapağın o yan-bu yanı",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 19
+            },
+            {
+                "word": "YALAN",
+                "explanation": "is. aldatmaq məqsədi ilə deyilənəsilsiz söz (doğru",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 20
+            },
+            {
+                "word": "YALXA",
+                "explanation": "sif. məh. 1. yanında başqa bir şey olmayan; yalnız",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 21
+            },
+            {
+                "word": "YALXI",
+                "explanation": "sif. məh. 1. yanında başqa bir şey olmayan; yalnız",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 22
+            },
+            {
+                "word": "YALIN",
+                "explanation": "sif. 1. çılpaq",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 23
+            },
+            {
+                "word": "YALLI",
+                "explanation": "is. bir-birinin əlindən tutaraq dəstəilə oynanılan azərbaycan xalq rəqsi. *** havası.– alaq vuranların mahnıları",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 24
+            },
+            {
+                "word": "YANLI",
+                "explanation": "sif. yanı",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 25
+            },
+            {
+                "word": "YAYLA",
+                "explanation": "is. 1. ***q. [molla həmid:]allaha şükür",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 26
+            },
+            {
+                "word": "YAYLI",
+                "explanation": "sif. yayı olan. *** kürsü. ***oyuncaq. – bu vaxt əhməd *** krovatın üzərindəuzanıb ağır-ağır nəfəs alırdı",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 27
+            },
+            {
+                "word": "AYNALI",
+                "explanation": "sif. 1. aynası",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 28
+            },
+            {
+                "word": "XALXAL",
+                "explanation": "is. heyvanlara məxsus binalardaayrıca bölmə. ***ı təmiz saxlamalı.– [zərnigar xanım] əlində çatı",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 29
+            },
+            {
+                "word": "XANALI",
+                "explanation": "sif. xanası olan",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 30
+            },
+            {
+                "word": "XILXIN",
+                "explanation": "sif. sınıq",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 31
+            },
+            {
+                "word": "XINALI",
+                "explanation": "sif. 1. xına çəkilmiş",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 32
+            },
+            {
+                "word": "LAYLAY",
+                "explanation": "is. 1. körpə uşaqları yatırtmaq üçün hava ilə oxunan həzin şeir parçası; nənni",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 33
+            },
+            {
+                "word": "YAXALI",
+                "explanation": "sif. yaxası olan. rüstəm bəy – rusintelligent libasında: yəni pidjak",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 34
+            },
+            {
+                "word": "YIXILI",
+                "explanation": "sif. yıxıq",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 35
+            },
+            {
+                "word": "YOLYOL",
+                "explanation": "sif. miləmil",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 36
+            },
+            {
+                "word": "ANLAYAN",
+                "explanation": "f.sif. başa düşən",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 37
+            },
+            {
+                "word": "XALAXALA",
+                "explanation": "is. kiçik qızların gəlincikləoynadıqları oyun adı; gəlin-gəlin",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 38
+            },
+            {
+                "word": "YOLAYAXIN",
+                "explanation": "sif. sözə qulaq asan; sözeşidən",
+                "isPanagram": true,
+                "score": 17,
+                "length": 9,
+                "id": 39
+            }
+        ]
+    }
+}

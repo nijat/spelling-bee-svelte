@@ -1,0 +1,336 @@
+{
+    "gameData": {
+        "day": "20240104",
+        "expiration": "1704412740",
+        "centerLetter": "T",
+        "outerLetters": [
+            "R",
+            "A",
+            "V",
+            "L",
+            "I",
+            "M"
+        ],
+        "words_info": {
+            "word_count": 38,
+            "sum_score": 193,
+            "panagram_count": 1,
+            "word_length": {
+                "7": 5,
+                "10": 1,
+                "11": 1,
+                "4": 12,
+                "5": 9,
+                "6": 5,
+                "8": 4,
+                "9": 1
+            }
+        },
+        "words": [
+            {
+                "word": "ARAT",
+                "explanation": "is. k.t. şumlanıb sulanmış",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "ATAT",
+                "explanation": "is. uşaqların ağac üstə minərəkoynadıqları oyun. at-at oynamaq",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "ATIM",
+                "explanation": "is. 1. atmaq işi.2. yalnız bir",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "ATLI",
+                "explanation": "1. sif. at minmiş",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "ATMA",
+                "explanation": "“***q”dan f.is. və s. *** nizə.ən qədim insanların ilk *** silahı daş",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 5
+            },
+            {
+                "word": "LIRT",
+                "explanation": "sif. 1. çox dəyib sulanmış. *** armud.*** əzgil.2. məc. süst",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 6
+            },
+            {
+                "word": "MART",
+                "explanation": "[lat.] təqvim ilinin üçüncü ayı.*** qırğınları. – *** çıxdı",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 7
+            },
+            {
+                "word": "TAAM",
+                "explanation": "is. [ər.] 1. xörək",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 8
+            },
+            {
+                "word": "TALA",
+                "explanation": "is. meşədə ağacsız",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 9
+            },
+            {
+                "word": "TAVA",
+                "explanation": "is. içində ət və s. qızartmaq üçünkənarları yastı",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 10
+            },
+            {
+                "word": "TAVR",
+                "explanation": "is. krımın cənub hissəsinin qədiməhalisi",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 11
+            },
+            {
+                "word": "TRAL",
+                "explanation": "is.[ing.] balıq ovlamaq üçün iri tor",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 12
+            },
+            {
+                "word": "ARTIM",
+                "explanation": "is. 1. sayca",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 13
+            },
+            {
+                "word": "ARTMA",
+                "explanation": "1. “***q”dan f.is.2. is. artan şey",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 14
+            },
+            {
+                "word": "ATALI",
+                "explanation": "sif. atası olan. *** uşaq. ***(z.) böyümək",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 15
+            },
+            {
+                "word": "MARIT",
+                "explanation": "is. dan. ov itlərinin ovu gördükdə aldıqları gərgin",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 16
+            },
+            {
+                "word": "TAMAM",
+                "explanation": "is. [ər.] 1. bitmə",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 17
+            },
+            {
+                "word": "TAMLI",
+                "explanation": "sif. 1. dadlı",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 18
+            },
+            {
+                "word": "TARLA",
+                "explanation": "is. taxıl",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 19
+            },
+            {
+                "word": "TATAR",
+                "explanation": "is. 1. ***ıstanın əsas əhalisinitəşkil edən türkdilli xalq və bu xalqa mənsubadam.2. volqaboyunda",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 20
+            },
+            {
+                "word": "TAVAR",
+                "explanation": "is. balaq (camış balası)",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 21
+            },
+            {
+                "word": "ATLAMA",
+                "explanation": "is. su qatılaraq duru hala salınmışqatıq; ayran. yayın ***sı",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 22
+            },
+            {
+                "word": "TALVAR",
+                "explanation": "is. 1. günəşdən",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 23
+            },
+            {
+                "word": "TARMAR",
+                "explanation": "sif. 1. bir-birinə qarışmış",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 24
+            },
+            {
+                "word": "TATARI",
+                "explanation": "is. qırmanc",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 25
+            },
+            {
+                "word": "TIRTIL",
+                "explanation": "is. 1. zool. bir neçə cütayaqlı qurdabənzərbədəni olan kəpənək sürfəsi. kəpənək***ı.2. yoldakı maneələri keçmə qabiliyyətiniartırmaq üçün maşın",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 26
+            },
+            {
+                "word": "ALATALA",
+                "explanation": "sif. tala-tala",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 27
+            },
+            {
+                "word": "ARTIMLI",
+                "explanation": "sif. çox artım verən",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 28
+            },
+            {
+                "word": "ARTIRMA",
+                "explanation": "is. 1. eyvan",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 29
+            },
+            {
+                "word": "MIRILTI",
+                "explanation": "is. 1. itlərin bir şeydən xoşlanmadıqlarızaman çıxardıqları yavaş alçaq səs.[dərviş:] malların göyşəyi",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 30
+            },
+            {
+                "word": "TIRILTI",
+                "explanation": "is. tır-tır səsi. həyətdə eşidilənmotor ***sı qoşqarın əzablı düşüncələriniyarıda qırdı. i.hüseynov",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 31
+            },
+            {
+                "word": "MALAALTI",
+                "explanation": "sif. malanın altı üçün olan",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 32
+            },
+            {
+                "word": "TALVARLI",
+                "explanation": "sif. talvarı olan",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 33
+            },
+            {
+                "word": "TIRTILLI",
+                "explanation": "sif. tırtılı olan",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 34
+            },
+            {
+                "word": "TAMAMLAMA",
+                "explanation": "1. “***q”dan f.is.2. is. əgər-əskiyini düzəltmə",
+                "isPanagram": false,
+                "score": 9,
+                "length": 9,
+                "id": 35
+            },
+            {
+                "word": "ALTIAVARLI",
+                "explanation": "sif. üç cüt avarı olan.*** qayıq",
+                "isPanagram": false,
+                "score": 10,
+                "length": 10,
+                "id": 36
+            },
+            {
+                "word": "ALTITARLALI",
+                "explanation": "sif. k.t. altı ildən bir dövredən (əkin dəyişmə). *** təsərrüfat.*** əkin",
+                "isPanagram": false,
+                "score": 11,
+                "length": 11,
+                "id": 37
+            },
+            {
+                "word": "TRAVMALI",
+                "explanation": "sif. travması olan",
+                "isPanagram": true,
+                "score": 17,
+                "length": 8,
+                "id": 38
+            }
+        ]
+    }
+}

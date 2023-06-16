@@ -1,0 +1,447 @@
+{
+    "gameData": {
+        "day": "20240119",
+        "expiration": "1705708740",
+        "centerLetter": "L",
+        "outerLetters": [
+            "A",
+            "D",
+            "Z",
+            "Ğ",
+            "I",
+            "M"
+        ],
+        "words_info": {
+            "word_count": 52,
+            "sum_score": 279,
+            "panagram_count": 1,
+            "word_length": {
+                "10": 3,
+                "6": 11,
+                "7": 8,
+                "4": 10,
+                "5": 17,
+                "8": 2,
+                "9": 1
+            }
+        },
+        "words": [
+            {
+                "word": "ADLI",
+                "explanation": "sif. 1. müəyyən adı olan",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "AĞIL",
+                "explanation": "is. içərisində mal-qara və qoyunsaxlamaq üçün ətrafı tikan və ya ağac iləhasarlanmış üstüaçıq yer. qoyunlar s***ıbqurtardıqdan sonra",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "ALAM",
+                "explanation": "is. [ər. “ələm” söz. cəmi] qəm",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "ALĞI",
+                "explanation": "is. satın alma işi",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "ALIM",
+                "explanation": "is. köhn. 1. alacaq",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 5
+            },
+            {
+                "word": "ALLI",
+                "explanation": "sif. köhn. al rəngli paltar geymiş.tərifli gözəllər gəlhagəl oldu; yaşıllı",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 6
+            },
+            {
+                "word": "ALMA",
+                "explanation": "is. müxtəlif çeşidləri və müxtəlif rənglərdə olan girdə",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 7
+            },
+            {
+                "word": "AMAL",
+                "explanation": "is. [ər. “əməl” söz. cəmi] tənt. qayə",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 8
+            },
+            {
+                "word": "LIĞA",
+                "explanation": "is. qatı",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 9
+            },
+            {
+                "word": "MALA",
+                "explanation": "is. [fars.] 1. binanın iç və bayırdivarlarına çəkmək üçün əhəng",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 10
+            },
+            {
+                "word": "AĞILI",
+                "explanation": "sif. zəhərli",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 11
+            },
+            {
+                "word": "ALALI",
+                "explanation": "sif. alası olan",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 12
+            },
+            {
+                "word": "ALMAZ",
+                "explanation": "is. 1. son dərəcə bərk",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 13
+            },
+            {
+                "word": "DADLI",
+                "explanation": "1. sif. yaxşı dadı olan",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 14
+            },
+            {
+                "word": "DAĞAL",
+                "explanation": "sif. və is. dan. cığal; davakar.*** adam. oyuna *** qatmaq (cığallıqeləmək)",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 15
+            },
+            {
+                "word": "DAĞLI",
+                "explanation": "is. ***q yerdə yaşayan adam.burada ***lar yaşar bəxtiyar; qürurdanaralı",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 16
+            },
+            {
+                "word": "DALDA",
+                "explanation": "1. sif. sığınmağa və ya gizlənməyəyarayan. *** yer. *** divar.– kosa boşalmış küçənin *** yeri ilə yeriyibat tövlələrinin yanına çatdı",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 17
+            },
+            {
+                "word": "DALĞA",
+                "explanation": "is. 1. su səthinin hərəkəti nəticəsində əmələ gələn böyük ləpə. dənizdə *** var. köpüklü ***lar. – qabağındakı daşlara toxunan ***ların hər biri",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 18
+            },
+            {
+                "word": "DALLI",
+                "explanation": "sif. dalları (budaqları) olan. ***ağac",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 19
+            },
+            {
+                "word": "LAĞIM",
+                "explanation": "is. 1. yeraltı yol",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 20
+            },
+            {
+                "word": "LAZIM",
+                "explanation": "sif. [ər.] 1. mütləq gərək olan",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 21
+            },
+            {
+                "word": "MALLI",
+                "explanation": "sif. mal-qarası olan",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 22
+            },
+            {
+                "word": "MAZLI",
+                "explanation": "sif. maz sürtülmüş",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 23
+            },
+            {
+                "word": "ZAĞLI",
+                "explanation": "sif. zağ verilmiş",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 24
+            },
+            {
+                "word": "ZALIM",
+                "explanation": "sif. və is. [ər.] 1. zülm edən",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 25
+            },
+            {
+                "word": "ZIĞLI",
+                "explanation": "sif. 1. palçıqlı",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 26
+            },
+            {
+                "word": "ZILĞA",
+                "explanation": "is. məh. 1. quşun yeni yumurtadançıxmış tüksüz balası; ətcəbala. gözününönündə qara",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 27
+            },
+            {
+                "word": "ADAMLI",
+                "explanation": "sif. dan. yaxın adamı",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 28
+            },
+            {
+                "word": "AĞILLI",
+                "explanation": "sif. 1. dərrakəli",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 29
+            },
+            {
+                "word": "AĞIZLI",
+                "explanation": "sif. 1. ağzı olan (bax ağız1 2-cimənada). *** şüşə. *** qab.2. kəsici tərəfi olan (alət və s",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 30
+            },
+            {
+                "word": "AĞLAMA",
+                "explanation": "1. “***q”dan f.is.2. məc. fəryad. nəriltisi",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 31
+            },
+            {
+                "word": "AĞMALA",
+                "explanation": "is. məh. 1. divara çəkilən birincimala (suvaq).2. çəltik şumunda sürülən ilk mala",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 32
+            },
+            {
+                "word": "ALADAĞ",
+                "explanation": "sif. dan. yanıq bişirilmiş (çörəkvə s.)",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 33
+            },
+            {
+                "word": "ALMAZI",
+                "explanation": "sif. almaz kimi şəffaf; duru",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 34
+            },
+            {
+                "word": "DAMALI",
+                "explanation": "sif. üzərində damalar olan",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 35
+            },
+            {
+                "word": "LAĞLAĞ",
+                "explanation": "sif. və zərf 1. boş",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 36
+            },
+            {
+                "word": "MALALI",
+                "explanation": "sif. mala çəkilmiş",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 37
+            },
+            {
+                "word": "MAZĞAL",
+                "explanation": "is. qala divarlarında və s.-dəatışma üçün qoyulan deşik. o",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 38
+            },
+            {
+                "word": "ADDIMLI",
+                "explanation": "sif. yeriyərkən iri addım atan",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 39
+            },
+            {
+                "word": "DADAMAL",
+                "explanation": "sif. dan. bir şeyə (adətən arzuedilməyən şeyə) dadanmış",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 40
+            },
+            {
+                "word": "DADMALI",
+                "explanation": "1. is. yeməli",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 41
+            },
+            {
+                "word": "DALĞALI",
+                "explanation": "sif. 1. dalğası olan",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 42
+            },
+            {
+                "word": "DAMĞALI",
+                "explanation": "sif. 1. damğası olan",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 43
+            },
+            {
+                "word": "LAĞLAĞI",
+                "explanation": "sif. çoxdanışan",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 44
+            },
+            {
+                "word": "LAZIMLI",
+                "explanation": "sif. yararlı",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 45
+            },
+            {
+                "word": "MALAMAL",
+                "explanation": "sif. və zərf [fars.] dolu",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 46
+            },
+            {
+                "word": "AĞLAMALI",
+                "explanation": "sif. pis",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 47
+            },
+            {
+                "word": "MAZĞALLI",
+                "explanation": "sif. mazğalı olan. dırmaşmışdı uşaqlar; *** divarlara. ə.cavad",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 48
+            },
+            {
+                "word": "DAĞIDILMA",
+                "explanation": "“***q”dan f.is. mənözüm … küçədən keçərkən yenə bir nəfərpristavın dükanın ***sına mane olduğunugördüm",
+                "isPanagram": false,
+                "score": 9,
+                "length": 9,
+                "id": 49
+            },
+            {
+                "word": "ADAMAĞILLI",
+                "explanation": "sif. lazımi şəkildə",
+                "isPanagram": false,
+                "score": 10,
+                "length": 10,
+                "id": 50
+            },
+            {
+                "word": "DADLIDADLI",
+                "explanation": "1) sif. ləzzətli-ləzzətli",
+                "isPanagram": false,
+                "score": 10,
+                "length": 10,
+                "id": 51
+            },
+            {
+                "word": "DAĞIDILMAZ",
+                "explanation": "sif. dağıdıla bilməyən;yıxılmaz",
+                "isPanagram": true,
+                "score": 17,
+                "length": 10,
+                "id": 52
+            }
+        ]
+    }
+}

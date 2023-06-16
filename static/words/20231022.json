@@ -1,0 +1,157 @@
+{
+    "gameData": {
+        "day": "20231022",
+        "expiration": "1698019140",
+        "centerLetter": "Ş",
+        "outerLetters": [
+            "K",
+            "Ə",
+            "D",
+            "Ö",
+            "C",
+            "N"
+        ],
+        "words_info": {
+            "word_count": 16,
+            "sum_score": 79,
+            "panagram_count": 1,
+            "word_length": {
+                "5": 6,
+                "7": 3,
+                "9": 1,
+                "4": 5,
+                "6": 1
+            }
+        },
+        "words": [
+            {
+                "word": "KÖŞƏ",
+                "explanation": "is. köhn. dəridən",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "KÖŞK",
+                "explanation": "is. 1. bağ-bağça içində tikilmiş bəzəkliev; imarət",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "NƏŞƏ",
+                "explanation": "is. [ər.] kef",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "ŞƏKK",
+                "explanation": "is. [ər.] bir şeyin gerçəkliyinə",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "ŞÖKƏ",
+                "explanation": "is. nazik çubuq dəstəsi. yolunanyeddi yaşında bir oğlan … ayaqyalın",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 5
+            },
+            {
+                "word": "DƏŞNƏ",
+                "explanation": "is. [fars.] köhn. kiçik xəncər",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 6
+            },
+            {
+                "word": "DÖŞƏK",
+                "explanation": "is. davamlı parçadan hazırlanmışvə üzərində yatmaq üçün içərisi yun",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 7
+            },
+            {
+                "word": "ƏŞƏDD",
+                "explanation": "sif. [ər.] şiddətli",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 8
+            },
+            {
+                "word": "KÖŞƏK",
+                "explanation": "is. dəvə balası. dəvəni itirib ***axtarır. (ata. sözü). qoyun",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 9
+            },
+            {
+                "word": "ŞƏDDƏ",
+                "explanation": "is. [ər.] 1. bax təşdid.2. sapa düzülmüş mirvari",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 10
+            },
+            {
+                "word": "ŞƏŞƏƏ",
+                "explanation": "is. [ər.] klas. tənt. 1. parlaqlıq",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 11
+            },
+            {
+                "word": "ŞƏNŞƏN",
+                "explanation": "sif. və zərf sevinə-sevinə",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 12
+            },
+            {
+                "word": "DÖŞƏKCƏ",
+                "explanation": "is. üstündə bir adam oturmaqüçün kiçik döşək. evin yuxarı başında uşaqlarınatası üçün xüsusi *** salınardı",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 13
+            },
+            {
+                "word": "DÖŞƏNƏK",
+                "explanation": "is. yerə",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 14
+            },
+            {
+                "word": "ÖCƏŞKƏN",
+                "explanation": "sif. öcəşməyi",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 15
+            },
+            {
+                "word": "DÖŞƏNƏCƏK",
+                "explanation": "is. 1. yerə döşənilən",
+                "isPanagram": true,
+                "score": 17,
+                "length": 9,
+                "id": 16
+            }
+        ]
+    }
+}

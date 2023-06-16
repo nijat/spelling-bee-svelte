@@ -1,0 +1,238 @@
+{
+    "gameData": {
+        "day": "20230724",
+        "expiration": "1690243140",
+        "centerLetter": "Ş",
+        "outerLetters": [
+            "L",
+            "Z",
+            "İ",
+            "N",
+            "A",
+            "Ə"
+        ],
+        "words_info": {
+            "word_count": 26,
+            "sum_score": 129,
+            "panagram_count": 1,
+            "word_length": {
+                "4": 7,
+                "5": 8,
+                "6": 7,
+                "9": 1,
+                "8": 2,
+                "7": 1
+            }
+        },
+        "words": [
+            {
+                "word": "ALAŞ",
+                "explanation": "is. bax ala1 1-ci mənada",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "AŞNA",
+                "explanation": "is. 1. dost",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "NƏŞƏ",
+                "explanation": "is. [ər.] kef",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "ŞANA",
+                "explanation": "is. otu",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "ŞANƏ",
+                "explanation": "is. [fars.] klas. daraq. xumar-xumarbaxmaq göz qaydasıdır; lalətək qızarmaq üzqaydasıdır; pərişanlıq zülfün öz qaydasıdır;nə badi-səbadan",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 5
+            },
+            {
+                "word": "ŞƏLƏ",
+                "explanation": "is. arxada aparıla biləcək qədərbağlanmış yük (şax",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 6
+            },
+            {
+                "word": "ŞİLƏ",
+                "explanation": "is. qatı düyü şorbası. nə yemisənturşulu ***. (ata. sözü). elədir",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 7
+            },
+            {
+                "word": "ALAŞA",
+                "explanation": "is. arıq at; yabı. [qardaşı:] [sadıqkişi]",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 8
+            },
+            {
+                "word": "ANAŞA",
+                "explanation": "is. dan. xaşxaşdan hasil olan çoxzəhərli narkotik maddə",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 9
+            },
+            {
+                "word": "AŞİNA",
+                "explanation": "is. və sif. [fars.] klas. 1. məlumatlı",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 10
+            },
+            {
+                "word": "LƏLƏŞ",
+                "explanation": "is. zar. bir adam özünü öydüyü",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 11
+            },
+            {
+                "word": "NİŞAN",
+                "explanation": "is. [fars.] 1. əsər",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 12
+            },
+            {
+                "word": "ŞƏŞƏƏ",
+                "explanation": "is. [ər.] klas. tənt. 1. parlaqlıq",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 13
+            },
+            {
+                "word": "ŞİNLİ",
+                "explanation": "sif. şin çəkilmiş",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 14
+            },
+            {
+                "word": "ZİŞAN",
+                "explanation": "sif. [ər.] klas. şanlı. kişidən istənilənişdir",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 15
+            },
+            {
+                "word": "ALİŞAN",
+                "explanation": "sif. [ər.] klas. 1. yüksək şan və şərəf sahibi olan. çox *** nazəninlər görmüşəm; sənin kimi şahzadə tapılmaz",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 16
+            },
+            {
+                "word": "ALİŞƏN",
+                "explanation": "sif. [ər.] klas. 1. yüksək şan və şərəf sahibi olan. çox alişan nazəninlər görmüşəm; sənin kimi şahzadə tapılmaz",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 17
+            },
+            {
+                "word": "NƏŞƏLİ",
+                "explanation": "sif. 1. şən",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 18
+            },
+            {
+                "word": "ŞANŞAN",
+                "explanation": "sif. şanlar şəklində",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 19
+            },
+            {
+                "word": "ŞƏLALƏ",
+                "explanation": "is. çay yatağında sıldırım qayadantökülən güclü su axını; çağlayan",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 20
+            },
+            {
+                "word": "ŞƏLƏLİ",
+                "explanation": "sif. dalına şələ götürmüş",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 21
+            },
+            {
+                "word": "ŞƏNŞƏN",
+                "explanation": "sif. və zərf sevinə-sevinə",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 22
+            },
+            {
+                "word": "ŞƏŞƏƏLİ",
+                "explanation": "sif. təntənəli",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 23
+            },
+            {
+                "word": "ŞANAŞANA",
+                "explanation": "sif. göz-göz",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 24
+            },
+            {
+                "word": "ŞƏLALƏLİ",
+                "explanation": "sif. şəlaləsi",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 25
+            },
+            {
+                "word": "AZİŞLƏNƏN",
+                "explanation": "sif. çox işlənməyən",
+                "isPanagram": true,
+                "score": 17,
+                "length": 9,
+                "id": 26
+            }
+        ]
+    }
+}

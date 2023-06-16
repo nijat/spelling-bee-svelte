@@ -1,0 +1,295 @@
+{
+    "gameData": {
+        "day": "20240214",
+        "expiration": "1707955140",
+        "centerLetter": "S",
+        "outerLetters": [
+            "Ğ",
+            "I",
+            "Q",
+            "L",
+            "A",
+            "C"
+        ],
+        "words_info": {
+            "word_count": 33,
+            "sum_score": 198,
+            "panagram_count": 1,
+            "word_length": {
+                "8": 6,
+                "11": 1,
+                "5": 9,
+                "4": 5,
+                "6": 7,
+                "7": 3,
+                "9": 2
+            }
+        },
+        "words": [
+            {
+                "word": "ASQI",
+                "explanation": "is. paltar və ya başqa şeylər asmağaməxsus alət. bu paltarlı skeletin iti çiyinsümükləri *** kimi ağ abanı saxlayır",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "QISA",
+                "explanation": "sif. 1. boyca gödək",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "SAQA",
+                "explanation": "is. ədəb. nəsrlə yazılmış qədim islandəsərləri",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "SALI",
+                "explanation": "is. həftənin ikinci günü",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "SIĞA",
+                "explanation": "is. [ər.] köhn. 1. kiçik uşaqlar.2. yetimlər",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 5
+            },
+            {
+                "word": "ASILI",
+                "explanation": "sif. 1. asılmış halda olan",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 6
+            },
+            {
+                "word": "QASIQ",
+                "explanation": "is. anat. qarnın iki bud arasındaolan alt tərəfi",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 7
+            },
+            {
+                "word": "QISIQ",
+                "explanation": "sif. 1. qısılmış",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 8
+            },
+            {
+                "word": "QISQI",
+                "explanation": "is. 1. tələsdirmə",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 9
+            },
+            {
+                "word": "SAQQA",
+                "explanation": "is. [ər.] köhn. keçmişdə dalında",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 10
+            },
+            {
+                "word": "SALIQ",
+                "explanation": "is. xəbər",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 11
+            },
+            {
+                "word": "SICAQ",
+                "explanation": "sif. 1. isti.2. mehriban",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 12
+            },
+            {
+                "word": "SIĞAL",
+                "explanation": "is. [ər. seyqəl] 1. bir şeyin üzərinə əlini yavaş-yavaş gəzdirmək və ya ona xəfif-xəfif toxundurmaqla öz sevgisini",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 13
+            },
+            {
+                "word": "SISQA",
+                "explanation": "sif. cılız",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 14
+            },
+            {
+                "word": "QISACA",
+                "explanation": "sif. 1. az qısa",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 15
+            },
+            {
+                "word": "QISICI",
+                "explanation": "1. sif. qısan",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 16
+            },
+            {
+                "word": "QISQAC",
+                "explanation": "is. 1. zool. rütubətli yerlərdədaşların altında yaşayan sarı rəngli",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 17
+            },
+            {
+                "word": "SAĞICI",
+                "explanation": "is. inəkləri sağan və onlara qulluqedən şəxs (əsasən qadın",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 18
+            },
+            {
+                "word": "SAĞLIQ",
+                "explanation": "is. 1. bədənin bütün üzvlərinin sağlam",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 19
+            },
+            {
+                "word": "SAQQAL",
+                "explanation": "is. 1. kişilərin üzündə və alt çənələrinin üstündə bitən tüklər. uzun ***. *** qoymaq. – [məşədi ibad:] hə… çünki mən ***ıma həna qoyuram",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 20
+            },
+            {
+                "word": "SALLAQ",
+                "explanation": "sif. sallanmış halda olan",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 21
+            },
+            {
+                "word": "QISACIQ",
+                "explanation": "sif. 1. çox qısa",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 22
+            },
+            {
+                "word": "QISALIQ",
+                "explanation": "is. qısa şeyin halı; gödəklik(uzunluq ziddi). paltarın qısalığı. söhbətinqısalığı. cavabın qısalığı",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 23
+            },
+            {
+                "word": "SIĞALLI",
+                "explanation": "sif. hamar",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 24
+            },
+            {
+                "word": "AĞSAQQAL",
+                "explanation": "sif. və is. 1. saqqalı ağarmış",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 25
+            },
+            {
+                "word": "ASILILIQ",
+                "explanation": "is. 1. birinin iradəsinə",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 26
+            },
+            {
+                "word": "QISIQLIQ",
+                "explanation": "is. 1. qısılmış (sıxılmış) şeyinhalı.2. boğuqluq",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 27
+            },
+            {
+                "word": "QISQACLI",
+                "explanation": "sif. qısqacı olan",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 28
+            },
+            {
+                "word": "SAQQALLI",
+                "explanation": "sif. 1. saqqalı olan",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 29
+            },
+            {
+                "word": "SISQALIQ",
+                "explanation": "is. cılızlıq",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 30
+            },
+            {
+                "word": "SALLAQLIQ",
+                "explanation": "is. sallaq şeyin halı; sallanmışhalda olma",
+                "isPanagram": false,
+                "score": 9,
+                "length": 9,
+                "id": 31
+            },
+            {
+                "word": "AĞSAQQALLIQ",
+                "explanation": "is. 1. qocalıq.2. məc. dan. başçılıq",
+                "isPanagram": false,
+                "score": 11,
+                "length": 11,
+                "id": 32
+            },
+            {
+                "word": "SAĞICILIQ",
+                "explanation": "is. sağıcının işi",
+                "isPanagram": true,
+                "score": 17,
+                "length": 9,
+                "id": 33
+            }
+        ]
+    }
+}

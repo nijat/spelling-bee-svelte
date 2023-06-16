@@ -1,0 +1,574 @@
+{
+    "gameData": {
+        "day": "20230910",
+        "expiration": "1694390340",
+        "centerLetter": "Ə",
+        "outerLetters": [
+            "N",
+            "B",
+            "A",
+            "Q",
+            "Ş",
+            "R"
+        ],
+        "words_info": {
+            "word_count": 68,
+            "sum_score": 239,
+            "panagram_count": 1,
+            "word_length": {
+                "4": 34,
+                "7": 2,
+                "6": 13,
+                "5": 16,
+                "8": 2,
+                "11": 1
+            }
+        },
+        "words": [
+            {
+                "word": "ANƏN",
+                "explanation": "zərf [ər.] birdən",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "BARƏ",
+                "explanation": "is. [fars.] köhn. bənd",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "BƏBƏ",
+                "explanation": "is. 1. körpə uşaq",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "BƏBR",
+                "explanation": "is. [fars.] məməli heyvanların yırtıcılar dəstəsinə mənsub pələngəoxşar heyvan. vəhşi heyvanlardan lənkəran sahəsində bəbir və respublikamızın meşələr",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "BƏQA",
+                "explanation": "is. [ər.] klas. baqilik",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 5
+            },
+            {
+                "word": "BƏRƏ",
+                "explanation": "is. 1. böyük çayların üstündə qurulanmütəhərrik körpü",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 6
+            },
+            {
+                "word": "BƏRQ",
+                "explanation": "is. [ər.] şimşək. // bədii təsvirlərdə.***ü baran sanma kim gördükdə ahüəşkimi… füzuli. // parıltı",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 7
+            },
+            {
+                "word": "ƏBNA",
+                "explanation": "is. [ər. “ibn” söz. cəmi] klas. övladlar",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 8
+            },
+            {
+                "word": "ƏNQA",
+                "explanation": "is. [ər.] klas. 1. əsatirə görə qaf(elbrus) dağında yaşamış əfsanəvi çox iribir quş; simurq.2. adı olub özü olmayan şey haqqında",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 9
+            },
+            {
+                "word": "ƏRƏR",
+                "explanation": "is. [ər.] ardıc ağacı. qəddintəknə ər-ər",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 10
+            },
+            {
+                "word": "ƏRAQ",
+                "explanation": "is. [xüs. is.-dən] mus. 1. azərbaycanklassik muğamlarından birinin adı. 12əsas muğam bunlar idi: üşşaq",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 11
+            },
+            {
+                "word": "ƏRƏB",
+                "explanation": "is. 1. ön asiyada və şimali afrikadayaşayan",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 12
+            },
+            {
+                "word": "ƏRƏQ",
+                "explanation": "is. [ər.] klas. 1. tər. ol gülüzardə***in xoş səfası var; türfə budur ki",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 13
+            },
+            {
+                "word": "ƏRƏN",
+                "explanation": "is. (adətən cəm şəklində). 1. ər",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 14
+            },
+            {
+                "word": "ƏRƏŞ",
+                "explanation": "is. köhn. dirsəkdən barmaqlarınucuna qədər olan uzunluq ölçüsü",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 15
+            },
+            {
+                "word": "ƏRRƏ",
+                "explanation": "is. [fars.] ikidəstəli iri mişar",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 16
+            },
+            {
+                "word": "ƏŞAR",
+                "explanation": "is. [ər. “şeir” söz. cəmi] şeirlər.şairəm",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 17
+            },
+            {
+                "word": "ƏŞƏR",
+                "explanation": "is. [ər.] tar. keçmişdə müəyyənməqsədlər üçün gəlirin onda biri miqdarındaverilən vergi",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 18
+            },
+            {
+                "word": "QƏBA",
+                "explanation": "is. [ər.] keçmişdə adətən mollalarıngeydiyi uzun paltar",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 19
+            },
+            {
+                "word": "QƏRB",
+                "explanation": "is. [ər.] 1. dünyanın",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 20
+            },
+            {
+                "word": "QƏRQ",
+                "explanation": "[ər.] adətən “etmək”",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 21
+            },
+            {
+                "word": "QƏŞŞ",
+                "explanation": "is. [ər.] özündən getmə",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 22
+            },
+            {
+                "word": "NANƏ",
+                "explanation": "[ər.] bot. yeyilən çoxillik ətirligöyərti növü. *** qurutmaq. üç dəstə ***.□ *** cövhəri (arağı) – ***dən çəkilənaraq",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 23
+            },
+            {
+                "word": "NƏQŞ",
+                "explanation": "[ər.] klas. bax naxış. o",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 24
+            },
+            {
+                "word": "NƏNƏ",
+                "explanation": "is. 1. atanın",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 25
+            },
+            {
+                "word": "NƏRƏ",
+                "explanation": "is. məh. evlərin üstünə qoyulan tir.su gəldi",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 26
+            },
+            {
+                "word": "NƏŞƏ",
+                "explanation": "is. [ər.] kef",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 27
+            },
+            {
+                "word": "NƏŞR",
+                "explanation": "is. [ər.] 1. çap edib yayma",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 28
+            },
+            {
+                "word": "RƏBB",
+                "explanation": "is. ər. allah",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 29
+            },
+            {
+                "word": "RƏNA",
+                "explanation": "sif. və is. [ər.] şair. 1. gözəl (qız",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 30
+            },
+            {
+                "word": "RƏŞƏ",
+                "explanation": "is. [ər.] titrəmə",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 31
+            },
+            {
+                "word": "RƏŞQ",
+                "explanation": "is. [ər.] köhn. 1. incə",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 32
+            },
+            {
+                "word": "ŞANƏ",
+                "explanation": "is. [fars.] klas. daraq. xumar-xumarbaxmaq göz qaydasıdır; lalətək qızarmaq üzqaydasıdır; pərişanlıq zülfün öz qaydasıdır;nə badi-səbadan",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 33
+            },
+            {
+                "word": "ŞƏRQ",
+                "explanation": "is. [ər.] 1. dünyanın dörd cəhətindənbiri – günçıxan tərəfi; günçıxan",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 34
+            },
+            {
+                "word": "BƏNNA",
+                "explanation": "is. [ər.] binanın daş",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 35
+            },
+            {
+                "word": "BƏŞƏR",
+                "explanation": "is. [ər.] insan",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 36
+            },
+            {
+                "word": "ƏBRƏŞ",
+                "explanation": "sif. 1. xallı.2. əldə bəslənmiş. o",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 37
+            },
+            {
+                "word": "ƏQRƏB",
+                "explanation": "is. [ər.] saat",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 38
+            },
+            {
+                "word": "ƏNBƏR",
+                "explanation": "is. [ər.] 1. kaşalota oxşar bir balığınmədəsindən çıxarılan gözəl qoxulumaddə. *** qara",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 39
+            },
+            {
+                "word": "ƏNƏNƏ",
+                "explanation": "is. [ər.] tarixən meydana gələrəknəsildən-nəslə keçən adətlər",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 40
+            },
+            {
+                "word": "ƏRBAB",
+                "explanation": "sif. [ər. “rəbb” söz. cəmi] köhn.ağa",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 41
+            },
+            {
+                "word": "QƏRAR",
+                "explanation": "is. [ər.] durma",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 42
+            },
+            {
+                "word": "ŞƏBAB",
+                "explanation": "is. [ər.] klas. gənclik",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 43
+            },
+            {
+                "word": "ŞƏBAN",
+                "explanation": "is. [fars.] qəməri ərəb təqvimindəsəkkizinci ayın adı. həmişə ***",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 44
+            },
+            {
+                "word": "ŞƏNBƏ",
+                "explanation": "is. [fars.] həftənin cümədən sonra gələn günü. *** günü. – [yusif:] uşaqlar",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 45
+            },
+            {
+                "word": "ŞƏRAB",
+                "explanation": "is. [ər.] üzümdən hazırlanan spirtliiçki; çaxır. *** şər gətirər. (ata. sözü).[qaraş] məclisdən-məclisə bir-iki qədəh ***içsə böyük işdi",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 46
+            },
+            {
+                "word": "ŞƏRAR",
+                "explanation": "is. [ər.] klas. qığılcım. nagəhan bir ***ə qəlyandan; düşdü əmmaməsinə sol yandan. s.ə.şirvani. gətirdiyin yumurtadan nəticə cücə gözləmə; qazanda q",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 47
+            },
+            {
+                "word": "ŞƏRƏN",
+                "explanation": "zərf [ər.] islam şəriətinə uyğunolaraq",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 48
+            },
+            {
+                "word": "ŞƏRƏR",
+                "explanation": "[ər.] klas. bax şərar(ə). şikəstə zakirəm",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 49
+            },
+            {
+                "word": "ŞƏŞƏƏ",
+                "explanation": "is. [ər.] klas. tənt. 1. parlaqlıq",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 50
+            },
+            {
+                "word": "BƏQƏRƏ",
+                "explanation": "is. keçmişdə quyudan su vəneft çəkmək üçün işlədilən təkərəoxşar fırlananqurğu. [atabala:] səhərdən axşamaqədər atı ***yə qoşub neft çəkirdim",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 51
+            },
+            {
+                "word": "BƏRRAQ",
+                "explanation": "sif. [ər.] şair. bərq vuran",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 52
+            },
+            {
+                "word": "BƏŞƏRƏ",
+                "explanation": "is. [ər.] klas. bədəni örtən dərininxarici təbəqəsi. // insanın xarici görünüşü",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 53
+            },
+            {
+                "word": "BƏŞŞAŞ",
+                "explanation": "sif. və zərf [ər.] klas. gülərüzlü",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 54
+            },
+            {
+                "word": "ƏQRƏBA",
+                "explanation": "is. [ər.] qohumlar (çox vaxt“qohum-***” şəklində işlənir). bu",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 55
+            },
+            {
+                "word": "ƏNBƏRƏ",
+                "explanation": "is. dəyirman çarxını işlədənsuyun yığılıb şiddətlə töküldüyü nov. dəyirmanınsuyu ***yə yığılır",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 56
+            },
+            {
+                "word": "QƏNARƏ",
+                "explanation": "is. kəsilmiş heyvanların cəmdəyiniasmaq üçün iri qarmaq. əti ***dənasmaq. – qurban götür kəs məni; ***dənas məni; al könlümü",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 57
+            },
+            {
+                "word": "QƏNBƏR",
+                "explanation": "is. məh. çaydaşı",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 58
+            },
+            {
+                "word": "QƏNŞƏR",
+                "explanation": "is. qarşı tərəf",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 59
+            },
+            {
+                "word": "ŞƏNŞƏN",
+                "explanation": "sif. və zərf sevinə-sevinə",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 60
+            },
+            {
+                "word": "ŞƏRARƏ",
+                "explanation": "is. [ər.] klas. qığılcım. nagəhan bir *** qəlyandan; düşdü əmmaməsinə sol yandan. s.ə.şirvani. gətirdiyin yumurtadan nəticə cücə gözləmə; qazanda q",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 61
+            },
+            {
+                "word": "ŞƏRƏRƏ",
+                "explanation": "[ər.] klas. bax şərar(ə). şikəstə zakirəm",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 62
+            },
+            {
+                "word": "ŞƏŞBƏR",
+                "explanation": "sif. məh. yoğun",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 63
+            },
+            {
+                "word": "ARABƏRƏ",
+                "explanation": "is. dan. 1. aralıq",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 64
+            },
+            {
+                "word": "BƏRABƏR",
+                "explanation": "1. sif. başqası ilə tən",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 65
+            },
+            {
+                "word": "ƏNBƏRBAR",
+                "explanation": "sif. [ər. ənbər və fars. …bar]klas. şair. ənbər saçan",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 66
+            },
+            {
+                "word": "NARŞƏRAB",
+                "explanation": "is. nar suyundan hazırlananşirə. balığı ***la yemək. – [kişi:] yaxşı",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 67
+            },
+            {
+                "word": "QABAQQƏNŞƏR",
+                "explanation": "is. qabaq",
+                "isPanagram": true,
+                "score": 17,
+                "length": 11,
+                "id": 68
+            }
+        ]
+    }
+}

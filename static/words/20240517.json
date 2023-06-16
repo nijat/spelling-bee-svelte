@@ -1,0 +1,752 @@
+{
+    "gameData": {
+        "day": "20240517",
+        "expiration": "1715990340",
+        "centerLetter": "Q",
+        "outerLetters": [
+            "A",
+            "L",
+            "I",
+            "Z",
+            "T",
+            "S"
+        ],
+        "words_info": {
+            "word_count": 90,
+            "sum_score": 560,
+            "panagram_count": 2,
+            "word_length": {
+                "4": 10,
+                "6": 14,
+                "7": 16,
+                "5": 26,
+                "9": 3,
+                "11": 3,
+                "8": 16,
+                "10": 2
+            }
+        },
+        "words": [
+            {
+                "word": "ALAQ",
+                "explanation": "is. tarlada",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "ALIQ",
+                "explanation": "is. köhn. öküz",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "ASQI",
+                "explanation": "is. paltar və ya başqa şeylər asmağaməxsus alət. bu paltarlı skeletin iti çiyinsümükləri *** kimi ağ abanı saxlayır",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "ATQI",
+                "explanation": "is. 1. bir şeyin üzərindən atılan tir və s. 2. toxuculuqda: ərişin üstünə gələn və məkiklə atılan arğac ipi",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "AZIQ",
+                "explanation": "is. qəd. azuqə. yedi günlük azuğla çıqayın. “dədə qorqud”",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 5
+            },
+            {
+                "word": "QALA",
+                "explanation": "is. [ər.] 1. uzun müddət içində qapanıbdüşmənə müqavimət göstərmək üçünmöhkəm müdafiə tikililəri və vasitələri olanistehkam (məntəqə)",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 6
+            },
+            {
+                "word": "QATI",
+                "explanation": "sif. 1. sıyıq",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 7
+            },
+            {
+                "word": "QAZI",
+                "explanation": "is. [ər. qazi] müsəlmanlarda diniməhkəmə işlərinə baxan ruhani",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 8
+            },
+            {
+                "word": "QISA",
+                "explanation": "sif. 1. boyca gödək",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 9
+            },
+            {
+                "word": "SAQA",
+                "explanation": "is. ədəb. nəsrlə yazılmış qədim islandəsərləri",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 10
+            },
+            {
+                "word": "ALLIQ",
+                "explanation": "is. al rəngli şeyin halı; qırmızılıq.bu ***da gül olmaz. – geniş payız meşəsibir allığa və rəngarəng sarılığa boyanırdı",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 11
+            },
+            {
+                "word": "AZLIQ",
+                "explanation": "is. 1. hər hansı bir qrupun (adamlarqrupunun) az hissəsi; sayca az olan hissə;əqəliyyət. ***da qalmaq",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 12
+            },
+            {
+                "word": "QALAQ",
+                "explanation": "is. bir yerə qalanmış",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 13
+            },
+            {
+                "word": "QALIQ",
+                "explanation": "is. 1. bir şeyin",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 14
+            },
+            {
+                "word": "QALLI",
+                "explanation": "sif. qalmaqal salan",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 15
+            },
+            {
+                "word": "QASIQ",
+                "explanation": "is. anat. qarnın iki bud arasındaolan alt tərəfi",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 16
+            },
+            {
+                "word": "QATIQ",
+                "explanation": "is. 1. südü bişirib",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 17
+            },
+            {
+                "word": "QATQI",
+                "explanation": "is. bir şeyə qatılan başqa maddə;aşqar",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 18
+            },
+            {
+                "word": "QAZAQ",
+                "explanation": "is. 1. bax kazak.2. çar rusiyasında: ayrıca bir təbəqə təşkiledən atlı qoşunun süvarisi",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 19
+            },
+            {
+                "word": "QAZIQ",
+                "explanation": "sif. qazılmış",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 20
+            },
+            {
+                "word": "QAZLI",
+                "explanation": "sif. 1. içərisində qaz olan. kəndinyaxınlığında olan *** torpaqların alovundayandırılan daş karxanasının xırda tozlarısuraxanını əhəng yuvasına ç",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 21
+            },
+            {
+                "word": "QILIQ",
+                "explanation": "is. xasiyyət",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 22
+            },
+            {
+                "word": "QILLI",
+                "explanation": "sif. 1. üzərində qıllar olan",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 23
+            },
+            {
+                "word": "QISIQ",
+                "explanation": "sif. 1. qısılmış",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 24
+            },
+            {
+                "word": "QISQI",
+                "explanation": "is. 1. tələsdirmə",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 25
+            },
+            {
+                "word": "QIZIL",
+                "explanation": "1. is. rəngi sarı",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 26
+            },
+            {
+                "word": "LALIQ",
+                "explanation": "sif. həddindən artıq dəyib boşalmış",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 27
+            },
+            {
+                "word": "LIQQA",
+                "explanation": "is. yağmurdan",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 28
+            },
+            {
+                "word": "SAQQA",
+                "explanation": "is. [ər.] köhn. keçmişdə dalında",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 29
+            },
+            {
+                "word": "SALIQ",
+                "explanation": "is. xəbər",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 30
+            },
+            {
+                "word": "SAZAQ",
+                "explanation": "is. bərk soyuq",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 31
+            },
+            {
+                "word": "SISQA",
+                "explanation": "sif. cılız",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 32
+            },
+            {
+                "word": "SIZQA",
+                "explanation": "sif. suyu az-az",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 33
+            },
+            {
+                "word": "TALAQ",
+                "explanation": "is. [ər.] köhn. 1. boşama",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 34
+            },
+            {
+                "word": "ZIQQI",
+                "explanation": "sif. və is. 1. çox xəsis",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 35
+            },
+            {
+                "word": "ZILIQ",
+                "explanation": "is. məh. gözdən",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 36
+            },
+            {
+                "word": "ALAQLI",
+                "explanation": "sif. alaq basmış",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 37
+            },
+            {
+                "word": "ALTLIQ",
+                "explanation": "is. 1. bir şeyi saxlamaq üçünonun altına qoyulan şey",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 38
+            },
+            {
+                "word": "ATALIQ",
+                "explanation": "is. 1. ata ilə övlad arasındakı qan qohumluğu. atalığını müəyyən etmək. atalığını danmaq. 2. ata üzərinə düşən vəzifə",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 39
+            },
+            {
+                "word": "QALTAQ",
+                "explanation": "is. yəhərin ağacdan olan hissəsi.// arabaya qoşulan heyvanın belinə qoyulanqoşqu aləti",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 40
+            },
+            {
+                "word": "QATILI",
+                "explanation": "sif. qatışığı olan",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 41
+            },
+            {
+                "word": "QIZILI",
+                "explanation": "sif. qızıl rəngində olan",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 42
+            },
+            {
+                "word": "QIZLIQ",
+                "explanation": "is. 1. qadın cinsinin ərə gedincəyəqədər olan halı",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 43
+            },
+            {
+                "word": "LALLIQ",
+                "explanation": "is. lal adamın halı",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 44
+            },
+            {
+                "word": "SAQQAL",
+                "explanation": "is. 1. kişilərin üzündə və alt çənələrinin üstündə bitən tüklər. uzun ***. *** qoymaq. – [məşədi ibad:] hə… çünki mən ***ıma həna qoyuram",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 45
+            },
+            {
+                "word": "SAQQIZ",
+                "explanation": "is. ***ağacından sızıb çıxan",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 46
+            },
+            {
+                "word": "SALLAQ",
+                "explanation": "sif. sallanmış halda olan",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 47
+            },
+            {
+                "word": "SATLIQ",
+                "explanation": "sif. satılmaq üçün olan",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 48
+            },
+            {
+                "word": "SAZLIQ",
+                "explanation": "is. saz şeyin halı",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 49
+            },
+            {
+                "word": "TASLAQ",
+                "explanation": "is. bir şeyin hələ qəti bir şəkilalmamış halı; eskiz",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 50
+            },
+            {
+                "word": "ALAQLIQ",
+                "explanation": "is. alağı çox olan",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 51
+            },
+            {
+                "word": "ALTILIQ",
+                "explanation": "1. sif. ölçüsü (eni",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 52
+            },
+            {
+                "word": "ASTALIQ",
+                "explanation": "is. yavaşlıq",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 53
+            },
+            {
+                "word": "QALIQLI",
+                "explanation": "sif. riyaz. böldükdə qalıq qalan(bax qalıq 4-cü mənada)",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 54
+            },
+            {
+                "word": "QATIQLI",
+                "explanation": "sif. qatıq vurulmuş",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 55
+            },
+            {
+                "word": "QATILIQ",
+                "explanation": "is. 1. qatı şeyin halı",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 56
+            },
+            {
+                "word": "QATQATI",
+                "explanation": "is. bayt. gövşəyən heyvanlarınqarnı ilə qursağı arasındakı həzm üzvü",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 57
+            },
+            {
+                "word": "QAZALAQ",
+                "explanation": "is. məh. keçmişdə abşeronda:təkatlı",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 58
+            },
+            {
+                "word": "QAZILIQ",
+                "explanation": "is. din. qazının işi",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 59
+            },
+            {
+                "word": "QILIQLI",
+                "explanation": "sif. yaxşı xasiyyətli",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 60
+            },
+            {
+                "word": "QISALIQ",
+                "explanation": "is. qısa şeyin halı; gödəklik(uzunluq ziddi). paltarın qısalığı. söhbətinqısalığı. cavabın qısalığı",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 61
+            },
+            {
+                "word": "QIZILLI",
+                "explanation": "sif. qızıl vurulmuş",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 62
+            },
+            {
+                "word": "SAZAQLI",
+                "explanation": "sif. kəskin küləyi",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 63
+            },
+            {
+                "word": "TALAQLI",
+                "explanation": "sif. köhn. talaqı olan; kəbinli.*** arvad",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 64
+            },
+            {
+                "word": "TALALIQ",
+                "explanation": "is. meşədə ağacsız",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 65
+            },
+            {
+                "word": "ZILIQLI",
+                "explanation": "sif. məh. zılığı olan",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 66
+            },
+            {
+                "word": "ASILILIQ",
+                "explanation": "is. 1. birinin iradəsinə",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 67
+            },
+            {
+                "word": "QAQQILTI",
+                "explanation": "is. 1. toyuq",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 68
+            },
+            {
+                "word": "QALIQSIZ",
+                "explanation": "sif. riyaz. böldükdə qalıq qalmayan(bax qalıq 4-cü mənada)",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 69
+            },
+            {
+                "word": "QAZLILIQ",
+                "explanation": "is. geol. qazlı şeyin halı",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 70
+            },
+            {
+                "word": "QILIQSIZ",
+                "explanation": "sif. rəftarı olmayan",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 71
+            },
+            {
+                "word": "QILLILIQ",
+                "explanation": "is. qıllı olma",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 72
+            },
+            {
+                "word": "QISIQLIQ",
+                "explanation": "is. 1. qısılmış (sıxılmış) şeyinhalı.2. boğuqluq",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 73
+            },
+            {
+                "word": "QIZILQAZ",
+                "explanation": "is. zool. zərif çəhrayı tüklü",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 74
+            },
+            {
+                "word": "QIZILLIQ",
+                "explanation": "is. 1. qırmızılıq",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 75
+            },
+            {
+                "word": "LAQQILTI",
+                "explanation": "is. 1. laqqıldayaraq axan vəya tökülən mayedən çıxan səs.2. bax laqqırtı",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 76
+            },
+            {
+                "word": "SAQQALLI",
+                "explanation": "sif. 1. saqqalı olan",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 77
+            },
+            {
+                "word": "SISQALIQ",
+                "explanation": "is. cılızlıq",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 78
+            },
+            {
+                "word": "TAQQILTI",
+                "explanation": "is. bərk bir şeyin bərk bir cismətoxunmasından çıxan səs",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 79
+            },
+            {
+                "word": "TIQQILTI",
+                "explanation": "is. tıqq (tıq-tıq) səsi. sayad pəri*** eşidib qarabaşı ağcaqızı dürtmələdi.“əmrah”. a kişi",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 80
+            },
+            {
+                "word": "ZIQQILTI",
+                "explanation": "is. zıqqıldama səsi",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 81
+            },
+            {
+                "word": "ALTIQATLI",
+                "explanation": "sif. 1. altı mərtəbəsi olan.*** ev. *** şkaf.2. altı qatı",
+                "isPanagram": false,
+                "score": 9,
+                "length": 9,
+                "id": 82
+            },
+            {
+                "word": "SAQQALSIZ",
+                "explanation": "sif. saqqalı olmayan",
+                "isPanagram": false,
+                "score": 9,
+                "length": 9,
+                "id": 83
+            },
+            {
+                "word": "SALLAQLIQ",
+                "explanation": "is. sallaq şeyin halı; sallanmışhalda olma",
+                "isPanagram": false,
+                "score": 9,
+                "length": 9,
+                "id": 84
+            },
+            {
+                "word": "QILIQLILIQ",
+                "explanation": "is. yaxşı xasiyyətlilik",
+                "isPanagram": false,
+                "score": 10,
+                "length": 10,
+                "id": 85
+            },
+            {
+                "word": "ALTISAATLIQ",
+                "explanation": "sif. altı saat sürmüş və yasürən; altı saat vaxt tələb edən. *** işgünü. *** yol",
+                "isPanagram": false,
+                "score": 11,
+                "length": 11,
+                "id": 86
+            },
+            {
+                "word": "QILIQSIZLIQ",
+                "explanation": "is. rəftarsızlıq",
+                "isPanagram": false,
+                "score": 11,
+                "length": 11,
+                "id": 87
+            },
+            {
+                "word": "QIZILSAQQAL",
+                "explanation": "is. bot. aran və dağlıqyerlərdə",
+                "isPanagram": false,
+                "score": 11,
+                "length": 11,
+                "id": 88
+            },
+            {
+                "word": "SAATSAZLIQ",
+                "explanation": "is. saatsazın sənəti",
+                "isPanagram": true,
+                "score": 17,
+                "length": 10,
+                "id": 89
+            },
+            {
+                "word": "TALAQSIZ",
+                "explanation": "sif. köhn. talaqı olmayan; kəbinsiz.*** arvad",
+                "isPanagram": true,
+                "score": 17,
+                "length": 8,
+                "id": 90
+            }
+        ]
+    }
+}

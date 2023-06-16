@@ -1,0 +1,278 @@
+{
+    "gameData": {
+        "day": "20230712",
+        "expiration": "1689206340",
+        "centerLetter": "Y",
+        "outerLetters": [
+            "L",
+            "M",
+            "İ",
+            "E",
+            "Ə",
+            "K"
+        ],
+        "words_info": {
+            "word_count": 31,
+            "sum_score": 170,
+            "panagram_count": 1,
+            "word_length": {
+                "6": 7,
+                "4": 7,
+                "7": 8,
+                "5": 6,
+                "8": 2,
+                "9": 1
+            }
+        },
+        "words": [
+            {
+                "word": "EYMƏ",
+                "explanation": "is. məh. içində qatıq",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "ƏYMƏ",
+                "explanation": "is. 1. dişləni (əskeşi) qayışlar vasitəsiləxamuta (boyunduruğa) bənd etməküçün istifadə edilən əyilmiş ağacdan ibarətqoşqu hissəsi",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "LEYK",
+                "explanation": "[ər.] klas. bax lakin. *** mənimqışda dəxi yaz kimi; yaşıl olur paltarım ətləskimi. m.ə.sabir. *** mən vermədim ona fürsət;onu vurmaqda eylədim s",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "LEYL",
+                "explanation": "is. [ər.] klas. gecə",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "YEKƏ",
+                "explanation": "sif. 1. həcmcə",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 5
+            },
+            {
+                "word": "YEYƏ",
+                "explanation": "is. metalı yonmaq",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 6
+            },
+            {
+                "word": "YİYƏ",
+                "explanation": "is. hər hansı bir şey üzərində mülkiyyəthüququ olan adam; sahib. oğul",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 7
+            },
+            {
+                "word": "ƏYLİK",
+                "explanation": "is. cüyür",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 8
+            },
+            {
+                "word": "LEYLİ",
+                "explanation": "sif. [ər.] klas. 1. gecəyə məxsus",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 9
+            },
+            {
+                "word": "MEYİL",
+                "explanation": "is. [ər.] 1. bir tərəfə əyilmə.divarın meyli bayıradır. □ *** etmək(eləmək) – 1) əyilmək; 2) istiqamət almaq",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 10
+            },
+            {
+                "word": "YELƏK",
+                "explanation": "is. 1. lələk.2. məh. oxun baş tərəfinin enli hissəsi.oxun yeləyi olmayanda yerə tez düşər. xəstəqasım",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 11
+            },
+            {
+                "word": "YELLİ",
+                "explanation": "sif. 1. küləkli. *** hava. *** bir gün. 2. məc. dan. hirsli",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 12
+            },
+            {
+                "word": "YEMLİ",
+                "explanation": "sif. yemi olan",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 13
+            },
+            {
+                "word": "EYİLİK",
+                "explanation": "is. yaxşılıq. [aşıq sultan:]fənalıq",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 14
+            },
+            {
+                "word": "ƏYMƏLİ",
+                "explanation": "sif. dan. əyri",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 15
+            },
+            {
+                "word": "KEYLİK",
+                "explanation": "is. 1. keyləşmiş",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 16
+            },
+            {
+                "word": "KƏMYEK",
+                "explanation": "sif. və is. [fars.] 1. əsas miqdardanaz",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 17
+            },
+            {
+                "word": "YEMƏLİ",
+                "explanation": "sif. 1. yeməyə yarayan; yeyilən.gördülər ki",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 18
+            },
+            {
+                "word": "YEMLİK",
+                "explanation": "is. heyvanlara yem verilən taxtaqutu; yemqabı. kolxozçu heyvanın yemliyinəot tökdü",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 19
+            },
+            {
+                "word": "YİYƏLİ",
+                "explanation": "sif. yiyəsi",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 20
+            },
+            {
+                "word": "MEYİLLİ",
+                "explanation": "sif. 1. bir tərəfə",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 21
+            },
+            {
+                "word": "YEKƏLİK",
+                "explanation": "is. 1. yekə şeyin halı; irilik",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 22
+            },
+            {
+                "word": "YELƏKLİ",
+                "explanation": "sif. yeləyi olan",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 23
+            },
+            {
+                "word": "YEMLƏMƏ",
+                "explanation": "“***k”dən f.is. malqaranı*** üsulu",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 24
+            },
+            {
+                "word": "YEYİLMƏ",
+                "explanation": "is. məh. ən çox üzə çıxan pisyara",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 25
+            },
+            {
+                "word": "YEYİMLİ",
+                "explanation": "sif. yaxşı yeyən",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 26
+            },
+            {
+                "word": "YİYƏLİK",
+                "explanation": "is. sahib olma",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 27
+            },
+            {
+                "word": "MİLLİYYƏ",
+                "explanation": "[ər.] klas. bax milli1 1 və3-cü mənalarda. söylə mənə: vəzarəti***nizdüzəldimi? m.ə.sabir",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 28
+            },
+            {
+                "word": "YEYİMLİK",
+                "explanation": "is. bir dəfə yeməyə çatan miqdar.bir *** çörəyimiz qalıb",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 29
+            },
+            {
+                "word": "YEMLİKLİK",
+                "explanation": "is. çoxlu yemlik bitən yer(bax yemlik1)",
+                "isPanagram": false,
+                "score": 9,
+                "length": 9,
+                "id": 30
+            },
+            {
+                "word": "EYMƏLİK",
+                "explanation": "sif. köhn. eyməyə yarar. ***dəri",
+                "isPanagram": true,
+                "score": 17,
+                "length": 7,
+                "id": 31
+            }
+        ]
+    }
+}

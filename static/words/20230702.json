@@ -1,0 +1,309 @@
+{
+    "gameData": {
+        "day": "20230702",
+        "expiration": "1688342340",
+        "centerLetter": "İ",
+        "outerLetters": [
+            "M",
+            "R",
+            "C",
+            "Y",
+            "Ə",
+            "D"
+        ],
+        "words_info": {
+            "word_count": 35,
+            "sum_score": 161,
+            "panagram_count": 1,
+            "word_length": {
+                "5": 11,
+                "6": 6,
+                "4": 11,
+                "7": 6,
+                "9": 1
+            }
+        },
+        "words": [
+            {
+                "word": "CƏMİ",
+                "explanation": "is. [ər.] bütün",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "CİCİ",
+                "explanation": "is. bəzi yerlərdə nəvazişlə anayadeyilir. …bunlar məgər təzə sözdür? bunu***m də bilir. “mol. nəsr",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "CİRƏ",
+                "explanation": "is. bot. xırda ağ çiçəkləri olan birillikbitki (toxumlarından ədviyyə kimi istifadəedilir)",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "CİYƏ",
+                "explanation": "is. nazik",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "DƏRİ",
+                "explanation": "is. 1. insan və heyvanın bədənininüstünü örtən mikroskopik məsaməli ət örtüyü.qolumun ***si soyulub",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 5
+            },
+            {
+                "word": "DİDƏ",
+                "explanation": "is. [fars.] klas. göz. gər inanmazsan ki",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 6
+            },
+            {
+                "word": "DİRİ",
+                "explanation": "sif. 1. canı olan",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 7
+            },
+            {
+                "word": "DİYƏ",
+                "explanation": "is. [ər.] köhn. keçmiş zamanda: öldürülmüşadam və ya heyvan əvəzinə öldürəninverməli olduğu mal və ya pul; qanbahası",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 8
+            },
+            {
+                "word": "ƏMİR",
+                "explanation": "sif. [ər.] 1. bir tayfanın və ya ölkəninbaşçısı. qəbilənin ***i. – şairin qəzəllərinəməftun olmuş dərbənd ***i onubu xaraba kənddən öz sarayına d",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 9
+            },
+            {
+                "word": "ƏYRİ",
+                "explanation": "sif. 1. düz istiqamətdə olmayan",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 10
+            },
+            {
+                "word": "YİYƏ",
+                "explanation": "is. hər hansı bir şey üzərində mülkiyyəthüququ olan adam; sahib. oğul",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 11
+            },
+            {
+                "word": "CƏDİD",
+                "explanation": "sif. [ər.] yeni",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 12
+            },
+            {
+                "word": "CİDDİ",
+                "explanation": "sif. və zərf 1. öz hərəkətlərində",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 13
+            },
+            {
+                "word": "DƏMİR",
+                "explanation": "is. 1. təbiətdə çox yayılmış",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 14
+            },
+            {
+                "word": "ƏCƏMİ",
+                "explanation": "sif. [ər.] köhn. 1. qeyri-ərəb qövmvə tayfalardan birinə mənsub olan",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 15
+            },
+            {
+                "word": "ƏCƏRİ",
+                "explanation": "sif. təzə",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 16
+            },
+            {
+                "word": "ƏDƏDİ",
+                "explanation": "sif. [ər.] riyaz. ədədlərlə ifadəolunan. *** kəmiyyət. ədəbi nisbət. –diferensial tənlikləri təqribi həll etmək üçünmüxtəlif qrafik və *** meto",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 17
+            },
+            {
+                "word": "ƏMİCİ",
+                "explanation": "sif. 1. əmən",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 18
+            },
+            {
+                "word": "ƏMİRİ",
+                "explanation": "sif. 1. əmirə mənsub",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 19
+            },
+            {
+                "word": "ƏYRİM",
+                "explanation": "1. is. döngə",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 20
+            },
+            {
+                "word": "MƏRCİ",
+                "explanation": "is. 1. bot. paxlalılar fəsiləsindəndənli bitki.2. həmin bitkinin xörəkdə işlədilən toxumu.şorbaya *** tökmək",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 21
+            },
+            {
+                "word": "MƏRMİ",
+                "explanation": "is. [ər.] top kimi silahların gülləsi.birdən top ***si partladı",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 22
+            },
+            {
+                "word": "CƏDİDƏ",
+                "explanation": "sif. [ər.] yeni",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 23
+            },
+            {
+                "word": "CƏRİDƏ",
+                "explanation": "is. [ər.] köhn. qəzet. [qəzetçi:]mən ***m dolmaq üçün mətləbi uzatmışam.m.ə.sabir. hərənin bir etiqadı var",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 24
+            },
+            {
+                "word": "CƏRİMƏ",
+                "explanation": "is. [ər.] pulla ödənilən cəza növü.[fəxrəddin:] məlumunuz olmalıdır ki",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 25
+            },
+            {
+                "word": "DƏMİRİ",
+                "explanation": "sif. dəmir rəngli",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 26
+            },
+            {
+                "word": "ƏYİRMƏ",
+                "explanation": "1. “***k”dən f.is.2. sif. əyirilmiş. *** yundan corabtoxuyurlar",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 27
+            },
+            {
+                "word": "ƏYRİCƏ",
+                "explanation": "sif. az əyri",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 28
+            },
+            {
+                "word": "DƏYİRMİ",
+                "explanation": "sif. 1. dairə şəklində olan;dairəvi",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 29
+            },
+            {
+                "word": "DİMDİRİ",
+                "explanation": "sif. çox diri",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 30
+            },
+            {
+                "word": "ƏRİDİCİ",
+                "explanation": "is. xüs. 1. başqa maddələri özdaxilində əridə bilən maddə",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 31
+            },
+            {
+                "word": "ƏRİYİCİ",
+                "explanation": "sif. 1. maye və s. içində əriyəbilən",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 32
+            },
+            {
+                "word": "ƏYİRİCİ",
+                "explanation": "1. sif. xüs. iplik və s. əyirən.*** sexi.2. is. iplik əyirən usta. qız yavaş-yavaş*** peşəsinə yiyələndi",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 33
+            },
+            {
+                "word": "MƏCMƏYİ",
+                "explanation": "is. [ər.] mis və ya başqa metaldandüzəldilmiş dairəvi yastı iri qab",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 34
+            },
+            {
+                "word": "DƏYİRMİCƏ",
+                "explanation": "sif. az dəyirmi",
+                "isPanagram": true,
+                "score": 17,
+                "length": 9,
+                "id": 35
+            }
+        ]
+    }
+}

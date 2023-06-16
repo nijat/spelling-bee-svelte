@@ -1,0 +1,149 @@
+{
+    "gameData": {
+        "day": "20230827",
+        "expiration": "1693180740",
+        "centerLetter": "Ü",
+        "outerLetters": [
+            "T",
+            "F",
+            "S",
+            "R",
+            "Ə",
+            "Ğ"
+        ],
+        "words_info": {
+            "word_count": 15,
+            "sum_score": 90,
+            "panagram_count": 1,
+            "word_length": {
+                "8": 3,
+                "6": 1,
+                "5": 7,
+                "4": 2,
+                "7": 2
+            }
+        },
+        "words": [
+            {
+                "word": "SÜRÜ",
+                "explanation": "is. bir yerdə otlayan",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "SÜST",
+                "explanation": "sif. [fars.] 1. hərəkət etməyə iqtidarı olmayan",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "RÜFƏT",
+                "explanation": "is. [ər.] yüksəklik",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 3
+            },
+            {
+                "word": "SÜFRƏ",
+                "explanation": "is. 1. yemək stolunun üstünə",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 4
+            },
+            {
+                "word": "SÜRƏT",
+                "explanation": "is. [ər.] 1. hər hansı bir hərəkətin itilik",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 5
+            },
+            {
+                "word": "SÜRFƏ",
+                "explanation": "is. [ər.] zool. canlı orqanizmin(həşəratın",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 6
+            },
+            {
+                "word": "TÜRFƏ",
+                "explanation": "sif. və zərf [ər.] klas. zərif",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 7
+            },
+            {
+                "word": "TÜSTÜ",
+                "explanation": "is. 1. yanan bir şeydən havaya qalxandumanaoxşar qazvari kəsif zərrəciklər.papiros ***sü. qara ***",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 8
+            },
+            {
+                "word": "ÜSRƏT",
+                "explanation": "is. [ər.] köhn. 1. çətinlik",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 9
+            },
+            {
+                "word": "FÜRSƏT",
+                "explanation": "is. [ər.] bir sözü demək və yabir işi görmək üçün əlverişli an",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 10
+            },
+            {
+                "word": "TƏƏSSÜF",
+                "explanation": "is. [ər.] 1. kədərlənmə",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 11
+            },
+            {
+                "word": "TƏƏSSÜR",
+                "explanation": "is. [ər.] 1. bir şeyin təsiri altındaolma",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 12
+            },
+            {
+                "word": "SÜRÜSÜRÜ",
+                "explanation": "sif. sürülərlə",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 13
+            },
+            {
+                "word": "TƏSƏRRÜF",
+                "explanation": "is. [ər.] 1. yiyələnmə",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 14
+            },
+            {
+                "word": "ƏSTƏĞFÜR",
+                "explanation": "nida [ər.] əsil mənası “allahdan bağışlanmağımı istəyirəm” deməkdir. bəzən azərbaycan dilində “allah eləməsin",
+                "isPanagram": true,
+                "score": 17,
+                "length": 8,
+                "id": 15
+            }
+        ]
+    }
+}

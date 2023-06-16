@@ -1,0 +1,287 @@
+{
+    "gameData": {
+        "day": "20231102",
+        "expiration": "1698969540",
+        "centerLetter": "B",
+        "outerLetters": [
+            "Z",
+            "İ",
+            "S",
+            "A",
+            "I",
+            "L"
+        ],
+        "words_info": {
+            "word_count": 32,
+            "sum_score": 170,
+            "panagram_count": 1,
+            "word_length": {
+                "5": 9,
+                "6": 5,
+                "7": 5,
+                "4": 8,
+                "9": 1,
+                "8": 3,
+                "10": 1
+            }
+        },
+        "words": [
+            {
+                "word": "BABA",
+                "explanation": "is. 1. atanın",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "BABI",
+                "explanation": "is. [xüs. is.-dən] 1. xıx əsrin ortasında iranda “bab” təxəllüslü mirzə əli məhəmməd tərəfindən təsis edilmiş dini təriqətə mənsub olan adam",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "BABİ",
+                "explanation": "is. [xüs. is.-dən] 1. xıx əsrin ortasında iranda “bab” təxəllüslü mirzə əli məhəmməd tərəfindən təsis edilmiş dini təriqətə mənsub olan adam",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "BAİS",
+                "explanation": "is. [ər.] səbəb. gər ibni-səlam idibəhanə; məcnun idi *** ol fəğanə. füzuli.[hacı nuru:] hər kəsin öz sənəti özünəiksirdir və xoş güzəranlığına ba",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "BALA",
+                "explanation": "1. is. övlad",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 5
+            },
+            {
+                "word": "BAZI",
+                "explanation": "is. çöl",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 6
+            },
+            {
+                "word": "BİBİ",
+                "explanation": "is. övlad üçün atanın bacısı",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 7
+            },
+            {
+                "word": "ZİBA",
+                "explanation": "sif. [fars.] klas. 1. bəzəkli",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 8
+            },
+            {
+                "word": "ABALI",
+                "explanation": "is. köhn. aba geymiş",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 9
+            },
+            {
+                "word": "ABASI",
+                "explanation": "is. [xüs. is.-dən] 1. dördşahılıq (iyimiqəpiklik) metal pul. cibimdə bir abbası pulum var. – [hacı qara:] bu kasad bazarda mənim bir şahım yoxdur",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 10
+            },
+            {
+                "word": "BALBA",
+                "explanation": "is. məh. cincilim",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 11
+            },
+            {
+                "word": "BALLI",
+                "explanation": "sif. 1. bal qatılmış. *** konfet.2. məc. bal kimi şirin. bir alagözlünüsevibdi könül; dəhani püstədir",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 12
+            },
+            {
+                "word": "BASİL",
+                "explanation": "[lat.] mikrob. çöpşəkilli bakteriya",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 13
+            },
+            {
+                "word": "BAZİS",
+                "explanation": "is. [yun.] müəyyən cəmiyyətinüstqurumunun real əsasını təşkil edən ictimaiistehsal münasibətlərinin məcmusu",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 14
+            },
+            {
+                "word": "LİBAS",
+                "explanation": "is. [ər.] 1. paltar",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 15
+            },
+            {
+                "word": "ZABİL",
+                "explanation": "is. [fars.] mus. tarda bir pərdə.mirzə sadıq tarın qoluna *** pərdəsini əlavəetmişdir. ə.bədəlbəyli",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 16
+            },
+            {
+                "word": "ZİBİL",
+                "explanation": "is. 1. evlərdə",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 17
+            },
+            {
+                "word": "ABBASI",
+                "explanation": "is. [xüs. is.-dən] 1. dördşahılıq (iyimiqəpiklik) metal pul. cibimdə bir *** pulum var. – [hacı qara:] bu kasad bazarda mənim bir şahım yoxdur",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 18
+            },
+            {
+                "word": "ALBALI",
+                "explanation": "is. tündqırmızı rəngli",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 19
+            },
+            {
+                "word": "BALALI",
+                "explanation": "sif. yanında balası olan. ***inək. *** qoyun. *** camış",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 20
+            },
+            {
+                "word": "BALBAS",
+                "explanation": "is. iri qoyun cinsi",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 21
+            },
+            {
+                "word": "BASBAS",
+                "explanation": "is. məh. yaş meyvələri",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 22
+            },
+            {
+                "word": "ABİSSAL",
+                "explanation": "sif. [yun.] okeanın 2000 metrdəndərin hissəsi. *** çöküntülər",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 23
+            },
+            {
+                "word": "BABASİL",
+                "explanation": "is. [ər.] tib. düzbağırsağın aşağıhissəsindəki qan damarlarının şişməsi nəticəsindətez-tez qanayan düyünlərin əmələgəlməsindən ibarət xəstəlik",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 24
+            },
+            {
+                "word": "BASABAS",
+                "explanation": "is. basırıq",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 25
+            },
+            {
+                "word": "LİBASLI",
+                "explanation": "sif. paltarlı",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 26
+            },
+            {
+                "word": "ZİBİLLİ",
+                "explanation": "sif. 1. zibil olan",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 27
+            },
+            {
+                "word": "BALABİBİ",
+                "explanation": "is. məh. 1. kiçik bibiyə verilənad.2. gəlinlərə verilən ləqəb; gəlinciyəz",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 28
+            },
+            {
+                "word": "ZİBİLSİZ",
+                "explanation": "sif. zibilli olmayan",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 29
+            },
+            {
+                "word": "BABASİLLİ",
+                "explanation": "sif. babasil xəstəliyi olan",
+                "isPanagram": false,
+                "score": 9,
+                "length": 9,
+                "id": 30
+            },
+            {
+                "word": "SİZLİBİZLİ",
+                "explanation": "əvəz. siz və biz birlikdə",
+                "isPanagram": false,
+                "score": 10,
+                "length": 10,
+                "id": 31
+            },
+            {
+                "word": "LİBASSIZ",
+                "explanation": "sif. və zərf paltarsız. neçə vaxtdansonra işin üstü açıldı. həqiqətən bir seyidqızı haman günü məşədinin evinə ***əyləşibmiş",
+                "isPanagram": true,
+                "score": 17,
+                "length": 8,
+                "id": 32
+            }
+        ]
+    }
+}

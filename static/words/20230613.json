@@ -1,0 +1,333 @@
+{
+    "gameData": {
+        "day": "20230613",
+        "expiration": "1686700740",
+        "centerLetter": "Ə",
+        "outerLetters": [
+            "A",
+            "İ",
+            "V",
+            "S",
+            "N",
+            "F"
+        ],
+        "words_info": {
+            "word_count": 38,
+            "sum_score": 131,
+            "panagram_count": 1,
+            "word_length": {
+                "4": 21,
+                "6": 5,
+                "8": 1,
+                "5": 7,
+                "7": 4
+            }
+        },
+        "words": [
+            {
+                "word": "ANƏN",
+                "explanation": "zərf [ər.] birdən",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "ƏNİN",
+                "explanation": "is. [ər.] şair. inləmə",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "ƏNİS",
+                "explanation": "is. [ər.] şair. yaxın dost",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "ƏNVA",
+                "explanation": "is. [ər. “növ” söz. cəmi] cürbəcür",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "ƏSAS",
+                "explanation": "is. [ər.] 1. bünövrə",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 5
+            },
+            {
+                "word": "ƏSƏN",
+                "explanation": "sif. qəd. sağ",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 6
+            },
+            {
+                "word": "ƏSNA",
+                "explanation": "is. [ər.] vaxt",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 7
+            },
+            {
+                "word": "FƏNA",
+                "explanation": "is. [ər.] pis",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 8
+            },
+            {
+                "word": "FƏNN",
+                "explanation": "is. [ər.] 1. elm",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 9
+            },
+            {
+                "word": "NANƏ",
+                "explanation": "[ər.] bot. yeyilən çoxillik ətirligöyərti növü. *** qurutmaq. üç dəstə ***.□ *** cövhəri (arağı) – ***dən çəkilənaraq",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 10
+            },
+            {
+                "word": "NƏFS",
+                "explanation": "is. [ər.] 1. ehtiras",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 11
+            },
+            {
+                "word": "NƏNƏ",
+                "explanation": "is. 1. atanın",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 12
+            },
+            {
+                "word": "NƏVA",
+                "explanation": "is. [fars.] 1. avaz",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 13
+            },
+            {
+                "word": "NƏVƏ",
+                "explanation": "is. oğlun və ya qızın uşağı. dövlətdə– dəvə",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 14
+            },
+            {
+                "word": "SƏFA",
+                "explanation": "is. [ər.] zövq",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 15
+            },
+            {
+                "word": "SƏNA",
+                "explanation": "is. [ər.] klas. tərif",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 16
+            },
+            {
+                "word": "SƏNƏ",
+                "explanation": "is. [ər.] il. bir gecəlik mətləbin bir*** mabədi var. m.ə.sabir. millətin beş*** bundan əqdəm; yüz nəfərdən biri tutmazdıqələm",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 17
+            },
+            {
+                "word": "SİNƏ",
+                "explanation": "is. [fars.] 1. döş",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 18
+            },
+            {
+                "word": "VƏFA",
+                "explanation": "is. [ər.] sözünün üstündə durma;borcunu",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 19
+            },
+            {
+                "word": "VƏSF",
+                "explanation": "is. [ər.] 1. bir şəxsin və ya bir şeyinmalik olduğu sifət",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 20
+            },
+            {
+                "word": "VƏSİ",
+                "explanation": "is. [ər.] köhn. ölmüş bir adamın ***yyətini yerinə yetirən. çün səd istədi ki",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 21
+            },
+            {
+                "word": "ƏNƏNƏ",
+                "explanation": "is. [ər.] tarixən meydana gələrəknəsildən-nəslə keçən adətlər",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 22
+            },
+            {
+                "word": "ƏSASİ",
+                "explanation": "sif. [ər.] köhn. bax əsas 2-ci mənada.*** cəhətlər. – həyat *** birdəyişikliyə uğrayınca ədəbiyyat büsbütünbaşını itirdi",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 23
+            },
+            {
+                "word": "ƏSNAF",
+                "explanation": "is. [ər. “sinf” söz. cəmi] sənətkarlar",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 24
+            },
+            {
+                "word": "NƏFƏS",
+                "explanation": "is. [ər.] 1. ciyərlə havanı içəri alıbburaxma (insan və heyvanlarda oksigen udubkarbon qazı buraxma prosesi)",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 25
+            },
+            {
+                "word": "NƏFİS",
+                "explanation": "is. [ər.] son dərəcə zərif",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 26
+            },
+            {
+                "word": "NƏNNİ",
+                "explanation": "is. 1. körpə uşaqları yatırtmaq üçünasılan kiçik yatacaq. [qumru] uşağı ***yəsalıb küncə qısıldı",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 27
+            },
+            {
+                "word": "VƏSFİ",
+                "explanation": "sif. köhn. bir şəxsin və ya şeyinxüsusi hal və keyfiyyətinə",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 28
+            },
+            {
+                "word": "ƏFSANƏ",
+                "explanation": "is. [fars.] 1. nəsillərdən nəsillərəağızda dolaşan və mövzusu çox zamanfövqəladə xarakter daşıyan hekayə",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 29
+            },
+            {
+                "word": "ƏSASƏN",
+                "explanation": "[ər.] 1. zərf əsli",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 30
+            },
+            {
+                "word": "SƏFƏVİ",
+                "explanation": "[ər.] 1501-1737-ci illərdə azərbaycanda və iranda hakimiyyət sürmüş məşhur azərbaycanlı sülalə",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 31
+            },
+            {
+                "word": "SƏFİNƏ",
+                "explanation": "is. [ər.] köhn. 1. gəmi.2. cüng",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 32
+            },
+            {
+                "word": "VƏSVAS",
+                "explanation": "is. [ər.] şeytan",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 33
+            },
+            {
+                "word": "ƏNƏNƏVİ",
+                "explanation": "sif. [ər.] ənənə şəkli almış",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 34
+            },
+            {
+                "word": "NƏFSANİ",
+                "explanation": "sif. [ər.] ehtirasa",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 35
+            },
+            {
+                "word": "VANƏFSA",
+                "explanation": "is. [ər.] fəryad",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 36
+            },
+            {
+                "word": "VƏSVƏSƏ",
+                "explanation": "is. [ər.] şübhə və tərəddüd",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 37
+            },
+            {
+                "word": "ƏFSANƏVİ",
+                "explanation": "sif. [fars.] 1. əfsanə mahiyyətində olan",
+                "isPanagram": true,
+                "score": 17,
+                "length": 8,
+                "id": 38
+            }
+        ]
+    }
+}

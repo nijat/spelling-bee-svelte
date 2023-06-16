@@ -1,0 +1,414 @@
+{
+    "gameData": {
+        "day": "20240311",
+        "expiration": "1710201540",
+        "centerLetter": "L",
+        "outerLetters": [
+            "N",
+            "Ə",
+            "A",
+            "M",
+            "Z",
+            "U"
+        ],
+        "words_info": {
+            "word_count": 48,
+            "sum_score": 202,
+            "panagram_count": 1,
+            "word_length": {
+                "6": 7,
+                "4": 17,
+                "5": 18,
+                "7": 4,
+                "9": 1,
+                "8": 1
+            }
+        },
+        "words": [
+            {
+                "word": "ALAM",
+                "explanation": "is. [ər. “ələm” söz. cəmi] qəm",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "ALƏM",
+                "explanation": "is. [ər.] 1. kainat",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "ALMA",
+                "explanation": "is. müxtəlif çeşidləri və müxtəlif rənglərdə olan girdə",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "AMAL",
+                "explanation": "is. [ər. “əməl” söz. cəmi] tənt. qayə",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "ƏLAN",
+                "explanation": "zərf [ər.] 1. bu an",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 5
+            },
+            {
+                "word": "ƏLƏM",
+                "explanation": "is. [ər.] dərd",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 6
+            },
+            {
+                "word": "ƏMƏL",
+                "explanation": "is. [ər.] qayə",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 7
+            },
+            {
+                "word": "ƏZƏL",
+                "explanation": "[ər.] 1. is. əvvəli",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 8
+            },
+            {
+                "word": "LALƏ",
+                "explanation": "is. [fars.] 1. bot. iriləçəkli qırmızıçiçəkləri olan bitki və bu bitkinin çiçəyi. bitərçəməndə ***lər",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 9
+            },
+            {
+                "word": "LƏLƏ",
+                "explanation": "is. 1. keçmişdə kübar və varlı ai***rdəoğlan uşağının tərbiyəsilə məşğul olanadam. [qətibə xanım:] səba xanım",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 10
+            },
+            {
+                "word": "LƏMƏ",
+                "explanation": "is. tavandan bir az aşağı divaruzunu kərpicdən",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 11
+            },
+            {
+                "word": "MALA",
+                "explanation": "is. [fars.] 1. binanın iç və bayırdivarlarına çəkmək üçün əhəng",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 12
+            },
+            {
+                "word": "MƏAL",
+                "explanation": "is. [ər.] klas. bir yazı və ya söz iləanladılmaq istənilən fikir",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 13
+            },
+            {
+                "word": "MƏLƏ",
+                "explanation": "is. 1. zool. çox bərk sancan qanadsız",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 14
+            },
+            {
+                "word": "NALƏ",
+                "explanation": "is. [fars.] ah-zar",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 15
+            },
+            {
+                "word": "ULAN",
+                "explanation": "is. [pol.",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 16
+            },
+            {
+                "word": "UNLU",
+                "explanation": "sif. üstünə un səpilmiş (tökülmüş);una batmış. üstü-başı bütöv ***dur",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 17
+            },
+            {
+                "word": "ALANA",
+                "explanation": "is. içərisi şəkərli qozla doldurulmuşmeyvə qurusu (armud",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 18
+            },
+            {
+                "word": "ALMAN",
+                "explanation": "is. ***iyanın əsas əhalisinitəşkil edən xalq və bu xalqa mənsub adam.*** ədəbiyyatının qədim abidələri",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 19
+            },
+            {
+                "word": "ALMAZ",
+                "explanation": "is. 1. son dərəcə bərk",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 20
+            },
+            {
+                "word": "ƏLZƏM",
+                "explanation": "sif. [ər.] klas. daha lazım",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 21
+            },
+            {
+                "word": "ƏMƏLƏ",
+                "explanation": "is. [ər.] fəhlə",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 22
+            },
+            {
+                "word": "ƏZƏLƏ",
+                "explanation": "is. [ər.] anat. insan və heyvanbədəninin",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 23
+            },
+            {
+                "word": "MANUL",
+                "explanation": "is. zool. çöl pişiyi",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 24
+            },
+            {
+                "word": "MƏLAL",
+                "explanation": "is. [ər.] ürək sıxıntısı; usanma",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 25
+            },
+            {
+                "word": "MƏLƏZ",
+                "explanation": "sif. [ər. mələs] 1. müxtəlif irqdəntörəmiş; metis. *** adam.2. başqa-başqa cinslərin birləşməsindəntörəmiş",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 26
+            },
+            {
+                "word": "MƏLUL",
+                "explanation": "sif. və zərf [ər.] məlallı",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 27
+            },
+            {
+                "word": "MƏLUM",
+                "explanation": "sif. [ər.] 1. bilinən",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 28
+            },
+            {
+                "word": "MƏLUN",
+                "explanation": "sif. və is. [ər.] əsil mənası “lənətəgəlmiş”",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 29
+            },
+            {
+                "word": "MƏMUL",
+                "explanation": "[ər.] sif. hazırlanmış",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 30
+            },
+            {
+                "word": "MUMLU",
+                "explanation": "sif. mum sürtülmüş",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 31
+            },
+            {
+                "word": "NALAN",
+                "explanation": "sif. və zərf [fars.] ağlayan",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 32
+            },
+            {
+                "word": "NAMLU",
+                "explanation": "is. lülə (topda",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 33
+            },
+            {
+                "word": "ULAMA",
+                "explanation": "1. “***q”dan f.is.2. it",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 34
+            },
+            {
+                "word": "ZƏLAM",
+                "explanation": "is. [ər.] klas. qaranlıq",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 35
+            },
+            {
+                "word": "ALANƏM",
+                "explanation": "sif. və zərf bir qədər nəm",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 36
+            },
+            {
+                "word": "ALAMAN",
+                "explanation": "is. məh. köhn. çapqın",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 37
+            },
+            {
+                "word": "ƏLAMAN",
+                "explanation": "[ər.] 1. yardıma",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 38
+            },
+            {
+                "word": "ƏLLAMƏ",
+                "explanation": "is. və sif. [ər.] 1. çox bilən",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 39
+            },
+            {
+                "word": "ƏLLƏMƏ",
+                "explanation": "is. məh. daş",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 40
+            },
+            {
+                "word": "MƏLƏMƏ",
+                "explanation": "“***k”dən f.is. bu haldaqızıl inəyin ***si qızxanımın qulağınaçatdı. s.s.axundov",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 41
+            },
+            {
+                "word": "MƏZLUM",
+                "explanation": "sif. və is. [ər.] 1. zülm çəkmiş",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 42
+            },
+            {
+                "word": "ANLAMAZ",
+                "explanation": "sif. qanmaz",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 43
+            },
+            {
+                "word": "MALAMAL",
+                "explanation": "sif. və zərf [fars.] dolu",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 44
+            },
+            {
+                "word": "NAMƏLUM",
+                "explanation": "sif. [fars. na … və ər. məlum]məlum olmayan",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 45
+            },
+            {
+                "word": "ZƏLZƏLƏ",
+                "explanation": "is. [ər.] yer qabığının bəzi sahələrininvulkanik və ya tektonik proseslərüzündən güclü titrəməsi; yer sarsıntısı",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 46
+            },
+            {
+                "word": "MƏZMUNLU",
+                "explanation": "sif. və zərf məzmunu zəngin",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 47
+            },
+            {
+                "word": "MƏZLUMANƏ",
+                "explanation": "[ər. məzlum və fars. …anə]bax məzlum-məzlum. *** xahiş.– mehriban",
+                "isPanagram": true,
+                "score": 17,
+                "length": 9,
+                "id": 48
+            }
+        ]
+    }
+}

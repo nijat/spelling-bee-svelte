@@ -1,0 +1,301 @@
+{
+    "gameData": {
+        "day": "20230914",
+        "expiration": "1694735940",
+        "centerLetter": "A",
+        "outerLetters": [
+            "Ğ",
+            "T",
+            "B",
+            "S",
+            "Y",
+            "I"
+        ],
+        "words_info": {
+            "word_count": 34,
+            "sum_score": 135,
+            "panagram_count": 1,
+            "word_length": {
+                "5": 6,
+                "6": 6,
+                "4": 16,
+                "7": 4,
+                "8": 2
+            }
+        },
+        "words": [
+            {
+                "word": "ATAT",
+                "explanation": "is. uşaqların ağac üstə minərəkoynadıqları oyun. at-at oynamaq",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "AYAT",
+                "explanation": "is. [ər. “ayə” söz. cəmi] bax ayə11-ci mənada. ya ki",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "AYIB",
+                "explanation": "is. [ər. eyb] 1. utanılacaq şey",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "BABA",
+                "explanation": "is. 1. atanın",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "BABI",
+                "explanation": "is. [xüs. is.-dən] 1. xıx əsrin ortasında iranda “bab” təxəllüslü mirzə əli məhəmməd tərəfindən təsis edilmiş dini təriqətə mənsub olan adam",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 5
+            },
+            {
+                "word": "BAĞA",
+                "explanation": "is. məh. atların buxovluğundaəmələ gələn xəstəlik (yara)",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 6
+            },
+            {
+                "word": "BATI",
+                "explanation": "is. məh. günbatan tərəf",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 7
+            },
+            {
+                "word": "SAAT",
+                "explanation": "is. [ər.] 1. gecə-gündüzün iyirmi dörddə birini təşkil edən və 60 dəqiqədən ibarət olan vaxt ölçüsü vahidi",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 8
+            },
+            {
+                "word": "SAYA",
+                "explanation": "sif. 1. bir rəngdə olan",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 9
+            },
+            {
+                "word": "SIĞA",
+                "explanation": "is. [ər.] köhn. 1. kiçik uşaqlar.2. yetimlər",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 10
+            },
+            {
+                "word": "TASA",
+                "explanation": "is. [fars.] 1. qəm",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 11
+            },
+            {
+                "word": "TAYA",
+                "explanation": "is. üst-üstə yığılmış ot",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 12
+            },
+            {
+                "word": "YABA",
+                "explanation": "is. ot",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 13
+            },
+            {
+                "word": "YABI",
+                "explanation": "is. 1. arıq",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 14
+            },
+            {
+                "word": "YAĞI",
+                "explanation": "is. düşmən. giryan dedi: “ey gözüm çirağı; vəhşilərə el",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 15
+            },
+            {
+                "word": "YASA",
+                "explanation": "is. [türkcə] qanun. ana *** (konstitusiya)",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 16
+            },
+            {
+                "word": "ABASI",
+                "explanation": "is. [xüs. is.-dən] 1. dördşahılıq (iyimiqəpiklik) metal pul. cibimdə bir abbası pulum var. – [hacı qara:] bu kasad bazarda mənim bir şahım yoxdur",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 17
+            },
+            {
+                "word": "BABAT",
+                "explanation": "sif. və zərf orta keyfiyyətli",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 18
+            },
+            {
+                "word": "BABAY",
+                "explanation": "is. uşaq dilində: qoca",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 19
+            },
+            {
+                "word": "BAYAT",
+                "explanation": "sif. 1. köhnəlmiş",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 20
+            },
+            {
+                "word": "SAYĞI",
+                "explanation": "is. 1. hörmət",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 21
+            },
+            {
+                "word": "YASTI",
+                "explanation": "sif. 1. səthi düz",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 22
+            },
+            {
+                "word": "ABBASI",
+                "explanation": "is. [xüs. is.-dən] 1. dördşahılıq (iyimiqəpiklik) metal pul. cibimdə bir *** pulum var. – [hacı qara:] bu kasad bazarda mənim bir şahım yoxdur",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 23
+            },
+            {
+                "word": "BASBAS",
+                "explanation": "is. məh. yaş meyvələri",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 24
+            },
+            {
+                "word": "BATBAT",
+                "explanation": "is. bot. bəngotu; pis qoxulu acıdadan ot bitki (xalq təbabətində işlədilir).gödək saplaqlı yaşıl rəngli və yumurtayaoxşarzəhərli otların",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 25
+            },
+            {
+                "word": "BAYAĞI",
+                "explanation": "sif. 1. ən adi",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 26
+            },
+            {
+                "word": "BAYATI",
+                "explanation": "is. 1. azərbaycan xalq musiqisindəhəzin bir hava adı. *** çəkmək(demək). – külli qarabağın abi-həyatı;nərmü nazik ***dır",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 27
+            },
+            {
+                "word": "TAYTAY",
+                "explanation": "sif. taylarla",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 28
+            },
+            {
+                "word": "ATABABA",
+                "explanation": "is. əcdad",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 29
+            },
+            {
+                "word": "BASABAS",
+                "explanation": "is. basırıq",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 30
+            },
+            {
+                "word": "BIĞYAĞI",
+                "explanation": "is. dan. 1. keçmişdə bığı yağlamaqüçün xüsusi yağlı maddə.2. dan. zar. cüzi rüşvət. *** vermək",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 31
+            },
+            {
+                "word": "TISBAĞA",
+                "explanation": "is. zool. bədəni sümük qınla örtülü",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 32
+            },
+            {
+                "word": "BAĞBAĞAT",
+                "explanation": "is. bağlıq",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 33
+            },
+            {
+                "word": "YASTIBIĞ",
+                "explanation": "sif. bığı yastı olan",
+                "isPanagram": true,
+                "score": 17,
+                "length": 8,
+                "id": 34
+            }
+        ]
+    }
+}

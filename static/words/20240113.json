@@ -1,0 +1,727 @@
+{
+    "gameData": {
+        "day": "20240113",
+        "expiration": "1705190340",
+        "centerLetter": "L",
+        "outerLetters": [
+            "R",
+            "A",
+            "C",
+            "Q",
+            "I",
+            "M"
+        ],
+        "words_info": {
+            "word_count": 87,
+            "sum_score": 523,
+            "panagram_count": 1,
+            "word_length": {
+                "6": 14,
+                "9": 2,
+                "5": 22,
+                "7": 21,
+                "8": 13,
+                "4": 11,
+                "10": 4
+            }
+        },
+        "words": [
+            {
+                "word": "ALAQ",
+                "explanation": "is. tarlada",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "ALAM",
+                "explanation": "is. [ər. “ələm” söz. cəmi] qəm",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "ALIQ",
+                "explanation": "is. köhn. öküz",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "ALIM",
+                "explanation": "is. köhn. 1. alacaq",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "ALLI",
+                "explanation": "sif. köhn. al rəngli paltar geymiş.tərifli gözəllər gəlhagəl oldu; yaşıllı",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 5
+            },
+            {
+                "word": "ALMA",
+                "explanation": "is. müxtəlif çeşidləri və müxtəlif rənglərdə olan girdə",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 6
+            },
+            {
+                "word": "AMAL",
+                "explanation": "is. [ər. “əməl” söz. cəmi] tənt. qayə",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 7
+            },
+            {
+                "word": "ARLI",
+                "explanation": "sif. həyalı",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 8
+            },
+            {
+                "word": "QALA",
+                "explanation": "is. [ər.] 1. uzun müddət içində qapanıbdüşmənə müqavimət göstərmək üçünmöhkəm müdafiə tikililəri və vasitələri olanistehkam (məntəqə)",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 9
+            },
+            {
+                "word": "LARI",
+                "explanation": "sif. uzunqıçlı",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 10
+            },
+            {
+                "word": "MALA",
+                "explanation": "is. [fars.] 1. binanın iç və bayırdivarlarına çəkmək üçün əhəng",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 11
+            },
+            {
+                "word": "ACILI",
+                "explanation": "sif. zəhərli",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 12
+            },
+            {
+                "word": "ACLIQ",
+                "explanation": "is. 1. yeməyə ehtiyac hissi. səhərdən*** hiss edirəm. // uzun müddətdoyunca yeməmə. ***dan tələf olmaq",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 13
+            },
+            {
+                "word": "ALALI",
+                "explanation": "sif. alası olan",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 14
+            },
+            {
+                "word": "ALICI",
+                "explanation": "1. is. müştəri",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 15
+            },
+            {
+                "word": "ALLIQ",
+                "explanation": "is. al rəngli şeyin halı; qırmızılıq.bu ***da gül olmaz. – geniş payız meşəsibir allığa və rəngarəng sarılığa boyanırdı",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 16
+            },
+            {
+                "word": "CALAQ",
+                "explanation": "is. 1. bot. bir bitkinin başqa bitki ilə ***lanma nəticəsində inkişaf etmiş hissəsi; peyvənd",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 17
+            },
+            {
+                "word": "CALAL",
+                "explanation": "is. [ər.] əzəmət",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 18
+            },
+            {
+                "word": "CAMAL",
+                "explanation": "is. [ər.] şair. gözəllik",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 19
+            },
+            {
+                "word": "CAMLI",
+                "explanation": "sif. şüşəli",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 20
+            },
+            {
+                "word": "QALAQ",
+                "explanation": "is. bir yerə qalanmış",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 21
+            },
+            {
+                "word": "QALIQ",
+                "explanation": "is. 1. bir şeyin",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 22
+            },
+            {
+                "word": "QALIM",
+                "explanation": "is. qalma",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 23
+            },
+            {
+                "word": "QALLI",
+                "explanation": "sif. qalmaqal salan",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 24
+            },
+            {
+                "word": "QARLI",
+                "explanation": "sif. 1. qarla örtülmüş",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 25
+            },
+            {
+                "word": "QILIQ",
+                "explanation": "is. xasiyyət",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 26
+            },
+            {
+                "word": "QILLI",
+                "explanation": "sif. 1. üzərində qıllar olan",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 27
+            },
+            {
+                "word": "QIRLI",
+                "explanation": "sif. qır salınmış",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 28
+            },
+            {
+                "word": "LALIQ",
+                "explanation": "sif. həddindən artıq dəyib boşalmış",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 29
+            },
+            {
+                "word": "LIQQA",
+                "explanation": "is. yağmurdan",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 30
+            },
+            {
+                "word": "MACAL",
+                "explanation": "is. [ər.] imkan",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 31
+            },
+            {
+                "word": "MALLI",
+                "explanation": "sif. mal-qarası olan",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 32
+            },
+            {
+                "word": "MARAL",
+                "explanation": "is. zool. buynuzları budaq kimişaxələnən",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 33
+            },
+            {
+                "word": "ACIQLI",
+                "explanation": "sif. 1. hirsli",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 34
+            },
+            {
+                "word": "ACILIQ",
+                "explanation": "is. 1. acı şeyin halı; acı dadma.ağız acılığı. yağın bir az acılığı var. ağzımda*** var.2. məc",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 35
+            },
+            {
+                "word": "ALACAQ",
+                "explanation": "is. alınacaq borc",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 36
+            },
+            {
+                "word": "ALAQLI",
+                "explanation": "sif. alaq basmış",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 37
+            },
+            {
+                "word": "ARALIQ",
+                "explanation": "is. 1. iki şey arasındakı boşluq",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 38
+            },
+            {
+                "word": "ARAMLI",
+                "explanation": "sif. 1. səbirli",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 39
+            },
+            {
+                "word": "CIRLIQ",
+                "explanation": "is. 1. cır ağac və ya kollar basmışyer. ***",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 40
+            },
+            {
+                "word": "QACLIQ",
+                "explanation": "is. dan. zidlik",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 41
+            },
+            {
+                "word": "QALAMA",
+                "explanation": "“***q”dan f.is. □ bir ***– ağzına qədər dolu",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 42
+            },
+            {
+                "word": "QALLAC",
+                "explanation": "sif. dan. əliaçıq",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 43
+            },
+            {
+                "word": "QARLIQ",
+                "explanation": "is. çoxlu qar olan yer",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 44
+            },
+            {
+                "word": "QICLIQ",
+                "explanation": "is. qıc olmuş bədən üzvününhalı; keylik",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 45
+            },
+            {
+                "word": "LALLIQ",
+                "explanation": "is. lal adamın halı",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 46
+            },
+            {
+                "word": "MALALI",
+                "explanation": "sif. mala çəkilmiş",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 47
+            },
+            {
+                "word": "ACILICA",
+                "explanation": "is. bot. bəzi növlərindən dərmanhasil edilən çoxillik ot bitkisi",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 48
+            },
+            {
+                "word": "ALACALI",
+                "explanation": "sif. dan. rəngbərəng",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 49
+            },
+            {
+                "word": "ALAQLIQ",
+                "explanation": "is. alağı çox olan",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 50
+            },
+            {
+                "word": "ALMACIQ",
+                "explanation": "is. gözlərin altında",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 51
+            },
+            {
+                "word": "ALMALIQ",
+                "explanation": "is. alma bağı",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 52
+            },
+            {
+                "word": "ARIQLIQ",
+                "explanation": "is. arıq adamın",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 53
+            },
+            {
+                "word": "CALAQLI",
+                "explanation": "sif. calağı olan",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 54
+            },
+            {
+                "word": "CALALLI",
+                "explanation": "sif. dəbdəbəli",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 55
+            },
+            {
+                "word": "CAMALLI",
+                "explanation": "sif. gözəl",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 56
+            },
+            {
+                "word": "CIQQALI",
+                "explanation": "sif. cıqqa taxmış",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 57
+            },
+            {
+                "word": "QALIQLI",
+                "explanation": "sif. riyaz. böldükdə qalıq qalan(bax qalıq 4-cü mənada)",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 58
+            },
+            {
+                "word": "QARALIQ",
+                "explanation": "is. qara şeyin halı. saçın qaralığı.dərinin qaralığı",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 59
+            },
+            {
+                "word": "QARAMAL",
+                "explanation": "is. buynuzlu iri ev heyvanı(öküz",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 60
+            },
+            {
+                "word": "QARILIQ",
+                "explanation": "is. 1. qocalıq (qadın haqqında).2. arvadlıq",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 61
+            },
+            {
+                "word": "QILIQLI",
+                "explanation": "sif. yaxşı xasiyyətli",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 62
+            },
+            {
+                "word": "QILLICA",
+                "explanation": "is. 1. vəhşi.2. bot. taxıl fəsiləsinə aid birillik bitki",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 63
+            },
+            {
+                "word": "QIRAQLI",
+                "explanation": "1. sif. qırağı",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 64
+            },
+            {
+                "word": "MALAMAL",
+                "explanation": "sif. və zərf [fars.] dolu",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 65
+            },
+            {
+                "word": "MAMALIQ",
+                "explanation": "is. mamanın işi",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 66
+            },
+            {
+                "word": "MAMIRLI",
+                "explanation": "sif. 1. mamırla örtülmüş",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 67
+            },
+            {
+                "word": "MARAQLI",
+                "explanation": "sif. 1. maraq oyadan",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 68
+            },
+            {
+                "word": "ALACAQLI",
+                "explanation": "is. və sif. başqasından alacağı",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 69
+            },
+            {
+                "word": "ALACALIQ",
+                "explanation": "is. ala-bulalıq",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 70
+            },
+            {
+                "word": "ALICILIQ",
+                "explanation": "is. iqt. satınalma imkanı",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 71
+            },
+            {
+                "word": "AMALQAMA",
+                "explanation": "[fr. əsli ərəbcədən] kim.bəzi metalların civə ilə əmələ gətirdiyiərinti",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 72
+            },
+            {
+                "word": "QALMAQAL",
+                "explanation": "is. səs-küy",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 73
+            },
+            {
+                "word": "QAMQALAQ",
+                "explanation": "is. xarrat işləri zamanı yerətökülən nazik taxta – talaşa. …sarı əlinə düşənçör-çöpü",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 74
+            },
+            {
+                "word": "QARACALI",
+                "explanation": "sif. içində qaraca olan. ***buğda",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 75
+            },
+            {
+                "word": "QARALAMA",
+                "explanation": "1. “***q”dan f.is.2. is. bax qara1 5-ci mənada. ona görə[möhlətov] nə plan tökdü",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 76
+            },
+            {
+                "word": "QARMAQLI",
+                "explanation": "sif. ucunda qarmağı olan.*** zəncir. *** kəmər",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 77
+            },
+            {
+                "word": "QILLILIQ",
+                "explanation": "is. qıllı olma",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 78
+            },
+            {
+                "word": "QIRIQLIQ",
+                "explanation": "is. 1. qırıq şeyin halı; sınıqlıq.2. əzginlik",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 79
+            },
+            {
+                "word": "MAMIRLIQ",
+                "explanation": "is. çox mamır bitən yer",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 80
+            },
+            {
+                "word": "ACIQLILIQ",
+                "explanation": "is. acıqlı adamın halı",
+                "isPanagram": false,
+                "score": 9,
+                "length": 9,
+                "id": 81
+            },
+            {
+                "word": "MALQARALI",
+                "explanation": "sif. mal-qarası olan",
+                "isPanagram": false,
+                "score": 9,
+                "length": 9,
+                "id": 82
+            },
+            {
+                "word": "QALMAQALLI",
+                "explanation": "sif. davalı",
+                "isPanagram": false,
+                "score": 10,
+                "length": 10,
+                "id": 83
+            },
+            {
+                "word": "QILIQLILIQ",
+                "explanation": "is. yaxşı xasiyyətlilik",
+                "isPanagram": false,
+                "score": 10,
+                "length": 10,
+                "id": 84
+            },
+            {
+                "word": "LALIQMALIQ",
+                "explanation": "sif. dan. dilsiz-ağızsız",
+                "isPanagram": false,
+                "score": 10,
+                "length": 10,
+                "id": 85
+            },
+            {
+                "word": "MARAQLILIQ",
+                "explanation": "is. maraqlı olma",
+                "isPanagram": false,
+                "score": 10,
+                "length": 10,
+                "id": 86
+            },
+            {
+                "word": "QIRMACLI",
+                "explanation": "sif. əlində qırmanc olan. arada gəzən əli qırmanclı nəzarətçilər “tənbəllik” edənləri döyəcək(dilər)",
+                "isPanagram": true,
+                "score": 17,
+                "length": 8,
+                "id": 87
+            }
+        ]
+    }
+}

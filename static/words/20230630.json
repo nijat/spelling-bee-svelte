@@ -1,0 +1,165 @@
+{
+    "gameData": {
+        "day": "20230630",
+        "expiration": "1688169540",
+        "centerLetter": "S",
+        "outerLetters": [
+            "İ",
+            "Ə",
+            "N",
+            "C",
+            "T",
+            "Z"
+        ],
+        "words_info": {
+            "word_count": 17,
+            "sum_score": 75,
+            "panagram_count": 1,
+            "word_length": {
+                "4": 7,
+                "5": 5,
+                "8": 1,
+                "9": 1,
+                "6": 3
+            }
+        },
+        "words": [
+            {
+                "word": "CİNS",
+                "explanation": "is. [ing.] pambıqdan toxunan qalınvə davamlı parça növü",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "ƏNİS",
+                "explanation": "is. [ər.] şair. yaxın dost",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "ƏSƏN",
+                "explanation": "sif. qəd. sağ",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "SƏNƏ",
+                "explanation": "is. [ər.] il. bir gecəlik mətləbin bir*** mabədi var. m.ə.sabir. millətin beş*** bundan əqdəm; yüz nəfərdən biri tutmazdıqələm",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "SİNƏ",
+                "explanation": "is. [fars.] 1. döş",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 5
+            },
+            {
+                "word": "SİNİ",
+                "explanation": "is. misdən",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 6
+            },
+            {
+                "word": "SİNN",
+                "explanation": "is. [ər.] yaş. xudayar bəyin ancaqotuz yeddi-otuz səkkiz ***i olar",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 7
+            },
+            {
+                "word": "CİNSİ",
+                "explanation": "sif. [ər.] cinsə aid olan",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 8
+            },
+            {
+                "word": "ƏTSİZ",
+                "explanation": "sif. 1. arıq",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 9
+            },
+            {
+                "word": "SƏNƏT",
+                "explanation": "is. [ər.] 1. müəyyən hazırlıq tələbedən və sahibinin yaşaması üçün əsas mənbəsayılan əmək fəaliyyətinin bir növü; peşə",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 10
+            },
+            {
+                "word": "SİZCƏ",
+                "explanation": "əvəz. sizin fikrinizcə. *** yağacaq? *** yarışda kim qalib gələcək? // müsahibin fikrincə",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 11
+            },
+            {
+                "word": "TƏSİS",
+                "explanation": "is. [ər.] əsasını",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 12
+            },
+            {
+                "word": "SƏSSİZ",
+                "explanation": "sif. və zərf 1. səs çıxarmayan",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 13
+            },
+            {
+                "word": "SİSTİT",
+                "explanation": "is. [yun.] sidik kisəsinin iltihabıxəstəliyi",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 14
+            },
+            {
+                "word": "TƏCNİS",
+                "explanation": "is. [ər.] ədəb. cinas üzərindəqurulub əsasən üç",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 15
+            },
+            {
+                "word": "ƏTƏNƏSİZ",
+                "explanation": "sif. ətənəsi olmayan (məməlilərhaqqında)",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 16
+            },
+            {
+                "word": "NƏTİCƏSİZ",
+                "explanation": "sif. nəticəsi olmayan",
+                "isPanagram": true,
+                "score": 17,
+                "length": 9,
+                "id": 17
+            }
+        ]
+    }
+}

@@ -1,0 +1,358 @@
+{
+    "gameData": {
+        "day": "20231123",
+        "expiration": "1700783940",
+        "centerLetter": "N",
+        "outerLetters": [
+            "H",
+            "İ",
+            "A",
+            "R",
+            "Q",
+            "Ə"
+        ],
+        "words_info": {
+            "word_count": 41,
+            "sum_score": 152,
+            "panagram_count": 1,
+            "word_length": {
+                "4": 20,
+                "5": 12,
+                "9": 1,
+                "8": 2,
+                "7": 2,
+                "6": 4
+            }
+        },
+        "words": [
+            {
+                "word": "AHƏN",
+                "explanation": "is. [fars.] klas. dəmir. peykanlarınladoldu tənim",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "ANƏN",
+                "explanation": "zərf [ər.] birdən",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "ARAN",
+                "explanation": "is. azərbaycanda: yaylaq yerlərənisbətən alçaq və iqlimcə isti olan yerlər.azərbaycanın əsas *** yerləri muğan",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "ƏNİN",
+                "explanation": "is. [ər.] şair. inləmə",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "ƏNQA",
+                "explanation": "is. [ər.] klas. 1. əsatirə görə qaf(elbrus) dağında yaşamış əfsanəvi çox iribir quş; simurq.2. adı olub özü olmayan şey haqqında",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 5
+            },
+            {
+                "word": "ƏRƏN",
+                "explanation": "is. (adətən cəm şəklində). 1. ər",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 6
+            },
+            {
+                "word": "HANA",
+                "explanation": "is. əllə xalça",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 7
+            },
+            {
+                "word": "HƏNA",
+                "explanation": "is. [ər.] xına. dünən oğlanı göndərdim",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 8
+            },
+            {
+                "word": "QAAN",
+                "explanation": "is. tar. türk",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 9
+            },
+            {
+                "word": "QƏNİ",
+                "explanation": "sif. [ər.] köhn. varlı",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 10
+            },
+            {
+                "word": "QİNA",
+                "explanation": "is. [ər.] köhn. xanəndəlik; nəğmə",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 11
+            },
+            {
+                "word": "QRAN",
+                "explanation": "[lat.] riyaz. 0",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 12
+            },
+            {
+                "word": "NANƏ",
+                "explanation": "[ər.] bot. yeyilən çoxillik ətirligöyərti növü. *** qurutmaq. üç dəstə ***.□ *** cövhəri (arağı) – ***dən çəkilənaraq",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 13
+            },
+            {
+                "word": "NƏHR",
+                "explanation": "is. [ər.] böyük çay",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 14
+            },
+            {
+                "word": "NƏNƏ",
+                "explanation": "is. 1. atanın",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 15
+            },
+            {
+                "word": "NƏRƏ",
+                "explanation": "is. məh. evlərin üstünə qoyulan tir.su gəldi",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 16
+            },
+            {
+                "word": "RANQ",
+                "explanation": "is. [fr.] fərqlənmə dərəcəsi; kateqoriya",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 17
+            },
+            {
+                "word": "RƏHN",
+                "explanation": "is. [ər.] 1. girov. onun bütün əmlakırus bankının ***indədir. m.s.ordubadi.[hacı vəli:] evində iki otaq dolusu *** qoyulmuşşeylər var idi",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 18
+            },
+            {
+                "word": "RƏNA",
+                "explanation": "sif. və is. [ər.] şair. 1. gözəl (qız",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 19
+            },
+            {
+                "word": "RİNQ",
+                "explanation": "idm. [ing.] ətrafı kanatla tutulmuşboks yarışı meydançası",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 20
+            },
+            {
+                "word": "ANQAR",
+                "explanation": "[fr.] təyyarələrin saxlanması vəcari təmiri üçün xüsusi tikili. ***lar istifadəsinəgörə daimi",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 21
+            },
+            {
+                "word": "ƏNƏNƏ",
+                "explanation": "is. [ər.] tarixən meydana gələrəknəsildən-nəslə keçən adətlər",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 22
+            },
+            {
+                "word": "ƏNHAR",
+                "explanation": "is. [ər. “nəhr” söz. cəmi] şair.çaylar",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 23
+            },
+            {
+                "word": "HƏNİR",
+                "explanation": "is. yavaş səs. bir ağac yıxıldı yolqırağında; bir *** yox oldu yol qırağından…m.araz",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 24
+            },
+            {
+                "word": "QƏNİR",
+                "explanation": "is. dan. tay",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 25
+            },
+            {
+                "word": "NAHAQ",
+                "explanation": "sif. [fars. na… və ər. həqq] 1. haqsız",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 26
+            },
+            {
+                "word": "NAHAR",
+                "explanation": "is. [ər. nəhar] 1. günorta yeməyi.*** etmək. – mirzə iştahasız *** yeyibyatmaq istədi. ə.haqverdiyev",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 27
+            },
+            {
+                "word": "NAQAN",
+                "explanation": "[xüs. is.-dən] hərlənən topu(barabanı) olan tapança növü. [balaqardaş:]güldəstə! bir gözümün içinə dürüst bax! bu***ı görürsənmi? n",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 28
+            },
+            {
+                "word": "NAQQA",
+                "explanation": "is. zool. şirin suda yaşayan üstü pulsuz",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 29
+            },
+            {
+                "word": "NƏNNİ",
+                "explanation": "is. 1. körpə uşaqları yatırtmaq üçünasılan kiçik yatacaq. [qumru] uşağı ***yəsalıb küncə qısıldı",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 30
+            },
+            {
+                "word": "NİHAN",
+                "explanation": "sif. [fars.] klas. gizli",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 31
+            },
+            {
+                "word": "NİNNİ",
+                "explanation": "is. layla",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 32
+            },
+            {
+                "word": "QARNAQ",
+                "explanation": "is. məh. qar duran yer",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 33
+            },
+            {
+                "word": "QARNİR",
+                "explanation": "is. [fr.] ət və balıq yeməklərininyanında verilən bişmiş xəmir",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 34
+            },
+            {
+                "word": "QƏNARƏ",
+                "explanation": "is. kəsilmiş heyvanların cəmdəyiniasmaq üçün iri qarmaq. əti ***dənasmaq. – qurban götür kəs məni; ***dənas məni; al könlümü",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 35
+            },
+            {
+                "word": "QƏRİNƏ",
+                "explanation": "is. [ər.] əslində 33 illik bir dövrolub",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 36
+            },
+            {
+                "word": "QAQQANA",
+                "explanation": "is. qaqqıltı. pilləkəni titrətdi muştuluqçu qonşu qızın ***sı. r.rza. □ ***q çalmaq – 1) qaqqıldamaq",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 37
+            },
+            {
+                "word": "QARARAN",
+                "explanation": "is. bot. qış otlaqlarında bitənçoxillik yem bitkisi",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 38
+            },
+            {
+                "word": "QAQQANAQ",
+                "explanation": "is. qaqqıltı. pilləkəni titrətdi muştuluqçu qonşu qızın qaqqanası. r.rza. □ *** çalmaq – 1) qaqqıldamaq",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 39
+            },
+            {
+                "word": "HAQQNAHAQ",
+                "explanation": "zərf [ər. həqq və fars. na]haqlı olub-olmadığından asılı olmayaraq;istər haqlı olsun",
+                "isPanagram": false,
+                "score": 9,
+                "length": 9,
+                "id": 40
+            },
+            {
+                "word": "HƏQİRANƏ",
+                "explanation": "zərf və sif. [ər. həqir və fars.…anə] 1. həqir olana yaraşacaq bir tərzdə;qorxa-qorxa",
+                "isPanagram": true,
+                "score": 17,
+                "length": 8,
+                "id": 41
+            }
+        ]
+    }
+}

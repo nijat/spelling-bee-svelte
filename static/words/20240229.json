@@ -1,0 +1,382 @@
+{
+    "gameData": {
+        "day": "20240229",
+        "expiration": "1709251140",
+        "centerLetter": "L",
+        "outerLetters": [
+            "K",
+            "İ",
+            "B",
+            "H",
+            "R",
+            "A"
+        ],
+        "words_info": {
+            "word_count": 44,
+            "sum_score": 257,
+            "panagram_count": 1,
+            "word_length": {
+                "5": 15,
+                "7": 2,
+                "8": 9,
+                "4": 6,
+                "6": 9,
+                "9": 3
+            }
+        },
+        "words": [
+            {
+                "word": "BALA",
+                "explanation": "1. is. övlad",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "HAİL",
+                "explanation": "is. [ər.] köhn. 1. dəyişmiş",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "HALA",
+                "explanation": "zərf [ər.] klas. indi",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "HALİ",
+                "explanation": "is. [ər.] bir hadisə",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "KALA",
+                "explanation": "is. məh. böyük şüşə qab",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 5
+            },
+            {
+                "word": "RİAL",
+                "explanation": "is. [fars.] iranda pul vahidi",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 6
+            },
+            {
+                "word": "ALLAH",
+                "explanation": "is. [ər.] 1. bütün kainatın yeganə yaradıcısı və idarə edəni; yaradan",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 7
+            },
+            {
+                "word": "BAKAL",
+                "explanation": "[fr.] iri qədəh",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 8
+            },
+            {
+                "word": "BALBA",
+                "explanation": "is. məh. cincilim",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 9
+            },
+            {
+                "word": "BİHAL",
+                "explanation": "zərf və sif. [fars. bi… və ər. hal]1. halsız",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 10
+            },
+            {
+                "word": "BİLİK",
+                "explanation": "is. oxumaq və ya təcrübə nəticəsindəəldə edilən məlumat; elm. *** insanınbəzəyidir. onun dərin biliyi var",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 11
+            },
+            {
+                "word": "HALAL",
+                "explanation": "sif. [ər.] 1. islam dininin ehkamlarınagörə yeyilməsinə",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 12
+            },
+            {
+                "word": "HİLAL",
+                "explanation": "is. [ər.] 1. təzə çıxmış bir-ikigünlük ay; aypara. hər gecə fəğanım yetişirgöydə ***ə. s.ə.şirvani",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 13
+            },
+            {
+                "word": "HİLLİ",
+                "explanation": "sif. tərkibində hil olan",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 14
+            },
+            {
+                "word": "KAHAL",
+                "explanation": "sif. [ər.] dan. başısoyuq",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 15
+            },
+            {
+                "word": "KAHİL",
+                "explanation": "[ər.] bax kahıl. kimə olsan müsahib",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 16
+            },
+            {
+                "word": "KALKA",
+                "explanation": "[fr.] 1. çertyojlardan",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 17
+            },
+            {
+                "word": "KİRLİ",
+                "explanation": "sif. kir tutmuş",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 18
+            },
+            {
+                "word": "LİLLİ",
+                "explanation": "sif. lehməli",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 19
+            },
+            {
+                "word": "LİRİK",
+                "explanation": "sif. [yun.] 1. ***a xüsusiyyətləriolan",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 20
+            },
+            {
+                "word": "RALLİ",
+                "explanation": "is. [ing.] avtomobil idmanı üzrə1000-2000 km məsafədə keçirilən yarışlarkompleksi",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 21
+            },
+            {
+                "word": "BALKAR",
+                "explanation": "is. şimali qafqazda yaşayantürkdilli xalq və bu xalqa mənsub adam",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 22
+            },
+            {
+                "word": "BİLLAH",
+                "explanation": "[ər.] köhn. allaha and olsun (and).yar cövr etməz mana",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 23
+            },
+            {
+                "word": "BİRLİK",
+                "explanation": "is. 1. bir olma",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 24
+            },
+            {
+                "word": "HİLALİ",
+                "explanation": "sif. hilal şəklində",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 25
+            },
+            {
+                "word": "KALİBR",
+                "explanation": "[fr.] 1. xüs. silah lüləsi diametrininölçüsü; çap. ***i böyük toplar.// mərmi və ya güllənin diametri",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 26
+            },
+            {
+                "word": "KARLAL",
+                "explanation": "is. həm eşitmək",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 27
+            },
+            {
+                "word": "KİBRLİ",
+                "explanation": "sif. lovğa",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 28
+            },
+            {
+                "word": "KİRLİK",
+                "explanation": "is. bir şeyin çirklənməməsi üçünonun üzərinə çəkilən parça. // döşlük",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 29
+            },
+            {
+                "word": "LALKAR",
+                "explanation": "1. sif. həm danışmaq",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 30
+            },
+            {
+                "word": "BABİLİK",
+                "explanation": "is. [xüs. is.-dən] 1. babi məzhəbi; xıx əsrin ortalarında iranda “bab” təxəllüslü mirzə əli məhəmməd adlı bir şəxs tərəfindən təsis edilmiş dini təriq",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 31
+            },
+            {
+                "word": "BİLİKLİ",
+                "explanation": "sif. bilik sahibi",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 32
+            },
+            {
+                "word": "BAKİRLİK",
+                "explanation": "is. qızlıq",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 33
+            },
+            {
+                "word": "BALABİBİ",
+                "explanation": "is. məh. 1. kiçik bibiyə verilənad.2. gəlinlərə verilən ləqəb; gəlinciyəz",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 34
+            },
+            {
+                "word": "BARİLAHA",
+                "explanation": "nida [ər.] köhn. ay allah",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 35
+            },
+            {
+                "word": "BİRİLLİK",
+                "explanation": "sif. 1. bir il davam edən",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 36
+            },
+            {
+                "word": "HALBAHAL",
+                "explanation": "zərf [ər. hal və fars. bə] : *** olmaq – haldan hala düşmək",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 37
+            },
+            {
+                "word": "KALİBRLİ",
+                "explanation": "sif. xüs. müəyyən kalibrdəolan",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 38
+            },
+            {
+                "word": "KİRLİLİK",
+                "explanation": "is. kirli şeyin halı; çirklilik",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 39
+            },
+            {
+                "word": "LİLLİLİK",
+                "explanation": "is. lilli olma; lehməlilik",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 40
+            },
+            {
+                "word": "BARİİLAHA",
+                "explanation": "nida [ər.] köhn. ay allah",
+                "isPanagram": false,
+                "score": 9,
+                "length": 9,
+                "id": 41
+            },
+            {
+                "word": "BARİİLAHİ",
+                "explanation": "nida [ər.] köhn. ay allah",
+                "isPanagram": false,
+                "score": 9,
+                "length": 9,
+                "id": 42
+            },
+            {
+                "word": "KİBRLİLİK",
+                "explanation": "is. kibrli adamın hal və keyfiyyəti;lovğalıq",
+                "isPanagram": false,
+                "score": 9,
+                "length": 9,
+                "id": 43
+            },
+            {
+                "word": "RAHİBLİK",
+                "explanation": "is. rahibin yaşayış tərzi",
+                "isPanagram": true,
+                "score": 17,
+                "length": 8,
+                "id": 44
+            }
+        ]
+    }
+}

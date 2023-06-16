@@ -1,0 +1,269 @@
+{
+    "gameData": {
+        "day": "20240502",
+        "expiration": "1714694340",
+        "centerLetter": "N",
+        "outerLetters": [
+            "A",
+            "L",
+            "D",
+            "C",
+            "İ",
+            "X"
+        ],
+        "words_info": {
+            "word_count": 30,
+            "sum_score": 123,
+            "panagram_count": 1,
+            "word_length": {
+                "4": 13,
+                "5": 9,
+                "6": 2,
+                "7": 4,
+                "8": 2
+            }
+        },
+        "words": [
+            {
+                "word": "ADNA",
+                "explanation": "is. cümə axşamı",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "AXAN",
+                "explanation": "f.sif. 1. bax axar 1-ci mənada. [salam] lal *** kəhriz suyundan ovuc dolusu içdi. mir cəlal. 2. məc",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "ANAC",
+                "explanation": "sif. 1. dəfələrlə bala doğub",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "CANİ",
+                "explanation": "is. [ər.] cinayət etmiş",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "DANA",
+                "explanation": "is. bir yaşdan iki yaşa qədər olaninək balası. *** əti. – danışıq ***nı qurdaverər. (məsəl)",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 5
+            },
+            {
+                "word": "DİNA",
+                "explanation": "is. [yun.] fiz. kütləsi bir qram olancismə bir saniyədə bir santimetr təcil verənqüvvə",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 6
+            },
+            {
+                "word": "DİNC",
+                "explanation": "sif. 1. başqasını narahat etməyən",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 7
+            },
+            {
+                "word": "DİNİ",
+                "explanation": "sif. [ər.] dinlə əlaqədar olan",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 8
+            },
+            {
+                "word": "XAİN",
+                "explanation": "sif. [ər.] 1. vətəninə",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 9
+            },
+            {
+                "word": "XANA",
+                "explanation": "is. 1. xırda dördbucaqlara bölünmüş bir şeyin qisimlərindən hər biri; dama",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 10
+            },
+            {
+                "word": "LİNC",
+                "explanation": "sif. 1. aşp. dəm almayıb bir-birinəyapışan düyü. gülmə gülünc olana; bir aşı*** olana; gülürsən də gülgilən; qulağı dincolana",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 11
+            },
+            {
+                "word": "NAİL",
+                "explanation": "[ər.] : *** olmaq – əldə etmək",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 12
+            },
+            {
+                "word": "NİDA",
+                "explanation": "is. [ər.] 1. hiss",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 13
+            },
+            {
+                "word": "ALANA",
+                "explanation": "is. içərisi şəkərli qozla doldurulmuşmeyvə qurusu (armud",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 14
+            },
+            {
+                "word": "CANAN",
+                "explanation": "is. [fars.] sevgili",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 15
+            },
+            {
+                "word": "CİNLİ",
+                "explanation": "sif. dəli",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 16
+            },
+            {
+                "word": "DALAN",
+                "explanation": "is. 1. küçə qapısından həyətə gedənüstüörtülü və ya açıq yol. [hacı fərəc:]bundan sonra ***ın qapısı həmişə gərəkbağlı ola… n",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 17
+            },
+            {
+                "word": "LİANA",
+                "explanation": "[fr.] bot. tropik meşələrdə",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 18
+            },
+            {
+                "word": "NADAN",
+                "explanation": "sif. [fars.] 1. cahil",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 19
+            },
+            {
+                "word": "NALAN",
+                "explanation": "sif. və zərf [fars.] ağlayan",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 20
+            },
+            {
+                "word": "NANDİ",
+                "explanation": "is. afrikada yaşayan qohum xalqlarqrupu",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 21
+            },
+            {
+                "word": "NİNNİ",
+                "explanation": "is. layla",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 22
+            },
+            {
+                "word": "ANACAN",
+                "explanation": "is. anaya nəvazişlə müraciət.[rəsul:] ***",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 23
+            },
+            {
+                "word": "NADİNC",
+                "explanation": "sif. 1. dəcəl",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 24
+            },
+            {
+                "word": "CANALAN",
+                "explanation": "sif. 1. cəllad",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 25
+            },
+            {
+                "word": "DANLANC",
+                "explanation": "sif. çox danlanan",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 26
+            },
+            {
+                "word": "DİLİCAN",
+                "explanation": "is. [fr.] keçmişdə dördtəkərlipoçt",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 27
+            },
+            {
+                "word": "XALACAN",
+                "explanation": "is. xalaya nəvazişlə müraciət.***",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 28
+            },
+            {
+                "word": "XANAXANA",
+                "explanation": "sif. 1. xanalardan ibarət",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 29
+            },
+            {
+                "word": "CİLDXANA",
+                "explanation": "is. [ər. cild və fars. …xanə]cild çəkilən emalatxana (sex). kitabları ***yaaparmaq. – indi isə [mirzə qədirin]son sistemdə dörd böyük çap maşı",
+                "isPanagram": true,
+                "score": 17,
+                "length": 8,
+                "id": 30
+            }
+        ]
+    }
+}

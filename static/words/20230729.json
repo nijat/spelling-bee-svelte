@@ -1,0 +1,204 @@
+{
+    "gameData": {
+        "day": "20230729",
+        "expiration": "1690675140",
+        "centerLetter": "N",
+        "outerLetters": [
+            "Ü",
+            "R",
+            "Y",
+            "Ö",
+            "Ə",
+            "K"
+        ],
+        "words_info": {
+            "word_count": 22,
+            "sum_score": 96,
+            "panagram_count": 1,
+            "word_length": {
+                "6": 2,
+                "4": 8,
+                "5": 9,
+                "7": 3
+            }
+        },
+        "words": [
+            {
+                "word": "ƏNƏK",
+                "explanation": "is. 1. yük atı",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "ƏRƏN",
+                "explanation": "is. (adətən cəm şəklində). 1. ər",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "KÜNƏ",
+                "explanation": "is. yumurtanın enli (küt) tərəfi.…əli yumurtasının ***sini tutur və deyir…c.məmmədquluzadə",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "NƏNƏ",
+                "explanation": "is. 1. atanın",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "NƏRƏ",
+                "explanation": "is. məh. evlərin üstünə qoyulan tir.su gəldi",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 5
+            },
+            {
+                "word": "ÖRƏN",
+                "explanation": "is. əkilməmiş sahə",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 6
+            },
+            {
+                "word": "ÖYNƏ",
+                "explanation": "is. məh. 1. bax növbə. barmaqlanişan verib səni; budur",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 7
+            },
+            {
+                "word": "RÜKN",
+                "explanation": "is. [ər.] 1. bir şeyin ən sağlam vəmöhkəm tərəfi; təməl",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 8
+            },
+            {
+                "word": "ƏNƏNƏ",
+                "explanation": "is. [ər.] tarixən meydana gələrəknəsildən-nəslə keçən adətlər",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 9
+            },
+            {
+                "word": "KƏNƏK",
+                "explanation": "sif. 1. ləpəsi çətin çıxan. ***qoz.2. məc. çətinliklə başa gələn",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 10
+            },
+            {
+                "word": "KƏRƏN",
+                "explanation": "is. məh. yonulmamış yoğun ağac",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 11
+            },
+            {
+                "word": "KÜNYƏ",
+                "explanation": "is. [ər.] bir şəxsin adı",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 12
+            },
+            {
+                "word": "KÜRƏN",
+                "explanation": "sif. saçı",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 13
+            },
+            {
+                "word": "NÖKƏR",
+                "explanation": "is. keçmişdə ağasına xidmət edənvə onun şəxsi tapşırıqlarını yerinə yetirən evxidmətçisi (oğlan). [əhməd tacirbaşı] özüsərkarını",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 14
+            },
+            {
+                "word": "ÖRKƏN",
+                "explanation": "is. minik heyvanlarının çulunusarıyıb bərkitmək üçün başında doğanaqolan uzun ip; çatı. *** nə qədər uzun olsa",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 15
+            },
+            {
+                "word": "ÖRNƏK",
+                "explanation": "is. nümunə",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 16
+            },
+            {
+                "word": "YÜYƏN",
+                "explanation": "is. atın başına keçirilən kəm vəcilovdan ibarət qoşqu ləvazimatı. ***i atınbaşına keçirmək. atın ***indən tutmaq",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 17
+            },
+            {
+                "word": "ƏKƏNƏK",
+                "explanation": "is. taxıl əkilmiş yer",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 18
+            },
+            {
+                "word": "KÖYNƏK",
+                "explanation": "is. 1. bədənin yuxarı hissəsinə geyilən yüngül geyim. ipək ***. miləmil ***. *** tikdirmək. köynəyini ütüləmək",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 19
+            },
+            {
+                "word": "KÜRƏKƏN",
+                "explanation": "is. qızın ərinin",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 20
+            },
+            {
+                "word": "ÜRKƏYƏN",
+                "explanation": "sif. tez hürkən",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 21
+            },
+            {
+                "word": "ƏRKÖYÜN",
+                "explanation": "sif. həddindən artıq əzizlənmək",
+                "isPanagram": true,
+                "score": 17,
+                "length": 7,
+                "id": 22
+            }
+        ]
+    }
+}

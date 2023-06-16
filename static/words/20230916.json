@@ -1,0 +1,156 @@
+{
+    "gameData": {
+        "day": "20230916",
+        "expiration": "1694908740",
+        "centerLetter": "F",
+        "outerLetters": [
+            "K",
+            "D",
+            "B",
+            "A",
+            "Ə",
+            "R"
+        ],
+        "words_info": {
+            "word_count": 16,
+            "sum_score": 60,
+            "panagram_count": 1,
+            "word_length": {
+                "4": 9,
+                "8": 1,
+                "5": 4,
+                "7": 2
+            }
+        },
+        "words": [
+            {
+                "word": "BAFA",
+                "explanation": "is. məh. dərz bağlamaq üçün biçinçininbiçib bağladığı sünbül toplusu. [hüseyn:]marquşa",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "DƏFƏ",
+                "explanation": "zərf [ər.] 1. kəmiyyət bildirən sözlə birgə işləndikdə bir işin",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "ƏRAF",
+                "explanation": "is. [ər.] dinə görə cənnətlə cəhənnəmarasında olan yer",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "FARA",
+                "explanation": "[fr.] yolu işıqlandırmaq üçün avtomobillərdə",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "FƏDA",
+                "explanation": "is. [ər.] ən əziz bir adam və yayüksək amal",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 5
+            },
+            {
+                "word": "FƏRD",
+                "explanation": "is. [ər.] 1. ayrıca adam",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 6
+            },
+            {
+                "word": "FƏRƏ",
+                "explanation": "is. cavan toyuq (kəklik). çil ***.– şəhərdən gətirdiyim toyuğumun balalarıböyümüş",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 7
+            },
+            {
+                "word": "FRAK",
+                "explanation": "is. [fr.] qabaq ətəkləri kəsik",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 8
+            },
+            {
+                "word": "KƏFƏ",
+                "explanation": "is. [ər.] ovuc",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 9
+            },
+            {
+                "word": "ƏFKAR",
+                "explanation": "is. [ər. “fikr” söz. cəmi] fikir. [qətibə:] bu tədbir azərbaycanlıların bizim əleyhimizə olan hər bir təşəbbüsünə son qoyar",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 10
+            },
+            {
+                "word": "ƏFRAD",
+                "explanation": "is. [ər. “fərd” söz. cəmi] fərdlər",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 11
+            },
+            {
+                "word": "ƏRƏFƏ",
+                "explanation": "is. [ər.] bayramdan əvvəlki gün",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 12
+            },
+            {
+                "word": "FƏRAR",
+                "explanation": "is. [ər.] gizlicə qaçma. □ ***etmək – icazəsiz və gizlicə qaçmaq. ovaxtdan seyid cəmaləddin istanbula ***etdi",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 13
+            },
+            {
+                "word": "FƏDAKAR",
+                "explanation": "sif. [ər. fəda və fars. …kar]1. ümumi bir iş və ya məslək uğrunda özşəxsi mənafeyindən keçən",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 14
+            },
+            {
+                "word": "KƏFFARƏ",
+                "explanation": "is. [ər.] dindarların",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 15
+            },
+            {
+                "word": "BƏDƏFKAR",
+                "explanation": "is. və sif. [fars. bəd və ər.əfkar] sui-qəsdçi",
+                "isPanagram": true,
+                "score": 17,
+                "length": 8,
+                "id": 16
+            }
+        ]
+    }
+}

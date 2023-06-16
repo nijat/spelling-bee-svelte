@@ -1,0 +1,317 @@
+{
+    "gameData": {
+        "day": "20231213",
+        "expiration": "1702511940",
+        "centerLetter": "Ə",
+        "outerLetters": [
+            "A",
+            "T",
+            "Z",
+            "Y",
+            "N",
+            "İ"
+        ],
+        "words_info": {
+            "word_count": 36,
+            "sum_score": 146,
+            "panagram_count": 1,
+            "word_length": {
+                "4": 15,
+                "5": 10,
+                "6": 6,
+                "7": 4,
+                "8": 1
+            }
+        },
+        "words": [
+            {
+                "word": "ANƏN",
+                "explanation": "zərf [ər.] birdən",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "ƏNİN",
+                "explanation": "is. [ər.] şair. inləmə",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "ƏYAN",
+                "explanation": "top. [ər.] köhn. keçmişdə: ölkəninyuxarı təbəqələrinə mənsub olan mötəbərvə yaşlı adamlar; zadəganlar",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "ƏYİN",
+                "explanation": "is. 1. bədənin başdan qeyri bütünhissəsi. əyninə yeni kostyum geymişdir.əynində heç bir şey yoxdur (çılpaqdır)",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "ƏZAN",
+                "explanation": "[ər.] bax azan",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 5
+            },
+            {
+                "word": "ƏZİZ",
+                "explanation": "sif. [ər.] 1. sevimli",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 6
+            },
+            {
+                "word": "NANƏ",
+                "explanation": "[ər.] bot. yeyilən çoxillik ətirligöyərti növü. *** qurutmaq. üç dəstə ***.□ *** cövhəri (arağı) – ***dən çəkilənaraq",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 7
+            },
+            {
+                "word": "NƏNƏ",
+                "explanation": "is. 1. atanın",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 8
+            },
+            {
+                "word": "NİZƏ",
+                "explanation": "is. [fars.] köhn. uzun ağaca keçirilmişucu şiş",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 9
+            },
+            {
+                "word": "TƏNƏ",
+                "explanation": "[ər.] 1. is. danlaq",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 10
+            },
+            {
+                "word": "TƏZƏ",
+                "explanation": "sif. [fars.] yeni. aptekdən *** dərmangətirmişdilər. c.məmmədquluzadə. [gülyaz:]kəndimizə xəbər yayılıb ki",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 11
+            },
+            {
+                "word": "TİTƏ",
+                "explanation": "is. bəzi adamların göz bəbəyindəolan ağ ləkə",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 12
+            },
+            {
+                "word": "TİYƏ",
+                "explanation": "is. qılınc",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 13
+            },
+            {
+                "word": "YİYƏ",
+                "explanation": "is. hər hansı bir şey üzərində mülkiyyəthüququ olan adam; sahib. oğul",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 14
+            },
+            {
+                "word": "ZƏNN",
+                "explanation": "is. [ər.] 1. kafi dəlil üzərində əsaslanmayanehtimal",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 15
+            },
+            {
+                "word": "AYİNƏ",
+                "explanation": "is. [fars.] bax ayna 1-ci mənada.ol məhi-namehriban istər ki",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 16
+            },
+            {
+                "word": "ƏNƏNƏ",
+                "explanation": "is. [ər.] tarixən meydana gələrəknəsildən-nəslə keçən adətlər",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 17
+            },
+            {
+                "word": "ƏTƏNƏ",
+                "explanation": "is. məməlilərdə: ana bətnindəbalanı bürüyən və bala onun içindən çıxdıqdansonra cırılıb düşən ət pərdəsi; son",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 18
+            },
+            {
+                "word": "ƏYANİ",
+                "explanation": "sif. [ər.] 1. açıq",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 19
+            },
+            {
+                "word": "NƏNNİ",
+                "explanation": "is. 1. körpə uşaqları yatırtmaq üçünasılan kiçik yatacaq. [qumru] uşağı ***yəsalıb küncə qısıldı",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 20
+            },
+            {
+                "word": "TƏYİN",
+                "explanation": "is. [ər.] 1. müəyyən etmə",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 21
+            },
+            {
+                "word": "TİNƏT",
+                "explanation": "is. [ər.] klas. xilqət",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 22
+            },
+            {
+                "word": "ZATƏN",
+                "explanation": "zərf [ər.] 1. təbii olaraq",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 23
+            },
+            {
+                "word": "ZƏNƏN",
+                "explanation": "is. [fars.] 1. qadın",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 24
+            },
+            {
+                "word": "ZİNƏT",
+                "explanation": "is. [ər.] bəzək",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 25
+            },
+            {
+                "word": "ƏYİNTİ",
+                "explanation": "is. 1. əyilmiş yer",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 26
+            },
+            {
+                "word": "ƏZİNTİ",
+                "explanation": "is. 1. ovuntu",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 27
+            },
+            {
+                "word": "NİYYƏT",
+                "explanation": "is. [ər.] 1. məqsəd",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 28
+            },
+            {
+                "word": "TƏZƏNƏ",
+                "explanation": "is. mizrab (saz)",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 29
+            },
+            {
+                "word": "TƏZYİN",
+                "explanation": "is. [ər.] bəzək-düzək vermə",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 30
+            },
+            {
+                "word": "ZƏNƏNƏ",
+                "explanation": "sif. [fars.] qadınlara məxsus",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 31
+            },
+            {
+                "word": "ƏZİYYƏT",
+                "explanation": "is. [ər.] 1. məşəqqət",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 32
+            },
+            {
+                "word": "NAZƏNİN",
+                "explanation": "sif. [fars.] şair. nazlı",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 33
+            },
+            {
+                "word": "TƏNTƏNƏ",
+                "explanation": "is. [ər.] 1. təmtəraq",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 34
+            },
+            {
+                "word": "TƏYİNAT",
+                "explanation": "is. [ər. “təyin” söz. cəmi] kurs",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 35
+            },
+            {
+                "word": "TAZİYANƏ",
+                "explanation": "is. [fars.] köhn. 1. qırmanc",
+                "isPanagram": true,
+                "score": 17,
+                "length": 8,
+                "id": 36
+            }
+        ]
+    }
+}

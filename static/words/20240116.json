@@ -1,0 +1,165 @@
+{
+    "gameData": {
+        "day": "20240116",
+        "expiration": "1705449540",
+        "centerLetter": "F",
+        "outerLetters": [
+            "Ç",
+            "K",
+            "D",
+            "İ",
+            "L",
+            "Ə"
+        ],
+        "words_info": {
+            "word_count": 17,
+            "sum_score": 78,
+            "panagram_count": 1,
+            "word_length": {
+                "5": 7,
+                "8": 1,
+                "4": 6,
+                "7": 2,
+                "6": 1
+            }
+        },
+        "words": [
+            {
+                "word": "DƏFƏ",
+                "explanation": "zərf [ər.] 1. kəmiyyət bildirən sözlə birgə işləndikdə bir işin",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "ƏFƏL",
+                "explanation": "sif. dan. əldən düşmüş",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "ƏLƏF",
+                "explanation": "is. [ər.] bax alaf. biri gedib ***tökür kəllərə; biri baxır xırmandakı vəllərə.a.səhhət. xanqulu mərəkdən *** gətirib atınqabağına qoydu",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "ƏLİF",
+                "explanation": "is [ər. əsli qəd. yəh.] 1. ərəb ***basının[ şəklində yazılan birinci hərfininadı. ***i dirək sayır",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "KƏFƏ",
+                "explanation": "is. [ər.] ovuc",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 5
+            },
+            {
+                "word": "LİFƏ",
+                "explanation": "is. şalvarın",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 6
+            },
+            {
+                "word": "DƏFÇİ",
+                "explanation": "is. 1. dəf çalan adam; dəfçalan.*** döşünü irəli verib başını dik tutaraq",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 7
+            },
+            {
+                "word": "FƏLƏK",
+                "explanation": "is. [ər.] 1. göy",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 8
+            },
+            {
+                "word": "KƏFLİ",
+                "explanation": "sif. kəfi olan",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 9
+            },
+            {
+                "word": "KƏLƏF",
+                "explanation": "is. 1. yumru şəkildə sarınmış sap",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 10
+            },
+            {
+                "word": "KİFLİ",
+                "explanation": "sif. kifi olan",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 11
+            },
+            {
+                "word": "LİFÇİ",
+                "explanation": "is. hamamda lif çəkən adam; kisəçi",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 12
+            },
+            {
+                "word": "LİFLİ",
+                "explanation": "sif. tərkibində lif olan",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 13
+            },
+            {
+                "word": "LİFƏLİ",
+                "explanation": "sif. lifə tikilmiş",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 14
+            },
+            {
+                "word": "ƏFƏLLİK",
+                "explanation": "is. dan. əlindən iş gəlməmə",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 15
+            },
+            {
+                "word": "KƏLƏFÇƏ",
+                "explanation": "is. 1. ip",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 16
+            },
+            {
+                "word": "DƏFÇİLİK",
+                "explanation": "is. dəf çalmaq işi",
+                "isPanagram": true,
+                "score": 17,
+                "length": 8,
+                "id": 17
+            }
+        ]
+    }
+}

@@ -1,0 +1,157 @@
+{
+    "gameData": {
+        "day": "20240301",
+        "expiration": "1709337540",
+        "centerLetter": "H",
+        "outerLetters": [
+            "N",
+            "Ə",
+            "A",
+            "M",
+            "Z",
+            "U"
+        ],
+        "words_info": {
+            "word_count": 16,
+            "sum_score": 65,
+            "panagram_count": 1,
+            "word_length": {
+                "4": 8,
+                "5": 4,
+                "7": 2,
+                "6": 1,
+                "9": 1
+            }
+        },
+        "words": [
+            {
+                "word": "AHƏN",
+                "explanation": "is. [fars.] klas. dəmir. peykanlarınladoldu tənim",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "HAMM",
+                "explanation": "is. hürərkən itin çıxardığı səs",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "HANA",
+                "explanation": "is. əllə xalça",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "HƏNA",
+                "explanation": "is. [ər.] xına. dünən oğlanı göndərdim",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "HƏZM",
+                "explanation": "is. [ər.] yeyilən şeyin *** cihazındahəll olunması. *** prosesi. – qidanınçeynənməsi",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 5
+            },
+            {
+                "word": "HƏZZ",
+                "explanation": "is. [ər.] xoş bir şeydən duyulanləzzət",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 6
+            },
+            {
+                "word": "MƏHZ",
+                "explanation": "əd. [ər.] özündən sonra gələn sözügücləndirir",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 7
+            },
+            {
+                "word": "ZƏHM",
+                "explanation": "is. [fars. “səhm”dən] 1. qorxu",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 8
+            },
+            {
+                "word": "HAMAM",
+                "explanation": "is. [ər.] çimmək üçün isti və soyuqsuyu olan xüsusi bina. şəhər ***ları.məhəllə ***ı. – [məşədi qəzənfər:] dahakim deyə bilər ki",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 9
+            },
+            {
+                "word": "HƏMƏN",
+                "explanation": "[fars.] 1. əvəz. həmin",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 10
+            },
+            {
+                "word": "HƏMZƏ",
+                "explanation": "is. [ər.] ərəb əlifbasında boğazbağlısamit tələffüzünü göstərən işarə. aynvə *** səslərinin interferensiyası",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 11
+            },
+            {
+                "word": "MAHNA",
+                "explanation": "is. dan. bəhanə. *** axtarmaq.*** tapmaq. – qızıldan tanası var;əlində hanası var; gözləyirəm",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 12
+            },
+            {
+                "word": "MƏHZUN",
+                "explanation": "sif. [ər.] hüznlü",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 13
+            },
+            {
+                "word": "HƏMHƏMƏ",
+                "explanation": "is. pıçıltı",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 14
+            },
+            {
+                "word": "HƏMMƏNA",
+                "explanation": "sif. [fars. həm və ər. məna]eynimənalı",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 15
+            },
+            {
+                "word": "MƏHZUNANƏ",
+                "explanation": "sif. [ər. məhzun və fars.…anə] məhzun",
+                "isPanagram": true,
+                "score": 17,
+                "length": 9,
+                "id": 16
+            }
+        ]
+    }
+}

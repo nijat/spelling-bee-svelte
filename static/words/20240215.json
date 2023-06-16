@@ -1,0 +1,190 @@
+{
+    "gameData": {
+        "day": "20240215",
+        "expiration": "1708041540",
+        "centerLetter": "N",
+        "outerLetters": [
+            "Z",
+            "P",
+            "İ",
+            "T",
+            "R",
+            "A"
+        ],
+        "words_info": {
+            "word_count": 20,
+            "sum_score": 107,
+            "panagram_count": 1,
+            "word_length": {
+                "4": 5,
+                "5": 8,
+                "6": 2,
+                "7": 3,
+                "8": 1,
+                "12": 1
+            }
+        },
+        "words": [
+            {
+                "word": "ARAN",
+                "explanation": "is. azərbaycanda: yaylaq yerlərənisbətən alçaq və iqlimcə isti olan yerlər.azərbaycanın əsas *** yerləri muğan",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "AZAN",
+                "explanation": "is. [ər.] müsəlmanları namazaçağırmaq üçün ***çının səhər",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "NİZA",
+                "explanation": "is. [ər.] köhn. çəkişmə",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "TANA",
+                "explanation": "is. 1. sırğa. qızıl ***. – qızıl üzük",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "ZİNA",
+                "explanation": "is. [ər.] köhn. qeyri-qanuni cinsiəlaqə. □ *** etmək (eləmək) – qeyriqanunicinsi əlaqədə olmaq. …bu rəvayət birkişi ilə bir arvadın *** eləməyi b",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 5
+            },
+            {
+                "word": "ARTAN",
+                "explanation": "f.sif. getdikcə çoxalan",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 6
+            },
+            {
+                "word": "NAZİR",
+                "explanation": "is. [ər.] 1. ***liyə (1-ci mənada)başçılıq edən hökumət üzvü. maliyyə ***i.maarif ***i. – *** onları öz kabinəsindəqəbul etdi",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 7
+            },
+            {
+                "word": "NİNNİ",
+                "explanation": "is. layla",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 8
+            },
+            {
+                "word": "PİNTİ",
+                "explanation": "sif. 1. üst-başına",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 9
+            },
+            {
+                "word": "RATİN",
+                "explanation": "[fr.] üz tərəfində burulmuş xovlarıolan üst paltarlıq yun parça. 5 metr ***.// həmin parçadan tikilmiş",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 10
+            },
+            {
+                "word": "TANİN",
+                "explanation": "is. [fr.] dəri aşılanmasında",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 11
+            },
+            {
+                "word": "TAPAN",
+                "explanation": "is. 1. qırı",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 12
+            },
+            {
+                "word": "TİRAN",
+                "explanation": "is. [yun.] 1. qədim yunanıstandavə xııı-xvı əsrlərdə italiyada hakimiyyətizorla ələ keçirən şəxs.2",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 13
+            },
+            {
+                "word": "ATAANA",
+                "explanation": "is. öz övladına münasibətdəkişi və qadın; valideyn. ata-analar öz uşaqlarınıntərbiyəsinə fikir verməlidirlər",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 14
+            },
+            {
+                "word": "PİRANİ",
+                "explanation": "sif. [fars.] qoca",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 15
+            },
+            {
+                "word": "NATARAZ",
+                "explanation": "sif. [fars.] 1. kobud(ca)",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 16
+            },
+            {
+                "word": "TİTANİT",
+                "explanation": "is. [yun.] şəffaf növləri yarımqiymətlidaş olan mineral",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 17
+            },
+            {
+                "word": "TRANZİT",
+                "explanation": "[lat. transitus – keçid] yoldaüçüncü bir ölkədən keçməklə",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 18
+            },
+            {
+                "word": "TARTANPARTAN",
+                "explanation": "is. boş",
+                "isPanagram": false,
+                "score": 12,
+                "length": 12,
+                "id": 19
+            },
+            {
+                "word": "PARTİZAN",
+                "explanation": "[fr.] düşmən arxasında müstəqilhərəkət edən silahlı xalq dəstələrininiştirakçısı. ***lar tez-tez yerlərini dəyişir",
+                "isPanagram": true,
+                "score": 17,
+                "length": 8,
+                "id": 20
+            }
+        ]
+    }
+}

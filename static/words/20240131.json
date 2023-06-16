@@ -1,0 +1,447 @@
+{
+    "gameData": {
+        "day": "20240131",
+        "expiration": "1706745540",
+        "centerLetter": "L",
+        "outerLetters": [
+            "R",
+            "A",
+            "T",
+            "Ğ",
+            "X",
+            "I"
+        ],
+        "words_info": {
+            "word_count": 52,
+            "sum_score": 261,
+            "panagram_count": 1,
+            "word_length": {
+                "4": 13,
+                "5": 16,
+                "6": 12,
+                "11": 2,
+                "7": 5,
+                "8": 3,
+                "9": 1
+            }
+        },
+        "words": [
+            {
+                "word": "AĞIL",
+                "explanation": "is. içərisində mal-qara və qoyunsaxlamaq üçün ətrafı tikan və ya ağac iləhasarlanmış üstüaçıq yer. qoyunlar s***ıbqurtardıqdan sonra",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "ALĞI",
+                "explanation": "is. satın alma işi",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "ALLI",
+                "explanation": "sif. köhn. al rəngli paltar geymiş.tərifli gözəllər gəlhagəl oldu; yaşıllı",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "ARLI",
+                "explanation": "sif. həyalı",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "ATLI",
+                "explanation": "1. sif. at minmiş",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 5
+            },
+            {
+                "word": "XALA",
+                "explanation": "is. 1. ananın bacısı. [sultan bəy:]***nın muzdu o olar ki",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 6
+            },
+            {
+                "word": "XALI",
+                "explanation": "is. böyük xalça. azərbaycan ***ları.iran ***sı. – [hacı qambay] divardakı***lara",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 7
+            },
+            {
+                "word": "XILT",
+                "explanation": "is. 1. hər hansı məhlulun",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 8
+            },
+            {
+                "word": "LARI",
+                "explanation": "sif. uzunqıçlı",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 9
+            },
+            {
+                "word": "LIĞA",
+                "explanation": "is. qatı",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 10
+            },
+            {
+                "word": "LIRT",
+                "explanation": "sif. 1. çox dəyib sulanmış. *** armud.*** əzgil.2. məc. süst",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 11
+            },
+            {
+                "word": "TALA",
+                "explanation": "is. meşədə ağacsız",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 12
+            },
+            {
+                "word": "TRAL",
+                "explanation": "is.[ing.] balıq ovlamaq üçün iri tor",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 13
+            },
+            {
+                "word": "AĞILI",
+                "explanation": "sif. zəhərli",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 14
+            },
+            {
+                "word": "AĞLAR",
+                "explanation": "sif. ağlayan",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 15
+            },
+            {
+                "word": "ALALI",
+                "explanation": "sif. alası olan",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 16
+            },
+            {
+                "word": "ATALI",
+                "explanation": "sif. atası olan. *** uşaq. ***(z.) böyümək",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 17
+            },
+            {
+                "word": "XALAT",
+                "explanation": "is. [ər.] 1. orta asiya xalqlarınınətəkləri üst-üstə gələn",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 18
+            },
+            {
+                "word": "XALLI",
+                "explanation": "sif. 1. üzündə xalı olan. iki övladanası",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 19
+            },
+            {
+                "word": "XALTA",
+                "explanation": "is. heyvanların (əsasən itin) boynunakeçirilən qayış; boyun halqası. axırdaayı dartınıb ***nı başından çıxartdı və ildırımkimi özünü yusifin üstü",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 20
+            },
+            {
+                "word": "XARAL",
+                "explanation": "is. iri torba (kisə)",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 21
+            },
+            {
+                "word": "XILXA",
+                "explanation": "sif. və is. geyməyə və ya işlətməyəyaramayan; gərəksiz",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 22
+            },
+            {
+                "word": "XIRLI",
+                "explanation": "sif. 1. məh. varlı",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 23
+            },
+            {
+                "word": "LAXTA",
+                "explanation": "is. və sif. bərkiyib qatılaşmış qankütləsi. qalın topa birçəkləri öz qanı ilə boyanmış;bığlarının kənarında qan ***sı dayanmış",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 24
+            },
+            {
+                "word": "TAĞLI",
+                "explanation": "sif. 1. tağı",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 25
+            },
+            {
+                "word": "TALĞA",
+                "explanation": "is. məh. medal",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 26
+            },
+            {
+                "word": "TALXA",
+                "explanation": "is. sarı və qara xalları olan zəhərliilan",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 27
+            },
+            {
+                "word": "TARLA",
+                "explanation": "is. taxıl",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 28
+            },
+            {
+                "word": "TIXLI",
+                "explanation": "sif. tıxı olan. *** balıq",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 29
+            },
+            {
+                "word": "AĞILLI",
+                "explanation": "sif. 1. dərrakəli",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 30
+            },
+            {
+                "word": "AĞRILI",
+                "explanation": "sif. ağrısı və acısı olan",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 31
+            },
+            {
+                "word": "AXARLI",
+                "explanation": "sif. 1. xüs. hərəkət zamanı havanınmüqavimətinə daha az məruz qalmaqüçün müvafiq bir formada düzəldilmiş (avtomobil",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 32
+            },
+            {
+                "word": "ARĞALI",
+                "explanation": "is. məh. vəhşi qoç",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 33
+            },
+            {
+                "word": "ARXALI",
+                "explanation": "sif. köməyi",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 34
+            },
+            {
+                "word": "XALXAL",
+                "explanation": "is. heyvanlara məxsus binalardaayrıca bölmə. ***ı təmiz saxlamalı.– [zərnigar xanım] əlində çatı",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 35
+            },
+            {
+                "word": "XATALI",
+                "explanation": "sif. xata gətirən",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 36
+            },
+            {
+                "word": "XILTLI",
+                "explanation": "sif. dibinə xılt çökmüş",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 37
+            },
+            {
+                "word": "LAĞLAĞ",
+                "explanation": "sif. və zərf 1. boş",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 38
+            },
+            {
+                "word": "LAXTAX",
+                "explanation": "dan. sif. boş",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 39
+            },
+            {
+                "word": "TIXILI",
+                "explanation": "sif. güclə basılmış",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 40
+            },
+            {
+                "word": "TIRTIL",
+                "explanation": "is. 1. zool. bir neçə cütayaqlı qurdabənzərbədəni olan kəpənək sürfəsi. kəpənək***ı.2. yoldakı maneələri keçmə qabiliyyətiniartırmaq üçün maşın",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 41
+            },
+            {
+                "word": "ALATALA",
+                "explanation": "sif. tala-tala",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 42
+            },
+            {
+                "word": "XALTALI",
+                "explanation": "sif. boynunda xalta olan.*** it",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 43
+            },
+            {
+                "word": "XIRILTI",
+                "explanation": "is. boğulan",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 44
+            },
+            {
+                "word": "LAĞLAĞI",
+                "explanation": "sif. çoxdanışan",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 45
+            },
+            {
+                "word": "TIRILTI",
+                "explanation": "is. tır-tır səsi. həyətdə eşidilənmotor ***sı qoşqarın əzablı düşüncələriniyarıda qırdı. i.hüseynov",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 46
+            },
+            {
+                "word": "XALAXALA",
+                "explanation": "is. kiçik qızların gəlincikləoynadıqları oyun adı; gəlin-gəlin",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 47
+            },
+            {
+                "word": "XIRTILTI",
+                "explanation": "is. sınan",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 48
+            },
+            {
+                "word": "TIRTILLI",
+                "explanation": "sif. tırtılı olan",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 49
+            },
+            {
+                "word": "XIRILTILI",
+                "explanation": "sif. xırıltı ilə",
+                "isPanagram": false,
+                "score": 9,
+                "length": 9,
+                "id": 50
+            },
+            {
+                "word": "ALTITARLALI",
+                "explanation": "sif. k.t. altı ildən bir dövredən (əkin dəyişmə). *** təsərrüfat.*** əkin",
+                "isPanagram": false,
+                "score": 11,
+                "length": 11,
+                "id": 51
+            },
+            {
+                "word": "AĞIRTAXTALI",
+                "explanation": "sif. dan. təşəxxüslü",
+                "isPanagram": true,
+                "score": 17,
+                "length": 11,
+                "id": 52
+            }
+        ]
+    }
+}

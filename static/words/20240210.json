@@ -1,0 +1,196 @@
+{
+    "gameData": {
+        "day": "20240210",
+        "expiration": "1707609540",
+        "centerLetter": "L",
+        "outerLetters": [
+            "Z",
+            "N",
+            "M",
+            "U",
+            "A",
+            "E"
+        ],
+        "words_info": {
+            "word_count": 21,
+            "sum_score": 86,
+            "panagram_count": 1,
+            "word_length": {
+                "4": 9,
+                "6": 1,
+                "5": 8,
+                "7": 3
+            }
+        },
+        "words": [
+            {
+                "word": "ALAM",
+                "explanation": "is. [ər. “ələm” söz. cəmi] qəm",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "ALMA",
+                "explanation": "is. müxtəlif çeşidləri və müxtəlif rənglərdə olan girdə",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "AMAL",
+                "explanation": "is. [ər. “əməl” söz. cəmi] tənt. qayə",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "ELAM",
+                "explanation": "is. [ər.] klas. bildirmə",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "ELAN",
+                "explanation": "is. [ər.] 1. yazılı",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 5
+            },
+            {
+                "word": "EMAL",
+                "explanation": "is. [ər.] müxtəlif əməliyyat vasitəsiləqayırma",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 6
+            },
+            {
+                "word": "MALA",
+                "explanation": "is. [fars.] 1. binanın iç və bayırdivarlarına çəkmək üçün əhəng",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 7
+            },
+            {
+                "word": "ULAN",
+                "explanation": "is. [pol.",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 8
+            },
+            {
+                "word": "UNLU",
+                "explanation": "sif. üstünə un səpilmiş (tökülmüş);una batmış. üstü-başı bütöv ***dur",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 9
+            },
+            {
+                "word": "ALANA",
+                "explanation": "is. içərisi şəkərli qozla doldurulmuşmeyvə qurusu (armud",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 10
+            },
+            {
+                "word": "ALMAN",
+                "explanation": "is. ***iyanın əsas əhalisinitəşkil edən xalq və bu xalqa mənsub adam.*** ədəbiyyatının qədim abidələri",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 11
+            },
+            {
+                "word": "ALMAZ",
+                "explanation": "is. 1. son dərəcə bərk",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 12
+            },
+            {
+                "word": "MANUL",
+                "explanation": "is. zool. çöl pişiyi",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 13
+            },
+            {
+                "word": "MUMLU",
+                "explanation": "sif. mum sürtülmüş",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 14
+            },
+            {
+                "word": "NALAN",
+                "explanation": "sif. və zərf [fars.] ağlayan",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 15
+            },
+            {
+                "word": "NAMLU",
+                "explanation": "is. lülə (topda",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 16
+            },
+            {
+                "word": "ULAMA",
+                "explanation": "1. “***q”dan f.is.2. it",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 17
+            },
+            {
+                "word": "ALAMAN",
+                "explanation": "is. məh. köhn. çapqın",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 18
+            },
+            {
+                "word": "ANLAMAZ",
+                "explanation": "sif. qanmaz",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 19
+            },
+            {
+                "word": "MALAMAL",
+                "explanation": "sif. və zərf [fars.] dolu",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 20
+            },
+            {
+                "word": "MENZULA",
+                "explanation": "[lat. mensula – kiçik stol] biryerin topoqrafik planını çəkmək üçün geodezikalət",
+                "isPanagram": true,
+                "score": 17,
+                "length": 7,
+                "id": 21
+            }
+        ]
+    }
+}

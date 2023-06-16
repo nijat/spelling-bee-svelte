@@ -1,0 +1,164 @@
+{
+    "gameData": {
+        "day": "20240123",
+        "expiration": "1706054340",
+        "centerLetter": "İ",
+        "outerLetters": [
+            "Ç",
+            "R",
+            "F",
+            "E",
+            "L",
+            "N"
+        ],
+        "words_info": {
+            "word_count": 17,
+            "sum_score": 77,
+            "panagram_count": 1,
+            "word_length": {
+                "6": 4,
+                "4": 6,
+                "5": 6,
+                "7": 1
+            }
+        },
+        "words": [
+            {
+                "word": "ÇİNİ",
+                "explanation": "is. [coğr. addan] müxtəlif məmulatistehsal etmək üçün istifadə olunan əla gildənhazırlanmış süni mineral kütlə",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "ELÇİ",
+                "explanation": "is. 1. dipl. bir dövləti başqa bir dövlətdətəmsil edən diplomatik nümayəndə;səfir.2. oğlan və ya onun adamları tərəfindənqız istəmək üçün qız evin",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "ELLİ",
+                "explanation": "sif. 1 vətəni",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "ENLİ",
+                "explanation": "sif. en cəhətdən geniş olan",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "FEİL",
+                "explanation": "is. [ər.] 1. iş",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 5
+            },
+            {
+                "word": "FELİ",
+                "explanation": "sif. [ər.] 1. həqiqətən icra olunan",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 6
+            },
+            {
+                "word": "ÇİNLİ",
+                "explanation": "is. çin xalq respublikasının əsasəhalisini təşkil edən xalq və bu xalqa mənsubadam. puan qay ***ləri ayıq salır",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 7
+            },
+            {
+                "word": "FİRNİ",
+                "explanation": "is. düyü unu və şəkərdən hazırlanandesert yeməyi. axşam azanı deyilənkimi",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 8
+            },
+            {
+                "word": "LİFÇİ",
+                "explanation": "is. hamamda lif çəkən adam; kisəçi",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 9
+            },
+            {
+                "word": "LİFLİ",
+                "explanation": "sif. tərkibində lif olan",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 10
+            },
+            {
+                "word": "LİLLİ",
+                "explanation": "sif. lehməli",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 11
+            },
+            {
+                "word": "NİNNİ",
+                "explanation": "is. layla",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 12
+            },
+            {
+                "word": "ÇİLÇİL",
+                "explanation": "sif. çoxlu çili olan",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 13
+            },
+            {
+                "word": "ÇİNÇİN",
+                "explanation": "sif. və zərf qat-qat",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 14
+            },
+            {
+                "word": "EFİRLİ",
+                "explanation": "sif. tərkibində efir olan. ***maddələr. *** bitkilər. *** dərman",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 15
+            },
+            {
+                "word": "NİFRİN",
+                "explanation": "is. [ər.] lənət",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 16
+            },
+            {
+                "word": "FRENÇLİ",
+                "explanation": "sif. frenç geymiş",
+                "isPanagram": true,
+                "score": 17,
+                "length": 7,
+                "id": 17
+            }
+        ]
+    }
+}

@@ -1,0 +1,229 @@
+{
+    "gameData": {
+        "day": "20240329",
+        "expiration": "1711756740",
+        "centerLetter": "T",
+        "outerLetters": [
+            "Ə",
+            "E",
+            "M",
+            "Y",
+            "İ",
+            "R"
+        ],
+        "words_info": {
+            "word_count": 25,
+            "sum_score": 121,
+            "panagram_count": 1,
+            "word_length": {
+                "5": 8,
+                "6": 2,
+                "4": 8,
+                "7": 5,
+                "8": 2
+            }
+        },
+        "words": [
+            {
+                "word": "ƏTƏR",
+                "explanation": "is. dan. iz",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "ƏTİR",
+                "explanation": "is. [ər.] 1. gözəl iy",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "MƏTƏ",
+                "explanation": "is. yerdə oyun üçün çəkilən dairə(əsasən uşaq oyunlarında). ***dən çıxmaq",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "TİRE",
+                "explanation": "[fr.] 1. uzun üfüqi xətt (–) şəklindədurğu işarəsi.2. morze əlifbasında belə işarə",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "TİRƏ",
+                "explanation": "is. 1. arx",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 5
+            },
+            {
+                "word": "TİTƏ",
+                "explanation": "is. bəzi adamların göz bəbəyindəolan ağ ləkə",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 6
+            },
+            {
+                "word": "TİTR",
+                "explanation": "[fr.] 1. kinolentdə yazı",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 7
+            },
+            {
+                "word": "TİYƏ",
+                "explanation": "is. qılınc",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 8
+            },
+            {
+                "word": "ƏMTƏƏ",
+                "explanation": "is. [ər. “məta” söz. cəmi] iqt. kit. mübadilə üçün istehsal edilən əmək məhsulları; mal. *** insanın hər hansı bir ehtiyacını təmin edən",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 9
+            },
+            {
+                "word": "MEYİT",
+                "explanation": "is. [ər.] ölmüş adam; cənazə",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 10
+            },
+            {
+                "word": "TƏMİM",
+                "explanation": "is. [ər.] 1. ümumiləşdirmə.2. yayma",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 11
+            },
+            {
+                "word": "TƏMİR",
+                "explanation": "is. [ər.] bir şeyin xarab olmuş",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 12
+            },
+            {
+                "word": "TİRMƏ",
+                "explanation": "is. şərqdə: yun və ya ipəkdən toxunmanaxışlı qiymətli şal parça; ***şal.5 metr ***. // həmin parçadan olan",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 13
+            },
+            {
+                "word": "YETƏR",
+                "explanation": "1. sif. bəs olan",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 14
+            },
+            {
+                "word": "YETİM",
+                "explanation": "sif. 1. atası-anası",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 15
+            },
+            {
+                "word": "YETMƏ",
+                "explanation": "1. “***k”dən f.is.2. sif. yetişmiş",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 16
+            },
+            {
+                "word": "ƏRİTMƏ",
+                "explanation": "“***k”dən f.is. *** sexi",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 17
+            },
+            {
+                "word": "MƏTƏRƏ",
+                "explanation": "is. [ər.] yolda",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 18
+            },
+            {
+                "word": "ƏYİRTMƏ",
+                "explanation": "1. “***k”dən f.is.2. sif. əyirdilmiş. *** ipək sapı",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 19
+            },
+            {
+                "word": "MƏİYYƏT",
+                "explanation": "is. [ər.] kit. böyük vəzifəlişəxsi müşayiət edən heyət. çar konsulu özdostlarını vəliəhdin ***i içərisində aramağabaşlamışdı",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 20
+            },
+            {
+                "word": "RƏİYYƏT",
+                "explanation": "is. [ər.] bir dövlətin tabeliyində olan(lar); təbəə. atabəy məhəmməd",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 21
+            },
+            {
+                "word": "TİTRƏMƏ",
+                "explanation": "“***k”dən f.is. işığın ***si.monometr əqrəbinin ***si. –[mələyin] canı sızıldayır və ağladığı səsinin***sindən anlaşılırdı",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 22
+            },
+            {
+                "word": "MƏTƏMƏTƏ",
+                "explanation": "is. mətə içərisində oynanılanuşaq oyunu",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 23
+            },
+            {
+                "word": "TİTRƏTMƏ",
+                "explanation": "1. “***k”dən f.is.2. bax ***-qızdırma",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 24
+            },
+            {
+                "word": "YETİRMƏ",
+                "explanation": "1. “***k”dən f.is.2. is. bax yetişdirmə 2-ci mənada. o",
+                "isPanagram": true,
+                "score": 17,
+                "length": 7,
+                "id": 25
+            }
+        ]
+    }
+}

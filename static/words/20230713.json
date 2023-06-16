@@ -1,0 +1,359 @@
+{
+    "gameData": {
+        "day": "20230713",
+        "expiration": "1689292740",
+        "centerLetter": "İ",
+        "outerLetters": [
+            "L",
+            "R",
+            "C",
+            "G",
+            "Ə",
+            "B"
+        ],
+        "words_info": {
+            "word_count": 41,
+            "sum_score": 195,
+            "panagram_count": 1,
+            "word_length": {
+                "5": 15,
+                "7": 8,
+                "4": 12,
+                "6": 3,
+                "10": 1,
+                "9": 1,
+                "8": 1
+            }
+        },
+        "words": [
+            {
+                "word": "BİBİ",
+                "explanation": "is. övlad üçün atanın bacısı",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "BİRƏ",
+                "explanation": "is. insan və heyvanları sancıb əziyyət verən çox sıçraq cücü. köhnə məscid hücrələrində *** əlindən tərpənmək olmazdı",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "BİRİ",
+                "explanation": "əvəz. 1. müəyyən olmayan şəxs",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "CİCİ",
+                "explanation": "is. bəzi yerlərdə nəvazişlə anayadeyilir. …bunlar məgər təzə sözdür? bunu***m də bilir. “mol. nəsr",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "CİRƏ",
+                "explanation": "is. bot. xırda ağ çiçəkləri olan birillikbitki (toxumlarından ədviyyə kimi istifadəedilir)",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 5
+            },
+            {
+                "word": "ƏBİR",
+                "explanation": "is. [ər.] klas. bax ənbər. gülzarəhava *** tökdü; səhrayə qübari-mişk çökdü.füzuli",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 6
+            },
+            {
+                "word": "ƏCİB",
+                "explanation": "[ər.] bax əcaib",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 7
+            },
+            {
+                "word": "ƏLİL",
+                "explanation": "is. və sif. xəstəlik və ya qocalıqnəticəsində əmək qabiliyyətini itirmiş;şikəst. ***lər cəmiyyəti",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 8
+            },
+            {
+                "word": "ƏLLİ",
+                "explanation": "sif. 1. əli olan. iri *** adam. 2. məc. qolu güclü",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 9
+            },
+            {
+                "word": "ƏRLİ",
+                "explanation": "sif. əri olan. ev tikdirənlər təkcə*** qadınlar deyildi. ə.əbülhəsən. // is. mənasında.*** qadın",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 10
+            },
+            {
+                "word": "GİLƏ",
+                "explanation": "is. 1. üzümün",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 11
+            },
+            {
+                "word": "LİRƏ",
+                "explanation": "[ital.] türkiyədə",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 12
+            },
+            {
+                "word": "BƏBİR",
+                "explanation": "is. [fars.] məməli heyvanların yırtıcılar dəstəsinə mənsub pələngəoxşar heyvan. vəhşi heyvanlardan lənkəran sahəsində *** və respublikamızın meşələr",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 13
+            },
+            {
+                "word": "BƏLLİ",
+                "explanation": "sif. aydın",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 14
+            },
+            {
+                "word": "BİBƏR",
+                "explanation": "is. dadı acı",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 15
+            },
+            {
+                "word": "BİLLƏ",
+                "explanation": "is. məh. uşaqlara verilən hər cürşirniyyat",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 16
+            },
+            {
+                "word": "CƏBRİ",
+                "explanation": "sif. 1. zorla icra olunan",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 17
+            },
+            {
+                "word": "CİBLİ",
+                "explanation": "sif. cibi",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 18
+            },
+            {
+                "word": "ƏCƏRİ",
+                "explanation": "sif. təzə",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 19
+            },
+            {
+                "word": "ƏCİBƏ",
+                "explanation": "[ər.] bax əcaib",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 20
+            },
+            {
+                "word": "ƏRƏBİ",
+                "explanation": "sif. [ər.] ərəbcə; ərəb dilinə vəxalqına mənsub; ərəb üslubunda",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 21
+            },
+            {
+                "word": "GƏLİR",
+                "explanation": "is. əldə edilən qazanc",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 22
+            },
+            {
+                "word": "GİLLƏ",
+                "explanation": "is. məh. təndirdə alma və ya armudqaxı qurutmaq üçün dayaz palçıq qab",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 23
+            },
+            {
+                "word": "GİLLİ",
+                "explanation": "sif. tərkibində gil olan",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 24
+            },
+            {
+                "word": "GİRGİ",
+                "explanation": "is. dan. sancı",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 25
+            },
+            {
+                "word": "GİRLİ",
+                "explanation": "sif. 1. güclü",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 26
+            },
+            {
+                "word": "LİLLİ",
+                "explanation": "sif. lehməli",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 27
+            },
+            {
+                "word": "BİLİCİ",
+                "explanation": "sif. və is. bilən",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 28
+            },
+            {
+                "word": "BİRƏLİ",
+                "explanation": "sif. birə basmış",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 29
+            },
+            {
+                "word": "CİBGİR",
+                "explanation": "is. cib oğrusu",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 30
+            },
+            {
+                "word": "BİBƏRLİ",
+                "explanation": "sif. içində bibər olan",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 31
+            },
+            {
+                "word": "BİRƏLLİ",
+                "explanation": "1. sif. bir əli olmayan",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 32
+            },
+            {
+                "word": "CƏRGƏLİ",
+                "explanation": "sif. k.t. düzgün cərgə",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 33
+            },
+            {
+                "word": "ƏCƏLƏLİ",
+                "explanation": "sif. tələsik",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 34
+            },
+            {
+                "word": "GƏLİRLİ",
+                "explanation": "sif. yaxşı gəliri",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 35
+            },
+            {
+                "word": "GİLGİLƏ",
+                "explanation": "is. nazik",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 36
+            },
+            {
+                "word": "GİLLİCƏ",
+                "explanation": "is. geol. tərkibində gil olan(torpaq)",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 37
+            },
+            {
+                "word": "LƏBLƏBİ",
+                "explanation": "is. çərəz kimi yeyilən qovrulmuşqabıqsız noxud. əkdiyim noxud",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 38
+            },
+            {
+                "word": "LƏLƏGİLƏ",
+                "explanation": "is. uşağı ovutmaq üçün onaverilən hər hansı bir şey (şirni",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 39
+            },
+            {
+                "word": "GİLLİCƏLİ",
+                "explanation": "sif. geol. tərkibində gillicəçox olan. *** torpaq",
+                "isPanagram": false,
+                "score": 9,
+                "length": 9,
+                "id": 40
+            },
+            {
+                "word": "BİRCƏRGƏLİ",
+                "explanation": "sif. k.t. bir cərgədə əkilmiş",
+                "isPanagram": true,
+                "score": 17,
+                "length": 10,
+                "id": 41
+            }
+        ]
+    }
+}

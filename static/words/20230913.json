@@ -1,0 +1,318 @@
+{
+    "gameData": {
+        "day": "20230913",
+        "expiration": "1694649540",
+        "centerLetter": "K",
+        "outerLetters": [
+            "G",
+            "N",
+            "D",
+            "İ",
+            "Ə",
+            "R"
+        ],
+        "words_info": {
+            "word_count": 36,
+            "sum_score": 163,
+            "panagram_count": 1,
+            "word_length": {
+                "5": 15,
+                "4": 11,
+                "6": 6,
+                "10": 1,
+                "7": 2,
+                "8": 1
+            }
+        },
+        "words": [
+            {
+                "word": "DƏRK",
+                "explanation": "[ər.] : *** etmək – anlamaq",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "ƏKİN",
+                "explanation": "is. 1. taxıl",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "ƏNƏK",
+                "explanation": "is. 1. yük atı",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "ƏNİK",
+                "explanation": "sif. yırtıcı",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "ƏRİK",
+                "explanation": "is. 1. sarı",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 5
+            },
+            {
+                "word": "ƏRKƏ",
+                "explanation": "is. uşaq",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 6
+            },
+            {
+                "word": "KƏKƏ",
+                "explanation": "sif. danışarkən ***ləyən; kəkov.*** uşaq. anadan *** (z.) doğulmaq",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 7
+            },
+            {
+                "word": "KƏND",
+                "explanation": "is. əhalisi",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 8
+            },
+            {
+                "word": "KƏRƏ",
+                "explanation": "zərf [ər.] dəfə. iki *** iki elər dörd. adama neçə *** deyərlər. iki *** getmək. bir *** görmək. – adam adamı bir *** aldadar",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 9
+            },
+            {
+                "word": "KİNƏ",
+                "explanation": "is. əcz. *** ağacının qabığındanhasil edilən acıdadlı ağ toz dərman; isitmədərmanı. *** atmaq. – [heybət:] dünənyaxşı idim",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 10
+            },
+            {
+                "word": "KİRƏ",
+                "explanation": "is. [fars.] 1. bir şeyin müəyyən haqq müqabilində müvəqqəti olaraq sahibi tərəfindən başqasına istifadəyə verilməsi; kirayə",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 11
+            },
+            {
+                "word": "DƏKKƏ",
+                "explanation": "is. məh. iri heyvanların (inək",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 12
+            },
+            {
+                "word": "DƏRƏK",
+                "explanation": "is. [ər.] 1. köhn. uçurumun dibi.2. aşağı dərəcə",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 13
+            },
+            {
+                "word": "DİDİK",
+                "explanation": "sif. didilmiş halda olan. *** yun.*** ət. *** gündə",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 14
+            },
+            {
+                "word": "DİRƏK",
+                "explanation": "is. 1. bir şeyi saxlamaq üçün altınavurulan tir",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 15
+            },
+            {
+                "word": "GƏDİK",
+                "explanation": "is. dağın beli; aşırım. dəlilər ancaqçənlibelin gədiyində onun tozunu gördülər.“koroğlu”. [toğrul:] savalan dağlarının***lərində ərtoğrul basılmı",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 16
+            },
+            {
+                "word": "KƏDƏR",
+                "explanation": "is. [ər.] qəm",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 17
+            },
+            {
+                "word": "KƏKRƏ",
+                "explanation": "is. bot. əsasən dəvələrin yediyi yabanı acı ot bitkisi",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 18
+            },
+            {
+                "word": "KƏNDİ",
+                "explanation": "is. içində taxıl",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 19
+            },
+            {
+                "word": "KƏNƏK",
+                "explanation": "sif. 1. ləpəsi çətin çıxan. ***qoz.2. məc. çətinliklə başa gələn",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 20
+            },
+            {
+                "word": "KƏRDİ",
+                "explanation": "is. bot. şaftalı növü",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 21
+            },
+            {
+                "word": "KƏRƏN",
+                "explanation": "is. məh. yonulmamış yoğun ağac",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 22
+            },
+            {
+                "word": "KƏRKƏ",
+                "explanation": "is. zool. şirin sularda yaşayan",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 23
+            },
+            {
+                "word": "KƏRKİ",
+                "explanation": "is. aşağı çevrilmiş enli tiyəsi olanuzunsaplı",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 24
+            },
+            {
+                "word": "KƏRRƏ",
+                "explanation": "[ər.] bax kərə3. bir *** düşəndəxəbər al badi-səbadan; saçın həvəsigör ki",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 25
+            },
+            {
+                "word": "KİRKİ",
+                "explanation": "1 is. xüs. xalça toxunarkən ilməklərini sıxlaşdırmaq üçün işlədilən alət; daraq",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 26
+            },
+            {
+                "word": "DƏRNƏK",
+                "explanation": "is. müəyyən bir məşğələ üçünvaxtaşırı bir yerə toplaşıb məşğul olan adamlarqrupu. xor dərnəyi. dram dərnəyi",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 27
+            },
+            {
+                "word": "DİKDİR",
+                "explanation": "is. dik yer",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 28
+            },
+            {
+                "word": "DİRRİK",
+                "explanation": "is. səbzəvat",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 29
+            },
+            {
+                "word": "ƏKƏNƏK",
+                "explanation": "is. taxıl əkilmiş yer",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 30
+            },
+            {
+                "word": "GƏRDƏK",
+                "explanation": "is. etnoqr. toyda oğlan evindəgəlin üçün pərdə ilə ayrılmış xüsusi yer.[telli:] …[gəlini] otağa aparıb *** dalındaoturdurlar",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 31
+            },
+            {
+                "word": "KƏNDİR",
+                "explanation": "is. kənaf və ya çətənə liflərindənhazırlanan yoğun",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 32
+            },
+            {
+                "word": "ƏNGƏNƏK",
+                "explanation": "is. məh. saxsı ləyən",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 33
+            },
+            {
+                "word": "KİRKİRƏ",
+                "explanation": "is. əldəyirmanı. □ ***kimi – dəyirman kimi. şahpərinin çənəsi*** kimi üyüdür",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 34
+            },
+            {
+                "word": "DİDİKDİDİK",
+                "explanation": "sif. çox didilmiş",
+                "isPanagram": false,
+                "score": 10,
+                "length": 10,
+                "id": 35
+            },
+            {
+                "word": "GİRDƏNƏK",
+                "explanation": "sif. yumru",
+                "isPanagram": true,
+                "score": 17,
+                "length": 8,
+                "id": 36
+            }
+        ]
+    }
+}

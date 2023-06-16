@@ -1,0 +1,171 @@
+{
+    "gameData": {
+        "day": "20231203",
+        "expiration": "1701647940",
+        "centerLetter": "L",
+        "outerLetters": [
+            "T",
+            "E",
+            "F",
+            "Y",
+            "Ü",
+            "İ"
+        ],
+        "words_info": {
+            "word_count": 18,
+            "sum_score": 72,
+            "panagram_count": 1,
+            "word_length": {
+                "4": 8,
+                "5": 8,
+                "7": 2
+            }
+        },
+        "words": [
+            {
+                "word": "ELİT",
+                "explanation": "[fr.] k.t. 1. bitki və heyvanların ən seçmə",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "ELLİ",
+                "explanation": "sif. 1 vətəni",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "ELTİ",
+                "explanation": "is. qardaş arvadlarının bir-birinəolan qohumluq münasibəti",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "FEİL",
+                "explanation": "is. [ər.] 1. iş",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "FELİ",
+                "explanation": "sif. [ər.] 1. həqiqətən icra olunan",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 5
+            },
+            {
+                "word": "LEYL",
+                "explanation": "is. [ər.] klas. gecə",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 6
+            },
+            {
+                "word": "LİFT",
+                "explanation": "[ing. ***] çoxmərtəbəli binalarda",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 7
+            },
+            {
+                "word": "LÜTF",
+                "explanation": "is. [ər.] klas. iltifat",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 8
+            },
+            {
+                "word": "FİTİL",
+                "explanation": "is. 1. bax piltə 1-ci mənada.lampa ***i. – arvad istər-istəməz maşınkayasarı getdi. ***ini düzəldib aşağı çəkdi",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 9
+            },
+            {
+                "word": "LEYLİ",
+                "explanation": "sif. [ər.] klas. 1. gecəyə məxsus",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 10
+            },
+            {
+                "word": "LİFLİ",
+                "explanation": "sif. tərkibində lif olan",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 11
+            },
+            {
+                "word": "LİLLİ",
+                "explanation": "sif. lehməli",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 12
+            },
+            {
+                "word": "TELLİ",
+                "explanation": "sif. telləri olan; tellərini alnına tökmüş;saçlı",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 13
+            },
+            {
+                "word": "TİFİL",
+                "explanation": "is. [ər.] uşaq. [kazım allahquluya:] …başını aşağı sal",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 14
+            },
+            {
+                "word": "ÜTÜLÜ",
+                "explanation": "sif. ütü çəkilmiş",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 15
+            },
+            {
+                "word": "YELLİ",
+                "explanation": "sif. 1. küləkli. *** hava. *** bir gün. 2. məc. dan. hirsli",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 16
+            },
+            {
+                "word": "FİTİLLİ",
+                "explanation": "sif. fitili olan",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 17
+            },
+            {
+                "word": "TÜFEYLİ",
+                "explanation": "is. [ər.] 1. biol. başqa orqanizminüzərində və ya içində yaşayıb onun hesabınaqidalanan bitki; parazit",
+                "isPanagram": true,
+                "score": 17,
+                "length": 7,
+                "id": 18
+            }
+        ]
+    }
+}

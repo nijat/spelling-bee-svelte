@@ -1,0 +1,228 @@
+{
+    "gameData": {
+        "day": "20230921",
+        "expiration": "1695340740",
+        "centerLetter": "A",
+        "outerLetters": [
+            "K",
+            "D",
+            "T",
+            "O",
+            "L",
+            "U"
+        ],
+        "words_info": {
+            "word_count": 25,
+            "sum_score": 102,
+            "panagram_count": 1,
+            "word_length": {
+                "4": 11,
+                "6": 3,
+                "7": 4,
+                "5": 7
+            }
+        },
+        "words": [
+            {
+                "word": "ADAT",
+                "explanation": "is. [ər. “adət” söz. cəmi] bax adət.məstəli şirvani hər iki səyahətində dünyanınyarısını gəştü güzar edib",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "ALLO",
+                "explanation": "[ing.] telefonla danışarkən “qulaqasıram”",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "ALTO",
+                "explanation": "[ital.] mus. 1. xor",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "ATAT",
+                "explanation": "is. uşaqların ağac üstə minərəkoynadıqları oyun. at-at oynamaq",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "DUDA",
+                "explanation": "is. [fars.] neft",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 5
+            },
+            {
+                "word": "KALA",
+                "explanation": "is. məh. böyük şüşə qab",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 6
+            },
+            {
+                "word": "KOLA",
+                "explanation": "sif. gödək buynuzu olan; gödəkbuynuz.*** keçi. – [ataş:] atalar sözüdürki",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 7
+            },
+            {
+                "word": "KULA",
+                "explanation": "is. məh. odun",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 8
+            },
+            {
+                "word": "TALA",
+                "explanation": "is. meşədə ağacsız",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 9
+            },
+            {
+                "word": "TALK",
+                "explanation": "is. [ər.] adətən toz halında təbabətdəvə tibdə işlədilən ağ və ya göy rəngliyumşaq mineral",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 10
+            },
+            {
+                "word": "TULA",
+                "explanation": "is. 1. hamar uzun tüklü",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 11
+            },
+            {
+                "word": "DALDA",
+                "explanation": "1. sif. sığınmağa və ya gizlənməyəyarayan. *** yer. *** divar.– kosa boşalmış küçənin *** yeri ilə yeriyibat tövlələrinin yanına çatdı",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 12
+            },
+            {
+                "word": "KALKA",
+                "explanation": "[fr.] 1. çertyojlardan",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 13
+            },
+            {
+                "word": "KATTA",
+                "explanation": "is. dan. bax kətxuda. ***nıgör",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 14
+            },
+            {
+                "word": "KODAL",
+                "explanation": "is. vəhşi heyvanları tutmaq üçün qazılıb üstü çır-çırpı ilə örtülən çuxur yer; tələ",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 15
+            },
+            {
+                "word": "LOKAL",
+                "explanation": "sif. [lat.] yerli əhəmiyyətli",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 16
+            },
+            {
+                "word": "TOTAL",
+                "explanation": "sif. [lat.] hər şeyi əhatə edən",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 17
+            },
+            {
+                "word": "UKLAD",
+                "explanation": "is. quruluş",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 18
+            },
+            {
+                "word": "AKTUAL",
+                "explanation": "sif. [lat.] hal-hazır üçün ənmühüm",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 19
+            },
+            {
+                "word": "KAKADU",
+                "explanation": "is. [alm.] malayya tutuquşusu",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 20
+            },
+            {
+                "word": "LOKAUT",
+                "explanation": "[ing. lock-out – üzünə qapı bağlamaq] burjuaziyanın fəhlə sinfinə qarşı mübarizə üsullarından biri olaraq",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 21
+            },
+            {
+                "word": "ALATALA",
+                "explanation": "sif. tala-tala",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 22
+            },
+            {
+                "word": "KOLODKA",
+                "explanation": "is. [rus.] fəxri nişanları paltarasancmaq üçün lövhəcik",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 23
+            },
+            {
+                "word": "TOKKATA",
+                "explanation": "[ital.] mus. fortepiano və yaorqanda sürətlə və canlı ritmik hərəkətlə ifaolunan musiqi pyesi",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 24
+            },
+            {
+                "word": "KATODLU",
+                "explanation": "sif. katodu olan. ***lampa",
+                "isPanagram": true,
+                "score": 17,
+                "length": 7,
+                "id": 25
+            }
+        ]
+    }
+}

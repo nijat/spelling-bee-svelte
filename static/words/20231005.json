@@ -1,0 +1,224 @@
+{
+    "gameData": {
+        "day": "20231005",
+        "expiration": "1696550340",
+        "centerLetter": "O",
+        "outerLetters": [
+            "D",
+            "M",
+            "B",
+            "A",
+            "N",
+            "L"
+        ],
+        "words_info": {
+            "word_count": 24,
+            "sum_score": 140,
+            "panagram_count": 1,
+            "word_length": {
+                "5": 11,
+                "4": 4,
+                "9": 1,
+                "10": 1,
+                "6": 2,
+                "12": 1,
+                "7": 3,
+                "8": 1
+            }
+        },
+        "words": [
+            {
+                "word": "ALLO",
+                "explanation": "[ing.] telefonla danışarkən “qulaqasıram”",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "MODA",
+                "explanation": "[fr.] müəyyən dövrdə",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "OLMA",
+                "explanation": "“***q”dan f.is. havaların isti***sına baxmayaraq",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "OMBA",
+                "explanation": "is. anat. qıçın çanaqdan dizə qədərolan hissəsi",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "ALBOM",
+                "explanation": "[fr.] 1. şeir və s. yazmaq",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 5
+            },
+            {
+                "word": "BALON",
+                "explanation": "[fr.] 1. maye və qaz saxlamaqüçün dəmir və ya plastik materialdan hazırlanmışqab.2. içərisinə hava doldurulmuş rezin şin",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 6
+            },
+            {
+                "word": "BOMBA",
+                "explanation": "[fr.] içərisinə partlayıcı maddələrdoldurulub",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 7
+            },
+            {
+                "word": "DOLAB",
+                "explanation": "is. evin divarında düzəldilən rəf",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 8
+            },
+            {
+                "word": "DOLAM",
+                "explanation": "is. sarılan bir şeyin hər bir sarğısı",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 9
+            },
+            {
+                "word": "DOLMA",
+                "explanation": "is. tənək yarpağına və ya kələmyarpağına bükülmüş",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 10
+            },
+            {
+                "word": "DOMBA",
+                "explanation": "sif. adətən “göz” sözü ilə: qabağaçıxmış",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 11
+            },
+            {
+                "word": "DONMA",
+                "explanation": "1. “***q”dan f.is.2. bax donvurma.◊ *** nöqtəsi – (termometrin şkalasında0 dərəcəsini",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 12
+            },
+            {
+                "word": "LOMBA",
+                "explanation": "is. qəliz maye və ya sıyıq şeyin iri və dairəvi parçası; iri damcı",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 13
+            },
+            {
+                "word": "MODAL",
+                "explanation": "[lat.] dilç. ***lıq ifadə edən",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 14
+            },
+            {
+                "word": "MOLLA",
+                "explanation": "is. [ər.] 1. rütbəcə axunddankiçik müsəlman ruhanisi. məhəllə ***sı.– sonra da bir tirmə əmmaməli *** gəlibsalam verdi",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 15
+            },
+            {
+                "word": "DOLAMA",
+                "explanation": "1. “***q”dan f.is. 2. sif. dümdüz olmayan; birbaşa",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 16
+            },
+            {
+                "word": "MONADA",
+                "explanation": "is. [yun.] fəls. varlığın strukturvahidini ifadə edən fəlsəfi termin. ***leybnits fəlsəfəsinin əsas anlayışlarından biridir",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 17
+            },
+            {
+                "word": "DOLANMA",
+                "explanation": "1. “***q2”dan f.is.2. is. həyat",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 18
+            },
+            {
+                "word": "DONANMA",
+                "explanation": "is. 1. ölkənin",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 19
+            },
+            {
+                "word": "MADONNA",
+                "explanation": "[ital.] katoliklərdə: isanınanası sayılan məryəmə verilən ad",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 20
+            },
+            {
+                "word": "BOMBALAMA",
+                "explanation": "“***q”dan f.is.qabaq düşmən idi",
+                "isPanagram": false,
+                "score": 9,
+                "length": 9,
+                "id": 21
+            },
+            {
+                "word": "DOLAMDOLAM",
+                "explanation": "sif. dolama-dolama",
+                "isPanagram": false,
+                "score": 10,
+                "length": 10,
+                "id": 22
+            },
+            {
+                "word": "DOLAMADOLAMA",
+                "explanation": "sif. əyri-üyrü",
+                "isPanagram": false,
+                "score": 12,
+                "length": 12,
+                "id": 23
+            },
+            {
+                "word": "DOMBALAN",
+                "explanation": "is. 1. bot. yer altında bitənkartofabənzər göbələk növü; yer***ı.2. çiban",
+                "isPanagram": true,
+                "score": 17,
+                "length": 8,
+                "id": 24
+            }
+        ]
+    }
+}

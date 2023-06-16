@@ -1,0 +1,455 @@
+{
+    "gameData": {
+        "day": "20230817",
+        "expiration": "1692316740",
+        "centerLetter": "Q",
+        "outerLetters": [
+            "T",
+            "A",
+            "O",
+            "N",
+            "L",
+            "R"
+        ],
+        "words_info": {
+            "word_count": 53,
+            "sum_score": 274,
+            "panagram_count": 1,
+            "word_length": {
+                "5": 13,
+                "7": 7,
+                "4": 14,
+                "9": 4,
+                "8": 2,
+                "6": 11,
+                "10": 2
+            }
+        },
+        "words": [
+            {
+                "word": "ALAQ",
+                "explanation": "is. tarlada",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "ARAQ",
+                "explanation": "is. [ər.] 1. meyvədən və s.-dənçəkilən spirtli içki. tut arağı. zoğal arağı.*** çəkmək. – ərəqlə badədir ol iki cövhər;ki",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "ARQO",
+                "explanation": "[fr.] dilç. yalnız bir məhdud və peşəkar qrupun və s.-nin işlətdiyi və başqalarının başa düşmədiyi şərti ifadə və sözlər",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "QAAN",
+                "explanation": "is. tar. türk",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "QALA",
+                "explanation": "is. [ər.] 1. uzun müddət içində qapanıbdüşmənə müqavimət göstərmək üçünmöhkəm müdafiə tikililəri və vasitələri olanistehkam (məntəqə)",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 5
+            },
+            {
+                "word": "QARA",
+                "explanation": "is. yer kürəsinin torpaqla örtülühissəsi; torpaq (su qarşılığı). ***da və suda.*** qüvvələri",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 6
+            },
+            {
+                "word": "QART",
+                "explanation": "is. dan. kəsər alətləri itiləmək üçün daş; bülöv. dəryazları *** ilə itiləmək. *** daşı. mən də *** daşlara verdiyim bu hiss; bu incə mənadan necə",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 7
+            },
+            {
+                "word": "QONQ",
+                "explanation": "is. [ing.] 1. metal disk şəklindəzərbli musiqi aləti.2. idman yarışının başlanmasını bildirənsiqnal",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 8
+            },
+            {
+                "word": "QORA",
+                "explanation": "is. üzümün dəyməmişi",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 9
+            },
+            {
+                "word": "QRAN",
+                "explanation": "[lat.] riyaz. 0",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 10
+            },
+            {
+                "word": "ORAQ",
+                "explanation": "is. taxıl",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 11
+            },
+            {
+                "word": "OTAQ",
+                "explanation": "is. 1. mənzilin",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 12
+            },
+            {
+                "word": "RAQA",
+                "explanation": "is. [sanskr.] mus. qədim hind klassikmusiqisi növlərindən biri",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 13
+            },
+            {
+                "word": "RANQ",
+                "explanation": "is. [fr.] fərqlənmə dərəcəsi; kateqoriya",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 14
+            },
+            {
+                "word": "AQRAR",
+                "explanation": "sif. [lat.] 1. torpağa aid olan. ***məsələ. *** islahatı.2. kənd təsərrüfatının sənayedən yüksəkolması ilə səciyyələnən",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 15
+            },
+            {
+                "word": "ANQAR",
+                "explanation": "[fr.] təyyarələrin saxlanması vəcari təmiri üçün xüsusi tikili. ***lar istifadəsinəgörə daimi",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 16
+            },
+            {
+                "word": "ANLAQ",
+                "explanation": "is. düşüncə",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 17
+            },
+            {
+                "word": "QALAQ",
+                "explanation": "is. bir yerə qalanmış",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 18
+            },
+            {
+                "word": "QATAR",
+                "explanation": "is. 1. bir-birinin ardınca sıralanmış heyvanlar düzümü; qafilə",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 19
+            },
+            {
+                "word": "QONAQ",
+                "explanation": "is. 1. görüşmək üçün və ya başqabir məqsədlə birinin evinə gələn adam. …naçalnikyanına gələn ***lar ilə düşmüşdülərhacı namazalının evində",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 20
+            },
+            {
+                "word": "NAQAN",
+                "explanation": "[xüs. is.-dən] hərlənən topu(barabanı) olan tapança növü. [balaqardaş:]güldəstə! bir gözümün içinə dürüst bax! bu***ı görürsənmi? n",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 21
+            },
+            {
+                "word": "NAQQA",
+                "explanation": "is. zool. şirin suda yaşayan üstü pulsuz",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 22
+            },
+            {
+                "word": "ONQAT",
+                "explanation": "sif. 1. on mərtəbə(li). ***lı ev. 2. bir-birinin üzərində on lay olan. ***lı kordon",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 23
+            },
+            {
+                "word": "ORTAQ",
+                "explanation": "is. birlikdə görülən işin",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 24
+            },
+            {
+                "word": "OTLAQ",
+                "explanation": "is. 1. çoxlu ot bitən və mal-qaraotarılan yer. naxırı otlağa buraxmaq. – inək",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 25
+            },
+            {
+                "word": "TALAQ",
+                "explanation": "is. [ər.] köhn. 1. boşama",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 26
+            },
+            {
+                "word": "TOQQA",
+                "explanation": "is. qayışı",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 27
+            },
+            {
+                "word": "QALLON",
+                "explanation": "[ing.] ingiltərədə",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 28
+            },
+            {
+                "word": "QALTAQ",
+                "explanation": "is. yəhərin ağacdan olan hissəsi.// arabaya qoşulan heyvanın belinə qoyulanqoşqu aləti",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 29
+            },
+            {
+                "word": "QANQAL",
+                "explanation": "is. bot. yarpağı tikanlı",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 30
+            },
+            {
+                "word": "QANTAR",
+                "explanation": "is. köhn. 1. bax qapan. 1. 2. qədimdə işlənmiş ölçü vahidi",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 31
+            },
+            {
+                "word": "QARANT",
+                "explanation": "is. [fr.] zamin",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 32
+            },
+            {
+                "word": "QARNAQ",
+                "explanation": "is. məh. qar duran yer",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 33
+            },
+            {
+                "word": "QARTAL",
+                "explanation": "is. 1. dağlıq və ya çöllük yerlərdəyaşayan əyri dimdikli yırtıcı və qüvvətliiri quş; qaraquş. dağ ***ı",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 34
+            },
+            {
+                "word": "QATRAN",
+                "explanation": "is. [ər.] bəzi ağaclardan və yadaş kömürdən hasil edilən",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 35
+            },
+            {
+                "word": "QRANAT",
+                "explanation": "[ital.] 1. partlayıcı top gülləsi;qumbara. □ əl ***ı – əl ilə atılan kiçikqumbara.2. idm. yüngül atletikada: uzağa və ya hədəfəatılan idman alə",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 36
+            },
+            {
+                "word": "NAQQAL",
+                "explanation": "sif. çox",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 37
+            },
+            {
+                "word": "TONQAL",
+                "explanation": "is. yanan",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 38
+            },
+            {
+                "word": "ALAQORA",
+                "explanation": "sif. ala-dəymiş",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 39
+            },
+            {
+                "word": "QAQQANA",
+                "explanation": "is. qaqqıltı. pilləkəni titrətdi muştuluqçu qonşu qızın ***sı. r.rza. □ ***q çalmaq – 1) qaqqıldamaq",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 40
+            },
+            {
+                "word": "QARANAL",
+                "explanation": "sif. və zərf nalsız",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 41
+            },
+            {
+                "word": "QARARAN",
+                "explanation": "is. bot. qış otlaqlarında bitənçoxillik yem bitkisi",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 42
+            },
+            {
+                "word": "QARQARA",
+                "explanation": "is. xüs. ağır şeyləri qaldırmaqüçün yüksəkdə mil üstündə dolanan vəüzərindən ip sallanan çarx. // ümumiyyətlə",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 43
+            },
+            {
+                "word": "QONORAR",
+                "explanation": "[lat.] yazıçılara",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 44
+            },
+            {
+                "word": "TARAQQA",
+                "explanation": "is. içi barıtla doldurulmuş kağızdandüzələn partlayıcı fişəng (atəşbazlıqdaəyləncə üçün işlənir)",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 45
+            },
+            {
+                "word": "QAQQANAQ",
+                "explanation": "is. qaqqıltı. pilləkəni titrətdi muştuluqçu qonşu qızın qaqqanası. r.rza. □ *** çalmaq – 1) qaqqıldamaq",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 46
+            },
+            {
+                "word": "TAQQANAQ",
+                "explanation": "sif. dan. çox quru",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 47
+            },
+            {
+                "word": "ALAQANQAL",
+                "explanation": "is. bot. ağ ləkəli yarpaqlarıolan tikanlı alaq otu",
+                "isPanagram": false,
+                "score": 9,
+                "length": 9,
+                "id": 48
+            },
+            {
+                "word": "QONAQQARA",
+                "explanation": "is. dan. qonaq(lar). onunhəmişə qonaq-qarası olur",
+                "isPanagram": false,
+                "score": 9,
+                "length": 9,
+                "id": 49
+            },
+            {
+                "word": "OLANQALAN",
+                "explanation": "sif. dan. işlədildikdən",
+                "isPanagram": false,
+                "score": 9,
+                "length": 9,
+                "id": 50
+            },
+            {
+                "word": "QRANATATAN",
+                "explanation": "is. hərb. qranat atmaqüçün silah",
+                "isPanagram": false,
+                "score": 10,
+                "length": 10,
+                "id": 51
+            },
+            {
+                "word": "TARAQTARAQ",
+                "explanation": "is. təkrar edən",
+                "isPanagram": false,
+                "score": 10,
+                "length": 10,
+                "id": 52
+            },
+            {
+                "word": "ORTOQONAL",
+                "explanation": "is. riyaz. düzbucaqlı",
+                "isPanagram": true,
+                "score": 17,
+                "length": 9,
+                "id": 53
+            }
+        ]
+    }
+}

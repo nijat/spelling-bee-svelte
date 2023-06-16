@@ -1,0 +1,277 @@
+{
+    "gameData": {
+        "day": "20240127",
+        "expiration": "1706399940",
+        "centerLetter": "L",
+        "outerLetters": [
+            "S",
+            "A",
+            "İ",
+            "N",
+            "X",
+            "H"
+        ],
+        "words_info": {
+            "word_count": 31,
+            "sum_score": 143,
+            "panagram_count": 1,
+            "word_length": {
+                "5": 18,
+                "4": 8,
+                "6": 2,
+                "8": 2,
+                "9": 1
+            }
+        },
+        "words": [
+            {
+                "word": "HAİL",
+                "explanation": "is. [ər.] köhn. 1. dəyişmiş",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "HALA",
+                "explanation": "zərf [ər.] klas. indi",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "HALİ",
+                "explanation": "is. [ər.] bir hadisə",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "XALA",
+                "explanation": "is. 1. ananın bacısı. [sultan bəy:]***nın muzdu o olar ki",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "XALİ",
+                "explanation": "sif. [ər.] 1. boş",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 5
+            },
+            {
+                "word": "NAİL",
+                "explanation": "[ər.] : *** olmaq – əldə etmək",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 6
+            },
+            {
+                "word": "SAİL",
+                "explanation": "is. [ər.] dilənçi",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 7
+            },
+            {
+                "word": "SİLL",
+                "explanation": "is. [ər.] köhn. vərəm. [ələkbər:] hərkim bu arvadın üzünə baxsa",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 8
+            },
+            {
+                "word": "ALANA",
+                "explanation": "is. içərisi şəkərli qozla doldurulmuşmeyvə qurusu (armud",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 9
+            },
+            {
+                "word": "ALLAH",
+                "explanation": "is. [ər.] 1. bütün kainatın yeganə yaradıcısı və idarə edəni; yaradan",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 10
+            },
+            {
+                "word": "ASLAN",
+                "explanation": "is. 1. şir",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 11
+            },
+            {
+                "word": "HALAL",
+                "explanation": "sif. [ər.] 1. islam dininin ehkamlarınagörə yeyilməsinə",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 12
+            },
+            {
+                "word": "HASİL",
+                "explanation": "[ər.] 1. sif. kit. hüsula gələn",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 13
+            },
+            {
+                "word": "HİLAL",
+                "explanation": "is. [ər.] 1. təzə çıxmış bir-ikigünlük ay; aypara. hər gecə fəğanım yetişirgöydə ***ə. s.ə.şirvani",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 14
+            },
+            {
+                "word": "HİLLİ",
+                "explanation": "sif. tərkibində hil olan",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 15
+            },
+            {
+                "word": "HİSLİ",
+                "explanation": "sif. 1. his verən",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 16
+            },
+            {
+                "word": "XALİS",
+                "explanation": "sif. [fars.] 1. heç bir qatışığı olmayan",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 17
+            },
+            {
+                "word": "XİLAS",
+                "explanation": "is. [ər.] qurtulma",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 18
+            },
+            {
+                "word": "LİANA",
+                "explanation": "[fr.] bot. tropik meşələrdə",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 19
+            },
+            {
+                "word": "LİLLİ",
+                "explanation": "sif. lehməli",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 20
+            },
+            {
+                "word": "LİSAN",
+                "explanation": "is. [ər.] klas. dil. ey oğul",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 21
+            },
+            {
+                "word": "NALAN",
+                "explanation": "sif. və zərf [fars.] ağlayan",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 22
+            },
+            {
+                "word": "SAHİL",
+                "explanation": "is. [ər.] dənizin",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 23
+            },
+            {
+                "word": "SİLAH",
+                "explanation": "is. [ər.] 1. hücum və ya müdafiə üçün alət; yaraq. …***larını yanlarına atıb oturmuş üç əsgər … söhbət edirdi",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 24
+            },
+            {
+                "word": "SİNLİ",
+                "explanation": "sif. yaşlı",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 25
+            },
+            {
+                "word": "SİSLİ",
+                "explanation": "sif. çənli",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 26
+            },
+            {
+                "word": "HİLALİ",
+                "explanation": "sif. hilal şəklində",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 27
+            },
+            {
+                "word": "XALXAL",
+                "explanation": "is. heyvanlara məxsus binalardaayrıca bölmə. ***ı təmiz saxlamalı.– [zərnigar xanım] əlində çatı",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 28
+            },
+            {
+                "word": "XALAXALA",
+                "explanation": "is. kiçik qızların gəlincikləoynadıqları oyun adı; gəlin-gəlin",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 29
+            },
+            {
+                "word": "XASXALİS",
+                "explanation": "sif. [ər.] köhn. əsil",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 30
+            },
+            {
+                "word": "SİLAHXANA",
+                "explanation": "is. [ər. silah və fars.] silah",
+                "isPanagram": true,
+                "score": 17,
+                "length": 9,
+                "id": 31
+            }
+        ]
+    }
+}

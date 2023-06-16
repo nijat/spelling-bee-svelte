@@ -1,0 +1,181 @@
+{
+    "gameData": {
+        "day": "20240114",
+        "expiration": "1705276740",
+        "centerLetter": "O",
+        "outerLetters": [
+            "R",
+            "A",
+            "S",
+            "T",
+            "E",
+            "M"
+        ],
+        "words_info": {
+            "word_count": 19,
+            "sum_score": 95,
+            "panagram_count": 1,
+            "word_length": {
+                "5": 9,
+                "7": 1,
+                "4": 5,
+                "6": 3,
+                "10": 1
+            }
+        },
+        "words": [
+            {
+                "word": "OMAR",
+                "explanation": "is. onurğasız dəniz heyvanı; onayaqlıxərçəng",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "ORTA",
+                "explanation": "1. is. bir şeyin kənarlarından",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "SORT",
+                "explanation": "[fr. ***e",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "TORT",
+                "explanation": "[ital.] yağ",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "TOST",
+                "explanation": "[ing.] süfrə başında birinin ünvanına deyilən xoş arzu",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 5
+            },
+            {
+                "word": "AORTA",
+                "explanation": "is. [yun.] anat. ürəyin sağ mədəciyindənçıxan və bədənin (ciyərlərdənbaşqa) bütün üzvlərini arterial qanla təchizedən ən böyük qan damarı; şah dama",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 6
+            },
+            {
+                "word": "MESSO",
+                "explanation": "is. [ital.] musiqidə səs dinamikası",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 7
+            },
+            {
+                "word": "METRO",
+                "explanation": "[fr.] “***politen” sözünün qısaldılmış forması. bakı ***su. – *** vaqonunda oturanlardan biri",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 8
+            },
+            {
+                "word": "MOTOR",
+                "explanation": "[lat. *** – hərəkətə gətirən]hər hansı enerjini mexaniki enerjiyə çevirənmaşın; mühərrik. təyyarə ***u",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 9
+            },
+            {
+                "word": "ORTAM",
+                "explanation": "is. mühit",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 10
+            },
+            {
+                "word": "RETRO",
+                "explanation": "is. [ing.] 1. geri qayıtmaq.2. keçmişə uyğunluq",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 11
+            },
+            {
+                "word": "ROTOR",
+                "explanation": "[lat. rotare – fırlanma] maşının(turbinin",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 12
+            },
+            {
+                "word": "TOROS",
+                "explanation": "is. dəniz",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 13
+            },
+            {
+                "word": "TORTA",
+                "explanation": "is. yağ və s. əridilərkən qabın dibinəçökən çöküntü. kərə yağın ***sı; qızılkəmər ortası; allah muradın versin; gələnbazar ertəsi",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 14
+            },
+            {
+                "word": "RESSOR",
+                "explanation": "is. [fr.] amortizasiyaedici quruluş",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 15
+            },
+            {
+                "word": "STATOR",
+                "explanation": "is. [lat.] maşınları və turbinlərihərəkətə gətirən mexanizm",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 16
+            },
+            {
+                "word": "TERROR",
+                "explanation": "[lat. therror – qorxu",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 17
+            },
+            {
+                "word": "STRATOSTAT",
+                "explanation": "[lat.] stratosferə qalxmaqüçün aerostat. *** qalxır boş ənginlərə;rənglərə boyanan xoş ənginlərə",
+                "isPanagram": false,
+                "score": 10,
+                "length": 10,
+                "id": 18
+            },
+            {
+                "word": "MAESTRO",
+                "explanation": "[ital.] bəstəkara",
+                "isPanagram": true,
+                "score": 17,
+                "length": 7,
+                "id": 19
+            }
+        ]
+    }
+}

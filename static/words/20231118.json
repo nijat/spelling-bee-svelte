@@ -1,0 +1,237 @@
+{
+    "gameData": {
+        "day": "20231118",
+        "expiration": "1700351940",
+        "centerLetter": "I",
+        "outerLetters": [
+            "B",
+            "S",
+            "A",
+            "O",
+            "Q",
+            "Y"
+        ],
+        "words_info": {
+            "word_count": 26,
+            "sum_score": 126,
+            "panagram_count": 1,
+            "word_length": {
+                "5": 15,
+                "6": 2,
+                "4": 6,
+                "8": 2,
+                "7": 1
+            }
+        },
+        "words": [
+            {
+                "word": "ASQI",
+                "explanation": "is. paltar və ya başqa şeylər asmağaməxsus alət. bu paltarlı skeletin iti çiyinsümükləri *** kimi ağ abanı saxlayır",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "AYIB",
+                "explanation": "is. [ər. eyb] 1. utanılacaq şey",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "AYIQ",
+                "explanation": "sif. və zərf 1. bayğınlığı",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "BABI",
+                "explanation": "is. [xüs. is.-dən] 1. xıx əsrin ortasında iranda “bab” təxəllüslü mirzə əli məhəmməd tərəfindən təsis edilmiş dini təriqətə mənsub olan adam",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "QISA",
+                "explanation": "sif. 1. boyca gödək",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 5
+            },
+            {
+                "word": "YABI",
+                "explanation": "is. 1. arıq",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 6
+            },
+            {
+                "word": "ABASI",
+                "explanation": "is. [xüs. is.-dən] 1. dördşahılıq (iyimiqəpiklik) metal pul. cibimdə bir abbası pulum var. – [hacı qara:] bu kasad bazarda mənim bir şahım yoxdur",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 7
+            },
+            {
+                "word": "BASIQ",
+                "explanation": "sif. 1. yastı",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 8
+            },
+            {
+                "word": "BASQI",
+                "explanation": "is. basmaq işi",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 9
+            },
+            {
+                "word": "QABIQ",
+                "explanation": "is. 1. bir şeyin üstünü örtən sərt örtü. ağacın qabığı. yumurtanın qabığı. qoz qabığı. – mağaranın içi yumşaq ağac ***ları ilə döşənmişdi",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 10
+            },
+            {
+                "word": "QASIQ",
+                "explanation": "is. anat. qarnın iki bud arasındaolan alt tərəfi",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 11
+            },
+            {
+                "word": "QAYIQ",
+                "explanation": "is. 1. su nəqliyyat vasitəsi. motorlu***. yelkənli ***. balıqçı qayığı.***da gəzmək. – ***lar",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 12
+            },
+            {
+                "word": "QAYSI",
+                "explanation": "is. cənubda bitən həmin adlı ağacınsarı",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 13
+            },
+            {
+                "word": "QISIQ",
+                "explanation": "sif. 1. qısılmış",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 14
+            },
+            {
+                "word": "QISQI",
+                "explanation": "is. 1. tələsdirmə",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 15
+            },
+            {
+                "word": "QIYIQ",
+                "explanation": "is. torba",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 16
+            },
+            {
+                "word": "SAYIQ",
+                "explanation": "sif. və zərf 1. öz işində",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 17
+            },
+            {
+                "word": "SISQA",
+                "explanation": "sif. cılız",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 18
+            },
+            {
+                "word": "SIYIQ",
+                "explanation": "1. sif. yarıduru halda olan; horra.*** məhlul. *** gil. – tüfəng açılan kimi",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 19
+            },
+            {
+                "word": "YAYIQ",
+                "explanation": "sif. məh. 1. göz qabağında olmayan",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 20
+            },
+            {
+                "word": "YAYQI",
+                "explanation": "is. yerə və ya döşəmə üzərinə sərilənşeylər: palaz",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 21
+            },
+            {
+                "word": "ABBASI",
+                "explanation": "is. [xüs. is.-dən] 1. dördşahılıq (iyimiqəpiklik) metal pul. cibimdə bir *** pulum var. – [hacı qara:] bu kasad bazarda mənim bir şahım yoxdur",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 22
+            },
+            {
+                "word": "QIYQIY",
+                "explanation": "is. 1. bir ayağı üstündə yerimə.2. bu cür oynanılan uşaq oyunu",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 23
+            },
+            {
+                "word": "AYAQQABI",
+                "explanation": "is. ayağa geyilən şey. dəri***. rezin ***. *** mağazası.*** fabriki",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 24
+            },
+            {
+                "word": "QISAAYAQ",
+                "explanation": "sif. ayağı qısa olan. ***miz",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 25
+            },
+            {
+                "word": "QISABOY",
+                "explanation": "sif. boyu uzun olmayan",
+                "isPanagram": true,
+                "score": 17,
+                "length": 7,
+                "id": 26
+            }
+        ]
+    }
+}

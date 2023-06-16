@@ -1,0 +1,366 @@
+{
+    "gameData": {
+        "day": "20230907",
+        "expiration": "1694131140",
+        "centerLetter": "Q",
+        "outerLetters": [
+            "X",
+            "A",
+            "M",
+            "Ş",
+            "L",
+            "U"
+        ],
+        "words_info": {
+            "word_count": 42,
+            "sum_score": 227,
+            "panagram_count": 1,
+            "word_length": {
+                "5": 16,
+                "4": 7,
+                "8": 6,
+                "6": 10,
+                "9": 1,
+                "7": 2
+            }
+        },
+        "words": [
+            {
+                "word": "ALAQ",
+                "explanation": "is. tarlada",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "XALQ",
+                "explanation": "is. 1. ölkənin",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "QALA",
+                "explanation": "is. [ər.] 1. uzun müddət içində qapanıbdüşmənə müqavimət göstərmək üçünmöhkəm müdafiə tikililəri və vasitələri olanistehkam (məntəqə)",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "QUAŞ",
+                "explanation": "is. [fr.] 1. qeyri-şəffaf sulu rəng.2. həmin rəng ilə çəkilən şəkil",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "QULA",
+                "explanation": "is. məh. açıq-sarı rəngli at. ***madyan",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 5
+            },
+            {
+                "word": "ULAQ",
+                "explanation": "is. yük və ya minik heyvanı. ***larıo tərəfdəki otluğa buraxıb gələn yusifatasının yanında durdu. ə",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 6
+            },
+            {
+                "word": "UŞAQ",
+                "explanation": "is. 1. azyaşlı oğlan",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 7
+            },
+            {
+                "word": "AXMAQ",
+                "explanation": "sif. səfeh",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 8
+            },
+            {
+                "word": "AŞQAL",
+                "explanation": "sif. məh. arıq",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 9
+            },
+            {
+                "word": "QAXMA",
+                "explanation": "is. 1. “***q”dan f.is.2. yerə qaxılan ucu yonulmuş ağac parçası.atı hörükləyib ***ya bağla.3. metal lövhələr üzərinə qəlib ilə vurulubaçılan n",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 10
+            },
+            {
+                "word": "QAQUM",
+                "explanation": "is. [ər.] pişik cinsindən olan bozqaraquyruqlu xəzlik heyvan",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 11
+            },
+            {
+                "word": "QALAQ",
+                "explanation": "is. bir yerə qalanmış",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 12
+            },
+            {
+                "word": "QAŞQA",
+                "explanation": "is. 1. ümumiyyətlə",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 13
+            },
+            {
+                "word": "QUQQU",
+                "explanation": "is. zool. adətən özünə yuva tikməyib",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 14
+            },
+            {
+                "word": "QULAQ",
+                "explanation": "is. 1. insan və heyvanlarda eşitməorqanı. qulağı ağrımaq. *** həkimi.– nəvəsi onun … burnundan",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 15
+            },
+            {
+                "word": "QULAM",
+                "explanation": "is. qədim zamanlarda: qul",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 16
+            },
+            {
+                "word": "QUMAŞ",
+                "explanation": "is. [ər.] ipək",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 17
+            },
+            {
+                "word": "QUMLU",
+                "explanation": "sif. 1. içində",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 18
+            },
+            {
+                "word": "QUMUQ",
+                "explanation": "is. dağıstanda yaşayan türkdillixalq və bu xalqa mənsub adam. *** dili.*** xalqı",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 19
+            },
+            {
+                "word": "ŞAQQA",
+                "explanation": "is. ikiyə parçalanmış cəmdək.[fərhad:] bir qoyunun da ***sını yeməkolarmı? ə.haqverdiyev. tahirzadənin ilk işio oldu ki",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 20
+            },
+            {
+                "word": "ŞAQUL",
+                "explanation": "is. [ər.] divarın ***iliyini",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 21
+            },
+            {
+                "word": "ŞALAQ",
+                "explanation": "is. məh. 1. iri",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 22
+            },
+            {
+                "word": "ŞULUQ",
+                "explanation": "sif. 1. nadinc",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 23
+            },
+            {
+                "word": "QALAMA",
+                "explanation": "“***q”dan f.is. □ bir ***– ağzına qədər dolu",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 24
+            },
+            {
+                "word": "QAŞQAL",
+                "explanation": "is. məh. xır bağlanan zaman",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 25
+            },
+            {
+                "word": "QUQUŞU",
+                "explanation": "is. 1. ördək fəsiləsinə mənsub ağ (nadir hallarda qara) yumşaq tüklü",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 26
+            },
+            {
+                "word": "QUQULU",
+                "explanation": "is. məh. 1. bütöv çıxarılmış qoz içi",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 27
+            },
+            {
+                "word": "QULLUQ",
+                "explanation": "is. 1. xidmət",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 28
+            },
+            {
+                "word": "QUMLUQ",
+                "explanation": "1. sif. qumdan ibarət olan",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 29
+            },
+            {
+                "word": "MAQQAŞ",
+                "explanation": "is. [ər.] 1. çox xırda şeyləri tutubgötürmək",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 30
+            },
+            {
+                "word": "ŞUXLUQ",
+                "explanation": "is. 1. oynaqlıq",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 31
+            },
+            {
+                "word": "ŞUMLUQ",
+                "explanation": "is. şum edilmiş",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 32
+            },
+            {
+                "word": "ULULUQ",
+                "explanation": "is. böyüklük",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 33
+            },
+            {
+                "word": "QUQQULU",
+                "explanation": "is. məh. 1. bütöv çıxarılmış qoz içi",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 34
+            },
+            {
+                "word": "QUMQUMA",
+                "explanation": "is. [ər.] 1. yandan asılan kiçiksu qabı. bir çoxları öz yol xərcliyini",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 35
+            },
+            {
+                "word": "AMALQAMA",
+                "explanation": "[fr. əsli ərəbcədən] kim.bəzi metalların civə ilə əmələ gətirdiyiərinti",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 36
+            },
+            {
+                "word": "QALMAQAL",
+                "explanation": "is. səs-küy",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 37
+            },
+            {
+                "word": "QAMQALAQ",
+                "explanation": "is. xarrat işləri zamanı yerətökülən nazik taxta – talaşa. …sarı əlinə düşənçör-çöpü",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 38
+            },
+            {
+                "word": "QUMLULUQ",
+                "explanation": "is. qumlu şeyin halı; tərkibində",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 39
+            },
+            {
+                "word": "ŞULUQLUQ",
+                "explanation": "is. 1. nadinclik",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 40
+            },
+            {
+                "word": "QUQQUQUŞU",
+                "explanation": "is. zool. adətən özünə yuva tikməyib",
+                "isPanagram": false,
+                "score": 9,
+                "length": 9,
+                "id": 41
+            },
+            {
+                "word": "XAMUŞLUQ",
+                "explanation": "is. sakitlik",
+                "isPanagram": true,
+                "score": 17,
+                "length": 8,
+                "id": 42
+            }
+        ]
+    }
+}

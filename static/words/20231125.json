@@ -1,0 +1,368 @@
+{
+    "gameData": {
+        "day": "20231125",
+        "expiration": "1700956740",
+        "centerLetter": "I",
+        "outerLetters": [
+            "A",
+            "M",
+            "R",
+            "T",
+            "D",
+            "L"
+        ],
+        "words_info": {
+            "word_count": 42,
+            "sum_score": 230,
+            "panagram_count": 1,
+            "word_length": {
+                "6": 7,
+                "5": 11,
+                "7": 10,
+                "4": 9,
+                "11": 1,
+                "10": 1,
+                "9": 1,
+                "8": 2
+            }
+        },
+        "words": [
+            {
+                "word": "ADLI",
+                "explanation": "sif. 1. müəyyən adı olan",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "ALIM",
+                "explanation": "is. köhn. 1. alacaq",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "ALLI",
+                "explanation": "sif. köhn. al rəngli paltar geymiş.tərifli gözəllər gəlhagəl oldu; yaşıllı",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "ARLI",
+                "explanation": "sif. həyalı",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "ATIM",
+                "explanation": "is. 1. atmaq işi.2. yalnız bir",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 5
+            },
+            {
+                "word": "ATLI",
+                "explanation": "1. sif. at minmiş",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 6
+            },
+            {
+                "word": "DARI",
+                "explanation": "is. yumru toxumları olan birillik taxılbitkisi və bu bitkinin dəni. *** əkini. – actoyuq yuxusunda *** görər",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 7
+            },
+            {
+                "word": "LARI",
+                "explanation": "sif. uzunqıçlı",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 8
+            },
+            {
+                "word": "LIRT",
+                "explanation": "sif. 1. çox dəyib sulanmış. *** armud.*** əzgil.2. məc. süst",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 9
+            },
+            {
+                "word": "ADDIM",
+                "explanation": "is. 1. yeriyərkən ayağın qaldırılıb irəli atılmasından ibarət hərəkət; qədəm. ağır ***. iri ***. *** səsi eşitmək",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 10
+            },
+            {
+                "word": "ALALI",
+                "explanation": "sif. alası olan",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 11
+            },
+            {
+                "word": "ARTIM",
+                "explanation": "is. 1. sayca",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 12
+            },
+            {
+                "word": "ATALI",
+                "explanation": "sif. atası olan. *** uşaq. ***(z.) böyümək",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 13
+            },
+            {
+                "word": "DADLI",
+                "explanation": "1. sif. yaxşı dadı olan",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 14
+            },
+            {
+                "word": "DALLI",
+                "explanation": "sif. dalları (budaqları) olan. ***ağac",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 15
+            },
+            {
+                "word": "DARTI",
+                "explanation": "is. 1. dartma",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 16
+            },
+            {
+                "word": "MALLI",
+                "explanation": "sif. mal-qarası olan",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 17
+            },
+            {
+                "word": "MAMIR",
+                "explanation": "is. bot. ali sporlu bitkilərdən ibtidaiquruluşa malik bitki. həyətin hündürhasarları rütubətdən ***la örtülmüşdü",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 18
+            },
+            {
+                "word": "MARIT",
+                "explanation": "is. dan. ov itlərinin ovu gördükdə aldıqları gərgin",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 19
+            },
+            {
+                "word": "TAMLI",
+                "explanation": "sif. 1. dadlı",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 20
+            },
+            {
+                "word": "ADAMLI",
+                "explanation": "sif. dan. yaxın adamı",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 21
+            },
+            {
+                "word": "ARAMLI",
+                "explanation": "sif. 1. səbirli",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 22
+            },
+            {
+                "word": "DAMALI",
+                "explanation": "sif. üzərində damalar olan",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 23
+            },
+            {
+                "word": "DARTIM",
+                "explanation": "is. xüs. gərginlik dərəcəsi",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 24
+            },
+            {
+                "word": "MALALI",
+                "explanation": "sif. mala çəkilmiş",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 25
+            },
+            {
+                "word": "TATARI",
+                "explanation": "is. qırmanc",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 26
+            },
+            {
+                "word": "TIRTIL",
+                "explanation": "is. 1. zool. bir neçə cütayaqlı qurdabənzərbədəni olan kəpənək sürfəsi. kəpənək***ı.2. yoldakı maneələri keçmə qabiliyyətiniartırmaq üçün maşın",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 27
+            },
+            {
+                "word": "ADDIMLI",
+                "explanation": "sif. yeriyərkən iri addım atan",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 28
+            },
+            {
+                "word": "ARTIMLI",
+                "explanation": "sif. çox artım verən",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 29
+            },
+            {
+                "word": "ARTIRMA",
+                "explanation": "is. 1. eyvan",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 30
+            },
+            {
+                "word": "DADMALI",
+                "explanation": "1. is. yeməli",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 31
+            },
+            {
+                "word": "DAMARLI",
+                "explanation": "sif. 1. çoxlu damarı olan. ***ət.2. xəstəlik",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 32
+            },
+            {
+                "word": "DARTILI",
+                "explanation": "sif. dartılmış halda olan",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 33
+            },
+            {
+                "word": "MAMIRLI",
+                "explanation": "sif. 1. mamırla örtülmüş",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 34
+            },
+            {
+                "word": "MIRILTI",
+                "explanation": "is. 1. itlərin bir şeydən xoşlanmadıqlarızaman çıxardıqları yavaş alçaq səs.[dərviş:] malların göyşəyi",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 35
+            },
+            {
+                "word": "MIRMIRI",
+                "explanation": "is. zool. ağbalıq",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 36
+            },
+            {
+                "word": "TIRILTI",
+                "explanation": "is. tır-tır səsi. həyətdə eşidilənmotor ***sı qoşqarın əzablı düşüncələriniyarıda qırdı. i.hüseynov",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 37
+            },
+            {
+                "word": "MALAALTI",
+                "explanation": "sif. malanın altı üçün olan",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 38
+            },
+            {
+                "word": "TIRTILLI",
+                "explanation": "sif. tırtılı olan",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 39
+            },
+            {
+                "word": "DADLIDADLI",
+                "explanation": "1) sif. ləzzətli-ləzzətli",
+                "isPanagram": false,
+                "score": 10,
+                "length": 10,
+                "id": 40
+            },
+            {
+                "word": "ALTITARLALI",
+                "explanation": "sif. k.t. altı ildən bir dövredən (əkin dəyişmə). *** təsərrüfat.*** əkin",
+                "isPanagram": false,
+                "score": 11,
+                "length": 11,
+                "id": 41
+            },
+            {
+                "word": "DAMARALTI",
+                "explanation": "sif. anat. damarın altındaolan. *** ət",
+                "isPanagram": true,
+                "score": 17,
+                "length": 9,
+                "id": 42
+            }
+        ]
+    }
+}

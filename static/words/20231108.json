@@ -1,0 +1,166 @@
+{
+    "gameData": {
+        "day": "20231108",
+        "expiration": "1699487940",
+        "centerLetter": "I",
+        "outerLetters": [
+            "Z",
+            "S",
+            "A",
+            "Ğ",
+            "Y",
+            "T"
+        ],
+        "words_info": {
+            "word_count": 17,
+            "sum_score": 95,
+            "panagram_count": 2,
+            "word_length": {
+                "4": 6,
+                "7": 2,
+                "9": 2,
+                "6": 3,
+                "5": 3,
+                "8": 1
+            }
+        },
+        "words": [
+            {
+                "word": "AĞIZ",
+                "explanation": "is. 1. insan və heyvanların üzlərinin alt tərəfində",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "SIĞA",
+                "explanation": "is. [ər.] köhn. 1. kiçik uşaqlar.2. yetimlər",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "SIZI",
+                "explanation": "is. bax ***ltı. bütün vücudumda birqırıqlıq",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "TAZI",
+                "explanation": "is. bərkqaçan",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "YAĞI",
+                "explanation": "is. düşmən. giryan dedi: “ey gözüm çirağı; vəhşilərə el",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 5
+            },
+            {
+                "word": "YAZI",
+                "explanation": "is. qəd. çöl",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 6
+            },
+            {
+                "word": "AYSIZ",
+                "explanation": "sif. qaranlıq",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 7
+            },
+            {
+                "word": "SAYĞI",
+                "explanation": "is. 1. hörmət",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 8
+            },
+            {
+                "word": "YASTI",
+                "explanation": "sif. 1. səthi düz",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 9
+            },
+            {
+                "word": "ATASIZ",
+                "explanation": "sif. atası olmayan",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 10
+            },
+            {
+                "word": "SAYSIZ",
+                "explanation": "sif. və zərf sayca",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 11
+            },
+            {
+                "word": "YAĞSIZ",
+                "explanation": "sif. 1. yağı olmayan",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 12
+            },
+            {
+                "word": "AĞIZSIZ",
+                "explanation": "sif. 1. ağzı olmayan (bax ağız12 və 5-ci mənalarda).2. küt",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 13
+            },
+            {
+                "word": "AĞYAĞIZ",
+                "explanation": "sif. üzü ağ",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 14
+            },
+            {
+                "word": "SAYĞISIZ",
+                "explanation": "sif. 1. ehtiram göstərməyən",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 15
+            },
+            {
+                "word": "AĞZIYASTI",
+                "explanation": "is. məh. hər iki tərəfi yastıolan külüng növü",
+                "isPanagram": true,
+                "score": 17,
+                "length": 9,
+                "id": 16
+            },
+            {
+                "word": "YASTIAĞIZ",
+                "explanation": "is. tutan tərəfi (ağzı) uzun vəyastı olan qısqac (alət)",
+                "isPanagram": true,
+                "score": 17,
+                "length": 9,
+                "id": 17
+            }
+        ]
+    }
+}

@@ -1,0 +1,448 @@
+{
+    "gameData": {
+        "day": "20231002",
+        "expiration": "1696291140",
+        "centerLetter": "D",
+        "outerLetters": [
+            "K",
+            "Ə",
+            "İ",
+            "M",
+            "Ö",
+            "L"
+        ],
+        "words_info": {
+            "word_count": 52,
+            "sum_score": 306,
+            "panagram_count": 1,
+            "word_length": {
+                "4": 9,
+                "6": 7,
+                "7": 9,
+                "5": 16,
+                "10": 5,
+                "9": 3,
+                "12": 1,
+                "8": 2
+            }
+        },
+        "words": [
+            {
+                "word": "DƏDƏ",
+                "explanation": "is. 1. ata. *** görməyib",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "DƏLƏ",
+                "explanation": "is. 1. zool. yırtıcılar dəstəsindənxəzdərili məməli kiçik heyvan. *** dərisi.2. həmin heyvanın dərisi",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "DƏLİ",
+                "explanation": "1. sif. ağlı və şüuru yerində olmayan",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "DİDƏ",
+                "explanation": "is. [fars.] klas. göz. gər inanmazsan ki",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "ƏDƏD",
+                "explanation": "is. [ər.] 1. say",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 5
+            },
+            {
+                "word": "ƏDƏM",
+                "explanation": "is. [ər.] klas. yoxluq. yəni ki",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 6
+            },
+            {
+                "word": "MƏDD",
+                "explanation": "is. [ər.] 1. coğr. köhn. bax qabarma2(cəzr müqabili).2. ərəb əlifbasında əlifin (“ ”) “a” kimioxunması üçün üstünə qoyulan diakritikişarə (~)",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 7
+            },
+            {
+                "word": "MƏDƏ",
+                "explanation": "is. [ər. midə] anat. insanda və heyvanlardaqarın boşluğunun yuxarı hissəsindəyerləşən həzm orqanı. *** ağrısı",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 8
+            },
+            {
+                "word": "ÖDƏK",
+                "explanation": "is. məh. ödənməli plan",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 9
+            },
+            {
+                "word": "DƏKKƏ",
+                "explanation": "is. məh. iri heyvanların (inək",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 10
+            },
+            {
+                "word": "DƏLİL",
+                "explanation": "is. [ər.] hər hansı bir şeyi sübut etməküçün əsas; sübut. tutarlı ***. *** gətirmək.bunu sübut etmək üçün *** lazımdır",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 11
+            },
+            {
+                "word": "DƏLMƏ",
+                "explanation": "1. “***k”dən f.is. *** aləti.2. is. divarda açılmış kiçik taxça. içəridəkahanın divarlarında böyüklü-kiçikli beş*** gözə çarpırdı",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 12
+            },
+            {
+                "word": "DƏMƏK",
+                "explanation": "is. 1. heyvanların torpaq altında qazıdıqları yuva. tülkü dəməyi. siçan dəməyi. – günorta vaxtı siçan öz dəməyində olur",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 13
+            },
+            {
+                "word": "DƏMLİ",
+                "explanation": "sif. 1. dəm almış",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 14
+            },
+            {
+                "word": "DİDİK",
+                "explanation": "sif. didilmiş halda olan. *** yun.*** ət. *** gündə",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 15
+            },
+            {
+                "word": "DİKLİ",
+                "explanation": "sif. diki",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 16
+            },
+            {
+                "word": "DİLƏK",
+                "explanation": "is. istək",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 17
+            },
+            {
+                "word": "DİLİK",
+                "explanation": "is. 1. nəyinsə uzunsov hissəsi.2. köhn. bəzək",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 18
+            },
+            {
+                "word": "DİLİM",
+                "explanation": "is. uzununa dil kimi kəsilmiş parça",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 19
+            },
+            {
+                "word": "DİLLİ",
+                "explanation": "sif. 1. ağzında dili olan. // danışa bilən",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 20
+            },
+            {
+                "word": "DÖLMƏ",
+                "explanation": "is. dan. dalan",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 21
+            },
+            {
+                "word": "ƏDƏDİ",
+                "explanation": "sif. [ər.] riyaz. ədədlərlə ifadəolunan. *** kəmiyyət. ədəbi nisbət. –diferensial tənlikləri təqribi həll etmək üçünmüxtəlif qrafik və *** meto",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 22
+            },
+            {
+                "word": "KİLİD",
+                "explanation": "is. [fars.] 1. qıfıl. asma ***. – siyirmə***lər biləkdən yoğun; asılmış qıfıllarbuğunbəbuğun. h",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 23
+            },
+            {
+                "word": "MƏDƏD",
+                "explanation": "[ər.] 1. is. kömək",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 24
+            },
+            {
+                "word": "ÖDDƏK",
+                "explanation": "sif. məh. qorxaq",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 25
+            },
+            {
+                "word": "DƏDƏLİ",
+                "explanation": "sif. atası olan",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 26
+            },
+            {
+                "word": "DƏLƏMƏ",
+                "explanation": "is. pendir halına keçmək üzrəolan süd",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 27
+            },
+            {
+                "word": "DƏLLƏK",
+                "explanation": "is. [ər.] 1. baş və üz qırxmaqpeşəsi ilə məşğul olan adam; bərbər. bəli",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 28
+            },
+            {
+                "word": "DİKİLİ",
+                "explanation": "sif. dik halda olan",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 29
+            },
+            {
+                "word": "DİKLİK",
+                "explanation": "is. 1. dik şeyin halı",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 30
+            },
+            {
+                "word": "DİMDİK",
+                "explanation": "is. quşların ağızlarının irəliyəuzanmış buynuz kimi sərt hissəsi. ağacdələnindimdiyi biz kimi olur",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 31
+            },
+            {
+                "word": "ƏLDƏKİ",
+                "explanation": "sif. əldə olan",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 32
+            },
+            {
+                "word": "DƏDƏLİK",
+                "explanation": "is. atalıq",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 33
+            },
+            {
+                "word": "DƏLİKLİ",
+                "explanation": "sif. dəliyi olan; deşikli. ***sərnic. *** dolça.◊ *** sümük anat. – qılça ilə birləşənsümük",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 34
+            },
+            {
+                "word": "DƏLİLİK",
+                "explanation": "is. 1. ağlı başından çıxmış adamınhalı. *** əlamətləri.2. məc. ağılsız iş və hərəkət",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 35
+            },
+            {
+                "word": "DƏLİLLİ",
+                "explanation": "sif. dəlili olan; sübutlu",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 36
+            },
+            {
+                "word": "DƏMƏLƏK",
+                "explanation": "is. bot. yemliyəoxşar",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 37
+            },
+            {
+                "word": "DİLƏKLİ",
+                "explanation": "sif. diləyi olan",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 38
+            },
+            {
+                "word": "DİLİKLİ",
+                "explanation": "sif. diliyi",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 39
+            },
+            {
+                "word": "DİLİMLİ",
+                "explanation": "sif. dilimi olan",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 40
+            },
+            {
+                "word": "KİLİDLİ",
+                "explanation": "sif. kilid vurulmuş",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 41
+            },
+            {
+                "word": "DİLLİLİK",
+                "explanation": "is. dilli adamın xassəsi",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 42
+            },
+            {
+                "word": "DİMDİKLİ",
+                "explanation": "sif. 1. dimdiyi olan. …həyətdədənlənən yastı sarı *** qazların hərdənbirqaqqıltısından başqa bir şey eşidilmirdi",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 43
+            },
+            {
+                "word": "DƏLLƏKLİK",
+                "explanation": "is. 1. dəllək (1",
+                "isPanagram": false,
+                "score": 9,
+                "length": 9,
+                "id": 44
+            },
+            {
+                "word": "DƏMDƏMƏKİ",
+                "explanation": "sif. öz hərəkətində",
+                "isPanagram": false,
+                "score": 9,
+                "length": 9,
+                "id": 45
+            },
+            {
+                "word": "KİLİDLƏMƏ",
+                "explanation": "1. “***k”dən f.is.2. bax qıfılbənd 2-ci mənada. [muzdur]saz çalmasa da",
+                "isPanagram": false,
+                "score": 9,
+                "length": 9,
+                "id": 46
+            },
+            {
+                "word": "DƏLİKDƏLİK",
+                "explanation": "sif. deşik-deşik",
+                "isPanagram": false,
+                "score": 10,
+                "length": 10,
+                "id": 47
+            },
+            {
+                "word": "DİDİKDİDİK",
+                "explanation": "sif. çox didilmiş",
+                "isPanagram": false,
+                "score": 10,
+                "length": 10,
+                "id": 48
+            },
+            {
+                "word": "DİLİKDİLİK",
+                "explanation": "sif. 1. kənarı diliklər şəklindəolan. kənarı dilik-dilik süfrə.2. tikə-tikə",
+                "isPanagram": false,
+                "score": 10,
+                "length": 10,
+                "id": 49
+            },
+            {
+                "word": "DİLİMDİLİM",
+                "explanation": "zərf və sif. dilimlər halında",
+                "isPanagram": false,
+                "score": 10,
+                "length": 10,
+                "id": 50
+            },
+            {
+                "word": "DƏMDƏMƏKİLİK",
+                "explanation": "is. öz hərəkətində",
+                "isPanagram": false,
+                "score": 12,
+                "length": 12,
+                "id": 51
+            },
+            {
+                "word": "KÖKƏLDİLMƏ",
+                "explanation": "“***k”dən f.is.mal-qaranın ***si",
+                "isPanagram": true,
+                "score": 17,
+                "length": 10,
+                "id": 52
+            }
+        ]
+    }
+}

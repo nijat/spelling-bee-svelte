@@ -1,0 +1,212 @@
+{
+    "gameData": {
+        "day": "20231009",
+        "expiration": "1696895940",
+        "centerLetter": "M",
+        "outerLetters": [
+            "T",
+            "İ",
+            "I",
+            "R",
+            "B",
+            "A"
+        ],
+        "words_info": {
+            "word_count": 23,
+            "sum_score": 108,
+            "panagram_count": 1,
+            "word_length": {
+                "5": 9,
+                "4": 7,
+                "7": 4,
+                "6": 3
+            }
+        },
+        "words": [
+            {
+                "word": "AMİR",
+                "explanation": "is. [ər.] buyuran",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "ARAM",
+                "explanation": "is. [fars.] sakitlik",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "ATIM",
+                "explanation": "is. 1. atmaq işi.2. yalnız bir",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "ATMA",
+                "explanation": "“***q”dan f.is. və s. *** nizə.ən qədim insanların ilk *** silahı daş",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "MAMA",
+                "explanation": "is. doğuş zamanı kömək göstərməkləməşğul olan (keçmişdə təhsilsiz",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 5
+            },
+            {
+                "word": "MART",
+                "explanation": "[lat.] təqvim ilinin üçüncü ayı.*** qırğınları. – *** çıxdı",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 6
+            },
+            {
+                "word": "TAAM",
+                "explanation": "is. [ər.] 1. xörək",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 7
+            },
+            {
+                "word": "AMBIR",
+                "explanation": "is. xüs. dəmirçilərin",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 8
+            },
+            {
+                "word": "ARTIM",
+                "explanation": "is. 1. sayca",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 9
+            },
+            {
+                "word": "ARTMA",
+                "explanation": "1. “***q”dan f.is.2. is. artan şey",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 10
+            },
+            {
+                "word": "BİMAR",
+                "explanation": "sif. və is. [fars.] xəstə",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 11
+            },
+            {
+                "word": "MAMIR",
+                "explanation": "is. bot. ali sporlu bitkilərdən ibtidaiquruluşa malik bitki. həyətin hündürhasarları rütubətdən ***la örtülmüşdü",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 12
+            },
+            {
+                "word": "MARIT",
+                "explanation": "is. dan. ov itlərinin ovu gördükdə aldıqları gərgin",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 13
+            },
+            {
+                "word": "MİRAB",
+                "explanation": "is. [ər. mir və fars. ab] tar. keçmişdəşərq ölkələrində suvarma işlərinə nəzarətedən şəxs. [iskəndərzadə:] mən ***ıçağırtdırmışam",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 14
+            },
+            {
+                "word": "MİTRA",
+                "explanation": "is. [rus.] dini ayin zamanı keşişlərinbaşlarına keçirdikləri qızılı rəngli papaq",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 15
+            },
+            {
+                "word": "TAMAM",
+                "explanation": "is. [ər.] 1. bitmə",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 16
+            },
+            {
+                "word": "BARAMA",
+                "explanation": "is. 1. ipəkqurdu tırtılının nazikipək liflərindən hörərək",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 17
+            },
+            {
+                "word": "MARTİT",
+                "explanation": "is. mineral",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 18
+            },
+            {
+                "word": "TARMAR",
+                "explanation": "sif. 1. bir-birinə qarışmış",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 19
+            },
+            {
+                "word": "ARTIRMA",
+                "explanation": "is. 1. eyvan",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 20
+            },
+            {
+                "word": "MARİMBA",
+                "explanation": "is. afrikada zərb musiqi aləti",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 21
+            },
+            {
+                "word": "MIRMIRI",
+                "explanation": "is. zool. ağbalıq",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 22
+            },
+            {
+                "word": "BİRATIM",
+                "explanation": "sif. yalnız bir dəfəyə kifayət edən. ***lıq çay. ***lıq barıt. ◊ ***(lıq) barıtı var – çox tez həvəslənən",
+                "isPanagram": true,
+                "score": 17,
+                "length": 7,
+                "id": 23
+            }
+        ]
+    }
+}

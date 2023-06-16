@@ -1,0 +1,318 @@
+{
+    "gameData": {
+        "day": "20240227",
+        "expiration": "1709078340",
+        "centerLetter": "T",
+        "outerLetters": [
+            "I",
+            "S",
+            "B",
+            "L",
+            "M",
+            "A"
+        ],
+        "words_info": {
+            "word_count": 36,
+            "sum_score": 189,
+            "panagram_count": 1,
+            "word_length": {
+                "8": 2,
+                "7": 7,
+                "9": 4,
+                "4": 10,
+                "5": 8,
+                "6": 5
+            }
+        },
+        "words": [
+            {
+                "word": "ATAT",
+                "explanation": "is. uşaqların ağac üstə minərəkoynadıqları oyun. at-at oynamaq",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "ATIM",
+                "explanation": "is. 1. atmaq işi.2. yalnız bir",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "ATLI",
+                "explanation": "1. sif. at minmiş",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "ATMA",
+                "explanation": "“***q”dan f.is. və s. *** nizə.ən qədim insanların ilk *** silahı daş",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "BATI",
+                "explanation": "is. məh. günbatan tərəf",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 5
+            },
+            {
+                "word": "LAST",
+                "explanation": "is. [ing.] sualtı üzgüçülükdə istifadəedilən xüsusi rezin ayaqlıq",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 6
+            },
+            {
+                "word": "SAAT",
+                "explanation": "is. [ər.] 1. gecə-gündüzün iyirmi dörddə birini təşkil edən və 60 dəqiqədən ibarət olan vaxt ölçüsü vahidi",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 7
+            },
+            {
+                "word": "TAAM",
+                "explanation": "is. [ər.] 1. xörək",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 8
+            },
+            {
+                "word": "TALA",
+                "explanation": "is. meşədə ağacsız",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 9
+            },
+            {
+                "word": "TASA",
+                "explanation": "is. [fars.] 1. qəm",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 10
+            },
+            {
+                "word": "ATALI",
+                "explanation": "sif. atası olan. *** uşaq. ***(z.) böyümək",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 11
+            },
+            {
+                "word": "BABAT",
+                "explanation": "sif. və zərf orta keyfiyyətli",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 12
+            },
+            {
+                "word": "BALTA",
+                "explanation": "is. odun doğramaq",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 13
+            },
+            {
+                "word": "SALAT",
+                "explanation": "[ər.] dəfn günü vəfat edənin evinin üstündə uca səslə oxunan minacat. □ *** çəkmək – vəfat edənin evinin üstündə uca səslə minacat oxumaq",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 14
+            },
+            {
+                "word": "SATIL",
+                "explanation": "is. su",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 15
+            },
+            {
+                "word": "TABLI",
+                "explanation": "sif. dözümlü",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 16
+            },
+            {
+                "word": "TAMAM",
+                "explanation": "is. [ər.] 1. bitmə",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 17
+            },
+            {
+                "word": "TAMLI",
+                "explanation": "sif. 1. dadlı",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 18
+            },
+            {
+                "word": "ATLAMA",
+                "explanation": "is. su qatılaraq duru hala salınmışqatıq; ayran. yayın ***sı",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 19
+            },
+            {
+                "word": "BALATA",
+                "explanation": "is. məh. maya",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 20
+            },
+            {
+                "word": "BALATI",
+                "explanation": "is. məh. maya",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 21
+            },
+            {
+                "word": "BATBAT",
+                "explanation": "is. bot. bəngotu; pis qoxulu acıdadan ot bitki (xalq təbabətində işlədilir).gödək saplaqlı yaşıl rəngli və yumurtayaoxşarzəhərli otların",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 22
+            },
+            {
+                "word": "TAMASA",
+                "explanation": "is. müxtəlif məqsədlər üçün yonulubhazırlanmış nazik ensiz taxta; reyka",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 23
+            },
+            {
+                "word": "ALATALA",
+                "explanation": "sif. tala-tala",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 24
+            },
+            {
+                "word": "ASTMALI",
+                "explanation": "sif. tib. astma xəstəliyi olan.*** xəstə",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 25
+            },
+            {
+                "word": "ATABABA",
+                "explanation": "is. əcdad",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 26
+            },
+            {
+                "word": "ATABALA",
+                "explanation": "is. ata ilə oğlu",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 27
+            },
+            {
+                "word": "BALLAST",
+                "explanation": "[ing.] üzərində dəmiryol şpallarıduran dəmiryol yatağının üzərinə döşənənçınqıl",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 28
+            },
+            {
+                "word": "BALTALI",
+                "explanation": "sif. əlində balta olan",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 29
+            },
+            {
+                "word": "SALAMAT",
+                "explanation": "sif. və zərf [ər.] 1. sağ",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 30
+            },
+            {
+                "word": "ALABABAT",
+                "explanation": "sif. və zərf dan. nə yaxşı",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 31
+            },
+            {
+                "word": "MALAALTI",
+                "explanation": "sif. malanın altı üçün olan",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 32
+            },
+            {
+                "word": "ATILBATIL",
+                "explanation": "is. bot. cənub rayonlarındayayılmış quraqlıqsevən çoxillik bitki",
+                "isPanagram": false,
+                "score": 9,
+                "length": 9,
+                "id": 33
+            },
+            {
+                "word": "SATILMALI",
+                "explanation": "sif. satılmaq üçün olan",
+                "isPanagram": false,
+                "score": 9,
+                "length": 9,
+                "id": 34
+            },
+            {
+                "word": "TAMAMLAMA",
+                "explanation": "1. “***q”dan f.is.2. is. əgər-əskiyini düzəltmə",
+                "isPanagram": false,
+                "score": 9,
+                "length": 9,
+                "id": 35
+            },
+            {
+                "word": "ALIBSATMA",
+                "explanation": "is. alış-veriş",
+                "isPanagram": true,
+                "score": 17,
+                "length": 9,
+                "id": 36
+            }
+        ]
+    }
+}

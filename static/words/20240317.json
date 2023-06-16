@@ -1,0 +1,197 @@
+{
+    "gameData": {
+        "day": "20240317",
+        "expiration": "1710719940",
+        "centerLetter": "Z",
+        "outerLetters": [
+            "A",
+            "M",
+            "B",
+            "Q",
+            "U",
+            "R"
+        ],
+        "words_info": {
+            "word_count": 21,
+            "sum_score": 106,
+            "panagram_count": 1,
+            "word_length": {
+                "4": 6,
+                "5": 6,
+                "6": 5,
+                "8": 3,
+                "7": 1
+            }
+        },
+        "words": [
+            {
+                "word": "ARZU",
+                "explanation": "is. [fars.] 1. bir şeyin olmasını ürəkdən istəmə; istək",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "AZAR",
+                "explanation": "is. [fars.] 1. xəstəlik",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "BAZU",
+                "explanation": "is. [fars.] qolun çiyindən dirsəyəqədər olan hissəsi; qol. ol gümüş biləklər",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "QUZU",
+                "explanation": "is. 1. qoyun balası. *** əti. ***dərisi. – mal qapıya gələndə axşam-səhər;qoyun mələr",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "UMUZ",
+                "explanation": "is. çiyin. [zaman:] mən tüfəngi***uma sıxaraq gedirdim. c.cabbarlı. yunşalını ***undan alıb kreslonun söykənəcəyinəburaxdı",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 5
+            },
+            {
+                "word": "UZAQ",
+                "explanation": "sif. və zərf 1. məsafə etibarilə yaxın olmayan",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 6
+            },
+            {
+                "word": "BAZAR",
+                "explanation": "is. 1. alış-veriş yeri. bütün şəhər***",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 7
+            },
+            {
+                "word": "BURAZ",
+                "explanation": "is. çox yoğun ip. ***la bağlamaq.gəmi ***ı",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 8
+            },
+            {
+                "word": "QAZAQ",
+                "explanation": "is. 1. bax kazak.2. çar rusiyasında: ayrıca bir təbəqə təşkiledən atlı qoşunun süvarisi",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 9
+            },
+            {
+                "word": "QAZMA",
+                "explanation": "1. “***q1”dan f.is. ***texnikasının inkişafı.2. sif. oyulmuş",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 10
+            },
+            {
+                "word": "MAZAQ",
+                "explanation": "is. [ər.] vulq. zarafat",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 11
+            },
+            {
+                "word": "ZUMAR",
+                "explanation": "is. məh. qış ehtiyatı. hamınınanbarında üzümü",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 12
+            },
+            {
+                "word": "BUMBUZ",
+                "explanation": "sif. çox soyuq",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 13
+            },
+            {
+                "word": "QAQAUZ",
+                "explanation": "is. moldova və ukraynada",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 14
+            },
+            {
+                "word": "QAZMAQ",
+                "explanation": "is. bişmişin",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 15
+            },
+            {
+                "word": "MARAZM",
+                "explanation": "is. [yun.] 1. beyin qabığınınümumi üzgünlüklə müşayiət olunan atrofiyasıvə psixi fəaliyyətinin dayanması",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 16
+            },
+            {
+                "word": "MURQUZ",
+                "explanation": "is. bot. taxıllar fəsiləsindənqarğıyabənzər bitki",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 17
+            },
+            {
+                "word": "QUBAQAZ",
+                "explanation": "is. şair. vəhşi qaz. sona tək silkinib gərdən çəkəndə; bənzəyirsən quba-qaza",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 18
+            },
+            {
+                "word": "QARAAZAR",
+                "explanation": "is. bayt. çox yoluxucu mal***ı",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 19
+            },
+            {
+                "word": "UZAQUZAQ",
+                "explanation": "sif. çox uzaq. uzaq-uzaq dağbaşında; tala-tala qar görünür. “koroğlu”.uzaq-uzaq ölkələrdən; uçub gəlir qaranquşlar",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 20
+            },
+            {
+                "word": "QUMARBAZ",
+                "explanation": "is. [ər. qimar və fars. …baz]qumar oynamağı özünə adət etmiş adam.[həpo:] *** baba idim",
+                "isPanagram": true,
+                "score": 17,
+                "length": 8,
+                "id": 21
+            }
+        ]
+    }
+}

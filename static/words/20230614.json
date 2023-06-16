@@ -1,0 +1,319 @@
+{
+    "gameData": {
+        "day": "20230614",
+        "expiration": "1686787140",
+        "centerLetter": "I",
+        "outerLetters": [
+            "A",
+            "Q",
+            "S",
+            "Y",
+            "Ç",
+            "X"
+        ],
+        "words_info": {
+            "word_count": 36,
+            "sum_score": 189,
+            "panagram_count": 1,
+            "word_length": {
+                "4": 6,
+                "9": 1,
+                "6": 4,
+                "5": 18,
+                "7": 5,
+                "8": 1,
+                "10": 1
+            }
+        },
+        "words": [
+            {
+                "word": "AÇIQ",
+                "explanation": "sif. 1. qapalı olmayan",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "ASQI",
+                "explanation": "is. paltar və ya başqa şeylər asmağaməxsus alət. bu paltarlı skeletin iti çiyinsümükləri *** kimi ağ abanı saxlayır",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "AYIQ",
+                "explanation": "sif. və zərf 1. bayğınlığı",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "QIÇA",
+                "explanation": "is. bir şeyin bölündüyü",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "QISA",
+                "explanation": "sif. 1. boyca gödək",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 5
+            },
+            {
+                "word": "YAXI",
+                "explanation": "is. 1. yağ xüsusiyyətləri olan maddə; ***la",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 6
+            },
+            {
+                "word": "ÇAYÇI",
+                "explanation": "is. 1. çay əkib-becərməklə məşğulolan adam; çaybecərən. ***ların yarışı.// çay mütəxəssisi.2. çayxanada xidmət edən adam",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 7
+            },
+            {
+                "word": "ÇIXIQ",
+                "explanation": "1. is. oynaqda sümüklərin yerindənoynaması. imamverdi baba bilirdi ki",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 8
+            },
+            {
+                "word": "QASIQ",
+                "explanation": "is. anat. qarnın iki bud arasındaolan alt tərəfi",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 9
+            },
+            {
+                "word": "QAYÇI",
+                "explanation": "is. 1. ortadan qadaqla bir-birinəçarpaz bənd edilmiş iki hissədən ibarət kəsicialət. dərzi ***sı",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 10
+            },
+            {
+                "word": "QAYIQ",
+                "explanation": "is. 1. su nəqliyyat vasitəsi. motorlu***. yelkənli ***. balıqçı qayığı.***da gəzmək. – ***lar",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 11
+            },
+            {
+                "word": "QAYSI",
+                "explanation": "is. cənubda bitən həmin adlı ağacınsarı",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 12
+            },
+            {
+                "word": "QISIQ",
+                "explanation": "sif. 1. qısılmış",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 13
+            },
+            {
+                "word": "QISQI",
+                "explanation": "is. 1. tələsdirmə",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 14
+            },
+            {
+                "word": "QIYIQ",
+                "explanation": "is. torba",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 15
+            },
+            {
+                "word": "SAXSI",
+                "explanation": "is. gildən hazırlanan dulusçuluqməmulatı. ***ya verə-verə",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 16
+            },
+            {
+                "word": "SAYIQ",
+                "explanation": "sif. və zərf 1. öz işində",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 17
+            },
+            {
+                "word": "SISQA",
+                "explanation": "sif. cılız",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 18
+            },
+            {
+                "word": "SIYIQ",
+                "explanation": "1. sif. yarıduru halda olan; horra.*** məhlul. *** gil. – tüfəng açılan kimi",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 19
+            },
+            {
+                "word": "YAXIQ",
+                "explanation": "is. yaxılmış",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 20
+            },
+            {
+                "word": "YAYÇI",
+                "explanation": "is. qədim türkdilli tayfalardan biri",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 21
+            },
+            {
+                "word": "YAYIQ",
+                "explanation": "sif. məh. 1. göz qabağında olmayan",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 22
+            },
+            {
+                "word": "YAYQI",
+                "explanation": "is. yerə və ya döşəmə üzərinə sərilənşeylər: palaz",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 23
+            },
+            {
+                "word": "YIXIQ",
+                "explanation": "sif. yıxılmış",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 24
+            },
+            {
+                "word": "AYAQÇI",
+                "explanation": "is. məh. 1. köhn. qapı-qapı gəzib",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 25
+            },
+            {
+                "word": "QIYQIY",
+                "explanation": "is. 1. bir ayağı üstündə yerimə.2. bu cür oynanılan uşaq oyunu",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 26
+            },
+            {
+                "word": "SAYAÇI",
+                "explanation": "is. ədəb. qoyun",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 27
+            },
+            {
+                "word": "SIXSIX",
+                "explanation": "zərf və sif. 1. çox sıx",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 28
+            },
+            {
+                "word": "QAÇAQÇI",
+                "explanation": "is. köhn. qaçaq mal gətirməkləməşğul olan adam. [hacı qara:] hamısınatövbələtmə verrəm ki",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 29
+            },
+            {
+                "word": "QAYIQÇI",
+                "explanation": "is. qayıq işlədən",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 30
+            },
+            {
+                "word": "QISAQIÇ",
+                "explanation": "sif. qıçları çox qısa olan. ***lı kişi",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 31
+            },
+            {
+                "word": "SAXSIÇI",
+                "explanation": "is. saxsı qablar qayıran usta; dulusçu",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 32
+            },
+            {
+                "word": "YASAQÇI",
+                "explanation": "is. köhn. keşikçi",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 33
+            },
+            {
+                "word": "QISAAYAQ",
+                "explanation": "sif. ayağı qısa olan. ***miz",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 34
+            },
+            {
+                "word": "AÇIQSAÇIQ",
+                "explanation": "sif. və zərf 1. pərişan",
+                "isPanagram": false,
+                "score": 9,
+                "length": 9,
+                "id": 35
+            },
+            {
+                "word": "YAXASIAÇIQ",
+                "explanation": "sif. və zərf döşüaçıq",
+                "isPanagram": true,
+                "score": 17,
+                "length": 10,
+                "id": 36
+            }
+        ]
+    }
+}

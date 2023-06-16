@@ -1,0 +1,149 @@
+{
+    "gameData": {
+        "day": "20231023",
+        "expiration": "1698105540",
+        "centerLetter": "H",
+        "outerLetters": [
+            "T",
+            "Ə",
+            "D",
+            "B",
+            "A",
+            "N"
+        ],
+        "words_info": {
+            "word_count": 15,
+            "sum_score": 62,
+            "panagram_count": 1,
+            "word_length": {
+                "4": 7,
+                "7": 1,
+                "9": 1,
+                "6": 1,
+                "5": 5
+            }
+        },
+        "words": [
+            {
+                "word": "AHƏN",
+                "explanation": "is. [fars.] klas. dəmir. peykanlarınladoldu tənim",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "BAHA",
+                "explanation": "[fars.] 1. is. dəyər",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "HANA",
+                "explanation": "is. əllə xalça",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "HƏDD",
+                "explanation": "is. [ər.] 1. sərhəd",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "HƏDƏ",
+                "explanation": "is. [ər.] qorxu gəlmə",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 5
+            },
+            {
+                "word": "HƏNA",
+                "explanation": "is. [ər.] xına. dünən oğlanı göndərdim",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 6
+            },
+            {
+                "word": "TƏHT",
+                "explanation": "is. [ər.] adətən ***ində şəklində– altında",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 7
+            },
+            {
+                "word": "DƏHAN",
+                "explanation": "is. [fars.] klas. ağız. sədəf ***ındanyüz min dürr saçar. s.vurğun",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 8
+            },
+            {
+                "word": "DƏHNƏ",
+                "explanation": "is. [fars.] yüyənin və ya cilovunatın ağzına salınan dəmir hissəsi; cövzə.at ***ni çeynəyə-çeynəyə irəli atıldı",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 9
+            },
+            {
+                "word": "ƏHATƏ",
+                "explanation": "is. [ər.] ətrafını tutma",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 10
+            },
+            {
+                "word": "HƏTTA",
+                "explanation": "bağl. [ər.] cümlədə aid olduğusözü və ya söz birləşməsini ayırmaq vəgücləndirmək üçün işlədilir – üstəlik",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 11
+            },
+            {
+                "word": "TƏNHA",
+                "explanation": "sif. və zərf [fars.] 1. tək",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 12
+            },
+            {
+                "word": "BƏHANƏ",
+                "explanation": "is. [fars.] 1. bir iş üçün əsas olabilən keyfiyyət",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 13
+            },
+            {
+                "word": "BƏDAHƏT",
+                "explanation": "is. [ər.] 1. köhn. aşkarlıq",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 14
+            },
+            {
+                "word": "BƏDAHƏTƏN",
+                "explanation": "zərf [ər.] birdən-birə",
+                "isPanagram": true,
+                "score": 17,
+                "length": 9,
+                "id": 15
+            }
+        ]
+    }
+}

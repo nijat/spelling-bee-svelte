@@ -1,0 +1,231 @@
+{
+    "gameData": {
+        "day": "20231101",
+        "expiration": "1698883140",
+        "centerLetter": "R",
+        "outerLetters": [
+            "F",
+            "A",
+            "N",
+            "I",
+            "T",
+            "L"
+        ],
+        "words_info": {
+            "word_count": 25,
+            "sum_score": 126,
+            "panagram_count": 1,
+            "word_length": {
+                "11": 1,
+                "4": 8,
+                "6": 3,
+                "5": 7,
+                "7": 3,
+                "9": 1,
+                "8": 2
+            }
+        },
+        "words": [
+            {
+                "word": "ANRI",
+                "explanation": "zərf və sif. dan. 1. o yan",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "ARAN",
+                "explanation": "is. azərbaycanda: yaylaq yerlərənisbətən alçaq və iqlimcə isti olan yerlər.azərbaycanın əsas *** yerləri muğan",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "ARAT",
+                "explanation": "is. k.t. şumlanıb sulanmış",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "ARLI",
+                "explanation": "sif. həyalı",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "FARA",
+                "explanation": "[fr.] yolu işıqlandırmaq üçün avtomobillərdə",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 5
+            },
+            {
+                "word": "LARI",
+                "explanation": "sif. uzunqıçlı",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 6
+            },
+            {
+                "word": "LIRT",
+                "explanation": "sif. 1. çox dəyib sulanmış. *** armud.*** əzgil.2. məc. süst",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 7
+            },
+            {
+                "word": "TRAL",
+                "explanation": "is.[ing.] balıq ovlamaq üçün iri tor",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 8
+            },
+            {
+                "word": "ARTAN",
+                "explanation": "f.sif. getdikcə çoxalan",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 9
+            },
+            {
+                "word": "FIRLI",
+                "explanation": "sif. 1. fırı olan (bax fır 1-ci mənada).*** ağac.2. hörgüclü",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 10
+            },
+            {
+                "word": "NARIN",
+                "explanation": "sif. 1. son dərəcə xırda",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 11
+            },
+            {
+                "word": "NARLI",
+                "explanation": "sif. nar qatılmış",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 12
+            },
+            {
+                "word": "TANRI",
+                "explanation": "is. allah. [elxan:] mənim ***mbaşqalarına zərər verməz azad diləklərimdir.c.cabbarlı.◊ *** bəndəsi – bax allah bəndəsi(“allah”da)",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 13
+            },
+            {
+                "word": "TARLA",
+                "explanation": "is. taxıl",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 14
+            },
+            {
+                "word": "TATAR",
+                "explanation": "is. 1. ***ıstanın əsas əhalisinitəşkil edən türkdilli xalq və bu xalqa mənsubadam.2. volqaboyunda",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 15
+            },
+            {
+                "word": "ARANLI",
+                "explanation": "is. dan. həmişə aranda yaşayanadam",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 16
+            },
+            {
+                "word": "TATARI",
+                "explanation": "is. qırmanc",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 17
+            },
+            {
+                "word": "TIRTIL",
+                "explanation": "is. 1. zool. bir neçə cütayaqlı qurdabənzərbədəni olan kəpənək sürfəsi. kəpənək***ı.2. yoldakı maneələri keçmə qabiliyyətiniartırmaq üçün maşın",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 18
+            },
+            {
+                "word": "FIRFIRA",
+                "explanation": "is. 1. çox iti fırlanarkən bir ucuüzərində dik vəziyyətdə duran dairə və yaşar şəklində oyuncaq; fırlanqıc",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 19
+            },
+            {
+                "word": "FIRTINA",
+                "explanation": "is. 1. güclü küləklə dənizin şiddətlədalğalanması; qasırğa",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 20
+            },
+            {
+                "word": "TIRILTI",
+                "explanation": "is. tır-tır səsi. həyətdə eşidilənmotor ***sı qoşqarın əzablı düşüncələriniyarıda qırdı. i.hüseynov",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 21
+            },
+            {
+                "word": "LATINLAR",
+                "explanation": "is. italiyada lasiuma vilayətindəməskunlaşmış qədim italyan tayfaları;romalılar. ***ın köhnə məskəni bugünküitaliya dövlətidir ki",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 22
+            },
+            {
+                "word": "TIRTILLI",
+                "explanation": "sif. tırtılı olan",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 23
+            },
+            {
+                "word": "ALTITARLALI",
+                "explanation": "sif. k.t. altı ildən bir dövredən (əkin dəyişmə). *** təsərrüfat.*** əkin",
+                "isPanagram": false,
+                "score": 11,
+                "length": 11,
+                "id": 24
+            },
+            {
+                "word": "FIRTINALI",
+                "explanation": "sif. 1. fırtınası olan",
+                "isPanagram": true,
+                "score": 17,
+                "length": 9,
+                "id": 25
+            }
+        ]
+    }
+}

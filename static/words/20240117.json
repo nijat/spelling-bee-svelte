@@ -1,0 +1,495 @@
+{
+    "gameData": {
+        "day": "20240117",
+        "expiration": "1705535940",
+        "centerLetter": "D",
+        "outerLetters": [
+            "Q",
+            "R",
+            "A",
+            "U",
+            "N",
+            "Ə"
+        ],
+        "words_info": {
+            "word_count": 58,
+            "sum_score": 267,
+            "panagram_count": 1,
+            "word_length": {
+                "4": 20,
+                "5": 17,
+                "7": 6,
+                "6": 7,
+                "8": 4,
+                "10": 3,
+                "9": 1
+            }
+        },
+        "words": [
+            {
+                "word": "ADAQ",
+                "explanation": "is. məh. uşağın ilk addımı",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "ADNA",
+                "explanation": "is. cümə axşamı",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "DANA",
+                "explanation": "is. bir yaşdan iki yaşa qədər olaninək balası. *** əti. – danışıq ***nı qurdaverər. (məsəl)",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "DƏDƏ",
+                "explanation": "is. 1. ata. *** görməyib",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "DƏNƏ",
+                "explanation": "is. [fars.] 1. eyni cinsdən olan şeylərin hər biri",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 5
+            },
+            {
+                "word": "DƏRD",
+                "explanation": "is. [fars.] 1. qəm",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 6
+            },
+            {
+                "word": "DƏRƏ",
+                "explanation": "is. 1. iki dağ və ya təpə arasında",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 7
+            },
+            {
+                "word": "DUDA",
+                "explanation": "is. [fars.] neft",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 8
+            },
+            {
+                "word": "DURU",
+                "explanation": "sif. 1. maye halında olan",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 9
+            },
+            {
+                "word": "ƏDƏD",
+                "explanation": "is. [ər.] 1. say",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 10
+            },
+            {
+                "word": "ƏDNA",
+                "explanation": "sif. və is. [ər.] klas. 1. alçaq",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 11
+            },
+            {
+                "word": "QADA",
+                "explanation": "is. 1. bəla",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 12
+            },
+            {
+                "word": "QƏDD",
+                "explanation": "is. [ər.] 1. boy",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 13
+            },
+            {
+                "word": "QƏDR",
+                "explanation": "[ər.] klas. bax qədər1. xoşdur nə*** eyləsə yarım cəfa mənə. füzuli. birzaman var idi canda ixtiyar; o ***i gəlmədin",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 14
+            },
+            {
+                "word": "QƏND",
+                "explanation": "is. [ər.] şəkər çuğunduru və yaşəkər qamışından hasil edilən ağ kristal şəklindəşirin qida maddəsi; şəkər",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 15
+            },
+            {
+                "word": "QUDA",
+                "explanation": "is. gəlin ilə oğlanın ata-analarınınbir-birinə olan qohumluq münasibəti. iki*** ötə-bəridən məhəbbətlə danışdılar",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 16
+            },
+            {
+                "word": "QURD",
+                "explanation": "is. canavar. düşdü qəzadan ora***un yolu; baxdı ki",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 17
+            },
+            {
+                "word": "NƏRD",
+                "explanation": "is. [ər.] 24 xanası olan iki çərçivəlitaxtadan",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 18
+            },
+            {
+                "word": "RADƏ",
+                "explanation": "is. [ər.] vaxt bildirən rəqəmlərdən sonra gələrək həmin rəqəmin təxmini olduğunu göstərir (adətən “***ləri” və “***lərində” şəklində işlədilir)",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 19
+            },
+            {
+                "word": "RƏDD",
+                "explanation": "is. [ər.] qəbul etməmə",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 20
+            },
+            {
+                "word": "DAQQA",
+                "explanation": "is. məh. 1. dəridən tikilmiş hündürpapaq. şiraslan … *** divan papağınıbaşına qoydu",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 21
+            },
+            {
+                "word": "DANQA",
+                "explanation": "is. mal aşığı. ***ları çıxmışqoca inəklər",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 22
+            },
+            {
+                "word": "DARAQ",
+                "explanation": "is. 1. saçı darayıb düzəltmək üçün dişli alət. narındişli ***. başını ***la daramaq. – siyah zülfü *** ilə dara",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 23
+            },
+            {
+                "word": "DƏRNƏ",
+                "explanation": "is. məh. 1. yengə. gəlinin ***sikim idi?2. toy başçısı. *** olmaq",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 24
+            },
+            {
+                "word": "DƏRUN",
+                "explanation": "is. [fars.] klas. 1. iç",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 25
+            },
+            {
+                "word": "DURAQ",
+                "explanation": "is. duracaq",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 26
+            },
+            {
+                "word": "DURNA",
+                "explanation": "is. zool. dimdiyi",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 27
+            },
+            {
+                "word": "QADAQ",
+                "explanation": "is. bıçaq",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 28
+            },
+            {
+                "word": "QANAD",
+                "explanation": "is. 1. quşlarda və cücülərdə uçmaqorqanı. quş ***ı. *** açıb uçmaq.göyərçinin ***ı. milçəklər ***larında",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 29
+            },
+            {
+                "word": "QƏDƏR",
+                "explanation": "[ər.] 1. is. miqdar",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 30
+            },
+            {
+                "word": "NADAN",
+                "explanation": "sif. [fars.] 1. cahil",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 31
+            },
+            {
+                "word": "NANDU",
+                "explanation": "is. uça bilməyən quşlar qrupu;amerika dəvəquşuları",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 32
+            },
+            {
+                "word": "NƏDƏN",
+                "explanation": "əvəz. nə üçün",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 33
+            },
+            {
+                "word": "RADAR",
+                "explanation": "[ing.] bax radiolokator. radiolokasiyadaişlədilən qurğulara radiolokatordeyilir. bəzi yerlərdə bunları müxtəsər olaraq*** adlandırırlar",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 34
+            },
+            {
+                "word": "RADDƏ",
+                "explanation": "is. [ər.] vaxt bildirən rəqəmlərdən sonra gələrək həmin rəqəmin təxmini olduğunu göstərir (adətən “radələri” və “radələrində” şəklində işlədilir)",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 35
+            },
+            {
+                "word": "RAUND",
+                "explanation": "[ing.] boksda: vuruşun bir hissəsinindavam etdiyi iki və ya üç dəqiqəlik müddət",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 36
+            },
+            {
+                "word": "RƏNDƏ",
+                "explanation": "is. [fars.] taxtanı yonub hamarlamaqüçün dülgər aləti. [fərmanın] atasındanqalan *** və əl mişarının dəstəsi xurcununağzından görünürdü",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 37
+            },
+            {
+                "word": "DƏNDAN",
+                "explanation": "is. [fars.] klas. diş. olmasa qabiləgər dəhr cəfa verməz ona; təm biləzzətolanda necə ***ə dəyər? m",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 38
+            },
+            {
+                "word": "DRAQUN",
+                "explanation": "[fr.] çar ordusunda və bəzi xariciölkə ordularında: xüsusi atlı qoşun hissələrinəfəri",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 39
+            },
+            {
+                "word": "ƏRRADƏ",
+                "explanation": "is. [ər.] köhn. 1. təkərlər üzərindəyerləşdirilmiş top",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 40
+            },
+            {
+                "word": "QƏDDAR",
+                "explanation": "is. və sif. [ər.] rəhmsiz",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 41
+            },
+            {
+                "word": "QUQURD",
+                "explanation": "is. məh. açılmamış qızılgül;qönçə",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 42
+            },
+            {
+                "word": "QUNDAQ",
+                "explanation": "is. tüfəngin ağac hissəsi. araztüfəngin qundağı ilə onu elə vurdu ki",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 43
+            },
+            {
+                "word": "NARDAN",
+                "explanation": "is. *** bişirilən riçal",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 44
+            },
+            {
+                "word": "DANƏNDƏ",
+                "explanation": "is. [fars.] klas. bilici",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 45
+            },
+            {
+                "word": "DƏNDƏNƏ",
+                "explanation": "is. [fars.] 1. təkərin çevrəsinimərkəzə birləşdirən taxta. arabanın bir ***sisınmışdır. – [arabaçı:] …atlar arıq",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 46
+            },
+            {
+                "word": "ƏNDƏRUN",
+                "explanation": "[fars.] 1. sif. köhn. iç",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 47
+            },
+            {
+                "word": "QƏDDARƏ",
+                "explanation": "is. [ər.] köhn. hər iki tərəfikəsən ağır qılınc. nəhayət",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 48
+            },
+            {
+                "word": "QƏNDDAN",
+                "explanation": "[ər. qənd və fars. …dan] baxqəndqabı. …dördkünc ağ ***lar bahalıkonfet və şirni ilə doldurulmuşdu",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 49
+            },
+            {
+                "word": "QURUDAN",
+                "explanation": "is. mürəkkəbi qurutmağa məxsuskağız",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 50
+            },
+            {
+                "word": "DƏNƏDƏNƏ",
+                "explanation": "sif. dənələr halında",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 51
+            },
+            {
+                "word": "QARAQURD",
+                "explanation": "is. zool. qabıqlı böcək cinsindənolub",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 52
+            },
+            {
+                "word": "QƏRARDAD",
+                "explanation": "is. [ər. qərar və fars. …dad]köhn. qərar",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 53
+            },
+            {
+                "word": "NARQURDU",
+                "explanation": "is. zool. narı və bəzi başqameyvələri zədələyən və onun çürüməsinəsəbəb olan həşərat",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 54
+            },
+            {
+                "word": "QƏDDARANƏ",
+                "explanation": "zərf [ər. qəddar və fars.…anə] amansızcasına",
+                "isPanagram": false,
+                "score": 9,
+                "length": 9,
+                "id": 55
+            },
+            {
+                "word": "QANQURUDAN",
+                "explanation": "1. is. bot. qan dayandırmaqüçün xalq təbabətində işlədilən birbitki.2. sif. axan qanı qurudan",
+                "isPanagram": false,
+                "score": 10,
+                "length": 10,
+                "id": 56
+            },
+            {
+                "word": "QURDUQURDU",
+                "explanation": "is. dan. həyəcan",
+                "isPanagram": false,
+                "score": 10,
+                "length": 10,
+                "id": 57
+            },
+            {
+                "word": "DƏNQURUDAN",
+                "explanation": "sif. xüs. dəni qurutmağayarayan. *** cihazlar",
+                "isPanagram": true,
+                "score": 17,
+                "length": 10,
+                "id": 58
+            }
+        ]
+    }
+}

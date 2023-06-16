@@ -1,0 +1,415 @@
+{
+    "gameData": {
+        "day": "20231126",
+        "expiration": "1701043140",
+        "centerLetter": "R",
+        "outerLetters": [
+            "A",
+            "U",
+            "N",
+            "C",
+            "Q",
+            "T"
+        ],
+        "words_info": {
+            "word_count": 48,
+            "sum_score": 243,
+            "panagram_count": 1,
+            "word_length": {
+                "4": 13,
+                "5": 14,
+                "11": 1,
+                "6": 10,
+                "8": 1,
+                "7": 5,
+                "10": 4
+            }
+        },
+        "words": [
+            {
+                "word": "ACAR",
+                "explanation": "is. cənubi qafqazda yaşayanxalqlardan birinin adı",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "ARAQ",
+                "explanation": "is. [ər.] 1. meyvədən və s.-dənçəkilən spirtli içki. tut arağı. zoğal arağı.*** çəkmək. – ərəqlə badədir ol iki cövhər;ki",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "ARAN",
+                "explanation": "is. azərbaycanda: yaylaq yerlərənisbətən alçaq və iqlimcə isti olan yerlər.azərbaycanın əsas *** yerləri muğan",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "ARAT",
+                "explanation": "is. k.t. şumlanıb sulanmış",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "QARA",
+                "explanation": "is. yer kürəsinin torpaqla örtülühissəsi; torpaq (su qarşılığı). ***da və suda.*** qüvvələri",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 5
+            },
+            {
+                "word": "QART",
+                "explanation": "is. dan. kəsər alətləri itiləmək üçün daş; bülöv. dəryazları *** ilə itiləmək. *** daşı. mən də *** daşlara verdiyim bu hiss; bu incə mənadan necə",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 6
+            },
+            {
+                "word": "QRAN",
+                "explanation": "[lat.] riyaz. 0",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 7
+            },
+            {
+                "word": "QURU",
+                "explanation": "sif. 1. yaş olmayan",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 8
+            },
+            {
+                "word": "RACA",
+                "explanation": "is. [sanskr.] qədim hindistandarəhbərlik və hakimlik rütbəsi",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 9
+            },
+            {
+                "word": "RAQA",
+                "explanation": "is. [sanskr.] mus. qədim hind klassikmusiqisi növlərindən biri",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 10
+            },
+            {
+                "word": "RANQ",
+                "explanation": "is. [fr.] fərqlənmə dərəcəsi; kateqoriya",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 11
+            },
+            {
+                "word": "URNA",
+                "explanation": "is. [lat.] 1. yandırılmış cənazəninkülünü saxlamaq üçün qab.2. seçki qutusu; səsvermə qutusu",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 12
+            },
+            {
+                "word": "URUQ",
+                "explanation": "is. ailə. uruğum olsun",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 13
+            },
+            {
+                "word": "AQRAR",
+                "explanation": "sif. [lat.] 1. torpağa aid olan. ***məsələ. *** islahatı.2. kənd təsərrüfatının sənayedən yüksəkolması ilə səciyyələnən",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 14
+            },
+            {
+                "word": "ANQAR",
+                "explanation": "[fr.] təyyarələrin saxlanması vəcari təmiri üçün xüsusi tikili. ***lar istifadəsinəgörə daimi",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 15
+            },
+            {
+                "word": "ARTAN",
+                "explanation": "f.sif. getdikcə çoxalan",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 16
+            },
+            {
+                "word": "QARUN",
+                "explanation": "is. [xüs. is.-dən] çox dövlətli",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 17
+            },
+            {
+                "word": "QATAR",
+                "explanation": "is. 1. bir-birinin ardınca sıralanmış heyvanlar düzümü; qafilə",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 18
+            },
+            {
+                "word": "QURAQ",
+                "explanation": "sif. və zərf yağmursuz",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 19
+            },
+            {
+                "word": "QURAN",
+                "explanation": "is. müsəlmanların müqəddəsdini kitabı. nə bilir oxumayan müshəfi-hüsnünşərhin; yerə gögdən nə üçün endigini***ın",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 20
+            },
+            {
+                "word": "QURNA",
+                "explanation": "is. 1. çeşmə",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 21
+            },
+            {
+                "word": "QURUT",
+                "explanation": "is. yumru-yumru edilib qurudulmuşşor",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 22
+            },
+            {
+                "word": "TARAC",
+                "explanation": "is. [fars.] qarət",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 23
+            },
+            {
+                "word": "TATAR",
+                "explanation": "is. 1. ***ıstanın əsas əhalisinitəşkil edən türkdilli xalq və bu xalqa mənsubadam.2. volqaboyunda",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 24
+            },
+            {
+                "word": "TURAC",
+                "explanation": "is. zool. toyuq cinsindən ov quşu.bir məsəl qalmışdır ata-babadan; ucarda ***dır",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 25
+            },
+            {
+                "word": "TUTAR",
+                "explanation": "is. güc",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 26
+            },
+            {
+                "word": "UCQAR",
+                "explanation": "is. bir yerin ən uzaq hissəsi",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 27
+            },
+            {
+                "word": "QANTAR",
+                "explanation": "is. köhn. 1. bax qapan. 1. 2. qədimdə işlənmiş ölçü vahidi",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 28
+            },
+            {
+                "word": "QARACA",
+                "explanation": "is. k.t. 1. dəni qara toz halınasalan taxıl xəstəliyi.2. taxıl dənləri arasında olan yumru vəxırda zərərli bitki dəni",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 29
+            },
+            {
+                "word": "QARANT",
+                "explanation": "is. [fr.] zamin",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 30
+            },
+            {
+                "word": "QARNAQ",
+                "explanation": "is. məh. qar duran yer",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 31
+            },
+            {
+                "word": "QATRAN",
+                "explanation": "is. [ər.] bəzi ağaclardan və yadaş kömürdən hasil edilən",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 32
+            },
+            {
+                "word": "QRANAT",
+                "explanation": "[ital.] 1. partlayıcı top gülləsi;qumbara. □ əl ***ı – əl ilə atılan kiçikqumbara.2. idm. yüngül atletikada: uzağa və ya hədəfəatılan idman alə",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 33
+            },
+            {
+                "word": "QURQUR",
+                "explanation": "is. dan. içinə giləli meyvəyığmaq üçün ağac qabığından qayrılanboruşəkilli qab. uşaqlar qur-qurda çiyələkgətirmişdilər",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 34
+            },
+            {
+                "word": "QURUCA",
+                "explanation": "sif. çox quru",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 35
+            },
+            {
+                "word": "QURUCU",
+                "explanation": "1. is. quran",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 36
+            },
+            {
+                "word": "NATURA",
+                "explanation": "[lat.] 1. inc. üzündən şəkli çəkiləntəbii",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 37
+            },
+            {
+                "word": "QARANQU",
+                "explanation": "is. və sif. “qaranlıq” sözününqədimi forması. saçın ***sundan yüzünnuri göründü; hər qanda şam olursa",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 38
+            },
+            {
+                "word": "QARARAN",
+                "explanation": "is. bot. qış otlaqlarında bitənçoxillik yem bitkisi",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 39
+            },
+            {
+                "word": "QARQARA",
+                "explanation": "is. xüs. ağır şeyləri qaldırmaqüçün yüksəkdə mil üstündə dolanan vəüzərindən ip sallanan çarx. // ümumiyyətlə",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 40
+            },
+            {
+                "word": "TARAQQA",
+                "explanation": "is. içi barıtla doldurulmuş kağızdandüzələn partlayıcı fişəng (atəşbazlıqdaəyləncə üçün işlənir)",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 41
+            },
+            {
+                "word": "TATARCA",
+                "explanation": "sif. və zərf tatar dilində. ***öyrənmək. ***dan tərcümə",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 42
+            },
+            {
+                "word": "QARAQURA",
+                "explanation": "is. 1. qarabasma. [əhməd:]ay oğlum",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 43
+            },
+            {
+                "word": "QRANATATAN",
+                "explanation": "is. hərb. qranat atmaqüçün silah",
+                "isPanagram": false,
+                "score": 10,
+                "length": 10,
+                "id": 44
+            },
+            {
+                "word": "QURTARACAQ",
+                "explanation": "is. 1. bir şeyin qurtaranyeri; son",
+                "isPanagram": false,
+                "score": 10,
+                "length": 10,
+                "id": 45
+            },
+            {
+                "word": "TARAQTARAQ",
+                "explanation": "is. təkrar edən",
+                "isPanagram": false,
+                "score": 10,
+                "length": 10,
+                "id": 46
+            },
+            {
+                "word": "TARAQTURUQ",
+                "explanation": "is. təkrar edən",
+                "isPanagram": false,
+                "score": 10,
+                "length": 10,
+                "id": 47
+            },
+            {
+                "word": "CANQURTARAN",
+                "explanation": "sif. təhlükəli",
+                "isPanagram": true,
+                "score": 17,
+                "length": 11,
+                "id": 48
+            }
+        ]
+    }
+}

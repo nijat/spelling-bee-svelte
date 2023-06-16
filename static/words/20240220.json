@@ -1,0 +1,180 @@
+{
+    "gameData": {
+        "day": "20240220",
+        "expiration": "1708473540",
+        "centerLetter": "T",
+        "outerLetters": [
+            "Ə",
+            "F",
+            "İ",
+            "Ş",
+            "Ç",
+            "A"
+        ],
+        "words_info": {
+            "word_count": 19,
+            "sum_score": 70,
+            "panagram_count": 1,
+            "word_length": {
+                "4": 11,
+                "6": 4,
+                "8": 2,
+                "5": 2
+            }
+        },
+        "words": [
+            {
+                "word": "AFAT",
+                "explanation": "is. [ər. “afət” söz. cəmi] bax afət1-ci mənada. [nəsib:] mat-məəttəl qalmışamki",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "AFƏT",
+                "explanation": "is. [ər.] 1. bəla",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "ATAT",
+                "explanation": "is. uşaqların ağac üstə minərəkoynadıqları oyun. at-at oynamaq",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "ATƏŞ",
+                "explanation": "is. [fars.] 1. od. ***in təqazasıyandırmaqdır. o xasiyyət daim onda büruzedər. “əkinçi”. hər tərəfi *** sarımış",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "ÇƏTƏ",
+                "explanation": "is. [alb.] qeyri-müəyyən silahlıdəstə",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 5
+            },
+            {
+                "word": "ƏTÇİ",
+                "explanation": "is. ətsatan",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 6
+            },
+            {
+                "word": "ƏTƏŞ",
+                "explanation": "is. [fars.] susuzluq",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 7
+            },
+            {
+                "word": "FATA",
+                "explanation": "is. [lat.] duvaq",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 8
+            },
+            {
+                "word": "FİTƏ",
+                "explanation": "is. [ər.] hamamda çimərkən və yabir iş görərkən belə bağlanılan qumaş parça(əsasən qırmızı rəngdə olur)",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 9
+            },
+            {
+                "word": "TİŞƏ",
+                "explanation": "is. [fars.] 1. daş və s. üzərində naxışqazımaq üçün ucuiti alət; qələm.2. külüng. [səfərin] cavanlıq vaxtında… ağsal daşlara vurduğu ***nin ahəngd",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 10
+            },
+            {
+                "word": "TİTƏ",
+                "explanation": "is. bəzi adamların göz bəbəyindəolan ağ ləkə",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 11
+            },
+            {
+                "word": "ŞTİFT",
+                "explanation": "is. [alm.] detalları birləşmək üçünişlədilən silindr mil",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 12
+            },
+            {
+                "word": "TAFTA",
+                "explanation": "is. [fars.] sıx toxunmuş ipək vəya pambıq parça. [tarverdi:] a gədə",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 13
+            },
+            {
+                "word": "AFTAFA",
+                "explanation": "is. lüləyi və qulpu olan su qabı;lüləyin. səriyyə tas və ***nı gətiribmübaşir məmmədin … əllərinə su tökdü",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 14
+            },
+            {
+                "word": "ÇƏTƏÇİ",
+                "explanation": "is. çətə iştirakçısı",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 15
+            },
+            {
+                "word": "ŞƏFAƏT",
+                "explanation": "is. [ər.] klas. bir günahkarın bağışlanmasıvə ya bir möhtacın ehtiyacınınyerinə yetirilməsi üçün başqası tərəfindənedilən vasitəçilik",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 16
+            },
+            {
+                "word": "TƏFTİŞ",
+                "explanation": "is. [ər.] 1. işlərin düzgünlüyünü vəqanuni olub-olmadığını yoxlamaq məqsədiləhər hansı idarə və ya vəzifəli şəxsin fəaliyyətinintəhqiq edilməsi",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 17
+            },
+            {
+                "word": "TƏFTİŞÇİ",
+                "explanation": "is. ***lik tərəfdarı",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 18
+            },
+            {
+                "word": "ŞƏFAƏTÇİ",
+                "explanation": "is. klas. şəfaət edən",
+                "isPanagram": true,
+                "score": 17,
+                "length": 8,
+                "id": 19
+            }
+        ]
+    }
+}

@@ -1,0 +1,375 @@
+{
+    "gameData": {
+        "day": "20231229",
+        "expiration": "1703894340",
+        "centerLetter": "R",
+        "outerLetters": [
+            "A",
+            "O",
+            "Z",
+            "I",
+            "S",
+            "Q"
+        ],
+        "words_info": {
+            "word_count": 43,
+            "sum_score": 203,
+            "panagram_count": 1,
+            "word_length": {
+                "5": 9,
+                "4": 16,
+                "7": 10,
+                "8": 2,
+                "10": 2,
+                "6": 3,
+                "9": 1
+            }
+        },
+        "words": [
+            {
+                "word": "ARAQ",
+                "explanation": "is. [ər.] 1. meyvədən və s.-dənçəkilən spirtli içki. tut arağı. zoğal arağı.*** çəkmək. – ərəqlə badədir ol iki cövhər;ki",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "ARIQ",
+                "explanation": "sif. cılız",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "ARQO",
+                "explanation": "[fr.] dilç. yalnız bir məhdud və peşəkar qrupun və s.-nin işlətdiyi və başqalarının başa düşmədiyi şərti ifadə və sözlər",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "ASAR",
+                "explanation": "is. [ər. “əsər” söz. cəmi] köhn. 1. əlamət",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "AZAR",
+                "explanation": "is. [fars.] 1. xəstəlik",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 5
+            },
+            {
+                "word": "QARA",
+                "explanation": "is. yer kürəsinin torpaqla örtülühissəsi; torpaq (su qarşılığı). ***da və suda.*** qüvvələri",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 6
+            },
+            {
+                "word": "QARI",
+                "explanation": "is. 1. qoca qadın",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 7
+            },
+            {
+                "word": "QIRA",
+                "explanation": "is. məh. təndirdən çörəyi qoparmaqüçün qarmaqlı alət. // qarmaq. …küçədə***dan tutub dartanda məftilin vasitəsilə zəngiçəridə tərpənir",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 8
+            },
+            {
+                "word": "QORA",
+                "explanation": "is. üzümün dəyməmişi",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 9
+            },
+            {
+                "word": "ORAQ",
+                "explanation": "is. taxıl",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 10
+            },
+            {
+                "word": "RAQA",
+                "explanation": "is. [sanskr.] mus. qədim hind klassikmusiqisi növlərindən biri",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 11
+            },
+            {
+                "word": "RAZI",
+                "explanation": "sif. və zərf [ər.] bir şeydən ***olan; məmnun. yüz cəfa eyləsən",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 12
+            },
+            {
+                "word": "RISA",
+                "explanation": "is. ipə",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 13
+            },
+            {
+                "word": "SARI",
+                "explanation": "1. sif. narıncı rənglə yaşıl arasındaolan (rəng)",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 14
+            },
+            {
+                "word": "SIRA",
+                "explanation": "is. 1. yan-yana və ya ard-arda duranadamlar və ya şeylər düzümü; səf",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 15
+            },
+            {
+                "word": "ZIRI",
+                "explanation": "sif. və is. vulq. 1. çox yekə və yöndəmsiz",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 16
+            },
+            {
+                "word": "AQRAR",
+                "explanation": "sif. [lat.] 1. torpağa aid olan. ***məsələ. *** islahatı.2. kənd təsərrüfatının sənayedən yüksəkolması ilə səciyyələnən",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 17
+            },
+            {
+                "word": "ARSIZ",
+                "explanation": "sif. arı",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 18
+            },
+            {
+                "word": "QIRAQ",
+                "explanation": "is. 1. bir şeyin kənarı",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 19
+            },
+            {
+                "word": "QIRIQ",
+                "explanation": "sif. 1. qırılmış",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 20
+            },
+            {
+                "word": "QISIR",
+                "explanation": "sif. müvəqqəti və ya həmişəlikdoğmayan. *** inək",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 21
+            },
+            {
+                "word": "SARIQ",
+                "explanation": "is. 1. bax çalma3 1-ci mənada.[mərsiyəxan] məğrur bir halda … nəleyninigeydi və iki əli ilə tirmə sarığını düzəltdi…çəmənzəminli",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 22
+            },
+            {
+                "word": "SIRIQ",
+                "explanation": "is. paltara",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 23
+            },
+            {
+                "word": "SORAQ",
+                "explanation": "is. axtarma",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 24
+            },
+            {
+                "word": "ZIRIQ",
+                "explanation": "sif. və is. vulq. 1. çox yekə və yöndəmsiz",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 25
+            },
+            {
+                "word": "QARSAQ",
+                "explanation": "sif. odla",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 26
+            },
+            {
+                "word": "QISRAQ",
+                "explanation": "sif. doğmayan",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 27
+            },
+            {
+                "word": "SARSAQ",
+                "explanation": "sif. səfeh",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 28
+            },
+            {
+                "word": "ASQIRIQ",
+                "explanation": "is. burun sinirlərinin birdənbirəqıcıqlanması nəticəsində qeyri-iradiolaraq öskürməyə bənzər səs çıxarmaqla",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 29
+            },
+            {
+                "word": "AZARSIZ",
+                "explanation": "sif. əziyyətsiz",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 30
+            },
+            {
+                "word": "QARASIZ",
+                "explanation": "sif. qarası olmayan (bax qara3). *** aş",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 31
+            },
+            {
+                "word": "QARQARA",
+                "explanation": "is. xüs. ağır şeyləri qaldırmaqüçün yüksəkdə mil üstündə dolanan vəüzərindən ip sallanan çarx. // ümumiyyətlə",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 32
+            },
+            {
+                "word": "QIRQIRA",
+                "explanation": "is. məh. qır-qır səs çıxaranuşaq oyuncağı",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 33
+            },
+            {
+                "word": "QISARAQ",
+                "explanation": "sif. bir qədər qısa",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 34
+            },
+            {
+                "word": "QIZARAQ",
+                "explanation": "is. bot. quru dağ yamaclarındabitən çoxillik ot bitki",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 35
+            },
+            {
+                "word": "QIZARIQ",
+                "explanation": "is. bədəndə bir yerin qaşınmasından",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 36
+            },
+            {
+                "word": "SIRASIZ",
+                "explanation": "sif. sırada olmayan; qaydasız",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 37
+            },
+            {
+                "word": "SIRSIRA",
+                "explanation": "is. axmaqda olan su damcılarınındonması nəticəsində əmələ gələn buzlülələri. daşın kənarı *** bağlamışdır",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 38
+            },
+            {
+                "word": "QARAAZAR",
+                "explanation": "is. bayt. çox yoluxucu mal***ı",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 39
+            },
+            {
+                "word": "QIRSAQQIZ",
+                "explanation": "is. 1. bax qarasaqqız. 2. məc. dan. adama yapışaraq əl çəkməyən",
+                "isPanagram": false,
+                "score": 9,
+                "length": 9,
+                "id": 40
+            },
+            {
+                "word": "QARASAQQIZ",
+                "explanation": "is. sənayedə",
+                "isPanagram": false,
+                "score": 10,
+                "length": 10,
+                "id": 41
+            },
+            {
+                "word": "QIRIQQIRIQ",
+                "explanation": "sif. və zərf tikə-tikə",
+                "isPanagram": false,
+                "score": 10,
+                "length": 10,
+                "id": 42
+            },
+            {
+                "word": "SORAQSIZ",
+                "explanation": "sif. və zərf xəbərsiz",
+                "isPanagram": true,
+                "score": 17,
+                "length": 8,
+                "id": 43
+            }
+        ]
+    }
+}

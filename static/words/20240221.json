@@ -1,0 +1,205 @@
+{
+    "gameData": {
+        "day": "20240221",
+        "expiration": "1708559940",
+        "centerLetter": "N",
+        "outerLetters": [
+            "D",
+            "Ə",
+            "G",
+            "U",
+            "R",
+            "E"
+        ],
+        "words_info": {
+            "word_count": 22,
+            "sum_score": 103,
+            "panagram_count": 1,
+            "word_length": {
+                "7": 4,
+                "4": 8,
+                "8": 2,
+                "5": 6,
+                "6": 2
+            }
+        },
+        "words": [
+            {
+                "word": "DƏNƏ",
+                "explanation": "is. [fars.] 1. eyni cinsdən olan şeylərin hər biri",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "DƏNG",
+                "explanation": "is. 1. məh. bərabər",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "ƏRƏN",
+                "explanation": "is. (adətən cəm şəklində). 1. ər",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "GƏNƏ",
+                "explanation": "is. zool. xırda caynaqları ilə heyvanların",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "NƏNƏ",
+                "explanation": "is. 1. atanın",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 5
+            },
+            {
+                "word": "NƏRD",
+                "explanation": "is. [ər.] 24 xanası olan iki çərçivəlitaxtadan",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 6
+            },
+            {
+                "word": "NƏRƏ",
+                "explanation": "is. məh. evlərin üstünə qoyulan tir.su gəldi",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 7
+            },
+            {
+                "word": "RƏNG",
+                "explanation": "is. [fars.] 1. bir şeyin işıq tonu.tünd ***. qırmızı ***. – çöllər yuxudanolunca bidar; min *** çiçəklə doldu gülzar",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 8
+            },
+            {
+                "word": "DƏRNƏ",
+                "explanation": "is. məh. 1. yengə. gəlinin ***sikim idi?2. toy başçısı. *** olmaq",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 9
+            },
+            {
+                "word": "DƏRUN",
+                "explanation": "is. [fars.] klas. 1. iç",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 10
+            },
+            {
+                "word": "ƏNƏNƏ",
+                "explanation": "is. [ər.] tarixən meydana gələrəknəsildən-nəslə keçən adətlər",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 11
+            },
+            {
+                "word": "ƏRGƏN",
+                "explanation": "sif. həddi-büluğa çatmış",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 12
+            },
+            {
+                "word": "NƏDƏN",
+                "explanation": "əvəz. nə üçün",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 13
+            },
+            {
+                "word": "RƏNDƏ",
+                "explanation": "is. [fars.] taxtanı yonub hamarlamaqüçün dülgər aləti. [fərmanın] atasındanqalan *** və əl mişarının dəstəsi xurcununağzından görünürdü",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 14
+            },
+            {
+                "word": "GƏRDƏN",
+                "explanation": "is. [fars.] köhn. boyun. boyunsürahidir",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 15
+            },
+            {
+                "word": "GƏRDUN",
+                "explanation": "is. [fars.] klas. 1. göy qübbəsi.2. məc. tale",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 16
+            },
+            {
+                "word": "DƏNDƏNƏ",
+                "explanation": "is. [fars.] 1. təkərin çevrəsinimərkəzə birləşdirən taxta. arabanın bir ***sisınmışdır. – [arabaçı:] …atlar arıq",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 17
+            },
+            {
+                "word": "DƏNGƏNƏ",
+                "explanation": "is. məh. kasaya oxşayan kiçiksaxsı qab. ***də qatıq çalmaq",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 18
+            },
+            {
+                "word": "ƏNDƏRUN",
+                "explanation": "[fars.] 1. sif. köhn. iç",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 19
+            },
+            {
+                "word": "GƏRDƏNƏ",
+                "explanation": "is. uca dağlar arasında olanalçaq gədik; keçid. köç dağın ***sindənaşdı. – maşın dolama yolları fırlandıqcageniş dağarası bir *** görünürdü",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 20
+            },
+            {
+                "word": "DƏNƏDƏNƏ",
+                "explanation": "sif. dənələr halında",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 21
+            },
+            {
+                "word": "GENDƏDUR",
+                "explanation": "is. köhn. parıltılı və şax parçanövü. // həmin parçadan tikilmiş. ***tuman",
+                "isPanagram": true,
+                "score": 17,
+                "length": 8,
+                "id": 22
+            }
+        ]
+    }
+}

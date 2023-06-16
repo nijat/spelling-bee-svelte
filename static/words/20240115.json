@@ -1,0 +1,190 @@
+{
+    "gameData": {
+        "day": "20240115",
+        "expiration": "1705363140",
+        "centerLetter": "U",
+        "outerLetters": [
+            "Ç",
+            "G",
+            "P",
+            "O",
+            "L",
+            "Q"
+        ],
+        "words_info": {
+            "word_count": 20,
+            "sum_score": 118,
+            "panagram_count": 1,
+            "word_length": {
+                "5": 7,
+                "8": 2,
+                "6": 5,
+                "4": 3,
+                "7": 2,
+                "11": 1
+            }
+        },
+        "words": [
+            {
+                "word": "QOÇU",
+                "explanation": "is. köhn. keçmişdə: xalqa əziyyət verən",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "QULP",
+                "explanation": "is. qabların və s. şeylərin əl tutanyeri",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "UÇUQ",
+                "explanation": "is. qızdırmadan və ya başqa səbəbdəndodaqda çıxan qabarcıq(lar). dodağına*** çıxmaq",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "ÇULLU",
+                "explanation": "sif. çulu olan",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 4
+            },
+            {
+                "word": "GOPÇU",
+                "explanation": "sif. bir şeyi həddən artıq şişirdərəkdanışmağa",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 5
+            },
+            {
+                "word": "QOLLU",
+                "explanation": "sif. qolları olan. *** jaket. ***paltar",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 6
+            },
+            {
+                "word": "QOPUQ",
+                "explanation": "1. sif. qopmuş",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 7
+            },
+            {
+                "word": "QUQQU",
+                "explanation": "is. zool. adətən özünə yuva tikməyib",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 8
+            },
+            {
+                "word": "LOPUQ",
+                "explanation": "is. əyləncə üçün köpürülmüş ordlarayavaşca yumruqla",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 9
+            },
+            {
+                "word": "PULLU",
+                "explanation": "sif. 1. varlı",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 10
+            },
+            {
+                "word": "QOÇLUQ",
+                "explanation": "is. dan. igidlik",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 11
+            },
+            {
+                "word": "QUQULU",
+                "explanation": "is. məh. 1. bütöv çıxarılmış qoz içi",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 12
+            },
+            {
+                "word": "QULLUQ",
+                "explanation": "is. 1. xidmət",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 13
+            },
+            {
+                "word": "QULPLU",
+                "explanation": "sif. qulpu",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 14
+            },
+            {
+                "word": "ULULUQ",
+                "explanation": "is. böyüklük",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 15
+            },
+            {
+                "word": "QOÇULUQ",
+                "explanation": "is. köhn. qolçomaqlıq",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 16
+            },
+            {
+                "word": "QUQQULU",
+                "explanation": "is. məh. 1. bütöv çıxarılmış qoz içi",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 17
+            },
+            {
+                "word": "QULLUQÇU",
+                "explanation": "is. 1. zehni əməyin müxtəlifsahələrində muzd ilə işləyən işçi; idarəxidmətçisi. keçmiş vaxtlarda dəftərxanalarda***ların gündə biri idarə bağl",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 18
+            },
+            {
+                "word": "QULLUQÇULUQ",
+                "explanation": "is. maaşla bir idarədəvə ya bir yerdə xidmət etmə",
+                "isPanagram": false,
+                "score": 11,
+                "length": 11,
+                "id": 19
+            },
+            {
+                "word": "GOPÇULUQ",
+                "explanation": "is. dan. mübaliğə ilə danışmaqxasiyyəti",
+                "isPanagram": true,
+                "score": 17,
+                "length": 8,
+                "id": 20
+            }
+        ]
+    }
+}

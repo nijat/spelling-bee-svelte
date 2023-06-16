@@ -1,0 +1,173 @@
+{
+    "gameData": {
+        "day": "20230731",
+        "expiration": "1690847940",
+        "centerLetter": "A",
+        "outerLetters": [
+            "Z",
+            "O",
+            "Y",
+            "N",
+            "U",
+            "B"
+        ],
+        "words_info": {
+            "word_count": 18,
+            "sum_score": 66,
+            "panagram_count": 1,
+            "word_length": {
+                "4": 10,
+                "5": 5,
+                "6": 1,
+                "7": 1,
+                "8": 1
+            }
+        },
+        "words": [
+            {
+                "word": "AYAZ",
+                "explanation": "is. qışda buludsuz",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "AYNA",
+                "explanation": "is. [fars.] 1. güzgü. ***nın çatdığıcalaq qəbul eləməz. (ata. sözü). əgərbilmək istəyirsiniz ki",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "AZAN",
+                "explanation": "is. [ər.] müsəlmanları namazaçağırmaq üçün ***çının səhər",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "AZAY",
+                "explanation": "is. məh. şikayət",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "BABA",
+                "explanation": "is. 1. atanın",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 5
+            },
+            {
+                "word": "BANU",
+                "explanation": "is. [fars.] köhn. xanım. açıldı başın",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 6
+            },
+            {
+                "word": "BAZU",
+                "explanation": "is. [fars.] qolun çiyindən dirsəyəqədər olan hissəsi; qol. ol gümüş biləklər",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 7
+            },
+            {
+                "word": "BOYA",
+                "explanation": "is. 1. bir şeyə müəyyən rəng vermək",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 8
+            },
+            {
+                "word": "OZAN",
+                "explanation": "is. 1. qəd. el şairi",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 9
+            },
+            {
+                "word": "YABA",
+                "explanation": "is. ot",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 10
+            },
+            {
+                "word": "BABAY",
+                "explanation": "is. uşaq dilində: qoca",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 11
+            },
+            {
+                "word": "BAYAZ",
+                "explanation": "is. [ər.] 1. bax bəyaz 1-ci mənada.2. köhn. şeir",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 12
+            },
+            {
+                "word": "NANAY",
+                "explanation": "is. uzaq şərqdə yaşayan xalq;həmin xalqa mənsub olan adam",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 13
+            },
+            {
+                "word": "YABAN",
+                "explanation": "is. [fars.] çöl",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 14
+            },
+            {
+                "word": "YUNAN",
+                "explanation": "is. ***ıstanın əsas əhalisini təşkil edən xalq və bu xalqa mənsub adam. *** dili. qədim *** mədəniyyəti",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 15
+            },
+            {
+                "word": "BOYANA",
+                "explanation": "is. bot. cirə; təbabətdə və kulinariyadaistifadə olunan ətirli bitki",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 16
+            },
+            {
+                "word": "YUNYUYAN",
+                "explanation": "sif. yunu yumağa məxsus.*** maşın",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 17
+            },
+            {
+                "word": "OYUNBAZ",
+                "explanation": "is. 1. gülməli oyunlar çıxarıbbaşqalarını güldürən adam; hoqqabaz",
+                "isPanagram": true,
+                "score": 17,
+                "length": 7,
+                "id": 18
+            }
+        ]
+    }
+}

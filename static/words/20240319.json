@@ -1,0 +1,373 @@
+{
+    "gameData": {
+        "day": "20240319",
+        "expiration": "1710892740",
+        "centerLetter": "C",
+        "outerLetters": [
+            "A",
+            "İ",
+            "L",
+            "B",
+            "N",
+            "Ə"
+        ],
+        "words_info": {
+            "word_count": 43,
+            "sum_score": 200,
+            "panagram_count": 1,
+            "word_length": {
+                "7": 6,
+                "8": 4,
+                "4": 14,
+                "6": 8,
+                "5": 11
+            }
+        },
+        "words": [
+            {
+                "word": "ANAC",
+                "explanation": "sif. 1. dəfələrlə bala doğub",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "BACA",
+                "explanation": "is. 1. tüstü çıxmaq üçün ocağınüstündə kərpicdən hörülən və ya dəmirdənqayrılan içi boş boru. evin ***sı",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "BİCA",
+                "explanation": "sif. və zərf [fars.] 1. yersiz",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "CANİ",
+                "explanation": "is. [ər.] cinayət etmiş",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "CƏLB",
+                "explanation": "[ər.] özünəçəkmə",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 5
+            },
+            {
+                "word": "CƏLƏ",
+                "explanation": "is. at quyruğu qılından ilmək şəklində düzəldilən tələ; duzaq. hər səhər malların altını təmizləyib",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 6
+            },
+            {
+                "word": "CİCİ",
+                "explanation": "is. bəzi yerlərdə nəvazişlə anayadeyilir. …bunlar məgər təzə sözdür? bunu***m də bilir. “mol. nəsr",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 7
+            },
+            {
+                "word": "CİLA",
+                "explanation": "is. [ər.] işığı əks etdirəcək dərəcədəparıltılı olmaq üçün əşyanın üzərinə çəkilənmaddə və bu maddə ilə əşyaya verilənparlaqlıq; ümumiyyətlə",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 8
+            },
+            {
+                "word": "ƏCƏB",
+                "explanation": "sif. [ər.] 1. klas. təəccüblü",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 9
+            },
+            {
+                "word": "ƏCƏL",
+                "explanation": "is. [ər.] hər bir canlının",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 10
+            },
+            {
+                "word": "ƏCİB",
+                "explanation": "[ər.] bax əcaib",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 11
+            },
+            {
+                "word": "ƏLAC",
+                "explanation": "is. [ər.] 1. bir xəstəliyin sağalmasınakömək edən hər bir şey; dərman",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 12
+            },
+            {
+                "word": "ƏLCƏ",
+                "explanation": "sif. kiçik",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 13
+            },
+            {
+                "word": "LİNC",
+                "explanation": "sif. 1. aşp. dəm almayıb bir-birinəyapışan düyü. gülmə gülünc olana; bir aşı*** olana; gülürsən də gülgilən; qulağı dincolana",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 14
+            },
+            {
+                "word": "CALAL",
+                "explanation": "is. [ər.] əzəmət",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 15
+            },
+            {
+                "word": "CANAN",
+                "explanation": "is. [fars.] sevgili",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 16
+            },
+            {
+                "word": "CƏBƏL",
+                "explanation": "is. məh. dağ",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 17
+            },
+            {
+                "word": "CƏNAB",
+                "explanation": "is. [ər.] 1. köhn. görünüşündəncəmiyyətin imtiyazlı təbəqəsinə mənsubşəxsə oxşayan adam. bir *** içəri daxiloldu",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 18
+            },
+            {
+                "word": "CİBLİ",
+                "explanation": "sif. cibi",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 19
+            },
+            {
+                "word": "CİNLİ",
+                "explanation": "sif. dəli",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 20
+            },
+            {
+                "word": "ƏCAİB",
+                "explanation": "sif. [ər.] 1. çox qəribə",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 21
+            },
+            {
+                "word": "ƏCƏBA",
+                "explanation": "əd. [ər.] kit. sual cümlələrindətəəccüb",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 22
+            },
+            {
+                "word": "ƏCƏLƏ",
+                "explanation": "[ər.] 1. is. tələsmə",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 23
+            },
+            {
+                "word": "ƏCİBƏ",
+                "explanation": "[ər.] bax əcaib",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 24
+            },
+            {
+                "word": "NƏCİB",
+                "explanation": "sif. [ər.] 1. nəcabəti",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 25
+            },
+            {
+                "word": "ANACAN",
+                "explanation": "is. anaya nəvazişlə müraciət.[rəsul:] ***",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 26
+            },
+            {
+                "word": "BALACA",
+                "explanation": "sif. 1. həcmcə",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 27
+            },
+            {
+                "word": "BİLİCİ",
+                "explanation": "sif. və is. bilən",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 28
+            },
+            {
+                "word": "CƏNCƏL",
+                "explanation": "1. sif. qarışıq",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 29
+            },
+            {
+                "word": "ƏCİNNƏ",
+                "explanation": "is. [ər.] din. köhn. cin. ***padşahı (nağıllarda). – əhmədi-çekkaş durubgəldi evə. çağırıb ***ləri",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 30
+            },
+            {
+                "word": "ƏCNƏBİ",
+                "explanation": "[ər.] 1. sif. başqa xalqa",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 31
+            },
+            {
+                "word": "LAƏLAC",
+                "explanation": "sif. və zərf [ər.] əlacsız",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 32
+            },
+            {
+                "word": "NABƏCA",
+                "explanation": "sif. və zərf [fars.] köhn. yersiz",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 33
+            },
+            {
+                "word": "ALBANCA",
+                "explanation": "sif. və zərf alban dilində",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 34
+            },
+            {
+                "word": "BABACAN",
+                "explanation": "is. babaya",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 35
+            },
+            {
+                "word": "CANALAN",
+                "explanation": "sif. 1. cəllad",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 36
+            },
+            {
+                "word": "ƏCƏLƏLİ",
+                "explanation": "sif. tələsik",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 37
+            },
+            {
+                "word": "NANƏCİB",
+                "explanation": "sif. və is. [fars. na… və ər. nəcib]haqq-say itirən; nankor",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 38
+            },
+            {
+                "word": "NƏNƏCAN",
+                "explanation": "is. nənəyə",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 39
+            },
+            {
+                "word": "BACABACA",
+                "explanation": "is. köhnə məişətdə: novruzbayramı axşamı qapı-qapı dolaşıb bayramlıqpay almaq adəti; qodu-qodu",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 40
+            },
+            {
+                "word": "CƏNCƏLLİ",
+                "explanation": "sif. davalı",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 41
+            },
+            {
+                "word": "NƏCİBANƏ",
+                "explanation": "sif. [ər. nəcib və fars. …anə]nəciblərə məxsus",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 42
+            },
+            {
+                "word": "ALİCƏNAB",
+                "explanation": "sif. [ər.] 1. başqalarınınxatirinə öz şəxsi mənafeyindən keçən;namuslu",
+                "isPanagram": true,
+                "score": 17,
+                "length": 8,
+                "id": 43
+            }
+        ]
+    }
+}

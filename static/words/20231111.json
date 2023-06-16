@@ -1,0 +1,309 @@
+{
+    "gameData": {
+        "day": "20231111",
+        "expiration": "1699747140",
+        "centerLetter": "A",
+        "outerLetters": [
+            "Z",
+            "İ",
+            "S",
+            "Ə",
+            "L",
+            "V"
+        ],
+        "words_info": {
+            "word_count": 35,
+            "sum_score": 130,
+            "panagram_count": 1,
+            "word_length": {
+                "4": 17,
+                "6": 7,
+                "7": 2,
+                "5": 8,
+                "8": 1
+            }
+        },
+        "words": [
+            {
+                "word": "AİLƏ",
+                "explanation": "is. [ər.] 1. ata-anadan",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "AVAZ",
+                "explanation": "is. [fars.] 1. səs",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "AVİA",
+                "explanation": "[lat.] mürəkkəb sözlərin əvvəlində ***siya mənasını ifadə edir",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "ƏSAS",
+                "explanation": "is. [ər.] 1. bünövrə",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "ƏSLA",
+                "explanation": "zərf [ər.] heç",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 5
+            },
+            {
+                "word": "LALƏ",
+                "explanation": "is. [fars.] 1. bot. iriləçəkli qırmızıçiçəkləri olan bitki və bu bitkinin çiçəyi. bitərçəməndə ***lər",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 6
+            },
+            {
+                "word": "LAVA",
+                "explanation": "[ital.] 1. vulkanın ağzından çıxanərgin odlu kütlə.2. məc. böyük kütlə halında sürətlə hərəkətedən şey haqqında; izdiham",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 7
+            },
+            {
+                "word": "SAİL",
+                "explanation": "is. [ər.] dilənçi",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 8
+            },
+            {
+                "word": "SAVA",
+                "explanation": "sif. öz vaxtında deyil",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 9
+            },
+            {
+                "word": "SƏZA",
+                "explanation": "sif. [fars.] layiq",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 10
+            },
+            {
+                "word": "VAİZ",
+                "explanation": "is. [ər.] din. vəz və nəsihət edən",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 11
+            },
+            {
+                "word": "VALA",
+                "explanation": "sif. [fars.] klas. yüksək",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 12
+            },
+            {
+                "word": "VALİ",
+                "explanation": "is. [ər.] 1. keçmişdə: vilayət hakimi",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 13
+            },
+            {
+                "word": "VALS",
+                "explanation": "[fr.] 1. iki nəfərin birgə oynadığıavropa rəqslərindən birinin adı. *** oynayanoğlan və qızlar bir-iki-üç",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 14
+            },
+            {
+                "word": "VAZA",
+                "explanation": "[fr.] içinə meyvə",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 15
+            },
+            {
+                "word": "VİZA",
+                "explanation": "[lat.] rəs. 1. bir xarici ölkəyə daxilolmaq",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 16
+            },
+            {
+                "word": "ZAİL",
+                "explanation": "sif. [ər.] klas. daimi olmayan",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 17
+            },
+            {
+                "word": "AVAZƏ",
+                "explanation": "is. [fars.] bax avaz. ta əzəldənvar mənim guşimdə eşq ***si. xətayi.nalədəndir ney kimi avazeyi-eşqim bülənd",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 18
+            },
+            {
+                "word": "AVİZƏ",
+                "explanation": "is. [fars.] köhn. çilçıraq",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 19
+            },
+            {
+                "word": "ƏLAVƏ",
+                "explanation": "[ər.] 1. sif. əsas şeyin üstünə artırılan;üstəlik. *** xərc. *** seans. bugün iki *** dərs oxuduq",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 20
+            },
+            {
+                "word": "ƏSASİ",
+                "explanation": "sif. [ər.] köhn. bax əsas 2-ci mənada.*** cəhətlər. – həyat *** birdəyişikliyə uğrayınca ədəbiyyat büsbütünbaşını itirdi",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 21
+            },
+            {
+                "word": "SİZAL",
+                "explanation": "[xüs. is.-dən] tor",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 22
+            },
+            {
+                "word": "VASİL",
+                "explanation": "[ər.] : *** etmək – çatdırmaq",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 23
+            },
+            {
+                "word": "VİLLA",
+                "explanation": "[lat.] şəhər kənarında bağ-bağatiçərisində qəşəng ev; köşk. burada çox gözəl***lar tikilmiş",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 24
+            },
+            {
+                "word": "ZAVAL",
+                "explanation": "is. [ər.] 1. ziyan",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 25
+            },
+            {
+                "word": "AİLƏLİ",
+                "explanation": "sif. ailəsi olan",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 26
+            },
+            {
+                "word": "AİLƏVİ",
+                "explanation": "sif. [ər.] ailəyə mənsub",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 27
+            },
+            {
+                "word": "ƏVVƏLA",
+                "explanation": "ara s. [ər.] birincisi",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 28
+            },
+            {
+                "word": "ƏZAZİL",
+                "explanation": "[ər.] 1. is. şeytan. onu *** dəaldada bilməz. – əhsəni-təqvimi inkar eylərimansız fəqih; şol ***in ki adın həq deyər",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 29
+            },
+            {
+                "word": "LALƏLİ",
+                "explanation": "sif. lalə bitmiş",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 30
+            },
+            {
+                "word": "VASSAL",
+                "explanation": "[fr.] 1. tar. orta əsrlərdə qərbiavropada: özündən daha böyük və güclüolan feodaldan asılı və onun üçün müəyyənmükəlləfiyyətlər görməyə borclu olan",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 31
+            },
+            {
+                "word": "VƏSVAS",
+                "explanation": "is. [ər.] şeytan",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 32
+            },
+            {
+                "word": "AİLƏSİZ",
+                "explanation": "sif. ailəsi",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 33
+            },
+            {
+                "word": "AVİZƏLİ",
+                "explanation": "sif. qəndilli",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 34
+            },
+            {
+                "word": "ƏLAVƏSİZ",
+                "explanation": "sif. əlavəsi olmayan",
+                "isPanagram": true,
+                "score": 17,
+                "length": 8,
+                "id": 35
+            }
+        ]
+    }
+}

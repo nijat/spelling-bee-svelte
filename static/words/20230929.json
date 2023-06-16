@@ -1,0 +1,397 @@
+{
+    "gameData": {
+        "day": "20230929",
+        "expiration": "1696031940",
+        "centerLetter": "Ə",
+        "outerLetters": [
+            "N",
+            "G",
+            "A",
+            "S",
+            "R",
+            "Z"
+        ],
+        "words_info": {
+            "word_count": 46,
+            "sum_score": 160,
+            "panagram_count": 1,
+            "word_length": {
+                "4": 24,
+                "5": 11,
+                "6": 8,
+                "7": 2,
+                "9": 1
+            }
+        },
+        "words": [
+            {
+                "word": "ANƏN",
+                "explanation": "zərf [ər.] birdən",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "AZƏR",
+                "explanation": "is. [fars.] oda xidmət göstərənmələk",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "ƏRƏR",
+                "explanation": "is. [ər.] ardıc ağacı. qəddintəknə ər-ər",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "ƏRƏN",
+                "explanation": "is. (adətən cəm şəklində). 1. ər",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "ƏRRƏ",
+                "explanation": "is. [fars.] ikidəstəli iri mişar",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 5
+            },
+            {
+                "word": "ƏRSƏ",
+                "explanation": "is. [ər.] 1. meydan",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 6
+            },
+            {
+                "word": "ƏSAS",
+                "explanation": "is. [ər.] 1. bünövrə",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 7
+            },
+            {
+                "word": "ƏSƏN",
+                "explanation": "sif. qəd. sağ",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 8
+            },
+            {
+                "word": "ƏSƏR",
+                "explanation": "is. [ər.] 1. iz",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 9
+            },
+            {
+                "word": "ƏSNA",
+                "explanation": "is. [ər.] vaxt",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 10
+            },
+            {
+                "word": "ƏZAN",
+                "explanation": "[ər.] bax azan",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 11
+            },
+            {
+                "word": "GƏNƏ",
+                "explanation": "is. zool. xırda caynaqları ilə heyvanların",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 12
+            },
+            {
+                "word": "NANƏ",
+                "explanation": "[ər.] bot. yeyilən çoxillik ətirligöyərti növü. *** qurutmaq. üç dəstə ***.□ *** cövhəri (arağı) – ***dən çəkilənaraq",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 13
+            },
+            {
+                "word": "NƏNƏ",
+                "explanation": "is. 1. atanın",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 14
+            },
+            {
+                "word": "NƏRƏ",
+                "explanation": "is. məh. evlərin üstünə qoyulan tir.su gəldi",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 15
+            },
+            {
+                "word": "NƏSR",
+                "explanation": "is. [ər.] roman",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 16
+            },
+            {
+                "word": "RƏNA",
+                "explanation": "sif. və is. [ər.] şair. 1. gözəl (qız",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 17
+            },
+            {
+                "word": "RƏNG",
+                "explanation": "is. [fars.] 1. bir şeyin işıq tonu.tünd ***. qırmızı ***. – çöllər yuxudanolunca bidar; min *** çiçəklə doldu gülzar",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 18
+            },
+            {
+                "word": "RƏZƏ",
+                "explanation": "is. dan. cəftə. ***ni bağlamaq. –qəsrin qalın taxta qapısı ***sindən qopubayaq altına düşmüşdü. m",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 19
+            },
+            {
+                "word": "SƏNA",
+                "explanation": "is. [ər.] klas. tərif",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 20
+            },
+            {
+                "word": "SƏNƏ",
+                "explanation": "is. [ər.] il. bir gecəlik mətləbin bir*** mabədi var. m.ə.sabir. millətin beş*** bundan əqdəm; yüz nəfərdən biri tutmazdıqələm",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 21
+            },
+            {
+                "word": "SƏZA",
+                "explanation": "sif. [fars.] layiq",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 22
+            },
+            {
+                "word": "ZƏNG",
+                "explanation": "is. 1. vurulduqda xüsusi səs çıxarmaqüçün içərisində metal dili olan",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 23
+            },
+            {
+                "word": "ZƏNN",
+                "explanation": "is. [ər.] 1. kafi dəlil üzərində əsaslanmayanehtimal",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 24
+            },
+            {
+                "word": "ƏNƏNƏ",
+                "explanation": "is. [ər.] tarixən meydana gələrəknəsildən-nəslə keçən adətlər",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 25
+            },
+            {
+                "word": "ƏNZAR",
+                "explanation": "is. [ər. “nəzər” söz. cəmi] klas.tənt. nəzərlər",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 26
+            },
+            {
+                "word": "ƏRGƏN",
+                "explanation": "sif. həddi-büluğa çatmış",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 27
+            },
+            {
+                "word": "ƏRZƏN",
+                "explanation": "sif. gecikmiş",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 28
+            },
+            {
+                "word": "ƏSGƏR",
+                "explanation": "is. [ər.] 1. sıravi hərbi qulluqçu;soldat. milli ordunun ***i. bir bölük ***.*** və matroslar",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 29
+            },
+            {
+                "word": "ƏSRAR",
+                "explanation": "is. [ər. “sirr” söz. cəmi] sirlər.mən belə ***ı qana bilmərəm; qanmazolub da dayana bilmərəm. m.ə",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 30
+            },
+            {
+                "word": "GƏZƏN",
+                "explanation": "is. köhn. gön kəsmək üçün keçmişdəbaşmaqçıların işlətdikləri iti alət",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 31
+            },
+            {
+                "word": "NƏZƏR",
+                "explanation": "is. [ər.] 1. baxma",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 32
+            },
+            {
+                "word": "ZƏNƏN",
+                "explanation": "is. [fars.] 1. qadın",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 33
+            },
+            {
+                "word": "ZƏRƏR",
+                "explanation": "is. [ər.] ziyan. bunun xeyri var ki",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 34
+            },
+            {
+                "word": "ZƏRRƏ",
+                "explanation": "is. [ər.] bir şeyin ən kiçik hissəsi. [qəhrəman:] kənarda şiddətlə əsən qış ruzgarı birqat pəncərələri yumruqlayır",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 35
+            },
+            {
+                "word": "ƏRƏZƏN",
+                "explanation": "sif. dan. gecyetişən",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 36
+            },
+            {
+                "word": "ƏSASƏN",
+                "explanation": "[ər.] 1. zərf əsli",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 37
+            },
+            {
+                "word": "NASƏZA",
+                "explanation": "sif. [fars.] klas. ədəbsiz",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 38
+            },
+            {
+                "word": "SƏNGƏR",
+                "explanation": "is. güllədən",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 39
+            },
+            {
+                "word": "SƏRSƏR",
+                "explanation": "is. [ər.] güclü və soyuq külək",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 40
+            },
+            {
+                "word": "ZƏNƏNƏ",
+                "explanation": "sif. [fars.] qadınlara məxsus",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 41
+            },
+            {
+                "word": "ZƏRGƏR",
+                "explanation": "sif. [fars.] qızıldan",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 42
+            },
+            {
+                "word": "ZƏRZƏR",
+                "explanation": "is. [fars.] zərlə toxunmuş parça",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 43
+            },
+            {
+                "word": "NƏZƏRƏN",
+                "explanation": "qoş. [ər.] klas. görə",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 44
+            },
+            {
+                "word": "RƏNGARƏNG",
+                "explanation": "sif. [fars.] 1. müxtəlif rənglərdə olan; müxtəlifrəngli",
+                "isPanagram": false,
+                "score": 9,
+                "length": 9,
+                "id": 45
+            },
+            {
+                "word": "RƏNGSAZ",
+                "explanation": "is. [fars.] divara",
+                "isPanagram": true,
+                "score": 17,
+                "length": 7,
+                "id": 46
+            }
+        ]
+    }
+}

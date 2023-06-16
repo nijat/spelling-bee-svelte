@@ -1,0 +1,528 @@
+{
+    "gameData": {
+        "day": "20231224",
+        "expiration": "1703462340",
+        "centerLetter": "D",
+        "outerLetters": [
+            "A",
+            "M",
+            "R",
+            "L",
+            "Q",
+            "U"
+        ],
+        "words_info": {
+            "word_count": 62,
+            "sum_score": 388,
+            "panagram_count": 4,
+            "word_length": {
+                "4": 10,
+                "6": 12,
+                "12": 1,
+                "5": 18,
+                "8": 5,
+                "7": 7,
+                "10": 4,
+                "9": 5
+            }
+        },
+        "words": [
+            {
+                "word": "ADAQ",
+                "explanation": "is. məh. uşağın ilk addımı",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "ADAM",
+                "explanation": "is. [ər.] 1. heyvandan fərqli olaraqdanışmaq və düşünmək",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "DAMA",
+                "explanation": "is. 1. şahmat taxtası üzərində qara vəağ daşlarla (dairəciklərlə) oynanılan oyun; şaşka.*** oynamaq",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "DUDA",
+                "explanation": "is. [fars.] neft",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "DURU",
+                "explanation": "sif. 1. maye halında olan",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 5
+            },
+            {
+                "word": "QADA",
+                "explanation": "is. 1. bəla",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 6
+            },
+            {
+                "word": "QUDA",
+                "explanation": "is. gəlin ilə oğlanın ata-analarınınbir-birinə olan qohumluq münasibəti. iki*** ötə-bəridən məhəbbətlə danışdılar",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 7
+            },
+            {
+                "word": "QURD",
+                "explanation": "is. canavar. düşdü qəzadan ora***un yolu; baxdı ki",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 8
+            },
+            {
+                "word": "UDMA",
+                "explanation": "“***q1”dan f.is. *** prosesi.*** zamanı boğazda ağrı hiss etmək",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 9
+            },
+            {
+                "word": "UDUM",
+                "explanation": "is. udarkən udlaq əzələlərinin birdəfəlik hərəkəti",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 10
+            },
+            {
+                "word": "ARMUD",
+                "explanation": "is. alt tərəfi yumru",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 11
+            },
+            {
+                "word": "DAQQA",
+                "explanation": "is. məh. 1. dəridən tikilmiş hündürpapaq. şiraslan … *** divan papağınıbaşına qoydu",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 12
+            },
+            {
+                "word": "DALAQ",
+                "explanation": "is. anat. qarın boşluğunun soltərəfində olub qan kürəcikləri hazırlayan vəbu proseslə bağlı başqa mürəkkəb vəzifələrgörən bədən üzvü",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 13
+            },
+            {
+                "word": "DALDA",
+                "explanation": "1. sif. sığınmağa və ya gizlənməyəyarayan. *** yer. *** divar.– kosa boşalmış küçənin *** yeri ilə yeriyibat tövlələrinin yanına çatdı",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 14
+            },
+            {
+                "word": "DAMAD",
+                "explanation": "is. [fars.] qızın əri",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 15
+            },
+            {
+                "word": "DAMAQ",
+                "explanation": "is. [ər. dimaq – beyin] dan. kef",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 16
+            },
+            {
+                "word": "DAMAR",
+                "explanation": "is. 1. canlıların bədənində: içərisində qan və ya limfanın dövr etdiyi boruşəkilli orqan. qan ***ları",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 17
+            },
+            {
+                "word": "DARAQ",
+                "explanation": "is. 1. saçı darayıb düzəltmək üçün dişli alət. narındişli ***. başını ***la daramaq. – siyah zülfü *** ilə dara",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 18
+            },
+            {
+                "word": "DARAM",
+                "explanation": "sif. tarım; çox dar. dağbaşevdanışa-danışa *** şinelinin dəmir düymələriilə əlləşməkdə davam edirdi",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 19
+            },
+            {
+                "word": "DURAQ",
+                "explanation": "is. duracaq",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 20
+            },
+            {
+                "word": "DURUM",
+                "explanation": "is. 1. davam",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 21
+            },
+            {
+                "word": "QADAQ",
+                "explanation": "is. bıçaq",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 22
+            },
+            {
+                "word": "MADAM",
+                "explanation": "[fr.] fransada",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 23
+            },
+            {
+                "word": "MADAR",
+                "explanation": "sif. [ər.] ən istəkli",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 24
+            },
+            {
+                "word": "MULDA",
+                "explanation": "is. [alm.] 1. tökmə maşında çuqunalmaq üçün metal qəlib.2. xammal üçün metal qutu",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 25
+            },
+            {
+                "word": "MURAD",
+                "explanation": "is. [ər.] arzu",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 26
+            },
+            {
+                "word": "RADAR",
+                "explanation": "[ing.] bax radiolokator. radiolokasiyadaişlədilən qurğulara radiolokatordeyilir. bəzi yerlərdə bunları müxtəsər olaraq*** adlandırırlar",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 27
+            },
+            {
+                "word": "UDLAQ",
+                "explanation": "is. anat. həzm cihazının bir hissəsi– ağız boşluğunu qida borusu ilə birləşdirənəzələ borusu. çeynənmiş və ağız suyuilə islanmış qida *** və qida",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 28
+            },
+            {
+                "word": "ADDAMA",
+                "explanation": "1. “***q”dan f.is. 2. is. məh. çaydan",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 29
+            },
+            {
+                "word": "ARMUDU",
+                "explanation": "sif. armuda oxşar",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 30
+            },
+            {
+                "word": "DAMDAM",
+                "explanation": "is. məh. doşab bişirmək üçünsıxılıb damcı-damcı yığılan üzüm suyu. bulanıqdərman … nərimana dam-dam suyunuxatırlatdı",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 31
+            },
+            {
+                "word": "DULLUQ",
+                "explanation": "is. dul olma",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 32
+            },
+            {
+                "word": "DUMRUQ",
+                "explanation": "is. məh. 1. bax tumurcuq.2. açılmayıb düymə halında olan qönçə",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 33
+            },
+            {
+                "word": "QUQURD",
+                "explanation": "is. məh. açılmamış qızılgül;qönçə",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 34
+            },
+            {
+                "word": "QULDAR",
+                "explanation": "is. tar. ***lıq cəmiyyətində:qullara sahib olan adam",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 35
+            },
+            {
+                "word": "QULDUR",
+                "explanation": "is. 1. ***luqla məşğul olanadam; çapqınçı",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 36
+            },
+            {
+                "word": "QURDLU",
+                "explanation": "sif. 1. qurd düşmüş",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 37
+            },
+            {
+                "word": "MALDAR",
+                "explanation": "is. [ər. mal və fars. …dar] evheyvanları saxlamaqla məşğul olan kəndlivə ya kənd təsərrüfatı. // sif",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 38
+            },
+            {
+                "word": "MURDAR",
+                "explanation": "sif. [fars.] 1. müsəlman dini etiqadıncatəmiz sayılmayan; napak (pak əksi).*** su. – [pişik itə:] bil nə səbəbdən belə***san; istəməzsən xeyr",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 39
+            },
+            {
+                "word": "UDULMA",
+                "explanation": "“***q2”dan f.is. ***sındanasılı olaraq həblər bir neçə vəzndəburaxılır. r.əliyev",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 40
+            },
+            {
+                "word": "DADAMAL",
+                "explanation": "sif. dan. bir şeyə (adətən arzuedilməyən şeyə) dadanmış",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 41
+            },
+            {
+                "word": "DUALAMA",
+                "explanation": "“***q”dan f.is.; dua oxumamərasimi",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 42
+            },
+            {
+                "word": "DUMDUMA",
+                "explanation": "is. məh. fırfıra",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 43
+            },
+            {
+                "word": "DUMDURU",
+                "explanation": "sif. 1. lap duru",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 44
+            },
+            {
+                "word": "DURULUQ",
+                "explanation": "is. 1. duru şeyin halı; saflıq",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 45
+            },
+            {
+                "word": "DURUMLU",
+                "explanation": "sif. durumu olan",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 46
+            },
+            {
+                "word": "QURDLUQ",
+                "explanation": "is. canavarlıq",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 47
+            },
+            {
+                "word": "DADDAMAQ",
+                "explanation": "is. ləzzət",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 48
+            },
+            {
+                "word": "DAMADAMA",
+                "explanation": "1. sif. üzərində damalar",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 49
+            },
+            {
+                "word": "QARAQURD",
+                "explanation": "is. zool. qabıqlı böcək cinsindənolub",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 50
+            },
+            {
+                "word": "MALMADAR",
+                "explanation": "is. dan. var",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 51
+            },
+            {
+                "word": "QAMQALDAQ",
+                "explanation": "is. dan. nizamsız bir haldaboşaldılıb",
+                "isPanagram": false,
+                "score": 9,
+                "length": 9,
+                "id": 52
+            },
+            {
+                "word": "QULDURLUQ",
+                "explanation": "is. soyğunçuluq",
+                "isPanagram": false,
+                "score": 9,
+                "length": 9,
+                "id": 53
+            },
+            {
+                "word": "QURDLULUQ",
+                "explanation": "is. qurd düşmüş şeyin halı",
+                "isPanagram": false,
+                "score": 9,
+                "length": 9,
+                "id": 54
+            },
+            {
+                "word": "DAMARDAMAR",
+                "explanation": "sif. damarlar",
+                "isPanagram": false,
+                "score": 10,
+                "length": 10,
+                "id": 55
+            },
+            {
+                "word": "DUMDURULUQ",
+                "explanation": "is. dumduru şeyin hal vəkeyfiyyəti",
+                "isPanagram": false,
+                "score": 10,
+                "length": 10,
+                "id": 56
+            },
+            {
+                "word": "DURUMLULUQ",
+                "explanation": "is. durumlu şeyin halı.yeməyin durumluluğu",
+                "isPanagram": false,
+                "score": 10,
+                "length": 10,
+                "id": 57
+            },
+            {
+                "word": "QURDUQURDU",
+                "explanation": "is. dan. həyəcan",
+                "isPanagram": false,
+                "score": 10,
+                "length": 10,
+                "id": 58
+            },
+            {
+                "word": "ALMAARMUDLUQ",
+                "explanation": "is. alma və armudbağı",
+                "isPanagram": true,
+                "score": 17,
+                "length": 12,
+                "id": 59
+            },
+            {
+                "word": "ARMUDLUQ",
+                "explanation": "is. armud bağı",
+                "isPanagram": true,
+                "score": 17,
+                "length": 8,
+                "id": 60
+            },
+            {
+                "word": "QURUDULMA",
+                "explanation": "“***q”dan f.is.yabanı dərman bitkilərinin toplanması və***sı",
+                "isPanagram": true,
+                "score": 17,
+                "length": 9,
+                "id": 61
+            },
+            {
+                "word": "QURULDAMA",
+                "explanation": "is. 1. “***q”dan f.is.2. qurbağaların çıxardığı səs. qurbağaların***sından qulaqlarımız dəngoldu",
+                "isPanagram": true,
+                "score": 17,
+                "length": 9,
+                "id": 62
+            }
+        ]
+    }
+}

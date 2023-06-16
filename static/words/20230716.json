@@ -1,0 +1,189 @@
+{
+    "gameData": {
+        "day": "20230716",
+        "expiration": "1689551940",
+        "centerLetter": "A",
+        "outerLetters": [
+            "I",
+            "S",
+            "Ç",
+            "V",
+            "Q",
+            "U"
+        ],
+        "words_info": {
+            "word_count": 20,
+            "sum_score": 101,
+            "panagram_count": 1,
+            "word_length": {
+                "4": 6,
+                "9": 1,
+                "5": 7,
+                "6": 1,
+                "7": 5
+            }
+        },
+        "words": [
+            {
+                "word": "AÇIQ",
+                "explanation": "sif. 1. qapalı olmayan",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "ASQI",
+                "explanation": "is. paltar və ya başqa şeylər asmağaməxsus alət. bu paltarlı skeletin iti çiyinsümükləri *** kimi ağ abanı saxlayır",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "QIÇA",
+                "explanation": "is. bir şeyin bölündüyü",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "QISA",
+                "explanation": "sif. 1. boyca gödək",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "SAQA",
+                "explanation": "is. ədəb. nəsrlə yazılmış qədim islandəsərləri",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 5
+            },
+            {
+                "word": "SAVA",
+                "explanation": "sif. öz vaxtında deyil",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 6
+            },
+            {
+                "word": "AQAVA",
+                "explanation": "is. [yun.] bot. qısa gövdəli bitki cinsi",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 7
+            },
+            {
+                "word": "QAÇAQ",
+                "explanation": "is. 1. çarlıq dövründə: hökumətinzülm və ədalətsizliyinə dözməyərək",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 8
+            },
+            {
+                "word": "QASIQ",
+                "explanation": "is. anat. qarnın iki bud arasındaolan alt tərəfi",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 9
+            },
+            {
+                "word": "SAÇAQ",
+                "explanation": "is. 1. bir şeyin (adətən pərdənin",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 10
+            },
+            {
+                "word": "SAQQA",
+                "explanation": "is. [ər.] köhn. keçmişdə dalında",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 11
+            },
+            {
+                "word": "SISQA",
+                "explanation": "sif. cılız",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 12
+            },
+            {
+                "word": "SUVAQ",
+                "explanation": "is. binaların divarlarına",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 13
+            },
+            {
+                "word": "ÇAQÇAQ",
+                "explanation": "is. keçmişdə: evlərin həyətqapısında qapını döymək üçün dəmir toxmaqcıq.çaq-çaqla qapını döymək. – qapınınbaşında şir şəkli",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 14
+            },
+            {
+                "word": "QAÇAQAÇ",
+                "explanation": "sif. bir təhlükə üzündən",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 15
+            },
+            {
+                "word": "QAÇAQÇI",
+                "explanation": "is. köhn. qaçaq mal gətirməkləməşğul olan adam. [hacı qara:] hamısınatövbələtmə verrəm ki",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 16
+            },
+            {
+                "word": "QISAQIÇ",
+                "explanation": "sif. qıçları çox qısa olan. ***lı kişi",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 17
+            },
+            {
+                "word": "VASVASI",
+                "explanation": "sif. 1. hər şeydən çəkinən",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 18
+            },
+            {
+                "word": "AÇIQSAÇIQ",
+                "explanation": "sif. və zərf 1. pərişan",
+                "isPanagram": false,
+                "score": 9,
+                "length": 9,
+                "id": 19
+            },
+            {
+                "word": "SUVAQÇI",
+                "explanation": "is. suvaq çəkən fəhlə",
+                "isPanagram": true,
+                "score": 17,
+                "length": 7,
+                "id": 20
+            }
+        ]
+    }
+}

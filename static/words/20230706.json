@@ -1,0 +1,502 @@
+{
+    "gameData": {
+        "day": "20230706",
+        "expiration": "1688687940",
+        "centerLetter": "İ",
+        "outerLetters": [
+            "H",
+            "R",
+            "Z",
+            "S",
+            "Ə",
+            "K"
+        ],
+        "words_info": {
+            "word_count": 59,
+            "sum_score": 257,
+            "panagram_count": 1,
+            "word_length": {
+                "4": 21,
+                "5": 22,
+                "7": 5,
+                "9": 1,
+                "6": 3,
+                "8": 7
+            }
+        },
+        "words": [
+            {
+                "word": "ƏKİZ",
+                "explanation": "1. sif. anadan cüt olan",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "ƏRİK",
+                "explanation": "is. 1. sarı",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "ƏSİR",
+                "explanation": "is. [ər.] 1. müharibədə ələ keçirilən düşmən əsgəri",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "ƏSKİ",
+                "explanation": "sif. 1. keçmiş",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "ƏSRİ",
+                "explanation": "sif. müasir",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 5
+            },
+            {
+                "word": "ƏZİK",
+                "explanation": "sif. 1. əzilmiş. *** meyvə. ***pomidor.2. ütüsü",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 6
+            },
+            {
+                "word": "ƏZİZ",
+                "explanation": "sif. [ər.] 1. sevimli",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 7
+            },
+            {
+                "word": "HİRS",
+                "explanation": "is. [ər.] qəzəb",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 8
+            },
+            {
+                "word": "HİSS",
+                "explanation": "is. [ər.] 1. bax duyğu. [rüstəmbəy sofya xanıma:] *** təbiət zəkasınıntəzahürüdür",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 9
+            },
+            {
+                "word": "KİRƏ",
+                "explanation": "is. [fars.] 1. bir şeyin müəyyən haqq müqabilində müvəqqəti olaraq sahibi tərəfindən başqasına istifadəyə verilməsi; kirayə",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 10
+            },
+            {
+                "word": "KİRS",
+                "explanation": "is. parçada",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 11
+            },
+            {
+                "word": "KİSƏ",
+                "explanation": "is. [fars.] 1. un",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 12
+            },
+            {
+                "word": "RƏİS",
+                "explanation": "is. [ər.] idarə edən",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 13
+            },
+            {
+                "word": "RİSK",
+                "explanation": "[fr.] təhlükə imkanı",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 14
+            },
+            {
+                "word": "RİZƏ",
+                "explanation": "is. [fars.] tikə",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 15
+            },
+            {
+                "word": "SƏKİ",
+                "explanation": "is. 1. piyadaların gediş-gəlişi üçünküçənin hər iki tərəfində asfalt",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 16
+            },
+            {
+                "word": "SİRK",
+                "explanation": "[lat. circus – dairə] 1. akrobatlıq",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 17
+            },
+            {
+                "word": "SİRR",
+                "explanation": "is. [ər.] 1. başqalarından gizli saxlanılan",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 18
+            },
+            {
+                "word": "ZƏKİ",
+                "explanation": "[ər.] bax zəkalı. [şeyx kəbir:]lakin ən son yerin",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 19
+            },
+            {
+                "word": "ZİKR",
+                "explanation": "[ər.] köhn. 1. anma",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 20
+            },
+            {
+                "word": "ZİRƏ",
+                "explanation": "is. bot. çətirçiçəklilər fəsiləsindəniki və ya çoxillik ot cinsi və həmin bitkininədviyyat kimi xəmirə və s",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 21
+            },
+            {
+                "word": "ƏRİZƏ",
+                "explanation": "is. [ər.] rəs. bir arzu və ya xahişifadə edən məktub",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 22
+            },
+            {
+                "word": "ƏRSİZ",
+                "explanation": "sif. əri olmayan",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 23
+            },
+            {
+                "word": "ƏSKİK",
+                "explanation": "sif. 1. bütün olmayan",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 24
+            },
+            {
+                "word": "ƏSRİK",
+                "explanation": "sif. 1. kökəlib yekəlmiş.2. qızmış",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 25
+            },
+            {
+                "word": "HƏRİS",
+                "explanation": "sif. və zərf [ər.] bir şeyə həddindənartıq can atan",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 26
+            },
+            {
+                "word": "HƏSİR",
+                "explanation": "is. [ər.] bəzi ağacların liflərindən",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 27
+            },
+            {
+                "word": "HİKKƏ",
+                "explanation": "is. 1. təşəxxüs",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 28
+            },
+            {
+                "word": "HİSSƏ",
+                "explanation": "is. [ər.] 1. tamın bölündüyü parçalardanhər biri; qisim. binanın bir ***si.çayın aşağı ***si. – şirvan şimaliazərbaycanın bir ***sidir",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 29
+            },
+            {
+                "word": "HİSSİ",
+                "explanation": "sif. [ər.] hiss orqanları",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 30
+            },
+            {
+                "word": "KƏRKİ",
+                "explanation": "is. aşağı çevrilmiş enli tiyəsi olanuzunsaplı",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 31
+            },
+            {
+                "word": "KƏSİK",
+                "explanation": "1. sif. kəsilmiş halda olan",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 32
+            },
+            {
+                "word": "KƏSİR",
+                "explanation": "is. [ər.] 1. nöqsan",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 33
+            },
+            {
+                "word": "KƏSKİ",
+                "explanation": "is. tex. kəsici ağzı olan",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 34
+            },
+            {
+                "word": "KƏSRİ",
+                "explanation": "[ər.] bax kəsrli",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 35
+            },
+            {
+                "word": "KİRKİ",
+                "explanation": "1 is. xüs. xalça toxunarkən ilməklərini sıxlaşdırmaq üçün işlədilən alət; daraq",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 36
+            },
+            {
+                "word": "SƏHİH",
+                "explanation": "sif. [ər.] düzgün",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 37
+            },
+            {
+                "word": "SƏRİH",
+                "explanation": "sif. [ər.] 1. açıqdan-açığa",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 38
+            },
+            {
+                "word": "SƏRKİ",
+                "explanation": "is. tənə",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 39
+            },
+            {
+                "word": "SİKKƏ",
+                "explanation": "is. [ər.] 1. metal pul üzərinə vurulandamğa",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 40
+            },
+            {
+                "word": "SİRKƏ",
+                "explanation": "is. qıcqırdılmış üzümdən hazırlanantünd turş şirə. *** turşusu. xörəyə*** tökmək. tünd ***. – *** tünd olar",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 41
+            },
+            {
+                "word": "ZƏHİR",
+                "explanation": "is. [ər.] köhn. yardımçı",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 42
+            },
+            {
+                "word": "ZİRƏK",
+                "explanation": "sif. [fars.] bacarıqlı",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 43
+            },
+            {
+                "word": "HİSSİZ",
+                "explanation": "sif. 1. hissetmə qabiliyyətindənməhrum",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 44
+            },
+            {
+                "word": "KƏHRİZ",
+                "explanation": "is. [fars.] yeraltı su yolu",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 45
+            },
+            {
+                "word": "SƏSSİZ",
+                "explanation": "sif. və zərf 1. səs çıxarmayan",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 46
+            },
+            {
+                "word": "ƏSƏRSİZ",
+                "explanation": "sif. 1. təsirsiz",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 47
+            },
+            {
+                "word": "KİRKİRƏ",
+                "explanation": "is. əldəyirmanı. □ ***kimi – dəyirman kimi. şahpərinin çənəsi*** kimi üyüdür",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 48
+            },
+            {
+                "word": "SƏHƏRKİ",
+                "explanation": "sif. səhər vaxtı olmuş",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 49
+            },
+            {
+                "word": "SƏKSƏKİ",
+                "explanation": "is. həyəcan",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 50
+            },
+            {
+                "word": "SƏRSƏRİ",
+                "explanation": "sif. [fars.] 1. işi-gücü və müəyyənyeri olmayıb orada-burada dolaşan",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 51
+            },
+            {
+                "word": "KƏSƏRSİZ",
+                "explanation": "sif. 1. kəsəri olmayan",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 52
+            },
+            {
+                "word": "KƏSİRSİZ",
+                "explanation": "sif. kəsri olmayan; nöqsansız",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 53
+            },
+            {
+                "word": "KİSƏKİSƏ",
+                "explanation": "is. bir neçə kisə",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 54
+            },
+            {
+                "word": "RİZƏRİZƏ",
+                "explanation": "sif. və zərf parça-parça",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 55
+            },
+            {
+                "word": "SİKKƏSİZ",
+                "explanation": "sif. sikkəsi olmayan. [şeyxsalah:] …mən gözümlə gördüm ki",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 56
+            },
+            {
+                "word": "ZƏHƏRSİZ",
+                "explanation": "sif. zəhəri olmayan",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 57
+            },
+            {
+                "word": "ZƏRƏRSİZ",
+                "explanation": "sif. zərəri toxunmayan",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 58
+            },
+            {
+                "word": "HƏRƏKƏSİZ",
+                "explanation": "sif. dilç. hərəkəsi olmayan",
+                "isPanagram": true,
+                "score": 17,
+                "length": 9,
+                "id": 59
+            }
+        ]
+    }
+}

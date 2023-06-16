@@ -1,0 +1,188 @@
+{
+    "gameData": {
+        "day": "20231017",
+        "expiration": "1697587140",
+        "centerLetter": "Q",
+        "outerLetters": [
+            "İ",
+            "X",
+            "Ş",
+            "O",
+            "A",
+            "L"
+        ],
+        "words_info": {
+            "word_count": 20,
+            "sum_score": 73,
+            "panagram_count": 1,
+            "word_length": {
+                "4": 10,
+                "5": 8,
+                "7": 1,
+                "6": 1
+            }
+        },
+        "words": [
+            {
+                "word": "AQİL",
+                "explanation": "sif. [ər.] ağıllı",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "ALAQ",
+                "explanation": "is. tarlada",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "AŞİQ",
+                "explanation": "is. [ər.] birisinə məhəbbət bağlamış",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "XALQ",
+                "explanation": "is. 1. ölkənin",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "QAİL",
+                "explanation": "[ər.] köhn. inanan",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 5
+            },
+            {
+                "word": "QALA",
+                "explanation": "is. [ər.] 1. uzun müddət içində qapanıbdüşmənə müqavimət göstərmək üçünmöhkəm müdafiə tikililəri və vasitələri olanistehkam (məntəqə)",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 6
+            },
+            {
+                "word": "QİŞA",
+                "explanation": "is. [ər.] anat. canlı orqanizmin hərhansı bir hissəsinin üstünü örtən bəzi toxumalarınadı; örtü",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 7
+            },
+            {
+                "word": "QOŞA",
+                "explanation": "1. sif. cüt",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 8
+            },
+            {
+                "word": "LİQA",
+                "explanation": "is. [ər.] klas. üz",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 9
+            },
+            {
+                "word": "ŞAİQ",
+                "explanation": "[ər.] klas. bir şeyə böyük şövqü",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 10
+            },
+            {
+                "word": "AŞQAL",
+                "explanation": "sif. məh. arıq",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 11
+            },
+            {
+                "word": "XALİQ",
+                "explanation": "is. [ər.] xəlq edən",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 12
+            },
+            {
+                "word": "QALAQ",
+                "explanation": "is. bir yerə qalanmış",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 13
+            },
+            {
+                "word": "QALOŞ",
+                "explanation": "[rus.] is. ayağı rütubət və palçıqdanqorumaq üçün adətən çəkmə",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 14
+            },
+            {
+                "word": "QAŞQA",
+                "explanation": "is. 1. ümumiyyətlə",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 15
+            },
+            {
+                "word": "ŞAQQA",
+                "explanation": "is. ikiyə parçalanmış cəmdək.[fərhad:] bir qoyunun da ***sını yeməkolarmı? ə.haqverdiyev. tahirzadənin ilk işio oldu ki",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 16
+            },
+            {
+                "word": "ŞALAQ",
+                "explanation": "is. məh. 1. iri",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 17
+            },
+            {
+                "word": "ŞOŞAQ",
+                "explanation": "is. məh. selik",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 18
+            },
+            {
+                "word": "QAŞQAL",
+                "explanation": "is. məh. xır bağlanan zaman",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 19
+            },
+            {
+                "word": "XOŞLİQA",
+                "explanation": "sif. [fars. xoş və ər. liqa] klas.bax xoşsurət(li). [lətif şah:] pəridən***",
+                "isPanagram": true,
+                "score": 17,
+                "length": 7,
+                "id": 20
+            }
+        ]
+    }
+}

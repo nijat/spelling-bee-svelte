@@ -1,0 +1,197 @@
+{
+    "gameData": {
+        "day": "20230606",
+        "expiration": "1686095940",
+        "centerLetter": "I",
+        "outerLetters": [
+            "A",
+            "U",
+            "S",
+            "T",
+            "Q",
+            "Z"
+        ],
+        "words_info": {
+            "word_count": 21,
+            "sum_score": 89,
+            "panagram_count": 1,
+            "word_length": {
+                "4": 8,
+                "6": 2,
+                "5": 9,
+                "7": 1,
+                "9": 1
+            }
+        },
+        "words": [
+            {
+                "word": "ASQI",
+                "explanation": "is. paltar və ya başqa şeylər asmağaməxsus alət. bu paltarlı skeletin iti çiyinsümükləri *** kimi ağ abanı saxlayır",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "ATQI",
+                "explanation": "is. 1. bir şeyin üzərindən atılan tir və s. 2. toxuculuqda: ərişin üstünə gələn və məkiklə atılan arğac ipi",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "AZIQ",
+                "explanation": "is. qəd. azuqə. yedi günlük azuğla çıqayın. “dədə qorqud”",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "QATI",
+                "explanation": "sif. 1. sıyıq",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "QAZI",
+                "explanation": "is. [ər. qazi] müsəlmanlarda diniməhkəmə işlərinə baxan ruhani",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 5
+            },
+            {
+                "word": "QISA",
+                "explanation": "sif. 1. boyca gödək",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 6
+            },
+            {
+                "word": "SIZI",
+                "explanation": "is. bax ***ltı. bütün vücudumda birqırıqlıq",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 7
+            },
+            {
+                "word": "TAZI",
+                "explanation": "is. bərkqaçan",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 8
+            },
+            {
+                "word": "QASIQ",
+                "explanation": "is. anat. qarnın iki bud arasındaolan alt tərəfi",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 9
+            },
+            {
+                "word": "QATIQ",
+                "explanation": "is. 1. südü bişirib",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 10
+            },
+            {
+                "word": "QATQI",
+                "explanation": "is. bir şeyə qatılan başqa maddə;aşqar",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 11
+            },
+            {
+                "word": "QAZIQ",
+                "explanation": "sif. qazılmış",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 12
+            },
+            {
+                "word": "QISIQ",
+                "explanation": "sif. 1. qısılmış",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 13
+            },
+            {
+                "word": "QISQI",
+                "explanation": "is. 1. tələsdirmə",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 14
+            },
+            {
+                "word": "SISQA",
+                "explanation": "sif. cılız",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 15
+            },
+            {
+                "word": "SIZQA",
+                "explanation": "sif. suyu az-az",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 16
+            },
+            {
+                "word": "ZIQQI",
+                "explanation": "sif. və is. 1. çox xəsis",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 17
+            },
+            {
+                "word": "ATASIZ",
+                "explanation": "sif. atası olmayan",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 18
+            },
+            {
+                "word": "SAQQIZ",
+                "explanation": "is. ***ağacından sızıb çıxan",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 19
+            },
+            {
+                "word": "QATQATI",
+                "explanation": "is. bayt. gövşəyən heyvanlarınqarnı ilə qursağı arasındakı həzm üzvü",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 20
+            },
+            {
+                "word": "TAUSAQQIZ",
+                "explanation": "is. bot. dağlarda bitən çoxillikkauçuklu ot-bitki. tau-saqqız … çoxillik",
+                "isPanagram": true,
+                "score": 17,
+                "length": 9,
+                "id": 21
+            }
+        ]
+    }
+}

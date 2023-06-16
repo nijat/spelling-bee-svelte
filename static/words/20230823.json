@@ -1,0 +1,196 @@
+{
+    "gameData": {
+        "day": "20230823",
+        "expiration": "1692835140",
+        "centerLetter": "Ş",
+        "outerLetters": [
+            "A",
+            "O",
+            "Q",
+            "Ü",
+            "L",
+            "Ə"
+        ],
+        "words_info": {
+            "word_count": 21,
+            "sum_score": 92,
+            "panagram_count": 1,
+            "word_length": {
+                "4": 7,
+                "5": 10,
+                "6": 3,
+                "8": 1
+            }
+        },
+        "words": [
+            {
+                "word": "ALAŞ",
+                "explanation": "is. bax ala1 1-ci mənada",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "QƏŞŞ",
+                "explanation": "is. [ər.] özündən getmə",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "QOŞA",
+                "explanation": "1. sif. cüt",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "ŞƏLƏ",
+                "explanation": "is. arxada aparıla biləcək qədərbağlanmış yük (şax",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "ŞÜLƏ",
+                "explanation": "is. məh. hər iki tərəfə uzadılmış qollarınarasındakı məsafə (şərti uzunluq ölçüsü)",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 5
+            },
+            {
+                "word": "ŞÜŞƏ",
+                "explanation": "is. 1. kvarslı qumu əridib kimyəvi üsulla işləmək nəticəsində alınan sərt",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 6
+            },
+            {
+                "word": "ÜLÜŞ",
+                "explanation": "is. məh. arasına halva qoyulmuşyuxa",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 7
+            },
+            {
+                "word": "ALAŞA",
+                "explanation": "is. arıq at; yabı. [qardaşı:] [sadıqkişi]",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 8
+            },
+            {
+                "word": "AŞQAL",
+                "explanation": "sif. məh. arıq",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 9
+            },
+            {
+                "word": "QALOŞ",
+                "explanation": "[rus.] is. ayağı rütubət və palçıqdanqorumaq üçün adətən çəkmə",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 10
+            },
+            {
+                "word": "QAŞQA",
+                "explanation": "is. 1. ümumiyyətlə",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 11
+            },
+            {
+                "word": "LƏLƏŞ",
+                "explanation": "is. zar. bir adam özünü öydüyü",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 12
+            },
+            {
+                "word": "ŞAQQA",
+                "explanation": "is. ikiyə parçalanmış cəmdək.[fərhad:] bir qoyunun da ***sını yeməkolarmı? ə.haqverdiyev. tahirzadənin ilk işio oldu ki",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 13
+            },
+            {
+                "word": "ŞALAQ",
+                "explanation": "is. məh. 1. iri",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 14
+            },
+            {
+                "word": "ŞƏŞƏƏ",
+                "explanation": "is. [ər.] klas. tənt. 1. parlaqlıq",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 15
+            },
+            {
+                "word": "ŞOŞAQ",
+                "explanation": "is. məh. selik",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 16
+            },
+            {
+                "word": "ÜŞŞAQ",
+                "explanation": "is. [ər. “aşiq” söz. cəmi] 1. klas.aşiqlər. əzəl katibləri *** bəxtin qarə yazmışlar.füzuli. *** yardan nəzəri-mərhəmətdilər",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 17
+            },
+            {
+                "word": "QAŞQAL",
+                "explanation": "is. məh. xır bağlanan zaman",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 18
+            },
+            {
+                "word": "QƏLLAŞ",
+                "explanation": "is. [fars.] klas. sərsəri",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 19
+            },
+            {
+                "word": "ŞƏLALƏ",
+                "explanation": "is. çay yatağında sıldırım qayadantökülən güclü su axını; çağlayan",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 20
+            },
+            {
+                "word": "QOŞALÜLƏ",
+                "explanation": "is. iki lüləsi olan tüfəng",
+                "isPanagram": true,
+                "score": 17,
+                "length": 8,
+                "id": 21
+            }
+        ]
+    }
+}

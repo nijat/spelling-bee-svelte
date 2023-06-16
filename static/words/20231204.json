@@ -1,0 +1,166 @@
+{
+    "gameData": {
+        "day": "20231204",
+        "expiration": "1701734340",
+        "centerLetter": "Ç",
+        "outerLetters": [
+            "A",
+            "I",
+            "K",
+            "L",
+            "N",
+            "İ"
+        ],
+        "words_info": {
+            "word_count": 17,
+            "sum_score": 88,
+            "panagram_count": 1,
+            "word_length": {
+                "6": 3,
+                "4": 5,
+                "5": 5,
+                "7": 1,
+                "8": 2,
+                "9": 1
+            }
+        },
+        "words": [
+            {
+                "word": "ALÇA",
+                "explanation": "is. cır və peyvənd cinsləri olançəyirdəkli turş və ya şirin yumru bir meyvə.cır ***. *** qurusu. turş ***",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "ALÇI",
+                "explanation": "is. aşıq-aşıq oyununda: aşığın birüzü",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "ÇALA",
+                "explanation": "is. çökək yer",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "ÇALI",
+                "explanation": "is. kol-kos",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "ÇİNİ",
+                "explanation": "is. [coğr. addan] müxtəlif məmulatistehsal etmək üçün istifadə olunan əla gildənhazırlanmış süni mineral kütlə",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 5
+            },
+            {
+                "word": "ÇALIN",
+                "explanation": "is. otu dəryaz",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 6
+            },
+            {
+                "word": "ÇİNLİ",
+                "explanation": "is. çin xalq respublikasının əsasəhalisini təşkil edən xalq və bu xalqa mənsubadam. puan qay ***ləri ayıq salır",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 7
+            },
+            {
+                "word": "KİÇİK",
+                "explanation": "sif. 1. həcmcə",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 8
+            },
+            {
+                "word": "LAÇIN",
+                "explanation": "is. 1. keçmişdə quş ovlamaq üçünsaxlanılan şahin cinsindən yırtıcı",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 9
+            },
+            {
+                "word": "LAKÇI",
+                "explanation": "is. dəriyə",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 10
+            },
+            {
+                "word": "AÇILAN",
+                "explanation": "is. məh. atəş açan silah",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 11
+            },
+            {
+                "word": "ÇİLÇİL",
+                "explanation": "sif. çoxlu çili olan",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 12
+            },
+            {
+                "word": "ÇİNÇİN",
+                "explanation": "sif. və zərf qat-qat",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 13
+            },
+            {
+                "word": "ÇALINÇI",
+                "explanation": "is. biçinçi",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 14
+            },
+            {
+                "word": "KİÇİKLİK",
+                "explanation": "is. 1. həcmcə",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 15
+            },
+            {
+                "word": "NAÇALNİK",
+                "explanation": "is. [rus. начальник] 1. bir idarəyə",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 16
+            },
+            {
+                "word": "KLİNİKAÇI",
+                "explanation": "is. [yun.] klinikada işləyən və praktiki həkimlikdən əlavə",
+                "isPanagram": true,
+                "score": 17,
+                "length": 9,
+                "id": 17
+            }
+        ]
+    }
+}

@@ -1,0 +1,254 @@
+{
+    "gameData": {
+        "day": "20231201",
+        "expiration": "1701475140",
+        "centerLetter": "I",
+        "outerLetters": [
+            "A",
+            "H",
+            "R",
+            "Q",
+            "Y",
+            "X"
+        ],
+        "words_info": {
+            "word_count": 28,
+            "sum_score": 139,
+            "panagram_count": 1,
+            "word_length": {
+                "4": 8,
+                "5": 11,
+                "8": 4,
+                "6": 3,
+                "7": 1,
+                "10": 1
+            }
+        },
+        "words": [
+            {
+                "word": "AXIR",
+                "explanation": "is. 1. son",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "ARIQ",
+                "explanation": "sif. cılız",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "AYIQ",
+                "explanation": "sif. və zərf 1. bayğınlığı",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "XIRA",
+                "explanation": "is. dəyməmiş",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "QARI",
+                "explanation": "is. 1. qoca qadın",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 5
+            },
+            {
+                "word": "QIRA",
+                "explanation": "is. məh. təndirdən çörəyi qoparmaqüçün qarmaqlı alət. // qarmaq. …küçədə***dan tutub dartanda məftilin vasitəsilə zəngiçəridə tərpənir",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 6
+            },
+            {
+                "word": "YAXI",
+                "explanation": "is. 1. yağ xüsusiyyətləri olan maddə; ***la",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 7
+            },
+            {
+                "word": "YARI",
+                "explanation": "is. tən bölünmüş iki hissədən biri. eyni ***sı. almanın ***sı. kitabın ***sını oxudum. ömrünün ***sını səhayətdə keçirmişdir",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 8
+            },
+            {
+                "word": "AYQIR",
+                "explanation": "is. döllük erkək at. at zavodundacins ***lar yetişdirilir. – *** başını qaldırıbilxıya gələn qatıra diqqətlə baxdı",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 9
+            },
+            {
+                "word": "AYRIQ",
+                "explanation": "is. bot. çoxillik taxıllar fəsiləsinə mənsub ot",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 10
+            },
+            {
+                "word": "QAYIQ",
+                "explanation": "is. 1. su nəqliyyat vasitəsi. motorlu***. yelkənli ***. balıqçı qayığı.***da gəzmək. – ***lar",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 11
+            },
+            {
+                "word": "QIRAQ",
+                "explanation": "is. 1. bir şeyin kənarı",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 12
+            },
+            {
+                "word": "QIRIQ",
+                "explanation": "sif. 1. qırılmış",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 13
+            },
+            {
+                "word": "QIYIQ",
+                "explanation": "is. torba",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 14
+            },
+            {
+                "word": "YAXIQ",
+                "explanation": "is. yaxılmış",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 15
+            },
+            {
+                "word": "YARIQ",
+                "explanation": "1. is. bir şey üzərində uzununadərin kəsik. hardasa lap yaxında",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 16
+            },
+            {
+                "word": "YAYIQ",
+                "explanation": "sif. məh. 1. göz qabağında olmayan",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 17
+            },
+            {
+                "word": "YAYQI",
+                "explanation": "is. yerə və ya döşəmə üzərinə sərilənşeylər: palaz",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 18
+            },
+            {
+                "word": "YIXIQ",
+                "explanation": "sif. yıxılmış",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 19
+            },
+            {
+                "word": "XIRXIR",
+                "explanation": "1. sif. səsi xırıltılı. *** adam.– bu çolaq",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 20
+            },
+            {
+                "word": "QIRXIQ",
+                "explanation": "sif. qırxılmış. *** üz. ***baş. – yuxarıdan düşən",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 21
+            },
+            {
+                "word": "QIYQIY",
+                "explanation": "is. 1. bir ayağı üstündə yerimə.2. bu cür oynanılan uşaq oyunu",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 22
+            },
+            {
+                "word": "QIRQIRA",
+                "explanation": "is. məh. qır-qır səs çıxaranuşaq oyuncağı",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 23
+            },
+            {
+                "word": "HAYQIRIQ",
+                "explanation": "is. qışqırıq",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 24
+            },
+            {
+                "word": "QIRHAQIR",
+                "explanation": "is. kütləvi surətdə qırma",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 25
+            },
+            {
+                "word": "QIRXAYAQ",
+                "explanation": "is. zool. 1. çoxayaqlılar fəsiləsindənuzunsov çoxayaqcıqlı bir cücü.2. dan. xərçəng. bu çinovniklər qorxuramki",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 26
+            },
+            {
+                "word": "QIRIQQIRIQ",
+                "explanation": "sif. və zərf tikə-tikə",
+                "isPanagram": false,
+                "score": 10,
+                "length": 10,
+                "id": 27
+            },
+            {
+                "word": "HAYXIRIQ",
+                "explanation": "is. bəlğəm",
+                "isPanagram": true,
+                "score": 17,
+                "length": 8,
+                "id": 28
+            }
+        ]
+    }
+}

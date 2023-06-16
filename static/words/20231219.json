@@ -1,0 +1,390 @@
+{
+    "gameData": {
+        "day": "20231219",
+        "expiration": "1703030340",
+        "centerLetter": "B",
+        "outerLetters": [
+            "A",
+            "Z",
+            "R",
+            "Ə",
+            "X",
+            "N"
+        ],
+        "words_info": {
+            "word_count": 45,
+            "sum_score": 218,
+            "panagram_count": 1,
+            "word_length": {
+                "5": 18,
+                "9": 3,
+                "7": 4,
+                "4": 12,
+                "6": 6,
+                "8": 2
+            }
+        },
+        "words": [
+            {
+                "word": "BABA",
+                "explanation": "is. 1. atanın",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "BARƏ",
+                "explanation": "is. [fars.] köhn. bənd",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "BƏBƏ",
+                "explanation": "is. 1. körpə uşaq",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "BƏBR",
+                "explanation": "is. [fars.] məməli heyvanların yırtıcılar dəstəsinə mənsub pələngəoxşar heyvan. vəhşi heyvanlardan lənkəran sahəsində bəbir və respublikamızın meşələr",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "BƏRƏ",
+                "explanation": "is. 1. böyük çayların üstündə qurulanmütəhərrik körpü",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 5
+            },
+            {
+                "word": "BƏZR",
+                "explanation": "is. [ər.] 1. toxum əkiləcək dən.2. kətan toxumu. // kətan toxumu yağı",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 6
+            },
+            {
+                "word": "ƏBNA",
+                "explanation": "is. [ər. “ibn” söz. cəmi] klas. övladlar",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 7
+            },
+            {
+                "word": "ƏRƏB",
+                "explanation": "is. 1. ön asiyada və şimali afrikadayaşayan",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 8
+            },
+            {
+                "word": "ƏZAB",
+                "explanation": "is. [ər.] 1. əziyyət",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 9
+            },
+            {
+                "word": "NƏBZ",
+                "explanation": "is. [ər.] 1. ürəyin fəaliyyəti nəticəsindəarteriya (qan damarları) divarlarınınritmik vurması (adətən biləyin yuxarı hissəsindəduyulur)",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 10
+            },
+            {
+                "word": "RƏBB",
+                "explanation": "is. ər. allah",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 11
+            },
+            {
+                "word": "ZƏRB",
+                "explanation": "is. [ər.] 1. vurma",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 12
+            },
+            {
+                "word": "ABXAZ",
+                "explanation": "is. ***iyanın əsas əhalisinitəşkil edən xalqın adı və bu xalqa mənsubadam. *** xalqı. *** dili",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 13
+            },
+            {
+                "word": "ANBAR",
+                "explanation": "is. taxıl",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 14
+            },
+            {
+                "word": "ARABA",
+                "explanation": "is. iki və ya dördtəkərli nəqliyyatvasitəsi. minik ***sı. yük ***sı. əl ***sı(əl ilə sürülən ***)",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 15
+            },
+            {
+                "word": "BAXAN",
+                "explanation": "f.sif. 1. nəzarət edən",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 16
+            },
+            {
+                "word": "BAXAR",
+                "explanation": "is. 1. bax axar-***.2. açıq yer",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 17
+            },
+            {
+                "word": "BARAN",
+                "explanation": "is. [fars.] klas. yağış",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 18
+            },
+            {
+                "word": "BAZAR",
+                "explanation": "is. 1. alış-veriş yeri. bütün şəhər***",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 19
+            },
+            {
+                "word": "BƏNNA",
+                "explanation": "is. [ər.] binanın daş",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 20
+            },
+            {
+                "word": "BƏZƏN",
+                "explanation": "zərf [ər.] bəzi vaxt",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 21
+            },
+            {
+                "word": "ƏXBAR",
+                "explanation": "is. [ər. “xəbər” söz. cəmi] 1. xəbərlər",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 22
+            },
+            {
+                "word": "ƏNBƏR",
+                "explanation": "is. [ər.] 1. kaşalota oxşar bir balığınmədəsindən çıxarılan gözəl qoxulumaddə. *** qara",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 23
+            },
+            {
+                "word": "ƏRBAB",
+                "explanation": "sif. [ər. “rəbb” söz. cəmi] köhn.ağa",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 24
+            },
+            {
+                "word": "ƏZBƏR",
+                "explanation": "1. is. bir mətni və ya sözü eyniilə təkrar edilə biləcək şəkildə yadda",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 25
+            },
+            {
+                "word": "XARAB",
+                "explanation": "sif. [ər.] 1. pis",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 26
+            },
+            {
+                "word": "XƏBƏR",
+                "explanation": "is. [ər.] 1. bir iş",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 27
+            },
+            {
+                "word": "ZƏBAN",
+                "explanation": "is. [fars.] klas. dil. bir saat görməsəm",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 28
+            },
+            {
+                "word": "ZƏBƏR",
+                "explanation": "is. [fars.] ərəb (fars) əlifbasında“ə” səsini bildirmək üçün samitlərin üzərinəqoyulan ",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 29
+            },
+            {
+                "word": "ZƏRBƏ",
+                "explanation": "is. [ər.] 1. qolaylayaraq bir şeylə şiddətlə vurma; vuruş. yumruq ***si. balta ***si. *** səsi",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 30
+            },
+            {
+                "word": "BƏNZƏR",
+                "explanation": "1. sif. oxşar",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 31
+            },
+            {
+                "word": "BƏRZƏX",
+                "explanation": "is. [ər.] 1. coğr. iki qitəni birbirinə",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 32
+            },
+            {
+                "word": "BƏZZAZ",
+                "explanation": "is. [ər.] köhn. parça",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 33
+            },
+            {
+                "word": "ƏNBƏRƏ",
+                "explanation": "is. dəyirman çarxını işlədənsuyun yığılıb şiddətlə töküldüyü nov. dəyirmanınsuyu ***yə yığılır",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 34
+            },
+            {
+                "word": "XARABA",
+                "explanation": "[ər.] 1. is. dağılmış",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 35
+            },
+            {
+                "word": "ZƏBANƏ",
+                "explanation": "is. [fars.] klas. 1. alov",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 36
+            },
+            {
+                "word": "ARABƏRƏ",
+                "explanation": "is. dan. 1. aralıq",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 37
+            },
+            {
+                "word": "BAXƏBƏR",
+                "explanation": "sif. [fars. ba… və ər. xəbər] köhn. xəbərdar",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 38
+            },
+            {
+                "word": "BARXANA",
+                "explanation": "is. [fars.] köhn. ev şeyləri",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 39
+            },
+            {
+                "word": "BƏRABƏR",
+                "explanation": "1. sif. başqası ilə tən",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 40
+            },
+            {
+                "word": "ƏNBƏRBAR",
+                "explanation": "sif. [ər. ənbər və fars. …bar]klas. şair. ənbər saçan",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 41
+            },
+            {
+                "word": "AXARBAXAR",
+                "explanation": "is. 1. hər tərəfi açıq vəxoş mənzərəli yer",
+                "isPanagram": false,
+                "score": 9,
+                "length": 9,
+                "id": 42
+            },
+            {
+                "word": "XANƏXƏRAB",
+                "explanation": "sif. [fars.] klas. bədbəxt",
+                "isPanagram": false,
+                "score": 9,
+                "length": 9,
+                "id": 43
+            },
+            {
+                "word": "XARABAZAR",
+                "explanation": "is. [ər. xərabə və fars.…zar] klas. xarabalıq",
+                "isPanagram": false,
+                "score": 9,
+                "length": 9,
+                "id": 44
+            },
+            {
+                "word": "ZƏRBXANƏ",
+                "explanation": "is. [ər. zərb və fars. …xanə]metal pul kəsilən yer",
+                "isPanagram": true,
+                "score": 17,
+                "length": 8,
+                "id": 45
+            }
+        ]
+    }
+}

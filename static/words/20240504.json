@@ -1,0 +1,149 @@
+{
+    "gameData": {
+        "day": "20240504",
+        "expiration": "1714867140",
+        "centerLetter": "M",
+        "outerLetters": [
+            "Y",
+            "U",
+            "Ü",
+            "T",
+            "İ",
+            "Ə"
+        ],
+        "words_info": {
+            "word_count": 15,
+            "sum_score": 64,
+            "panagram_count": 1,
+            "word_length": {
+                "4": 7,
+                "5": 5,
+                "7": 1,
+                "8": 1,
+                "9": 1
+            }
+        },
+        "words": [
+            {
+                "word": "ƏMMƏ",
+                "explanation": "is. [ər.] klas. bibi. aya",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "ƏYMƏ",
+                "explanation": "is. 1. dişləni (əskeşi) qayışlar vasitəsiləxamuta (boyunduruğa) bənd etməküçün istifadə edilən əyilmiş ağacdan ibarətqoşqu hissəsi",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "MƏMƏ",
+                "explanation": "is. məc. ana. [şərəfnisə xanım:]əgər ***m deyən dərviş olmasaydı",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "MƏTƏ",
+                "explanation": "is. yerdə oyun üçün çəkilən dairə(əsasən uşaq oyunlarında). ***dən çıxmaq",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "MUYƏ",
+                "explanation": "is. [fars.] mus. bir neçə muğamdəsgahının şöbələri arasında guşə",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 5
+            },
+            {
+                "word": "MÜTİ",
+                "explanation": "sif. [ər.] itaət edən",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 6
+            },
+            {
+                "word": "ÜMUM",
+                "explanation": "is. [ər.] hamı",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 7
+            },
+            {
+                "word": "ƏMTƏƏ",
+                "explanation": "is. [ər. “məta” söz. cəmi] iqt. kit. mübadilə üçün istehsal edilən əmək məhsulları; mal. *** insanın hər hansı bir ehtiyacını təmin edən",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 8
+            },
+            {
+                "word": "TƏMİM",
+                "explanation": "is. [ər.] 1. ümumiləşdirmə.2. yayma",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 9
+            },
+            {
+                "word": "TUTUM",
+                "explanation": "is. müəyyən qədər şeyi tutmaq",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 10
+            },
+            {
+                "word": "ÜMMƏT",
+                "explanation": "is. [ər.] 1. xalq",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 11
+            },
+            {
+                "word": "ÜMUMİ",
+                "explanation": "sif. [ər.] 1. ümuma",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 12
+            },
+            {
+                "word": "MƏİYYƏT",
+                "explanation": "is. [ər.] kit. böyük vəzifəlişəxsi müşayiət edən heyət. çar konsulu özdostlarını vəliəhdin ***i içərisində aramağabaşlamışdı",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 13
+            },
+            {
+                "word": "MƏTƏMƏTƏ",
+                "explanation": "is. mətə içərisində oynanılanuşaq oyunu",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 14
+            },
+            {
+                "word": "ÜMUMİYYƏT",
+                "explanation": "[ər.] bax ümumilik 1-cimənada. [xamburabi:] çünki cəmiyyət ***",
+                "isPanagram": true,
+                "score": 17,
+                "length": 9,
+                "id": 15
+            }
+        ]
+    }
+}

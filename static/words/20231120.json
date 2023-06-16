@@ -1,0 +1,302 @@
+{
+    "gameData": {
+        "day": "20231120",
+        "expiration": "1700524740",
+        "centerLetter": "R",
+        "outerLetters": [
+            "H",
+            "İ",
+            "M",
+            "C",
+            "Ə",
+            "L"
+        ],
+        "words_info": {
+            "word_count": 34,
+            "sum_score": 144,
+            "panagram_count": 1,
+            "word_length": {
+                "5": 10,
+                "6": 3,
+                "4": 14,
+                "7": 3,
+                "8": 3,
+                "10": 1
+            }
+        },
+        "words": [
+            {
+                "word": "CİRƏ",
+                "explanation": "is. bot. xırda ağ çiçəkləri olan birillikbitki (toxumlarından ədviyyə kimi istifadəedilir)",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "ƏCƏR",
+                "explanation": "is. təzəlik",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "ƏMİR",
+                "explanation": "sif. [ər.] 1. bir tayfanın və ya ölkəninbaşçısı. qəbilənin ***i. – şairin qəzəllərinəməftun olmuş dərbənd ***i onubu xaraba kənddən öz sarayına d",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "ƏRƏR",
+                "explanation": "is. [ər.] ardıc ağacı. qəddintəknə ər-ər",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "ƏRLİ",
+                "explanation": "sif. əri olan. ev tikdirənlər təkcə*** qadınlar deyildi. ə.əbülhəsən. // is. mənasında.*** qadın",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 5
+            },
+            {
+                "word": "ƏRRƏ",
+                "explanation": "is. [fars.] ikidəstəli iri mişar",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 6
+            },
+            {
+                "word": "HƏRƏ",
+                "explanation": "əvəz. toplu halında olan adamlardanhər biri; hər kəs. *** bir söz deyir.*** bir tərəfə getdi. ***nin öz fikri var",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 7
+            },
+            {
+                "word": "HİCR",
+                "explanation": "[ər.] klas. bax ***an. qəm əlindənsinə yırtdım",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 8
+            },
+            {
+                "word": "LİRƏ",
+                "explanation": "[ital.] türkiyədə",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 9
+            },
+            {
+                "word": "MƏRC",
+                "explanation": "is. bir şey üstündə mübahisə edəniki nəfər arasında bağlanan və uduzan tərəfinyerinə yetirməli olduğu bir şeyi nəzərdətutan şərt",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 10
+            },
+            {
+                "word": "MƏRƏ",
+                "explanation": "is. ***-*** oyunu üçün qazılançuxur",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 11
+            },
+            {
+                "word": "RƏHM",
+                "explanation": "is. [ər.] acıma",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 12
+            },
+            {
+                "word": "RƏMƏ",
+                "explanation": "is. [fars.] sürü. qoyun sürüsü",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 13
+            },
+            {
+                "word": "RƏML",
+                "explanation": "is. [ər.] rəmmalların qum üzərində müxtəlif işarələr çəkərək və ya başqa üsullarla fala baxıb gələcəkdən xəbər verməsi",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 14
+            },
+            {
+                "word": "CƏHRƏ",
+                "explanation": "is. 1. yun əyirmək üçün əl iləişlədilən ən sadə alət. iydə varsa",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 15
+            },
+            {
+                "word": "ƏCƏRİ",
+                "explanation": "sif. təzə",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 16
+            },
+            {
+                "word": "ƏHMƏR",
+                "explanation": "sif. [ər.] klas. qırmızı. hanı o səngörən *** yanaqlar; müsəlsəl keysular",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 17
+            },
+            {
+                "word": "ƏMİRİ",
+                "explanation": "sif. 1. əmirə mənsub",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 18
+            },
+            {
+                "word": "HƏRƏM",
+                "explanation": "is. [ər.] köhn. 1. arvad",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 19
+            },
+            {
+                "word": "HİCRİ",
+                "explanation": "is. [ər.] hicrətə aid",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 20
+            },
+            {
+                "word": "MƏLƏR",
+                "explanation": "1. sif. ağlar",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 21
+            },
+            {
+                "word": "MƏRCİ",
+                "explanation": "is. 1. bot. paxlalılar fəsiləsindəndənli bitki.2. həmin bitkinin xörəkdə işlədilən toxumu.şorbaya *** tökmək",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 22
+            },
+            {
+                "word": "MƏRMİ",
+                "explanation": "is. [ər.] top kimi silahların gülləsi.birdən top ***si partladı",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 23
+            },
+            {
+                "word": "RƏMƏL",
+                "explanation": "is. [ər.] əruz vəznində şeir forması.mikayıl müşfiq heca vəzninin bütünbölgülərində (üç hecalıdan tutmuş iyirmi hecalıyaqədər)",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 24
+            },
+            {
+                "word": "CƏRİMƏ",
+                "explanation": "is. [ər.] pulla ödənilən cəza növü.[fəxrəddin:] məlumunuz olmalıdır ki",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 25
+            },
+            {
+                "word": "MƏHRƏM",
+                "explanation": "sif. və is. [ər.] 1. çox yaxınsayılan",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 26
+            },
+            {
+                "word": "MƏRMƏR",
+                "explanation": "is. [lat.] 1. heykəltəraşlıqda vəmemarlıqda işlənən müxtəlif rəngli kristallikdağ süxuru – kirəc daş",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 27
+            },
+            {
+                "word": "HƏRLƏMƏ",
+                "explanation": "1. “***k”dən f.is.2. zərf dairəvi",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 28
+            },
+            {
+                "word": "MƏRCİLİ",
+                "explanation": "sif. tərkibində mərci olan",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 29
+            },
+            {
+                "word": "MƏRHƏLƏ",
+                "explanation": "is. [ər.] 1. bir şeyin inkişafındakeyfiyyətcə öz xüsusiyyətləri olan dövr",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 30
+            },
+            {
+                "word": "MƏHƏCCƏR",
+                "explanation": "is. [ər.] balkonun",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 31
+            },
+            {
+                "word": "MƏHƏRRƏM",
+                "explanation": "is. [ər. mühərrəm] 1. ərəbqəməri təqviminin birinci ayı (şiələrin imamlarıbu ayda qətl edildiyi üçün yas ayı hesabolunur)",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 32
+            },
+            {
+                "word": "MƏRƏMƏRƏ",
+                "explanation": "is. qoz",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 33
+            },
+            {
+                "word": "MƏHƏCCƏRLİ",
+                "explanation": "sif. məhəccəri olan; sürahili",
+                "isPanagram": true,
+                "score": 17,
+                "length": 10,
+                "id": 34
+            }
+        ]
+    }
+}

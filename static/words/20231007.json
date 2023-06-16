@@ -1,0 +1,189 @@
+{
+    "gameData": {
+        "day": "20231007",
+        "expiration": "1696723140",
+        "centerLetter": "R",
+        "outerLetters": [
+            "Ə",
+            "İ",
+            "D",
+            "H",
+            "Ö",
+            "L"
+        ],
+        "words_info": {
+            "word_count": 20,
+            "sum_score": 74,
+            "panagram_count": 1,
+            "word_length": {
+                "4": 11,
+                "5": 4,
+                "7": 2,
+                "6": 2,
+                "9": 1
+            }
+        },
+        "words": [
+            {
+                "word": "DƏHR",
+                "explanation": "is. [ər.] klas. 1. dünya",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "DƏRD",
+                "explanation": "is. [fars.] 1. qəm",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "DƏRƏ",
+                "explanation": "is. 1. iki dağ və ya təpə arasında",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "DƏRİ",
+                "explanation": "is. 1. insan və heyvanın bədənininüstünü örtən mikroskopik məsaməli ət örtüyü.qolumun ***si soyulub",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "DİRİ",
+                "explanation": "sif. 1. canı olan",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 5
+            },
+            {
+                "word": "ƏRƏR",
+                "explanation": "is. [ər.] ardıc ağacı. qəddintəknə ər-ər",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 6
+            },
+            {
+                "word": "ƏRLİ",
+                "explanation": "sif. əri olan. ev tikdirənlər təkcə*** qadınlar deyildi. ə.əbülhəsən. // is. mənasında.*** qadın",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 7
+            },
+            {
+                "word": "ƏRRƏ",
+                "explanation": "is. [fars.] ikidəstəli iri mişar",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 8
+            },
+            {
+                "word": "HƏRƏ",
+                "explanation": "əvəz. toplu halında olan adamlardanhər biri; hər kəs. *** bir söz deyir.*** bir tərəfə getdi. ***nin öz fikri var",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 9
+            },
+            {
+                "word": "LİRƏ",
+                "explanation": "[ital.] türkiyədə",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 10
+            },
+            {
+                "word": "RƏDD",
+                "explanation": "is. [ər.] qəbul etməmə",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 11
+            },
+            {
+                "word": "DƏHRƏ",
+                "explanation": "is. ağac budamaq",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 12
+            },
+            {
+                "word": "DƏHRİ",
+                "explanation": "is. [ər.] köhn. axirətə inanmayan və hər şeyin bu dünyada olduğunu iddia edən adam. nə hüluliyəm",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 13
+            },
+            {
+                "word": "DİLİR",
+                "explanation": "sif. [fars.] köhn. igid",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 14
+            },
+            {
+                "word": "HƏDƏR",
+                "explanation": "sif. [ər.] boş-boşuna",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 15
+            },
+            {
+                "word": "DƏRDLİ",
+                "explanation": "sif. 1. dərdi",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 16
+            },
+            {
+                "word": "DƏRİLİ",
+                "explanation": "sif. dərisi olan. // dəridən olan",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 17
+            },
+            {
+                "word": "DƏHRƏLİ",
+                "explanation": "sif. dəhrəsi olan",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 18
+            },
+            {
+                "word": "DƏRDDİL",
+                "explanation": "is. [fars.] köhn. ürək dərdi",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 19
+            },
+            {
+                "word": "DÖRDHƏDLİ",
+                "explanation": "sif. riyaz. dörd həddi olan.*** ifadə",
+                "isPanagram": true,
+                "score": 17,
+                "length": 9,
+                "id": 20
+            }
+        ]
+    }
+}

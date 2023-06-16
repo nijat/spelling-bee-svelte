@@ -1,0 +1,295 @@
+{
+    "gameData": {
+        "day": "20240321",
+        "expiration": "1711065540",
+        "centerLetter": "I",
+        "outerLetters": [
+            "N",
+            "A",
+            "Ş",
+            "L",
+            "S",
+            "Ğ"
+        ],
+        "words_info": {
+            "word_count": 33,
+            "sum_score": 142,
+            "panagram_count": 1,
+            "word_length": {
+                "4": 13,
+                "5": 12,
+                "6": 2,
+                "9": 2,
+                "11": 1,
+                "7": 2,
+                "8": 1
+            }
+        },
+        "words": [
+            {
+                "word": "AĞIL",
+                "explanation": "is. içərisində mal-qara və qoyunsaxlamaq üçün ətrafı tikan və ya ağac iləhasarlanmış üstüaçıq yer. qoyunlar s***ıbqurtardıqdan sonra",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "ALĞI",
+                "explanation": "is. satın alma işi",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "ALIN",
+                "explanation": "is. 1. üzün saç ilə qaş arasında olanön hissəsi. geniş ***. dar ***. – süleymanbəy əyləşir yerdə",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "ALIŞ",
+                "explanation": "f.is. almaq işi",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "ALLI",
+                "explanation": "sif. köhn. al rəngli paltar geymiş.tərifli gözəllər gəlhagəl oldu; yaşıllı",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 5
+            },
+            {
+                "word": "ANIŞ",
+                "explanation": "is. qəd. istək",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 6
+            },
+            {
+                "word": "ANLI",
+                "explanation": "sif. qəd. ağıllı",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 7
+            },
+            {
+                "word": "AŞLI",
+                "explanation": "sif. aşa qoyulmuş. *** gön. ***dəri. – aşıq abbas *** çarıqlarını yerə sürtəsürtəmərəkəni süzür",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 8
+            },
+            {
+                "word": "LIĞA",
+                "explanation": "is. qatı",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 9
+            },
+            {
+                "word": "NAŞI",
+                "explanation": "sif. [ər.] 1. nabələd",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 10
+            },
+            {
+                "word": "SALI",
+                "explanation": "is. həftənin ikinci günü",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 11
+            },
+            {
+                "word": "SIĞA",
+                "explanation": "is. [ər.] köhn. 1. kiçik uşaqlar.2. yetimlər",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 12
+            },
+            {
+                "word": "ŞANI",
+                "explanation": "is. çox şirin",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 13
+            },
+            {
+                "word": "AĞILI",
+                "explanation": "sif. zəhərli",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 14
+            },
+            {
+                "word": "ALALI",
+                "explanation": "sif. alası olan",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 15
+            },
+            {
+                "word": "ANALI",
+                "explanation": "sif. anası olan. *** uşaq. ***quzu. – *** quzu",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 16
+            },
+            {
+                "word": "ASILI",
+                "explanation": "sif. 1. asılmış halda olan",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 17
+            },
+            {
+                "word": "AŞAĞI",
+                "explanation": "1. is. bir şeyin dibinə",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 18
+            },
+            {
+                "word": "NAĞIL",
+                "explanation": "is. [ər. nəql] adətən əfsanəvi",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 19
+            },
+            {
+                "word": "NALLI",
+                "explanation": "sif. nal vurulmuş; nallanmış. ***at. – əyilmiş çəkmənin *** dabanı; siyrilibpapağın o yan-bu yanı",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 20
+            },
+            {
+                "word": "SAĞIN",
+                "explanation": "is. 1. bax sağım. sabah idi",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 21
+            },
+            {
+                "word": "SANLI",
+                "explanation": "sif. sayılmış",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 22
+            },
+            {
+                "word": "SIĞAL",
+                "explanation": "is. [ər. seyqəl] 1. bir şeyin üzərinə əlini yavaş-yavaş gəzdirmək və ya ona xəfif-xəfif toxundurmaqla öz sevgisini",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 23
+            },
+            {
+                "word": "ŞALLI",
+                "explanation": "sif. başına şal örtmüş",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 24
+            },
+            {
+                "word": "ŞANLI",
+                "explanation": "sif. 1. rəşadətli",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 25
+            },
+            {
+                "word": "AĞILLI",
+                "explanation": "sif. 1. dərrakəli",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 26
+            },
+            {
+                "word": "SANILI",
+                "explanation": "sif. sayılmış",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 27
+            },
+            {
+                "word": "LAĞLAĞI",
+                "explanation": "sif. çoxdanışan",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 28
+            },
+            {
+                "word": "SIĞALLI",
+                "explanation": "sif. hamar",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 29
+            },
+            {
+                "word": "SALLANIŞ",
+                "explanation": "is. yeriş tərzi",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 30
+            },
+            {
+                "word": "AĞLASIĞAN",
+                "explanation": "sif. bax ağlabatan. [heydər bəy:] ağlasığışan iş deyil. s.s.axundov. hikmət isfahaniyə məhbəsdə rast gəlmək *** şey deyildisə də",
+                "isPanagram": false,
+                "score": 9,
+                "length": 9,
+                "id": 31
+            },
+            {
+                "word": "ALLIŞALLI",
+                "explanation": "sif. məh. al-əlvan. pətəklərdənvə bağçada qoyulan qırmızı rəngliyeşiklərdən arılar dəstə-dəstə çıxır",
+                "isPanagram": false,
+                "score": 9,
+                "length": 9,
+                "id": 32
+            },
+            {
+                "word": "AĞLASIĞIŞAN",
+                "explanation": "sif. bax ağlabatan. [heydər bəy:] *** iş deyil. s.s.axundov. hikmət isfahaniyə məhbəsdə rast gəlmək ağlasığan şey deyildisə də",
+                "isPanagram": true,
+                "score": 17,
+                "length": 11,
+                "id": 33
+            }
+        ]
+    }
+}

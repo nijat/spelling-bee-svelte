@@ -1,0 +1,245 @@
+{
+    "gameData": {
+        "day": "20230818",
+        "expiration": "1692403140",
+        "centerLetter": "İ",
+        "outerLetters": [
+            "D",
+            "A",
+            "Q",
+            "V",
+            "B",
+            "R"
+        ],
+        "words_info": {
+            "word_count": 27,
+            "sum_score": 97,
+            "panagram_count": 1,
+            "word_length": {
+                "4": 15,
+                "6": 2,
+                "9": 2,
+                "5": 6,
+                "7": 2
+            }
+        },
+        "words": [
+            {
+                "word": "ABİD",
+                "explanation": "is. [ər.] din. ibadətlə məşğul olanadam",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "AVİA",
+                "explanation": "[lat.] mürəkkəb sözlərin əvvəlində ***siya mənasını ifadə edir",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "BABİ",
+                "explanation": "is. [xüs. is.-dən] 1. xıx əsrin ortasında iranda “bab” təxəllüslü mirzə əli məhəmməd tərəfindən təsis edilmiş dini təriqətə mənsub olan adam",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "BAQİ",
+                "explanation": "sif. [ər.] 1. daimi",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "BİBİ",
+                "explanation": "is. övlad üçün atanın bacısı",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 5
+            },
+            {
+                "word": "BİRİ",
+                "explanation": "əvəz. 1. müəyyən olmayan şəxs",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 6
+            },
+            {
+                "word": "DAİR",
+                "explanation": "qoş. [ər.] haqqında",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 7
+            },
+            {
+                "word": "DİBA",
+                "explanation": "is. [fars.] klas. zərli gülləri olanipək parça. // sif. mənasında. həmin parçadantikilmiş. xoş yaraşır sənə *** nimtənə;bu bəzəyin yeni əlaməti va",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 8
+            },
+            {
+                "word": "DİRİ",
+                "explanation": "sif. 1. canı olan",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 9
+            },
+            {
+                "word": "QAİB",
+                "explanation": "[ər.] 1. olmayan",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 10
+            },
+            {
+                "word": "QİDA",
+                "explanation": "is. [ər.] 1. insan və heyvan orqanizmininvə bitkilərin yaşaması üçün lazım olanbəsləyici maddələr",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 11
+            },
+            {
+                "word": "RAVİ",
+                "explanation": "is. [ər.] klas. rəvayət edən",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 12
+            },
+            {
+                "word": "VADİ",
+                "explanation": "is. [ər.] 1. iki dağ arasında böyük",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 13
+            },
+            {
+                "word": "VİDA",
+                "explanation": "is. [ər.] görüşüb bir-birindən müvəqqəti və ya həmişəlik ayrılma; xudahafizləşmə",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 14
+            },
+            {
+                "word": "VİRD",
+                "explanation": "is. [ər.] dindarların bir savab iş kimi tez-tez söylədikləri",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 15
+            },
+            {
+                "word": "BİDAR",
+                "explanation": "sif. [fars.] klas. 1. köhn. şair. oyaq",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 16
+            },
+            {
+                "word": "DİBİR",
+                "explanation": "is. məh. təsbəhlərdə olan uzunsovmuncuq dənəsi",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 17
+            },
+            {
+                "word": "DİDAR",
+                "explanation": "is. [fars.] klas. 1. görünüş",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 18
+            },
+            {
+                "word": "DİVAR",
+                "explanation": "is. [fars.] 1. binaların üstünü saxlamaqvə daxilini bölmələrə ayırmaq üçünmüxtəlif tikinti materiallarından çəkilənsədd",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 19
+            },
+            {
+                "word": "QADİR",
+                "explanation": "sif. [ər.] 1. qüdrətli",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 20
+            },
+            {
+                "word": "VARİD",
+                "explanation": "[ər.] : *** olmaq – çatmaq",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 21
+            },
+            {
+                "word": "AQRARİ",
+                "explanation": "[lat.] 1. iri torpaq sahibi",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 22
+            },
+            {
+                "word": "VİVARİ",
+                "explanation": "is. [lat.] təcrübədə istifadə olunmaqüçün müxtəlif heyvanlar",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 23
+            },
+            {
+                "word": "BİİQRAR",
+                "explanation": "sif. [fars. bi… və ər. iqrar]iqrarsız",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 24
+            },
+            {
+                "word": "BRİQADA",
+                "explanation": "[fr.] 1. bir neçə polkdan",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 25
+            },
+            {
+                "word": "DARAQVARİ",
+                "explanation": "sif. darağaoxşar",
+                "isPanagram": false,
+                "score": 9,
+                "length": 9,
+                "id": 26
+            },
+            {
+                "word": "BADAQVARİ",
+                "explanation": "sif. məh. mıxa oxşayan",
+                "isPanagram": true,
+                "score": 17,
+                "length": 9,
+                "id": 27
+            }
+        ]
+    }
+}

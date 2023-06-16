@@ -1,0 +1,205 @@
+{
+    "gameData": {
+        "day": "20231216",
+        "expiration": "1702771140",
+        "centerLetter": "Ş",
+        "outerLetters": [
+            "C",
+            "A",
+            "R",
+            "I",
+            "D",
+            "N"
+        ],
+        "words_info": {
+            "word_count": 22,
+            "sum_score": 119,
+            "panagram_count": 1,
+            "word_length": {
+                "10": 3,
+                "4": 6,
+                "5": 4,
+                "6": 8,
+                "8": 1
+            }
+        },
+        "words": [
+            {
+                "word": "ADAŞ",
+                "explanation": "is. adları eyni olan adamlar. o mənimlə***dır. ***lar gəldilər. – dodaqlarındakövrək təbəssüm",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "ANIŞ",
+                "explanation": "is. qəd. istək",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "AŞNA",
+                "explanation": "is. 1. dost",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "NAŞI",
+                "explanation": "sif. [ər.] 1. nabələd",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "ŞANA",
+                "explanation": "is. otu",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 5
+            },
+            {
+                "word": "ŞANI",
+                "explanation": "is. çox şirin",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 6
+            },
+            {
+                "word": "ANAŞA",
+                "explanation": "is. dan. xaşxaşdan hasil olan çoxzəhərli narkotik maddə",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 7
+            },
+            {
+                "word": "ARŞIN",
+                "explanation": "is. metrik ölçü sistemi qəbul olunanadək işlədilən uzunluq ölçüsü (0",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 8
+            },
+            {
+                "word": "DADAŞ",
+                "explanation": "is. kiçik qardaş və bacıların böyükqardaşa verdikləri ad; böyük qardaşa müraciət.bir gün gəldim",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 9
+            },
+            {
+                "word": "NAŞAD",
+                "explanation": "sif. [fars.] klas. qəmgin",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 10
+            },
+            {
+                "word": "ANDDAŞ",
+                "explanation": "is. müəyyən əhd",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 11
+            },
+            {
+                "word": "DIŞARI",
+                "explanation": "is. bayır",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 12
+            },
+            {
+                "word": "ŞADARA",
+                "explanation": "is. buğdanın",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 13
+            },
+            {
+                "word": "ŞANŞAN",
+                "explanation": "sif. şanlar şəklində",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 14
+            },
+            {
+                "word": "ŞARADA",
+                "explanation": "is. [fr.] cavabı müxtəlif sözlərdənibarət tapmaca. isti + ot = istiot",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 15
+            },
+            {
+                "word": "ŞINDIR",
+                "explanation": "is. ətin atılan hissələri",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 16
+            },
+            {
+                "word": "ŞIRŞIR",
+                "explanation": "təql. 1. is. bir qaydada axan",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 17
+            },
+            {
+                "word": "ŞIRRAN",
+                "explanation": "is. şəlalə. xatun … vedrəni götürüb",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 18
+            },
+            {
+                "word": "ŞANAŞANA",
+                "explanation": "sif. göz-göz",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 19
+            },
+            {
+                "word": "ACIŞDIRICI",
+                "explanation": "sif. göynədici",
+                "isPanagram": false,
+                "score": 10,
+                "length": 10,
+                "id": 20
+            },
+            {
+                "word": "ARAŞDIRICI",
+                "explanation": "is. axtarıcı",
+                "isPanagram": false,
+                "score": 10,
+                "length": 10,
+                "id": 21
+            },
+            {
+                "word": "AŞINDIRICI",
+                "explanation": "sif. xüs. aşındırma xassəsinəmalik olan. *** maddələr",
+                "isPanagram": true,
+                "score": 17,
+                "length": 10,
+                "id": 22
+            }
+        ]
+    }
+}

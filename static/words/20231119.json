@@ -1,0 +1,461 @@
+{
+    "gameData": {
+        "day": "20231119",
+        "expiration": "1700438340",
+        "centerLetter": "K",
+        "outerLetters": [
+            "İ",
+            "M",
+            "N",
+            "T",
+            "Ç",
+            "Ə"
+        ],
+        "words_info": {
+            "word_count": 54,
+            "sum_score": 263,
+            "panagram_count": 2,
+            "word_length": {
+                "4": 15,
+                "5": 17,
+                "7": 7,
+                "6": 12,
+                "8": 3
+            }
+        },
+        "words": [
+            {
+                "word": "ÇƏKİ",
+                "explanation": "is. parça",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "ƏKİN",
+                "explanation": "is. 1. taxıl",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "ƏKMƏ",
+                "explanation": "1. “***k1”dən f.is. şitil ***.2. sif. əkilmiş",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "ƏMƏK",
+                "explanation": "is. insanın əqli və cismani gərginliktələb edən məqsədəuyğun və ictimaicəhətdən faydalı fəaliyyəti; zəhmət",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "ƏMİK",
+                "explanation": "sif. çox əmilməkdən xarab olmuş",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 5
+            },
+            {
+                "word": "ƏNƏK",
+                "explanation": "is. 1. yük atı",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 6
+            },
+            {
+                "word": "ƏNİK",
+                "explanation": "sif. yırtıcı",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 7
+            },
+            {
+                "word": "ƏTƏK",
+                "explanation": "is. 1. paltarın beldən aşağı tərəfəuzanan hissəsi. paltonun ətəyi uzundur. pencəyinətəyini bir qədər qısaltmaq lazımdır",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 8
+            },
+            {
+                "word": "KƏKƏ",
+                "explanation": "sif. danışarkən ***ləyən; kəkov.*** uşaq. anadan *** (z.) doğulmaq",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 9
+            },
+            {
+                "word": "KƏTƏ",
+                "explanation": "is. ı. göyərti qutabı. [mahmud:] bir***yə bax",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 10
+            },
+            {
+                "word": "KİMİ",
+                "explanation": "əvəz. bəzisi",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 11
+            },
+            {
+                "word": "KİNƏ",
+                "explanation": "is. əcz. *** ağacının qabığındanhasil edilən acıdadlı ağ toz dərman; isitmədərmanı. *** atmaq. – [heybət:] dünənyaxşı idim",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 12
+            },
+            {
+                "word": "MƏKƏ",
+                "explanation": "is. qarğıdalı",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 13
+            },
+            {
+                "word": "TƏKƏ",
+                "explanation": "is. 1. erkək keçi.2. vəhşi keçi",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 14
+            },
+            {
+                "word": "TİKƏ",
+                "explanation": "is. 1. böyük bir şeydən sınmış",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 15
+            },
+            {
+                "word": "ÇƏKİK",
+                "explanation": "sif. bir yana doğru çəkilmiş",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 16
+            },
+            {
+                "word": "ÇƏKİM",
+                "explanation": "is. 1. çəkmək işi; çəkmə.2. rəqəmlərlə: – bir *** – bir dəfəçəkməyə",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 17
+            },
+            {
+                "word": "ÇƏKMƏ",
+                "explanation": "1. “***k”dən f.is.2. bax botinka. // ümumiyyətlə",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 18
+            },
+            {
+                "word": "ÇİÇƏK",
+                "explanation": "is. 1. bot. çılpaqtoxumlu və örtülütoxumlubitkilərin ləçək tacından və erkəkciklədişicikdən ibarət çoxalma orqanı",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 19
+            },
+            {
+                "word": "ÇİTƏK",
+                "explanation": "is. yamaq",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 20
+            },
+            {
+                "word": "ƏKMƏK",
+                "explanation": "is. çörək. [üçüncü satıcı:] qızarmıştazə ***",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 21
+            },
+            {
+                "word": "ƏTMƏK",
+                "explanation": "is. köhn. çörək. yanmış ***yeməz idin əsla. m.ə.sabir. [birinci işçi:]bunu gördükdə hər insan utanır? bu qabarlarsizə *** qazanır! h",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 22
+            },
+            {
+                "word": "KƏMÇƏ",
+                "explanation": "is. [fars.] bax malakeş 2-cimənada",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 23
+            },
+            {
+                "word": "KƏNƏK",
+                "explanation": "sif. 1. ləpəsi çətin çıxan. ***qoz.2. məc. çətinliklə başa gələn",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 24
+            },
+            {
+                "word": "KİÇİK",
+                "explanation": "sif. 1. həcmcə",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 25
+            },
+            {
+                "word": "MƏKİK",
+                "explanation": "is. 1. tikiş maşınında: altdakı sapınçıxması üçün kəsici alət",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 26
+            },
+            {
+                "word": "MİNİK",
+                "explanation": "is. 1. bir yerə getmək üçün nəqliyyatvasitələrinin birinə minmiş adam. ancaqtək-tük üstüörtülü faytonlar içində ***lərgörünür",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 27
+            },
+            {
+                "word": "TƏKNƏ",
+                "explanation": "is. 1. əsasən xəmir yoğurmaq üçünişlədilən dərin",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 28
+            },
+            {
+                "word": "TƏNƏK",
+                "explanation": "is. üzüm ağacı",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 29
+            },
+            {
+                "word": "TƏTİK",
+                "explanation": "is. odlu silahların atəş açmaq üçünbarmaqla geri çəkilən manivelası. avtomatıntətiyi. tüfəngin tətiyi",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 30
+            },
+            {
+                "word": "TİKMƏ",
+                "explanation": "“***k2”dən f.is.2. is. parça üzərində rəngbərəng saplarlamüxtəlif naxışlar salmaqdan ibarət xalq sənəti",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 31
+            },
+            {
+                "word": "TİMİK",
+                "explanation": "is. məh. bir şeyin iti çıxıntısı",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 32
+            },
+            {
+                "word": "ƏKƏNƏK",
+                "explanation": "is. taxıl əkilmiş yer",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 33
+            },
+            {
+                "word": "ƏKİNÇİ",
+                "explanation": "is. əkin əkib biçməklə (***liklə)məşğul olan adam; cütçü. ***yağış istər",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 34
+            },
+            {
+                "word": "ƏMƏKÇİ",
+                "explanation": "sif. öz əlinin zəhməti ilə dolanan",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 35
+            },
+            {
+                "word": "KƏMÇİK",
+                "explanation": "1. is. çatışmayan hissə",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 36
+            },
+            {
+                "word": "KƏMİNƏ",
+                "explanation": "sif. [fars.] klas. həqir",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 37
+            },
+            {
+                "word": "KƏTMƏN",
+                "explanation": "is. alaq vurmaq",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 38
+            },
+            {
+                "word": "MİKNƏT",
+                "explanation": "is. [ər.] klas. güc",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 39
+            },
+            {
+                "word": "NƏMƏKİ",
+                "explanation": "sif. [fars.] təbiətcə şux",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 40
+            },
+            {
+                "word": "TƏKTƏK",
+                "explanation": "sif. və zərf 1. birbəbir",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 41
+            },
+            {
+                "word": "TƏMKİN",
+                "explanation": "is. [ər.] 1. özünü ələ ala bilməbacarığı",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 42
+            },
+            {
+                "word": "TƏNƏKƏ",
+                "explanation": "is. nazik dəmir təbəqəsi. ***parçası. // ***dən düzəldilmiş. ***vedrə. *** suqabı",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 43
+            },
+            {
+                "word": "TƏNTİK",
+                "explanation": "sif. dan. 1. sadədil",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 44
+            },
+            {
+                "word": "ÇƏKİNTİ",
+                "explanation": "is. papiros",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 45
+            },
+            {
+                "word": "ÇƏKMƏÇİ",
+                "explanation": "is. ayaqqabı tikmək və təmiretməklə məşğul olan adam. ***lərönündə döşlük",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 46
+            },
+            {
+                "word": "ÇİÇƏKÇİ",
+                "explanation": "is. çiçək yetişdirməklə məşğulolan adam",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 47
+            },
+            {
+                "word": "ƏTÇƏKƏN",
+                "explanation": "is. əti xırda-xırda doğramaqüçün maşın",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 48
+            },
+            {
+                "word": "KƏMÇƏNƏ",
+                "explanation": "sif. məh. alt çənəsi gödək.*** quzu",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 49
+            },
+            {
+                "word": "TİKİNTİ",
+                "explanation": "is. 1. bina",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 50
+            },
+            {
+                "word": "TİKMƏÇİ",
+                "explanation": "is. tikmə ustası (bax tikmə22-ci mənada)",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 51
+            },
+            {
+                "word": "TƏNƏKƏÇİ",
+                "explanation": "is. tənəkədən müxtəlif şeylərqayıran usta",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 52
+            },
+            {
+                "word": "KƏTMƏNÇİ",
+                "explanation": "sif. kətmənlə işləyən adam",
+                "isPanagram": true,
+                "score": 17,
+                "length": 8,
+                "id": 53
+            },
+            {
+                "word": "MİÇƏTKƏN",
+                "explanation": "is. ağcaqanad",
+                "isPanagram": true,
+                "score": 17,
+                "length": 8,
+                "id": 54
+            }
+        ]
+    }
+}

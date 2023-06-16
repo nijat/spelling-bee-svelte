@@ -1,0 +1,629 @@
+{
+    "gameData": {
+        "day": "20230611",
+        "expiration": "1686527940",
+        "centerLetter": "Ə",
+        "outerLetters": [
+            "B",
+            "R",
+            "İ",
+            "S",
+            "H",
+            "Z"
+        ],
+        "words_info": {
+            "word_count": 75,
+            "sum_score": 282,
+            "panagram_count": 1,
+            "word_length": {
+                "4": 32,
+                "5": 31,
+                "8": 6,
+                "7": 2,
+                "6": 4
+            }
+        },
+        "words": [
+            {
+                "word": "BƏBƏ",
+                "explanation": "is. 1. körpə uşaq",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "BƏBR",
+                "explanation": "is. [fars.] məməli heyvanların yırtıcılar dəstəsinə mənsub pələngəoxşar heyvan. vəhşi heyvanlardan lənkəran sahəsində bəbir və respublikamızın meşələr",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "BƏHR",
+                "explanation": "is. [ər.] vəzn (şeirdə",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "BƏHS",
+                "explanation": "is. [ər.] 1. bir şey haqqında ətraflıdanışma",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "BƏRƏ",
+                "explanation": "is. 1. böyük çayların üstündə qurulanmütəhərrik körpü",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 5
+            },
+            {
+                "word": "BƏZİ",
+                "explanation": "əvəz. [ər.] hamısı yox",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 6
+            },
+            {
+                "word": "BƏZR",
+                "explanation": "is. [ər.] 1. toxum əkiləcək dən.2. kətan toxumu. // kətan toxumu yağı",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 7
+            },
+            {
+                "word": "BİRƏ",
+                "explanation": "is. insan və heyvanları sancıb əziyyət verən çox sıçraq cücü. köhnə məscid hücrələrində *** əlindən tərpənmək olmazdı",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 8
+            },
+            {
+                "word": "ƏBƏS",
+                "explanation": "sif. [ər.] 1. nahaq",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 9
+            },
+            {
+                "word": "ƏBİR",
+                "explanation": "is. [ər.] klas. bax ənbər. gülzarəhava *** tökdü; səhrayə qübari-mişk çökdü.füzuli",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 10
+            },
+            {
+                "word": "ƏRƏR",
+                "explanation": "is. [ər.] ardıc ağacı. qəddintəknə ər-ər",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 11
+            },
+            {
+                "word": "ƏRƏB",
+                "explanation": "is. 1. ön asiyada və şimali afrikadayaşayan",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 12
+            },
+            {
+                "word": "ƏRRƏ",
+                "explanation": "is. [fars.] ikidəstəli iri mişar",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 13
+            },
+            {
+                "word": "ƏRSƏ",
+                "explanation": "is. [ər.] 1. meydan",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 14
+            },
+            {
+                "word": "ƏSBƏ",
+                "explanation": "is. qızdırma ilə başlayıb",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 15
+            },
+            {
+                "word": "ƏSƏB",
+                "explanation": "is. [ər.] anat. fiziol. 1. insan",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 16
+            },
+            {
+                "word": "ƏSƏR",
+                "explanation": "is. [ər.] 1. iz",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 17
+            },
+            {
+                "word": "ƏSİR",
+                "explanation": "is. [ər.] 1. müharibədə ələ keçirilən düşmən əsgəri",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 18
+            },
+            {
+                "word": "ƏSRİ",
+                "explanation": "sif. müasir",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 19
+            },
+            {
+                "word": "ƏZİZ",
+                "explanation": "sif. [ər.] 1. sevimli",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 20
+            },
+            {
+                "word": "HƏBS",
+                "explanation": "is. [ər.] 1. dustağasalma (salınma)",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 21
+            },
+            {
+                "word": "HƏRB",
+                "explanation": "is. [ər.] müharibə",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 22
+            },
+            {
+                "word": "HƏRƏ",
+                "explanation": "əvəz. toplu halında olan adamlardanhər biri; hər kəs. *** bir söz deyir.*** bir tərəfə getdi. ***nin öz fikri var",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 23
+            },
+            {
+                "word": "HƏSR",
+                "explanation": "is. [ər.] : *** etmək – yalnız bir işə",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 24
+            },
+            {
+                "word": "HƏZZ",
+                "explanation": "is. [ər.] xoş bir şeydən duyulanləzzət",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 25
+            },
+            {
+                "word": "RƏBB",
+                "explanation": "is. ər. allah",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 26
+            },
+            {
+                "word": "RƏİS",
+                "explanation": "is. [ər.] idarə edən",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 27
+            },
+            {
+                "word": "RƏZƏ",
+                "explanation": "is. dan. cəftə. ***ni bağlamaq. –qəsrin qalın taxta qapısı ***sindən qopubayaq altına düşmüşdü. m",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 28
+            },
+            {
+                "word": "RİZƏ",
+                "explanation": "is. [fars.] tikə",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 29
+            },
+            {
+                "word": "SƏBİ",
+                "explanation": "is. [ər.] 1. məğlub edilmiş tərəfdənəsir tutulub satılan adam.2. həddi-büluğa çatmamış oğlan; gənc",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 30
+            },
+            {
+                "word": "ZƏRB",
+                "explanation": "is. [ər.] 1. vurma",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 31
+            },
+            {
+                "word": "ZİRƏ",
+                "explanation": "is. bot. çətirçiçəklilər fəsiləsindəniki və ya çoxillik ot cinsi və həmin bitkininədviyyat kimi xəmirə və s",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 32
+            },
+            {
+                "word": "BƏBİR",
+                "explanation": "is. [fars.] məməli heyvanların yırtıcılar dəstəsinə mənsub pələngəoxşar heyvan. vəhşi heyvanlardan lənkəran sahəsində *** və respublikamızın meşələr",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 33
+            },
+            {
+                "word": "BƏHƏR",
+                "explanation": "is. [fars.] 1. meyvə",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 34
+            },
+            {
+                "word": "BƏHRƏ",
+                "explanation": "is. 1. bax bəhər. …heydərqulu***ni tamam alıb",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 35
+            },
+            {
+                "word": "BƏHRİ",
+                "explanation": "sif. [ər.] köhn. dənizə",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 36
+            },
+            {
+                "word": "BİBƏR",
+                "explanation": "is. dadı acı",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 37
+            },
+            {
+                "word": "ƏRƏBİ",
+                "explanation": "sif. [ər.] ərəbcə; ərəb dilinə vəxalqına mənsub; ərəb üslubunda",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 38
+            },
+            {
+                "word": "ƏRİZƏ",
+                "explanation": "is. [ər.] rəs. bir arzu və ya xahişifadə edən məktub",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 39
+            },
+            {
+                "word": "ƏRSİZ",
+                "explanation": "sif. əri olmayan",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 40
+            },
+            {
+                "word": "ƏSƏBİ",
+                "explanation": "sif. [ər.] 1. sinirləri son dərəcəhəssas olduğu üçün cüzi bir şeydən çox tez***ləşən",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 41
+            },
+            {
+                "word": "ƏZBƏR",
+                "explanation": "1. is. bir mətni və ya sözü eyniilə təkrar edilə biləcək şəkildə yadda",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 42
+            },
+            {
+                "word": "HƏBİB",
+                "explanation": "is. [ər.] klas. sevgili",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 43
+            },
+            {
+                "word": "HƏRBƏ",
+                "explanation": "is. [ər.] köhn. 1. qısa süngü",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 44
+            },
+            {
+                "word": "HƏRBİ",
+                "explanation": "sif. [ər.] 1. hərbə",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 45
+            },
+            {
+                "word": "HƏRİS",
+                "explanation": "sif. və zərf [ər.] bir şeyə həddindənartıq can atan",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 46
+            },
+            {
+                "word": "HƏRZƏ",
+                "explanation": "[ər.] 1. is. mənasız söz",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 47
+            },
+            {
+                "word": "HƏSİR",
+                "explanation": "is. [ər.] bəzi ağacların liflərindən",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 48
+            },
+            {
+                "word": "HƏZƏR",
+                "explanation": "is. [ər.] saqınma",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 49
+            },
+            {
+                "word": "HİSSƏ",
+                "explanation": "is. [ər.] 1. tamın bölündüyü parçalardanhər biri; qisim. binanın bir ***si.çayın aşağı ***si. – şirvan şimaliazərbaycanın bir ***sidir",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 50
+            },
+            {
+                "word": "SƏBƏB",
+                "explanation": "is. [ər.] 1. bir şeyin",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 51
+            },
+            {
+                "word": "SƏBİR",
+                "explanation": "is. asqırma",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 52
+            },
+            {
+                "word": "SƏBZƏ",
+                "explanation": "is. [fars.] 1. əla kişmiş növü. süfrədətut qurusu",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 53
+            },
+            {
+                "word": "SƏBZİ",
+                "explanation": "is. 1. göyərti. yeməklər yenə dədüyü",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 54
+            },
+            {
+                "word": "SƏHƏR",
+                "explanation": "is. [ər.] günün başlanğıcı",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 55
+            },
+            {
+                "word": "SƏHİH",
+                "explanation": "sif. [ər.] düzgün",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 56
+            },
+            {
+                "word": "SƏRİH",
+                "explanation": "sif. [ər.] 1. açıqdan-açığa",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 57
+            },
+            {
+                "word": "ZƏBƏR",
+                "explanation": "is. [fars.] ərəb (fars) əlifbasında“ə” səsini bildirmək üçün samitlərin üzərinəqoyulan ",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 58
+            },
+            {
+                "word": "ZƏHƏR",
+                "explanation": "is. [fars.] 1. canlı orqanizmi ***ləndirə bilən maddə; ağı. ilan ***i. öldürücü ***. *** vermək (***ləmək)",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 59
+            },
+            {
+                "word": "ZƏHİR",
+                "explanation": "is. [ər.] köhn. yardımçı",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 60
+            },
+            {
+                "word": "ZƏRBƏ",
+                "explanation": "is. [ər.] 1. qolaylayaraq bir şeylə şiddətlə vurma; vuruş. yumruq ***si. balta ***si. *** səsi",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 61
+            },
+            {
+                "word": "ZƏRƏR",
+                "explanation": "is. [ər.] ziyan. bunun xeyri var ki",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 62
+            },
+            {
+                "word": "ZƏRRƏ",
+                "explanation": "is. [ər.] bir şeyin ən kiçik hissəsi. [qəhrəman:] kənarda şiddətlə əsən qış ruzgarı birqat pəncərələri yumruqlayır",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 63
+            },
+            {
+                "word": "RƏHBƏR",
+                "explanation": "is. [fars.] 1. hər hansı bir ictimaihərəkatın",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 64
+            },
+            {
+                "word": "SƏRSƏR",
+                "explanation": "is. [ər.] güclü və soyuq külək",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 65
+            },
+            {
+                "word": "SƏSSİZ",
+                "explanation": "sif. və zərf 1. səs çıxarmayan",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 66
+            },
+            {
+                "word": "ZƏRZƏR",
+                "explanation": "is. [fars.] zərlə toxunmuş parça",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 67
+            },
+            {
+                "word": "ƏSƏRSİZ",
+                "explanation": "sif. 1. təsirsiz",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 68
+            },
+            {
+                "word": "SƏRSƏRİ",
+                "explanation": "sif. [fars.] 1. işi-gücü və müəyyənyeri olmayıb orada-burada dolaşan",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 69
+            },
+            {
+                "word": "RİZƏRİZƏ",
+                "explanation": "sif. və zərf parça-parça",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 70
+            },
+            {
+                "word": "SƏBƏBSİZ",
+                "explanation": "sif. və zərf heç bir səbəb olmadan",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 71
+            },
+            {
+                "word": "SƏBİRSİZ",
+                "explanation": "1. sif. səbri olmayan",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 72
+            },
+            {
+                "word": "ZƏHƏRSİZ",
+                "explanation": "sif. zəhəri olmayan",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 73
+            },
+            {
+                "word": "ZƏRƏRSİZ",
+                "explanation": "sif. zərəri toxunmayan",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 74
+            },
+            {
+                "word": "BƏHƏRSİZ",
+                "explanation": "sif. 1. meyvəsiz",
+                "isPanagram": true,
+                "score": 17,
+                "length": 8,
+                "id": 75
+            }
+        ]
+    }
+}

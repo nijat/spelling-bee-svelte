@@ -1,0 +1,239 @@
+{
+    "gameData": {
+        "day": "20240202",
+        "expiration": "1706918340",
+        "centerLetter": "U",
+        "outerLetters": [
+            "Ğ",
+            "D",
+            "Q",
+            "R",
+            "A",
+            "C"
+        ],
+        "words_info": {
+            "word_count": 26,
+            "sum_score": 130,
+            "panagram_count": 1,
+            "word_length": {
+                "9": 1,
+                "4": 8,
+                "7": 1,
+                "5": 8,
+                "8": 3,
+                "6": 4,
+                "10": 1
+            }
+        },
+        "words": [
+            {
+                "word": "CADU",
+                "explanation": "is. [fars.] 1. sehr",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "DUDA",
+                "explanation": "is. [fars.] neft",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "DURU",
+                "explanation": "sif. 1. maye halında olan",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "QUDA",
+                "explanation": "is. gəlin ilə oğlanın ata-analarınınbir-birinə olan qohumluq münasibəti. iki*** ötə-bəridən məhəbbətlə danışdılar",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "QURD",
+                "explanation": "is. canavar. düşdü qəzadan ora***un yolu; baxdı ki",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 5
+            },
+            {
+                "word": "QURU",
+                "explanation": "sif. 1. yaş olmayan",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 6
+            },
+            {
+                "word": "UĞUR",
+                "explanation": "is. bəxt",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 7
+            },
+            {
+                "word": "URUQ",
+                "explanation": "is. ailə. uruğum olsun",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 8
+            },
+            {
+                "word": "DURAQ",
+                "explanation": "is. duracaq",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 9
+            },
+            {
+                "word": "DURĞU",
+                "explanation": "is. dayanma",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 10
+            },
+            {
+                "word": "QUCAQ",
+                "explanation": "is. 1. qolları açdıqda döş ilə qollar arasında əmələ gələn boşluq. bayram aşağı əyildi",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 11
+            },
+            {
+                "word": "QUQQU",
+                "explanation": "is. zool. adətən özünə yuva tikməyib",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 12
+            },
+            {
+                "word": "QURAQ",
+                "explanation": "sif. və zərf yağmursuz",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 13
+            },
+            {
+                "word": "QURĞU",
+                "explanation": "is. bir yerdə qurulmuş mexanizm",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 14
+            },
+            {
+                "word": "UCQAR",
+                "explanation": "is. bir yerin ən uzaq hissəsi",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 15
+            },
+            {
+                "word": "UDUCU",
+                "explanation": "sif. və is. xüs. buğu",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 16
+            },
+            {
+                "word": "QUQURD",
+                "explanation": "is. məh. açılmamış qızılgül;qönçə",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 17
+            },
+            {
+                "word": "QURQUR",
+                "explanation": "is. dan. içinə giləli meyvəyığmaq üçün ağac qabığından qayrılanboruşəkilli qab. uşaqlar qur-qurda çiyələkgətirmişdilər",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 18
+            },
+            {
+                "word": "QURUCA",
+                "explanation": "sif. çox quru",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 19
+            },
+            {
+                "word": "QURUCU",
+                "explanation": "1. is. quran",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 20
+            },
+            {
+                "word": "DURACAQ",
+                "explanation": "is. 1. nəqliyyat vasitələrinindayanacaq yeri; duraq. biz gəlib duracağaçatdıq. avtobus duracağı. – yol üzərindəbulunan ***ların birində bir qəd",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 21
+            },
+            {
+                "word": "QARAQURA",
+                "explanation": "is. 1. qarabasma. [əhməd:]ay oğlum",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 22
+            },
+            {
+                "word": "QARAQURD",
+                "explanation": "is. zool. qabıqlı böcək cinsindənolub",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 23
+            },
+            {
+                "word": "QURUDUCU",
+                "explanation": "1. sif. bir şeyi qurutmaqüçün işlənən. *** cihazlar. bitkilər*** şkaflarda qurudulur. – …xüsusi*** sex yaradılmışdır ki",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 24
+            },
+            {
+                "word": "QURDUQURDU",
+                "explanation": "is. dan. həyəcan",
+                "isPanagram": false,
+                "score": 10,
+                "length": 10,
+                "id": 25
+            },
+            {
+                "word": "AĞACQURDU",
+                "explanation": "is. zool. ağacların içərisindəyaşayan zərərverici (cücü)",
+                "isPanagram": true,
+                "score": 17,
+                "length": 9,
+                "id": 26
+            }
+        ]
+    }
+}

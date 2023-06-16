@@ -1,0 +1,317 @@
+{
+    "gameData": {
+        "day": "20230803",
+        "expiration": "1691107140",
+        "centerLetter": "İ",
+        "outerLetters": [
+            "T",
+            "A",
+            "F",
+            "N",
+            "S",
+            "Ə"
+        ],
+        "words_info": {
+            "word_count": 36,
+            "sum_score": 161,
+            "panagram_count": 1,
+            "word_length": {
+                "7": 4,
+                "4": 12,
+                "5": 14,
+                "8": 3,
+                "6": 3
+            }
+        },
+        "words": [
+            {
+                "word": "ƏNİN",
+                "explanation": "is. [ər.] şair. inləmə",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "ƏNİS",
+                "explanation": "is. [ər.] şair. yaxın dost",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "FANİ",
+                "explanation": "sif. [ər.] həmişəlik olmayan",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "FİTƏ",
+                "explanation": "is. [ər.] hamamda çimərkən və yabir iş görərkən belə bağlanılan qumaş parça(əsasən qırmızı rəngdə olur)",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "NİSF",
+                "explanation": "is. [ər.] yarı",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 5
+            },
+            {
+                "word": "SAİT",
+                "explanation": "sif. [ər.] dilç. hava axınının ağız boşluğundanheç bir maneəyə rast gəlmədənkeçməsi yolu ilə əmələ gələn (səslər haqqında)",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 6
+            },
+            {
+                "word": "SANİ",
+                "explanation": "sif. [ər.] ikinci",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 7
+            },
+            {
+                "word": "SİAN",
+                "explanation": "is. kəskin iyli",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 8
+            },
+            {
+                "word": "SİNƏ",
+                "explanation": "is. [fars.] 1. döş",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 9
+            },
+            {
+                "word": "SİNİ",
+                "explanation": "is. misdən",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 10
+            },
+            {
+                "word": "SİNN",
+                "explanation": "is. [ər.] yaş. xudayar bəyin ancaqotuz yeddi-otuz səkkiz ***i olar",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 11
+            },
+            {
+                "word": "TİTƏ",
+                "explanation": "is. bəzi adamların göz bəbəyindəolan ağ ləkə",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 12
+            },
+            {
+                "word": "ƏSASİ",
+                "explanation": "sif. [ər.] köhn. bax əsas 2-ci mənada.*** cəhətlər. – həyat *** birdəyişikliyə uğrayınca ədəbiyyat büsbütünbaşını itirdi",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 13
+            },
+            {
+                "word": "FİTNƏ",
+                "explanation": "is. [ər.] 1. qarışıqlıq",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 14
+            },
+            {
+                "word": "NƏFİS",
+                "explanation": "is. [ər.] son dərəcə zərif",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 15
+            },
+            {
+                "word": "NƏNNİ",
+                "explanation": "is. 1. körpə uşaqları yatırtmaq üçünasılan kiçik yatacaq. [qumru] uşağı ***yəsalıb küncə qısıldı",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 16
+            },
+            {
+                "word": "NİNNİ",
+                "explanation": "is. layla",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 17
+            },
+            {
+                "word": "SATİN",
+                "explanation": "[fr.] möhkəm parlaq pambıq parça.// ***dən tikilmiş. *** köynək. *** tuman",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 18
+            },
+            {
+                "word": "SİFƏT",
+                "explanation": "is. [ər.] qram. əşyanın əlamətvə ya keyfiyyətini bildirən nitq hissəsi. sadə***. mürəkkəb ***. ***in müqayisə dərəcəsi",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 19
+            },
+            {
+                "word": "SİFTƏ",
+                "explanation": "1. sif. və zərf qabaqca",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 20
+            },
+            {
+                "word": "SİNFİ",
+                "explanation": "sif. müəyyən bir sinfə",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 21
+            },
+            {
+                "word": "SİNİF",
+                "explanation": "is. [ər.] 1. elmi və digər təsnifatda:a) biol. bitki və heyvanların təsnifatında böyükbölmələrdən (şöbələrdən) biri",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 22
+            },
+            {
+                "word": "SİTAT",
+                "explanation": "[lat. citatum] olduğu kimi",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 23
+            },
+            {
+                "word": "TANİN",
+                "explanation": "is. [fr.] dəri aşılanmasında",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 24
+            },
+            {
+                "word": "TƏSİS",
+                "explanation": "is. [ər.] əsasını",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 25
+            },
+            {
+                "word": "TİNƏT",
+                "explanation": "is. [ər.] klas. xilqət",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 26
+            },
+            {
+                "word": "SƏFİNƏ",
+                "explanation": "is. [ər.] köhn. 1. gəmi.2. cüng",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 27
+            },
+            {
+                "word": "SİSTİT",
+                "explanation": "is. [yun.] sidik kisəsinin iltihabıxəstəliyi",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 28
+            },
+            {
+                "word": "TƏSNİF",
+                "explanation": "is. [ər.] mus. dəsgah şöbələri arasındaəvvəlkinə nəhayət vermək sonrakınakeçmək üçün ifa olunan mahnı formasına bənzərdəqiq və sabit ölçülü nəğmə",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 29
+            },
+            {
+                "word": "ATSİFƏT",
+                "explanation": "sif. dan. sifəti çox yekə vəuzun. jandarmların yanında dayanmış qoca*** bir arvad … bu qadınları axtarmağabaşladı",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 30
+            },
+            {
+                "word": "NƏFSANİ",
+                "explanation": "sif. [ər.] ehtirasa",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 31
+            },
+            {
+                "word": "TƏSİSAT",
+                "explanation": "is. [ər. “təsis” söz. cəmi] kit.1. qurulmuş",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 32
+            },
+            {
+                "word": "TİTANİT",
+                "explanation": "is. [yun.] şəffaf növləri yarımqiymətlidaş olan mineral",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 33
+            },
+            {
+                "word": "NİSTATİN",
+                "explanation": "is. [lat.] antibiotiklər qrupundandərman preparatı",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 34
+            },
+            {
+                "word": "STANİTSA",
+                "explanation": "is. [rus.] kənd tipli yaşayışməntəqəsi",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 35
+            },
+            {
+                "word": "TƏSNİFAT",
+                "explanation": "is. [ər. “təsnif” söz. cəmi] hərhansı eynicinsli şeylərin və ya anlayışlarınmüəyyən ümumi əlamətlərə görə siniflərə",
+                "isPanagram": true,
+                "score": 17,
+                "length": 8,
+                "id": 36
+            }
+        ]
+    }
+}

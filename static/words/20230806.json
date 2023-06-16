@@ -1,0 +1,470 @@
+{
+    "gameData": {
+        "day": "20230806",
+        "expiration": "1691366340",
+        "centerLetter": "Ş",
+        "outerLetters": [
+            "A",
+            "D",
+            "Q",
+            "M",
+            "I",
+            "L"
+        ],
+        "words_info": {
+            "word_count": 55,
+            "sum_score": 312,
+            "panagram_count": 1,
+            "word_length": {
+                "4": 8,
+                "7": 6,
+                "5": 17,
+                "6": 14,
+                "9": 4,
+                "8": 6
+            }
+        },
+        "words": [
+            {
+                "word": "ADAŞ",
+                "explanation": "is. adları eyni olan adamlar. o mənimlə***dır. ***lar gəldilər. – dodaqlarındakövrək təbəssüm",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "ALAŞ",
+                "explanation": "is. bax ala1 1-ci mənada",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "ALIŞ",
+                "explanation": "f.is. almaq işi",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "AŞIQ",
+                "explanation": "is. 1. anat. diz qapaqlarından çıxanoynaq sümüyü. // uşaqların ***-*** oyunundaişlətdikləri həmin (adətən qoyunlarındiz qapağından çıxarılan) süm",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "AŞLI",
+                "explanation": "sif. aşa qoyulmuş. *** gön. ***dəri. – aşıq abbas *** çarıqlarını yerə sürtəsürtəmərəkəni süzür",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 5
+            },
+            {
+                "word": "MAAŞ",
+                "explanation": "is. [ər.] əmək",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 6
+            },
+            {
+                "word": "MAŞA",
+                "explanation": "is. ocaqdan od və ya qızmar bir şeyigötürmək üçün metal alət. vaqif arabir buxarını*** ilə qurdalayırdı",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 7
+            },
+            {
+                "word": "ŞLAM",
+                "explanation": "is. [alm.] qiymətli hissələrindənistifadə etmək üçün xırdalanan filiz və yakömür",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 8
+            },
+            {
+                "word": "ALAŞA",
+                "explanation": "is. arıq at; yabı. [qardaşı:] [sadıqkişi]",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 9
+            },
+            {
+                "word": "ALQIŞ",
+                "explanation": "is. 1. birini təbrik üçün və ya birşeyi bəyənmə ifadəsi olaraq əl çalma.sürəkli ***lar. gurultulu ***lar",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 10
+            },
+            {
+                "word": "AŞQAL",
+                "explanation": "sif. məh. arıq",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 11
+            },
+            {
+                "word": "AŞLIQ",
+                "explanation": "sif. aş üçün",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 12
+            },
+            {
+                "word": "DADAŞ",
+                "explanation": "is. kiçik qardaş və bacıların böyükqardaşa verdikləri ad; böyük qardaşa müraciət.bir gün gəldim",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 13
+            },
+            {
+                "word": "DAŞIQ",
+                "explanation": "sif. məh. daşınacaq",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 14
+            },
+            {
+                "word": "DAŞLI",
+                "explanation": "sif. 1. daşı olan",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 15
+            },
+            {
+                "word": "DAŞMA",
+                "explanation": "“***q”dan f.is. çayın ***sı.samovarın ***sı",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 16
+            },
+            {
+                "word": "QALIŞ",
+                "explanation": "is. qalma; qalmaq işi. əsli xanımköçdü getdi elindən; mənim burda ***ımanə deyim? aşıq kərəm",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 17
+            },
+            {
+                "word": "QAMIŞ",
+                "explanation": "is. 1. sulaq yerlərdə bitən uzun",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 18
+            },
+            {
+                "word": "QAŞIQ",
+                "explanation": "is. 1. duru",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 19
+            },
+            {
+                "word": "QAŞQA",
+                "explanation": "is. 1. ümumiyyətlə",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 20
+            },
+            {
+                "word": "QAŞLI",
+                "explanation": "sif. qaşı olan. bax qaş 2 və 3-cümənalarda. *** üzük. *** yəhər. – səadətxanım gülnazı … laləzara apardı",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 21
+            },
+            {
+                "word": "QIŞLA",
+                "explanation": "is. 1. əsgəri hissələri yerləşdirməküçün böyük bina; qazarma. şəhərə buraxılanqoşun dəstələri bu gün öz ***larınaçəkilmişdi",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 22
+            },
+            {
+                "word": "ŞAQQA",
+                "explanation": "is. ikiyə parçalanmış cəmdək.[fərhad:] bir qoyunun da ***sını yeməkolarmı? ə.haqverdiyev. tahirzadənin ilk işio oldu ki",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 23
+            },
+            {
+                "word": "ŞALAQ",
+                "explanation": "is. məh. 1. iri",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 24
+            },
+            {
+                "word": "ŞALLI",
+                "explanation": "sif. başına şal örtmüş",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 25
+            },
+            {
+                "word": "ALIŞIQ",
+                "explanation": "is. ocağı alışdırmaq üçün gözünə",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 26
+            },
+            {
+                "word": "DAMDAŞ",
+                "explanation": "is. tikili",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 27
+            },
+            {
+                "word": "DAŞLIQ",
+                "explanation": "is. daş çox olan yer",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 28
+            },
+            {
+                "word": "QAŞDAŞ",
+                "explanation": "is. qiymətli daşlar: qızıl və cavahirat.[gültəkin:] mənim üçün nə paltarın",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 29
+            },
+            {
+                "word": "QAŞQAL",
+                "explanation": "is. məh. xır bağlanan zaman",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 30
+            },
+            {
+                "word": "QIŞLAQ",
+                "explanation": "is. qoyun və başqa ev heyvanlarınıngətirilib saxlandığı mötədil havalı vəotlaqlı qışlama yeri. heyvanlar yaylaqdanqışlağa köçdü",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 31
+            },
+            {
+                "word": "QIŞLIQ",
+                "explanation": "sif. qışa",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 32
+            },
+            {
+                "word": "MAAŞLI",
+                "explanation": "sif. 1. maaş alan",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 33
+            },
+            {
+                "word": "MAQQAŞ",
+                "explanation": "is. [ər.] 1. çox xırda şeyləri tutubgötürmək",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 34
+            },
+            {
+                "word": "ŞADLIQ",
+                "explanation": "is. sevinc",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 35
+            },
+            {
+                "word": "ŞAMAMA",
+                "explanation": "is. [ər.] çox ətirli və şirin",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 36
+            },
+            {
+                "word": "ŞAMLIQ",
+                "explanation": "is. çoxlu şam ağacı bitən yer",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 37
+            },
+            {
+                "word": "ŞIQLIQ",
+                "explanation": "is. zəriflik",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 38
+            },
+            {
+                "word": "ŞILLAQ",
+                "explanation": "is. ayaqla vurma",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 39
+            },
+            {
+                "word": "ADAŞLIQ",
+                "explanation": "is. iki və ya bir neçə adamıneyni adda olması",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 40
+            },
+            {
+                "word": "AŞIQLIQ",
+                "explanation": "is. dizin aşıq sümüyü gizləndiyiyeri. qoyunun aşıqlığı sınıb",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 41
+            },
+            {
+                "word": "DALAŞMA",
+                "explanation": "“***q”dan f.is. xanpəriilə mədədin *** hadisəsi gülşəninürəyini bərk əzdi. ə.vəliyev",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 42
+            },
+            {
+                "word": "QAMAŞIQ",
+                "explanation": "sif. qamaşmış halda olan (gözvə diş haqqında)",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 43
+            },
+            {
+                "word": "QIMIŞIQ",
+                "explanation": "is. dan. təbəssüm",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 44
+            },
+            {
+                "word": "ŞAQQALI",
+                "explanation": "sif. enlikürək",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 45
+            },
+            {
+                "word": "AŞIQAŞIQ",
+                "explanation": "is. aşıqla oynanılan uşaqoyunu. aşıq-aşıq oynamaq",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 46
+            },
+            {
+                "word": "DAŞQAŞLI",
+                "explanation": "sif. qiymətli daşlarla",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 47
+            },
+            {
+                "word": "DAŞQALAQ",
+                "explanation": "is. tar. keçmişdə müttəhimidaşa basmaqla",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 48
+            },
+            {
+                "word": "QAMIŞLIQ",
+                "explanation": "is. çoxlu qamış bitən yer.[heydər bəy:] …gərək qıraqdan uzaqlaşaq",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 49
+            },
+            {
+                "word": "QAŞIQAŞI",
+                "explanation": "is. qaşıq ilə yeyilən duru xörək",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 50
+            },
+            {
+                "word": "ALIŞMALIQ",
+                "explanation": "sif. məh. alışma üçün qoyulan",
+                "isPanagram": false,
+                "score": 9,
+                "length": 9,
+                "id": 51
+            },
+            {
+                "word": "ALLIŞALLI",
+                "explanation": "sif. məh. al-əlvan. pətəklərdənvə bağçada qoyulan qırmızı rəngliyeşiklərdən arılar dəstə-dəstə çıxır",
+                "isPanagram": false,
+                "score": 9,
+                "length": 9,
+                "id": 52
+            },
+            {
+                "word": "QAŞQALDAQ",
+                "explanation": "is. zool. əti yeyilən qararəngli",
+                "isPanagram": false,
+                "score": 9,
+                "length": 9,
+                "id": 53
+            },
+            {
+                "word": "ŞAQQILDAQ",
+                "explanation": "is. 1. şaqqıltı səsi çıxaranuşaq oyuncağı; şaxşax. // probka gülləatanuşaq tapançası.2. ritmik səs yaratmaq üçün zərbli musiqialəti",
+                "isPanagram": false,
+                "score": 9,
+                "length": 9,
+                "id": 54
+            },
+            {
+                "word": "DAŞMALIQ",
+                "explanation": "sif. aşp. daşma2 bişirməküçün yararlı. *** düyü",
+                "isPanagram": true,
+                "score": 17,
+                "length": 8,
+                "id": 55
+            }
+        ]
+    }
+}

@@ -1,0 +1,262 @@
+{
+    "gameData": {
+        "day": "20230725",
+        "expiration": "1690329540",
+        "centerLetter": "A",
+        "outerLetters": [
+            "R",
+            "İ",
+            "Ç",
+            "Q",
+            "Ə",
+            "T"
+        ],
+        "words_info": {
+            "word_count": 29,
+            "sum_score": 132,
+            "panagram_count": 1,
+            "word_length": {
+                "4": 10,
+                "5": 10,
+                "6": 4,
+                "7": 3,
+                "8": 1,
+                "10": 1
+            }
+        },
+        "words": [
+            {
+                "word": "AÇAR",
+                "explanation": "is. 1. qıfılı açmaq və ya bağlamaqaləti. qapı ***ı. stolun ***ı. şkaf ***ı.– sən də açılmamış bir dəfinəsən; ***ıqeyb olan bir xəzinəsən",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "ARAQ",
+                "explanation": "is. [ər.] 1. meyvədən və s.-dənçəkilən spirtli içki. tut arağı. zoğal arağı.*** çəkmək. – ərəqlə badədir ol iki cövhər;ki",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "ARAT",
+                "explanation": "is. k.t. şumlanıb sulanmış",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "ATAT",
+                "explanation": "is. uşaqların ağac üstə minərəkoynadıqları oyun. at-at oynamaq",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "ÇARƏ",
+                "explanation": "is. [fars.] 1. bir şeyin əldə edilməsinə",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 5
+            },
+            {
+                "word": "ƏRAQ",
+                "explanation": "is. [xüs. is.-dən] mus. 1. azərbaycanklassik muğamlarından birinin adı. 12əsas muğam bunlar idi: üşşaq",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 6
+            },
+            {
+                "word": "QARA",
+                "explanation": "is. yer kürəsinin torpaqla örtülühissəsi; torpaq (su qarşılığı). ***da və suda.*** qüvvələri",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 7
+            },
+            {
+                "word": "QART",
+                "explanation": "is. dan. kəsər alətləri itiləmək üçün daş; bülöv. dəryazları *** ilə itiləmək. *** daşı. mən də *** daşlara verdiyim bu hiss; bu incə mənadan necə",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 8
+            },
+            {
+                "word": "QƏTA",
+                "explanation": "[ər.] köhn. bax qətiyyən. ahim etməz heç əsər *** sənə. əmani. məhəmməd həsən əmi dünya malına əsla və *** talib deyil… c",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 9
+            },
+            {
+                "word": "RAQA",
+                "explanation": "is. [sanskr.] mus. qədim hind klassikmusiqisi növlərindən biri",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 10
+            },
+            {
+                "word": "AQRAR",
+                "explanation": "sif. [lat.] 1. torpağa aid olan. ***məsələ. *** islahatı.2. kənd təsərrüfatının sənayedən yüksəkolması ilə səciyyələnən",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 11
+            },
+            {
+                "word": "ÇATAQ",
+                "explanation": "1. bax çarpaz 1-ci mənada.2. sif. yapışıq",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 12
+            },
+            {
+                "word": "ƏTTAR",
+                "explanation": "is. [ər.] köhn. 1. ətirli şeylər",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 13
+            },
+            {
+                "word": "QAÇAQ",
+                "explanation": "is. 1. çarlıq dövründə: hökumətinzülm və ədalətsizliyinə dözməyərək",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 14
+            },
+            {
+                "word": "QARƏT",
+                "explanation": "is. [ər.] bir ölkəni",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 15
+            },
+            {
+                "word": "QATAR",
+                "explanation": "is. 1. bir-birinin ardınca sıralanmış heyvanlar düzümü; qafilə",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 16
+            },
+            {
+                "word": "QƏRAR",
+                "explanation": "is. [ər.] durma",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 17
+            },
+            {
+                "word": "QƏTAR",
+                "explanation": "[ər.] bax qatar1. nalan qəmi-eşqi-yardansan; sən dəxi bizim ***dansan. füzuli",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 18
+            },
+            {
+                "word": "TAQƏT",
+                "explanation": "is. [ər.] güc",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 19
+            },
+            {
+                "word": "TATAR",
+                "explanation": "is. 1. ***ıstanın əsas əhalisinitəşkil edən türkdilli xalq və bu xalqa mənsubadam.2. volqaboyunda",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 20
+            },
+            {
+                "word": "AQRARİ",
+                "explanation": "[lat.] 1. iri torpaq sahibi",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 21
+            },
+            {
+                "word": "ÇAQÇAQ",
+                "explanation": "is. keçmişdə: evlərin həyətqapısında qapını döymək üçün dəmir toxmaqcıq.çaq-çaqla qapını döymək. – qapınınbaşında şir şəkli",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 22
+            },
+            {
+                "word": "ÇARQAT",
+                "explanation": "is. köhn. böyük baş yaylığı. səbaxanım bu sözləri dedikdən sonra ipək ***ınıkənara ataraq boynundakı yara yerlərinigöstərdi",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 23
+            },
+            {
+                "word": "QİRAƏT",
+                "explanation": "is. [ər.] müəyyən üsul və qayda ilə oxuma. *** dərsi. – …axşam vaxtı oraya adamlar cəm olub",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 24
+            },
+            {
+                "word": "QAÇAQAÇ",
+                "explanation": "sif. bir təhlükə üzündən",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 25
+            },
+            {
+                "word": "QARQARA",
+                "explanation": "is. xüs. ağır şeyləri qaldırmaqüçün yüksəkdə mil üstündə dolanan vəüzərindən ip sallanan çarx. // ümumiyyətlə",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 26
+            },
+            {
+                "word": "TARAQQA",
+                "explanation": "is. içi barıtla doldurulmuş kağızdandüzələn partlayıcı fişəng (atəşbazlıqdaəyləncə üçün işlənir)",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 27
+            },
+            {
+                "word": "TARAQTARAQ",
+                "explanation": "is. təkrar edən",
+                "isPanagram": false,
+                "score": 10,
+                "length": 10,
+                "id": 28
+            },
+            {
+                "word": "QİRAƏTÇİ",
+                "explanation": "is. qiraətlə",
+                "isPanagram": true,
+                "score": 17,
+                "length": 8,
+                "id": 29
+            }
+        ]
+    }
+}

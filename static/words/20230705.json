@@ -1,0 +1,149 @@
+{
+    "gameData": {
+        "day": "20230705",
+        "expiration": "1688601540",
+        "centerLetter": "Q",
+        "outerLetters": [
+            "Ü",
+            "Ç",
+            "A",
+            "Ə",
+            "T",
+            "D"
+        ],
+        "words_info": {
+            "word_count": 15,
+            "sum_score": 75,
+            "panagram_count": 1,
+            "word_length": {
+                "4": 4,
+                "6": 2,
+                "5": 7,
+                "7": 1,
+                "8": 1
+            }
+        },
+        "words": [
+            {
+                "word": "ADAQ",
+                "explanation": "is. məh. uşağın ilk addımı",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "QADA",
+                "explanation": "is. 1. bəla",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "QƏDD",
+                "explanation": "is. [ər.] 1. boy",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "QƏTA",
+                "explanation": "[ər.] köhn. bax qətiyyən. ahim etməz heç əsər *** sənə. əmani. məhəmməd həsən əmi dünya malına əsla və *** talib deyil… c",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "ÇATAQ",
+                "explanation": "1. bax çarpaz 1-ci mənada.2. sif. yapışıq",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 5
+            },
+            {
+                "word": "DAQQA",
+                "explanation": "is. məh. 1. dəridən tikilmiş hündürpapaq. şiraslan … *** divan papağınıbaşına qoydu",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 6
+            },
+            {
+                "word": "QAÇAQ",
+                "explanation": "is. 1. çarlıq dövründə: hökumətinzülm və ədalətsizliyinə dözməyərək",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 7
+            },
+            {
+                "word": "QADAQ",
+                "explanation": "is. bıçaq",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 8
+            },
+            {
+                "word": "QÜDDƏ",
+                "explanation": "[ər.] bax vəzi",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 9
+            },
+            {
+                "word": "TAQƏT",
+                "explanation": "is. [ər.] güc",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 10
+            },
+            {
+                "word": "ÜÇQAT",
+                "explanation": "sif. 1. üç qatı olan; üçmərtəbəli. ***(lı) ev. 2. bir-biri üzərində üç qat olan; üçlaylı. *** xəmir",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 11
+            },
+            {
+                "word": "ÇAQÇAQ",
+                "explanation": "is. keçmişdə: evlərin həyətqapısında qapını döymək üçün dəmir toxmaqcıq.çaq-çaqla qapını döymək. – qapınınbaşında şir şəkli",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 12
+            },
+            {
+                "word": "TƏQAÜD",
+                "explanation": "is. [ər.] 1. tələbələrə",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 13
+            },
+            {
+                "word": "QAÇAQAÇ",
+                "explanation": "sif. bir təhlükə üzündən",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 14
+            },
+            {
+                "word": "TƏQAÜDÇÜ",
+                "explanation": "is. və sif. 1. təqaüd alan tələbə;stipendiyaçı. *** tələbə.2. bax pensiyaçı",
+                "isPanagram": true,
+                "score": 17,
+                "length": 8,
+                "id": 15
+            }
+        ]
+    }
+}

@@ -1,0 +1,230 @@
+{
+    "gameData": {
+        "day": "20230811",
+        "expiration": "1691798340",
+        "centerLetter": "N",
+        "outerLetters": [
+            "T",
+            "A",
+            "O",
+            "E",
+            "P",
+            "R"
+        ],
+        "words_info": {
+            "word_count": 25,
+            "sum_score": 138,
+            "panagram_count": 1,
+            "word_length": {
+                "6": 7,
+                "5": 11,
+                "4": 4,
+                "9": 1,
+                "8": 1,
+                "12": 1
+            }
+        },
+        "words": [
+            {
+                "word": "ARAN",
+                "explanation": "is. azərbaycanda: yaylaq yerlərənisbətən alçaq və iqlimcə isti olan yerlər.azərbaycanın əsas *** yerləri muğan",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "NOTA",
+                "explanation": "[lat. *** – işarə",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "TANA",
+                "explanation": "is. 1. sırğa. qızıl ***. – qızıl üzük",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "TENT",
+                "explanation": "[ing.] günəş və yağışdan qorunmaqüçün parusin örtük. avtomaşının ***i",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "ANTON",
+                "explanation": "*** alması [xüs. is.-dən] – payızda yetişən yaşıl-sarı rəngli",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 5
+            },
+            {
+                "word": "ARENA",
+                "explanation": "is. [lat.] 1. sirk səhnəsi. müasirsirkdə *** manej adlanır.2. fəaliyyət göstərilən yer.3. biol. orqanizmin mövcud olduğu bütünyerlərin məcmusu",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 6
+            },
+            {
+                "word": "ARTAN",
+                "explanation": "f.sif. getdikcə çoxalan",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 7
+            },
+            {
+                "word": "NETTO",
+                "explanation": "[ital.] 1. əmtəənin qabsız xaliskütləsi.2. itkilər",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 8
+            },
+            {
+                "word": "NONET",
+                "explanation": "is. [ital.] 1. doqquz alət və ya səsüçün musiqi əsəri.2. doqquz ifaçıdan ibarət musiqi ansamblı",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 9
+            },
+            {
+                "word": "PANNO",
+                "explanation": "[fr.] 1. divarın",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 10
+            },
+            {
+                "word": "RANET",
+                "explanation": "[fr.] qiymətli alma növlərindənbirinin adı",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 11
+            },
+            {
+                "word": "TAPAN",
+                "explanation": "is. 1. qırı",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 12
+            },
+            {
+                "word": "TENOR",
+                "explanation": "[ital.] ən uca zil kişi səsi. // beləsəsi olan müğənni. *** artist",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 13
+            },
+            {
+                "word": "TORAN",
+                "explanation": "is. 1. səhər hava işıqlanan və yaaxşam hava qaralmağa başlayan vaxt; alaqaranlıq.axşam ***ı. – [kazım] səhər ***ındameşəyə girdi",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 14
+            },
+            {
+                "word": "TORNA",
+                "explanation": "[ital.] tex. metal",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 15
+            },
+            {
+                "word": "ANTENA",
+                "explanation": "[lat.] radio qurğusunun elektromaqnit dalğalarını yaymaq (radio verilişində) və ya onları tutmaq (qəbul etdikdə) üçün məftillər sistemi",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 16
+            },
+            {
+                "word": "ATAANA",
+                "explanation": "is. öz övladına münasibətdəkişi və qadın; valideyn. ata-analar öz uşaqlarınıntərbiyəsinə fikir verməlidirlər",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 17
+            },
+            {
+                "word": "PATENT",
+                "explanation": "[lat. ***is – açıq",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 18
+            },
+            {
+                "word": "PATRON",
+                "explanation": "[fr.] 1. odlu silahlarda",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 19
+            },
+            {
+                "word": "PERRON",
+                "explanation": "[fr.] dəmiryol stansiyasında qatarlarınyanaşıb dayandığı meydança; sərnişinplatforması. qatar ***a yanaşdı",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 20
+            },
+            {
+                "word": "PONTON",
+                "explanation": "[fr.] 1. müvəqqəti körpü və ya bir şeyi su üzərində saxlamaq üçün",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 21
+            },
+            {
+                "word": "PROTON",
+                "explanation": "[lat. protos – birinci] fiz. oksigen atomunun nüvəsi olan və bütün maddələrin atom nüvəsinin tərkibinə daxil olan müsbət elektrik yüklü hissəcik",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 22
+            },
+            {
+                "word": "OPPONENT",
+                "explanation": "[lat. ***is – etiraz edən]mübahisədə",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 23
+            },
+            {
+                "word": "TARTANPARTAN",
+                "explanation": "is. boş",
+                "isPanagram": false,
+                "score": 12,
+                "length": 12,
+                "id": 24
+            },
+            {
+                "word": "NEOANTROP",
+                "explanation": "is. [yun.] müasir insan növününümumiləşdirilmiş adı",
+                "isPanagram": true,
+                "score": 17,
+                "length": 9,
+                "id": 25
+            }
+        ]
+    }
+}

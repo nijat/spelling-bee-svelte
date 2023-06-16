@@ -1,0 +1,310 @@
+{
+    "gameData": {
+        "day": "20240107",
+        "expiration": "1704671940",
+        "centerLetter": "N",
+        "outerLetters": [
+            "A",
+            "C",
+            "D",
+            "L",
+            "Ğ",
+            "Ə"
+        ],
+        "words_info": {
+            "word_count": 35,
+            "sum_score": 171,
+            "panagram_count": 1,
+            "word_length": {
+                "4": 11,
+                "6": 4,
+                "9": 1,
+                "7": 9,
+                "5": 8,
+                "8": 2
+            }
+        },
+        "words": [
+            {
+                "word": "ADNA",
+                "explanation": "is. cümə axşamı",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "ANAC",
+                "explanation": "sif. 1. dəfələrlə bala doğub",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "ANƏN",
+                "explanation": "zərf [ər.] birdən",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "DANA",
+                "explanation": "is. bir yaşdan iki yaşa qədər olaninək balası. *** əti. – danışıq ***nı qurdaverər. (məsəl)",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "DƏNƏ",
+                "explanation": "is. [fars.] 1. eyni cinsdən olan şeylərin hər biri",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 5
+            },
+            {
+                "word": "ƏDNA",
+                "explanation": "sif. və is. [ər.] klas. 1. alçaq",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 6
+            },
+            {
+                "word": "ƏLAN",
+                "explanation": "zərf [ər.] 1. bu an",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 7
+            },
+            {
+                "word": "NAĞD",
+                "explanation": "is. [ər.] 1. pul (hər şəkildə olur olsun). [hacı saleh:] pul istəyir",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 8
+            },
+            {
+                "word": "NALƏ",
+                "explanation": "is. [fars.] ah-zar",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 9
+            },
+            {
+                "word": "NANƏ",
+                "explanation": "[ər.] bot. yeyilən çoxillik ətirligöyərti növü. *** qurutmaq. üç dəstə ***.□ *** cövhəri (arağı) – ***dən çəkilənaraq",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 10
+            },
+            {
+                "word": "NƏNƏ",
+                "explanation": "is. 1. atanın",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 11
+            },
+            {
+                "word": "ALANA",
+                "explanation": "is. içərisi şəkərli qozla doldurulmuşmeyvə qurusu (armud",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 12
+            },
+            {
+                "word": "CANAN",
+                "explanation": "is. [fars.] sevgili",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 13
+            },
+            {
+                "word": "DALAN",
+                "explanation": "is. 1. küçə qapısından həyətə gedənüstüörtülü və ya açıq yol. [hacı fərəc:]bundan sonra ***ın qapısı həmişə gərəkbağlı ola… n",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 14
+            },
+            {
+                "word": "ƏNƏNƏ",
+                "explanation": "is. [ər.] tarixən meydana gələrəknəsildən-nəslə keçən adətlər",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 15
+            },
+            {
+                "word": "LAĞAN",
+                "explanation": "is. məh. itə xörək verilən qab",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 16
+            },
+            {
+                "word": "NADAN",
+                "explanation": "sif. [fars.] 1. cahil",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 17
+            },
+            {
+                "word": "NALAN",
+                "explanation": "sif. və zərf [fars.] ağlayan",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 18
+            },
+            {
+                "word": "NƏDƏN",
+                "explanation": "əvəz. nə üçün",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 19
+            },
+            {
+                "word": "AĞACAN",
+                "explanation": "is. köhn. ataya",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 20
+            },
+            {
+                "word": "ANACAN",
+                "explanation": "is. anaya nəvazişlə müraciət.[rəsul:] ***",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 21
+            },
+            {
+                "word": "CƏNCƏL",
+                "explanation": "1. sif. qarışıq",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 22
+            },
+            {
+                "word": "DƏNDAN",
+                "explanation": "is. [fars.] klas. diş. olmasa qabiləgər dəhr cəfa verməz ona; təm biləzzətolanda necə ***ə dəyər? m",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 23
+            },
+            {
+                "word": "AĞANƏNƏ",
+                "explanation": "is. dan. ailənin ağbirçəyinə",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 24
+            },
+            {
+                "word": "AĞLAĞAN",
+                "explanation": "sif. və is. 1. çox ağlayan",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 25
+            },
+            {
+                "word": "CANALAN",
+                "explanation": "sif. 1. cəllad",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 26
+            },
+            {
+                "word": "DAĞNANƏ",
+                "explanation": "is. bot. əsasən dağlarda bitən xoşiyli çoxillik ot bitkisi. yumşaq otların",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 27
+            },
+            {
+                "word": "DANƏNDƏ",
+                "explanation": "is. [fars.] klas. bilici",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 28
+            },
+            {
+                "word": "DANLANC",
+                "explanation": "sif. çox danlanan",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 29
+            },
+            {
+                "word": "DƏNDƏNƏ",
+                "explanation": "is. [fars.] 1. təkərin çevrəsinimərkəzə birləşdirən taxta. arabanın bir ***sisınmışdır. – [arabaçı:] …atlar arıq",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 30
+            },
+            {
+                "word": "LƏĞƏNDƏ",
+                "explanation": "is. k.t. ağacın cavan budaqlarınıyerə basdırmaqla ağac artırma üsullarındanbiri; daldırma. yerdə *** üsulundanistifadə edərkən budağın qabığını",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 31
+            },
+            {
+                "word": "NƏNƏCAN",
+                "explanation": "is. nənəyə",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 32
+            },
+            {
+                "word": "DAĞDAĞAN",
+                "explanation": "is. bot. 1. bərk oduncağı olan",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 33
+            },
+            {
+                "word": "DƏNƏDƏNƏ",
+                "explanation": "sif. dənələr halında",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 34
+            },
+            {
+                "word": "AĞACDƏLƏN",
+                "explanation": "is. zool. ağac koğuşlarındakı cücülərlə qidalanan uzun",
+                "isPanagram": true,
+                "score": 17,
+                "length": 9,
+                "id": 35
+            }
+        ]
+    }
+}

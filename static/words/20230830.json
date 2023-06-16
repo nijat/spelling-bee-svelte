@@ -1,0 +1,286 @@
+{
+    "gameData": {
+        "day": "20230830",
+        "expiration": "1693439940",
+        "centerLetter": "N",
+        "outerLetters": [
+            "A",
+            "D",
+            "Q",
+            "S",
+            "U",
+            "Z"
+        ],
+        "words_info": {
+            "word_count": 32,
+            "sum_score": 166,
+            "panagram_count": 1,
+            "word_length": {
+                "5": 13,
+                "4": 7,
+                "6": 5,
+                "7": 2,
+                "8": 3,
+                "9": 2
+            }
+        },
+        "words": [
+            {
+                "word": "ADNA",
+                "explanation": "is. cümə axşamı",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "ASAN",
+                "explanation": "sif. zəhmət tələb etməyən",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "AZAN",
+                "explanation": "is. [ər.] müsəlmanları namazaçağırmaq üçün ***çının səhər",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "DANA",
+                "explanation": "is. bir yaşdan iki yaşa qədər olaninək balası. *** əti. – danışıq ***nı qurdaverər. (məsəl)",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "QAAN",
+                "explanation": "is. tar. türk",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 5
+            },
+            {
+                "word": "NUQA",
+                "explanation": "is. [fr.] şəkər və qozdan hazırlanmışşirniyyat növü; qənnadı məmulatı",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 6
+            },
+            {
+                "word": "UZUN",
+                "explanation": "sif. 1. iki ucunun arası çox",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 7
+            },
+            {
+                "word": "ADSAN",
+                "explanation": "is. nüfuz",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 8
+            },
+            {
+                "word": "DANQA",
+                "explanation": "is. mal aşığı. ***ları çıxmışqoca inəklər",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 9
+            },
+            {
+                "word": "QANAD",
+                "explanation": "is. 1. quşlarda və cücülərdə uçmaqorqanı. quş ***ı. *** açıb uçmaq.göyərçinin ***ı. milçəklər ***larında",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 10
+            },
+            {
+                "word": "QANUN",
+                "explanation": "is. [ər. əsli yun.] 1. ictimai vəhüquqi münasibətlərin hər hansı bir sahəsininizama salmaq üçün dövlət tərəfindənmüəyyən edilən qərar",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 11
+            },
+            {
+                "word": "QAZAN",
+                "explanation": "is. içində xörək bişirmək",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 12
+            },
+            {
+                "word": "NADAN",
+                "explanation": "sif. [fars.] 1. cahil",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 13
+            },
+            {
+                "word": "NAQAN",
+                "explanation": "[xüs. is.-dən] hərlənən topu(barabanı) olan tapança növü. [balaqardaş:]güldəstə! bir gözümün içinə dürüst bax! bu***ı görürsənmi? n",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 14
+            },
+            {
+                "word": "NAQQA",
+                "explanation": "is. zool. şirin suda yaşayan üstü pulsuz",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 15
+            },
+            {
+                "word": "NAQUS",
+                "explanation": "is. [ər.] klas. kilsə zəngi. taki səsləndiqəflətən ***; oldum ol vaxt büsbütünməyus. a.səhhət",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 16
+            },
+            {
+                "word": "NANDU",
+                "explanation": "is. uça bilməyən quşlar qrupu;amerika dəvəquşuları",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 17
+            },
+            {
+                "word": "NASAZ",
+                "explanation": "sif. və zərf [fars.] 1. kefsiz",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 18
+            },
+            {
+                "word": "SAUNA",
+                "explanation": "is. [ing.] çox yüksək dərəcədəhərarəti olan xüsusi növ hamam",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 19
+            },
+            {
+                "word": "SAZAN",
+                "explanation": "is. zool. əsasən qamışlıq",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 20
+            },
+            {
+                "word": "DANQAZ",
+                "explanation": "sif. dan. bax danqa1. ***uşaq",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 21
+            },
+            {
+                "word": "QASNAQ",
+                "explanation": "is. 1. sağalmaq üzrə olan yaranınüzündə əmələ gələn qabıq",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 22
+            },
+            {
+                "word": "QAZNAQ",
+                "explanation": "is. qazılmış yer",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 23
+            },
+            {
+                "word": "QUNDAQ",
+                "explanation": "is. tüfəngin ağac hissəsi. araztüfəngin qundağı ilə onu elə vurdu ki",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 24
+            },
+            {
+                "word": "QUNDUZ",
+                "explanation": "is. zool. qiymətli dərisi (xəzi)olan gəmirici heyvan. *** xəzi. – gəmiriciləriçərisində ən gözəl xəzi olan ***dur",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 25
+            },
+            {
+                "word": "QAQQANA",
+                "explanation": "is. qaqqıltı. pilləkəni titrətdi muştuluqçu qonşu qızın ***sı. r.rza. □ ***q çalmaq – 1) qaqqıldamaq",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 26
+            },
+            {
+                "word": "SAZANDA",
+                "explanation": "is. [fars.] köhn. çalğıçı. xanuşaqları keçiliyə həm ova",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 27
+            },
+            {
+                "word": "QAQQANAQ",
+                "explanation": "is. qaqqıltı. pilləkəni titrətdi muştuluqçu qonşu qızın qaqqanası. r.rza. □ *** çalmaq – 1) qaqqıldamaq",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 28
+            },
+            {
+                "word": "QANUNSUZ",
+                "explanation": "sif. qeyri-qanuni",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 29
+            },
+            {
+                "word": "UZUNUZUN",
+                "explanation": "sif. və zərf çox uzun. …vəkilləryanlaricə uzun-uzun ərizələr",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 30
+            },
+            {
+                "word": "UZUNQANAD",
+                "explanation": "zool. 1. sif. qanadları uzun olan. ***lı quşlar. 2. is. mənasında. ***lılar – ***lıların və milçəkquşuların daxil olduğu quşlar dəst",
+                "isPanagram": false,
+                "score": 9,
+                "length": 9,
+                "id": 31
+            },
+            {
+                "word": "QUNDAQSAZ",
+                "explanation": "is. [qundaq və fars. …saz]1. köhn. araba qayıran",
+                "isPanagram": true,
+                "score": 17,
+                "length": 9,
+                "id": 32
+            }
+        ]
+    }
+}

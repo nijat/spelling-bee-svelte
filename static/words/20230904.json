@@ -1,0 +1,213 @@
+{
+    "gameData": {
+        "day": "20230904",
+        "expiration": "1693871940",
+        "centerLetter": "Ə",
+        "outerLetters": [
+            "N",
+            "B",
+            "İ",
+            "Y",
+            "O",
+            "L"
+        ],
+        "words_info": {
+            "word_count": 23,
+            "sum_score": 83,
+            "panagram_count": 1,
+            "word_length": {
+                "4": 12,
+                "5": 7,
+                "6": 2,
+                "7": 1,
+                "8": 1
+            }
+        },
+        "words": [
+            {
+                "word": "BƏBƏ",
+                "explanation": "is. 1. körpə uşaq",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "BƏNİ",
+                "explanation": "[ər.] övlad",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "BİNƏ",
+                "explanation": "is. 1. köçərilərin mal-qara ilə köçüb",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "ƏLİL",
+                "explanation": "is. və sif. xəstəlik və ya qocalıqnəticəsində əmək qabiliyyətini itirmiş;şikəst. ***lər cəmiyyəti",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "ƏLLİ",
+                "explanation": "sif. 1. əli olan. iri *** adam. 2. məc. qolu güclü",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 5
+            },
+            {
+                "word": "ƏNİN",
+                "explanation": "is. [ər.] şair. inləmə",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 6
+            },
+            {
+                "word": "ƏYİN",
+                "explanation": "is. 1. bədənin başdan qeyri bütünhissəsi. əyninə yeni kostyum geymişdir.əynində heç bir şey yoxdur (çılpaqdır)",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 7
+            },
+            {
+                "word": "LƏİN",
+                "explanation": "sif. və is. [ər.] bax məlun. bu isə",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 8
+            },
+            {
+                "word": "LƏLƏ",
+                "explanation": "is. 1. keçmişdə kübar və varlı ai***rdəoğlan uşağının tərbiyəsilə məşğul olanadam. [qətibə xanım:] səba xanım",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 9
+            },
+            {
+                "word": "NƏBİ",
+                "explanation": "is. [ər.] klas. peyğəmbər. ya ***",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 10
+            },
+            {
+                "word": "NƏNƏ",
+                "explanation": "is. 1. atanın",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 11
+            },
+            {
+                "word": "YİYƏ",
+                "explanation": "is. hər hansı bir şey üzərində mülkiyyəthüququ olan adam; sahib. oğul",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 12
+            },
+            {
+                "word": "BƏLƏN",
+                "explanation": "is. məh. dağ döşündə tala. ***dənendim düzə; su bağladım nərgizə.(bayatı). …eyvaz koroğluynan bərabər qoyunlarıhayladı",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 13
+            },
+            {
+                "word": "BƏLLİ",
+                "explanation": "sif. aydın",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 14
+            },
+            {
+                "word": "BİLƏN",
+                "explanation": "sif. anlayan",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 15
+            },
+            {
+                "word": "BİLLƏ",
+                "explanation": "is. məh. uşaqlara verilən hər cürşirniyyat",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 16
+            },
+            {
+                "word": "ƏNƏNƏ",
+                "explanation": "is. [ər.] tarixən meydana gələrəknəsildən-nəslə keçən adətlər",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 17
+            },
+            {
+                "word": "LƏYƏN",
+                "explanation": "is. müxtəlif ehtiyaclar – içindəəl-üz və ya paltar yumaq",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 18
+            },
+            {
+                "word": "NƏNNİ",
+                "explanation": "is. 1. körpə uşaqları yatırtmaq üçünasılan kiçik yatacaq. [qumru] uşağı ***yəsalıb küncə qısıldı",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 19
+            },
+            {
+                "word": "BİNƏLİ",
+                "explanation": "sif. dan. 1. bir yerdə yurd salmış",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 20
+            },
+            {
+                "word": "YİYƏLİ",
+                "explanation": "sif. yiyəsi",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 21
+            },
+            {
+                "word": "LƏBLƏBİ",
+                "explanation": "is. çərəz kimi yeyilən qovrulmuşqabıqsız noxud. əkdiyim noxud",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 22
+            },
+            {
+                "word": "YOLBİLƏN",
+                "explanation": "sif. və is. təcrübəli",
+                "isPanagram": true,
+                "score": 17,
+                "length": 8,
+                "id": 23
+            }
+        ]
+    }
+}

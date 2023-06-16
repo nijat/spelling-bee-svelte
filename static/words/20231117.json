@@ -1,0 +1,189 @@
+{
+    "gameData": {
+        "day": "20231117",
+        "expiration": "1700265540",
+        "centerLetter": "K",
+        "outerLetters": [
+            "İ",
+            "A",
+            "N",
+            "Q",
+            "L",
+            "V"
+        ],
+        "words_info": {
+            "word_count": 20,
+            "sum_score": 114,
+            "panagram_count": 1,
+            "word_length": {
+                "6": 5,
+                "4": 4,
+                "5": 5,
+                "8": 4,
+                "7": 2
+            }
+        },
+        "words": [
+            {
+                "word": "KALA",
+                "explanation": "is. məh. böyük şüşə qab",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "KİVİ",
+                "explanation": "is. qabığı tüklü",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "KLAN",
+                "explanation": "is. [ing.] qohumların bir-biri ilətəsərrüfat",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "VİKA",
+                "explanation": "[lat.] bot. çölnoxudu; noxudaoxşaryem otu",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "KALAN",
+                "explanation": "sif. dan. varlı",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 5
+            },
+            {
+                "word": "KALKA",
+                "explanation": "[fr.] 1. çertyojlardan",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 6
+            },
+            {
+                "word": "KANAL",
+                "explanation": "[lat.] 1. dəniz",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 7
+            },
+            {
+                "word": "KİNLİ",
+                "explanation": "sif. kin saxlayan. *** adam. –dəvə *** (z.) olar. (ata. sözü). [xalq] düşməninəqarşı ***",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 8
+            },
+            {
+                "word": "LAKİN",
+                "explanation": "bağl. [ər.] cümlələri",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 9
+            },
+            {
+                "word": "ANİLİK",
+                "explanation": "is. bir an içində olan şeyinxassəsi",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 10
+            },
+            {
+                "word": "ANKLAV",
+                "explanation": "is. [fr.] hər tərəfdən eyni birdövlətin ərazisi ilə sərhədlənən və dənizləsərhədi olmayan yer",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 11
+            },
+            {
+                "word": "KALAVA",
+                "explanation": "is. məh. dərə",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 12
+            },
+            {
+                "word": "KALVİL",
+                "explanation": "[fr. xüs. addan] sarımtıl almanövü. *** alması",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 13
+            },
+            {
+                "word": "KANKAN",
+                "explanation": "is. [fars.] köhn. əl ilə quyuqazan;quyuçu. ***ın vəsiyyəti qızıl öküzdür.(ata. sözü). [məmməd:] atam ***idi",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 14
+            },
+            {
+                "word": "QAİLLİK",
+                "explanation": "is. inam",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 15
+            },
+            {
+                "word": "VALİLİK",
+                "explanation": "is. 1. vali vəzifəsi. sultan əhmədcəlayir bağdada gəlib",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 16
+            },
+            {
+                "word": "KİNLİLİK",
+                "explanation": "is. kin saxlama",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 17
+            },
+            {
+                "word": "LİLLİLİK",
+                "explanation": "is. lilli olma; lehməlilik",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 18
+            },
+            {
+                "word": "NAQİLLİK",
+                "explanation": "is. fiz. nəql etmə",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 19
+            },
+            {
+                "word": "QALVANİK",
+                "explanation": "sif. fiz. qalvanizasiyaya aidolan. *** element. *** cərəyan",
+                "isPanagram": true,
+                "score": 17,
+                "length": 8,
+                "id": 20
+            }
+        ]
+    }
+}

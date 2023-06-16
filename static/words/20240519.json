@@ -1,0 +1,359 @@
+{
+    "gameData": {
+        "day": "20240519",
+        "expiration": "1716163140",
+        "centerLetter": "N",
+        "outerLetters": [
+            "A",
+            "Y",
+            "Ü",
+            "M",
+            "İ",
+            "Ə"
+        ],
+        "words_info": {
+            "word_count": 41,
+            "sum_score": 162,
+            "panagram_count": 1,
+            "word_length": {
+                "4": 19,
+                "5": 12,
+                "7": 4,
+                "6": 3,
+                "8": 1,
+                "9": 1,
+                "10": 1
+            }
+        },
+        "words": [
+            {
+                "word": "AMAN",
+                "explanation": "is. [ər.] 1. əmin-***lıq",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "AMİN",
+                "explanation": "[ər. əsli qədim yəh.] din. qəbulolsun",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "ANƏN",
+                "explanation": "zərf [ər.] birdən",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "ANMA",
+                "explanation": "“***q”dan f.is. *** mərasimi",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "AYİN",
+                "explanation": "is. [fars.] 1. qayda",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 5
+            },
+            {
+                "word": "AYNA",
+                "explanation": "is. [fars.] 1. güzgü. ***nın çatdığıcalaq qəbul eləməz. (ata. sözü). əgərbilmək istəyirsiniz ki",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 6
+            },
+            {
+                "word": "ƏMAN",
+                "explanation": "[ər.] bax aman. böylə gedərsəbakı əldən gedər; qalmaz o məvadə ***",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 7
+            },
+            {
+                "word": "ƏMİN",
+                "explanation": "sif. [ər.] 1. qorxusuz",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 8
+            },
+            {
+                "word": "ƏNAM",
+                "explanation": "is. [ər. “nemət” söz. cəmi] bəxşiş",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 9
+            },
+            {
+                "word": "ƏNİN",
+                "explanation": "is. [ər.] şair. inləmə",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 10
+            },
+            {
+                "word": "ƏYAN",
+                "explanation": "top. [ər.] köhn. keçmişdə: ölkəninyuxarı təbəqələrinə mənsub olan mötəbərvə yaşlı adamlar; zadəganlar",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 11
+            },
+            {
+                "word": "ƏYİN",
+                "explanation": "is. 1. bədənin başdan qeyri bütünhissəsi. əyninə yeni kostyum geymişdir.əynində heç bir şey yoxdur (çılpaqdır)",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 12
+            },
+            {
+                "word": "MANİ",
+                "explanation": "is. türk xalq şeri və nəğmə janrı",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 13
+            },
+            {
+                "word": "MƏNA",
+                "explanation": "is. [ər.] 1. sözün",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 14
+            },
+            {
+                "word": "MİNA",
+                "explanation": "[fr.] 1. adətən torpağın",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 15
+            },
+            {
+                "word": "NAMƏ",
+                "explanation": "is. [fars.] məktub",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 16
+            },
+            {
+                "word": "NANƏ",
+                "explanation": "[ər.] bot. yeyilən çoxillik ətirligöyərti növü. *** qurutmaq. üç dəstə ***.□ *** cövhəri (arağı) – ***dən çəkilənaraq",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 17
+            },
+            {
+                "word": "NƏMİ",
+                "explanation": "is. məh. alaçığın içəri-sində qarğıdanhörülmüş bağlı yer; anbar. [güldəstə:]atam karıxdığından ***nin qapısını açıqqoyub gedibdir",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 18
+            },
+            {
+                "word": "NƏNƏ",
+                "explanation": "is. 1. atanın",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 19
+            },
+            {
+                "word": "AYİNƏ",
+                "explanation": "is. [fars.] bax ayna 1-ci mənada.ol məhi-namehriban istər ki",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 20
+            },
+            {
+                "word": "ƏNƏNƏ",
+                "explanation": "is. [ər.] tarixən meydana gələrəknəsildən-nəslə keçən adətlər",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 21
+            },
+            {
+                "word": "ƏYANİ",
+                "explanation": "sif. [ər.] 1. açıq",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 22
+            },
+            {
+                "word": "MƏNƏN",
+                "explanation": "zərf [ər.] mənəvi cəhətdən; ruhən.…bizim şüəra cismən ölüb fövt olublarsada",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 23
+            },
+            {
+                "word": "MİYAN",
+                "explanation": "is. [fars.] klas. 1. bel",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 24
+            },
+            {
+                "word": "NANAY",
+                "explanation": "is. uzaq şərqdə yaşayan xalq;həmin xalqa mənsub olan adam",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 25
+            },
+            {
+                "word": "NƏNNİ",
+                "explanation": "is. 1. körpə uşaqları yatırtmaq üçünasılan kiçik yatacaq. [qumru] uşağı ***yəsalıb küncə qısıldı",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 26
+            },
+            {
+                "word": "NİNNİ",
+                "explanation": "is. layla",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 27
+            },
+            {
+                "word": "ÜMMAN",
+                "explanation": "is. [ər.] 1. böyük dəniz",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 28
+            },
+            {
+                "word": "YAMAN",
+                "explanation": "sif. 1. pis. *** arvadlının evicəhənnəmdir. (ata. sözü). biçarə münəccimbaşı*** (z.) halda idi",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 29
+            },
+            {
+                "word": "YƏMİN",
+                "explanation": "is. [ər.] and",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 30
+            },
+            {
+                "word": "YÜYƏN",
+                "explanation": "is. atın başına keçirilən kəm vəcilovdan ibarət qoşqu ləvazimatı. ***i atınbaşına keçirmək. atın ***indən tutmaq",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 31
+            },
+            {
+                "word": "MƏNƏNƏ",
+                "explanation": "is. zool. bitkilərin şirəsilə qidalananziyanverici bir cücü növü",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 32
+            },
+            {
+                "word": "MİNMİN",
+                "explanation": "zərf və sif. minlərcə",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 33
+            },
+            {
+                "word": "MİYANƏ",
+                "explanation": "sif. [fars.] nə yaxşı",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 34
+            },
+            {
+                "word": "ƏMNİYYƏ",
+                "explanation": "is. [ər.] iranda: jandarm",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 35
+            },
+            {
+                "word": "MÜƏYYƏN",
+                "explanation": "sif. [ər.] 1. qəti olaraq təyinedilmiş",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 36
+            },
+            {
+                "word": "NÜMAYAN",
+                "explanation": "sif. [fars.] klas. görünən",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 37
+            },
+            {
+                "word": "MİNİMİNİ",
+                "explanation": "sif. oxş. kiçicik",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 38
+            },
+            {
+                "word": "NAMÜƏYYƏN",
+                "explanation": "sif. [fars. na… və ər. müəyyən]müəyyən olmayan",
+                "isPanagram": false,
+                "score": 9,
+                "length": 9,
+                "id": 39
+            },
+            {
+                "word": "YAMANYAMAN",
+                "explanation": "1. sif. böhtançı",
+                "isPanagram": false,
+                "score": 10,
+                "length": 10,
+                "id": 40
+            },
+            {
+                "word": "MÜAYİNƏ",
+                "explanation": "is. [ər.] 1. hərtərəfli yoxlama",
+                "isPanagram": true,
+                "score": 17,
+                "length": 7,
+                "id": 41
+            }
+        ]
+    }
+}

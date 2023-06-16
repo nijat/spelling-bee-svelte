@@ -1,0 +1,576 @@
+{
+    "gameData": {
+        "day": "20240501",
+        "expiration": "1714607940",
+        "centerLetter": "D",
+        "outerLetters": [
+            "Ə",
+            "L",
+            "K",
+            "B",
+            "İ",
+            "S"
+        ],
+        "words_info": {
+            "word_count": 68,
+            "sum_score": 404,
+            "panagram_count": 1,
+            "word_length": {
+                "5": 20,
+                "7": 12,
+                "10": 4,
+                "6": 11,
+                "8": 6,
+                "9": 4,
+                "4": 10,
+                "13": 1
+            }
+        },
+        "words": [
+            {
+                "word": "DƏBƏ",
+                "explanation": "is. tib. qasıq yırtıqlığı xəstəliyi;qrıja. // bu cür xəstəliyi olan adam",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "DƏDƏ",
+                "explanation": "is. 1. ata. *** görməyib",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "DƏLƏ",
+                "explanation": "is. 1. zool. yırtıcılar dəstəsindənxəzdərili məməli kiçik heyvan. *** dərisi.2. həmin heyvanın dərisi",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "DƏLİ",
+                "explanation": "1. sif. ağlı və şüuru yerində olmayan",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "DİDƏ",
+                "explanation": "is. [fars.] klas. göz. gər inanmazsan ki",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 5
+            },
+            {
+                "word": "ƏBƏD",
+                "explanation": "zərf [ər.] sonsuz gələcək zaman(əzəl qarşılığı). // ***i",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 6
+            },
+            {
+                "word": "ƏDƏB",
+                "explanation": "is. [ər.] əxlaq qaydalarına riayət",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 7
+            },
+            {
+                "word": "ƏDƏD",
+                "explanation": "is. [ər.] 1. say",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 8
+            },
+            {
+                "word": "ƏDİB",
+                "explanation": "is. [ər.] 1. yazıçı",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 9
+            },
+            {
+                "word": "SƏDD",
+                "explanation": "is. [ər.] 1. müxtəlif məqsədlər üçünçəkilən divar",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 10
+            },
+            {
+                "word": "BƏDƏL",
+                "explanation": "is. [ər.] köhn. 1. bir şeyin yerinitutan və ya tuta bilən",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 11
+            },
+            {
+                "word": "BƏDİƏ",
+                "explanation": "is. [ər.] misli-bərabəri görünməmişşey",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 12
+            },
+            {
+                "word": "BƏDİİ",
+                "explanation": "sif. [ər.] 1. estetik zövqə",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 13
+            },
+            {
+                "word": "BƏLƏD",
+                "explanation": "[ər.] 1. sif. bir adam",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 14
+            },
+            {
+                "word": "DƏBBƏ",
+                "explanation": "is. [ər.] bir şey haqqında əldəedilmiş saziş və razılığı pozmaq üçün bəhanə",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 15
+            },
+            {
+                "word": "DƏKKƏ",
+                "explanation": "is. məh. iri heyvanların (inək",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 16
+            },
+            {
+                "word": "DƏLİL",
+                "explanation": "is. [ər.] hər hansı bir şeyi sübut etməküçün əsas; sübut. tutarlı ***. *** gətirmək.bunu sübut etmək üçün *** lazımdır",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 17
+            },
+            {
+                "word": "DİBƏK",
+                "explanation": "is. 1. daş",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 18
+            },
+            {
+                "word": "DİBLİ",
+                "explanation": "sif. dibi olan. *** çəllək",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 19
+            },
+            {
+                "word": "DİDİK",
+                "explanation": "sif. didilmiş halda olan. *** yun.*** ət. *** gündə",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 20
+            },
+            {
+                "word": "DİKLİ",
+                "explanation": "sif. diki",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 21
+            },
+            {
+                "word": "DİLƏK",
+                "explanation": "is. istək",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 22
+            },
+            {
+                "word": "DİLİK",
+                "explanation": "is. 1. nəyinsə uzunsov hissəsi.2. köhn. bəzək",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 23
+            },
+            {
+                "word": "DİLLİ",
+                "explanation": "sif. 1. ağzında dili olan. // danışa bilən",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 24
+            },
+            {
+                "word": "ƏBƏDİ",
+                "explanation": "sif. və zərf [ər.] 1. daimi",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 25
+            },
+            {
+                "word": "ƏDƏBİ",
+                "explanation": "sif. [ər.] ***yyata aid olan.*** əsər. *** cərəyan. *** irs. ***müşavirə. *** müsabiqə",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 26
+            },
+            {
+                "word": "ƏDƏDİ",
+                "explanation": "sif. [ər.] riyaz. ədədlərlə ifadəolunan. *** kəmiyyət. ədəbi nisbət. –diferensial tənlikləri təqribi həll etmək üçünmüxtəlif qrafik və *** meto",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 27
+            },
+            {
+                "word": "ƏDƏSƏ",
+                "explanation": "is. [ər.] 1. mərcimək dənəsi.2. gözlük",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 28
+            },
+            {
+                "word": "KİLİD",
+                "explanation": "is. [fars.] 1. qıfıl. asma ***. – siyirmə***lər biləkdən yoğun; asılmış qıfıllarbuğunbəbuğun. h",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 29
+            },
+            {
+                "word": "SİDİK",
+                "explanation": "is. böyrəklərin",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 30
+            },
+            {
+                "word": "BƏDƏSL",
+                "explanation": "sif. və is. [fars. bəd və ər. əsl] köhn. əsli pis",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 31
+            },
+            {
+                "word": "BƏDLİK",
+                "explanation": "is. pislik",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 32
+            },
+            {
+                "word": "DƏDƏLİ",
+                "explanation": "sif. atası olan",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 33
+            },
+            {
+                "word": "DƏLLƏK",
+                "explanation": "is. [ər.] 1. baş və üz qırxmaqpeşəsi ilə məşğul olan adam; bərbər. bəli",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 34
+            },
+            {
+                "word": "DƏSİSƏ",
+                "explanation": "is. [ər.] hiylə",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 35
+            },
+            {
+                "word": "DİBLİK",
+                "explanation": "is. altı olan şeylərin dib hissəsi",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 36
+            },
+            {
+                "word": "DİKİLİ",
+                "explanation": "sif. dik halda olan",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 37
+            },
+            {
+                "word": "DİKLİK",
+                "explanation": "is. 1. dik şeyin halı",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 38
+            },
+            {
+                "word": "DİSKLİ",
+                "explanation": "sif. diski olan. *** mala. ***alət",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 39
+            },
+            {
+                "word": "ƏDƏBLİ",
+                "explanation": "sif. 1. yaxşı tərbiyə görmüş",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 40
+            },
+            {
+                "word": "ƏLDƏKİ",
+                "explanation": "sif. əldə olan",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 41
+            },
+            {
+                "word": "BƏDƏSİL",
+                "explanation": "sif. və is. [fars. bəd və ər. əsl] köhn. əsli pis",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 42
+            },
+            {
+                "word": "BİDƏLİL",
+                "explanation": "sif. [fars. bi… və ər. dəlil] baxdəlilsiz",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 43
+            },
+            {
+                "word": "DƏBDƏBƏ",
+                "explanation": "is. [ər.] təmtəraq",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 44
+            },
+            {
+                "word": "DƏDƏLİK",
+                "explanation": "is. atalıq",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 45
+            },
+            {
+                "word": "DƏLİKLİ",
+                "explanation": "sif. dəliyi olan; deşikli. ***sərnic. *** dolça.◊ *** sümük anat. – qılça ilə birləşənsümük",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 46
+            },
+            {
+                "word": "DƏLİLİK",
+                "explanation": "is. 1. ağlı başından çıxmış adamınhalı. *** əlamətləri.2. məc. ağılsız iş və hərəkət",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 47
+            },
+            {
+                "word": "DƏLİLLİ",
+                "explanation": "sif. dəlili olan; sübutlu",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 48
+            },
+            {
+                "word": "DİLƏKLİ",
+                "explanation": "sif. diləyi olan",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 49
+            },
+            {
+                "word": "DİLİKLİ",
+                "explanation": "sif. diliyi",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 50
+            },
+            {
+                "word": "ƏDƏSƏLİ",
+                "explanation": "sif. ədəsəsi olan",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 51
+            },
+            {
+                "word": "ƏDİBLİK",
+                "explanation": "is. ədəbi yaradıcılıq. ***ləməşğul olmaq. *** etmək. – qələmdaniməlahətianlamaq üçün bəzən *** kifayətetməz",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 52
+            },
+            {
+                "word": "KİLİDLİ",
+                "explanation": "sif. kilid vurulmuş",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 53
+            },
+            {
+                "word": "BƏDİİLİK",
+                "explanation": "is. gözəllik",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 54
+            },
+            {
+                "word": "BƏLƏDLİK",
+                "explanation": "is. tanışlıq",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 55
+            },
+            {
+                "word": "DİLLİLİK",
+                "explanation": "is. dilli adamın xassəsi",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 56
+            },
+            {
+                "word": "ƏBƏDİLİK",
+                "explanation": "is. daimilik",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 57
+            },
+            {
+                "word": "KİSƏDİBİ",
+                "explanation": "is. işləndikdən sonra qalan azmiqdar şey. *** un. *** düyü",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 58
+            },
+            {
+                "word": "SİDİKLİK",
+                "explanation": "is. anat. orqanizmin sidik saxlayanüzvü; sidik kisəsi",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 59
+            },
+            {
+                "word": "BİƏDƏBLİK",
+                "explanation": "is. ədəbsizlik",
+                "isPanagram": false,
+                "score": 9,
+                "length": 9,
+                "id": 60
+            },
+            {
+                "word": "DƏBDƏBƏLİ",
+                "explanation": "sif. 1. təntənəli",
+                "isPanagram": false,
+                "score": 9,
+                "length": 9,
+                "id": 61
+            },
+            {
+                "word": "DƏLLƏKLİK",
+                "explanation": "is. 1. dəllək (1",
+                "isPanagram": false,
+                "score": 9,
+                "length": 9,
+                "id": 62
+            },
+            {
+                "word": "ƏDƏBLİLİK",
+                "explanation": "is. ədəbli",
+                "isPanagram": false,
+                "score": 9,
+                "length": 9,
+                "id": 63
+            },
+            {
+                "word": "DƏLİKDƏLİK",
+                "explanation": "sif. deşik-deşik",
+                "isPanagram": false,
+                "score": 10,
+                "length": 10,
+                "id": 64
+            },
+            {
+                "word": "DİDİKDİDİK",
+                "explanation": "sif. çox didilmiş",
+                "isPanagram": false,
+                "score": 10,
+                "length": 10,
+                "id": 65
+            },
+            {
+                "word": "DİLİKDİLİK",
+                "explanation": "sif. 1. kənarı diliklər şəklindəolan. kənarı dilik-dilik süfrə.2. tikə-tikə",
+                "isPanagram": false,
+                "score": 10,
+                "length": 10,
+                "id": 66
+            },
+            {
+                "word": "ƏDƏLLİBƏDƏLLİ",
+                "explanation": "sif. dan. yaxşı",
+                "isPanagram": false,
+                "score": 13,
+                "length": 13,
+                "id": 67
+            },
+            {
+                "word": "BƏDƏSİLLİK",
+                "explanation": "is. əsilsizlik",
+                "isPanagram": true,
+                "score": 17,
+                "length": 10,
+                "id": 68
+            }
+        ]
+    }
+}

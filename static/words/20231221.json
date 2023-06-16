@@ -1,0 +1,286 @@
+{
+    "gameData": {
+        "day": "20231221",
+        "expiration": "1703203140",
+        "centerLetter": "I",
+        "outerLetters": [
+            "Ğ",
+            "A",
+            "P",
+            "Ç",
+            "L",
+            "N"
+        ],
+        "words_info": {
+            "word_count": 32,
+            "sum_score": 160,
+            "panagram_count": 1,
+            "word_length": {
+                "6": 6,
+                "5": 11,
+                "4": 8,
+                "7": 5,
+                "9": 1,
+                "8": 1
+            }
+        },
+        "words": [
+            {
+                "word": "AĞIL",
+                "explanation": "is. içərisində mal-qara və qoyunsaxlamaq üçün ətrafı tikan və ya ağac iləhasarlanmış üstüaçıq yer. qoyunlar s***ıbqurtardıqdan sonra",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "ALÇI",
+                "explanation": "is. aşıq-aşıq oyununda: aşığın birüzü",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "ALĞI",
+                "explanation": "is. satın alma işi",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "ALIN",
+                "explanation": "is. 1. üzün saç ilə qaş arasında olanön hissəsi. geniş ***. dar ***. – süleymanbəy əyləşir yerdə",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "ALLI",
+                "explanation": "sif. köhn. al rəngli paltar geymiş.tərifli gözəllər gəlhagəl oldu; yaşıllı",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 5
+            },
+            {
+                "word": "ANLI",
+                "explanation": "sif. qəd. ağıllı",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 6
+            },
+            {
+                "word": "ÇALI",
+                "explanation": "is. kol-kos",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 7
+            },
+            {
+                "word": "LIĞA",
+                "explanation": "is. qatı",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 8
+            },
+            {
+                "word": "AĞIÇI",
+                "explanation": "is. köhnə məişətdə: ağlaşmazamanı ağı söyləyən",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 9
+            },
+            {
+                "word": "AĞILI",
+                "explanation": "sif. zəhərli",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 10
+            },
+            {
+                "word": "ALALI",
+                "explanation": "sif. alası olan",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 11
+            },
+            {
+                "word": "ANALI",
+                "explanation": "sif. anası olan. *** uşaq. ***quzu. – *** quzu",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 12
+            },
+            {
+                "word": "ÇALĞI",
+                "explanation": "is. məh. nazik çubuqlardan",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 13
+            },
+            {
+                "word": "ÇALIN",
+                "explanation": "is. otu dəryaz",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 14
+            },
+            {
+                "word": "ÇAPÇI",
+                "explanation": "is. mətbəənin çap sexi işçisi",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 15
+            },
+            {
+                "word": "LAÇIN",
+                "explanation": "is. 1. keçmişdə quş ovlamaq üçünsaxlanılan şahin cinsindən yırtıcı",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 16
+            },
+            {
+                "word": "LAĞÇI",
+                "explanation": "is. rişxəndçi",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 17
+            },
+            {
+                "word": "NAĞIL",
+                "explanation": "is. [ər. nəql] adətən əfsanəvi",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 18
+            },
+            {
+                "word": "NALLI",
+                "explanation": "sif. nal vurulmuş; nallanmış. ***at. – əyilmiş çəkmənin *** dabanı; siyrilibpapağın o yan-bu yanı",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 19
+            },
+            {
+                "word": "AÇILAN",
+                "explanation": "is. məh. atəş açan silah",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 20
+            },
+            {
+                "word": "AĞILLI",
+                "explanation": "sif. 1. dərrakəli",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 21
+            },
+            {
+                "word": "ÇILĞIN",
+                "explanation": "sif. coşqun",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 22
+            },
+            {
+                "word": "LAPÇIN",
+                "explanation": "is. 1. uzunboğaz ayaqqabı növü.***ın üzlüyü keçədən",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 23
+            },
+            {
+                "word": "PIÇPIÇ",
+                "explanation": "zərf və sif. yavaşcadan",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 24
+            },
+            {
+                "word": "PLANLI",
+                "explanation": "sif. əvvəlcədən müəyyənləşdirilmişplana əsasən həyata keçirilən",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 25
+            },
+            {
+                "word": "ÇALĞIÇI",
+                "explanation": "is. hər hansı bir musiqi alətindəçalmağı özünə peşə etmiş adam; çalan. peşəkar***. – …ağca xanım ortaya çıxıb***lara həmin rəqsi çalmağı əm",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 26
+            },
+            {
+                "word": "ÇALINÇI",
+                "explanation": "is. biçinçi",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 27
+            },
+            {
+                "word": "LAĞLAĞI",
+                "explanation": "sif. çoxdanışan",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 28
+            },
+            {
+                "word": "NAĞILÇI",
+                "explanation": "is. 1. çox nağıl bilən və onlarıməharətlə danışmağı bacaran adam. nağılı***dan öyrən. (ata. sözü)",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 29
+            },
+            {
+                "word": "PALANLI",
+                "explanation": "sif. dalında palanı olan; çullu. birgün … *** ata minmiş bir qocanı darvazamızınağzında durmuş gördüm",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 30
+            },
+            {
+                "word": "LAĞLAĞIÇI",
+                "explanation": "sif. bax lağlağı1. əhali nadirilə zeynəbin görüşməsini bildi",
+                "isPanagram": false,
+                "score": 9,
+                "length": 9,
+                "id": 31
+            },
+            {
+                "word": "PIÇILĞAN",
+                "explanation": "is. bayt. heyvanların diz vəbuzovluğunda dəmrov xəstəliyi. kəlbalı atustalığı edər",
+                "isPanagram": true,
+                "score": 17,
+                "length": 8,
+                "id": 32
+            }
+        ]
+    }
+}

@@ -1,0 +1,165 @@
+{
+    "gameData": {
+        "day": "20240331",
+        "expiration": "1711929540",
+        "centerLetter": "K",
+        "outerLetters": [
+            "A",
+            "H",
+            "G",
+            "L",
+            "İ",
+            "R"
+        ],
+        "words_info": {
+            "word_count": 17,
+            "sum_score": 103,
+            "panagram_count": 1,
+            "word_length": {
+                "9": 1,
+                "8": 3,
+                "4": 2,
+                "5": 6,
+                "6": 5
+            }
+        },
+        "words": [
+            {
+                "word": "KAHA",
+                "explanation": "is. məh. qayalıqda",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "KALA",
+                "explanation": "is. məh. böyük şüşə qab",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "KAHAL",
+                "explanation": "sif. [ər.] dan. başısoyuq",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 3
+            },
+            {
+                "word": "KAHİL",
+                "explanation": "[ər.] bax kahıl. kimə olsan müsahib",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 4
+            },
+            {
+                "word": "KALKA",
+                "explanation": "[fr.] 1. çertyojlardan",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 5
+            },
+            {
+                "word": "KİRKİ",
+                "explanation": "1 is. xüs. xalça toxunarkən ilməklərini sıxlaşdırmaq üçün işlədilən alət; daraq",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 6
+            },
+            {
+                "word": "KİRLİ",
+                "explanation": "sif. kir tutmuş",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 7
+            },
+            {
+                "word": "LİRİK",
+                "explanation": "sif. [yun.] 1. ***a xüsusiyyətləriolan",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 8
+            },
+            {
+                "word": "KARLAL",
+                "explanation": "is. həm eşitmək",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 9
+            },
+            {
+                "word": "KARGAH",
+                "explanation": "is. [fars.] xalça",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 10
+            },
+            {
+                "word": "KARGİR",
+                "explanation": "is. [fars.] köhn. təsir",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 11
+            },
+            {
+                "word": "KİRLİK",
+                "explanation": "is. bir şeyin çirklənməməsi üçünonun üzərinə çəkilən parça. // döşlük",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 12
+            },
+            {
+                "word": "LALKAR",
+                "explanation": "1. sif. həm danışmaq",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 13
+            },
+            {
+                "word": "GİLLİLİK",
+                "explanation": "is. tərkibində gil olma. torpağın*** dərəcəsi. qumun gilliliyi",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 14
+            },
+            {
+                "word": "KİRLİLİK",
+                "explanation": "is. kirli şeyin halı; çirklilik",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 15
+            },
+            {
+                "word": "LİLLİLİK",
+                "explanation": "is. lilli olma; lehməlilik",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 16
+            },
+            {
+                "word": "GAHGİRLİK",
+                "explanation": "is. gahgir olan yer; qumluq(bax gahgir2)",
+                "isPanagram": true,
+                "score": 17,
+                "length": 9,
+                "id": 17
+            }
+        ]
+    }
+}

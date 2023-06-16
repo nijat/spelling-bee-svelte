@@ -1,0 +1,230 @@
+{
+    "gameData": {
+        "day": "20231121",
+        "expiration": "1700611140",
+        "centerLetter": "I",
+        "outerLetters": [
+            "A",
+            "M",
+            "R",
+            "Ş",
+            "C",
+            "Ç"
+        ],
+        "words_info": {
+            "word_count": 25,
+            "sum_score": 145,
+            "panagram_count": 1,
+            "word_length": {
+                "5": 11,
+                "6": 5,
+                "4": 3,
+                "7": 3,
+                "9": 2,
+                "10": 1
+            }
+        },
+        "words": [
+            {
+                "word": "AÇIM",
+                "explanation": "is. açılma zamanı",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "AÇIŞ",
+                "explanation": "is. açma işi",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "AŞÇI",
+                "explanation": "is. xüs. dəri",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "ACICA",
+                "explanation": "sif. 1. bir qədər acı",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 4
+            },
+            {
+                "word": "ARAÇI",
+                "explanation": "is. ara düzəldən adam",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 5
+            },
+            {
+                "word": "ARIÇI",
+                "explanation": "is. arı saxlayan",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 6
+            },
+            {
+                "word": "CAMIŞ",
+                "explanation": "is. qısaboyunlu",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 7
+            },
+            {
+                "word": "CARÇI",
+                "explanation": "is. 1. köhn. car çəkən",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 8
+            },
+            {
+                "word": "ÇAMIR",
+                "explanation": "is. 1. palçıq",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 9
+            },
+            {
+                "word": "ÇARŞI",
+                "explanation": "is. [fars.] bax çarsu. mən üz qoydumbazara tərəf. xəyalımda qoymuşdum:gedərəm düz baqqal ***sına və buzu allam",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 10
+            },
+            {
+                "word": "ÇAŞIR",
+                "explanation": "is. bot. çətirçiçəklilərdən ot bitkisi.ballı bacısı oğlu ilə birlikdə kəndin üst tərəfindəkigüneylərə gedər",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 11
+            },
+            {
+                "word": "MAMIR",
+                "explanation": "is. bot. ali sporlu bitkilərdən ibtidaiquruluşa malik bitki. həyətin hündürhasarları rütubətdən ***la örtülmüşdü",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 12
+            },
+            {
+                "word": "MICIR",
+                "explanation": "is. məh. keçi balası",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 13
+            },
+            {
+                "word": "ŞIRIM",
+                "explanation": "is. 1. k.t. torpaqda kotanın və yabaşqa alətin açdığı dərin iz",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 14
+            },
+            {
+                "word": "ACIMIŞ",
+                "explanation": "f.sif. turşumuş",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 15
+            },
+            {
+                "word": "AÇARÇI",
+                "explanation": "is. 1. açar qayıran",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 16
+            },
+            {
+                "word": "AŞIRIM",
+                "explanation": "is. dağın beli",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 17
+            },
+            {
+                "word": "AŞIRMA",
+                "explanation": "is. 1. “***q”dan f.is.2. bir şeyin üstündən atılan",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 18
+            },
+            {
+                "word": "ŞIRŞIR",
+                "explanation": "təql. 1. is. bir qaydada axan",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 19
+            },
+            {
+                "word": "CAMAŞIR",
+                "explanation": "is. [fars.] alt paltarı",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 20
+            },
+            {
+                "word": "CAMIŞÇI",
+                "explanation": "is. ***lıq mütəxəssisi.// camış saxlamaqla",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 21
+            },
+            {
+                "word": "MIRMIRI",
+                "explanation": "is. zool. ağbalıq",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 22
+            },
+            {
+                "word": "CIRCIRAMA",
+                "explanation": "is. zool. əlvan qanadları uçarkən cır-cır səsi verən uzungövdəli cücü. *** yaz",
+                "isPanagram": false,
+                "score": 9,
+                "length": 9,
+                "id": 23
+            },
+            {
+                "word": "ŞIRIMŞIRIM",
+                "explanation": "sif. zolaq-zolaq",
+                "isPanagram": false,
+                "score": 10,
+                "length": 10,
+                "id": 24
+            },
+            {
+                "word": "CAMAŞIRÇI",
+                "explanation": "is. camaşır yumaqla məşğulolan adam. *** qadın",
+                "isPanagram": true,
+                "score": 17,
+                "length": 9,
+                "id": 25
+            }
+        ]
+    }
+}

@@ -1,0 +1,576 @@
+{
+    "gameData": {
+        "day": "20231207",
+        "expiration": "1701993540",
+        "centerLetter": "I",
+        "outerLetters": [
+            "A",
+            "E",
+            "Ş",
+            "B",
+            "Q",
+            "L"
+        ],
+        "words_info": {
+            "word_count": 68,
+            "sum_score": 422,
+            "panagram_count": 1,
+            "word_length": {
+                "5": 21,
+                "8": 9,
+                "6": 13,
+                "7": 12,
+                "9": 4,
+                "4": 6,
+                "10": 2,
+                "13": 1
+            }
+        },
+        "words": [
+            {
+                "word": "ALIQ",
+                "explanation": "is. köhn. öküz",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "ALIŞ",
+                "explanation": "f.is. almaq işi",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "ALLI",
+                "explanation": "sif. köhn. al rəngli paltar geymiş.tərifli gözəllər gəlhagəl oldu; yaşıllı",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "AŞIQ",
+                "explanation": "is. 1. anat. diz qapaqlarından çıxanoynaq sümüyü. // uşaqların ***-*** oyunundaişlətdikləri həmin (adətən qoyunlarındiz qapağından çıxarılan) süm",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "AŞLI",
+                "explanation": "sif. aşa qoyulmuş. *** gön. ***dəri. – aşıq abbas *** çarıqlarını yerə sürtəsürtəmərəkəni süzür",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 5
+            },
+            {
+                "word": "BABI",
+                "explanation": "is. [xüs. is.-dən] 1. xıx əsrin ortasında iranda “bab” təxəllüslü mirzə əli məhəmməd tərəfindən təsis edilmiş dini təriqətə mənsub olan adam",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 6
+            },
+            {
+                "word": "ABALI",
+                "explanation": "is. köhn. aba geymiş",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 7
+            },
+            {
+                "word": "ALALI",
+                "explanation": "sif. alası olan",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 8
+            },
+            {
+                "word": "ALQIŞ",
+                "explanation": "is. 1. birini təbrik üçün və ya birşeyi bəyənmə ifadəsi olaraq əl çalma.sürəkli ***lar. gurultulu ***lar",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 9
+            },
+            {
+                "word": "ALLIQ",
+                "explanation": "is. al rəngli şeyin halı; qırmızılıq.bu ***da gül olmaz. – geniş payız meşəsibir allığa və rəngarəng sarılığa boyanırdı",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 10
+            },
+            {
+                "word": "AŞLIQ",
+                "explanation": "sif. aş üçün",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 11
+            },
+            {
+                "word": "BALIQ",
+                "explanation": "is. məh. oturaq kənd",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 12
+            },
+            {
+                "word": "BALIŞ",
+                "explanation": "is. 1. quş tükü və ya başqa yumşaq",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 13
+            },
+            {
+                "word": "BALLI",
+                "explanation": "sif. 1. bal qatılmış. *** konfet.2. məc. bal kimi şirin. bir alagözlünüsevibdi könül; dəhani püstədir",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 14
+            },
+            {
+                "word": "BAŞLI",
+                "explanation": "sif. 1. başı",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 15
+            },
+            {
+                "word": "QABIQ",
+                "explanation": "is. 1. bir şeyin üstünü örtən sərt örtü. ağacın qabığı. yumurtanın qabığı. qoz qabığı. – mağaranın içi yumşaq ağac ***ları ilə döşənmişdi",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 16
+            },
+            {
+                "word": "QALIQ",
+                "explanation": "is. 1. bir şeyin",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 17
+            },
+            {
+                "word": "QALIŞ",
+                "explanation": "is. qalma; qalmaq işi. əsli xanımköçdü getdi elindən; mənim burda ***ımanə deyim? aşıq kərəm",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 18
+            },
+            {
+                "word": "QALLI",
+                "explanation": "sif. qalmaqal salan",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 19
+            },
+            {
+                "word": "QAŞIQ",
+                "explanation": "is. 1. duru",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 20
+            },
+            {
+                "word": "QAŞLI",
+                "explanation": "sif. qaşı olan. bax qaş 2 və 3-cümənalarda. *** üzük. *** yəhər. – səadətxanım gülnazı … laləzara apardı",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 21
+            },
+            {
+                "word": "QILIQ",
+                "explanation": "is. xasiyyət",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 22
+            },
+            {
+                "word": "QILLI",
+                "explanation": "sif. 1. üzərində qıllar olan",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 23
+            },
+            {
+                "word": "QIŞLA",
+                "explanation": "is. 1. əsgəri hissələri yerləşdirməküçün böyük bina; qazarma. şəhərə buraxılanqoşun dəstələri bu gün öz ***larınaçəkilmişdi",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 24
+            },
+            {
+                "word": "LALIQ",
+                "explanation": "sif. həddindən artıq dəyib boşalmış",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 25
+            },
+            {
+                "word": "LIQQA",
+                "explanation": "is. yağmurdan",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 26
+            },
+            {
+                "word": "ŞALLI",
+                "explanation": "sif. başına şal örtmüş",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 27
+            },
+            {
+                "word": "ALAQLI",
+                "explanation": "sif. alaq basmış",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 28
+            },
+            {
+                "word": "ALBALI",
+                "explanation": "is. tündqırmızı rəngli",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 29
+            },
+            {
+                "word": "ALIŞIQ",
+                "explanation": "is. ocağı alışdırmaq üçün gözünə",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 30
+            },
+            {
+                "word": "AŞBAŞI",
+                "explanation": "is. məh. aşın (plovun) başına qoyulanxuruş (ət",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 31
+            },
+            {
+                "word": "BALALI",
+                "explanation": "sif. yanında balası olan. ***inək. *** qoyun. *** camış",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 32
+            },
+            {
+                "word": "BAŞLIQ",
+                "explanation": "is. 1. yağışdan",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 33
+            },
+            {
+                "word": "ELBAŞI",
+                "explanation": "is. tar. eli idarə edən",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 34
+            },
+            {
+                "word": "QILBAŞ",
+                "explanation": "is. çox zaman əl barmaqlarınınbaş tərəfinə dırnaq dibinə çıxan əziyyətliyara; dolama",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 35
+            },
+            {
+                "word": "QIŞLAQ",
+                "explanation": "is. qoyun və başqa ev heyvanlarınıngətirilib saxlandığı mötədil havalı vəotlaqlı qışlama yeri. heyvanlar yaylaqdanqışlağa köçdü",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 36
+            },
+            {
+                "word": "QIŞLIQ",
+                "explanation": "sif. qışa",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 37
+            },
+            {
+                "word": "LALLIQ",
+                "explanation": "is. lal adamın halı",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 38
+            },
+            {
+                "word": "ŞIQLIQ",
+                "explanation": "is. zəriflik",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 39
+            },
+            {
+                "word": "ŞILLAQ",
+                "explanation": "is. ayaqla vurma",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 40
+            },
+            {
+                "word": "ALAQLIQ",
+                "explanation": "is. alağı çox olan",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 41
+            },
+            {
+                "word": "AŞIQLIQ",
+                "explanation": "is. dizin aşıq sümüyü gizləndiyiyeri. qoyunun aşıqlığı sınıb",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 42
+            },
+            {
+                "word": "BABALIQ",
+                "explanation": "is. 1. ögey baba.2. babanın nəvələri üzərindəki haqqı.// baba ilə nəvəsi arasındakı qan qohumluğu",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 43
+            },
+            {
+                "word": "BABILIQ",
+                "explanation": "is. [xüs. is.-dən] 1. babi məzhəbi; xıx əsrin ortalarında iranda “bab” təxəllüslü mirzə əli məhəmməd adlı bir şəxs tərəfindən təsis edilmiş dini təriq",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 44
+            },
+            {
+                "word": "BALALIQ",
+                "explanation": "is. anat. heyvanlarda rüşeymininkişaf etdiyi daxili üzv",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 45
+            },
+            {
+                "word": "BALIQLI",
+                "explanation": "sif. 1. içərisində balıq olan.*** göl. *** çay. *** sular.2. balıqdan hazırlanmış (yemək)",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 46
+            },
+            {
+                "word": "BAŞAQLI",
+                "explanation": "sif. sünbüllü",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 47
+            },
+            {
+                "word": "QABALIQ",
+                "explanation": "is. 1. incəlikdən",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 48
+            },
+            {
+                "word": "QABIQLI",
+                "explanation": "sif. qabıqla örtülü olan",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 49
+            },
+            {
+                "word": "QALIQLI",
+                "explanation": "sif. riyaz. böldükdə qalıq qalan(bax qalıq 4-cü mənada)",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 50
+            },
+            {
+                "word": "QILIQLI",
+                "explanation": "sif. yaxşı xasiyyətli",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 51
+            },
+            {
+                "word": "ŞAQQALI",
+                "explanation": "sif. enlikürək",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 52
+            },
+            {
+                "word": "ALABALIQ",
+                "explanation": "is. zool. bax qızılxallı",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 53
+            },
+            {
+                "word": "AŞIQAŞIQ",
+                "explanation": "is. aşıqla oynanılan uşaqoyunu. aşıq-aşıq oynamaq",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 54
+            },
+            {
+                "word": "BAŞQALIQ",
+                "explanation": "is. başqa vəziyyətdə",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 55
+            },
+            {
+                "word": "BAŞLIQLI",
+                "explanation": "sif. başında başlıq olan",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 56
+            },
+            {
+                "word": "BEŞBAŞLI",
+                "explanation": "sif. beş başı",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 57
+            },
+            {
+                "word": "QABAQLIQ",
+                "explanation": "is. qabaq əkilmiş yer",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 58
+            },
+            {
+                "word": "QAŞIQAŞI",
+                "explanation": "is. qaşıq ilə yeyilən duru xörək",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 59
+            },
+            {
+                "word": "QILLILIQ",
+                "explanation": "is. qıllı olma",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 60
+            },
+            {
+                "word": "LEQALLIQ",
+                "explanation": "is. leqal vəziyyətdə olma;qanunla yol verilmə",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 61
+            },
+            {
+                "word": "ALBALILIQ",
+                "explanation": "is. albalı bağı; albalı ağaclarıəkilmiş yer",
+                "isPanagram": false,
+                "score": 9,
+                "length": 9,
+                "id": 62
+            },
+            {
+                "word": "ALLIŞALLI",
+                "explanation": "sif. məh. al-əlvan. pətəklərdənvə bağçada qoyulan qırmızı rəngliyeşiklərdən arılar dəstə-dəstə çıxır",
+                "isPanagram": false,
+                "score": 9,
+                "length": 9,
+                "id": 63
+            },
+            {
+                "word": "BAQQALLIQ",
+                "explanation": "is. köhn. baqqal sənəti.*** etmək",
+                "isPanagram": false,
+                "score": 9,
+                "length": 9,
+                "id": 64
+            },
+            {
+                "word": "QAŞQABAQLI",
+                "explanation": "sif. acıqlı",
+                "isPanagram": false,
+                "score": 10,
+                "length": 10,
+                "id": 65
+            },
+            {
+                "word": "QILIQLILIQ",
+                "explanation": "is. yaxşı xasiyyətlilik",
+                "isPanagram": false,
+                "score": 10,
+                "length": 10,
+                "id": 66
+            },
+            {
+                "word": "QAŞQABAQLILIQ",
+                "explanation": "is. qaşqabaqlı adamınhal və keyfiyyəti",
+                "isPanagram": false,
+                "score": 13,
+                "length": 13,
+                "id": 67
+            },
+            {
+                "word": "ELBAŞILIQ",
+                "explanation": "is. tar. elbaşının işi",
+                "isPanagram": true,
+                "score": 17,
+                "length": 9,
+                "id": 68
+            }
+        ]
+    }
+}

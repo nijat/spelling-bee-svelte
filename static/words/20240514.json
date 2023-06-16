@@ -1,0 +1,261 @@
+{
+    "gameData": {
+        "day": "20240514",
+        "expiration": "1715731140",
+        "centerLetter": "N",
+        "outerLetters": [
+            "Ç",
+            "S",
+            "H",
+            "T",
+            "İ",
+            "Ə"
+        ],
+        "words_info": {
+            "word_count": 29,
+            "sum_score": 112,
+            "panagram_count": 1,
+            "word_length": {
+                "4": 13,
+                "5": 10,
+                "6": 3,
+                "7": 2,
+                "9": 1
+            }
+        },
+        "words": [
+            {
+                "word": "ÇƏNƏ",
+                "explanation": "is. 1. üzün ağzı əmələ gətirən ikiyarımdairə sümüyü; üst *** burundan aşağıda",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "ÇİNİ",
+                "explanation": "is. [coğr. addan] müxtəlif məmulatistehsal etmək üçün istifadə olunan əla gildənhazırlanmış süni mineral kütlə",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "ƏNİN",
+                "explanation": "is. [ər.] şair. inləmə",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "ƏNİS",
+                "explanation": "is. [ər.] şair. yaxın dost",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "ƏSƏN",
+                "explanation": "sif. qəd. sağ",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 5
+            },
+            {
+                "word": "NƏÇİ",
+                "explanation": "əvəz. birinin sənətini",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 6
+            },
+            {
+                "word": "NƏHS",
+                "explanation": "[ər.] 1. sif. uğursuz",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 7
+            },
+            {
+                "word": "NƏNƏ",
+                "explanation": "is. 1. atanın",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 8
+            },
+            {
+                "word": "SƏNƏ",
+                "explanation": "is. [ər.] il. bir gecəlik mətləbin bir*** mabədi var. m.ə.sabir. millətin beş*** bundan əqdəm; yüz nəfərdən biri tutmazdıqələm",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 9
+            },
+            {
+                "word": "SİNƏ",
+                "explanation": "is. [fars.] 1. döş",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 10
+            },
+            {
+                "word": "SİNİ",
+                "explanation": "is. misdən",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 11
+            },
+            {
+                "word": "SİNN",
+                "explanation": "is. [ər.] yaş. xudayar bəyin ancaqotuz yeddi-otuz səkkiz ***i olar",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 12
+            },
+            {
+                "word": "TƏNƏ",
+                "explanation": "[ər.] 1. is. danlaq",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 13
+            },
+            {
+                "word": "ÇƏTƏN",
+                "explanation": "is. məh. qarğıdan",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 14
+            },
+            {
+                "word": "ÇƏTİN",
+                "explanation": "sif. icrası",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 15
+            },
+            {
+                "word": "ƏHSƏN",
+                "explanation": "nida [ər.] 1. bəyənmə",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 16
+            },
+            {
+                "word": "ƏNƏNƏ",
+                "explanation": "is. [ər.] tarixən meydana gələrəknəsildən-nəslə keçən adətlər",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 17
+            },
+            {
+                "word": "ƏTƏNƏ",
+                "explanation": "is. məməlilərdə: ana bətnindəbalanı bürüyən və bala onun içindən çıxdıqdansonra cırılıb düşən ət pərdəsi; son",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 18
+            },
+            {
+                "word": "NƏNNİ",
+                "explanation": "is. 1. körpə uşaqları yatırtmaq üçünasılan kiçik yatacaq. [qumru] uşağı ***yəsalıb küncə qısıldı",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 19
+            },
+            {
+                "word": "NİNNİ",
+                "explanation": "is. layla",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 20
+            },
+            {
+                "word": "SƏHNƏ",
+                "explanation": "is. [ər.] 1. teatr tamaşalarının göstərildiyixüsusi meydança. pərdə qalxdı",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 21
+            },
+            {
+                "word": "SƏNƏT",
+                "explanation": "is. [ər.] 1. müəyyən hazırlıq tələbedən və sahibinin yaşaması üçün əsas mənbəsayılan əmək fəaliyyətinin bir növü; peşə",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 22
+            },
+            {
+                "word": "TİNƏT",
+                "explanation": "is. [ər.] klas. xilqət",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 23
+            },
+            {
+                "word": "ÇƏTƏNƏ",
+                "explanation": "is. bot. saplağından kəndir",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 24
+            },
+            {
+                "word": "ÇİNÇİN",
+                "explanation": "sif. və zərf qat-qat",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 25
+            },
+            {
+                "word": "TƏHSİN",
+                "explanation": "is. [ər.] bir işi və ya şeyi bəyənib tərifləmə",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 26
+            },
+            {
+                "word": "NƏSİHƏT",
+                "explanation": "is. [ər.] öyüd",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 27
+            },
+            {
+                "word": "TƏNTƏNƏ",
+                "explanation": "is. [ər.] 1. təmtəraq",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 28
+            },
+            {
+                "word": "NƏSİHƏTÇİ",
+                "explanation": "is. nəsihət verən",
+                "isPanagram": true,
+                "score": 17,
+                "length": 9,
+                "id": 29
+            }
+        ]
+    }
+}

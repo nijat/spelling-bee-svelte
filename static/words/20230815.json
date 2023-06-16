@@ -1,0 +1,173 @@
+{
+    "gameData": {
+        "day": "20230815",
+        "expiration": "1692143940",
+        "centerLetter": "Z",
+        "outerLetters": [
+            "G",
+            "A",
+            "M",
+            "L",
+            "Ə",
+            "Ğ"
+        ],
+        "words_info": {
+            "word_count": 18,
+            "sum_score": 83,
+            "panagram_count": 1,
+            "word_length": {
+                "10": 1,
+                "5": 7,
+                "4": 6,
+                "6": 3,
+                "7": 1
+            }
+        },
+        "words": [
+            {
+                "word": "ƏZƏL",
+                "explanation": "[ər.] 1. is. əvvəli",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "ƏZƏM",
+                "explanation": "sif. [ər.] köhn. böyük",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "ƏZMƏ",
+                "explanation": "is. məh. bülöv. dəryazı *** iləitiləmək",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "MƏĞZ",
+                "explanation": "is. [fars.] 1. dan. bax ləpə2. badamın***i. qoz ***i.2. məc. mahiyyət",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "MƏZƏ",
+                "explanation": "is. [fars.] 1. adətən iştaha üçünəsas yeməkdən qabaq və ya onunla birlikdə",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 5
+            },
+            {
+                "word": "ZAĞA",
+                "explanation": "is. heyvan yuvası",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 6
+            },
+            {
+                "word": "ALMAZ",
+                "explanation": "is. 1. son dərəcə bərk",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 7
+            },
+            {
+                "word": "ƏLZƏM",
+                "explanation": "sif. [ər.] klas. daha lazım",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 8
+            },
+            {
+                "word": "ƏZƏLƏ",
+                "explanation": "is. [ər.] anat. insan və heyvanbədəninin",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 9
+            },
+            {
+                "word": "GƏZƏL",
+                "explanation": "is. nar qabığı (keçmişdə rəngboyaalmaq üçün işlənirdi). *** əllərimiqaraldıb. – şəhriyarın ürəyi də yarılmış birnara bənzər; tökülüb dənə sözləri",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 10
+            },
+            {
+                "word": "MƏLƏZ",
+                "explanation": "sif. [ər. mələs] 1. müxtəlif irqdəntörəmiş; metis. *** adam.2. başqa-başqa cinslərin birləşməsindəntörəmiş",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 11
+            },
+            {
+                "word": "ZƏLAM",
+                "explanation": "is. [ər.] klas. qaranlıq",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 12
+            },
+            {
+                "word": "ZƏMMƏ",
+                "explanation": "is. [ər.] ərəb əlifbasında “ü”saitini əvəz edən və hərfin üstündə qoyulanişarəsinin adı; piş",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 13
+            },
+            {
+                "word": "MAĞAZA",
+                "explanation": "is. [əsli ər. “məxazin”dən] böyükdükan",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 14
+            },
+            {
+                "word": "MAZĞAL",
+                "explanation": "is. qala divarlarında və s.-dəatışma üçün qoyulan deşik. o",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 15
+            },
+            {
+                "word": "ZƏMZƏM",
+                "explanation": "is. [ər.] məkkənin yanındaolub",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 16
+            },
+            {
+                "word": "ZƏLZƏLƏ",
+                "explanation": "is. [ər.] yer qabığının bəzi sahələrininvulkanik və ya tektonik proseslərüzündən güclü titrəməsi; yer sarsıntısı",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 17
+            },
+            {
+                "word": "AĞLAGƏLMƏZ",
+                "explanation": "sif. imkansız",
+                "isPanagram": true,
+                "score": 17,
+                "length": 10,
+                "id": 18
+            }
+        ]
+    }
+}

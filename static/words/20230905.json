@@ -1,0 +1,391 @@
+{
+    "gameData": {
+        "day": "20230905",
+        "expiration": "1693958340",
+        "centerLetter": "A",
+        "outerLetters": [
+            "C",
+            "T",
+            "H",
+            "Ə",
+            "I",
+            "L"
+        ],
+        "words_info": {
+            "word_count": 45,
+            "sum_score": 222,
+            "panagram_count": 1,
+            "word_length": {
+                "5": 18,
+                "7": 8,
+                "4": 11,
+                "9": 1,
+                "8": 1,
+                "10": 1,
+                "6": 5
+            }
+        },
+        "words": [
+            {
+                "word": "AHIL",
+                "explanation": "sif. [fars.] yaşa dolmuş",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "ALƏT",
+                "explanation": "is. [ər.] 1. bir iş görmək",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "ALLI",
+                "explanation": "sif. köhn. al rəngli paltar geymiş.tərifli gözəllər gəlhagəl oldu; yaşıllı",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "ATAT",
+                "explanation": "is. uşaqların ağac üstə minərəkoynadıqları oyun. at-at oynamaq",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "ATLI",
+                "explanation": "1. sif. at minmiş",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 5
+            },
+            {
+                "word": "ƏLAC",
+                "explanation": "is. [ər.] 1. bir xəstəliyin sağalmasınakömək edən hər bir şey; dərman",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 6
+            },
+            {
+                "word": "HACI",
+                "explanation": "is. [ər.] din. məkkəni ziyarət etmişmüsəlmanlara verilən ad. ***san",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 7
+            },
+            {
+                "word": "HALA",
+                "explanation": "zərf [ər.] klas. indi",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 8
+            },
+            {
+                "word": "HALƏ",
+                "explanation": "is. [ər.] ayın və bəzi iri ulduzlarınətrafında bəzən görünən işıq dairəsi. fikrini",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 9
+            },
+            {
+                "word": "LALƏ",
+                "explanation": "is. [fars.] 1. bot. iriləçəkli qırmızıçiçəkləri olan bitki və bu bitkinin çiçəyi. bitərçəməndə ***lər",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 10
+            },
+            {
+                "word": "TALA",
+                "explanation": "is. meşədə ağacsız",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 11
+            },
+            {
+                "word": "ACICA",
+                "explanation": "sif. 1. bir qədər acı",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 12
+            },
+            {
+                "word": "ACILI",
+                "explanation": "sif. zəhərli",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 13
+            },
+            {
+                "word": "ALAHI",
+                "explanation": "sif. [ər.] dan. ayrı",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 14
+            },
+            {
+                "word": "ALALI",
+                "explanation": "sif. alası olan",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 15
+            },
+            {
+                "word": "ALICI",
+                "explanation": "1. is. müştəri",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 16
+            },
+            {
+                "word": "ALLAH",
+                "explanation": "is. [ər.] 1. bütün kainatın yeganə yaradıcısı və idarə edəni; yaradan",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 17
+            },
+            {
+                "word": "ATALI",
+                "explanation": "sif. atası olan. *** uşaq. ***(z.) böyümək",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 18
+            },
+            {
+                "word": "ATCIL",
+                "explanation": "sif. dan. atı",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 19
+            },
+            {
+                "word": "ATICI",
+                "explanation": "1. sif. yaxşı tüfəng atan",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 20
+            },
+            {
+                "word": "CAHIL",
+                "explanation": "sif. dan. [ər.] cavan",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 21
+            },
+            {
+                "word": "CALAL",
+                "explanation": "is. [ər.] əzəmət",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 22
+            },
+            {
+                "word": "ƏHATƏ",
+                "explanation": "is. [ər.] ətrafını tutma",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 23
+            },
+            {
+                "word": "ƏLHAL",
+                "explanation": "zərf [ər.] klas. indi",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 24
+            },
+            {
+                "word": "HACƏT",
+                "explanation": "is. [ər.] 1. ehtiyac",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 25
+            },
+            {
+                "word": "HALAL",
+                "explanation": "sif. [ər.] 1. islam dininin ehkamlarınagörə yeyilməsinə",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 26
+            },
+            {
+                "word": "HALƏT",
+                "explanation": "is. [ər.] klas. hal",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 27
+            },
+            {
+                "word": "HALLI",
+                "explanation": "sif. və is. 1. kefli",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 28
+            },
+            {
+                "word": "HƏTTA",
+                "explanation": "bağl. [ər.] cümlədə aid olduğusözü və ya söz birləşməsini ayırmaq vəgücləndirmək üçün işlədilir – üstəlik",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 29
+            },
+            {
+                "word": "ƏLACLI",
+                "explanation": "sif. əlacı",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 30
+            },
+            {
+                "word": "ƏLALTI",
+                "explanation": "1. sif. və is. əl altında işləyən",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 31
+            },
+            {
+                "word": "ƏTALƏT",
+                "explanation": "is. [ər.] hərəkətsizlik",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 32
+            },
+            {
+                "word": "HƏLLAC",
+                "explanation": "is. [ər.] pambıqatan",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 33
+            },
+            {
+                "word": "LAƏLAC",
+                "explanation": "sif. və zərf [ər.] əlacsız",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 34
+            },
+            {
+                "word": "ACILICA",
+                "explanation": "is. bot. bəzi növlərindən dərmanhasil edilən çoxillik ot bitkisi",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 35
+            },
+            {
+                "word": "ALATALA",
+                "explanation": "sif. tala-tala",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 36
+            },
+            {
+                "word": "ALACALI",
+                "explanation": "sif. dan. rəngbərəng",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 37
+            },
+            {
+                "word": "CAHILCA",
+                "explanation": "sif. çox cahıl",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 38
+            },
+            {
+                "word": "CALALLI",
+                "explanation": "sif. dəbdəbəli",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 39
+            },
+            {
+                "word": "CƏHALƏT",
+                "explanation": "is. [ər.] avamlıq",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 40
+            },
+            {
+                "word": "HALALCA",
+                "explanation": "sif. 1. bax halal 2-ci mənada.hamıdan varlı ikən",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 41
+            },
+            {
+                "word": "TƏCƏLLA",
+                "explanation": "is. [ər.] əyan olma",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 42
+            },
+            {
+                "word": "CAHCALAL",
+                "explanation": "is. [ər.] calal",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 43
+            },
+            {
+                "word": "CAHCALALLI",
+                "explanation": "sif. 1. təntənəli",
+                "isPanagram": false,
+                "score": 10,
+                "length": 10,
+                "id": 44
+            },
+            {
+                "word": "ALTICƏHƏT",
+                "explanation": "sif. altıtərəfli",
+                "isPanagram": true,
+                "score": 17,
+                "length": 9,
+                "id": 45
+            }
+        ]
+    }
+}

@@ -1,0 +1,196 @@
+{
+    "gameData": {
+        "day": "20230607",
+        "expiration": "1686182340",
+        "centerLetter": "V",
+        "outerLetters": [
+            "A",
+            "R",
+            "İ",
+            "O",
+            "T",
+            "Z"
+        ],
+        "words_info": {
+            "word_count": 21,
+            "sum_score": 79,
+            "panagram_count": 1,
+            "word_length": {
+                "4": 11,
+                "5": 5,
+                "6": 2,
+                "7": 3
+            }
+        },
+        "words": [
+            {
+                "word": "ARVA",
+                "explanation": "is. dan. içinə şey qoyulan və yatökülən qabların (qutu",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "AVAR",
+                "explanation": "is. məh. keçmişdə kənd evlərinindamına döşənən qamışaoxşar ot; ümumiyyətlə",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "AVAZ",
+                "explanation": "is. [fars.] 1. səs",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "AVİA",
+                "explanation": "[lat.] mürəkkəb sözlərin əvvəlində ***siya mənasını ifadə edir",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "AVTO",
+                "explanation": "[fr.] ***mobil. uzanmış şəhərin polad əlləri; qatarlar",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 5
+            },
+            {
+                "word": "RAVİ",
+                "explanation": "is. [ər.] klas. rəvayət edən",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 6
+            },
+            {
+                "word": "TAVA",
+                "explanation": "is. içində ət və s. qızartmaq üçünkənarları yastı",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 7
+            },
+            {
+                "word": "TAVR",
+                "explanation": "is. krımın cənub hissəsinin qədiməhalisi",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 8
+            },
+            {
+                "word": "VAİZ",
+                "explanation": "is. [ər.] din. vəz və nəsihət edən",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 9
+            },
+            {
+                "word": "VAZA",
+                "explanation": "[fr.] içinə meyvə",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 10
+            },
+            {
+                "word": "VİZA",
+                "explanation": "[lat.] rəs. 1. bir xarici ölkəyə daxilolmaq",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 11
+            },
+            {
+                "word": "AVARA",
+                "explanation": "[fars.] 1. is. heç bir işlə məşğul olmayaraq boş-boş gəzən adam",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 12
+            },
+            {
+                "word": "AVİZO",
+                "explanation": "[ital.] mal. qarşılıqlı bank hesablaşmalardakıdəyişikliklər haqqında göndərilənbildiriş vərəqəsi",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 13
+            },
+            {
+                "word": "TAVAR",
+                "explanation": "is. balaq (camış balası)",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 14
+            },
+            {
+                "word": "TAVOT",
+                "explanation": "is. sürtkü yağlarının bir növü",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 15
+            },
+            {
+                "word": "VİZİT",
+                "explanation": "[fr.] 1. görüş. [əbdürrəhman bəy:]elə şeyləri sən özün yaxşı bilirsən",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 16
+            },
+            {
+                "word": "AVAZAT",
+                "explanation": "is. [fars. “avaz” söz. cəmi] mus.orta əsr yaxın şərq musiqi dəstgahlarındason altı pərdənin ibtidasını təşkil edən havacatsilsiləsi",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 17
+            },
+            {
+                "word": "VİVARİ",
+                "explanation": "is. [lat.] təcrübədə istifadə olunmaqüçün müxtəlif heyvanlar",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 18
+            },
+            {
+                "word": "AVİATOR",
+                "explanation": "[fr.] hava donanmasındatəyyarəçi",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 19
+            },
+            {
+                "word": "TORVARİ",
+                "explanation": "sif. tora oxşayan",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 20
+            },
+            {
+                "word": "TOZVARİ",
+                "explanation": "sif. toz kimi",
+                "isPanagram": true,
+                "score": 17,
+                "length": 7,
+                "id": 21
+            }
+        ]
+    }
+}

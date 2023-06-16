@@ -1,0 +1,624 @@
+{
+    "gameData": {
+        "day": "20240521",
+        "expiration": "1716335940",
+        "centerLetter": "Q",
+        "outerLetters": [
+            "A",
+            "Y",
+            "I",
+            "R",
+            "M",
+            "T"
+        ],
+        "words_info": {
+            "word_count": 74,
+            "sum_score": 412,
+            "panagram_count": 3,
+            "word_length": {
+                "5": 32,
+                "4": 14,
+                "8": 3,
+                "6": 9,
+                "9": 2,
+                "7": 7,
+                "10": 4,
+                "11": 3
+            }
+        },
+        "words": [
+            {
+                "word": "ARAQ",
+                "explanation": "is. [ər.] 1. meyvədən və s.-dənçəkilən spirtli içki. tut arağı. zoğal arağı.*** çəkmək. – ərəqlə badədir ol iki cövhər;ki",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "ARIQ",
+                "explanation": "sif. cılız",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "ATQI",
+                "explanation": "is. 1. bir şeyin üzərindən atılan tir və s. 2. toxuculuqda: ərişin üstünə gələn və məkiklə atılan arğac ipi",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "AYAQ",
+                "explanation": "is. klas. qədəh",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "AYIQ",
+                "explanation": "sif. və zərf 1. bayğınlığı",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 5
+            },
+            {
+                "word": "QARA",
+                "explanation": "is. yer kürəsinin torpaqla örtülühissəsi; torpaq (su qarşılığı). ***da və suda.*** qüvvələri",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 6
+            },
+            {
+                "word": "QARI",
+                "explanation": "is. 1. qoca qadın",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 7
+            },
+            {
+                "word": "QART",
+                "explanation": "is. dan. kəsər alətləri itiləmək üçün daş; bülöv. dəryazları *** ilə itiləmək. *** daşı. mən də *** daşlara verdiyim bu hiss; bu incə mənadan necə",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 8
+            },
+            {
+                "word": "QATI",
+                "explanation": "sif. 1. sıyıq",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 9
+            },
+            {
+                "word": "QAYA",
+                "explanation": "is. 1. daşlıq və sarp dağ; daşlıq uçurum",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 10
+            },
+            {
+                "word": "QIRA",
+                "explanation": "is. məh. təndirdən çörəyi qoparmaqüçün qarmaqlı alət. // qarmaq. …küçədə***dan tutub dartanda məftilin vasitəsilə zəngiçəridə tərpənir",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 11
+            },
+            {
+                "word": "QIRT",
+                "explanation": "is. cücə çıxarmaq üçün yumurtaüstündə yatan toyuq. □ *** basdırmaq –*** düşmüş toyuğun altına yumurta qoymaq",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 12
+            },
+            {
+                "word": "QRAM",
+                "explanation": "[fr.] metr ölçü sisteminin çəki vahidi(1 kub santimetr suyun çəkisinə bərabərdir).◊ ***-atom kim. fiz",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 13
+            },
+            {
+                "word": "RAQA",
+                "explanation": "is. [sanskr.] mus. qədim hind klassikmusiqisi növlərindən biri",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 14
+            },
+            {
+                "word": "AQRAR",
+                "explanation": "sif. [lat.] 1. torpağa aid olan. ***məsələ. *** islahatı.2. kənd təsərrüfatının sənayedən yüksəkolması ilə səciyyələnən",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 15
+            },
+            {
+                "word": "ARTIQ",
+                "explanation": "zərf və sif. 1. çox",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 16
+            },
+            {
+                "word": "AYQIR",
+                "explanation": "is. döllük erkək at. at zavodundacins ***lar yetişdirilir. – *** başını qaldırıbilxıya gələn qatıra diqqətlə baxdı",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 17
+            },
+            {
+                "word": "AYRIQ",
+                "explanation": "is. bot. çoxillik taxıllar fəsiləsinə mənsub ot",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 18
+            },
+            {
+                "word": "QARIM",
+                "explanation": "is. məh. 1. alaçığın içinə su girməməküçün",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 19
+            },
+            {
+                "word": "QARTI",
+                "explanation": "is. yapıncı; keçədən çoban bürüncəyi.dünya malından var: sicim çatısı; patavası",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 20
+            },
+            {
+                "word": "QATAR",
+                "explanation": "is. 1. bir-birinin ardınca sıralanmış heyvanlar düzümü; qafilə",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 21
+            },
+            {
+                "word": "QATIQ",
+                "explanation": "is. 1. südü bişirib",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 22
+            },
+            {
+                "word": "QATIM",
+                "explanation": "is. qatma",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 23
+            },
+            {
+                "word": "QATIR",
+                "explanation": "is. eşşəklə madyanın cütləşməsindəntörəyən yük heyvanı. kənd təsərrüfatheyvanlarından at",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 24
+            },
+            {
+                "word": "QATQI",
+                "explanation": "is. bir şeyə qatılan başqa maddə;aşqar",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 25
+            },
+            {
+                "word": "QATMA",
+                "explanation": "is. kəndir və ya yundan eşilmişip. [hatəmxan ağa:] çiyninə bir *** bağlayıbsan",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 26
+            },
+            {
+                "word": "QAYIQ",
+                "explanation": "is. 1. su nəqliyyat vasitəsi. motorlu***. yelkənli ***. balıqçı qayığı.***da gəzmək. – ***lar",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 27
+            },
+            {
+                "word": "QAYIM",
+                "explanation": "sif. köhn. 1. uca",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 28
+            },
+            {
+                "word": "QAYMA",
+                "explanation": "is. böyük daş parçası. qayadanqopmuş bir ***nı işçilər yolun ağzındanbir tərəfə çəkdilər",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 29
+            },
+            {
+                "word": "QIRAQ",
+                "explanation": "is. 1. bir şeyin kənarı",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 30
+            },
+            {
+                "word": "QIRIQ",
+                "explanation": "sif. 1. qırılmış",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 31
+            },
+            {
+                "word": "QIRIM",
+                "explanation": "is. dan. görkəm",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 32
+            },
+            {
+                "word": "QIRMA",
+                "explanation": "is. 1. “***q”dan f.is.2. ov tüfəngindən atılmaq üçün qurğuşundantökülən xırda kürəciklər; seçmə. butüfəng ***nı çox yayır",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 33
+            },
+            {
+                "word": "QIRTI",
+                "explanation": "is. dan. parça",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 34
+            },
+            {
+                "word": "QIYIQ",
+                "explanation": "is. torba",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 35
+            },
+            {
+                "word": "MARAQ",
+                "explanation": "is. 1. bir şeyə diqqət",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 36
+            },
+            {
+                "word": "MARIQ",
+                "explanation": "is. pusqu. □ marığa durmaq –pusquda durmaq",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 37
+            },
+            {
+                "word": "MIRIQ",
+                "explanation": "sif. 1. qabaq dişləri çürümüş kötükhalında olan",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 38
+            },
+            {
+                "word": "TAQIM",
+                "explanation": "is. köhn. 1. bax vzvod. uzunboylu",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 39
+            },
+            {
+                "word": "YAMAQ",
+                "explanation": "is. 1. bir şeyin cırıq və ya yırtıqyerini qapayıb örtmək üçün həmin (və yabaşqa) materialdan oraya tikilən və ya yapışdırılanqumaş və s",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 40
+            },
+            {
+                "word": "YARAQ",
+                "explanation": "is. 1. silah. koroğlu gördü",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 41
+            },
+            {
+                "word": "YARIQ",
+                "explanation": "1. is. bir şey üzərində uzununadərin kəsik. hardasa lap yaxında",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 42
+            },
+            {
+                "word": "YATAQ",
+                "explanation": "is. 1. yatmaq üçün yorğan-döşək salınmış yer",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 43
+            },
+            {
+                "word": "YATIQ",
+                "explanation": "sif. 1. əyilmiş",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 44
+            },
+            {
+                "word": "YAYIQ",
+                "explanation": "sif. məh. 1. göz qabağında olmayan",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 45
+            },
+            {
+                "word": "YAYQI",
+                "explanation": "is. yerə və ya döşəmə üzərinə sərilənşeylər: palaz",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 46
+            },
+            {
+                "word": "QARAMA",
+                "explanation": "is. məh. 1. çay və bulaq ətrafındakıpalçıqlı su",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 47
+            },
+            {
+                "word": "QARMAQ",
+                "explanation": "is. 1. şey asmaq",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 48
+            },
+            {
+                "word": "QATARI",
+                "explanation": "sif. və zərf qatarla",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 49
+            },
+            {
+                "word": "QAYMAQ",
+                "explanation": "is. 1. bişirilən",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 50
+            },
+            {
+                "word": "QAYTAQ",
+                "explanation": "is. bağ",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 51
+            },
+            {
+                "word": "QIYQIY",
+                "explanation": "is. 1. bir ayağı üstündə yerimə.2. bu cür oynanılan uşaq oyunu",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 52
+            },
+            {
+                "word": "MAYMAQ",
+                "explanation": "sif. çox huşsuz",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 53
+            },
+            {
+                "word": "TAYTAQ",
+                "explanation": "sif. və is. axsaq",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 54
+            },
+            {
+                "word": "YIRTIQ",
+                "explanation": "is. hər hansı bir orqanın",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 55
+            },
+            {
+                "word": "QARQARA",
+                "explanation": "is. xüs. ağır şeyləri qaldırmaqüçün yüksəkdə mil üstündə dolanan vəüzərindən ip sallanan çarx. // ümumiyyətlə",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 56
+            },
+            {
+                "word": "QARTMAQ",
+                "explanation": "is. 1. sağalmaq üzrə olanyaranın üzündə əmələ gələn köz",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 57
+            },
+            {
+                "word": "QATQATI",
+                "explanation": "is. bayt. gövşəyən heyvanlarınqarnı ilə qursağı arasındakı həzm üzvü",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 58
+            },
+            {
+                "word": "QAYIRMA",
+                "explanation": "1. “***q”dan f.is. 2. sif. saxta",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 59
+            },
+            {
+                "word": "QIRQIRA",
+                "explanation": "is. məh. qır-qır səs çıxaranuşaq oyuncağı",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 60
+            },
+            {
+                "word": "QIRTMIQ",
+                "explanation": "sif. dan. qıraqlarının tükü getmiş.başında bir *** papağı var idi",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 61
+            },
+            {
+                "word": "TARAQQA",
+                "explanation": "is. içi barıtla doldurulmuş kağızdandüzələn partlayıcı fişəng (atəşbazlıqdaəyləncə üçün işlənir)",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 62
+            },
+            {
+                "word": "QARAAYAQ",
+                "explanation": "sif. bədəni başqa rəng",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 63
+            },
+            {
+                "word": "QARAYARA",
+                "explanation": "is. qaramalda",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 64
+            },
+            {
+                "word": "QAYTARMA",
+                "explanation": "is. 1. “***q”dan f.is.2. bot. çoxillik çəmən bitkisi.3. oyun havalarından birinin adı",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 65
+            },
+            {
+                "word": "QARAYATAQ",
+                "explanation": "sif. dan. daima xəstə olubyatağından durmayan",
+                "isPanagram": false,
+                "score": 9,
+                "length": 9,
+                "id": 66
+            },
+            {
+                "word": "QIRIQQIRIQ",
+                "explanation": "sif. və zərf tikə-tikə",
+                "isPanagram": false,
+                "score": 10,
+                "length": 10,
+                "id": 67
+            },
+            {
+                "word": "QIRIMQIRTI",
+                "explanation": "sif. dan. qırıq",
+                "isPanagram": false,
+                "score": 10,
+                "length": 10,
+                "id": 68
+            },
+            {
+                "word": "TARAQTARAQ",
+                "explanation": "is. təkrar edən",
+                "isPanagram": false,
+                "score": 10,
+                "length": 10,
+                "id": 69
+            },
+            {
+                "word": "YAMAQYAMAQ",
+                "explanation": "sif. başdan-ayağa yamaqlı",
+                "isPanagram": false,
+                "score": 10,
+                "length": 10,
+                "id": 70
+            },
+            {
+                "word": "QIRIMQIRTIQ",
+                "explanation": "sif. dan. qırıq",
+                "isPanagram": false,
+                "score": 11,
+                "length": 11,
+                "id": 71
+            },
+            {
+                "word": "YAMAQYIRTIQ",
+                "explanation": "is. yamanması lazımolan hər şey",
+                "isPanagram": true,
+                "score": 17,
+                "length": 11,
+                "id": 72
+            },
+            {
+                "word": "YARIMQATI",
+                "explanation": "sif. tam qatı olmayan",
+                "isPanagram": true,
+                "score": 17,
+                "length": 9,
+                "id": 73
+            },
+            {
+                "word": "YIRTIQYAMAQ",
+                "explanation": "is. köhnə",
+                "isPanagram": true,
+                "score": 17,
+                "length": 11,
+                "id": 74
+            }
+        ]
+    }
+}

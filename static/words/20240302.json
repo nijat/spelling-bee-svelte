@@ -1,0 +1,285 @@
+{
+    "gameData": {
+        "day": "20240302",
+        "expiration": "1709423940",
+        "centerLetter": "B",
+        "outerLetters": [
+            "A",
+            "H",
+            "Ü",
+            "N",
+            "Ə",
+            "R"
+        ],
+        "words_info": {
+            "word_count": 32,
+            "sum_score": 140,
+            "panagram_count": 1,
+            "word_length": {
+                "8": 2,
+                "5": 12,
+                "7": 2,
+                "4": 11,
+                "6": 5
+            }
+        },
+        "words": [
+            {
+                "word": "BABA",
+                "explanation": "is. 1. atanın",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "BAHA",
+                "explanation": "[fars.] 1. is. dəyər",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "BARƏ",
+                "explanation": "is. [fars.] köhn. bənd",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "BƏBƏ",
+                "explanation": "is. 1. körpə uşaq",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "BƏBR",
+                "explanation": "is. [fars.] məməli heyvanların yırtıcılar dəstəsinə mənsub pələngəoxşar heyvan. vəhşi heyvanlardan lənkəran sahəsində bəbir və respublikamızın meşələr",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 5
+            },
+            {
+                "word": "BƏHR",
+                "explanation": "is. [ər.] vəzn (şeirdə",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 6
+            },
+            {
+                "word": "BƏRƏ",
+                "explanation": "is. 1. böyük çayların üstündə qurulanmütəhərrik körpü",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 7
+            },
+            {
+                "word": "ƏBNA",
+                "explanation": "is. [ər. “ibn” söz. cəmi] klas. övladlar",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 8
+            },
+            {
+                "word": "ƏRƏB",
+                "explanation": "is. 1. ön asiyada və şimali afrikadayaşayan",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 9
+            },
+            {
+                "word": "HƏRB",
+                "explanation": "is. [ər.] müharibə",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 10
+            },
+            {
+                "word": "RƏBB",
+                "explanation": "is. ər. allah",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 11
+            },
+            {
+                "word": "ANBAR",
+                "explanation": "is. taxıl",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 12
+            },
+            {
+                "word": "ARABA",
+                "explanation": "is. iki və ya dördtəkərli nəqliyyatvasitəsi. minik ***sı. yük ***sı. əl ***sı(əl ilə sürülən ***)",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 13
+            },
+            {
+                "word": "BAHAR",
+                "explanation": "is. [fars.] 1. ilin qış",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 14
+            },
+            {
+                "word": "BARAN",
+                "explanation": "is. [fars.] klas. yağış",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 15
+            },
+            {
+                "word": "BƏHƏR",
+                "explanation": "is. [fars.] 1. meyvə",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 16
+            },
+            {
+                "word": "BƏHRƏ",
+                "explanation": "is. 1. bax bəhər. …heydərqulu***ni tamam alıb",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 17
+            },
+            {
+                "word": "BƏNNA",
+                "explanation": "is. [ər.] binanın daş",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 18
+            },
+            {
+                "word": "ƏNBƏR",
+                "explanation": "is. [ər.] 1. kaşalota oxşar bir balığınmədəsindən çıxarılan gözəl qoxulumaddə. *** qara",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 19
+            },
+            {
+                "word": "ƏRBAB",
+                "explanation": "sif. [ər. “rəbb” söz. cəmi] köhn.ağa",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 20
+            },
+            {
+                "word": "HƏRBƏ",
+                "explanation": "is. [ər.] köhn. 1. qısa süngü",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 21
+            },
+            {
+                "word": "HÜBAB",
+                "explanation": "is. [ər.] 1. yağış yağanda su üstündəəmələ gələn qabarcıqlar.2. köhn. köpük. bu vilayət şahının qəlbiinam nöqtəsi; o da ki",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 22
+            },
+            {
+                "word": "RÜBAB",
+                "explanation": "is. [ər.] bir çox şərq xalqlarıarasında geniş yayılmış simli musiqi aləti.***ın incə tellərdir",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 23
+            },
+            {
+                "word": "BƏHANƏ",
+                "explanation": "is. [fars.] 1. bir iş üçün əsas olabilən keyfiyyət",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 24
+            },
+            {
+                "word": "BÜRHAN",
+                "explanation": "is. [ər.] dəlil",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 25
+            },
+            {
+                "word": "BÜRRAN",
+                "explanation": "sif. [fars.] klas. kəsən",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 26
+            },
+            {
+                "word": "ƏNBƏRƏ",
+                "explanation": "is. dəyirman çarxını işlədənsuyun yığılıb şiddətlə töküldüyü nov. dəyirmanınsuyu ***yə yığılır",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 27
+            },
+            {
+                "word": "RƏHBƏR",
+                "explanation": "is. [fars.] 1. hər hansı bir ictimaihərəkatın",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 28
+            },
+            {
+                "word": "ARABƏRƏ",
+                "explanation": "is. dan. 1. aralıq",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 29
+            },
+            {
+                "word": "BƏRABƏR",
+                "explanation": "1. sif. başqası ilə tən",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 30
+            },
+            {
+                "word": "ƏNBƏRBAR",
+                "explanation": "sif. [ər. ənbər və fars. …bar]klas. şair. ənbər saçan",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 31
+            },
+            {
+                "word": "AHƏNRÜBA",
+                "explanation": "is. [fars.] bax maqnit.*** – yunanca miqnatis",
+                "isPanagram": true,
+                "score": 17,
+                "length": 8,
+                "id": 32
+            }
+        ]
+    }
+}

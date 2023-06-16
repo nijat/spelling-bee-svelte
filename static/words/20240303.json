@@ -1,0 +1,285 @@
+{
+    "gameData": {
+        "day": "20240303",
+        "expiration": "1709510340",
+        "centerLetter": "T",
+        "outerLetters": [
+            "N",
+            "A",
+            "Ş",
+            "B",
+            "Z",
+            "Ə"
+        ],
+        "words_info": {
+            "word_count": 32,
+            "sum_score": 158,
+            "panagram_count": 1,
+            "word_length": {
+                "4": 8,
+                "6": 4,
+                "7": 7,
+                "5": 12,
+                "9": 1
+            }
+        },
+        "words": [
+            {
+                "word": "ATAT",
+                "explanation": "is. uşaqların ağac üstə minərəkoynadıqları oyun. at-at oynamaq",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "ATƏŞ",
+                "explanation": "is. [fars.] 1. od. ***in təqazasıyandırmaqdır. o xasiyyət daim onda büruzedər. “əkinçi”. hər tərəfi *** sarımış",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "BƏTN",
+                "explanation": "is. [ər.] qarın. mənə elə gələrdi ki",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "ƏTƏŞ",
+                "explanation": "is. [fars.] susuzluq",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "TANA",
+                "explanation": "is. 1. sırğa. qızıl ***. – qızıl üzük",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 5
+            },
+            {
+                "word": "TƏNƏ",
+                "explanation": "[ər.] 1. is. danlaq",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 6
+            },
+            {
+                "word": "TƏZƏ",
+                "explanation": "sif. [fars.] yeni. aptekdən *** dərmangətirmişdilər. c.məmmədquluzadə. [gülyaz:]kəndimizə xəbər yayılıb ki",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 7
+            },
+            {
+                "word": "ZƏBT",
+                "explanation": "is. [ər.] silah gücü ilə",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 8
+            },
+            {
+                "word": "ATBAZ",
+                "explanation": "is. [at və fars. …baz] son dərəcəat sevən adam",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 9
+            },
+            {
+                "word": "BABAT",
+                "explanation": "sif. və zərf orta keyfiyyətli",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 10
+            },
+            {
+                "word": "ƏTBAŞ",
+                "explanation": "sif. dan. ağılsız",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 11
+            },
+            {
+                "word": "ƏTƏNƏ",
+                "explanation": "is. məməlilərdə: ana bətnindəbalanı bürüyən və bala onun içindən çıxdıqdansonra cırılıb düşən ət pərdəsi; son",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 12
+            },
+            {
+                "word": "NABAT",
+                "explanation": "is. [ər.] meyvə şirəsilə qənd qarışığındanhazırlanan şəffaf kristallik şirni növü.məşədi hüseyn müştəriyə ***ı verəndənsonra kərbəlayı rzadan kağ",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 13
+            },
+            {
+                "word": "NƏBAT",
+                "explanation": "is. [ər.] klas. bitki",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 14
+            },
+            {
+                "word": "NƏŞAT",
+                "explanation": "is. [ər.] klas. sevinc",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 15
+            },
+            {
+                "word": "NƏŞƏT",
+                "explanation": "is. [ər.] : *** etmək – törəmək",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 16
+            },
+            {
+                "word": "TABAN",
+                "explanation": "is. [fars.] köhn. parlaq",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 17
+            },
+            {
+                "word": "TƏBƏƏ",
+                "explanation": "is. [ər. “tabe” söz. cəmi] bir dövlətə tabe olan",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 18
+            },
+            {
+                "word": "TƏŞNƏ",
+                "explanation": "is. və sif. [fars.] klas. 1. susamış",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 19
+            },
+            {
+                "word": "ZATƏN",
+                "explanation": "zərf [ər.] 1. təbii olaraq",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 20
+            },
+            {
+                "word": "ATAANA",
+                "explanation": "is. öz övladına münasibətdəkişi və qadın; valideyn. ata-analar öz uşaqlarınıntərbiyəsinə fikir verməlidirlər",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 21
+            },
+            {
+                "word": "BATBAT",
+                "explanation": "is. bot. bəngotu; pis qoxulu acıdadan ot bitki (xalq təbabətində işlədilir).gödək saplaqlı yaşıl rəngli və yumurtayaoxşarzəhərli otların",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 22
+            },
+            {
+                "word": "ŞANTAN",
+                "explanation": "is. [fr.] əyləncə müəssisəsi",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 23
+            },
+            {
+                "word": "TƏZƏNƏ",
+                "explanation": "is. mizrab (saz)",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 24
+            },
+            {
+                "word": "ATABABA",
+                "explanation": "is. əcdad",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 25
+            },
+            {
+                "word": "ATƏŞBAZ",
+                "explanation": "is. [fars.] 1. yanar və partlayıcımaddələrdən bəzəkli",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 26
+            },
+            {
+                "word": "BƏŞAŞƏT",
+                "explanation": "is. [ər.] klas. gülərüzlülük",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 27
+            },
+            {
+                "word": "NƏBATAT",
+                "explanation": "is. [ər. “nəbat” söz. cəmi]1. bitki",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 28
+            },
+            {
+                "word": "ŞƏBABƏT",
+                "explanation": "is. [ər.] klas. gənclik",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 29
+            },
+            {
+                "word": "TƏBABƏT",
+                "explanation": "is. [ər.] xəstəliklər",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 30
+            },
+            {
+                "word": "TƏNTƏNƏ",
+                "explanation": "is. [ər.] 1. təmtəraq",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 31
+            },
+            {
+                "word": "ATƏŞZƏBAN",
+                "explanation": "sif. [fars.] odlu danışan",
+                "isPanagram": true,
+                "score": 17,
+                "length": 9,
+                "id": 32
+            }
+        ]
+    }
+}

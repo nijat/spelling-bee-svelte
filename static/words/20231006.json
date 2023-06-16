@@ -1,0 +1,198 @@
+{
+    "gameData": {
+        "day": "20231006",
+        "expiration": "1696636740",
+        "centerLetter": "R",
+        "outerLetters": [
+            "Ə",
+            "M",
+            "Ü",
+            "P",
+            "A",
+            "N"
+        ],
+        "words_info": {
+            "word_count": 21,
+            "sum_score": 79,
+            "panagram_count": 1,
+            "word_length": {
+                "4": 12,
+                "7": 2,
+                "5": 4,
+                "9": 1,
+                "8": 1,
+                "6": 1
+            }
+        },
+        "words": [
+            {
+                "word": "ARAM",
+                "explanation": "is. [fars.] sakitlik",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "ARAN",
+                "explanation": "is. azərbaycanda: yaylaq yerlərənisbətən alçaq və iqlimcə isti olan yerlər.azərbaycanın əsas *** yerləri muğan",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "ARPA",
+                "explanation": "is. 1. adətən",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "ƏRƏR",
+                "explanation": "is. [ər.] ardıc ağacı. qəddintəknə ər-ər",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "ƏRƏN",
+                "explanation": "is. (adətən cəm şəklində). 1. ər",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 5
+            },
+            {
+                "word": "ƏRRƏ",
+                "explanation": "is. [fars.] ikidəstəli iri mişar",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 6
+            },
+            {
+                "word": "MƏRƏ",
+                "explanation": "is. ***-*** oyunu üçün qazılançuxur",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 7
+            },
+            {
+                "word": "NƏRƏ",
+                "explanation": "is. məh. evlərin üstünə qoyulan tir.su gəldi",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 8
+            },
+            {
+                "word": "PARA",
+                "explanation": "is. [fars. parə] 1. bir parça",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 9
+            },
+            {
+                "word": "PƏRƏ",
+                "explanation": "is. burnun xarici deşiklərindən hər biri. [ilyas:] hirsindən [tərlanın] geniş açılmış burun ***ləri elə bil od saçırdı",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 10
+            },
+            {
+                "word": "RƏMƏ",
+                "explanation": "is. [fars.] sürü. qoyun sürüsü",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 11
+            },
+            {
+                "word": "RƏNA",
+                "explanation": "sif. və is. [ər.] şair. 1. gözəl (qız",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 12
+            },
+            {
+                "word": "MƏRAM",
+                "explanation": "is. [ər.] istək",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 13
+            },
+            {
+                "word": "NƏMƏR",
+                "explanation": "is. etnoqr. xalq adətincə toyda",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 14
+            },
+            {
+                "word": "RAMPA",
+                "explanation": "[fr.] səhnəyə yönəldilmiş işıqlandırıcıcihazları tamaşaçıdan gizlədən",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 15
+            },
+            {
+                "word": "ÜMƏRA",
+                "explanation": "is. [ər. “əmir” söz. cəmi] klas.əmirlər",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 16
+            },
+            {
+                "word": "MƏRMƏR",
+                "explanation": "is. [lat.] 1. heykəltəraşlıqda vəmemarlıqda işlənən müxtəlif rəngli kristallikdağ süxuru – kirəc daş",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 17
+            },
+            {
+                "word": "ƏMRNAMƏ",
+                "explanation": "is. [ər. əmr və fars. …namə]əmr yazılmış kağız",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 18
+            },
+            {
+                "word": "MƏRƏMƏRƏ",
+                "explanation": "is. qoz",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 19
+            },
+            {
+                "word": "MƏRAMNAMƏ",
+                "explanation": "is. [ər. məram və fars.…namə] siyasi partiyanın",
+                "isPanagram": false,
+                "score": 9,
+                "length": 9,
+                "id": 20
+            },
+            {
+                "word": "PÜRMƏNA",
+                "explanation": "sif. [fars. pür və ər. məna] klas.mənalı",
+                "isPanagram": true,
+                "score": 17,
+                "length": 7,
+                "id": 21
+            }
+        ]
+    }
+}

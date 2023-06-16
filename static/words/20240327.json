@@ -1,0 +1,309 @@
+{
+    "gameData": {
+        "day": "20240327",
+        "expiration": "1711583940",
+        "centerLetter": "M",
+        "outerLetters": [
+            "E",
+            "A",
+            "L",
+            "T",
+            "N",
+            "R"
+        ],
+        "words_info": {
+            "word_count": 35,
+            "sum_score": 148,
+            "panagram_count": 1,
+            "word_length": {
+                "4": 14,
+                "6": 5,
+                "5": 10,
+                "7": 4,
+                "9": 2
+            }
+        },
+        "words": [
+            {
+                "word": "ALAM",
+                "explanation": "is. [ər. “ələm” söz. cəmi] qəm",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "ALMA",
+                "explanation": "is. müxtəlif çeşidləri və müxtəlif rənglərdə olan girdə",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "AMAL",
+                "explanation": "is. [ər. “əməl” söz. cəmi] tənt. qayə",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "AMAN",
+                "explanation": "is. [ər.] 1. əmin-***lıq",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "ANMA",
+                "explanation": "“***q”dan f.is. *** mərasimi",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 5
+            },
+            {
+                "word": "ARAM",
+                "explanation": "is. [fars.] sakitlik",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 6
+            },
+            {
+                "word": "ATMA",
+                "explanation": "“***q”dan f.is. və s. *** nizə.ən qədim insanların ilk *** silahı daş",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 7
+            },
+            {
+                "word": "ELAM",
+                "explanation": "is. [ər.] klas. bildirmə",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 8
+            },
+            {
+                "word": "EMAL",
+                "explanation": "is. [ər.] müxtəlif əməliyyat vasitəsiləqayırma",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 9
+            },
+            {
+                "word": "MALA",
+                "explanation": "is. [fars.] 1. binanın iç və bayırdivarlarına çəkmək üçün əhəng",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 10
+            },
+            {
+                "word": "MAMA",
+                "explanation": "is. doğuş zamanı kömək göstərməkləməşğul olan (keçmişdə təhsilsiz",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 11
+            },
+            {
+                "word": "MANE",
+                "explanation": "[ər.] : *** olmaq – əngəl olmaq",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 12
+            },
+            {
+                "word": "MART",
+                "explanation": "[lat.] təqvim ilinin üçüncü ayı.*** qırğınları. – *** çıxdı",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 13
+            },
+            {
+                "word": "TAAM",
+                "explanation": "is. [ər.] 1. xörək",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 14
+            },
+            {
+                "word": "ALMAN",
+                "explanation": "is. ***iyanın əsas əhalisinitəşkil edən xalq və bu xalqa mənsub adam.*** ədəbiyyatının qədim abidələri",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 15
+            },
+            {
+                "word": "ARTMA",
+                "explanation": "1. “***q”dan f.is.2. is. artan şey",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 16
+            },
+            {
+                "word": "MANAT",
+                "explanation": "is. azərbaycanda yüz qəpiyəbərabər olan əsas pul vahidi. // bu dəyərdəolan kağız və ya metal pul. hər biri mərdlikedib isbat; dəftərə yazdı: verrəm",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 17
+            },
+            {
+                "word": "MARAL",
+                "explanation": "is. zool. buynuzları budaq kimişaxələnən",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 18
+            },
+            {
+                "word": "MATAN",
+                "explanation": "sif. və is. dan. kök",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 19
+            },
+            {
+                "word": "MEMAR",
+                "explanation": "is. [ər.] ***lıq mütəxəssisi;arxitektor. [sənubər pərşana:] bu çox ciddiişdir",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 20
+            },
+            {
+                "word": "METAL",
+                "explanation": "[lat. ***lum",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 21
+            },
+            {
+                "word": "METAN",
+                "explanation": "[fr. methane] karbonla hidrogenin birləşməsindən ibarət rəngsiz qaz",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 22
+            },
+            {
+                "word": "TAMAM",
+                "explanation": "is. [ər.] 1. bitmə",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 23
+            },
+            {
+                "word": "TAMET",
+                "explanation": "is. tikinti materialı",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 24
+            },
+            {
+                "word": "ALAMAN",
+                "explanation": "is. məh. köhn. çapqın",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 25
+            },
+            {
+                "word": "ATAMAN",
+                "explanation": "is. 1. tar. rusiyada: kazak vilayətlərindəvə qədimdə kazak qoşunlarındahərbi inzibati vəzifələrin adı",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 26
+            },
+            {
+                "word": "ATLAMA",
+                "explanation": "is. su qatılaraq duru hala salınmışqatıq; ayran. yayın ***sı",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 27
+            },
+            {
+                "word": "MARTEN",
+                "explanation": "[xüs. is.-dən] : *** peçi (sobası) – polad əritmək üçün xüsusi quruluşlu soba",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 28
+            },
+            {
+                "word": "TARMAR",
+                "explanation": "sif. 1. bir-birinə qarışmış",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 29
+            },
+            {
+                "word": "ARLANMA",
+                "explanation": "“***q”dan f.is. arsıznədən arlanar?! (məsəl)",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 30
+            },
+            {
+                "word": "ELEMENT",
+                "explanation": "[lat.] 1. kim. adi kimyəviüsullarla öz tərkib hissələrinə ayrıla bilməyən",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 31
+            },
+            {
+                "word": "MALAMAL",
+                "explanation": "sif. və zərf [fars.] dolu",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 32
+            },
+            {
+                "word": "NATAMAM",
+                "explanation": "sif. [fars. na… və ər. təmam]1. bitməmiş",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 33
+            },
+            {
+                "word": "TAMAMLAMA",
+                "explanation": "1. “***q”dan f.is.2. is. əgər-əskiyini düzəltmə",
+                "isPanagram": false,
+                "score": 9,
+                "length": 9,
+                "id": 34
+            },
+            {
+                "word": "ELEMENTAR",
+                "explanation": "sif. 1. ibtidai",
+                "isPanagram": true,
+                "score": 17,
+                "length": 9,
+                "id": 35
+            }
+        ]
+    }
+}

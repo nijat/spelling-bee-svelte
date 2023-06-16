@@ -1,0 +1,269 @@
+{
+    "gameData": {
+        "day": "20230627",
+        "expiration": "1687910340",
+        "centerLetter": "S",
+        "outerLetters": [
+            "B",
+            "A",
+            "R",
+            "I",
+            "Q",
+            "D"
+        ],
+        "words_info": {
+            "word_count": 30,
+            "sum_score": 149,
+            "panagram_count": 1,
+            "word_length": {
+                "5": 12,
+                "6": 5,
+                "4": 7,
+                "7": 5,
+                "8": 1
+            }
+        },
+        "words": [
+            {
+                "word": "ASAR",
+                "explanation": "is. [ər. “əsər” söz. cəmi] köhn. 1. əlamət",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "ASQI",
+                "explanation": "is. paltar və ya başqa şeylər asmağaməxsus alət. bu paltarlı skeletin iti çiyinsümükləri *** kimi ağ abanı saxlayır",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "QISA",
+                "explanation": "sif. 1. boyca gödək",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "RISA",
+                "explanation": "is. ipə",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "SAQA",
+                "explanation": "is. ədəb. nəsrlə yazılmış qədim islandəsərləri",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 5
+            },
+            {
+                "word": "SARI",
+                "explanation": "1. sif. narıncı rənglə yaşıl arasındaolan (rəng)",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 6
+            },
+            {
+                "word": "SIRA",
+                "explanation": "is. 1. yan-yana və ya ard-arda duranadamlar və ya şeylər düzümü; səf",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 7
+            },
+            {
+                "word": "ABASI",
+                "explanation": "is. [xüs. is.-dən] 1. dördşahılıq (iyimiqəpiklik) metal pul. cibimdə bir abbası pulum var. – [hacı qara:] bu kasad bazarda mənim bir şahım yoxdur",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 8
+            },
+            {
+                "word": "BASIQ",
+                "explanation": "sif. 1. yastı",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 9
+            },
+            {
+                "word": "BASQI",
+                "explanation": "is. basmaq işi",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 10
+            },
+            {
+                "word": "QASIQ",
+                "explanation": "is. anat. qarnın iki bud arasındaolan alt tərəfi",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 11
+            },
+            {
+                "word": "QISIQ",
+                "explanation": "sif. 1. qısılmış",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 12
+            },
+            {
+                "word": "QISIR",
+                "explanation": "sif. müvəqqəti və ya həmişəlikdoğmayan. *** inək",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 13
+            },
+            {
+                "word": "QISQI",
+                "explanation": "is. 1. tələsdirmə",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 14
+            },
+            {
+                "word": "SADAQ",
+                "explanation": "is. köhn. oxqabı. siyirə qılıncı",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 15
+            },
+            {
+                "word": "SAQQA",
+                "explanation": "is. [ər.] köhn. keçmişdə dalında",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 16
+            },
+            {
+                "word": "SARIQ",
+                "explanation": "is. 1. bax çalma3 1-ci mənada.[mərsiyəxan] məğrur bir halda … nəleyninigeydi və iki əli ilə tirmə sarığını düzəltdi…çəmənzəminli",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 17
+            },
+            {
+                "word": "SIRIQ",
+                "explanation": "is. paltara",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 18
+            },
+            {
+                "word": "SISQA",
+                "explanation": "sif. cılız",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 19
+            },
+            {
+                "word": "ABBASI",
+                "explanation": "is. [xüs. is.-dən] 1. dördşahılıq (iyimiqəpiklik) metal pul. cibimdə bir *** pulum var. – [hacı qara:] bu kasad bazarda mənim bir şahım yoxdur",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 20
+            },
+            {
+                "word": "BASBAS",
+                "explanation": "is. məh. yaş meyvələri",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 21
+            },
+            {
+                "word": "QARSAQ",
+                "explanation": "sif. odla",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 22
+            },
+            {
+                "word": "QISRAQ",
+                "explanation": "sif. doğmayan",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 23
+            },
+            {
+                "word": "SARSAQ",
+                "explanation": "sif. səfeh",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 24
+            },
+            {
+                "word": "ASQIRIQ",
+                "explanation": "is. burun sinirlərinin birdənbirəqıcıqlanması nəticəsində qeyri-iradiolaraq öskürməyə bənzər səs çıxarmaqla",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 25
+            },
+            {
+                "word": "BASABAS",
+                "explanation": "is. basırıq",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 26
+            },
+            {
+                "word": "BASIRIQ",
+                "explanation": "is. sıxlıq",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 27
+            },
+            {
+                "word": "QISARAQ",
+                "explanation": "sif. bir qədər qısa",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 28
+            },
+            {
+                "word": "SIRSIRA",
+                "explanation": "is. axmaqda olan su damcılarınındonması nəticəsində əmələ gələn buzlülələri. daşın kənarı *** bağlamışdır",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 29
+            },
+            {
+                "word": "BASDIRIQ",
+                "explanation": "is. dan. 1. bax basırıq.2. dar gün üçün gizlədilmiş pul",
+                "isPanagram": true,
+                "score": 17,
+                "length": 8,
+                "id": 30
+            }
+        ]
+    }
+}

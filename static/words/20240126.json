@@ -1,0 +1,173 @@
+{
+    "gameData": {
+        "day": "20240126",
+        "expiration": "1706313540",
+        "centerLetter": "T",
+        "outerLetters": [
+            "Ç",
+            "S",
+            "A",
+            "Q",
+            "Ü",
+            "I"
+        ],
+        "words_info": {
+            "word_count": 18,
+            "sum_score": 75,
+            "panagram_count": 1,
+            "word_length": {
+                "4": 8,
+                "6": 1,
+                "5": 6,
+                "7": 2,
+                "8": 1
+            }
+        },
+        "words": [
+            {
+                "word": "ATAT",
+                "explanation": "is. uşaqların ağac üstə minərəkoynadıqları oyun. at-at oynamaq",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "ATÇI",
+                "explanation": "is. ata baxan",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "ATQI",
+                "explanation": "is. 1. bir şeyin üzərindən atılan tir və s. 2. toxuculuqda: ərişin üstünə gələn və məkiklə atılan arğac ipi",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "ÇATI",
+                "explanation": "is. qıldan hörülmüş qalın kəndir.örkən",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "QATI",
+                "explanation": "sif. 1. sıyıq",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 5
+            },
+            {
+                "word": "SAAT",
+                "explanation": "is. [ər.] 1. gecə-gündüzün iyirmi dörddə birini təşkil edən və 60 dəqiqədən ibarət olan vaxt ölçüsü vahidi",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 6
+            },
+            {
+                "word": "SÜST",
+                "explanation": "sif. [fars.] 1. hərəkət etməyə iqtidarı olmayan",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 7
+            },
+            {
+                "word": "TASA",
+                "explanation": "is. [fars.] 1. qəm",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 8
+            },
+            {
+                "word": "ÇATAQ",
+                "explanation": "1. bax çarpaz 1-ci mənada.2. sif. yapışıq",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 9
+            },
+            {
+                "word": "ÇATIQ",
+                "explanation": "sif. çatılmış",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 10
+            },
+            {
+                "word": "QATIQ",
+                "explanation": "is. 1. südü bişirib",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 11
+            },
+            {
+                "word": "QATQI",
+                "explanation": "is. bir şeyə qatılan başqa maddə;aşqar",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 12
+            },
+            {
+                "word": "TÜSTÜ",
+                "explanation": "is. 1. yanan bir şeydən havaya qalxandumanaoxşar qazvari kəsif zərrəciklər.papiros ***sü. qara ***",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 13
+            },
+            {
+                "word": "ÜÇQAT",
+                "explanation": "sif. 1. üç qatı olan; üçmərtəbəli. ***(lı) ev. 2. bir-biri üzərində üç qat olan; üçlaylı. *** xəmir",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 14
+            },
+            {
+                "word": "ATÜSTÜ",
+                "explanation": "sif. və zərf dan. başdansovma",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 15
+            },
+            {
+                "word": "QATIQÇI",
+                "explanation": "is. qatıq hazırlayıb satan adam",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 16
+            },
+            {
+                "word": "QATQATI",
+                "explanation": "is. bayt. gövşəyən heyvanlarınqarnı ilə qursağı arasındakı həzm üzvü",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 17
+            },
+            {
+                "word": "ÜSTÜAÇIQ",
+                "explanation": "1. sif. üstü örtülməmiş",
+                "isPanagram": true,
+                "score": 17,
+                "length": 8,
+                "id": 18
+            }
+        ]
+    }
+}

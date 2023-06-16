@@ -1,0 +1,263 @@
+{
+    "gameData": {
+        "day": "20240520",
+        "expiration": "1716249540",
+        "centerLetter": "Q",
+        "outerLetters": [
+            "A",
+            "L",
+            "K",
+            "N",
+            "F",
+            "İ"
+        ],
+        "words_info": {
+            "word_count": 29,
+            "sum_score": 144,
+            "panagram_count": 1,
+            "word_length": {
+                "4": 9,
+                "9": 1,
+                "5": 9,
+                "7": 4,
+                "8": 3,
+                "6": 2,
+                "10": 1
+            }
+        },
+        "words": [
+            {
+                "word": "AFAQ",
+                "explanation": "is. [ər. “üfüq” söz. cəmi] şair. 1. üfüqlər. məhtab bir şəb idi",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "AQİL",
+                "explanation": "sif. [ər.] ağıllı",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "ALAQ",
+                "explanation": "is. tarlada",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "QAAN",
+                "explanation": "is. tar. türk",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "QAFA",
+                "explanation": "is. [ər.] baş. çar zabitlərinin ***sındaiki şey hökm sürürdü: şəhvət və şərab.m.s.ordubadi. həkimin olmasa qırxıq***sı; mərizə faidə verməz dəvas",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 5
+            },
+            {
+                "word": "QAİL",
+                "explanation": "[ər.] köhn. inanan",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 6
+            },
+            {
+                "word": "QALA",
+                "explanation": "is. [ər.] 1. uzun müddət içində qapanıbdüşmənə müqavimət göstərmək üçünmöhkəm müdafiə tikililəri və vasitələri olanistehkam (məntəqə)",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 7
+            },
+            {
+                "word": "QİNA",
+                "explanation": "is. [ər.] köhn. xanəndəlik; nəğmə",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 8
+            },
+            {
+                "word": "LİQA",
+                "explanation": "is. [ər.] klas. üz",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 9
+            },
+            {
+                "word": "ANLAQ",
+                "explanation": "is. düşüncə",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 10
+            },
+            {
+                "word": "QAFİL",
+                "explanation": "sif. [ər.] 1. nə edəcəyini və başınanə gələcəyini irəlicədən düşünməyib",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 11
+            },
+            {
+                "word": "QALAQ",
+                "explanation": "is. bir yerə qalanmış",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 12
+            },
+            {
+                "word": "QİLAF",
+                "explanation": "is. [ər.] qın",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 13
+            },
+            {
+                "word": "LİQAF",
+                "explanation": "is. heyva və s. meyvələrin toxumununüzərində olan yumşaq və ağ maddə",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 14
+            },
+            {
+                "word": "NAQAN",
+                "explanation": "[xüs. is.-dən] hərlənən topu(barabanı) olan tapança növü. [balaqardaş:]güldəstə! bir gözümün içinə dürüst bax! bu***ı görürsənmi? n",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 15
+            },
+            {
+                "word": "NAQİL",
+                "explanation": "is. [ər.] 1. xüs. bax keçirici. metalelektrik ***idir.2. köhn. daşıyan",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 16
+            },
+            {
+                "word": "NAQQA",
+                "explanation": "is. zool. şirin suda yaşayan üstü pulsuz",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 17
+            },
+            {
+                "word": "NİFAQ",
+                "explanation": "is. [ər.] pozuşma",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 18
+            },
+            {
+                "word": "QANQAL",
+                "explanation": "is. bot. yarpağı tikanlı",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 19
+            },
+            {
+                "word": "NAQQAL",
+                "explanation": "sif. çox",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 20
+            },
+            {
+                "word": "FALAQQA",
+                "explanation": "is. molla məktəblərində şagirdləricəzalandırmaq üçün işlədilən alət.kimisi dərs oxuyur",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 21
+            },
+            {
+                "word": "QAİLLİK",
+                "explanation": "is. inam",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 22
+            },
+            {
+                "word": "QAQQANA",
+                "explanation": "is. qaqqıltı. pilləkəni titrətdi muştuluqçu qonşu qızın ***sı. r.rza. □ ***q çalmaq – 1) qaqqıldamaq",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 23
+            },
+            {
+                "word": "NAQAFİL",
+                "explanation": "sif. və zərf [fars. na… və ər.qafil] qəfildən",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 24
+            },
+            {
+                "word": "QAFİLLİK",
+                "explanation": "is. qəflət etmə",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 25
+            },
+            {
+                "word": "QAQQANAQ",
+                "explanation": "is. qaqqıltı. pilləkəni titrətdi muştuluqçu qonşu qızın qaqqanası. r.rza. □ *** çalmaq – 1) qaqqıldamaq",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 26
+            },
+            {
+                "word": "NAQİLLİK",
+                "explanation": "is. fiz. nəql etmə",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 27
+            },
+            {
+                "word": "ALAQANQAL",
+                "explanation": "is. bot. ağ ləkəli yarpaqlarıolan tikanlı alaq otu",
+                "isPanagram": false,
+                "score": 9,
+                "length": 9,
+                "id": 28
+            },
+            {
+                "word": "NAQAFİLLİK",
+                "explanation": "is. gözlənilməzlik",
+                "isPanagram": true,
+                "score": 17,
+                "length": 10,
+                "id": 29
+            }
+        ]
+    }
+}

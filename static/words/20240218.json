@@ -1,0 +1,164 @@
+{
+    "gameData": {
+        "day": "20240218",
+        "expiration": "1708300740",
+        "centerLetter": "O",
+        "outerLetters": [
+            "G",
+            "N",
+            "T",
+            "R",
+            "A",
+            "E"
+        ],
+        "words_info": {
+            "word_count": 17,
+            "sum_score": 87,
+            "panagram_count": 1,
+            "word_length": {
+                "5": 11,
+                "9": 1,
+                "4": 3,
+                "6": 2
+            }
+        },
+        "words": [
+            {
+                "word": "NOTA",
+                "explanation": "[lat. *** – işarə",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "ORTA",
+                "explanation": "1. is. bir şeyin kənarlarından",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "TORT",
+                "explanation": "[ital.] yağ",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "ANTON",
+                "explanation": "*** alması [xüs. is.-dən] – payızda yetişən yaşıl-sarı rəngli",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 4
+            },
+            {
+                "word": "AORTA",
+                "explanation": "is. [yun.] anat. ürəyin sağ mədəciyindənçıxan və bədənin (ciyərlərdənbaşqa) bütün üzvlərini arterial qanla təchizedən ən böyük qan damarı; şah dama",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 5
+            },
+            {
+                "word": "GETTO",
+                "explanation": "[ital.] orta əsrlərdə avropada",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 6
+            },
+            {
+                "word": "NETTO",
+                "explanation": "[ital.] 1. əmtəənin qabsız xaliskütləsi.2. itkilər",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 7
+            },
+            {
+                "word": "NONET",
+                "explanation": "is. [ital.] 1. doqquz alət və ya səsüçün musiqi əsəri.2. doqquz ifaçıdan ibarət musiqi ansamblı",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 8
+            },
+            {
+                "word": "RETRO",
+                "explanation": "is. [ing.] 1. geri qayıtmaq.2. keçmişə uyğunluq",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 9
+            },
+            {
+                "word": "ROTOR",
+                "explanation": "[lat. rotare – fırlanma] maşının(turbinin",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 10
+            },
+            {
+                "word": "TENOR",
+                "explanation": "[ital.] ən uca zil kişi səsi. // beləsəsi olan müğənni. *** artist",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 11
+            },
+            {
+                "word": "TORAN",
+                "explanation": "is. 1. səhər hava işıqlanan və yaaxşam hava qaralmağa başlayan vaxt; alaqaranlıq.axşam ***ı. – [kazım] səhər ***ındameşəyə girdi",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 12
+            },
+            {
+                "word": "TORNA",
+                "explanation": "[ital.] tex. metal",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 13
+            },
+            {
+                "word": "TORTA",
+                "explanation": "is. yağ və s. əridilərkən qabın dibinəçökən çöküntü. kərə yağın ***sı; qızılkəmər ortası; allah muradın versin; gələnbazar ertəsi",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 14
+            },
+            {
+                "word": "OROGEN",
+                "explanation": "is. [yun.] geosinklinalların inkişafınınikinci mərhələsi",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 15
+            },
+            {
+                "word": "TERROR",
+                "explanation": "[lat. therror – qorxu",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 16
+            },
+            {
+                "word": "GENERATOR",
+                "explanation": "[lat.] xüs. 1. mexanikienerjini elektrik enerjisinə çevirən maşın.2. generasiya (2-ci mənada) hasil etməküçün işlədilən müxtəlif cihazların",
+                "isPanagram": true,
+                "score": 17,
+                "length": 9,
+                "id": 17
+            }
+        ]
+    }
+}

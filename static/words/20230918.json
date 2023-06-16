@@ -1,0 +1,327 @@
+{
+    "gameData": {
+        "day": "20230918",
+        "expiration": "1695081540",
+        "centerLetter": "İ",
+        "outerLetters": [
+            "N",
+            "E",
+            "K",
+            "Y",
+            "L",
+            "Ç"
+        ],
+        "words_info": {
+            "word_count": 37,
+            "sum_score": 215,
+            "panagram_count": 2,
+            "word_length": {
+                "6": 4,
+                "4": 7,
+                "5": 12,
+                "8": 6,
+                "7": 6,
+                "9": 1,
+                "12": 1
+            }
+        },
+        "words": [
+            {
+                "word": "ÇİNİ",
+                "explanation": "is. [coğr. addan] müxtəlif məmulatistehsal etmək üçün istifadə olunan əla gildənhazırlanmış süni mineral kütlə",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "ELÇİ",
+                "explanation": "is. 1. dipl. bir dövləti başqa bir dövlətdətəmsil edən diplomatik nümayəndə;səfir.2. oğlan və ya onun adamları tərəfindənqız istəmək üçün qız evin",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "ELLİ",
+                "explanation": "sif. 1 vətəni",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "ENLİ",
+                "explanation": "sif. en cəhətdən geniş olan",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "EYNİ",
+                "explanation": "sif. bir-birinə tamamilə oxşar",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 5
+            },
+            {
+                "word": "KEÇİ",
+                "explanation": "is. süd",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 6
+            },
+            {
+                "word": "YENİ",
+                "explanation": "sif. 1. ilk dəfə yaradılmış lap yaxınlarda meydana gəlmiş",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 7
+            },
+            {
+                "word": "ÇİNLİ",
+                "explanation": "is. çin xalq respublikasının əsasəhalisini təşkil edən xalq və bu xalqa mənsubadam. puan qay ***ləri ayıq salır",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 8
+            },
+            {
+                "word": "ÇİYİN",
+                "explanation": "is. bədənin boyundan qollara qədər olan hissəsi. ağır bir sükutun qəsəbədə hökm sürdüyünü görən leylək çiynindəki beşaçılan tüfəngini hərləyib əlinə a",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 9
+            },
+            {
+                "word": "ELLİK",
+                "explanation": "1. sif. bir yerin bütün camaatına",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 10
+            },
+            {
+                "word": "KİÇİK",
+                "explanation": "sif. 1. həcmcə",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 11
+            },
+            {
+                "word": "KİNLİ",
+                "explanation": "sif. kin saxlayan. *** adam. –dəvə *** (z.) olar. (ata. sözü). [xalq] düşməninəqarşı ***",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 12
+            },
+            {
+                "word": "LEYLİ",
+                "explanation": "sif. [ər.] klas. 1. gecəyə məxsus",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 13
+            },
+            {
+                "word": "LİLLİ",
+                "explanation": "sif. lehməli",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 14
+            },
+            {
+                "word": "NEYÇİ",
+                "explanation": "is. ney çalan musiqiçi",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 15
+            },
+            {
+                "word": "NİNNİ",
+                "explanation": "is. layla",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 16
+            },
+            {
+                "word": "YELİN",
+                "explanation": "is. məməli heyvanlarda süd yığılan(süd vəziləri və məmələri yerləşən) orqan.bu inəyin ***ində süd çoxdur",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 17
+            },
+            {
+                "word": "YELLİ",
+                "explanation": "sif. 1. küləkli. *** hava. *** bir gün. 2. məc. dan. hirsli",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 18
+            },
+            {
+                "word": "YEYİN",
+                "explanation": "sif. tez",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 19
+            },
+            {
+                "word": "ÇİLÇİL",
+                "explanation": "sif. çoxlu çili olan",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 20
+            },
+            {
+                "word": "ÇİNÇİN",
+                "explanation": "sif. və zərf qat-qat",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 21
+            },
+            {
+                "word": "EYİLİK",
+                "explanation": "is. yaxşılıq. [aşıq sultan:]fənalıq",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 22
+            },
+            {
+                "word": "KEYLİK",
+                "explanation": "is. 1. keyləşmiş",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 23
+            },
+            {
+                "word": "ELÇİLİK",
+                "explanation": "is. 1. elçinin vəzifəsi",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 24
+            },
+            {
+                "word": "ENLİLİK",
+                "explanation": "is. enli şeyin halı. parçanınenliliyi. yolun enliliyi",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 25
+            },
+            {
+                "word": "EYNİLİK",
+                "explanation": "is. tamamilə oxşarlıq",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 26
+            },
+            {
+                "word": "NİKELÇİ",
+                "explanation": "is. nikel çəkən usta",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 27
+            },
+            {
+                "word": "NİKELLİ",
+                "explanation": "sif. üzərində nikel olan",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 28
+            },
+            {
+                "word": "YENİLİK",
+                "explanation": "is. 1. istifadədə olmamış",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 29
+            },
+            {
+                "word": "ÇİYİNLİK",
+                "explanation": "is. paltarın altından çiyinə qoyulanbalışcıq. çiyinləri çox ensiz olan qadınlar*** qoymaqla çiyin xəttini sünisurətdə uzada bilərlər",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 30
+            },
+            {
+                "word": "KİÇİKLİK",
+                "explanation": "is. 1. həcmcə",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 31
+            },
+            {
+                "word": "KİNLİLİK",
+                "explanation": "is. kin saxlama",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 32
+            },
+            {
+                "word": "LİLLİLİK",
+                "explanation": "is. lilli olma; lehməlilik",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 33
+            },
+            {
+                "word": "YENİYENİ",
+                "explanation": "1. sif. təzə-təzə. yeni-yenievlər. yeni-yeni adamlar. yeni-yeni qüvvələr.– [mirpaşa:] amma çox sağ ol",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 34
+            },
+            {
+                "word": "YEYİNLİK",
+                "explanation": "is. bir şeyin hərəkətində sürətlilik",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 35
+            },
+            {
+                "word": "YENİLİKÇİ",
+                "explanation": "is. hər hansı bir sahədə yeni",
+                "isPanagram": true,
+                "score": 17,
+                "length": 9,
+                "id": 36
+            },
+            {
+                "word": "YENİLİKÇİLİK",
+                "explanation": "is. hər hansı bir sahədəyeni",
+                "isPanagram": true,
+                "score": 17,
+                "length": 12,
+                "id": 37
+            }
+        ]
+    }
+}

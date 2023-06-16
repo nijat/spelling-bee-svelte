@@ -1,0 +1,550 @@
+{
+    "gameData": {
+        "day": "20231012",
+        "expiration": "1697155140",
+        "centerLetter": "K",
+        "outerLetters": [
+            "T",
+            "Ə",
+            "S",
+            "R",
+            "A",
+            "N"
+        ],
+        "words_info": {
+            "word_count": 65,
+            "sum_score": 331,
+            "panagram_count": 2,
+            "word_length": {
+                "7": 10,
+                "6": 11,
+                "5": 28,
+                "4": 13,
+                "8": 2,
+                "11": 1
+            }
+        },
+        "words": [
+            {
+                "word": "ƏNƏK",
+                "explanation": "is. 1. yük atı",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "ƏRKƏ",
+                "explanation": "is. uşaq",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "ƏTƏK",
+                "explanation": "is. 1. paltarın beldən aşağı tərəfəuzanan hissəsi. paltonun ətəyi uzundur. pencəyinətəyini bir qədər qısaltmaq lazımdır",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "KASA",
+                "explanation": "is. [fars.] 1. çini",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "KƏKƏ",
+                "explanation": "sif. danışarkən ***ləyən; kəkov.*** uşaq. anadan *** (z.) doğulmaq",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 5
+            },
+            {
+                "word": "KƏRƏ",
+                "explanation": "zərf [ər.] dəfə. iki *** iki elər dörd. adama neçə *** deyərlər. iki *** getmək. bir *** görmək. – adam adamı bir *** aldadar",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 6
+            },
+            {
+                "word": "KƏRT",
+                "explanation": "is. ağac parçasının iki yoğun yeriarasında çuxur",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 7
+            },
+            {
+                "word": "KƏSƏ",
+                "explanation": "1. sif. ən yaxın",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 8
+            },
+            {
+                "word": "KƏSR",
+                "explanation": "is. [ər.] riyaz. vahidin müəyyən hissəsinigöstərən ədəd. adi ***. onluq ***",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 9
+            },
+            {
+                "word": "KƏTƏ",
+                "explanation": "is. ı. göyərti qutabı. [mahmud:] bir***yə bax",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 10
+            },
+            {
+                "word": "TANK",
+                "explanation": "[ing.] çətin keçilən yerlərdə hərəkətedə bilən",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 11
+            },
+            {
+                "word": "TƏKƏ",
+                "explanation": "is. 1. erkək keçi.2. vəhşi keçi",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 12
+            },
+            {
+                "word": "TƏRK",
+                "explanation": "is. atın belinin yəhər qoyulan yerinin dal tərəfi. …çavuş qəndabı içib",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 13
+            },
+            {
+                "word": "ƏKKAS",
+                "explanation": "is. [ər.] köhn. fotoqrafın köhnəadı",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 14
+            },
+            {
+                "word": "ƏKSƏR",
+                "explanation": "sif. [ər.] ən çox",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 15
+            },
+            {
+                "word": "ƏRKAN",
+                "explanation": "is. [ər. “rükn” söz. cəmi] top.1. yüksək vəzifəli dövlət məmurları",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 16
+            },
+            {
+                "word": "ƏSNƏK",
+                "explanation": "1. sif. çox əsnəyən.2. is. əsnəmə. *** gəlmək. – *** ***gətirər. (ata. sözü).3. anat. ağız boşluğundan qırtlağa gedəndeşik",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 17
+            },
+            {
+                "word": "ƏTRAK",
+                "explanation": "is. [ər. “türk” söz. cəmi] klas. türkelləri",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 18
+            },
+            {
+                "word": "KARAT",
+                "explanation": "is. [ərəbcədən] xüs. qiymətlidaşların 200-206 mq-a bərabər çəki ölçüsü",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 19
+            },
+            {
+                "word": "KASKA",
+                "explanation": "[fr. casque",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 20
+            },
+            {
+                "word": "KASSA",
+                "explanation": "[ital.] 1. pul",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 21
+            },
+            {
+                "word": "KATTA",
+                "explanation": "is. dan. bax kətxuda. ***nıgör",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 22
+            },
+            {
+                "word": "KƏKRƏ",
+                "explanation": "is. bot. əsasən dəvələrin yediyi yabanı acı ot bitkisi",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 23
+            },
+            {
+                "word": "KƏNƏK",
+                "explanation": "sif. 1. ləpəsi çətin çıxan. ***qoz.2. məc. çətinliklə başa gələn",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 24
+            },
+            {
+                "word": "KƏRƏN",
+                "explanation": "is. məh. yonulmamış yoğun ağac",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 25
+            },
+            {
+                "word": "KƏRKƏ",
+                "explanation": "is. zool. şirin sularda yaşayan",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 26
+            },
+            {
+                "word": "KƏRRƏ",
+                "explanation": "[ər.] bax kərə3. bir *** düşəndəxəbər al badi-səbadan; saçın həvəsigör ki",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 27
+            },
+            {
+                "word": "KƏSƏK",
+                "explanation": "is. quruyub bərkimiş palçıq yumrusu.***ləri əzmək. – *** oturub daşüçün ağlayır. (ata. sözü). ayaqlarım yalınolduğuna görə yolun quru ***ləri",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 28
+            },
+            {
+                "word": "KƏSƏN",
+                "explanation": "f.is. hənd. əyrini iki və ya birneçə nöqtədə *** düz xətt. □ ***(kəsici) diş(lər) – ağzın ön tərəfində olanön diş(lər)",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 29
+            },
+            {
+                "word": "KƏSƏR",
+                "explanation": "is. 1. hər hansı bir kəsici alət.atam hazırlanır əlində ***; toyuq banlayandabaşı kəsilər. s.vurğun",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 30
+            },
+            {
+                "word": "KƏSRƏ",
+                "explanation": "is. [ər.] ərəb əlifbasında “i”saitini əvəz edən və hərfin altında qoyulan“q” işarəsinin adı; zir",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 31
+            },
+            {
+                "word": "KƏTAN",
+                "explanation": "is. [ər.] 1. saplağından toxunmayayarar lif",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 32
+            },
+            {
+                "word": "NAKƏS",
+                "explanation": "sif. və is. [fars.] şərəfsiz",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 33
+            },
+            {
+                "word": "SƏKTƏ",
+                "explanation": "is. [ər.] köhn. 1. durğunluq",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 34
+            },
+            {
+                "word": "SƏRƏK",
+                "explanation": "is. gic",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 35
+            },
+            {
+                "word": "TƏKAN",
+                "explanation": "is. 1. bir şeyi özündən uzaqlaşdırmaqməqsədilə bərk itələmə və ya zərbə.[növrəstə] tərəkəmələrdən qalmış köhnəkeçəni üstünə çəkdiyi zaman qapıya bi",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 36
+            },
+            {
+                "word": "TƏKƏR",
+                "explanation": "is. [ər.] 1. ox ətrafında fırlanıb***li nəqliyyat vasitələrini hərəkətə gətirəndəndəli və ya bütöv dairə; çarx",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 37
+            },
+            {
+                "word": "TƏKNƏ",
+                "explanation": "is. 1. əsasən xəmir yoğurmaq üçünişlədilən dərin",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 38
+            },
+            {
+                "word": "TƏNƏK",
+                "explanation": "is. üzüm ağacı",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 39
+            },
+            {
+                "word": "TƏRƏK",
+                "explanation": "is. [fars.] yağda qovrulmuş şəkərvə undan hazırlanan halva növü; sucuq. ramazanayının özünə məxsus süfrəsi vardı: firni",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 40
+            },
+            {
+                "word": "TƏSƏK",
+                "explanation": "is. adətən gecə başa qoyulan toxunmuşvə ya parçadan tikilmiş papaq; araqçın.nə əynində arxalıq görürəm",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 41
+            },
+            {
+                "word": "ƏKƏNƏK",
+                "explanation": "is. taxıl əkilmiş yer",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 42
+            },
+            {
+                "word": "KANKAN",
+                "explanation": "is. [fars.] köhn. əl ilə quyuqazan;quyuçu. ***ın vəsiyyəti qızıl öküzdür.(ata. sözü). [məmməd:] atam ***idi",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 43
+            },
+            {
+                "word": "KARKAS",
+                "explanation": "[ital. carcassa] bina və s.-nin dəmirdən düzəldilən gövdəsi",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 44
+            },
+            {
+                "word": "KƏNARƏ",
+                "explanation": "is. [fars.] köhn. 1. kitab səhifələrininkənarındakı yazı.2. haşiyə",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 45
+            },
+            {
+                "word": "KƏRKƏS",
+                "explanation": "is. [fars.] zool. bax keçələ***. qara ***. leş ***i. ağbaş ***. – [səfər:] ancaq arabir havada nəş arzusunda gəzən ***lərdən savay bir",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 46
+            },
+            {
+                "word": "KƏRRAT",
+                "explanation": "[ər. “kərrə” söz cəmi] köhn.:*** ilə – dəfələrlə. şəhərin böyükləri vəbaşbilənləri *** ilə biçarə əhalini məsləhətvə məşvərətə toplayırlar",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 47
+            },
+            {
+                "word": "KƏSRƏT",
+                "explanation": "is. [ər.] çoxluq. şəhərin havasınınqəlizliyindən",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 48
+            },
+            {
+                "word": "TƏKTƏK",
+                "explanation": "sif. və zərf 1. birbəbir",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 49
+            },
+            {
+                "word": "TƏKRAR",
+                "explanation": "is. [ər.] bir işi bir daha",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 50
+            },
+            {
+                "word": "TƏNƏKƏ",
+                "explanation": "is. nazik dəmir təbəqəsi. ***parçası. // ***dən düzəldilmiş. ***vedrə. *** suqabı",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 51
+            },
+            {
+                "word": "TƏRƏKƏ",
+                "explanation": "is. [ər.] mirasın varislər arasındabölümü",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 52
+            },
+            {
+                "word": "ANTRAKT",
+                "explanation": "[fr.] 1. tamaşanın pərdələri",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 53
+            },
+            {
+                "word": "ƏKSƏRƏN",
+                "explanation": "zərf [ər.] çox vaxt",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 54
+            },
+            {
+                "word": "KANTATA",
+                "explanation": "[ital.] 1. musiqinin müşayiətiilə xorla və tək oxunan",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 55
+            },
+            {
+                "word": "KƏRƏSKƏ",
+                "explanation": "is. k.t. 1. qoyun damının birtərəfində quzular üçün ayrılmış yer. qamışdandüzəldilmiş ***.2. bax arxac",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 56
+            },
+            {
+                "word": "KƏSƏKƏS",
+                "explanation": "is. kütləvi qırğın",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 57
+            },
+            {
+                "word": "KƏSTANƏ",
+                "explanation": "is. [əsli yun.] şabalıd. [xədicənin]nəzər-diqqətini cəlb edən bir işi vardısa",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 58
+            },
+            {
+                "word": "SƏKSƏKƏ",
+                "explanation": "is. həyəcan",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 59
+            },
+            {
+                "word": "TARAKAN",
+                "explanation": "is. [rus.] mətbəxböcəyi",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 60
+            },
+            {
+                "word": "TƏKƏRƏK",
+                "explanation": "is. təkərcik. şofer traktoru işəsalıb təkərəyi yavaş-yavaş burmağa",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 61
+            },
+            {
+                "word": "TRAKTAT",
+                "explanation": "[lat. tractaus – müzakirə]1. ayrıca bir məsələdən",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 62
+            },
+            {
+                "word": "TƏKRARƏN",
+                "explanation": "zərf [ər.] təkrar olaraq",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 63
+            },
+            {
+                "word": "SƏNƏTKAR",
+                "explanation": "is. [ər. sənət və fars. …kar]1. hər hansı bir sənətlə məşğul olan",
+                "isPanagram": true,
+                "score": 17,
+                "length": 8,
+                "id": 64
+            },
+            {
+                "word": "SƏNƏTKARANƏ",
+                "explanation": "sif. və zərf [ər. sənət vəfars. …karanə] sənətkarlıqla",
+                "isPanagram": true,
+                "score": 17,
+                "length": 11,
+                "id": 65
+            }
+        ]
+    }
+}

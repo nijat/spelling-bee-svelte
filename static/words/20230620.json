@@ -1,0 +1,382 @@
+{
+    "gameData": {
+        "day": "20230620",
+        "expiration": "1687305540",
+        "centerLetter": "C",
+        "outerLetters": [
+            "A",
+            "S",
+            "I",
+            "L",
+            "T",
+            "Q"
+        ],
+        "words_info": {
+            "word_count": 44,
+            "sum_score": 279,
+            "panagram_count": 1,
+            "word_length": {
+                "5": 11,
+                "4": 3,
+                "9": 4,
+                "7": 9,
+                "6": 11,
+                "8": 6
+            }
+        },
+        "words": [
+            {
+                "word": "ACIQ",
+                "explanation": "is. hirs",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "CIQQ",
+                "explanation": "is. güllə səsi. hər yaraqlanıb döyüşəçıxan",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "QACA",
+                "explanation": "sif. çox işlənmək nəticəsində çalaçuxurbir hala düşmüş. *** yol",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "ACICA",
+                "explanation": "sif. 1. bir qədər acı",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 4
+            },
+            {
+                "word": "ACILI",
+                "explanation": "sif. zəhərli",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 5
+            },
+            {
+                "word": "ACLIQ",
+                "explanation": "is. 1. yeməyə ehtiyac hissi. səhərdən*** hiss edirəm. // uzun müddətdoyunca yeməmə. ***dan tələf olmaq",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 6
+            },
+            {
+                "word": "ALICI",
+                "explanation": "1. is. müştəri",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 7
+            },
+            {
+                "word": "ATCIL",
+                "explanation": "sif. dan. atı",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 8
+            },
+            {
+                "word": "ATICI",
+                "explanation": "1. sif. yaxşı tüfəng atan",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 9
+            },
+            {
+                "word": "CALAQ",
+                "explanation": "is. 1. bot. bir bitkinin başqa bitki ilə ***lanma nəticəsində inkişaf etmiş hissəsi; peyvənd",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 10
+            },
+            {
+                "word": "CALAL",
+                "explanation": "is. [ər.] əzəmət",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 11
+            },
+            {
+                "word": "CIQQA",
+                "explanation": "is. [fars.] 1. başın ön və yan tərəfinətökülən tellər. siyah zülfü dal gərdəndəbir qulac! sona ***sıtək ucları qıyğac",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 12
+            },
+            {
+                "word": "QICIQ",
+                "explanation": "is. 1. xarici mühitin orqanizmə",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 13
+            },
+            {
+                "word": "SICAQ",
+                "explanation": "sif. 1. isti.2. mehriban",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 14
+            },
+            {
+                "word": "ACIQLI",
+                "explanation": "sif. 1. hirsli",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 15
+            },
+            {
+                "word": "ACILIQ",
+                "explanation": "is. 1. acı şeyin halı; acı dadma.ağız acılığı. yağın bir az acılığı var. ağzımda*** var.2. məc",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 16
+            },
+            {
+                "word": "ALACAQ",
+                "explanation": "is. alınacaq borc",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 17
+            },
+            {
+                "word": "QACLIQ",
+                "explanation": "is. dan. zidlik",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 18
+            },
+            {
+                "word": "QALLAC",
+                "explanation": "sif. dan. əliaçıq",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 19
+            },
+            {
+                "word": "QICLIQ",
+                "explanation": "is. qıc olmuş bədən üzvününhalı; keylik",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 20
+            },
+            {
+                "word": "QISACA",
+                "explanation": "sif. 1. az qısa",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 21
+            },
+            {
+                "word": "QISICI",
+                "explanation": "1. sif. qısan",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 22
+            },
+            {
+                "word": "QISQAC",
+                "explanation": "is. 1. zool. rütubətli yerlərdədaşların altında yaşayan sarı rəngli",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 23
+            },
+            {
+                "word": "SATICI",
+                "explanation": "is. hər hansı bir şey",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 24
+            },
+            {
+                "word": "TACCIQ",
+                "explanation": "is. bot. gülün",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 25
+            },
+            {
+                "word": "ACIQICI",
+                "explanation": "is. bot. vəzəriyə",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 26
+            },
+            {
+                "word": "ACILICA",
+                "explanation": "is. bot. bəzi növlərindən dərmanhasil edilən çoxillik ot bitkisi",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 27
+            },
+            {
+                "word": "ALACALI",
+                "explanation": "sif. dan. rəngbərəng",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 28
+            },
+            {
+                "word": "CALAQLI",
+                "explanation": "sif. calağı olan",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 29
+            },
+            {
+                "word": "CALALLI",
+                "explanation": "sif. dəbdəbəli",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 30
+            },
+            {
+                "word": "CIQQALI",
+                "explanation": "sif. cıqqa taxmış",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 31
+            },
+            {
+                "word": "QILLICA",
+                "explanation": "is. 1. vəhşi.2. bot. taxıl fəsiləsinə aid birillik bitki",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 32
+            },
+            {
+                "word": "QISACIQ",
+                "explanation": "sif. 1. çox qısa",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 33
+            },
+            {
+                "word": "SATILCA",
+                "explanation": "is. balaca satıl. ***nı şərbətlədoldurmaq",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 34
+            },
+            {
+                "word": "ALACAQLI",
+                "explanation": "is. və sif. başqasından alacağı",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 35
+            },
+            {
+                "word": "ALACALIQ",
+                "explanation": "is. ala-bulalıq",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 36
+            },
+            {
+                "word": "ALICILIQ",
+                "explanation": "is. iqt. satınalma imkanı",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 37
+            },
+            {
+                "word": "ATICILIQ",
+                "explanation": "is. 1. yaxşı tüfəng atmaq",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 38
+            },
+            {
+                "word": "CIQQILTI",
+                "explanation": "is. ağac sınarkən çıxan səs.budağın ***sı gəldi",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 39
+            },
+            {
+                "word": "QISQACLI",
+                "explanation": "sif. qısqacı olan",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 40
+            },
+            {
+                "word": "ACIQQICIQ",
+                "explanation": "is. dan. birisini acıqlandırmaq",
+                "isPanagram": false,
+                "score": 9,
+                "length": 9,
+                "id": 41
+            },
+            {
+                "word": "ACIQLILIQ",
+                "explanation": "is. acıqlı adamın halı",
+                "isPanagram": false,
+                "score": 9,
+                "length": 9,
+                "id": 42
+            },
+            {
+                "word": "CALAQALTI",
+                "explanation": "is. bot. calaq (peyvənd)üçün götürülən bitki (ağac və s.). // sif. mənasında.qoca *** bitkinin daxilindəgedən maddələr mübadiləsinin təsirilə",
+                "isPanagram": false,
+                "score": 9,
+                "length": 9,
+                "id": 43
+            },
+            {
+                "word": "SATICILIQ",
+                "explanation": "is. satıcı vəzifəsi",
+                "isPanagram": true,
+                "score": 17,
+                "length": 9,
+                "id": 44
+            }
+        ]
+    }
+}

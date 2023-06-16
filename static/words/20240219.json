@@ -1,0 +1,157 @@
+{
+    "gameData": {
+        "day": "20240219",
+        "expiration": "1708387140",
+        "centerLetter": "B",
+        "outerLetters": [
+            "Y",
+            "İ",
+            "S",
+            "V",
+            "R",
+            "A"
+        ],
+        "words_info": {
+            "word_count": 16,
+            "sum_score": 74,
+            "panagram_count": 1,
+            "word_length": {
+                "5": 5,
+                "4": 6,
+                "7": 2,
+                "6": 2,
+                "9": 1
+            }
+        },
+        "words": [
+            {
+                "word": "BABA",
+                "explanation": "is. 1. atanın",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "BABİ",
+                "explanation": "is. [xüs. is.-dən] 1. xıx əsrin ortasında iranda “bab” təxəllüslü mirzə əli məhəmməd tərəfindən təsis edilmiş dini təriqətə mənsub olan adam",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "BAİS",
+                "explanation": "is. [ər.] səbəb. gər ibni-səlam idibəhanə; məcnun idi *** ol fəğanə. füzuli.[hacı nuru:] hər kəsin öz sənəti özünəiksirdir və xoş güzəranlığına ba",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "BİBİ",
+                "explanation": "is. övlad üçün atanın bacısı",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "BİRİ",
+                "explanation": "əvəz. 1. müəyyən olmayan şəxs",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 5
+            },
+            {
+                "word": "YABA",
+                "explanation": "is. ot",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 6
+            },
+            {
+                "word": "ARABA",
+                "explanation": "is. iki və ya dördtəkərli nəqliyyatvasitəsi. minik ***sı. yük ***sı. əl ***sı(əl ilə sürülən ***)",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 7
+            },
+            {
+                "word": "BABAY",
+                "explanation": "is. uşaq dilində: qoca",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 8
+            },
+            {
+                "word": "BİYAR",
+                "explanation": "is. 1. aprel işğalından əvvəl kəndlilərinmülkədarlar üçün məcburi və müftəolaraq icra etməli olduqları mükəlləfiyyət",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 9
+            },
+            {
+                "word": "SAVAB",
+                "explanation": "is. [ər.] islam dininə görə pis deyil",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 10
+            },
+            {
+                "word": "SİRAB",
+                "explanation": "sif. [fars.] klas. doymuş (su və s.mayelərlə). □ *** etmək (eləmək",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 11
+            },
+            {
+                "word": "BASBAS",
+                "explanation": "is. məh. yaş meyvələri",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 12
+            },
+            {
+                "word": "BİRİYA",
+                "explanation": "sif. [fars. bi… və ər. riya] riyasız",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 13
+            },
+            {
+                "word": "BASABAS",
+                "explanation": "is. basırıq",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 14
+            },
+            {
+                "word": "BİVARİS",
+                "explanation": "sif. və is. [fars. bi… və ər. varis]köhn. varisi",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 15
+            },
+            {
+                "word": "VİBRASİYA",
+                "explanation": "is. [lat.] müxtəlif formalı elastik cisimlərin mexaniki rəqsi",
+                "isPanagram": true,
+                "score": 17,
+                "length": 9,
+                "id": 16
+            }
+        ]
+    }
+}

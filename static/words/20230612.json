@@ -1,0 +1,189 @@
+{
+    "gameData": {
+        "day": "20230612",
+        "expiration": "1686614340",
+        "centerLetter": "K",
+        "outerLetters": [
+            "E",
+            "R",
+            "İ",
+            "S",
+            "F",
+            "P"
+        ],
+        "words_info": {
+            "word_count": 20,
+            "sum_score": 90,
+            "panagram_count": 1,
+            "word_length": {
+                "5": 8,
+                "8": 1,
+                "4": 7,
+                "6": 3,
+                "7": 1
+            }
+        },
+        "words": [
+            {
+                "word": "EPİK",
+                "explanation": "sif. [yun.] ədəb. eposa aid",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "KEKS",
+                "explanation": "[ing. cake",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "KİRS",
+                "explanation": "is. parçada",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "KREP",
+                "explanation": "[fr.] 1. səthi nahamar ipək və yayun parça. ***dən paltar tikdirmək.2. yığış-yığış",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "RİSK",
+                "explanation": "[fr.] təhlükə imkanı",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 5
+            },
+            {
+                "word": "SEKS",
+                "explanation": "is. [lat.] kişi və qadın arasında fizikiyaxınlıq",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 6
+            },
+            {
+                "word": "SİRK",
+                "explanation": "[lat. circus – dairə] 1. akrobatlıq",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 7
+            },
+            {
+                "word": "EKKER",
+                "explanation": "[fr.] yerdə müəyyən dərəcəli bucaqlarqurmaq üçün geodeziya aləti; künyə",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 8
+            },
+            {
+                "word": "FİKİR",
+                "explanation": "is. [ər.] 1. düşünmə",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 9
+            },
+            {
+                "word": "FİKRİ",
+                "explanation": "sif. [ər.] fikrə",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 10
+            },
+            {
+                "word": "KEFİR",
+                "explanation": "is. qatığa oxşar",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 11
+            },
+            {
+                "word": "KİFİR",
+                "explanation": "sif. 1. çirkin",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 12
+            },
+            {
+                "word": "KİRKİ",
+                "explanation": "1 is. xüs. xalça toxunarkən ilməklərini sıxlaşdırmaq üçün işlədilən alət; daraq",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 13
+            },
+            {
+                "word": "KİRPİ",
+                "explanation": "is. zool. məməlilər sinfindən dərisitikanla örtülü heyvan. çəpgöz ayı",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 14
+            },
+            {
+                "word": "PİPİK",
+                "explanation": "is. bəzi quşların (məs.: xoruzun və bəzi toyuqların) başında olan qırmızı ət parçası",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 15
+            },
+            {
+                "word": "KİRPİK",
+                "explanation": "is. 1. göz qapağının kənarlarındakı tükcüklər. uzun ***lər. – anamın buz məzarından; bilirəm ki",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 16
+            },
+            {
+                "word": "SFERİK",
+                "explanation": "sif. [yun.] kürəşəkilli",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 17
+            },
+            {
+                "word": "SPİKER",
+                "explanation": "is. [ing.] 1. parlament sədri.2. boks yarışında hakimlərin qərarını tamaşaçılarabildirən hakim",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 18
+            },
+            {
+                "word": "EKSPRESS",
+                "explanation": "is. [ing.] böyük məsafələriadətən heç bir yerdə dayanmadan qət edənsürətli nəqliyyat vasitəsi (qatar",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 19
+            },
+            {
+                "word": "PREFİKS",
+                "explanation": "[lat. praefixus – artırılmış] qram.ön şəkilçi",
+                "isPanagram": true,
+                "score": 17,
+                "length": 7,
+                "id": 20
+            }
+        ]
+    }
+}

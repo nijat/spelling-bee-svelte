@@ -1,0 +1,189 @@
+{
+    "gameData": {
+        "day": "20240122",
+        "expiration": "1705967940",
+        "centerLetter": "İ",
+        "outerLetters": [
+            "Y",
+            "Ç",
+            "K",
+            "E",
+            "Ə",
+            "M"
+        ],
+        "words_info": {
+            "word_count": 20,
+            "sum_score": 97,
+            "panagram_count": 1,
+            "word_length": {
+                "4": 6,
+                "5": 6,
+                "7": 2,
+                "6": 5,
+                "10": 1
+            }
+        },
+        "words": [
+            {
+                "word": "ÇƏKİ",
+                "explanation": "is. parça",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "ÇİÇƏ",
+                "explanation": "sif. saf",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "ƏMİK",
+                "explanation": "sif. çox əmilməkdən xarab olmuş",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "KEÇİ",
+                "explanation": "is. süd",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "KİMİ",
+                "explanation": "əvəz. bəzisi",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 5
+            },
+            {
+                "word": "YİYƏ",
+                "explanation": "is. hər hansı bir şey üzərində mülkiyyəthüququ olan adam; sahib. oğul",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 6
+            },
+            {
+                "word": "ÇƏKİK",
+                "explanation": "sif. bir yana doğru çəkilmiş",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 7
+            },
+            {
+                "word": "ÇƏKİM",
+                "explanation": "is. 1. çəkmək işi; çəkmə.2. rəqəmlərlə: – bir *** – bir dəfəçəkməyə",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 8
+            },
+            {
+                "word": "ÇİÇƏK",
+                "explanation": "is. 1. bot. çılpaqtoxumlu və örtülütoxumlubitkilərin ləçək tacından və erkəkciklədişicikdən ibarət çoxalma orqanı",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 9
+            },
+            {
+                "word": "KİÇİK",
+                "explanation": "sif. 1. həcmcə",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 10
+            },
+            {
+                "word": "MƏKİK",
+                "explanation": "is. 1. tikiş maşınında: altdakı sapınçıxması üçün kəsici alət",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 11
+            },
+            {
+                "word": "YEMÇİ",
+                "explanation": "is. kolxozda",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 12
+            },
+            {
+                "word": "EYMƏÇİ",
+                "explanation": "is. eymə düzəldən",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 13
+            },
+            {
+                "word": "ƏMƏKÇİ",
+                "explanation": "sif. öz əlinin zəhməti ilə dolanan",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 14
+            },
+            {
+                "word": "KEÇƏÇİ",
+                "explanation": "is. 1. yundan keçə hazırlayan",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 15
+            },
+            {
+                "word": "KƏMÇİK",
+                "explanation": "1. is. çatışmayan hissə",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 16
+            },
+            {
+                "word": "MƏMƏÇİ",
+                "explanation": "is. məh. südü olmayan qadınların uşağını əmizdirib saxlayan qadın; dayə",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 17
+            },
+            {
+                "word": "ÇƏKMƏÇİ",
+                "explanation": "is. ayaqqabı tikmək və təmiretməklə məşğul olan adam. ***lərönündə döşlük",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 18
+            },
+            {
+                "word": "ÇİÇƏKÇİ",
+                "explanation": "is. çiçək yetişdirməklə məşğulolan adam",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 19
+            },
+            {
+                "word": "YEMƏKİÇMƏK",
+                "explanation": "1. is. qonaqlıq.2. bax yeyib-içmək.3. is. yeyiləcək və içiləcək şeylər. ***hazırlayıb yaxın meşəyə getdik",
+                "isPanagram": true,
+                "score": 17,
+                "length": 10,
+                "id": 20
+            }
+        ]
+    }
+}

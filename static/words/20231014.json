@@ -1,0 +1,150 @@
+{
+    "gameData": {
+        "day": "20231014",
+        "expiration": "1697327940",
+        "centerLetter": "C",
+        "outerLetters": [
+            "S",
+            "I",
+            "R",
+            "A",
+            "Y",
+            "U"
+        ],
+        "words_info": {
+            "word_count": 15,
+            "sum_score": 90,
+            "panagram_count": 1,
+            "word_length": {
+                "4": 2,
+                "5": 5,
+                "7": 2,
+                "8": 1,
+                "6": 4,
+                "9": 1
+            }
+        },
+        "words": [
+            {
+                "word": "ACAR",
+                "explanation": "is. cənubi qafqazda yaşayanxalqlardan birinin adı",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "RACA",
+                "explanation": "is. [sanskr.] qədim hindistandarəhbərlik və hakimlik rütbəsi",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "ACICA",
+                "explanation": "sif. 1. bir qədər acı",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 3
+            },
+            {
+                "word": "AYRIC",
+                "explanation": "is. bir neçə yolun ayrıldığı və yabir yolun bir neçə tərəfə haçalandığı yer(adətən “yol” sözü ilə bərabər işlənir)",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 4
+            },
+            {
+                "word": "CASUS",
+                "explanation": "is. [ər.] 1. məxfi materialları gizlisurətdə öyrənib başqalarına çatdıran şəxs.fəhlələr",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 5
+            },
+            {
+                "word": "RUSCA",
+                "explanation": "sif. və zərf rus dilində. *** danışmaq.***-azərbaycanca lüğət",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 6
+            },
+            {
+                "word": "YAYCI",
+                "explanation": "is. qədim türkdilli tayfalardan biri",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 7
+            },
+            {
+                "word": "SIRACA",
+                "explanation": "is. bax xanazır",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 8
+            },
+            {
+                "word": "YARIAC",
+                "explanation": "sif. lazımınca",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 9
+            },
+            {
+                "word": "YAYICI",
+                "explanation": "sif. 1. bir şeyi yayan",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 10
+            },
+            {
+                "word": "YUYUCU",
+                "explanation": "sif. xüs. təmizləmək üçün birşeyi yuyan. *** cihaz",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 11
+            },
+            {
+                "word": "ARAYICI",
+                "explanation": "sif. və is. axtaran",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 12
+            },
+            {
+                "word": "AYIRICI",
+                "explanation": "is. xüs. bir şeyi növlərə",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 13
+            },
+            {
+                "word": "SARIYICI",
+                "explanation": "is. sap",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 14
+            },
+            {
+                "word": "SUAYIRICI",
+                "explanation": "is. coğr. çay hövzələrini",
+                "isPanagram": true,
+                "score": 17,
+                "length": 9,
+                "id": 15
+            }
+        ]
+    }
+}

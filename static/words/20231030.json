@@ -1,0 +1,229 @@
+{
+    "gameData": {
+        "day": "20231030",
+        "expiration": "1698710340",
+        "centerLetter": "R",
+        "outerLetters": [
+            "T",
+            "Ə",
+            "K",
+            "Ö",
+            "Y",
+            "N"
+        ],
+        "words_info": {
+            "word_count": 25,
+            "sum_score": 92,
+            "panagram_count": 1,
+            "word_length": {
+                "5": 10,
+                "4": 12,
+                "7": 1,
+                "6": 1,
+                "9": 1
+            }
+        },
+        "words": [
+            {
+                "word": "ƏRƏR",
+                "explanation": "is. [ər.] ardıc ağacı. qəddintəknə ər-ər",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "ƏRƏN",
+                "explanation": "is. (adətən cəm şəklində). 1. ər",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "ƏRKƏ",
+                "explanation": "is. uşaq",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "ƏRRƏ",
+                "explanation": "is. [fars.] ikidəstəli iri mişar",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "ƏTƏR",
+                "explanation": "is. dan. iz",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 5
+            },
+            {
+                "word": "KƏRƏ",
+                "explanation": "zərf [ər.] dəfə. iki *** iki elər dörd. adama neçə *** deyərlər. iki *** getmək. bir *** görmək. – adam adamı bir *** aldadar",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 6
+            },
+            {
+                "word": "KƏRT",
+                "explanation": "is. ağac parçasının iki yoğun yeriarasında çuxur",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 7
+            },
+            {
+                "word": "NƏRƏ",
+                "explanation": "is. məh. evlərin üstünə qoyulan tir.su gəldi",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 8
+            },
+            {
+                "word": "ÖRƏN",
+                "explanation": "is. əkilməmiş sahə",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 9
+            },
+            {
+                "word": "TƏRK",
+                "explanation": "is. atın belinin yəhər qoyulan yerinin dal tərəfi. …çavuş qəndabı içib",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 10
+            },
+            {
+                "word": "TÖRƏ",
+                "explanation": "sif. məh. hündür olmayan",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 11
+            },
+            {
+                "word": "YÖRƏ",
+                "explanation": "is. yan",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 12
+            },
+            {
+                "word": "ƏNTƏR",
+                "explanation": "is. 1. bədəninə nisbətən çox uzunqolları olan meymun. gözünün üstündə buxarapapaq; ***ə bənzəyir o kor yapalaq",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 13
+            },
+            {
+                "word": "KƏKRƏ",
+                "explanation": "is. bot. əsasən dəvələrin yediyi yabanı acı ot bitkisi",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 14
+            },
+            {
+                "word": "KƏRƏN",
+                "explanation": "is. məh. yonulmamış yoğun ağac",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 15
+            },
+            {
+                "word": "KƏRKƏ",
+                "explanation": "is. zool. şirin sularda yaşayan",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 16
+            },
+            {
+                "word": "KƏRRƏ",
+                "explanation": "[ər.] bax kərə3. bir *** düşəndəxəbər al badi-səbadan; saçın həvəsigör ki",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 17
+            },
+            {
+                "word": "NÖKƏR",
+                "explanation": "is. keçmişdə ağasına xidmət edənvə onun şəxsi tapşırıqlarını yerinə yetirən evxidmətçisi (oğlan). [əhməd tacirbaşı] özüsərkarını",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 18
+            },
+            {
+                "word": "ÖRKƏN",
+                "explanation": "is. minik heyvanlarının çulunusarıyıb bərkitmək üçün başında doğanaqolan uzun ip; çatı. *** nə qədər uzun olsa",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 19
+            },
+            {
+                "word": "ÖRNƏK",
+                "explanation": "is. nümunə",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 20
+            },
+            {
+                "word": "TƏKƏR",
+                "explanation": "is. [ər.] 1. ox ətrafında fırlanıb***li nəqliyyat vasitələrini hərəkətə gətirəndəndəli və ya bütöv dairə; çarx",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 21
+            },
+            {
+                "word": "TƏRƏK",
+                "explanation": "is. [fars.] yağda qovrulmuş şəkərvə undan hazırlanan halva növü; sucuq. ramazanayının özünə məxsus süfrəsi vardı: firni",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 22
+            },
+            {
+                "word": "TƏRƏKƏ",
+                "explanation": "is. [ər.] mirasın varislər arasındabölümü",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 23
+            },
+            {
+                "word": "TƏKƏRƏK",
+                "explanation": "is. təkərcik. şofer traktoru işəsalıb təkərəyi yavaş-yavaş burmağa",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 24
+            },
+            {
+                "word": "TƏRKÖYNƏK",
+                "explanation": "is. altdan geyilən köynək",
+                "isPanagram": true,
+                "score": 17,
+                "length": 9,
+                "id": 25
+            }
+        ]
+    }
+}

@@ -1,0 +1,287 @@
+{
+    "gameData": {
+        "day": "20240207",
+        "expiration": "1707350340",
+        "centerLetter": "N",
+        "outerLetters": [
+            "Ə",
+            "Z",
+            "Q",
+            "M",
+            "L",
+            "U"
+        ],
+        "words_info": {
+            "word_count": 32,
+            "sum_score": 175,
+            "panagram_count": 1,
+            "word_length": {
+                "7": 5,
+                "5": 10,
+                "6": 7,
+                "9": 1,
+                "8": 2,
+                "11": 1,
+                "4": 6
+            }
+        },
+        "words": [
+            {
+                "word": "NƏQL",
+                "explanation": "is. [ər.] 1. bax nağıl. qəhrəmanbalaca sabir üçün müxtəlif *** danışırdı.s.rəhimov. □ *** etmək – bir əhvalatı",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "NƏNƏ",
+                "explanation": "is. 1. atanın",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "NƏZM",
+                "explanation": "is. [ər.] poema",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "UNLU",
+                "explanation": "sif. üstünə un səpilmiş (tökülmüş);una batmış. üstü-başı bütöv ***dur",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "UZUN",
+                "explanation": "sif. 1. iki ucunun arası çox",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 5
+            },
+            {
+                "word": "ZƏNN",
+                "explanation": "is. [ər.] 1. kafi dəlil üzərində əsaslanmayanehtimal",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 6
+            },
+            {
+                "word": "ƏQLƏN",
+                "explanation": "zərf. [ər.] ağılca",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 7
+            },
+            {
+                "word": "ƏNƏNƏ",
+                "explanation": "is. [ər.] tarixən meydana gələrəknəsildən-nəslə keçən adətlər",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 8
+            },
+            {
+                "word": "QULUN",
+                "explanation": "is. körpə at balası. …göydə birmadyan gördüm; yerdə *** əmər hey.(bayatı). daylar tülədi",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 9
+            },
+            {
+                "word": "MƏLUN",
+                "explanation": "sif. və is. [ər.] əsil mənası “lənətəgəlmiş”",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 10
+            },
+            {
+                "word": "MƏMNU",
+                "explanation": "is. [ər.] qadağan",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 11
+            },
+            {
+                "word": "MƏNƏN",
+                "explanation": "zərf [ər.] mənəvi cəhətdən; ruhən.…bizim şüəra cismən ölüb fövt olublarsada",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 12
+            },
+            {
+                "word": "MƏZUN",
+                "explanation": "is. [ər.] hər hansı bir məktəbi(universitet",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 13
+            },
+            {
+                "word": "MUNQU",
+                "explanation": "is. monqolustanda nikel və bürüncxırda pul",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 14
+            },
+            {
+                "word": "UNLUQ",
+                "explanation": "is. dəyirmanın un tökülən çuxuryeri. qarı unluğun dibini",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 15
+            },
+            {
+                "word": "ZƏNƏN",
+                "explanation": "is. [fars.] 1. qadın",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 16
+            },
+            {
+                "word": "MƏMNUN",
+                "explanation": "sif. [ər.] 1. razı olan",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 17
+            },
+            {
+                "word": "MƏNƏNƏ",
+                "explanation": "is. zool. bitkilərin şirəsilə qidalananziyanverici bir cücü növü",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 18
+            },
+            {
+                "word": "MƏNQUL",
+                "explanation": "sif. [ər.] köhn. 1. bir yerdənbaşqa yerə aparılmış.2. dillərə düşmüş",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 19
+            },
+            {
+                "word": "MƏNZUM",
+                "explanation": "sif. [ər.] nəzmə çəkilmiş",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 20
+            },
+            {
+                "word": "MƏZMUN",
+                "explanation": "is. [ər.] 1. əsərdə",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 21
+            },
+            {
+                "word": "NƏZMƏN",
+                "explanation": "sif. [ər.] nəzmlə",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 22
+            },
+            {
+                "word": "ZƏNƏNƏ",
+                "explanation": "sif. [fars.] qadınlara məxsus",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 23
+            },
+            {
+                "word": "ƏQƏLLƏN",
+                "explanation": "zərf [ər.] ən azı",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 24
+            },
+            {
+                "word": "QULUNLU",
+                "explanation": "sif. yanında balası olan",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 25
+            },
+            {
+                "word": "MƏNZUMƏ",
+                "explanation": "is. [ər.] mənzum hekayə",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 26
+            },
+            {
+                "word": "MƏZƏNNƏ",
+                "explanation": "is. [ər.] 1. bazar qiyməti",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 27
+            },
+            {
+                "word": "UZUNLUQ",
+                "explanation": "is. 1. uzun şeyin halı. yolunuzunluğu. ilanın uzunluğu bir metrdən artıqdır.– [həsən:] vay! oğlan",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 28
+            },
+            {
+                "word": "MƏZMUNLU",
+                "explanation": "sif. və zərf məzmunu zəngin",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 29
+            },
+            {
+                "word": "UZUNUZUN",
+                "explanation": "sif. və zərf çox uzun. …vəkilləryanlaricə uzun-uzun ərizələr",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 30
+            },
+            {
+                "word": "MƏMNUNLUQ",
+                "explanation": "is. 1. xoşhallıq",
+                "isPanagram": false,
+                "score": 9,
+                "length": 9,
+                "id": 31
+            },
+            {
+                "word": "MƏZMUNLULUQ",
+                "explanation": "is. məzmunca dolğunluq",
+                "isPanagram": true,
+                "score": 17,
+                "length": 11,
+                "id": 32
+            }
+        ]
+    }
+}

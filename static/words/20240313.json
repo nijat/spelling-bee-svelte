@@ -1,0 +1,180 @@
+{
+    "gameData": {
+        "day": "20240313",
+        "expiration": "1710374340",
+        "centerLetter": "S",
+        "outerLetters": [
+            "Ə",
+            "Y",
+            "Ü",
+            "T",
+            "N",
+            "İ"
+        ],
+        "words_info": {
+            "word_count": 19,
+            "sum_score": 78,
+            "panagram_count": 1,
+            "word_length": {
+                "4": 8,
+                "5": 7,
+                "6": 3,
+                "8": 1
+            }
+        },
+        "words": [
+            {
+                "word": "ƏNİS",
+                "explanation": "is. [ər.] şair. yaxın dost",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "ƏSƏN",
+                "explanation": "sif. qəd. sağ",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "SƏNƏ",
+                "explanation": "is. [ər.] il. bir gecəlik mətləbin bir*** mabədi var. m.ə.sabir. millətin beş*** bundan əqdəm; yüz nəfərdən biri tutmazdıqələm",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "SİNƏ",
+                "explanation": "is. [fars.] 1. döş",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "SİNİ",
+                "explanation": "is. misdən",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 5
+            },
+            {
+                "word": "SİNN",
+                "explanation": "is. [ər.] yaş. xudayar bəyin ancaqotuz yeddi-otuz səkkiz ***i olar",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 6
+            },
+            {
+                "word": "SÜNİ",
+                "explanation": "sif. [ər.] 1. təbii deyil",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 7
+            },
+            {
+                "word": "SÜST",
+                "explanation": "sif. [fars.] 1. hərəkət etməyə iqtidarı olmayan",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 8
+            },
+            {
+                "word": "NİSYƏ",
+                "explanation": "is. 1. bir şeyin nağd pul olmadanalınması və ya satılması. // bu cür alınmış",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 9
+            },
+            {
+                "word": "SƏNƏT",
+                "explanation": "is. [ər.] 1. müəyyən hazırlıq tələbedən və sahibinin yaşaması üçün əsas mənbəsayılan əmək fəaliyyətinin bir növü; peşə",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 10
+            },
+            {
+                "word": "SÜNNİ",
+                "explanation": "is. [ər.] islam məzhəblərindən birininadı. bu kəndin [mərğuzlunun] əhli ***",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 11
+            },
+            {
+                "word": "SÜSƏN",
+                "explanation": "is. bot. iri bənövşəyi",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 12
+            },
+            {
+                "word": "TƏSİS",
+                "explanation": "is. [ər.] əsasını",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 13
+            },
+            {
+                "word": "TÜSTÜ",
+                "explanation": "is. 1. yanan bir şeydən havaya qalxandumanaoxşar qazvari kəsif zərrəciklər.papiros ***sü. qara ***",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 14
+            },
+            {
+                "word": "ÜSTÜN",
+                "explanation": "sif. 1. bənzərlərinə görə daha yaxşı",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 15
+            },
+            {
+                "word": "SİSTİT",
+                "explanation": "is. [yun.] sidik kisəsinin iltihabıxəstəliyi",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 16
+            },
+            {
+                "word": "SÜNNƏT",
+                "explanation": "is. [ər.] din. müsəlmanlarda",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 17
+            },
+            {
+                "word": "SÜYSÜN",
+                "explanation": "is. atlarda və digər qoşqu heyvanlarındaboynun bel sütunu ilə birləşən hissəsi.[koroğlu] əlini atın ***ündən qoyubsağrısına qədər çəkdi",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 18
+            },
+            {
+                "word": "ÜNSİYYƏT",
+                "explanation": "is. [ər.] 1. qarşılıqlı münasibət",
+                "isPanagram": true,
+                "score": 17,
+                "length": 8,
+                "id": 19
+            }
+        ]
+    }
+}

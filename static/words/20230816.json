@@ -1,0 +1,164 @@
+{
+    "gameData": {
+        "day": "20230816",
+        "expiration": "1692230340",
+        "centerLetter": "Ş",
+        "outerLetters": [
+            "A",
+            "İ",
+            "Ç",
+            "I",
+            "K",
+            "R"
+        ],
+        "words_info": {
+            "word_count": 17,
+            "sum_score": 82,
+            "panagram_count": 1,
+            "word_length": {
+                "4": 5,
+                "5": 7,
+                "6": 3,
+                "7": 2
+            }
+        },
+        "words": [
+            {
+                "word": "AÇIŞ",
+                "explanation": "is. açma işi",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "AŞÇI",
+                "explanation": "is. xüs. dəri",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "KAŞI",
+                "explanation": "is. [iranda kaşan şəhərinin adından]1. üzərinə parlaq şirdən naxış çəkilmiş gilçini qab. burda bir naşı ağlar; əlində ***ağlar; o evdən cavan gedə",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "KİŞİ",
+                "explanation": "is. 1. cinscə qadının əksi. arvad üzlü***dən",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "ŞAİR",
+                "explanation": "is. [ər.] şeir söyləyən və ya yazanşəxs; təbiətində şeir söyləmək və yazmaqqabiliyyəti olan şəxs. sabir azərbaycanınböyük satirik ***idir",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 5
+            },
+            {
+                "word": "AŞKAR",
+                "explanation": "1. sif. açıq",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 6
+            },
+            {
+                "word": "ÇARŞI",
+                "explanation": "is. [fars.] bax çarsu. mən üz qoydumbazara tərəf. xəyalımda qoymuşdum:gedərəm düz baqqal ***sına və buzu allam",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 7
+            },
+            {
+                "word": "ÇAŞIR",
+                "explanation": "is. bot. çətirçiçəklilərdən ot bitkisi.ballı bacısı oğlu ilə birlikdə kəndin üst tərəfindəkigüneylərə gedər",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 8
+            },
+            {
+                "word": "ÇİRİŞ",
+                "explanation": "is. bot. zanbaq fəsiləsinə mənsubyabanı bəzək və tərəvəz bitkisi. azərbaycanınbir çox rayonlarında yerli əhali ***dəntərəvəz kimi istifadə edir",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 9
+            },
+            {
+                "word": "KİRİŞ",
+                "explanation": "is. 1. möhkəm ip. dəmirçioğlu başa düşdü ki",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 10
+            },
+            {
+                "word": "ŞİKAR",
+                "explanation": "is. [fars.] ov. cümə bekar",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 11
+            },
+            {
+                "word": "ŞİRÇİ",
+                "explanation": "is. şir çəkən",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 12
+            },
+            {
+                "word": "AŞKARA",
+                "explanation": "sif. və zərf açıqdan açığa",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 13
+            },
+            {
+                "word": "ŞIRŞIR",
+                "explanation": "təql. 1. is. bir qaydada axan",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 14
+            },
+            {
+                "word": "ŞİKARİ",
+                "explanation": "sif. [fars.] ova məxsus",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 15
+            },
+            {
+                "word": "KİRİŞÇİ",
+                "explanation": "is. kiriş hazırlayan usta",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 16
+            },
+            {
+                "word": "ŞİKARÇI",
+                "explanation": "is. ovçu. xanın sağında-solundadüzülən yasavullar",
+                "isPanagram": true,
+                "score": 17,
+                "length": 7,
+                "id": 17
+            }
+        ]
+    }
+}

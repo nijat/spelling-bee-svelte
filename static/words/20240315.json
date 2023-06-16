@@ -1,0 +1,229 @@
+{
+    "gameData": {
+        "day": "20240315",
+        "expiration": "1710547140",
+        "centerLetter": "L",
+        "outerLetters": [
+            "A",
+            "F",
+            "Ç",
+            "Ü",
+            "Z",
+            "İ"
+        ],
+        "words_info": {
+            "word_count": 25,
+            "sum_score": 113,
+            "panagram_count": 1,
+            "word_length": {
+                "4": 8,
+                "5": 9,
+                "6": 6,
+                "7": 1,
+                "8": 1
+            }
+        },
+        "words": [
+            {
+                "word": "ALAF",
+                "explanation": "is. heyvan yemi (ot",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "ALÇA",
+                "explanation": "is. cır və peyvənd cinsləri olançəyirdəkli turş və ya şirin yumru bir meyvə.cır ***. *** qurusu. turş ***",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "ÇALA",
+                "explanation": "is. çökək yer",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "FAİL",
+                "explanation": "sif. [ər.] köhn. 1. işləyən",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "ÜZLÜ",
+                "explanation": "sif. 1. üzü",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 5
+            },
+            {
+                "word": "ZAİL",
+                "explanation": "sif. [ər.] klas. daimi olmayan",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 6
+            },
+            {
+                "word": "ZİLİ",
+                "explanation": "is. xüs. xalça növlərindən birinin adı. [xalçanın sumaq] tipinin müxtəlif növləri qubada",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 7
+            },
+            {
+                "word": "ZÜLF",
+                "explanation": "is. [fars.] şair. saç (xüsusilə üzün ikitərəfində sallanan tellər). təbriz üstə marağa;***ün gəlməz darağa; axtarıram yarımı;düşüb soraq-sorağa",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 8
+            },
+            {
+                "word": "ALAFA",
+                "explanation": "is. məh. böyük",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 9
+            },
+            {
+                "word": "ALLAF",
+                "explanation": "is. [ər.] köhn. taxıl",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 10
+            },
+            {
+                "word": "FAZİL",
+                "explanation": "sif. [ər.] fəzilət sahibi",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 11
+            },
+            {
+                "word": "FİLİZ",
+                "explanation": "is. tərkibində metal və ya onunbirləşmələri olan təbii xam mineral; külçə.dəmir ***i. mis ***i",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 12
+            },
+            {
+                "word": "LİFÇİ",
+                "explanation": "is. hamamda lif çəkən adam; kisəçi",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 13
+            },
+            {
+                "word": "LİFLİ",
+                "explanation": "sif. tərkibində lif olan",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 14
+            },
+            {
+                "word": "LİLLİ",
+                "explanation": "sif. lehməli",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 15
+            },
+            {
+                "word": "ZİLLİ",
+                "explanation": "sif. zil tökülmüş",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 16
+            },
+            {
+                "word": "ZÜLAL",
+                "explanation": "is. [ər.] 1. saf",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 17
+            },
+            {
+                "word": "ÇİLÇİL",
+                "explanation": "sif. çoxlu çili olan",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 18
+            },
+            {
+                "word": "FAİZLİ",
+                "explanation": "sif. faiz verən",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 19
+            },
+            {
+                "word": "FİLİAL",
+                "explanation": "[lat. ***is – oğula məxsus] hər hansı təşkilatın (idarənin",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 20
+            },
+            {
+                "word": "ÜÇÜZLÜ",
+                "explanation": "sif. üç üzü olan; üçtinli. ***yeyə. – günəş şüası *** prizmadan keçərəköz tərkib hissələrinə ayrılır",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 21
+            },
+            {
+                "word": "ZÜLALİ",
+                "explanation": "sif. [ər.] biol. zülala aid olan",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 22
+            },
+            {
+                "word": "ZÜLFLÜ",
+                "explanation": "sif. zülfü",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 23
+            },
+            {
+                "word": "FİLİZLİ",
+                "explanation": "sif. filiz yataqları olan",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 24
+            },
+            {
+                "word": "ÜÇFAİZLİ",
+                "explanation": "sif. 1. bir şeyin üç faizini təşkiledən. *** gəlir.2. üç faiz gəlir verən. *** dövlət istiqrazı",
+                "isPanagram": true,
+                "score": 17,
+                "length": 8,
+                "id": 25
+            }
+        ]
+    }
+}

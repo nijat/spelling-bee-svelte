@@ -1,0 +1,389 @@
+{
+    "gameData": {
+        "day": "20230915",
+        "expiration": "1694822340",
+        "centerLetter": "A",
+        "outerLetters": [
+            "N",
+            "E",
+            "K",
+            "M",
+            "L",
+            "R"
+        ],
+        "words_info": {
+            "word_count": 45,
+            "sum_score": 194,
+            "panagram_count": 1,
+            "word_length": {
+                "4": 16,
+                "6": 9,
+                "5": 13,
+                "7": 6,
+                "10": 1
+            }
+        },
+        "words": [
+            {
+                "word": "ALAM",
+                "explanation": "is. [ər. “ələm” söz. cəmi] qəm",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "ALMA",
+                "explanation": "is. müxtəlif çeşidləri və müxtəlif rənglərdə olan girdə",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "AMAL",
+                "explanation": "is. [ər. “əməl” söz. cəmi] tənt. qayə",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "AMAN",
+                "explanation": "is. [ər.] 1. əmin-***lıq",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "ANMA",
+                "explanation": "“***q”dan f.is. *** mərasimi",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 5
+            },
+            {
+                "word": "ARAM",
+                "explanation": "is. [fars.] sakitlik",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 6
+            },
+            {
+                "word": "ARAN",
+                "explanation": "is. azərbaycanda: yaylaq yerlərənisbətən alçaq və iqlimcə isti olan yerlər.azərbaycanın əsas *** yerləri muğan",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 7
+            },
+            {
+                "word": "ELAM",
+                "explanation": "is. [ər.] klas. bildirmə",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 8
+            },
+            {
+                "word": "ELAN",
+                "explanation": "is. [ər.] 1. yazılı",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 9
+            },
+            {
+                "word": "EMAL",
+                "explanation": "is. [ər.] müxtəlif əməliyyat vasitəsiləqayırma",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 10
+            },
+            {
+                "word": "KALA",
+                "explanation": "is. məh. böyük şüşə qab",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 11
+            },
+            {
+                "word": "KLAN",
+                "explanation": "is. [ing.] qohumların bir-biri ilətəsərrüfat",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 12
+            },
+            {
+                "word": "MALA",
+                "explanation": "is. [fars.] 1. binanın iç və bayırdivarlarına çəkmək üçün əhəng",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 13
+            },
+            {
+                "word": "MAMA",
+                "explanation": "is. doğuş zamanı kömək göstərməkləməşğul olan (keçmişdə təhsilsiz",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 14
+            },
+            {
+                "word": "MANE",
+                "explanation": "[ər.] : *** olmaq – əngəl olmaq",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 15
+            },
+            {
+                "word": "REAL",
+                "explanation": "sif. [lat. ***is] 1. xəyalda deyil",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 16
+            },
+            {
+                "word": "ALANA",
+                "explanation": "is. içərisi şəkərli qozla doldurulmuşmeyvə qurusu (armud",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 17
+            },
+            {
+                "word": "ALMAN",
+                "explanation": "is. ***iyanın əsas əhalisinitəşkil edən xalq və bu xalqa mənsub adam.*** ədəbiyyatının qədim abidələri",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 18
+            },
+            {
+                "word": "AREAL",
+                "explanation": "is. [lat.] müxtəlif qəbildən olanşeylərin (dil",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 19
+            },
+            {
+                "word": "ARENA",
+                "explanation": "is. [lat.] 1. sirk səhnəsi. müasirsirkdə *** manej adlanır.2. fəaliyyət göstərilən yer.3. biol. orqanizmin mövcud olduğu bütünyerlərin məcmusu",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 20
+            },
+            {
+                "word": "EKRAN",
+                "explanation": "[fr.] 1. üzərində kino",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 21
+            },
+            {
+                "word": "KALAN",
+                "explanation": "sif. dan. varlı",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 22
+            },
+            {
+                "word": "KALKA",
+                "explanation": "[fr.] 1. çertyojlardan",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 23
+            },
+            {
+                "word": "KAMAL",
+                "explanation": "is. [ər.] 1. kamillik",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 24
+            },
+            {
+                "word": "KAMAN",
+                "explanation": "is. [fars.] 1. bax ***ça. nəqədər dərdlidir o qırıq ***; şikayət eyləyiröz dünyasından. s.vurğun",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 25
+            },
+            {
+                "word": "KANAL",
+                "explanation": "[lat.] 1. dəniz",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 26
+            },
+            {
+                "word": "MARAL",
+                "explanation": "is. zool. buynuzları budaq kimişaxələnən",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 27
+            },
+            {
+                "word": "MEMAR",
+                "explanation": "is. [ər.] ***lıq mütəxəssisi;arxitektor. [sənubər pərşana:] bu çox ciddiişdir",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 28
+            },
+            {
+                "word": "NALAN",
+                "explanation": "sif. və zərf [fars.] ağlayan",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 29
+            },
+            {
+                "word": "ALAMAN",
+                "explanation": "is. məh. köhn. çapqın",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 30
+            },
+            {
+                "word": "KAMERA",
+                "explanation": "[lat.] 1. bəzi idarələrdə xüsusiməqsədlər üçün ayrılmış otaq. dezinfeksiya***sı. əl baqajı ***sı",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 31
+            },
+            {
+                "word": "KAMRAN",
+                "explanation": "sif. [fars.] klas. kamına (arzusuna",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 32
+            },
+            {
+                "word": "KANKAN",
+                "explanation": "is. [fars.] köhn. əl ilə quyuqazan;quyuçu. ***ın vəsiyyəti qızıl öküzdür.(ata. sözü). [məmməd:] atam ***idi",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 33
+            },
+            {
+                "word": "KARLAL",
+                "explanation": "is. həm eşitmək",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 34
+            },
+            {
+                "word": "LALKAR",
+                "explanation": "1. sif. həm danışmaq",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 35
+            },
+            {
+                "word": "MAKAKA",
+                "explanation": "is. [port.] əntərlər yarımfəsiləsindənolan meymun",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 36
+            },
+            {
+                "word": "MAKREL",
+                "explanation": "is. [rus.] balıq növü",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 37
+            },
+            {
+                "word": "REKLAM",
+                "explanation": "[lat. reclamare – qışqırmaq]1. bir adama və ya bir şeyə şöhrət qazandırmaq",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 38
+            },
+            {
+                "word": "ARLANMA",
+                "explanation": "“***q”dan f.is. arsıznədən arlanar?! (məsəl)",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 39
+            },
+            {
+                "word": "KAMERAL",
+                "explanation": "[fr.] : *** işləri",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 40
+            },
+            {
+                "word": "KARAMEL",
+                "explanation": "[fr.] şəkər və patkadan hazırlananətirli",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 41
+            },
+            {
+                "word": "MALAMAL",
+                "explanation": "sif. və zərf [fars.] dolu",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 42
+            },
+            {
+                "word": "MANEKEN",
+                "explanation": "is. [fr.] mağaza və atelyelərdəpaltar nümayiş etdirmək üçün insan formasındadüzəldilən fiqur; müqəvva",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 43
+            },
+            {
+                "word": "REMARKA",
+                "explanation": "[fr. remarque] pyes müəllifinin",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 44
+            },
+            {
+                "word": "EKRANLANMA",
+                "explanation": "tex. “***q”dan f.is. bir şeyi xarici",
+                "isPanagram": true,
+                "score": 17,
+                "length": 10,
+                "id": 45
+            }
+        ]
+    }
+}

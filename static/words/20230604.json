@@ -1,0 +1,206 @@
+{
+    "gameData": {
+        "day": "20230604",
+        "expiration": "1685923140",
+        "centerLetter": "V",
+        "outerLetters": [
+            "A",
+            "R",
+            "U",
+            "K",
+            "N",
+            "T"
+        ],
+        "words_info": {
+            "word_count": 22,
+            "sum_score": 115,
+            "panagram_count": 1,
+            "word_length": {
+                "4": 6,
+                "6": 4,
+                "5": 9,
+                "12": 1,
+                "11": 1,
+                "9": 1
+            }
+        },
+        "words": [
+            {
+                "word": "ARVA",
+                "explanation": "is. dan. içinə şey qoyulan və yatökülən qabların (qutu",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "AVAR",
+                "explanation": "is. məh. keçmişdə kənd evlərinindamına döşənən qamışaoxşar ot; ümumiyyətlə",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "TAVA",
+                "explanation": "is. içində ət və s. qızartmaq üçünkənarları yastı",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "TAVR",
+                "explanation": "is. krımın cənub hissəsinin qədiməhalisi",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "URVA",
+                "explanation": "is. xəmiri kündələyərkən və yayayarkən ələ yapışmaması üçün onun üstünəsəpilən az un. iki evin ***sından bir fətirolar",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 5
+            },
+            {
+                "word": "VANT",
+                "explanation": "is. [holl.] dor ağacını və başqa şeylərigəminin bortlarına bərkitmək üçün takelajipləri",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 6
+            },
+            {
+                "word": "AVARA",
+                "explanation": "[fars.] 1. is. heç bir işlə məşğul olmayaraq boş-boş gəzən adam",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 7
+            },
+            {
+                "word": "KVANT",
+                "explanation": "[lat. quantum] fizika və kimyadahər hansı bir enerjinin ən kiçik miqdarı.işıq enerjisinin ***ı",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 8
+            },
+            {
+                "word": "NAVAR",
+                "explanation": "is. heyvanı yüklədikdə belinəqoyulan içi küləşlə doldurulmuş torba;yəhəraltı",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 9
+            },
+            {
+                "word": "TAVAN",
+                "explanation": "is. [fars.] güc",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 10
+            },
+            {
+                "word": "TAVAR",
+                "explanation": "is. balaq (camış balası)",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 11
+            },
+            {
+                "word": "URVAT",
+                "explanation": "is. dan. hörmət",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 12
+            },
+            {
+                "word": "VARAN",
+                "explanation": "is. kərtənkələlər yarımdəstəsindənsürünən heyvan fəsiləsi",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 13
+            },
+            {
+                "word": "VARNA",
+                "explanation": "is. [sanskr.] qədim hindistandamövcud olmuş 4 zümrədən hər biri: brahmanlar",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 14
+            },
+            {
+                "word": "VURAN",
+                "explanation": "f.sif. bax vurağan 1-ci mənada.*** öküzə allah buynuz verməz. (ata. sözü)",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 15
+            },
+            {
+                "word": "ARVANA",
+                "explanation": "is. məh. iki hörgüclü dişi dəvə.haça buğurlar",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 16
+            },
+            {
+                "word": "KARVAN",
+                "explanation": "is. [fars.] 1. bir-birinin ardınca sıra ilə hərəkət edən yüklü heyvan (əsasən dəvə) dəstəsi (qatarı); qafilə",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 17
+            },
+            {
+                "word": "KVARTA",
+                "explanation": "[lat.] mus. diatonik qammadadördüncü pillə. // həmin pillə ilə birinci pilləarasındakı interval",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 18
+            },
+            {
+                "word": "TAVANA",
+                "explanation": "is. [fars.] 1. maddi imkan",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 19
+            },
+            {
+                "word": "KARVANVURAN",
+                "explanation": "is. köhn. yoldan gəlibkeçən karvanları soyan; yolkəsən",
+                "isPanagram": false,
+                "score": 11,
+                "length": 11,
+                "id": 20
+            },
+            {
+                "word": "KARVANKARVAN",
+                "explanation": "sif. karvan kimi",
+                "isPanagram": false,
+                "score": 12,
+                "length": 12,
+                "id": 21
+            },
+            {
+                "word": "TANKVURAN",
+                "explanation": "sif. düşmən tanklarını vurmaqüçün işlədilən. burada bir dəstə əsgəravtomatı",
+                "isPanagram": true,
+                "score": 17,
+                "length": 9,
+                "id": 22
+            }
+        ]
+    }
+}

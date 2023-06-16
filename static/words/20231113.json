@@ -1,0 +1,182 @@
+{
+    "gameData": {
+        "day": "20231113",
+        "expiration": "1699919940",
+        "centerLetter": "O",
+        "outerLetters": [
+            "E",
+            "N",
+            "R",
+            "K",
+            "T",
+            "V"
+        ],
+        "words_info": {
+            "word_count": 19,
+            "sum_score": 116,
+            "panagram_count": 1,
+            "word_length": {
+                "7": 3,
+                "9": 1,
+                "6": 6,
+                "8": 1,
+                "5": 6,
+                "4": 2
+            }
+        },
+        "words": [
+            {
+                "word": "TORT",
+                "explanation": "[ital.] yağ",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "VETO",
+                "explanation": "[lat.] qadağan etmə",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "NETTO",
+                "explanation": "[ital.] 1. əmtəənin qabsız xaliskütləsi.2. itkilər",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 3
+            },
+            {
+                "word": "NONET",
+                "explanation": "is. [ital.] 1. doqquz alət və ya səsüçün musiqi əsəri.2. doqquz ifaçıdan ibarət musiqi ansamblı",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 4
+            },
+            {
+                "word": "REKON",
+                "explanation": "is. [lat.] genetik rekombinasiyanınelementar vahidi",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 5
+            },
+            {
+                "word": "RETRO",
+                "explanation": "is. [ing.] 1. geri qayıtmaq.2. keçmişə uyğunluq",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 6
+            },
+            {
+                "word": "ROTOR",
+                "explanation": "[lat. rotare – fırlanma] maşının(turbinin",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 7
+            },
+            {
+                "word": "TENOR",
+                "explanation": "[ital.] ən uca zil kişi səsi. // beləsəsi olan müğənni. *** artist",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 8
+            },
+            {
+                "word": "KOTTON",
+                "explanation": "is. [fr.] trikotaj və corab toxuyanmaşın",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 9
+            },
+            {
+                "word": "KROKET",
+                "explanation": "[ing.] 1. şarları taxta çəkiclərləvurub məftil qapılardan keçirməkdən ibarətoyun. *** oynamaq. // bu oyun üçün ləvazimat",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 10
+            },
+            {
+                "word": "REKTOR",
+                "explanation": "[lat. rector – rəhbər",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 11
+            },
+            {
+                "word": "ROKOKO",
+                "explanation": "[fr.] xvııı əsrdə fransadameydana gəlib formalarının zərifliyi və mürəkkəbliyi",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 12
+            },
+            {
+                "word": "TERROR",
+                "explanation": "[lat. therror – qorxu",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 13
+            },
+            {
+                "word": "VEKTOR",
+                "explanation": "[lat.] riyaz. ədədi qiyməti vəistiqaməti olan riyazi kəmiyyət və bu kəmiyyətinqrafik təsviri",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 14
+            },
+            {
+                "word": "KONKRET",
+                "explanation": "sif. [lat. concretus – qatı",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 15
+            },
+            {
+                "word": "KONVENT",
+                "explanation": "[lat. conventus-dan] bəzi ölkələrdə:xüsusi qanunvericilik hüququna malikolan seçkili orqanların adı; şura",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 16
+            },
+            {
+                "word": "KOVERKOT",
+                "explanation": "[ing. covert coat] 1. üst paltarlıq bahalı yun parça növü. 5 metr ***. ***dan kostyum tikdirmək",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 17
+            },
+            {
+                "word": "KORREKTOR",
+                "explanation": "[lat.] korrektura oxuyanvə düzəldən mətbəə və ya nəşriyyat işçisi;müsəhhih",
+                "isPanagram": false,
+                "score": 9,
+                "length": 9,
+                "id": 18
+            },
+            {
+                "word": "KONVERT",
+                "explanation": "[fr.] 1. bax zərf 1-ci mənada.tərlan ***i cibindən çıxartdı",
+                "isPanagram": true,
+                "score": 17,
+                "length": 7,
+                "id": 19
+            }
+        ]
+    }
+}

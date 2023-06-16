@@ -1,0 +1,343 @@
+{
+    "gameData": {
+        "day": "20240524",
+        "expiration": "1716595140",
+        "centerLetter": "L",
+        "outerLetters": [
+            "A",
+            "I",
+            "Y",
+            "D",
+            "R",
+            "Ş"
+        ],
+        "words_info": {
+            "word_count": 39,
+            "sum_score": 203,
+            "panagram_count": 1,
+            "word_length": {
+                "4": 9,
+                "5": 17,
+                "7": 4,
+                "9": 3,
+                "10": 2,
+                "6": 3,
+                "8": 1
+            }
+        },
+        "words": [
+            {
+                "word": "ADLI",
+                "explanation": "sif. 1. müəyyən adı olan",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "ALAŞ",
+                "explanation": "is. bax ala1 1-ci mənada",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "ALAY",
+                "explanation": "is. 1. camaat",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "ALIŞ",
+                "explanation": "f.is. almaq işi",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "ALLI",
+                "explanation": "sif. köhn. al rəngli paltar geymiş.tərifli gözəllər gəlhagəl oldu; yaşıllı",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 5
+            },
+            {
+                "word": "ARLI",
+                "explanation": "sif. həyalı",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 6
+            },
+            {
+                "word": "AŞLI",
+                "explanation": "sif. aşa qoyulmuş. *** gön. ***dəri. – aşıq abbas *** çarıqlarını yerə sürtəsürtəmərəkəni süzür",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 7
+            },
+            {
+                "word": "AYLI",
+                "explanation": "sif. ay işığı ilə işıqlanmış",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 8
+            },
+            {
+                "word": "LARI",
+                "explanation": "sif. uzunqıçlı",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 9
+            },
+            {
+                "word": "ADYAL",
+                "explanation": "is. [əsli rus.] yun və ya iplikdəntoxunma birqat yorğan. nəriman gah ***üstünə atılmış sədəfli tara",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 10
+            },
+            {
+                "word": "ALALI",
+                "explanation": "sif. alası olan",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 11
+            },
+            {
+                "word": "ALAŞA",
+                "explanation": "is. arıq at; yabı. [qardaşı:] [sadıqkişi]",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 12
+            },
+            {
+                "word": "DADLI",
+                "explanation": "1. sif. yaxşı dadı olan",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 13
+            },
+            {
+                "word": "DALDA",
+                "explanation": "1. sif. sığınmağa və ya gizlənməyəyarayan. *** yer. *** divar.– kosa boşalmış küçənin *** yeri ilə yeriyibat tövlələrinin yanına çatdı",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 14
+            },
+            {
+                "word": "DALLI",
+                "explanation": "sif. dalları (budaqları) olan. ***ağac",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 15
+            },
+            {
+                "word": "DAŞLI",
+                "explanation": "sif. 1. daşı olan",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 16
+            },
+            {
+                "word": "LAYLA",
+                "explanation": "is. 1. körpə uşaqları yatırtmaq üçün hava ilə oxunan həzin şeir parçası; nənni",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 17
+            },
+            {
+                "word": "LAYLI",
+                "explanation": "sif. laylardan ibarət",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 18
+            },
+            {
+                "word": "ŞALLI",
+                "explanation": "sif. başına şal örtmüş",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 19
+            },
+            {
+                "word": "ŞARLI",
+                "explanation": "sif. şarı olan; öz quruluşunda",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 20
+            },
+            {
+                "word": "YALLI",
+                "explanation": "is. bir-birinin əlindən tutaraq dəstəilə oynanılan azərbaycan xalq rəqsi. *** havası.– alaq vuranların mahnıları",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 21
+            },
+            {
+                "word": "YARLI",
+                "explanation": "sif. yarı",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 22
+            },
+            {
+                "word": "YAŞIL",
+                "explanation": "sif. 1. yarpaq",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 23
+            },
+            {
+                "word": "YAŞLI",
+                "explanation": "sif. yaşa dolmuş; sinli",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 24
+            },
+            {
+                "word": "YAYLA",
+                "explanation": "is. 1. ***q. [molla həmid:]allaha şükür",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 25
+            },
+            {
+                "word": "YAYLI",
+                "explanation": "sif. yayı olan. *** kürsü. ***oyuncaq. – bu vaxt əhməd *** krovatın üzərindəuzanıb ağır-ağır nəfəs alırdı",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 26
+            },
+            {
+                "word": "DAYILI",
+                "explanation": "sif. 1. dayısı olan.2. məc. dan. havadarı",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 27
+            },
+            {
+                "word": "LAYDIR",
+                "explanation": "is. kotanın torpağı çevirən hissəsi",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 28
+            },
+            {
+                "word": "LAYLAY",
+                "explanation": "is. 1. körpə uşaqları yatırtmaq üçün hava ilə oxunan həzin şeir parçası; nənni",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 29
+            },
+            {
+                "word": "ALYAŞIL",
+                "explanation": "is. köhn. al-yaşıl rəngli ipəkparça. əziziyəm bizə gəl; al-yaşıl gey",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 30
+            },
+            {
+                "word": "AYRILIŞ",
+                "explanation": "is. ayrılmaq işi",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 31
+            },
+            {
+                "word": "YARARLI",
+                "explanation": "sif. yarayan",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 32
+            },
+            {
+                "word": "YAŞILLI",
+                "explanation": "sif. 1. yaşıl rəngi və ya yaşıl xalları",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 33
+            },
+            {
+                "word": "YADDAŞLI",
+                "explanation": "sif. yaddaşı",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 34
+            },
+            {
+                "word": "ALLIŞALLI",
+                "explanation": "sif. məh. al-əlvan. pətəklərdənvə bağçada qoyulan qırmızı rəngliyeşiklərdən arılar dəstə-dəstə çıxır",
+                "isPanagram": false,
+                "score": 9,
+                "length": 9,
+                "id": 35
+            },
+            {
+                "word": "YARIARALI",
+                "explanation": "sif. bir az aralı",
+                "isPanagram": false,
+                "score": 9,
+                "length": 9,
+                "id": 36
+            },
+            {
+                "word": "DADLIDADLI",
+                "explanation": "1) sif. ləzzətli-ləzzətli",
+                "isPanagram": false,
+                "score": 10,
+                "length": 10,
+                "id": 37
+            },
+            {
+                "word": "DALAYDALAY",
+                "explanation": "is. xanəndələrin oxumağabaşlarkən əvvəlcə giriş kimi söylədiklərisöz",
+                "isPanagram": false,
+                "score": 10,
+                "length": 10,
+                "id": 38
+            },
+            {
+                "word": "YARADILIŞ",
+                "explanation": "is. 1. yaratmaq işi; yaradılma",
+                "isPanagram": true,
+                "score": 17,
+                "length": 9,
+                "id": 39
+            }
+        ]
+    }
+}

@@ -1,0 +1,253 @@
+{
+    "gameData": {
+        "day": "20240322",
+        "expiration": "1711151940",
+        "centerLetter": "L",
+        "outerLetters": [
+            "E",
+            "A",
+            "Ş",
+            "B",
+            "N",
+            "İ"
+        ],
+        "words_info": {
+            "word_count": 28,
+            "sum_score": 139,
+            "panagram_count": 1,
+            "word_length": {
+                "6": 6,
+                "5": 10,
+                "4": 7,
+                "7": 4,
+                "8": 1
+            }
+        },
+        "words": [
+            {
+                "word": "ALAŞ",
+                "explanation": "is. bax ala1 1-ci mənada",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "BALA",
+                "explanation": "1. is. övlad",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "BLİN",
+                "explanation": "is. [rus.] mayalı xəmirdən qızartmaüsulu ilə bişirilmiş nazik kökə",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "ELAN",
+                "explanation": "is. [ər.] 1. yazılı",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "ELLİ",
+                "explanation": "sif. 1 vətəni",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 5
+            },
+            {
+                "word": "ENLİ",
+                "explanation": "sif. en cəhətdən geniş olan",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 6
+            },
+            {
+                "word": "NAİL",
+                "explanation": "[ər.] : *** olmaq – əldə etmək",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 7
+            },
+            {
+                "word": "ALANA",
+                "explanation": "is. içərisi şəkərli qozla doldurulmuşmeyvə qurusu (armud",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 8
+            },
+            {
+                "word": "ALAŞA",
+                "explanation": "is. arıq at; yabı. [qardaşı:] [sadıqkişi]",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 9
+            },
+            {
+                "word": "ALBAN",
+                "explanation": "is. 1. ***iya xalq respublikasının əsas əhalisinin adı və bu xalqa mənsub adam; arnaud. 2. tar. azərbaycanın şimal hissəsində yaşamış qədim xalqın a",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 10
+            },
+            {
+                "word": "BALBA",
+                "explanation": "is. məh. cincilim",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 11
+            },
+            {
+                "word": "BİLİŞ",
+                "explanation": "is. 1. bilmək işi",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 12
+            },
+            {
+                "word": "LİANA",
+                "explanation": "[fr.] bot. tropik meşələrdə",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 13
+            },
+            {
+                "word": "LİLLİ",
+                "explanation": "sif. lehməli",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 14
+            },
+            {
+                "word": "NALAN",
+                "explanation": "sif. və zərf [fars.] ağlayan",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 15
+            },
+            {
+                "word": "ŞEŞLİ",
+                "explanation": "sif. içində şeşi olan",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 16
+            },
+            {
+                "word": "ŞİNLİ",
+                "explanation": "sif. şin çəkilmiş",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 17
+            },
+            {
+                "word": "ALABAŞ",
+                "explanation": "is. it adı. bildi hardansa bunlarınsorağın; *** kəsdi dəstənin qabağın.a.səhhət. [əlibəndənin] …qəbrinin üstündəbir *** köpək bağlanmışdır ki",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 18
+            },
+            {
+                "word": "ALİŞAN",
+                "explanation": "sif. [ər.] klas. 1. yüksək şan və şərəf sahibi olan. çox *** nazəninlər görmüşəm; sənin kimi şahzadə tapılmaz",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 19
+            },
+            {
+                "word": "BALİNA",
+                "explanation": "[fr.] bədəncə balığa oxşar çoxiri dəniz məməlisi; kit. *** ovu. ***sümüyü. *** bütün məməli heyvanlarkimi istiqanlı heyvandır",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 20
+            },
+            {
+                "word": "BANBAL",
+                "explanation": "is. məh. iri barama",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 21
+            },
+            {
+                "word": "ENİŞLİ",
+                "explanation": "sif. eniş olan. *** təpə. ***yol. – başı qarlı qafqaz sıra dağlarınınqoynunda",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 22
+            },
+            {
+                "word": "ŞALBAN",
+                "explanation": "is. şaxı",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 23
+            },
+            {
+                "word": "ANABALA",
+                "explanation": "is. ana ilə oğlu və ya qızı.səməd getdi. ana-bala baş-başa veribağlaşdılar. b.talıblı. taxt üstündə ***oturublar yanaşı",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 24
+            },
+            {
+                "word": "BALABAN",
+                "explanation": "is. nəfəslə çalınan qamışdan",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 25
+            },
+            {
+                "word": "ŞİNELLİ",
+                "explanation": "sif. əynində şinel olan",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 26
+            },
+            {
+                "word": "BALABİBİ",
+                "explanation": "is. məh. 1. kiçik bibiyə verilənad.2. gəlinlərə verilən ləqəb; gəlinciyəz",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 27
+            },
+            {
+                "word": "ENLİBAŞ",
+                "explanation": "is. zool. çəkikimilər fəsiləsinədaxil olan enli və kök başlı şirin su balığı",
+                "isPanagram": true,
+                "score": 17,
+                "length": 7,
+                "id": 28
+            }
+        ]
+    }
+}

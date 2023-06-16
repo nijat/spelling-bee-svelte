@@ -1,0 +1,238 @@
+{
+    "gameData": {
+        "day": "20230710",
+        "expiration": "1689033540",
+        "centerLetter": "R",
+        "outerLetters": [
+            "L",
+            "I",
+            "M",
+            "Ş",
+            "Q",
+            "X"
+        ],
+        "words_info": {
+            "word_count": 26,
+            "sum_score": 192,
+            "panagram_count": 1,
+            "word_length": {
+                "6": 5,
+                "5": 7,
+                "7": 3,
+                "8": 5,
+                "9": 2,
+                "10": 4
+            }
+        },
+        "words": [
+            {
+                "word": "XIRLI",
+                "explanation": "sif. 1. məh. varlı",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 1
+            },
+            {
+                "word": "QIRIQ",
+                "explanation": "sif. 1. qırılmış",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 2
+            },
+            {
+                "word": "QIRIM",
+                "explanation": "is. dan. görkəm",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 3
+            },
+            {
+                "word": "QIRIŞ",
+                "explanation": "is. 1. bir şeyin büküldüyü",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 4
+            },
+            {
+                "word": "QIRLI",
+                "explanation": "sif. qır salınmış",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 5
+            },
+            {
+                "word": "MIRIQ",
+                "explanation": "sif. 1. qabaq dişləri çürümüş kötükhalında olan",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 6
+            },
+            {
+                "word": "ŞIRIM",
+                "explanation": "is. 1. k.t. torpaqda kotanın və yabaşqa alətin açdığı dərin iz",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 7
+            },
+            {
+                "word": "XIRXIR",
+                "explanation": "1. sif. səsi xırıltılı. *** adam.– bu çolaq",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 8
+            },
+            {
+                "word": "XIRLIQ",
+                "explanation": "is. çınqıllıq",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 9
+            },
+            {
+                "word": "QIRXIQ",
+                "explanation": "sif. qırxılmış. *** üz. ***baş. – yuxarıdan düşən",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 10
+            },
+            {
+                "word": "QIRXIM",
+                "explanation": "is. 1. bir dəfədə qırxılan yun.2. qoyunların qırxılması mövsümü",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 11
+            },
+            {
+                "word": "ŞIRŞIR",
+                "explanation": "təql. 1. is. bir qaydada axan",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 12
+            },
+            {
+                "word": "QIRXILI",
+                "explanation": "sif. qırxılmış",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 13
+            },
+            {
+                "word": "QIRXLIQ",
+                "explanation": "is. qoyunları qırxmaq üçünxüsusi qayçı",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 14
+            },
+            {
+                "word": "MIRMIRI",
+                "explanation": "is. zool. ağbalıq",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 15
+            },
+            {
+                "word": "QIRXILIQ",
+                "explanation": "1. sif. qırxılmağa yararlı",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 16
+            },
+            {
+                "word": "QIRIQLIQ",
+                "explanation": "is. 1. qırıq şeyin halı; sınıqlıq.2. əzginlik",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 17
+            },
+            {
+                "word": "QIRILMIŞ",
+                "explanation": "f.sif. 1. kəsilmiş",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 18
+            },
+            {
+                "word": "QIRIŞMIŞ",
+                "explanation": "f.sif. qırışıq hala gəlmiş",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 19
+            },
+            {
+                "word": "QIŞQIRIQ",
+                "explanation": "is. çığırtı",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 20
+            },
+            {
+                "word": "QIRIŞIQLI",
+                "explanation": "sif. qırışıqları olan",
+                "isPanagram": false,
+                "score": 9,
+                "length": 9,
+                "id": 21
+            },
+            {
+                "word": "QIRIQQIRIQ",
+                "explanation": "sif. və zərf tikə-tikə",
+                "isPanagram": false,
+                "score": 10,
+                "length": 10,
+                "id": 22
+            },
+            {
+                "word": "QIRIŞQIRIŞ",
+                "explanation": "sif. və zərf qırışları çox olan",
+                "isPanagram": false,
+                "score": 10,
+                "length": 10,
+                "id": 23
+            },
+            {
+                "word": "QIRIŞIQLIQ",
+                "explanation": "is. qırışıq şeyin halı",
+                "isPanagram": false,
+                "score": 10,
+                "length": 10,
+                "id": 24
+            },
+            {
+                "word": "ŞIRIMŞIRIM",
+                "explanation": "sif. zolaq-zolaq",
+                "isPanagram": false,
+                "score": 10,
+                "length": 10,
+                "id": 25
+            },
+            {
+                "word": "QIRXILMIŞ",
+                "explanation": "f.sif. tükü ülgüc və ya qayçıilə dibindən kəsilmiş; qayçılanmış",
+                "isPanagram": true,
+                "score": 17,
+                "length": 9,
+                "id": 26
+            }
+        ]
+    }
+}

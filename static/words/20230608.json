@@ -1,0 +1,325 @@
+{
+    "gameData": {
+        "day": "20230608",
+        "expiration": "1686268740",
+        "centerLetter": "K",
+        "outerLetters": [
+            "E",
+            "A",
+            "Ə",
+            "L",
+            "T",
+            "M"
+        ],
+        "words_info": {
+            "word_count": 37,
+            "sum_score": 165,
+            "panagram_count": 1,
+            "word_length": {
+                "4": 12,
+                "5": 15,
+                "8": 3,
+                "6": 5,
+                "7": 2
+            }
+        },
+        "words": [
+            {
+                "word": "ƏKMƏ",
+                "explanation": "1. “***k1”dən f.is. şitil ***.2. sif. əkilmiş",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "ƏLƏK",
+                "explanation": "is. unun kəpək və qeyri zibillərinitəmizləmək üçün sağanağa keçirilmiş sıxtordan ibarət alət. *** dairəvi qutu şəklindəolur",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "ƏMƏK",
+                "explanation": "is. insanın əqli və cismani gərginliktələb edən məqsədəuyğun və ictimaicəhətdən faydalı fəaliyyəti; zəhmət",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "ƏTƏK",
+                "explanation": "is. 1. paltarın beldən aşağı tərəfəuzanan hissəsi. paltonun ətəyi uzundur. pencəyinətəyini bir qədər qısaltmaq lazımdır",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "KALA",
+                "explanation": "is. məh. böyük şüşə qab",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 5
+            },
+            {
+                "word": "KƏKƏ",
+                "explanation": "sif. danışarkən ***ləyən; kəkov.*** uşaq. anadan *** (z.) doğulmaq",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 6
+            },
+            {
+                "word": "KƏLƏ",
+                "explanation": "is. 1. cins artırmaq üçün saxlanılanaxtalanmamış",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 7
+            },
+            {
+                "word": "KƏTƏ",
+                "explanation": "is. ı. göyərti qutabı. [mahmud:] bir***yə bax",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 8
+            },
+            {
+                "word": "LƏKƏ",
+                "explanation": "is. 1. ***ləyici bir şeyin səth üzərindəburaxdığı iz. qan ***si. yağ ***si. mürəkkəb***si. paltarındakı ***ni silmək",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 9
+            },
+            {
+                "word": "MƏKƏ",
+                "explanation": "is. qarğıdalı",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 10
+            },
+            {
+                "word": "TALK",
+                "explanation": "is. [ər.] adətən toz halında təbabətdəvə tibdə işlədilən ağ və ya göy rəngliyumşaq mineral",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 11
+            },
+            {
+                "word": "TƏKƏ",
+                "explanation": "is. 1. erkək keçi.2. vəhşi keçi",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 12
+            },
+            {
+                "word": "ƏKMƏK",
+                "explanation": "is. çörək. [üçüncü satıcı:] qızarmıştazə ***",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 13
+            },
+            {
+                "word": "ƏMLAK",
+                "explanation": "is. [ər. “mülk” söz. cəmi]1. mülklər (torpaq",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 14
+            },
+            {
+                "word": "ƏTMƏK",
+                "explanation": "is. köhn. çörək. yanmış ***yeməz idin əsla. m.ə.sabir. [birinci işçi:]bunu gördükdə hər insan utanır? bu qabarlarsizə *** qazanır! h",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 15
+            },
+            {
+                "word": "KALKA",
+                "explanation": "[fr.] 1. çertyojlardan",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 16
+            },
+            {
+                "word": "KAMAL",
+                "explanation": "is. [ər.] 1. kamillik",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 17
+            },
+            {
+                "word": "KATTA",
+                "explanation": "is. dan. bax kətxuda. ***nıgör",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 18
+            },
+            {
+                "word": "KƏLAM",
+                "explanation": "is. [ər.] söz. söz *** bişirərağız kürrədə; dəyər öz başına – dəyənəkolsa… m.araz. // hikmətamiz",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 19
+            },
+            {
+                "word": "KƏLƏK",
+                "explanation": "is. hiylə",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 20
+            },
+            {
+                "word": "KƏLƏM",
+                "explanation": "is. yarpaqları xörəyə işlənən bostan bitkisi. bir baş ***. *** dərmək. – bazara turp",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 21
+            },
+            {
+                "word": "KƏLLƏ",
+                "explanation": "is. [fars.] 1. baş. ***sindən vurmaq.– ox atma sən bu daşa; bu qayaya",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 22
+            },
+            {
+                "word": "KƏLMƏ",
+                "explanation": "is. [ər.] 1. söz. qurban mollanın ağzından çıxan ***ləri yeyəcəkmiş kimi … onu dinləyirdi. a.şaiq. [səfərəli:] bizim istanbulda böylə ***lər işlən",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 23
+            },
+            {
+                "word": "LƏKTƏ",
+                "explanation": "sif. dan. köhn. həyasız",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 24
+            },
+            {
+                "word": "LƏLƏK",
+                "explanation": "is. 1. quşların qanadlarının vəquyruqlarının uclarındakı uzun saplaqlı tük.[qız] eyvanın küncündə ları xoruzun qanadındandüşmüş uzun lələyi görüb s",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 25
+            },
+            {
+                "word": "MAKET",
+                "explanation": "[fr.] bir şeyin (bəzən əvvəlcədəndüzəldilmiş) kiçik nümunəsi; model. [reyhan:]cahangir gedək. mehribanın düzəltdiyiyeni ***i sənə göstərmək istəy",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 26
+            },
+            {
+                "word": "MƏLƏK",
+                "explanation": "is. [ər.] 1. dinə görə",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 27
+            },
+            {
+                "word": "KƏLƏKƏ",
+                "explanation": "is. məh. yeni doğmuş heyvanınağuz südünün bişmişi",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 28
+            },
+            {
+                "word": "MAKAKA",
+                "explanation": "is. [port.] əntərlər yarımfəsiləsindənolan meymun",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 29
+            },
+            {
+                "word": "MƏLƏKƏ",
+                "explanation": "is. [ər. məlikə] padşah arvadı;şahbanu. o",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 30
+            },
+            {
+                "word": "TƏKTƏK",
+                "explanation": "sif. və zərf 1. birbəbir",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 31
+            },
+            {
+                "word": "TƏLƏKƏ",
+                "explanation": "sif. köhnə cır-cındır",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 32
+            },
+            {
+                "word": "KƏLƏMAT",
+                "explanation": "[ər. kəlimat – “kəlmə” sözcəmi] kəlmələr",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 33
+            },
+            {
+                "word": "KƏKƏLƏMƏ",
+                "explanation": "1. “***k”dən f.is.onun danışanda ***si və adı qəhrəmanasabiq yoldaşı meracı xatırladırdı",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 34
+            },
+            {
+                "word": "LƏKƏLƏKƏ",
+                "explanation": "sif. və zərf çoxlu ləkələriolan",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 35
+            },
+            {
+                "word": "MƏMLƏKƏT",
+                "explanation": "is. [ər.] bir xalqın yaşadığıyer",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 36
+            },
+            {
+                "word": "KƏMTALE",
+                "explanation": "sif. [fars. kəm və ər. tale]talesiz",
+                "isPanagram": true,
+                "score": 17,
+                "length": 7,
+                "id": 37
+            }
+        ]
+    }
+}

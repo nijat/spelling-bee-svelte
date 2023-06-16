@@ -1,0 +1,230 @@
+{
+    "gameData": {
+        "day": "20230629",
+        "expiration": "1688083140",
+        "centerLetter": "K",
+        "outerLetters": [
+            "İ",
+            "Ş",
+            "Ə",
+            "N",
+            "Ç",
+            "D"
+        ],
+        "words_info": {
+            "word_count": 25,
+            "sum_score": 108,
+            "panagram_count": 1,
+            "word_length": {
+                "4": 10,
+                "5": 8,
+                "7": 1,
+                "10": 1,
+                "8": 1,
+                "6": 4
+            }
+        },
+        "words": [
+            {
+                "word": "ÇƏKİ",
+                "explanation": "is. parça",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "ƏKİN",
+                "explanation": "is. 1. taxıl",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "ƏKİŞ",
+                "explanation": "is. əkmə işi və tərzi",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "ƏNƏK",
+                "explanation": "is. 1. yük atı",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "ƏNİK",
+                "explanation": "sif. yırtıcı",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 5
+            },
+            {
+                "word": "KƏKƏ",
+                "explanation": "sif. danışarkən ***ləyən; kəkov.*** uşaq. anadan *** (z.) doğulmaq",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 6
+            },
+            {
+                "word": "KƏND",
+                "explanation": "is. əhalisi",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 7
+            },
+            {
+                "word": "KİNƏ",
+                "explanation": "is. əcz. *** ağacının qabığındanhasil edilən acıdadlı ağ toz dərman; isitmədərmanı. *** atmaq. – [heybət:] dünənyaxşı idim",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 8
+            },
+            {
+                "word": "KİŞİ",
+                "explanation": "is. 1. cinscə qadının əksi. arvad üzlü***dən",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 9
+            },
+            {
+                "word": "ŞƏKK",
+                "explanation": "is. [ər.] bir şeyin gerçəkliyinə",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 10
+            },
+            {
+                "word": "ÇƏKİK",
+                "explanation": "sif. bir yana doğru çəkilmiş",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 11
+            },
+            {
+                "word": "ÇİÇƏK",
+                "explanation": "is. 1. bot. çılpaqtoxumlu və örtülütoxumlubitkilərin ləçək tacından və erkəkciklədişicikdən ibarət çoxalma orqanı",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 12
+            },
+            {
+                "word": "DƏKKƏ",
+                "explanation": "is. məh. iri heyvanların (inək",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 13
+            },
+            {
+                "word": "DİDİK",
+                "explanation": "sif. didilmiş halda olan. *** yun.*** ət. *** gündə",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 14
+            },
+            {
+                "word": "KƏNDİ",
+                "explanation": "is. içində taxıl",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 15
+            },
+            {
+                "word": "KƏNƏK",
+                "explanation": "sif. 1. ləpəsi çətin çıxan. ***qoz.2. məc. çətinliklə başa gələn",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 16
+            },
+            {
+                "word": "KİÇİK",
+                "explanation": "sif. 1. həcmcə",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 17
+            },
+            {
+                "word": "ŞİŞƏK",
+                "explanation": "is. müxtəlif yerlərdə müxtəlif (2-4)yaşlarda olan erkək qoyun. toğlu birillik",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 18
+            },
+            {
+                "word": "DİŞDƏK",
+                "explanation": "is. məh. həsir toxunmasında işlədiləndişli ağac alət",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 19
+            },
+            {
+                "word": "ƏKƏNƏK",
+                "explanation": "is. taxıl əkilmiş yer",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 20
+            },
+            {
+                "word": "ƏKİNÇİ",
+                "explanation": "is. əkin əkib biçməklə (***liklə)məşğul olan adam; cütçü. ***yağış istər",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 21
+            },
+            {
+                "word": "ŞİŞKİN",
+                "explanation": "sif. şişmiş halda olan. [sübhanverdizadənin]bir az *** olan sifəti indiyanar köz kimi qızarmış(dı)… s",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 22
+            },
+            {
+                "word": "ÇİÇƏKÇİ",
+                "explanation": "is. çiçək yetişdirməklə məşğulolan adam",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 23
+            },
+            {
+                "word": "DİDİKDİDİK",
+                "explanation": "sif. çox didilmiş",
+                "isPanagram": false,
+                "score": 10,
+                "length": 10,
+                "id": 24
+            },
+            {
+                "word": "DİŞÇƏKƏN",
+                "explanation": "is. yararsız dişi çəkmək üçünalət. // yararsız dişi çəkən həkim",
+                "isPanagram": true,
+                "score": 17,
+                "length": 8,
+                "id": 25
+            }
+        ]
+    }
+}

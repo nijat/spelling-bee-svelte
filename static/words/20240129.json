@@ -1,0 +1,147 @@
+{
+    "gameData": {
+        "day": "20240129",
+        "expiration": "1706572740",
+        "centerLetter": "İ",
+        "outerLetters": [
+            "R",
+            "D",
+            "O",
+            "T",
+            "E",
+            "B"
+        ],
+        "words_info": {
+            "word_count": 15,
+            "sum_score": 55,
+            "panagram_count": 1,
+            "word_length": {
+                "4": 8,
+                "5": 6,
+                "7": 1
+            }
+        },
+        "words": [
+            {
+                "word": "BİBİ",
+                "explanation": "is. övlad üçün atanın bacısı",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "BİRİ",
+                "explanation": "əvəz. 1. müəyyən olmayan şəxs",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "DİRİ",
+                "explanation": "sif. 1. canı olan",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "TİBB",
+                "explanation": "is. [ər.] 1. xəstəliklər",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "TİRE",
+                "explanation": "[fr.] 1. uzun üfüqi xətt (–) şəklindədurğu işarəsi.2. morze əlifbasında belə işarə",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 5
+            },
+            {
+                "word": "TİTR",
+                "explanation": "[fr.] 1. kinolentdə yazı",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 6
+            },
+            {
+                "word": "TORİ",
+                "explanation": "is. [ing.] ingiltərədə mühafizəkar siyasipartiya",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 7
+            },
+            {
+                "word": "TRİO",
+                "explanation": "[ital.] 1. hər birinin müstəqil partiyalarıolan üç alət və ya üç səs üçün yazılmışmusiqi əsəri. çaykovskinin ***su",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 8
+            },
+            {
+                "word": "DEBİT",
+                "explanation": "is. [fr.] xüs. bir zaman vahidi ərzindəsu",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 9
+            },
+            {
+                "word": "DİBİR",
+                "explanation": "is. məh. təsbəhlərdə olan uzunsovmuncuq dənəsi",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 10
+            },
+            {
+                "word": "ORBİT",
+                "explanation": "[lat.] 1. astr. göy cisminin hərəkətetdiyi yol. marsın ***i. // süni peyklərin",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 11
+            },
+            {
+                "word": "ORTİT",
+                "explanation": "is. [yun.] radioaktiv mineral",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 12
+            },
+            {
+                "word": "TİBBİ",
+                "explanation": "sif. [ər.] tiblə",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 13
+            },
+            {
+                "word": "TORİT",
+                "explanation": "is. qara",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 14
+            },
+            {
+                "word": "DEBİTOR",
+                "explanation": "is. [lat.] müh. borclu (müəssisə",
+                "isPanagram": true,
+                "score": 17,
+                "length": 7,
+                "id": 15
+            }
+        ]
+    }
+}

@@ -1,0 +1,157 @@
+{
+    "gameData": {
+        "day": "20240212",
+        "expiration": "1707782340",
+        "centerLetter": "S",
+        "outerLetters": [
+            "Z",
+            "X",
+            "I",
+            "B",
+            "M",
+            "A"
+        ],
+        "words_info": {
+            "word_count": 16,
+            "sum_score": 74,
+            "panagram_count": 1,
+            "word_length": {
+                "5": 4,
+                "6": 4,
+                "4": 6,
+                "8": 1,
+                "7": 1
+            }
+        },
+        "words": [
+            {
+                "word": "ASMA",
+                "explanation": "1. “***q”dan f.is.2. sif. bir yerdən asılan",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "XASA",
+                "explanation": "sif. [ər.] yaxşı bişmiş (qızarmış)",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "MASA",
+                "explanation": "is. [rumıncadan] miz",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "SAAM",
+                "explanation": "is. kola yarımadasında",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "SAMI",
+                "explanation": "is. boyunduruğun hər iki ucundakıqoşa deşiklərə salınan nazik ağac. [salmanəmi] arabaçının *** qayırmaq üçün ağacaxtardığını bilib sakit oldu",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 5
+            },
+            {
+                "word": "SIZI",
+                "explanation": "is. bax ***ltı. bütün vücudumda birqırıqlıq",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 6
+            },
+            {
+                "word": "ABASI",
+                "explanation": "is. [xüs. is.-dən] 1. dördşahılıq (iyimiqəpiklik) metal pul. cibimdə bir abbası pulum var. – [hacı qara:] bu kasad bazarda mənim bir şahım yoxdur",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 7
+            },
+            {
+                "word": "BASMA",
+                "explanation": "is. saç boyamaq üçün rəng",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 8
+            },
+            {
+                "word": "SAXSI",
+                "explanation": "is. gildən hazırlanan dulusçuluqməmulatı. ***ya verə-verə",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 9
+            },
+            {
+                "word": "SIXMA",
+                "explanation": "“***q”dan f.is.◊ bir *** – bir atım",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 10
+            },
+            {
+                "word": "ABBASI",
+                "explanation": "is. [xüs. is.-dən] 1. dördşahılıq (iyimiqəpiklik) metal pul. cibimdə bir *** pulum var. – [hacı qara:] bu kasad bazarda mənim bir şahım yoxdur",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 11
+            },
+            {
+                "word": "AXSAMA",
+                "explanation": "“***q”dan f.is. bəxtiyarın… belə ibadəti hacı kərimin işlərinin ***sınasəbəb olurdu. s.hüseyn",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 12
+            },
+            {
+                "word": "BASBAS",
+                "explanation": "is. məh. yaş meyvələri",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 13
+            },
+            {
+                "word": "SIXSIX",
+                "explanation": "zərf və sif. 1. çox sıx",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 14
+            },
+            {
+                "word": "BASABAS",
+                "explanation": "is. basırıq",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 15
+            },
+            {
+                "word": "BAXIMSIZ",
+                "explanation": "sif. 1. evsiz",
+                "isPanagram": true,
+                "score": 17,
+                "length": 8,
+                "id": 16
+            }
+        ]
+    }
+}

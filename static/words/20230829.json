@@ -1,0 +1,549 @@
+{
+    "gameData": {
+        "day": "20230829",
+        "expiration": "1693353540",
+        "centerLetter": "M",
+        "outerLetters": [
+            "A",
+            "İ",
+            "N",
+            "L",
+            "E",
+            "Ə"
+        ],
+        "words_info": {
+            "word_count": 65,
+            "sum_score": 241,
+            "panagram_count": 1,
+            "word_length": {
+                "6": 13,
+                "4": 32,
+                "7": 6,
+                "5": 11,
+                "8": 3
+            }
+        },
+        "words": [
+            {
+                "word": "ALAM",
+                "explanation": "is. [ər. “ələm” söz. cəmi] qəm",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "ALƏM",
+                "explanation": "is. [ər.] 1. kainat",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "ALİM",
+                "explanation": "[ər.] 1. is. hər hansı bir elm sahəsindəmütəxəssis olan adam. azərbaycan***ləri. dünyada tanınmış ***",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "ALMA",
+                "explanation": "is. müxtəlif çeşidləri və müxtəlif rənglərdə olan girdə",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "AMAL",
+                "explanation": "is. [ər. “əməl” söz. cəmi] tənt. qayə",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 5
+            },
+            {
+                "word": "AMAN",
+                "explanation": "is. [ər.] 1. əmin-***lıq",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 6
+            },
+            {
+                "word": "AMİL",
+                "explanation": "is. [ər.] köhn. tacir müvəkkili",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 7
+            },
+            {
+                "word": "AMİN",
+                "explanation": "[ər. əsli qədim yəh.] din. qəbulolsun",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 8
+            },
+            {
+                "word": "ANMA",
+                "explanation": "“***q”dan f.is. *** mərasimi",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 9
+            },
+            {
+                "word": "ELAM",
+                "explanation": "is. [ər.] klas. bildirmə",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 10
+            },
+            {
+                "word": "ELMİ",
+                "explanation": "sif. [ər.] 1. elmə aid",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 11
+            },
+            {
+                "word": "EMAL",
+                "explanation": "is. [ər.] müxtəlif əməliyyat vasitəsiləqayırma",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 12
+            },
+            {
+                "word": "ƏLƏM",
+                "explanation": "is. [ər.] dərd",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 13
+            },
+            {
+                "word": "ƏMAN",
+                "explanation": "[ər.] bax aman. böylə gedərsəbakı əldən gedər; qalmaz o məvadə ***",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 14
+            },
+            {
+                "word": "ƏMƏL",
+                "explanation": "is. [ər.] qayə",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 15
+            },
+            {
+                "word": "ƏMİN",
+                "explanation": "sif. [ər.] 1. qorxusuz",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 16
+            },
+            {
+                "word": "ƏMMA",
+                "explanation": "[ər.] 1. bax amma. şeir bir zivərdir",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 17
+            },
+            {
+                "word": "ƏMMƏ",
+                "explanation": "is. [ər.] klas. bibi. aya",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 18
+            },
+            {
+                "word": "ƏNAM",
+                "explanation": "is. [ər. “nemət” söz. cəmi] bəxşiş",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 19
+            },
+            {
+                "word": "LƏMƏ",
+                "explanation": "is. tavandan bir az aşağı divaruzunu kərpicdən",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 20
+            },
+            {
+                "word": "MAİL",
+                "explanation": "sif. [ər.] 1. hər hansı bir tərəfə əyilmiş; meyilli. *** xətt. *** səth. *** divar. – aşağı enən günəş də öz *** şüaları ilə gözləri qamaşdırırdı",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 21
+            },
+            {
+                "word": "MALA",
+                "explanation": "is. [fars.] 1. binanın iç və bayırdivarlarına çəkmək üçün əhəng",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 22
+            },
+            {
+                "word": "MAMA",
+                "explanation": "is. doğuş zamanı kömək göstərməkləməşğul olan (keçmişdə təhsilsiz",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 23
+            },
+            {
+                "word": "MANE",
+                "explanation": "[ər.] : *** olmaq – əngəl olmaq",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 24
+            },
+            {
+                "word": "MANİ",
+                "explanation": "is. türk xalq şeri və nəğmə janrı",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 25
+            },
+            {
+                "word": "MƏAL",
+                "explanation": "is. [ər.] klas. bir yazı və ya söz iləanladılmaq istənilən fikir",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 26
+            },
+            {
+                "word": "MƏLƏ",
+                "explanation": "is. 1. zool. çox bərk sancan qanadsız",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 27
+            },
+            {
+                "word": "MƏMƏ",
+                "explanation": "is. məc. ana. [şərəfnisə xanım:]əgər ***m deyən dərviş olmasaydı",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 28
+            },
+            {
+                "word": "MƏNA",
+                "explanation": "is. [ər.] 1. sözün",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 29
+            },
+            {
+                "word": "MİNA",
+                "explanation": "[fr.] 1. adətən torpağın",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 30
+            },
+            {
+                "word": "NAMƏ",
+                "explanation": "is. [fars.] məktub",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 31
+            },
+            {
+                "word": "NƏMİ",
+                "explanation": "is. məh. alaçığın içəri-sində qarğıdanhörülmüş bağlı yer; anbar. [güldəstə:]atam karıxdığından ***nin qapısını açıqqoyub gedibdir",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 32
+            },
+            {
+                "word": "ALMAN",
+                "explanation": "is. ***iyanın əsas əhalisinitəşkil edən xalq və bu xalqa mənsub adam.*** ədəbiyyatının qədim abidələri",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 33
+            },
+            {
+                "word": "ELMLİ",
+                "explanation": "sif. təhsil görmüş",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 34
+            },
+            {
+                "word": "ƏMƏLƏ",
+                "explanation": "is. [ər.] fəhlə",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 35
+            },
+            {
+                "word": "ƏMƏLİ",
+                "explanation": "sif. 1. icrası (tətbiqi) lazım olan",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 36
+            },
+            {
+                "word": "MAİLİ",
+                "explanation": "sif. [ər.] bir yana meyil edən; əyilən;düz olmayan",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 37
+            },
+            {
+                "word": "MANEƏ",
+                "explanation": "is. [ər.] bir işin görülməsinə",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 38
+            },
+            {
+                "word": "MƏLAL",
+                "explanation": "is. [ər.] ürək sıxıntısı; usanma",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 39
+            },
+            {
+                "word": "MƏNƏN",
+                "explanation": "zərf [ər.] mənəvi cəhətdən; ruhən.…bizim şüəra cismən ölüb fövt olublarsada",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 40
+            },
+            {
+                "word": "MİLƏL",
+                "explanation": "is. [ər. “millət” söz. cəmi] millətlər.sair *** övrətlə ədalət edir",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 41
+            },
+            {
+                "word": "MİLLİ",
+                "explanation": "sif. 1. üzərində milləri olan",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 42
+            },
+            {
+                "word": "NƏMLİ",
+                "explanation": "sif. 1. bax nəm 1-ci mənada.*** torpaq. *** divar. – [vaqif:] gözümünişığı",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 43
+            },
+            {
+                "word": "ALANƏM",
+                "explanation": "sif. və zərf bir qədər nəm",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 44
+            },
+            {
+                "word": "ALAMAN",
+                "explanation": "is. məh. köhn. çapqın",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 45
+            },
+            {
+                "word": "ƏLAMAN",
+                "explanation": "[ər.] 1. yardıma",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 46
+            },
+            {
+                "word": "ƏLƏMLİ",
+                "explanation": "sif. qəmli",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 47
+            },
+            {
+                "word": "ƏLLAMƏ",
+                "explanation": "is. və sif. [ər.] 1. çox bilən",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 48
+            },
+            {
+                "word": "ƏLLƏMƏ",
+                "explanation": "is. məh. daş",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 49
+            },
+            {
+                "word": "ƏMƏLLİ",
+                "explanation": "sif. və zərf yaxşı",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 50
+            },
+            {
+                "word": "ƏMMAMƏ",
+                "explanation": "is. [ər.] bəzi şərq ölkələrində:sarınmış uzun ağ parça",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 51
+            },
+            {
+                "word": "LƏMƏLİ",
+                "explanation": "sif. ləməsi olan; rəfli. ***otaq",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 52
+            },
+            {
+                "word": "MƏLƏMƏ",
+                "explanation": "“***k”dən f.is. bu haldaqızıl inəyin ***si qızxanımın qulağınaçatdı. s.s.axundov",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 53
+            },
+            {
+                "word": "MƏMƏLİ",
+                "explanation": "sif. məməsi olan. □ ***heyvanlar – bax ***lər. soyuq ölkələrdəyaşayan *** heyvanların dərilərindəkitük həm sıx",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 54
+            },
+            {
+                "word": "MƏNƏNƏ",
+                "explanation": "is. zool. bitkilərin şirəsilə qidalananziyanverici bir cücü növü",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 55
+            },
+            {
+                "word": "MİNMİN",
+                "explanation": "zərf və sif. minlərcə",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 56
+            },
+            {
+                "word": "ALİMANƏ",
+                "explanation": "[ər. alim və fars. …anə] baxalimcəsinə",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 57
+            },
+            {
+                "word": "MALAMAL",
+                "explanation": "sif. və zərf [fars.] dolu",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 58
+            },
+            {
+                "word": "MİLƏMİL",
+                "explanation": "sif. milləri olan",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 59
+            },
+            {
+                "word": "MİLLƏMƏ",
+                "explanation": "1. “***k”dən f. is.2. zərf mil kimi",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 60
+            },
+            {
+                "word": "MİNİMAL",
+                "explanation": "sif. [lat.] başqaları sırasındaən kiçik",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 61
+            },
+            {
+                "word": "ELAMNAMƏ",
+                "explanation": "is. [ər. elam və fars. namə]klas. elam yazılmış rəsmi vərəqə",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 62
+            },
+            {
+                "word": "ƏMMAMƏLİ",
+                "explanation": "1. sif. başında əmmaməolan. bunlar keçəndən sonra ***həşəratı nə eləyək? c.məmmədquluzadə.mənim *** yoldaşım birdən ucadanmüsəlmanca səs",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 63
+            },
+            {
+                "word": "MİNİMİNİ",
+                "explanation": "sif. oxş. kiçicik",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 64
+            },
+            {
+                "word": "MANEƏLİ",
+                "explanation": "sif. maneəsi olan; əngəlli",
+                "isPanagram": true,
+                "score": 17,
+                "length": 7,
+                "id": 65
+            }
+        ]
+    }
+}

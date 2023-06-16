@@ -1,0 +1,262 @@
+{
+    "gameData": {
+        "day": "20240528",
+        "expiration": "1716940740",
+        "centerLetter": "K",
+        "outerLetters": [
+            "Ö",
+            "A",
+            "H",
+            "N",
+            "M",
+            "Ə"
+        ],
+        "words_info": {
+            "word_count": 29,
+            "sum_score": 135,
+            "panagram_count": 1,
+            "word_length": {
+                "5": 10,
+                "6": 7,
+                "4": 9,
+                "10": 1,
+                "7": 1,
+                "8": 1
+            }
+        },
+        "words": [
+            {
+                "word": "ƏKMƏ",
+                "explanation": "1. “***k1”dən f.is. şitil ***.2. sif. əkilmiş",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "ƏMƏK",
+                "explanation": "is. insanın əqli və cismani gərginliktələb edən məqsədəuyğun və ictimaicəhətdən faydalı fəaliyyəti; zəhmət",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "ƏNƏK",
+                "explanation": "is. 1. yük atı",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "HƏKK",
+                "explanation": "is. [ər.] hər hansı bir material(metal",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "HÖKM",
+                "explanation": "is. [ər.] 1. əmr",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 5
+            },
+            {
+                "word": "KAHA",
+                "explanation": "is. məh. qayalıqda",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 6
+            },
+            {
+                "word": "KƏKƏ",
+                "explanation": "sif. danışarkən ***ləyən; kəkov.*** uşaq. anadan *** (z.) doğulmaq",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 7
+            },
+            {
+                "word": "KÖKƏ",
+                "explanation": "is. dan. adi xəmirdən bişirilən kiçikçörək; qoğal. nə yoğurdum",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 8
+            },
+            {
+                "word": "MƏKƏ",
+                "explanation": "is. qarğıdalı",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 9
+            },
+            {
+                "word": "ƏHKAM",
+                "explanation": "is. [ər. “hökm” söz. cəmi]. 1. hər hansı bir dini təlimin",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 10
+            },
+            {
+                "word": "ƏKMƏK",
+                "explanation": "is. çörək. [üçüncü satıcı:] qızarmıştazə ***",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 11
+            },
+            {
+                "word": "HƏKƏM",
+                "explanation": "is. [ər.] köhn. iki tərəf arasındaolan mübahisəni həll etmək üçün seçilənadam; münsif",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 12
+            },
+            {
+                "word": "HƏNƏK",
+                "explanation": "is. [ər.] zarafat. əvvəli ***",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 13
+            },
+            {
+                "word": "KAMAN",
+                "explanation": "is. [fars.] 1. bax ***ça. nəqədər dərdlidir o qırıq ***; şikayət eyləyiröz dünyasından. s.vurğun",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 14
+            },
+            {
+                "word": "KƏNƏK",
+                "explanation": "sif. 1. ləpəsi çətin çıxan. ***qoz.2. məc. çətinliklə başa gələn",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 15
+            },
+            {
+                "word": "KÖHNƏ",
+                "explanation": "sif. [fars.] 1. uzun müddət işlənməkdən dağılmış",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 16
+            },
+            {
+                "word": "KÖMƏK",
+                "explanation": "is. 1. birinin qarşılaşdığı çətinlikləri",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 17
+            },
+            {
+                "word": "MƏHƏK",
+                "explanation": "is. [ər.] qızıl və gümüşün əyarını təyin edən bir cins daş. □ *** daşı – 1) ***; 2) məc. bir şeyin keyfiyyəti",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 18
+            },
+            {
+                "word": "MƏKAN",
+                "explanation": "is. [ər.] 1. bir adamın",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 19
+            },
+            {
+                "word": "ƏKƏNƏK",
+                "explanation": "is. taxıl əkilmiş yer",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 20
+            },
+            {
+                "word": "HƏKKAK",
+                "explanation": "is. [ər.] metal",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 21
+            },
+            {
+                "word": "HÖKMƏN",
+                "explanation": "zərf [ər.] mütləq",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 22
+            },
+            {
+                "word": "KAMANƏ",
+                "explanation": "is. [fars.] köhn. kamanın",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 23
+            },
+            {
+                "word": "KANKAN",
+                "explanation": "is. [fars.] köhn. əl ilə quyuqazan;quyuçu. ***ın vəsiyyəti qızıl öküzdür.(ata. sözü). [məmməd:] atam ***idi",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 24
+            },
+            {
+                "word": "MAKAKA",
+                "explanation": "is. [port.] əntərlər yarımfəsiləsindənolan meymun",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 25
+            },
+            {
+                "word": "MÖHKƏM",
+                "explanation": "sif. [ər.] 1. davamlı",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 26
+            },
+            {
+                "word": "MƏHKƏMƏ",
+                "explanation": "is. [ər.] 1. cinayət işlərinəvə mülki mübahisələrə baxan ədliyyə orqanı.xalq ***si. ali ***",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 27
+            },
+            {
+                "word": "KÖHNƏKÖHNƏ",
+                "explanation": "sif. və zərf köhnə",
+                "isPanagram": false,
+                "score": 10,
+                "length": 10,
+                "id": 28
+            },
+            {
+                "word": "NAMÖHKƏM",
+                "explanation": "sif. [fars. na… və ər. möhkəm]möhkəm olmayan",
+                "isPanagram": true,
+                "score": 17,
+                "length": 8,
+                "id": 29
+            }
+        ]
+    }
+}

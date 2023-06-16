@@ -1,0 +1,238 @@
+{
+    "gameData": {
+        "day": "20230819",
+        "expiration": "1692489540",
+        "centerLetter": "Ş",
+        "outerLetters": [
+            "Q",
+            "İ",
+            "N",
+            "M",
+            "L",
+            "Ə"
+        ],
+        "words_info": {
+            "word_count": 26,
+            "sum_score": 131,
+            "panagram_count": 1,
+            "word_length": {
+                "4": 7,
+                "11": 1,
+                "5": 9,
+                "9": 1,
+                "7": 5,
+                "6": 3
+            }
+        },
+        "words": [
+            {
+                "word": "ƏMİŞ",
+                "explanation": "is. 1. əmmək işi",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "QƏŞŞ",
+                "explanation": "is. [ər.] özündən getmə",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "MƏŞQ",
+                "explanation": "is. [ər.] bir şeyə alışmaq",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "NƏQŞ",
+                "explanation": "[ər.] klas. bax naxış. o",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "NƏŞƏ",
+                "explanation": "is. [ər.] kef",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 5
+            },
+            {
+                "word": "ŞƏLƏ",
+                "explanation": "is. arxada aparıla biləcək qədərbağlanmış yük (şax",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 6
+            },
+            {
+                "word": "ŞİLƏ",
+                "explanation": "is. qatı düyü şorbası. nə yemisənturşulu ***. (ata. sözü). elədir",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 7
+            },
+            {
+                "word": "QƏMİŞ",
+                "explanation": "is. 1. bax qamış. stol üstündə birdənə naxışlı gözəl qələmdan və bir ***qələm var idi. p.makulu.2",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 8
+            },
+            {
+                "word": "LƏLƏŞ",
+                "explanation": "is. zar. bir adam özünü öydüyü",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 9
+            },
+            {
+                "word": "MƏMƏŞ",
+                "explanation": "is. uş. məmə",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 10
+            },
+            {
+                "word": "MƏNŞƏ",
+                "explanation": "is. ər. 1. bir şeyin çıxdığı",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 11
+            },
+            {
+                "word": "MƏŞƏL",
+                "explanation": "is. [ər.] 1. ətrafı işıqlandırmaqüçün ağac və s. başına sarınaraq",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 12
+            },
+            {
+                "word": "MİNİŞ",
+                "explanation": "is. minmə",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 13
+            },
+            {
+                "word": "NƏMİŞ",
+                "explanation": "sif. rütubətli",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 14
+            },
+            {
+                "word": "ŞƏŞƏƏ",
+                "explanation": "is. [ər.] klas. tənt. 1. parlaqlıq",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 15
+            },
+            {
+                "word": "ŞİNLİ",
+                "explanation": "sif. şin çəkilmiş",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 16
+            },
+            {
+                "word": "NƏŞƏLİ",
+                "explanation": "sif. 1. şən",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 17
+            },
+            {
+                "word": "ŞƏLƏLİ",
+                "explanation": "sif. dalına şələ götürmüş",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 18
+            },
+            {
+                "word": "ŞƏNŞƏN",
+                "explanation": "sif. və zərf sevinə-sevinə",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 19
+            },
+            {
+                "word": "MƏLƏŞMƏ",
+                "explanation": "“***k”dən f.is. qoyun***si",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 20
+            },
+            {
+                "word": "MƏNŞƏLİ",
+                "explanation": "sif. müəyyən mənşəyi olan",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 21
+            },
+            {
+                "word": "MƏŞƏLLİ",
+                "explanation": "sif. əlində məşəl olan",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 22
+            },
+            {
+                "word": "ŞƏŞƏƏLİ",
+                "explanation": "sif. təntənəli",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 23
+            },
+            {
+                "word": "ŞİLLİNQ",
+                "explanation": "[ing. shilling] funt-sterlinqin 1/ 20 -nə bərabər ingilis pulu",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 24
+            },
+            {
+                "word": "LİLLƏNMİŞ",
+                "explanation": "f.sif. lil vurulmuş",
+                "isPanagram": false,
+                "score": 9,
+                "length": 9,
+                "id": 25
+            },
+            {
+                "word": "QƏLƏMLƏNMİŞ",
+                "explanation": "f.sif. 1. k.t. peyvəndedilmiş",
+                "isPanagram": true,
+                "score": 17,
+                "length": 11,
+                "id": 26
+            }
+        ]
+    }
+}

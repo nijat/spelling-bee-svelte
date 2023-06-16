@@ -1,0 +1,236 @@
+{
+    "gameData": {
+        "day": "20240527",
+        "expiration": "1716854340",
+        "centerLetter": "K",
+        "outerLetters": [
+            "A",
+            "L",
+            "U",
+            "E",
+            "R",
+            "S"
+        ],
+        "words_info": {
+            "word_count": 26,
+            "sum_score": 132,
+            "panagram_count": 1,
+            "word_length": {
+                "5": 5,
+                "7": 6,
+                "4": 7,
+                "6": 8
+            }
+        },
+        "words": [
+            {
+                "word": "KALA",
+                "explanation": "is. məh. böyük şüşə qab",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "KASA",
+                "explanation": "is. [fars.] 1. çini",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "KEKS",
+                "explanation": "[ing. cake",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "KULA",
+                "explanation": "is. məh. odun",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "KURA",
+                "explanation": "is. bot. sarı rəngli yabanı yeməlibitki",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 5
+            },
+            {
+                "word": "KURS",
+                "explanation": "[lat. cursus-dan] 1. ali məktəbdəhər hansı bir fənnin",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 6
+            },
+            {
+                "word": "SEKS",
+                "explanation": "is. [lat.] kişi və qadın arasında fizikiyaxınlıq",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 7
+            },
+            {
+                "word": "EKKER",
+                "explanation": "[fr.] yerdə müəyyən dərəcəli bucaqlarqurmaq üçün geodeziya aləti; künyə",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 8
+            },
+            {
+                "word": "KALKA",
+                "explanation": "[fr.] 1. çertyojlardan",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 9
+            },
+            {
+                "word": "KASKA",
+                "explanation": "[fr. casque",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 10
+            },
+            {
+                "word": "KASSA",
+                "explanation": "[ital.] 1. pul",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 11
+            },
+            {
+                "word": "KLERK",
+                "explanation": "is. [fr.] 1. kontor xidmətçisi.2. köhn. ruhani",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 12
+            },
+            {
+                "word": "KARLAL",
+                "explanation": "is. həm eşitmək",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 13
+            },
+            {
+                "word": "KARKAS",
+                "explanation": "[ital. carcassa] bina və s.-nin dəmirdən düzəldilən gövdəsi",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 14
+            },
+            {
+                "word": "KARSER",
+                "explanation": "[lat.] müqəssirin müvəqqətisaxlandığı biradamlıq otaq. ***ə salmaq",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 15
+            },
+            {
+                "word": "LALKAR",
+                "explanation": "1. sif. həm danışmaq",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 16
+            },
+            {
+                "word": "RAKURS",
+                "explanation": "is. [fr.] baxım nöqtəsi",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 17
+            },
+            {
+                "word": "SAKLAR",
+                "explanation": "is. qədim iran tayfalarından birininadı",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 18
+            },
+            {
+                "word": "SALAKA",
+                "explanation": "is. [rus.] balıq növü",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 19
+            },
+            {
+                "word": "SKLERA",
+                "explanation": "is. [yun.] göz almasının qeyrişəffafxarici qişası",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 20
+            },
+            {
+                "word": "EKSKURS",
+                "explanation": "[lat.] kit. köməkçi məsələniaydınlaşdırmaq üçün əsas mövzudan haşiyəçıxma",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 21
+            },
+            {
+                "word": "KALSEKS",
+                "explanation": "[lat.] əcz. xlorlu kalsium vəurotropin duzu (qripin qabağını almaq üçündərman kimi işlənir)",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 22
+            },
+            {
+                "word": "KARSALA",
+                "explanation": "sif. dan. 1. qulağı ağır eşidən. 2. key",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 23
+            },
+            {
+                "word": "SAKSAUL",
+                "explanation": "is. bot. orta asiya səhralarındabitən alçaq ağac və ya kol",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 24
+            },
+            {
+                "word": "SAKSLAR",
+                "explanation": "is. german tayfaları",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 25
+            },
+            {
+                "word": "KARUSEL",
+                "explanation": "[ital.] üstündə oturub əylənməküçün at",
+                "isPanagram": true,
+                "score": 17,
+                "length": 7,
+                "id": 26
+            }
+        ]
+    }
+}

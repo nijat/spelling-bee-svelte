@@ -1,0 +1,221 @@
+{
+    "gameData": {
+        "day": "20230720",
+        "expiration": "1689897540",
+        "centerLetter": "N",
+        "outerLetters": [
+            "L",
+            "R",
+            "İ",
+            "F",
+            "Q",
+            "Ə"
+        ],
+        "words_info": {
+            "word_count": 24,
+            "sum_score": 100,
+            "panagram_count": 1,
+            "word_length": {
+                "7": 1,
+                "5": 11,
+                "4": 9,
+                "8": 1,
+                "6": 2
+            }
+        },
+        "words": [
+            {
+                "word": "ƏNİN",
+                "explanation": "is. [ər.] şair. inləmə",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "ƏRƏN",
+                "explanation": "is. (adətən cəm şəklində). 1. ər",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "FƏNN",
+                "explanation": "is. [ər.] 1. elm",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "QƏNİ",
+                "explanation": "sif. [ər.] köhn. varlı",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "LƏİN",
+                "explanation": "sif. və is. [ər.] bax məlun. bu isə",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 5
+            },
+            {
+                "word": "NƏQL",
+                "explanation": "is. [ər.] 1. bax nağıl. qəhrəmanbalaca sabir üçün müxtəlif *** danışırdı.s.rəhimov. □ *** etmək – bir əhvalatı",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 6
+            },
+            {
+                "word": "NƏNƏ",
+                "explanation": "is. 1. atanın",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 7
+            },
+            {
+                "word": "NƏRƏ",
+                "explanation": "is. məh. evlərin üstünə qoyulan tir.su gəldi",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 8
+            },
+            {
+                "word": "RİNQ",
+                "explanation": "idm. [ing.] ətrafı kanatla tutulmuşboks yarışı meydançası",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 9
+            },
+            {
+                "word": "ƏQLƏN",
+                "explanation": "zərf. [ər.] ağılca",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 10
+            },
+            {
+                "word": "ƏNƏNƏ",
+                "explanation": "is. [ər.] tarixən meydana gələrəknəsildən-nəslə keçən adətlər",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 11
+            },
+            {
+                "word": "FƏNƏR",
+                "explanation": "is. [yun.] 1. ətrafı və ya bir qismişüşə",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 12
+            },
+            {
+                "word": "FİRNİ",
+                "explanation": "is. düyü unu və şəkərdən hazırlanandesert yeməyi. axşam azanı deyilənkimi",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 13
+            },
+            {
+                "word": "QƏNİR",
+                "explanation": "is. dan. tay",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 14
+            },
+            {
+                "word": "NƏFƏR",
+                "explanation": "is. [ər.] 1. bir tək adam; kimsə",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 15
+            },
+            {
+                "word": "NƏFİR",
+                "explanation": "is. [ər.] 1. ucu getdikcə genişlənənboru şəklində olan nəfəsli çalğı aləti;şeypur. [dərviş məstəli şah:] mən bu saatelə burada",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 16
+            },
+            {
+                "word": "NƏFLİ",
+                "explanation": "sif. xeyirli",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 17
+            },
+            {
+                "word": "NƏQLİ",
+                "explanation": "[ər.] : *** cümlə qram. – müəyyən bir hadisə",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 18
+            },
+            {
+                "word": "NƏNNİ",
+                "explanation": "is. 1. körpə uşaqları yatırtmaq üçünasılan kiçik yatacaq. [qumru] uşağı ***yəsalıb küncə qısıldı",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 19
+            },
+            {
+                "word": "NİNNİ",
+                "explanation": "is. layla",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 20
+            },
+            {
+                "word": "QƏRİNƏ",
+                "explanation": "is. [ər.] əslində 33 illik bir dövrolub",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 21
+            },
+            {
+                "word": "NİFRİN",
+                "explanation": "is. [ər.] lənət",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 22
+            },
+            {
+                "word": "ƏQƏLLƏN",
+                "explanation": "zərf [ər.] ən azı",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 23
+            },
+            {
+                "word": "QƏRƏNFİL",
+                "explanation": "is. rəngbərəng növləri olanətirli gözəl bir çiçək. *** bağçanın yaraşığıdır.– səni kimdir sevən bica",
+                "isPanagram": true,
+                "score": 17,
+                "length": 8,
+                "id": 24
+            }
+        ]
+    }
+}

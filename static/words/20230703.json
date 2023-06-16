@@ -1,0 +1,206 @@
+{
+    "gameData": {
+        "day": "20230703",
+        "expiration": "1688428740",
+        "centerLetter": "Ş",
+        "outerLetters": [
+            "L",
+            "I",
+            "H",
+            "Ç",
+            "A",
+            "B"
+        ],
+        "words_info": {
+            "word_count": 22,
+            "sum_score": 108,
+            "panagram_count": 1,
+            "word_length": {
+                "6": 5,
+                "4": 7,
+                "5": 6,
+                "9": 2,
+                "8": 1,
+                "7": 1
+            }
+        },
+        "words": [
+            {
+                "word": "AÇIŞ",
+                "explanation": "is. açma işi",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "ALAŞ",
+                "explanation": "is. bax ala1 1-ci mənada",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "ALIŞ",
+                "explanation": "f.is. almaq işi",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "AŞÇI",
+                "explanation": "is. xüs. dəri",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "AŞLI",
+                "explanation": "sif. aşa qoyulmuş. *** gön. ***dəri. – aşıq abbas *** çarıqlarını yerə sürtəsürtəmərəkəni süzür",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 5
+            },
+            {
+                "word": "HAŞA",
+                "explanation": "[ər.] 1. nida. olmasın",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 6
+            },
+            {
+                "word": "ŞAHI",
+                "explanation": "is. [fars.] köhn. beşqəpiklik qara pul(adətən saylarla). abbasını bəyənməyən beş*** çıxardar. (ata",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 7
+            },
+            {
+                "word": "ALAŞA",
+                "explanation": "is. arıq at; yabı. [qardaşı:] [sadıqkişi]",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 8
+            },
+            {
+                "word": "BALIŞ",
+                "explanation": "is. 1. quş tükü və ya başqa yumşaq",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 9
+            },
+            {
+                "word": "BAŞÇI",
+                "explanation": "is. bir işin başında duran adam;rəhbər",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 10
+            },
+            {
+                "word": "BAŞLI",
+                "explanation": "sif. 1. başı",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 11
+            },
+            {
+                "word": "ŞABAŞ",
+                "explanation": "is. [fars.] toy məclislərində oynayanlaraxanəndə və çalğıçılar üçün verilənpul. gənclər oynayanda yoldaşları onlarınbaşına kağız pul (əsginas) şaba",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 12
+            },
+            {
+                "word": "ŞALLI",
+                "explanation": "sif. başına şal örtmüş",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 13
+            },
+            {
+                "word": "AÇILIŞ",
+                "explanation": "is. açılmaq işi",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 14
+            },
+            {
+                "word": "ALABAŞ",
+                "explanation": "is. it adı. bildi hardansa bunlarınsorağın; *** kəsdi dəstənin qabağın.a.səhhət. [əlibəndənin] …qəbrinin üstündəbir *** köpək bağlanmışdır ki",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 15
+            },
+            {
+                "word": "AŞBAŞI",
+                "explanation": "is. məh. aşın (plovun) başına qoyulanxuruş (ət",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 16
+            },
+            {
+                "word": "ÇALBAŞ",
+                "explanation": "sif. başı çal",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 17
+            },
+            {
+                "word": "ÇAŞBAŞ",
+                "explanation": "sif. və zərf qarışıq",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 18
+            },
+            {
+                "word": "HAÇABAŞ",
+                "explanation": "sif. başı haça şəklində olan. *** dağ. *** dəyənək. – əllərində ***lı",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 19
+            },
+            {
+                "word": "ÇALBAŞLI",
+                "explanation": "sif. başı çal",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 20
+            },
+            {
+                "word": "ALLIŞALLI",
+                "explanation": "sif. məh. al-əlvan. pətəklərdənvə bağçada qoyulan qırmızı rəngliyeşiklərdən arılar dəstə-dəstə çıxır",
+                "isPanagram": false,
+                "score": 9,
+                "length": 9,
+                "id": 21
+            },
+            {
+                "word": "HAÇABAŞLI",
+                "explanation": "sif. başı haça şəklində olan. haçabaş dağ. haçabaş dəyənək. – əllərində ***",
+                "isPanagram": true,
+                "score": 17,
+                "length": 9,
+                "id": 22
+            }
+        ]
+    }
+}

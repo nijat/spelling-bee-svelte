@@ -1,0 +1,254 @@
+{
+    "gameData": {
+        "day": "20230708",
+        "expiration": "1688860740",
+        "centerLetter": "A",
+        "outerLetters": [
+            "Ş",
+            "F",
+            "E",
+            "N",
+            "T",
+            "K"
+        ],
+        "words_info": {
+            "word_count": 28,
+            "sum_score": 128,
+            "panagram_count": 1,
+            "word_length": {
+                "4": 10,
+                "6": 9,
+                "5": 5,
+                "10": 1,
+                "7": 2,
+                "8": 1
+            }
+        },
+        "words": [
+            {
+                "word": "AFAT",
+                "explanation": "is. [ər. “afət” söz. cəmi] bax afət1-ci mənada. [nəsib:] mat-məəttəl qalmışamki",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "AŞNA",
+                "explanation": "is. 1. dost",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "ATAT",
+                "explanation": "is. uşaqların ağac üstə minərəkoynadıqları oyun. at-at oynamaq",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "FAKT",
+                "explanation": "[lat. factum – edilmiş",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "FATA",
+                "explanation": "is. [lat.] duvaq",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 5
+            },
+            {
+                "word": "KAFE",
+                "explanation": "[fr. əsli ər. qəhvə] qəhvə",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 6
+            },
+            {
+                "word": "ŞANA",
+                "explanation": "is. otu",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 7
+            },
+            {
+                "word": "ŞKAF",
+                "explanation": "is. paltar",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 8
+            },
+            {
+                "word": "TANA",
+                "explanation": "is. 1. sırğa. qızıl ***. – qızıl üzük",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 9
+            },
+            {
+                "word": "TANK",
+                "explanation": "[ing.] çətin keçilən yerlərdə hərəkətedə bilən",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 10
+            },
+            {
+                "word": "ANAŞA",
+                "explanation": "is. dan. xaşxaşdan hasil olan çoxzəhərli narkotik maddə",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 11
+            },
+            {
+                "word": "ANKET",
+                "explanation": "[fr.] qabaqcadan hazırlanmışsuallara cavab almaq üçün sorğu vərəqəsi.*** doldurmaq. – [heybət:] ərizəmioxudular",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 12
+            },
+            {
+                "word": "KAŞNE",
+                "explanation": "[fr. cache-ner] palto altından boyunasarılan uzunsov parça",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 13
+            },
+            {
+                "word": "KATTA",
+                "explanation": "is. dan. bax kətxuda. ***nıgör",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 14
+            },
+            {
+                "word": "TAFTA",
+                "explanation": "is. [fars.] sıx toxunmuş ipək vəya pambıq parça. [tarverdi:] a gədə",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 15
+            },
+            {
+                "word": "AFFEKT",
+                "explanation": "[lat. affectus – ruhi həyəcan]insanın əhvaldan və ehtirasdan fərqli olaraqgüclü",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 16
+            },
+            {
+                "word": "AFTAFA",
+                "explanation": "is. lüləyi və qulpu olan su qabı;lüləyin. səriyyə tas və ***nı gətiribmübaşir məmmədin … əllərinə su tökdü",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 17
+            },
+            {
+                "word": "ANTENA",
+                "explanation": "[lat.] radio qurğusunun elektromaqnit dalğalarını yaymaq (radio verilişində) və ya onları tutmaq (qəbul etdikdə) üçün məftillər sistemi",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 18
+            },
+            {
+                "word": "ATAANA",
+                "explanation": "is. öz övladına münasibətdəkişi və qadın; valideyn. ata-analar öz uşaqlarınıntərbiyəsinə fikir verməlidirlər",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 19
+            },
+            {
+                "word": "ATTAŞE",
+                "explanation": "[fr.] dipl. bir ölkənin başqa ölkədəkidiplomatik nümayəndəliyində müəyyənsahə üzrə mütəxəssis konsultant kimiçalışan diplomatik işçi",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 20
+            },
+            {
+                "word": "KAFTAN",
+                "explanation": "is. köhn. uzunətəkli qədimkəndli paltarı; don. cəfər bərməki məclislərinindaimi iştirakçısı olan xorasanlı əyanlarqara ***larını çıxardıb kimi a",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 21
+            },
+            {
+                "word": "KANKAN",
+                "explanation": "is. [fars.] köhn. əl ilə quyuqazan;quyuçu. ***ın vəsiyyəti qızıl öküzdür.(ata. sözü). [məmməd:] atam ***idi",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 22
+            },
+            {
+                "word": "ŞANŞAN",
+                "explanation": "sif. şanlar şəklində",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 23
+            },
+            {
+                "word": "ŞANTAN",
+                "explanation": "is. [fr.] əyləncə müəssisəsi",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 24
+            },
+            {
+                "word": "KANTATA",
+                "explanation": "[ital.] 1. musiqinin müşayiətiilə xorla və tək oxunan",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 25
+            },
+            {
+                "word": "TETATET",
+                "explanation": "zərf [fr.] təklikdə",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 26
+            },
+            {
+                "word": "ŞANAŞANA",
+                "explanation": "sif. göz-göz",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 27
+            },
+            {
+                "word": "KAFEŞANTAN",
+                "explanation": "[fr.] adətən bayağı tamaşalargöstərmək üçün açıq səhnəsi olan kafe",
+                "isPanagram": true,
+                "score": 17,
+                "length": 10,
+                "id": 28
+            }
+        ]
+    }
+}

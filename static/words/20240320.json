@@ -1,0 +1,384 @@
+{
+    "gameData": {
+        "day": "20240320",
+        "expiration": "1710979140",
+        "centerLetter": "M",
+        "outerLetters": [
+            "A",
+            "I",
+            "L",
+            "B",
+            "Q",
+            "Ə"
+        ],
+        "words_info": {
+            "word_count": 44,
+            "sum_score": 213,
+            "panagram_count": 1,
+            "word_length": {
+                "4": 16,
+                "7": 6,
+                "8": 3,
+                "5": 7,
+                "6": 8,
+                "11": 1,
+                "10": 2,
+                "9": 1
+            }
+        },
+        "words": [
+            {
+                "word": "ALAM",
+                "explanation": "is. [ər. “ələm” söz. cəmi] qəm",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "ALƏM",
+                "explanation": "is. [ər.] 1. kainat",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "ALIM",
+                "explanation": "is. köhn. 1. alacaq",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "ALMA",
+                "explanation": "is. müxtəlif çeşidləri və müxtəlif rənglərdə olan girdə",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "AMAL",
+                "explanation": "is. [ər. “əməl” söz. cəmi] tənt. qayə",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 5
+            },
+            {
+                "word": "ƏLƏM",
+                "explanation": "is. [ər.] dərd",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 6
+            },
+            {
+                "word": "ƏMƏL",
+                "explanation": "is. [ər.] qayə",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 7
+            },
+            {
+                "word": "ƏMMA",
+                "explanation": "[ər.] 1. bax amma. şeir bir zivərdir",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 8
+            },
+            {
+                "word": "ƏMMƏ",
+                "explanation": "is. [ər.] klas. bibi. aya",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 9
+            },
+            {
+                "word": "QƏMƏ",
+                "explanation": "is. kiçik xəncər. əlini ətəyininaltındakı ***nin dəstəsinə aparıb səsləndi:– uşaqlar! hazır olun! m",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 10
+            },
+            {
+                "word": "LƏMƏ",
+                "explanation": "is. tavandan bir az aşağı divaruzunu kərpicdən",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 11
+            },
+            {
+                "word": "MALA",
+                "explanation": "is. [fars.] 1. binanın iç və bayırdivarlarına çəkmək üçün əhəng",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 12
+            },
+            {
+                "word": "MAMA",
+                "explanation": "is. doğuş zamanı kömək göstərməkləməşğul olan (keçmişdə təhsilsiz",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 13
+            },
+            {
+                "word": "MƏAL",
+                "explanation": "is. [ər.] klas. bir yazı və ya söz iləanladılmaq istənilən fikir",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 14
+            },
+            {
+                "word": "MƏLƏ",
+                "explanation": "is. 1. zool. çox bərk sancan qanadsız",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 15
+            },
+            {
+                "word": "MƏMƏ",
+                "explanation": "is. məc. ana. [şərəfnisə xanım:]əgər ***m deyən dərviş olmasaydı",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 16
+            },
+            {
+                "word": "AMBIL",
+                "explanation": "is. məh. xışa qoşulmuş öküzlərinbirinci cütü. qulaməli kəlləri hayqırıb … ***kəlinin yanı ilə addımladı",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 17
+            },
+            {
+                "word": "ƏMƏLƏ",
+                "explanation": "is. [ər.] fəhlə",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 18
+            },
+            {
+                "word": "QALIM",
+                "explanation": "is. qalma",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 19
+            },
+            {
+                "word": "QƏLƏM",
+                "explanation": "is. [ər.] 1. mürəkkəbə batırıbyazmaq üçün ucu şiş və yarıq yazma aləti.dəmir ***. ***i əlinə alıb yazdı",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 20
+            },
+            {
+                "word": "MALLI",
+                "explanation": "sif. mal-qarası olan",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 21
+            },
+            {
+                "word": "MƏQAM",
+                "explanation": "is. [ər.] 1. yer",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 22
+            },
+            {
+                "word": "MƏLAL",
+                "explanation": "is. [ər.] ürək sıxıntısı; usanma",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 23
+            },
+            {
+                "word": "ƏLLAMƏ",
+                "explanation": "is. və sif. [ər.] 1. çox bilən",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 24
+            },
+            {
+                "word": "ƏLLƏMƏ",
+                "explanation": "is. məh. daş",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 25
+            },
+            {
+                "word": "ƏMMAMƏ",
+                "explanation": "is. [ər.] bəzi şərq ölkələrində:sarınmış uzun ağ parça",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 26
+            },
+            {
+                "word": "QALAMA",
+                "explanation": "“***q”dan f.is. □ bir ***– ağzına qədər dolu",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 27
+            },
+            {
+                "word": "QƏLƏMƏ",
+                "explanation": "is. bot. düz uzanıb qalxan ucaağac. şıdırğı yaz yağışından sonra qarağac",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 28
+            },
+            {
+                "word": "MALALI",
+                "explanation": "sif. mala çəkilmiş",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 29
+            },
+            {
+                "word": "MƏQALƏ",
+                "explanation": "is. [ər.] məcmuə",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 30
+            },
+            {
+                "word": "MƏLƏMƏ",
+                "explanation": "“***k”dən f.is. bu haldaqızıl inəyin ***si qızxanımın qulağınaçatdı. s.s.axundov",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 31
+            },
+            {
+                "word": "ALMALIQ",
+                "explanation": "is. alma bağı",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 32
+            },
+            {
+                "word": "BAMBILI",
+                "explanation": "sif. dan. ləyaqətsiz",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 33
+            },
+            {
+                "word": "QABLAMA",
+                "explanation": "is. qulpsuz və ya qulplu qapağı olan kiçik qazança. □ *** qazan – kip qapağı olan qazança. [qoçu heybətin] çox gülünc görünüşü vardı",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 34
+            },
+            {
+                "word": "MALAMAL",
+                "explanation": "sif. və zərf [fars.] dolu",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 35
+            },
+            {
+                "word": "MAMALIQ",
+                "explanation": "is. mamanın işi",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 36
+            },
+            {
+                "word": "MƏLALLI",
+                "explanation": "sif. qəmli",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 37
+            },
+            {
+                "word": "AMALQAMA",
+                "explanation": "[fr. əsli ərəbcədən] kim.bəzi metalların civə ilə əmələ gətirdiyiərinti",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 38
+            },
+            {
+                "word": "QALMAQAL",
+                "explanation": "is. səs-küy",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 39
+            },
+            {
+                "word": "QAMQALAQ",
+                "explanation": "is. xarrat işləri zamanı yerətökülən nazik taxta – talaşa. …sarı əlinə düşənçör-çöpü",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 40
+            },
+            {
+                "word": "QALMAQALLI",
+                "explanation": "sif. davalı",
+                "isPanagram": false,
+                "score": 10,
+                "length": 10,
+                "id": 41
+            },
+            {
+                "word": "LALIQMALIQ",
+                "explanation": "sif. dan. dilsiz-ağızsız",
+                "isPanagram": false,
+                "score": 10,
+                "length": 10,
+                "id": 42
+            },
+            {
+                "word": "ƏLLƏMQƏLLƏM",
+                "explanation": "sif. dan. düz olmayan",
+                "isPanagram": false,
+                "score": 11,
+                "length": 11,
+                "id": 43
+            },
+            {
+                "word": "QƏLƏMQABI",
+                "explanation": "is. qələm qoymaq üçün qab;qələmdan. bu stolun üstündə cürbəcür qələm",
+                "isPanagram": true,
+                "score": 17,
+                "length": 9,
+                "id": 44
+            }
+        ]
+    }
+}

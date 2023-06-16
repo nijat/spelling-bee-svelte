@@ -1,0 +1,230 @@
+{
+    "gameData": {
+        "day": "20240515",
+        "expiration": "1715817540",
+        "centerLetter": "D",
+        "outerLetters": [
+            "H",
+            "K",
+            "Q",
+            "C",
+            "İ",
+            "Ə"
+        ],
+        "words_info": {
+            "word_count": 25,
+            "sum_score": 120,
+            "panagram_count": 1,
+            "word_length": {
+                "4": 8,
+                "5": 10,
+                "6": 3,
+                "8": 2,
+                "10": 1,
+                "9": 1
+            }
+        },
+        "words": [
+            {
+                "word": "CƏDD",
+                "explanation": "is. [ər.] ata və ya ananın atası; baba;əcdad. həzrəti-yəqub … sonra buyurduki",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "CƏHD",
+                "explanation": "is. [ər.] bir işi yerinə yetirmək və ya bir şeyi əldə etmək üçün ciddi çalışma",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "DƏDƏ",
+                "explanation": "is. 1. ata. *** görməyib",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "DİDƏ",
+                "explanation": "is. [fars.] klas. göz. gər inanmazsan ki",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "ƏDƏD",
+                "explanation": "is. [ər.] 1. say",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 5
+            },
+            {
+                "word": "HƏDD",
+                "explanation": "is. [ər.] 1. sərhəd",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 6
+            },
+            {
+                "word": "HƏDƏ",
+                "explanation": "is. [ər.] qorxu gəlmə",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 7
+            },
+            {
+                "word": "QƏDD",
+                "explanation": "is. [ər.] 1. boy",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 8
+            },
+            {
+                "word": "CƏDİD",
+                "explanation": "sif. [ər.] yeni",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 9
+            },
+            {
+                "word": "CİDDİ",
+                "explanation": "sif. və zərf 1. öz hərəkətlərində",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 10
+            },
+            {
+                "word": "DƏKKƏ",
+                "explanation": "is. məh. iri heyvanların (inək",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 11
+            },
+            {
+                "word": "DƏQİQ",
+                "explanation": "sif. [ər] 1. düpdüz",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 12
+            },
+            {
+                "word": "DİDİK",
+                "explanation": "sif. didilmiş halda olan. *** yun.*** ət. *** gündə",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 13
+            },
+            {
+                "word": "ƏDƏDİ",
+                "explanation": "sif. [ər.] riyaz. ədədlərlə ifadəolunan. *** kəmiyyət. ədəbi nisbət. –diferensial tənlikləri təqribi həll etmək üçünmüxtəlif qrafik və *** meto",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 14
+            },
+            {
+                "word": "ƏQİDƏ",
+                "explanation": "is. [ər.] 1. insanın mühit",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 15
+            },
+            {
+                "word": "HƏDİK",
+                "explanation": "is. qarğıdalı",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 16
+            },
+            {
+                "word": "QƏDƏH",
+                "explanation": "is. [ər.] şərab",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 17
+            },
+            {
+                "word": "QƏDƏK",
+                "explanation": "is. köhn. pambıqdan toxunma sadə və ucuz parça",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 18
+            },
+            {
+                "word": "CƏDİDƏ",
+                "explanation": "sif. [ər.] yeni",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 19
+            },
+            {
+                "word": "DƏQİQƏ",
+                "explanation": "is. [ər] 1. bir saatın altmışda birinə bərabər və ya 60 saniyədən ibarət olan vaxt ölçüsü. bir *** sükutdan sonra vəzir mirzə möhsün başladı danışm",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 20
+            },
+            {
+                "word": "HƏDƏQƏ",
+                "explanation": "is. [ər.] anat. göz almasınınyerləşdiyi çuxur; göz çuxuru. sultanın gözləriningilələri öz ***sində tez-tez sağasolagedib-gəldi",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 21
+            },
+            {
+                "word": "CİDDCƏHD",
+                "explanation": "is. [ər.] var gücü ilə çalışma",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 22
+            },
+            {
+                "word": "ƏHDİCƏDİD",
+                "explanation": "is. [ər.] din. incilin və bibliyanınxristianlığa aid olan digər kitablarınınadı",
+                "isPanagram": false,
+                "score": 9,
+                "length": 9,
+                "id": 23
+            },
+            {
+                "word": "DİDİKDİDİK",
+                "explanation": "sif. çox didilmiş",
+                "isPanagram": false,
+                "score": 10,
+                "length": 10,
+                "id": 24
+            },
+            {
+                "word": "QƏDƏHCİK",
+                "explanation": "is. kiçik qədəh",
+                "isPanagram": true,
+                "score": 17,
+                "length": 8,
+                "id": 25
+            }
+        ]
+    }
+}

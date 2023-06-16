@@ -1,0 +1,317 @@
+{
+    "gameData": {
+        "day": "20230726",
+        "expiration": "1690415940",
+        "centerLetter": "A",
+        "outerLetters": [
+            "L",
+            "M",
+            "R",
+            "U",
+            "B",
+            "K"
+        ],
+        "words_info": {
+            "word_count": 36,
+            "sum_score": 143,
+            "panagram_count": 1,
+            "word_length": {
+                "4": 15,
+                "7": 2,
+                "5": 11,
+                "6": 7,
+                "8": 1
+            }
+        },
+        "words": [
+            {
+                "word": "ABAK",
+                "explanation": "is. [yun.] 1. arxit. 1. sütun başlığınındördbucaqlı şəklində olan yuxarı hissəsi.2. qədim yunanların və romalıların hesablövhəsi",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "ABRU",
+                "explanation": "is. [fars.] bax abır. [mirzə əsgər:]saqqal deyəndə kişinin ***sudur və üzününnurudur. n.vəzirov. yaman yoldaş səbəbinəinsan min bəlaya düçar olar",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "ALAM",
+                "explanation": "is. [ər. “ələm” söz. cəmi] qəm",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "ALMA",
+                "explanation": "is. müxtəlif çeşidləri və müxtəlif rənglərdə olan girdə",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "AMAL",
+                "explanation": "is. [ər. “əməl” söz. cəmi] tənt. qayə",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 5
+            },
+            {
+                "word": "ARAM",
+                "explanation": "is. [fars.] sakitlik",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 6
+            },
+            {
+                "word": "BABA",
+                "explanation": "is. 1. atanın",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 7
+            },
+            {
+                "word": "BALA",
+                "explanation": "1. is. övlad",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 8
+            },
+            {
+                "word": "KALA",
+                "explanation": "is. məh. böyük şüşə qab",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 9
+            },
+            {
+                "word": "KULA",
+                "explanation": "is. məh. odun",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 10
+            },
+            {
+                "word": "KURA",
+                "explanation": "is. bot. sarı rəngli yabanı yeməlibitki",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 11
+            },
+            {
+                "word": "MALA",
+                "explanation": "is. [fars.] 1. binanın iç və bayırdivarlarına çəkmək üçün əhəng",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 12
+            },
+            {
+                "word": "MAMA",
+                "explanation": "is. doğuş zamanı kömək göstərməkləməşğul olan (keçmişdə təhsilsiz",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 13
+            },
+            {
+                "word": "MUAR",
+                "explanation": "[fr.] 1. işıq düşəndə müxtəlif rəngliçalarlar verən sıx toxunmuş ipək və yayarımipək parça.2. səthində basma naxışları olan kağız",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 14
+            },
+            {
+                "word": "RUBA",
+                "explanation": "is. bir pud ağırlığında olan köhnəçəki ölçüsü. [xeyransanın] hacı manafdanaldığı isə yalnız bir *** taxıl olmuşdu",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 15
+            },
+            {
+                "word": "ARABA",
+                "explanation": "is. iki və ya dördtəkərli nəqliyyatvasitəsi. minik ***sı. yük ***sı. əl ***sı(əl ilə sürülən ***)",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 16
+            },
+            {
+                "word": "BAKAL",
+                "explanation": "[fr.] iri qədəh",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 17
+            },
+            {
+                "word": "BALBA",
+                "explanation": "is. məh. cincilim",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 18
+            },
+            {
+                "word": "BARAK",
+                "explanation": "[fr.] 1. taxtadan tikilən müvəqqəti",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 19
+            },
+            {
+                "word": "BURMA",
+                "explanation": "1. “***q”dan f.is.2. sif. burulmuş",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 20
+            },
+            {
+                "word": "KABAB",
+                "explanation": "is. [ər.] köz üstündə şişdə",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 21
+            },
+            {
+                "word": "KALKA",
+                "explanation": "[fr.] 1. çertyojlardan",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 22
+            },
+            {
+                "word": "KAMAL",
+                "explanation": "is. [ər.] 1. kamillik",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 23
+            },
+            {
+                "word": "MARAL",
+                "explanation": "is. zool. buynuzları budaq kimişaxələnən",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 24
+            },
+            {
+                "word": "RUMBA",
+                "explanation": "is. [isp.] meksika mənşəli müasir rəqs növü",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 25
+            },
+            {
+                "word": "ULAMA",
+                "explanation": "1. “***q”dan f.is.2. it",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 26
+            },
+            {
+                "word": "BALKAR",
+                "explanation": "is. şimali qafqazda yaşayantürkdilli xalq və bu xalqa mənsub adam",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 27
+            },
+            {
+                "word": "BARAMA",
+                "explanation": "is. 1. ipəkqurdu tırtılının nazikipək liflərindən hörərək",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 28
+            },
+            {
+                "word": "BULAMA",
+                "explanation": "is. 1. “***q”dan f.is.2. təzə doğan sağmal heyvanların ilkgünlərdə sağılan südü. nənəm o şişək qoyun;yunu bir döşək qoyun; ***nı tez yetir;q",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 29
+            },
+            {
+                "word": "BURLAK",
+                "explanation": "is. [rus.] rusiyada gəmilərikəndirlə axına əks istiqamətdə çəkənmuzdur. repinin məşhur “***lar” şəkli",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 30
+            },
+            {
+                "word": "KARLAL",
+                "explanation": "is. həm eşitmək",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 31
+            },
+            {
+                "word": "LALKAR",
+                "explanation": "1. sif. həm danışmaq",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 32
+            },
+            {
+                "word": "MAKAKA",
+                "explanation": "is. [port.] əntərlər yarımfəsiləsindənolan meymun",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 33
+            },
+            {
+                "word": "ALABULA",
+                "explanation": "sif. rəngbərəng xallardan",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 34
+            },
+            {
+                "word": "MALAMAL",
+                "explanation": "sif. və zərf [fars.] dolu",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 35
+            },
+            {
+                "word": "KALAMBUR",
+                "explanation": "[fr.] cinas",
+                "isPanagram": true,
+                "score": 17,
+                "length": 8,
+                "id": 36
+            }
+        ]
+    }
+}

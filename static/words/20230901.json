@@ -1,0 +1,302 @@
+{
+    "gameData": {
+        "day": "20230901",
+        "expiration": "1693612740",
+        "centerLetter": "F",
+        "outerLetters": [
+            "N",
+            "T",
+            "A",
+            "Ə",
+            "Ş",
+            "R"
+        ],
+        "words_info": {
+            "word_count": 34,
+            "sum_score": 152,
+            "panagram_count": 1,
+            "word_length": {
+                "4": 11,
+                "6": 8,
+                "9": 1,
+                "5": 12,
+                "10": 1,
+                "7": 1
+            }
+        },
+        "words": [
+            {
+                "word": "AFAT",
+                "explanation": "is. [ər. “afət” söz. cəmi] bax afət1-ci mənada. [nəsib:] mat-məəttəl qalmışamki",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "AFƏT",
+                "explanation": "is. [ər.] 1. bəla",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "ƏRAF",
+                "explanation": "is. [ər.] dinə görə cənnətlə cəhənnəmarasında olan yer",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "FARA",
+                "explanation": "[fr.] yolu işıqlandırmaq üçün avtomobillərdə",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "FATA",
+                "explanation": "is. [lat.] duvaq",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 5
+            },
+            {
+                "word": "FƏNA",
+                "explanation": "is. [ər.] pis",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 6
+            },
+            {
+                "word": "FƏNN",
+                "explanation": "is. [ər.] 1. elm",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 7
+            },
+            {
+                "word": "FƏRƏ",
+                "explanation": "is. cavan toyuq (kəklik). çil ***.– şəhərdən gətirdiyim toyuğumun balalarıböyümüş",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 8
+            },
+            {
+                "word": "FƏRŞ",
+                "explanation": "is. [ər.] döşənəcək (xalça",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 9
+            },
+            {
+                "word": "ŞƏFA",
+                "explanation": "is. [ər.] xəstəlikdən qurtarma",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 10
+            },
+            {
+                "word": "ŞƏRF",
+                "explanation": "is. [fars.] başa",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 11
+            },
+            {
+                "word": "ƏFŞAN",
+                "explanation": "sif. [fars.] şair. səpən",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 12
+            },
+            {
+                "word": "ƏRƏFƏ",
+                "explanation": "is. [ər.] bayramdan əvvəlki gün",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 13
+            },
+            {
+                "word": "ƏŞRAF",
+                "explanation": "is. [ər. “şərif” söz. cəmi] köhn.əyanlar",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 14
+            },
+            {
+                "word": "ƏŞRƏF",
+                "explanation": "sif. [ər.] köhn. ən şərafətli",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 15
+            },
+            {
+                "word": "ƏTRAF",
+                "explanation": "is. [ər. “tərəf” söz. cəmi] 1. cəhətlər",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 16
+            },
+            {
+                "word": "FARAŞ",
+                "explanation": "sif. və zərf [ər.] vaxtından",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 17
+            },
+            {
+                "word": "FƏNƏR",
+                "explanation": "is. [yun.] 1. ətrafı və ya bir qismişüşə",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 18
+            },
+            {
+                "word": "FƏRAR",
+                "explanation": "is. [ər.] gizlicə qaçma. □ ***etmək – icazəsiz və gizlicə qaçmaq. ovaxtdan seyid cəmaləddin istanbula ***etdi",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 19
+            },
+            {
+                "word": "NƏFƏR",
+                "explanation": "is. [ər.] 1. bir tək adam; kimsə",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 20
+            },
+            {
+                "word": "ŞƏRƏF",
+                "explanation": "is. [ər.] 1. insanın ictimai və şəxsidavranışında tutduğu mənəvi-əxlaqi prinsiplərinməcmusu; mənəvi yüksəklik",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 21
+            },
+            {
+                "word": "TAFTA",
+                "explanation": "is. [fars.] sıx toxunmuş ipək vəya pambıq parça. [tarverdi:] a gədə",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 22
+            },
+            {
+                "word": "TƏRƏF",
+                "explanation": "is. [ər.] 1. bir şeydən hər hansıistiqamətə doğru yerləşən sahə",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 23
+            },
+            {
+                "word": "AFTAFA",
+                "explanation": "is. lüləyi və qulpu olan su qabı;lüləyin. səriyyə tas və ***nı gətiribmübaşir məmmədin … əllərinə su tökdü",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 24
+            },
+            {
+                "word": "FƏRRAŞ",
+                "explanation": "is. [ər.] köhn. müxtəlif tapşırıqlarıyerinə yetirən xidmətçi. [şahxacəyə:] bu saat ***ı göndər",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 25
+            },
+            {
+                "word": "RƏFƏTƏ",
+                "explanation": "is. çörəyi təndirə yapmaq üçünalət. üzü pörtmüş şatır oxlovçunun verdiyixəmiri əlindəki ***nin üstünə yayıb təndirəyapırdı",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 26
+            },
+            {
+                "word": "RƏFTAR",
+                "explanation": "is. [fars.] birisinə və ya bir şeyəqarşı göstərilən münasibət",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 27
+            },
+            {
+                "word": "ŞAFRAN",
+                "explanation": "[ər.] sarı-qırmızı meyxoş almanövü",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 28
+            },
+            {
+                "word": "ŞƏFAƏT",
+                "explanation": "is. [ər.] klas. bir günahkarın bağışlanmasıvə ya bir möhtacın ehtiyacınınyerinə yetirilməsi üçün başqası tərəfindənedilən vasitəçilik",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 29
+            },
+            {
+                "word": "ŞƏFFAF",
+                "explanation": "sif. [ər.] baxdıqda o biri tərəfigörünən",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 30
+            },
+            {
+                "word": "ŞƏRƏFƏ",
+                "explanation": "is. [ər.] minarənin azan verilənyeri. ***dən sonra davam edən çıxıntı isəminarənin ümumi vertikal kompozisiyasınıtamamlayır",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 31
+            },
+            {
+                "word": "ŞƏRAFƏT",
+                "explanation": "is. [ər.] şərəf",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 32
+            },
+            {
+                "word": "ATƏŞFƏŞAN",
+                "explanation": "sif. [fars.] atəş saçan",
+                "isPanagram": false,
+                "score": 9,
+                "length": 9,
+                "id": 33
+            },
+            {
+                "word": "ŞƏNŞƏRAFƏT",
+                "explanation": "is. hörmət",
+                "isPanagram": true,
+                "score": 17,
+                "length": 10,
+                "id": 34
+            }
+        ]
+    }
+}

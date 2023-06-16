@@ -1,0 +1,172 @@
+{
+    "gameData": {
+        "day": "20230802",
+        "expiration": "1691020740",
+        "centerLetter": "H",
+        "outerLetters": [
+            "X",
+            "T",
+            "A",
+            "M",
+            "V",
+            "Ə"
+        ],
+        "words_info": {
+            "word_count": 18,
+            "sum_score": 79,
+            "panagram_count": 1,
+            "word_length": {
+                "5": 7,
+                "4": 7,
+                "6": 1,
+                "7": 3
+            }
+        },
+        "words": [
+            {
+                "word": "HAMM",
+                "explanation": "is. hürərkən itin çıxardığı səs",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "HAVA",
+                "explanation": "is. mus. səslərin",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "HƏVƏ",
+                "explanation": "is. xalça",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "MƏHV",
+                "explanation": "is. [ər.] yox etmə",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "TƏHT",
+                "explanation": "is. [ər.] adətən ***ində şəklində– altında",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 5
+            },
+            {
+                "word": "VAHƏ",
+                "explanation": "is. [ər.] böyük səhra və ya çöl ortasındasuyu və yaşıllığı olan sahə. bu münbit*** qanqal və tikan bitirməz",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 6
+            },
+            {
+                "word": "VƏHM",
+                "explanation": "is. [ər.] əsli-əsası olmayan fikir;xəyal. // yersiz qorxu",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 7
+            },
+            {
+                "word": "ƏHATƏ",
+                "explanation": "is. [ər.] ətrafını tutma",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 8
+            },
+            {
+                "word": "HAMAM",
+                "explanation": "is. [ər.] çimmək üçün isti və soyuqsuyu olan xüsusi bina. şəhər ***ları.məhəllə ***ı. – [məşədi qəzənfər:] dahakim deyə bilər ki",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 9
+            },
+            {
+                "word": "HATƏM",
+                "explanation": "is. [şərq əsatirində çox varlı",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 10
+            },
+            {
+                "word": "HƏMTA",
+                "explanation": "is. [fars.] həmyaş",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 11
+            },
+            {
+                "word": "HƏTTA",
+                "explanation": "bağl. [ər.] cümlədə aid olduğusözü və ya söz birləşməsini ayırmaq vəgücləndirmək üçün işlədilir – üstəlik",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 12
+            },
+            {
+                "word": "MATAH",
+                "explanation": "is. [ər. “mətə” sözünün canlı dildəişlənən forması] qiymətli",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 13
+            },
+            {
+                "word": "TAMAH",
+                "explanation": "is. [ər. təmə] bir şeyi əldə etməyə göstərilən hədsiz arzu; hərislik",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 14
+            },
+            {
+                "word": "HAVAXT",
+                "explanation": "əvəz. haçan",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 15
+            },
+            {
+                "word": "HƏMHƏMƏ",
+                "explanation": "is. pıçıltı",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 16
+            },
+            {
+                "word": "MAHATMA",
+                "explanation": "is. [sanskr.] 1. hind mifologiyasındadünya ruhu",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 17
+            },
+            {
+                "word": "HƏMVAXT",
+                "explanation": "sif. [fars. həm və ər. vəqt]bir vaxtda olan",
+                "isPanagram": true,
+                "score": 17,
+                "length": 7,
+                "id": 18
+            }
+        ]
+    }
+}

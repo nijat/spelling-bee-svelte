@@ -1,0 +1,148 @@
+{
+    "gameData": {
+        "day": "20231205",
+        "expiration": "1701820740",
+        "centerLetter": "B",
+        "outerLetters": [
+            "M",
+            "G",
+            "K",
+            "Ə",
+            "Ö",
+            "S"
+        ],
+        "words_info": {
+            "word_count": 15,
+            "sum_score": 56,
+            "panagram_count": 1,
+            "word_length": {
+                "4": 8,
+                "5": 5,
+                "10": 1,
+                "6": 1
+            }
+        },
+        "words": [
+            {
+                "word": "BƏBƏ",
+                "explanation": "is. 1. körpə uşaq",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "ƏBƏS",
+                "explanation": "sif. [ər.] 1. nahaq",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "ƏSBƏ",
+                "explanation": "is. qızdırma ilə başlayıb",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "ƏSƏB",
+                "explanation": "is. [ər.] anat. fiziol. 1. insan",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "GƏBƏ",
+                "explanation": "is. böyük xalça",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 5
+            },
+            {
+                "word": "KƏBƏ",
+                "explanation": "is. [ər.] 1. məkkədə müsəlmanlarınmüqəddəs saydıqları bina – qibləgah. eyhəqqi hər yerdə hazırdır deyən əgrinəzər;bəs nə mənada seçərsən ***dən bü",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 6
+            },
+            {
+                "word": "KƏSB",
+                "explanation": "is. [ər.] 1. çalışıb qazanma və bununnəticəsində əldə edilən qazanc",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 7
+            },
+            {
+                "word": "KÖBƏ",
+                "explanation": "is. 1. paltarın yaxasına",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 8
+            },
+            {
+                "word": "BƏBƏK",
+                "explanation": "is. 1. göz giləsinin ortasındakıqara dairəcik. [səba] güzgüdə göz ***lərininhərəkətini bir neçə kərə imtahandankeçirdi",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 9
+            },
+            {
+                "word": "GÖBƏK",
+                "explanation": "is. 1. ***bağı düşdükdən sonraqarnın ortasında qalan kiçik çuxur",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 10
+            },
+            {
+                "word": "KƏSƏB",
+                "explanation": "is. köhn. müxtəlif alətləri qoymaqüçün dəridən və s.-dən düzəldilən",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 11
+            },
+            {
+                "word": "KÖMBƏ",
+                "explanation": "1. sif. iri",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 12
+            },
+            {
+                "word": "SƏBƏB",
+                "explanation": "is. [ər.] 1. bir şeyin",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 13
+            },
+            {
+                "word": "KƏSƏBƏ",
+                "explanation": "is. [ər. “kasib” söz cəmi] köhn.zəhmətkeş",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 14
+            },
+            {
+                "word": "GÖBƏKKƏSMƏ",
+                "explanation": "is. etnoqr. qız və oğlanuşağını anadan olanda bir-birinə nişanlamaadəti: beşikkəsmə. salondan daha bir qız səsieşidildi: – deyirlər",
+                "isPanagram": true,
+                "score": 17,
+                "length": 10,
+                "id": 15
+            }
+        ]
+    }
+}

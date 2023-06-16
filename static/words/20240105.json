@@ -1,0 +1,509 @@
+{
+    "gameData": {
+        "day": "20240105",
+        "expiration": "1704499140",
+        "centerLetter": "İ",
+        "outerLetters": [
+            "A",
+            "Ə",
+            "N",
+            "L",
+            "Q",
+            "B"
+        ],
+        "words_info": {
+            "word_count": 60,
+            "sum_score": 254,
+            "panagram_count": 2,
+            "word_length": {
+                "4": 24,
+                "6": 9,
+                "7": 8,
+                "8": 2,
+                "5": 17
+            }
+        },
+        "words": [
+            {
+                "word": "AİLƏ",
+                "explanation": "is. [ər.] 1. ata-anadan",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "AQİL",
+                "explanation": "sif. [ər.] ağıllı",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "BABİ",
+                "explanation": "is. [xüs. is.-dən] 1. xıx əsrin ortasında iranda “bab” təxəllüslü mirzə əli məhəmməd tərəfindən təsis edilmiş dini təriqətə mənsub olan adam",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "BAQİ",
+                "explanation": "sif. [ər.] 1. daimi",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "BANİ",
+                "explanation": "is. [ər.] 1. bir şeyin əsasını",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 5
+            },
+            {
+                "word": "BƏNİ",
+                "explanation": "[ər.] övlad",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 6
+            },
+            {
+                "word": "BİBİ",
+                "explanation": "is. övlad üçün atanın bacısı",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 7
+            },
+            {
+                "word": "BİNA",
+                "explanation": "is. [ər.] 1. tikili",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 8
+            },
+            {
+                "word": "BİNƏ",
+                "explanation": "is. 1. köçərilərin mal-qara ilə köçüb",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 9
+            },
+            {
+                "word": "BLİN",
+                "explanation": "is. [rus.] mayalı xəmirdən qızartmaüsulu ilə bişirilmiş nazik kökə",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 10
+            },
+            {
+                "word": "ƏQİQ",
+                "explanation": "is. [ər.] müxtəlif rənglərə çalanlaylardan ibarət olan",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 11
+            },
+            {
+                "word": "ƏQLİ",
+                "explanation": "sif. [ər.] ağıla əsaslanan",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 12
+            },
+            {
+                "word": "ƏLİL",
+                "explanation": "is. və sif. xəstəlik və ya qocalıqnəticəsində əmək qabiliyyətini itirmiş;şikəst. ***lər cəmiyyəti",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 13
+            },
+            {
+                "word": "ƏLLİ",
+                "explanation": "sif. 1. əli olan. iri *** adam. 2. məc. qolu güclü",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 14
+            },
+            {
+                "word": "ƏNİN",
+                "explanation": "is. [ər.] şair. inləmə",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 15
+            },
+            {
+                "word": "QAİB",
+                "explanation": "[ər.] 1. olmayan",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 16
+            },
+            {
+                "word": "QAİL",
+                "explanation": "[ər.] köhn. inanan",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 17
+            },
+            {
+                "word": "QƏNİ",
+                "explanation": "sif. [ər.] köhn. varlı",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 18
+            },
+            {
+                "word": "QİNA",
+                "explanation": "is. [ər.] köhn. xanəndəlik; nəğmə",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 19
+            },
+            {
+                "word": "LƏİN",
+                "explanation": "sif. və is. [ər.] bax məlun. bu isə",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 20
+            },
+            {
+                "word": "LİQA",
+                "explanation": "is. [ər.] klas. üz",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 21
+            },
+            {
+                "word": "NAİB",
+                "explanation": "is. [ər.] tar. 1. böyük bir şəxsin yerinidolandıran şəxs; vəkil",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 22
+            },
+            {
+                "word": "NAİL",
+                "explanation": "[ər.] : *** olmaq – əldə etmək",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 23
+            },
+            {
+                "word": "NƏBİ",
+                "explanation": "is. [ər.] klas. peyğəmbər. ya ***",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 24
+            },
+            {
+                "word": "BƏLLİ",
+                "explanation": "sif. aydın",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 25
+            },
+            {
+                "word": "BİQAL",
+                "explanation": "sif. [fars. bi… və ər. qal] köhn. sakit",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 26
+            },
+            {
+                "word": "BİLƏN",
+                "explanation": "sif. anlayan",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 27
+            },
+            {
+                "word": "BİLLƏ",
+                "explanation": "is. məh. uşaqlara verilən hər cürşirniyyat",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 28
+            },
+            {
+                "word": "QABİL",
+                "explanation": "sif. [ər.] 1. istedadlı",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 29
+            },
+            {
+                "word": "QALİB",
+                "explanation": "sif. [ər.] üstün gələn (gəlmiş)",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 30
+            },
+            {
+                "word": "QƏBİL",
+                "explanation": "[ər.] cür",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 31
+            },
+            {
+                "word": "QƏLBİ",
+                "explanation": "sif. məh. yüksək",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 32
+            },
+            {
+                "word": "QƏLİB",
+                "explanation": "is. 1. bir şeyə bu və ya digər birşəkil vermək üçün onun içinə keçirilən alət;ülgü. papaq ***i. çəkmə ***i",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 33
+            },
+            {
+                "word": "QİBLƏ",
+                "explanation": "is. [ər.] 1. namaz qılarkən müsəlmanlarınüzlərini çevirdikləri tərəf (məkkədəmüqəddəs sayılan kəbə adlı binanınsəmti)",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 34
+            },
+            {
+                "word": "LİANA",
+                "explanation": "[fr.] bot. tropik meşələrdə",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 35
+            },
+            {
+                "word": "LİLLİ",
+                "explanation": "sif. lehməli",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 36
+            },
+            {
+                "word": "NAQİL",
+                "explanation": "is. [ər.] 1. xüs. bax keçirici. metalelektrik ***idir.2. köhn. daşıyan",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 37
+            },
+            {
+                "word": "NƏQLİ",
+                "explanation": "[ər.] : *** cümlə qram. – müəyyən bir hadisə",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 38
+            },
+            {
+                "word": "NƏNNİ",
+                "explanation": "is. 1. körpə uşaqları yatırtmaq üçünasılan kiçik yatacaq. [qumru] uşağı ***yəsalıb küncə qısıldı",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 39
+            },
+            {
+                "word": "NİQAB",
+                "explanation": "is. [ər.] 1. duvaq",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 40
+            },
+            {
+                "word": "NİNNİ",
+                "explanation": "is. layla",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 41
+            },
+            {
+                "word": "AİLƏLİ",
+                "explanation": "sif. ailəsi olan",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 42
+            },
+            {
+                "word": "BALİNA",
+                "explanation": "[fr.] bədəncə balığa oxşar çoxiri dəniz məməlisi; kit. *** ovu. ***sümüyü. *** bütün məməli heyvanlarkimi istiqanlı heyvandır",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 43
+            },
+            {
+                "word": "BİNAƏN",
+                "explanation": "qoş. [ər.] köhn. görə",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 44
+            },
+            {
+                "word": "BİNƏLİ",
+                "explanation": "sif. dan. 1. bir yerdə yurd salmış",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 45
+            },
+            {
+                "word": "ƏBABİL",
+                "explanation": "is. [ər.] dağ qaranquşu",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 46
+            },
+            {
+                "word": "ƏLBAQİ",
+                "explanation": "sif. [ər.] artıq qalan",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 47
+            },
+            {
+                "word": "QALİBA",
+                "explanation": "ara söz [ər.] kit. köhn. 1. çoxehtimal ki",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 48
+            },
+            {
+                "word": "QƏBİLƏ",
+                "explanation": "is. [ər.] ibtidai cəmiyyətdə: birsoydan törəmiş və bir rəisin idarəsi altındabirlikdə yaşayan köçəri tayfa",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 49
+            },
+            {
+                "word": "LALƏLİ",
+                "explanation": "sif. lalə bitmiş",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 50
+            },
+            {
+                "word": "AQİLANƏ",
+                "explanation": "sif. və zərf [ər. aqil və fars.…anə] köhn. ağıllı",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 51
+            },
+            {
+                "word": "ƏLAQƏLİ",
+                "explanation": "sif. 1. əlaqəsi olan",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 52
+            },
+            {
+                "word": "QAİBANƏ",
+                "explanation": "zərf [ər. qaib və fars. …anə]görməyərək və görünməyərək",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 53
+            },
+            {
+                "word": "QƏLİBLİ",
+                "explanation": "sif. qəlibə vurulmuş",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 54
+            },
+            {
+                "word": "LƏBLƏBİ",
+                "explanation": "is. çərəz kimi yeyilən qovrulmuşqabıqsız noxud. əkdiyim noxud",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 55
+            },
+            {
+                "word": "LƏQƏBLİ",
+                "explanation": "sif. ləqəbi olan",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 56
+            },
+            {
+                "word": "NAQABİL",
+                "explanation": "sif. [fars. na… və ər. qabil]1. nalayiq",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 57
+            },
+            {
+                "word": "BALABİBİ",
+                "explanation": "is. məh. 1. kiçik bibiyə verilənad.2. gəlinlərə verilən ləqəb; gəlinciyəz",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 58
+            },
+            {
+                "word": "QALİBANƏ",
+                "explanation": "zərf [ər. qalib və fars. …anə]qalib sifəti ilə",
+                "isPanagram": true,
+                "score": 17,
+                "length": 8,
+                "id": 59
+            },
+            {
+                "word": "QALİBƏN",
+                "explanation": "zərf [ər.] kit. köhn. əksəriyyətlə",
+                "isPanagram": true,
+                "score": 17,
+                "length": 7,
+                "id": 60
+            }
+        ]
+    }
+}

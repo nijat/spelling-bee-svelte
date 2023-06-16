@@ -1,0 +1,150 @@
+{
+    "gameData": {
+        "day": "20230622",
+        "expiration": "1687478340",
+        "centerLetter": "Ğ",
+        "outerLetters": [
+            "A",
+            "S",
+            "N",
+            "I",
+            "C",
+            "Q"
+        ],
+        "words_info": {
+            "word_count": 15,
+            "sum_score": 85,
+            "panagram_count": 1,
+            "word_length": {
+                "4": 4,
+                "6": 3,
+                "5": 2,
+                "7": 4,
+                "8": 1,
+                "9": 1
+            }
+        },
+        "words": [
+            {
+                "word": "AĞAC",
+                "explanation": "is. 1. budaqları və bərk gövdəsi olan çoxillik bitki. armud ***ı. qoz ***ı. *** əkmək. qollu-budaqlı ***",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "AĞCA",
+                "explanation": "is. 1. köhn. pul. kürə və misgincətayfasından on dörd min batman buğda vəqırx min dirhəm *** … alınıb anbarlara vəxəzinəyə yetişirdi",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "QAĞA",
+                "explanation": "is. dan. hörmət üçün böyük qardaşa",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "SIĞA",
+                "explanation": "is. [ər.] köhn. 1. kiçik uşaqlar.2. yetimlər",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "AĞNAQ",
+                "explanation": "is. məh. 1. heyvanın ağnadığı yer.2. dağlarda torpağı sürüşmüş və ya suyuyub aparmış yer.3. bir yerə yığılıb iylənən palçıqlı su",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 5
+            },
+            {
+                "word": "SAĞIN",
+                "explanation": "is. 1. bax sağım. sabah idi",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 6
+            },
+            {
+                "word": "AĞACAN",
+                "explanation": "is. köhn. ataya",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 7
+            },
+            {
+                "word": "CIĞCIĞ",
+                "explanation": "is. zool. qağayı cinsindən xırdasuquşu",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 8
+            },
+            {
+                "word": "SAĞICI",
+                "explanation": "is. inəkləri sağan və onlara qulluqedən şəxs (əsasən qadın",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 9
+            },
+            {
+                "word": "CIĞCIĞA",
+                "explanation": "is. bot. çiy-çiy yeyilən",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 10
+            },
+            {
+                "word": "QANCIĞA",
+                "explanation": "is. yəhərin dal və bəzən qabaq tərəfində ip",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 11
+            },
+            {
+                "word": "SAĞANAQ",
+                "explanation": "is. 1. qaval",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 12
+            },
+            {
+                "word": "SIĞINAQ",
+                "explanation": "is. sığınılacaq yer",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 13
+            },
+            {
+                "word": "SAĞSAĞAN",
+                "explanation": "is. zool. qarğalar fəsiləsindən",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 14
+            },
+            {
+                "word": "SIĞINACAQ",
+                "explanation": "is. sığınılacaq yer",
+                "isPanagram": true,
+                "score": 17,
+                "length": 9,
+                "id": 15
+            }
+        ]
+    }
+}

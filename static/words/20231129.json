@@ -1,0 +1,325 @@
+{
+    "gameData": {
+        "day": "20231129",
+        "expiration": "1701302340",
+        "centerLetter": "T",
+        "outerLetters": [
+            "İ",
+            "S",
+            "R",
+            "Ə",
+            "L",
+            "V"
+        ],
+        "words_info": {
+            "word_count": 37,
+            "sum_score": 159,
+            "panagram_count": 1,
+            "word_length": {
+                "7": 4,
+                "6": 6,
+                "4": 13,
+                "8": 1,
+                "5": 13
+            }
+        },
+        "words": [
+            {
+                "word": "ƏTƏR",
+                "explanation": "is. dan. iz",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "ƏTİR",
+                "explanation": "is. [ər.] 1. gözəl iy",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "ƏTLİ",
+                "explanation": "sif. 1. ətcə dolğun; kök",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "LİTR",
+                "explanation": "[fr. ***e] 1000 kub santimetrə bərabər maye ölçüsü. bir *** süd",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "SƏLT",
+                "explanation": "sif. dan. bütünlüklə",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 5
+            },
+            {
+                "word": "SƏRT",
+                "explanation": "sif. 1. bərk",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 6
+            },
+            {
+                "word": "STİL",
+                "explanation": "[fr. style] bax üslub",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 7
+            },
+            {
+                "word": "TƏLƏ",
+                "explanation": "is. vəhşi və ov heyvanlarını və yaquşları",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 8
+            },
+            {
+                "word": "TƏLL",
+                "explanation": "is. uzun təpə. [bəxtiyar] gözünüaçanda gördü",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 9
+            },
+            {
+                "word": "TƏRS",
+                "explanation": "is. və sif. 1. bir şeyin əks tərəfi",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 10
+            },
+            {
+                "word": "TİRƏ",
+                "explanation": "is. 1. arx",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 11
+            },
+            {
+                "word": "TİTƏ",
+                "explanation": "is. bəzi adamların göz bəbəyindəolan ağ ləkə",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 12
+            },
+            {
+                "word": "TİTR",
+                "explanation": "[fr.] 1. kinolentdə yazı",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 13
+            },
+            {
+                "word": "SƏTİR",
+                "explanation": "is. [ər.] hər hansı bir mətnin birxətdə yazılmış hissəsi",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 14
+            },
+            {
+                "word": "SƏTRİ",
+                "explanation": "sif. [ər.] sətirbəsətir",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 15
+            },
+            {
+                "word": "TƏLƏT",
+                "explanation": "is. [ər.] 1. üz",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 16
+            },
+            {
+                "word": "TƏLİS",
+                "explanation": "is. əl-üz dəsmalı",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 17
+            },
+            {
+                "word": "TƏRLİ",
+                "explanation": "sif. 1. tərləmiş",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 18
+            },
+            {
+                "word": "TƏRSƏ",
+                "explanation": "sif. və zərf tərs",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 19
+            },
+            {
+                "word": "TƏSİR",
+                "explanation": "is. [ər.] 1. əsər etmə və bunun nəticəsindəəmələ gələn hal",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 20
+            },
+            {
+                "word": "TƏSİS",
+                "explanation": "is. [ər.] əsasını",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 21
+            },
+            {
+                "word": "TƏTİL",
+                "explanation": "is. [ər.] 1. işin kütləvi və mütəşəkkilsurətdə dayandırılması. aprelin iyirmi doqquzundabaşlanan xırda ***lər iyulun ikisindənümumi *** şəklini",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 22
+            },
+            {
+                "word": "TİRLİ",
+                "explanation": "sif. tiri (tirləri) olan",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 23
+            },
+            {
+                "word": "VƏRTƏ",
+                "explanation": "is. [ər.] uçurum; təhlükə. boz at",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 24
+            },
+            {
+                "word": "VƏSƏT",
+                "explanation": "is. [ər.] 1. orta. böyükxanım evin***ində döşək üstündə … əyləşmişdir.m.s.ordubadi.2. mus. orta səs",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 25
+            },
+            {
+                "word": "VƏTƏR",
+                "explanation": "is. [ər.] anat. əzələləri sümüklərəbağlayan lent və lövhə şəklində sıx birləşdiricitoxumadan ibarət elastik törəmə",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 26
+            },
+            {
+                "word": "ƏLİİTİ",
+                "explanation": "sif. əldən çapıq; zirək",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 27
+            },
+            {
+                "word": "ƏTİRLİ",
+                "explanation": "sif. 1. özündən ətir saçan; rayihəli.*** çiçəklər. *** otlar. – bu bağçalardaev sahibləri *** güllər və çiçəklərəkmişdilər",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 28
+            },
+            {
+                "word": "SƏRVƏT",
+                "explanation": "is. [ər.] 1. var",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 29
+            },
+            {
+                "word": "SİSTİT",
+                "explanation": "is. [yun.] sidik kisəsinin iltihabıxəstəliyi",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 30
+            },
+            {
+                "word": "TƏSVİR",
+                "explanation": "is. [ər.] 1. şeyin surətini",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 31
+            },
+            {
+                "word": "TİTƏLİ",
+                "explanation": "sif. titəsi olan",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 32
+            },
+            {
+                "word": "ƏLİİSTİ",
+                "explanation": "sif. mahir atıcı",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 33
+            },
+            {
+                "word": "TƏSƏLLİ",
+                "explanation": "is. [ər.] bir acını az da olsa unutduracaq",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 34
+            },
+            {
+                "word": "TƏSİRLİ",
+                "explanation": "sif. təsir edən",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 35
+            },
+            {
+                "word": "TƏSVİRİ",
+                "explanation": "sif. [ər.] təsvirlə əlaqədar olan",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 36
+            },
+            {
+                "word": "SƏRVƏTLİ",
+                "explanation": "sif. və is. sərvəti olan",
+                "isPanagram": true,
+                "score": 17,
+                "length": 8,
+                "id": 37
+            }
+        ]
+    }
+}

@@ -1,0 +1,303 @@
+{
+    "gameData": {
+        "day": "20240510",
+        "expiration": "1715385540",
+        "centerLetter": "Ş",
+        "outerLetters": [
+            "L",
+            "H",
+            "K",
+            "M",
+            "İ",
+            "Ə"
+        ],
+        "words_info": {
+            "word_count": 34,
+            "sum_score": 197,
+            "panagram_count": 1,
+            "word_length": {
+                "9": 1,
+                "10": 1,
+                "6": 7,
+                "7": 7,
+                "4": 6,
+                "8": 4,
+                "5": 8
+            }
+        },
+        "words": [
+            {
+                "word": "ƏKİŞ",
+                "explanation": "is. əkmə işi və tərzi",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "ƏMİŞ",
+                "explanation": "is. 1. əmmək işi",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "KİŞİ",
+                "explanation": "is. 1. cinscə qadının əksi. arvad üzlü***dən",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "ŞƏKK",
+                "explanation": "is. [ər.] bir şeyin gerçəkliyinə",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "ŞƏLƏ",
+                "explanation": "is. arxada aparıla biləcək qədərbağlanmış yük (şax",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 5
+            },
+            {
+                "word": "ŞİLƏ",
+                "explanation": "is. qatı düyü şorbası. nə yemisənturşulu ***. (ata. sözü). elədir",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 6
+            },
+            {
+                "word": "HƏŞƏM",
+                "explanation": "is. 1. döyülmək üçün dərzdən açılıb xırmana tökülən taxıl. …vələ qoşulmuş öküzlər",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 7
+            },
+            {
+                "word": "LƏLƏŞ",
+                "explanation": "is. zar. bir adam özünü öydüyü",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 8
+            },
+            {
+                "word": "MƏMƏŞ",
+                "explanation": "is. uş. məmə",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 9
+            },
+            {
+                "word": "MƏŞƏL",
+                "explanation": "is. [ər.] 1. ətrafı işıqlandırmaqüçün ağac və s. başına sarınaraq",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 10
+            },
+            {
+                "word": "ŞƏKİL",
+                "explanation": "is. [ər.] 1. bir şeyin",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 11
+            },
+            {
+                "word": "ŞƏKLİ",
+                "explanation": "sif. [ər.] zahiri görünüşcə (görünüşünəgörə)",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 12
+            },
+            {
+                "word": "ŞƏŞƏƏ",
+                "explanation": "is. [ər.] klas. tənt. 1. parlaqlıq",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 13
+            },
+            {
+                "word": "ŞİŞƏK",
+                "explanation": "is. müxtəlif yerlərdə müxtəlif (2-4)yaşlarda olan erkək qoyun. toğlu birillik",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 14
+            },
+            {
+                "word": "ƏKİLİŞ",
+                "explanation": "is. əkmək işi. taxıl ***i",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 15
+            },
+            {
+                "word": "KİŞMİŞ",
+                "explanation": "is. [fars.] üzüm qurusu. [qulançarı:]afərin bacım zeynəb",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 16
+            },
+            {
+                "word": "ŞƏLƏLİ",
+                "explanation": "sif. dalına şələ götürmüş",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 17
+            },
+            {
+                "word": "ŞİƏLİK",
+                "explanation": "is. din. şiə məzhəbinə mənsubiyyət.arvadlar arasında danışılırdı ki",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 18
+            },
+            {
+                "word": "ŞİLLİK",
+                "explanation": "is. şil adamın halı",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 19
+            },
+            {
+                "word": "ŞİMŞƏK",
+                "explanation": "is. ildırım. payızda *** nadirbir hadisə idi. m.hüseyn. …bayırda şiddətləgöy guruldadı",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 20
+            },
+            {
+                "word": "ŞİŞLİK",
+                "explanation": "is. 1. şişə çəkilərək od üstündəbişirilən tikə-tikə ətdən ibarət yemək; tikəkabab(rus dilində “şaşlık” şəklində işlənir)",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 21
+            },
+            {
+                "word": "ƏKİLMİŞ",
+                "explanation": "f.sif. sürülərək toxum səpilmiş",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 22
+            },
+            {
+                "word": "KİŞİLİK",
+                "explanation": "is. 1. qoçaqlıq",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 23
+            },
+            {
+                "word": "KİŞMİŞİ",
+                "explanation": "is. tezyetişən",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 24
+            },
+            {
+                "word": "MƏLƏŞMƏ",
+                "explanation": "“***k”dən f.is. qoyun***si",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 25
+            },
+            {
+                "word": "MƏŞƏLLİ",
+                "explanation": "sif. əlində məşəl olan",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 26
+            },
+            {
+                "word": "ŞƏKİLLİ",
+                "explanation": "sif. 1. içində şəkillər olan; rəsmli.*** jurnal. *** məcmuə. – qonça ***kitabı istəyir",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 27
+            },
+            {
+                "word": "ŞƏŞƏƏLİ",
+                "explanation": "sif. təntənəli",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 28
+            },
+            {
+                "word": "HƏMİŞƏKİ",
+                "explanation": "sif. və zərf 1. həmişə olan",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 29
+            },
+            {
+                "word": "KİLKƏŞİK",
+                "explanation": "sif. dolaşıq",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 30
+            },
+            {
+                "word": "ŞİMŞƏKLİ",
+                "explanation": "sif. ildırımlı. dağ kimi dalğaların;qatarını sökək! *** bulud kimi;düşmən üstünə çökək. r.rza",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 31
+            },
+            {
+                "word": "ƏHLİLƏŞMƏ",
+                "explanation": "“***k”dən f.is. ***təsiri ilə heyvanlarda bir sıra dəyişikliklərəmələ gəlmişdir. “ümumi zootexniya”",
+                "isPanagram": false,
+                "score": 9,
+                "length": 9,
+                "id": 32
+            },
+            {
+                "word": "ƏHLİLƏŞMİŞ",
+                "explanation": "f.sif. əhli olmuş",
+                "isPanagram": false,
+                "score": 10,
+                "length": 10,
+                "id": 33
+            },
+            {
+                "word": "HƏLMƏŞİK",
+                "explanation": "sif. horra halında olan",
+                "isPanagram": true,
+                "score": 17,
+                "length": 8,
+                "id": 34
+            }
+        ]
+    }
+}

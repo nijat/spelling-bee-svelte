@@ -1,0 +1,342 @@
+{
+    "gameData": {
+        "day": "20231107",
+        "expiration": "1699401540",
+        "centerLetter": "A",
+        "outerLetters": [
+            "F",
+            "Z",
+            "B",
+            "N",
+            "Ə",
+            "D"
+        ],
+        "words_info": {
+            "word_count": 39,
+            "sum_score": 143,
+            "panagram_count": 1,
+            "word_length": {
+                "4": 20,
+                "6": 7,
+                "5": 8,
+                "9": 1,
+                "7": 2,
+                "8": 1
+            }
+        },
+        "words": [
+            {
+                "word": "ABAD",
+                "explanation": "sif. [fars.] 1. müntəzəm və çoxlu tikintisi",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "ADAB",
+                "explanation": "is. [ər. “ədəb” söz. cəmi] köhn.əxlaq qaydaları",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "ADNA",
+                "explanation": "is. cümə axşamı",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "ANƏN",
+                "explanation": "zərf [ər.] birdən",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "AZAD",
+                "explanation": "sif. [fars.] 1. ***lıqdan istifadəedən",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 5
+            },
+            {
+                "word": "AZAN",
+                "explanation": "is. [ər.] müsəlmanları namazaçağırmaq üçün ***çının səhər",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 6
+            },
+            {
+                "word": "BABA",
+                "explanation": "is. 1. atanın",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 7
+            },
+            {
+                "word": "BADƏ",
+                "explanation": "is. [fars.] şair. 1. şərab",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 8
+            },
+            {
+                "word": "BAFA",
+                "explanation": "is. məh. dərz bağlamaq üçün biçinçininbiçib bağladığı sünbül toplusu. [hüseyn:]marquşa",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 9
+            },
+            {
+                "word": "DANA",
+                "explanation": "is. bir yaşdan iki yaşa qədər olaninək balası. *** əti. – danışıq ***nı qurdaverər. (məsəl)",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 10
+            },
+            {
+                "word": "ƏBNA",
+                "explanation": "is. [ər. “ibn” söz. cəmi] klas. övladlar",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 11
+            },
+            {
+                "word": "ƏDNA",
+                "explanation": "sif. və is. [ər.] klas. 1. alçaq",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 12
+            },
+            {
+                "word": "ƏFZA",
+                "explanation": "sif. [ər.] köhn. artıran. gərçi qışfəsli idi",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 13
+            },
+            {
+                "word": "ƏZAB",
+                "explanation": "is. [ər.] 1. əziyyət",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 14
+            },
+            {
+                "word": "ƏZAN",
+                "explanation": "[ər.] bax azan",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 15
+            },
+            {
+                "word": "FƏDA",
+                "explanation": "is. [ər.] ən əziz bir adam və yayüksək amal",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 16
+            },
+            {
+                "word": "FƏNA",
+                "explanation": "is. [ər.] pis",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 17
+            },
+            {
+                "word": "FƏZA",
+                "explanation": "is. [ər.] 1. kainatda sonsuz boşluq;göy",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 18
+            },
+            {
+                "word": "NANƏ",
+                "explanation": "[ər.] bot. yeyilən çoxillik ətirligöyərti növü. *** qurutmaq. üç dəstə ***.□ *** cövhəri (arağı) – ***dən çəkilənaraq",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 19
+            },
+            {
+                "word": "ZADƏ",
+                "explanation": "is. [fars.] klas. oğul",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 20
+            },
+            {
+                "word": "BANDA",
+                "explanation": "is. [ital.] cinayətkarlar",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 21
+            },
+            {
+                "word": "BƏNNA",
+                "explanation": "is. [ər.] binanın daş",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 22
+            },
+            {
+                "word": "DABAN",
+                "explanation": "is. 1. insan və heyvan ayağının dal hissəsi. çox gəzməkdən ***larım sızıldayır. 2. ayağa geyilən şeylərin arxa hissəsi",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 23
+            },
+            {
+                "word": "DƏNAB",
+                "explanation": "is. [fars.] xörək bişirmək üçünqaynar su",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 24
+            },
+            {
+                "word": "ƏBƏDA",
+                "explanation": "[ər.] klas. 1. bax əbədən.2. heç",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 25
+            },
+            {
+                "word": "ƏZDAD",
+                "explanation": "is. [ər.] köhn. 1. zidd sözününcəmi (zidlər).2. köhn. rəqiblər",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 26
+            },
+            {
+                "word": "NADAN",
+                "explanation": "sif. [fars.] 1. cahil",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 27
+            },
+            {
+                "word": "ZƏBAN",
+                "explanation": "is. [fars.] klas. dil. bir saat görməsəm",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 28
+            },
+            {
+                "word": "BADBAN",
+                "explanation": "is. [fars.] ensiz nazik taxta çərçivəyəyapışdırılmış və uzun sapa bənd edilərək",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 29
+            },
+            {
+                "word": "BƏZZAZ",
+                "explanation": "is. [ər.] köhn. parça",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 30
+            },
+            {
+                "word": "DABANA",
+                "explanation": "is. qapının",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 31
+            },
+            {
+                "word": "DƏNDAN",
+                "explanation": "is. [fars.] klas. diş. olmasa qabiləgər dəhr cəfa verməz ona; təm biləzzətolanda necə ***ə dəyər? m",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 32
+            },
+            {
+                "word": "ƏDABAZ",
+                "explanation": "is. [ər. əda və fars. …baz] ***lıqedən",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 33
+            },
+            {
+                "word": "ƏNDAZƏ",
+                "explanation": "is. [fars.] 1. kağızdan",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 34
+            },
+            {
+                "word": "ZƏBANƏ",
+                "explanation": "is. [fars.] klas. 1. alov",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 35
+            },
+            {
+                "word": "DANƏNDƏ",
+                "explanation": "is. [fars.] klas. bilici",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 36
+            },
+            {
+                "word": "DƏDƏBABA",
+                "explanation": "is. 1. ulu babalar",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 37
+            },
+            {
+                "word": "BƏNDƏZADƏ",
+                "explanation": "is. [fars.] köhn. keçmişdəbir şəxs müsahibinə hörmət üçün",
+                "isPanagram": false,
+                "score": 9,
+                "length": 9,
+                "id": 38
+            },
+            {
+                "word": "FƏNDBAZ",
+                "explanation": "is. və sif. [fars.] hiyləbaz",
+                "isPanagram": true,
+                "score": 17,
+                "length": 7,
+                "id": 39
+            }
+        ]
+    }
+}

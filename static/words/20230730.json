@@ -1,0 +1,438 @@
+{
+    "gameData": {
+        "day": "20230730",
+        "expiration": "1690761540",
+        "centerLetter": "A",
+        "outerLetters": [
+            "Ü",
+            "L",
+            "M",
+            "Ə",
+            "T",
+            "B"
+        ],
+        "words_info": {
+            "word_count": 51,
+            "sum_score": 232,
+            "panagram_count": 1,
+            "word_length": {
+                "8": 1,
+                "7": 11,
+                "4": 19,
+                "6": 10,
+                "5": 8,
+                "9": 2
+            }
+        },
+        "words": [
+            {
+                "word": "ALAM",
+                "explanation": "is. [ər. “ələm” söz. cəmi] qəm",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "ALƏM",
+                "explanation": "is. [ər.] 1. kainat",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "ALƏT",
+                "explanation": "is. [ər.] 1. bir iş görmək",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "ALMA",
+                "explanation": "is. müxtəlif çeşidləri və müxtəlif rənglərdə olan girdə",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "AMAL",
+                "explanation": "is. [ər. “əməl” söz. cəmi] tənt. qayə",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 5
+            },
+            {
+                "word": "ATAT",
+                "explanation": "is. uşaqların ağac üstə minərəkoynadıqları oyun. at-at oynamaq",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 6
+            },
+            {
+                "word": "ATMA",
+                "explanation": "“***q”dan f.is. və s. *** nizə.ən qədim insanların ilk *** silahı daş",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 7
+            },
+            {
+                "word": "BABA",
+                "explanation": "is. 1. atanın",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 8
+            },
+            {
+                "word": "BALA",
+                "explanation": "1. is. övlad",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 9
+            },
+            {
+                "word": "BƏLA",
+                "explanation": "is. [ər.] 1. uğursuzluq",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 10
+            },
+            {
+                "word": "ƏMMA",
+                "explanation": "[ər.] 1. bax amma. şeir bir zivərdir",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 11
+            },
+            {
+                "word": "LALƏ",
+                "explanation": "is. [fars.] 1. bot. iriləçəkli qırmızıçiçəkləri olan bitki və bu bitkinin çiçəyi. bitərçəməndə ***lər",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 12
+            },
+            {
+                "word": "MALA",
+                "explanation": "is. [fars.] 1. binanın iç və bayırdivarlarına çəkmək üçün əhəng",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 13
+            },
+            {
+                "word": "MAMA",
+                "explanation": "is. doğuş zamanı kömək göstərməkləməşğul olan (keçmişdə təhsilsiz",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 14
+            },
+            {
+                "word": "MƏAL",
+                "explanation": "is. [ər.] klas. bir yazı və ya söz iləanladılmaq istənilən fikir",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 15
+            },
+            {
+                "word": "MƏTA",
+                "explanation": "is. [ər.] 1. satılan mal",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 16
+            },
+            {
+                "word": "TAAM",
+                "explanation": "is. [ər.] 1. xörək",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 17
+            },
+            {
+                "word": "TALA",
+                "explanation": "is. meşədə ağacsız",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 18
+            },
+            {
+                "word": "TƏAM",
+                "explanation": "is. bax taam",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 19
+            },
+            {
+                "word": "BABAT",
+                "explanation": "sif. və zərf orta keyfiyyətli",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 20
+            },
+            {
+                "word": "BALBA",
+                "explanation": "is. məh. cincilim",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 21
+            },
+            {
+                "word": "BALTA",
+                "explanation": "is. odun doğramaq",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 22
+            },
+            {
+                "word": "MATƏM",
+                "explanation": "is. [ər.] yas",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 23
+            },
+            {
+                "word": "MƏLAL",
+                "explanation": "is. [ər.] ürək sıxıntısı; usanma",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 24
+            },
+            {
+                "word": "MƏMAT",
+                "explanation": "is. [ər.] ölüm",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 25
+            },
+            {
+                "word": "TAMAM",
+                "explanation": "is. [ər.] 1. bitmə",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 26
+            },
+            {
+                "word": "ÜLƏMA",
+                "explanation": "is. [ər. “alim” söz. cəmi] alimlər.***lar üz döndərib xudadan. q.zakir.şəhərin böyük *** və dərvişləri [nəsiminin]ziyarətinə getməyə başladılar",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 27
+            },
+            {
+                "word": "ATLAMA",
+                "explanation": "is. su qatılaraq duru hala salınmışqatıq; ayran. yayın ***sı",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 28
+            },
+            {
+                "word": "BALATA",
+                "explanation": "is. məh. maya",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 29
+            },
+            {
+                "word": "BATBAT",
+                "explanation": "is. bot. bəngotu; pis qoxulu acıdadan ot bitki (xalq təbabətində işlədilir).gödək saplaqlı yaşıl rəngli və yumurtayaoxşarzəhərli otların",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 30
+            },
+            {
+                "word": "ƏLAMƏT",
+                "explanation": "is. [ər.] 1. bir şeyin bilinməsinə",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 31
+            },
+            {
+                "word": "ƏLLAMƏ",
+                "explanation": "is. və sif. [ər.] 1. çox bilən",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 32
+            },
+            {
+                "word": "ƏMMAMƏ",
+                "explanation": "is. [ər.] bəzi şərq ölkələrində:sarınmış uzun ağ parça",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 33
+            },
+            {
+                "word": "ƏTALƏT",
+                "explanation": "is. [ər.] hərəkətsizlik",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 34
+            },
+            {
+                "word": "LATLÜT",
+                "explanation": "sif. dan. 1. çılpaq",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 35
+            },
+            {
+                "word": "MÜƏMMA",
+                "explanation": "is. [ər.] 1. mənası gizli",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 36
+            },
+            {
+                "word": "TÜLLAB",
+                "explanation": "is. [ər. “tələbə” söz. cəmi]1. köhn. ruhani məktəbində oxuyan tələbələr.şeyx əbu səid gecələr əvvəli-təbdə ***adərs verərdi",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 37
+            },
+            {
+                "word": "ALATALA",
+                "explanation": "sif. tala-tala",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 38
+            },
+            {
+                "word": "ALƏMTAB",
+                "explanation": "sif. [ər. aləm və fars. tab]klas. dünyanı işıqlandıran",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 39
+            },
+            {
+                "word": "ATABABA",
+                "explanation": "is. əcdad",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 40
+            },
+            {
+                "word": "ATABALA",
+                "explanation": "is. ata ilə oğlu",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 41
+            },
+            {
+                "word": "MALAMAL",
+                "explanation": "sif. və zərf [fars.] dolu",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 42
+            },
+            {
+                "word": "MƏLAMƏT",
+                "explanation": "is. [ər.] danlaq",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 43
+            },
+            {
+                "word": "MÜTƏLLA",
+                "explanation": "sif. [ər.] köhn. qızıl suyunaçəkilmiş",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 44
+            },
+            {
+                "word": "TƏBABƏT",
+                "explanation": "is. [ər.] xəstəliklər",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 45
+            },
+            {
+                "word": "TƏLATÜM",
+                "explanation": "is. [ər.] 1. tufan",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 46
+            },
+            {
+                "word": "TƏLƏBAT",
+                "explanation": "is. [ər. “tələb” söz. cəmi]1. tələb",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 47
+            },
+            {
+                "word": "ALABABAT",
+                "explanation": "sif. və zərf dan. nə yaxşı",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 48
+            },
+            {
+                "word": "TAMAMLAMA",
+                "explanation": "1. “***q”dan f.is.2. is. əgər-əskiyini düzəltmə",
+                "isPanagram": false,
+                "score": 9,
+                "length": 9,
+                "id": 49
+            },
+            {
+                "word": "TƏLATÜMLÜ",
+                "explanation": "sif. və zərf 1. coşqun",
+                "isPanagram": false,
+                "score": 9,
+                "length": 9,
+                "id": 50
+            },
+            {
+                "word": "MÜBTƏLA",
+                "explanation": "sif. [ər.] 1. aludə",
+                "isPanagram": true,
+                "score": 17,
+                "length": 7,
+                "id": 51
+            }
+        ]
+    }
+}

@@ -1,0 +1,190 @@
+{
+    "gameData": {
+        "day": "20230601",
+        "expiration": "1685663940",
+        "centerLetter": "Ə",
+        "outerLetters": [
+            "R",
+            "İ",
+            "Ü",
+            "H",
+            "Y",
+            "T"
+        ],
+        "words_info": {
+            "word_count": 20,
+            "sum_score": 79,
+            "panagram_count": 1,
+            "word_length": {
+                "4": 11,
+                "8": 2,
+                "5": 3,
+                "9": 1,
+                "7": 2,
+                "6": 1
+            }
+        },
+        "words": [
+            {
+                "word": "ƏRƏR",
+                "explanation": "is. [ər.] ardıc ağacı. qəddintəknə ər-ər",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "ƏRRƏ",
+                "explanation": "is. [fars.] ikidəstəli iri mişar",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "ƏTƏR",
+                "explanation": "is. dan. iz",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "ƏTİR",
+                "explanation": "is. [ər.] 1. gözəl iy",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "ƏYRİ",
+                "explanation": "sif. 1. düz istiqamətdə olmayan",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 5
+            },
+            {
+                "word": "HƏRƏ",
+                "explanation": "əvəz. toplu halında olan adamlardanhər biri; hər kəs. *** bir söz deyir.*** bir tərəfə getdi. ***nin öz fikri var",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 6
+            },
+            {
+                "word": "TƏHT",
+                "explanation": "is. [ər.] adətən ***ində şəklində– altında",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 7
+            },
+            {
+                "word": "TİRƏ",
+                "explanation": "is. 1. arx",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 8
+            },
+            {
+                "word": "TİTƏ",
+                "explanation": "is. bəzi adamların göz bəbəyindəolan ağ ləkə",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 9
+            },
+            {
+                "word": "TİYƏ",
+                "explanation": "is. qılınc",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 10
+            },
+            {
+                "word": "YİYƏ",
+                "explanation": "is. hər hansı bir şey üzərində mülkiyyəthüququ olan adam; sahib. oğul",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 11
+            },
+            {
+                "word": "HƏYƏT",
+                "explanation": "is. [ər.] 1. adətən evin qabağındaətrafı hasar və ya başqa binaların divarlarıilə əhatə olunmuş sahə",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 12
+            },
+            {
+                "word": "TƏHƏR",
+                "explanation": "[ər. tövr-dən] 1. is. cür",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 13
+            },
+            {
+                "word": "YƏHƏR",
+                "explanation": "is. 1. üstündə oturmaq üçün qayışlarla atın belinə bağlanan oturacaq. [doktor:] atı ***in altında yox",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 14
+            },
+            {
+                "word": "TƏHRİR",
+                "explanation": "is. [ər.] klas. yazma",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 15
+            },
+            {
+                "word": "RƏİYYƏT",
+                "explanation": "is. [ər.] bir dövlətin tabeliyində olan(lar); təbəə. atabəy məhəmməd",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 16
+            },
+            {
+                "word": "TƏHRİRİ",
+                "explanation": "sif. və zərf [ər.] yazılı",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 17
+            },
+            {
+                "word": "ƏYRİÜYRÜ",
+                "explanation": "sif. 1. çox yerindən əyilmiş",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 18
+            },
+            {
+                "word": "TƏHƏYYÜR",
+                "explanation": "is. [ər.] köhn. heyran olma",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 19
+            },
+            {
+                "word": "HÜRRİYYƏT",
+                "explanation": "is. [ər.] azadlıq. bəşərindərdini öz dərdi bilib millətimiz; bizimöz niyyətimizdən doğub ***imiz",
+                "isPanagram": true,
+                "score": 17,
+                "length": 9,
+                "id": 20
+            }
+        ]
+    }
+}

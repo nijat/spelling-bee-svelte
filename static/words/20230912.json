@@ -1,0 +1,237 @@
+{
+    "gameData": {
+        "day": "20230912",
+        "expiration": "1694563140",
+        "centerLetter": "S",
+        "outerLetters": [
+            "N",
+            "İ",
+            "Ə",
+            "Ş",
+            "R",
+            "Z"
+        ],
+        "words_info": {
+            "word_count": 26,
+            "sum_score": 106,
+            "panagram_count": 1,
+            "word_length": {
+                "4": 13,
+                "5": 4,
+                "7": 4,
+                "8": 3,
+                "6": 2
+            }
+        },
+        "words": [
+            {
+                "word": "ƏNİS",
+                "explanation": "is. [ər.] şair. yaxın dost",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "ƏRSƏ",
+                "explanation": "is. [ər.] 1. meydan",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "ƏSƏN",
+                "explanation": "sif. qəd. sağ",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "ƏSƏR",
+                "explanation": "is. [ər.] 1. iz",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "ƏSİR",
+                "explanation": "is. [ər.] 1. müharibədə ələ keçirilən düşmən əsgəri",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 5
+            },
+            {
+                "word": "ƏSRİ",
+                "explanation": "sif. müasir",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 6
+            },
+            {
+                "word": "NƏSR",
+                "explanation": "is. [ər.] roman",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 7
+            },
+            {
+                "word": "RƏİS",
+                "explanation": "is. [ər.] idarə edən",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 8
+            },
+            {
+                "word": "SƏNƏ",
+                "explanation": "is. [ər.] il. bir gecəlik mətləbin bir*** mabədi var. m.ə.sabir. millətin beş*** bundan əqdəm; yüz nəfərdən biri tutmazdıqələm",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 9
+            },
+            {
+                "word": "SİNƏ",
+                "explanation": "is. [fars.] 1. döş",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 10
+            },
+            {
+                "word": "SİNİ",
+                "explanation": "is. misdən",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 11
+            },
+            {
+                "word": "SİNN",
+                "explanation": "is. [ər.] yaş. xudayar bəyin ancaqotuz yeddi-otuz səkkiz ***i olar",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 12
+            },
+            {
+                "word": "SİRR",
+                "explanation": "is. [ər.] 1. başqalarından gizli saxlanılan",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 13
+            },
+            {
+                "word": "ƏRSİN",
+                "explanation": "is. xəmir işlərində və s.-də işlədiləndəmir kürəkcik şəklində alət. təknədənxəmiri ***lə qazımaq",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 14
+            },
+            {
+                "word": "ƏRSİZ",
+                "explanation": "sif. əri olmayan",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 15
+            },
+            {
+                "word": "ƏŞSİZ",
+                "explanation": "sif. 1. tayı",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 16
+            },
+            {
+                "word": "SƏRİN",
+                "explanation": "sif. 1. az soyuq",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 17
+            },
+            {
+                "word": "SƏRSƏR",
+                "explanation": "is. [ər.] güclü və soyuq külək",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 18
+            },
+            {
+                "word": "SƏSSİZ",
+                "explanation": "sif. və zərf 1. səs çıxarmayan",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 19
+            },
+            {
+                "word": "ƏSƏRSİZ",
+                "explanation": "sif. 1. təsirsiz",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 20
+            },
+            {
+                "word": "NƏŞƏSİZ",
+                "explanation": "sif. və zərf bikef",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 21
+            },
+            {
+                "word": "RİŞƏSİZ",
+                "explanation": "sif. köksüz",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 22
+            },
+            {
+                "word": "SƏRSƏRİ",
+                "explanation": "sif. [fars.] 1. işi-gücü və müəyyənyeri olmayıb orada-burada dolaşan",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 23
+            },
+            {
+                "word": "SƏRNİŞİN",
+                "explanation": "is. [fars.] 1. köhn. yuxarı başdaəyləşən.2. müxtəlif nəqliyyat vasitələrində hərəkətedən insanlar",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 24
+            },
+            {
+                "word": "ZƏRƏRSİZ",
+                "explanation": "sif. zərəri toxunmayan",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 25
+            },
+            {
+                "word": "SƏRZƏNİŞ",
+                "explanation": "is. [fars.] 1. qaxınc",
+                "isPanagram": true,
+                "score": 17,
+                "length": 8,
+                "id": 26
+            }
+        ]
+    }
+}

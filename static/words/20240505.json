@@ -1,0 +1,228 @@
+{
+    "gameData": {
+        "day": "20240505",
+        "expiration": "1714953540",
+        "centerLetter": "R",
+        "outerLetters": [
+            "A",
+            "O",
+            "K",
+            "M",
+            "İ",
+            "S"
+        ],
+        "words_info": {
+            "word_count": 25,
+            "sum_score": 105,
+            "panagram_count": 1,
+            "word_length": {
+                "4": 10,
+                "6": 8,
+                "5": 6,
+                "8": 1
+            }
+        },
+        "words": [
+            {
+                "word": "AMİR",
+                "explanation": "is. [ər.] buyuran",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "ARAM",
+                "explanation": "is. [fars.] sakitlik",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "ASAR",
+                "explanation": "is. [ər. “əsər” söz. cəmi] köhn. 1. əlamət",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "KİRS",
+                "explanation": "is. parçada",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "MARS",
+                "explanation": "is. nərd oyununda: oyunun axırına kimi bir daş da olsa çıxa bilməyib ikiqat uduzma. qayınata ilə kürəkən nərd oynayırdılar",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 5
+            },
+            {
+                "word": "OMAR",
+                "explanation": "is. onurğasız dəniz heyvanı; onayaqlıxərçəng",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 6
+            },
+            {
+                "word": "RİSK",
+                "explanation": "[fr.] təhlükə imkanı",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 7
+            },
+            {
+                "word": "SAİR",
+                "explanation": "sif. [ər.] başqa",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 8
+            },
+            {
+                "word": "SİRK",
+                "explanation": "[lat. circus – dairə] 1. akrobatlıq",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 9
+            },
+            {
+                "word": "SİRR",
+                "explanation": "is. [ər.] 1. başqalarından gizli saxlanılan",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 10
+            },
+            {
+                "word": "KİRKİ",
+                "explanation": "1 is. xüs. xalça toxunarkən ilməklərini sıxlaşdırmaq üçün işlədilən alət; daraq",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 11
+            },
+            {
+                "word": "KROSS",
+                "explanation": "[ing.] dərə-təpəli yerdə maneələriaşmaqla idman qaçışı",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 12
+            },
+            {
+                "word": "MİRAS",
+                "explanation": "is. [ər.] 1. ölən adamdan sonra varislərə qalan mal",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 13
+            },
+            {
+                "word": "MİSRA",
+                "explanation": "is. [ər.] şerin ayrılıqda götürülmüşbir sətri. qəzəldən iki *** demək. şerin***sı. – xanqızı … vaqifin hər ***sındandoğan atəşi göz yaşları i",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 14
+            },
+            {
+                "word": "MİSRİ",
+                "explanation": "sif. misirə məxsus. misirə mənsub.// misirli.◊ *** qılınc – koroğlunun qılıncına verilənad. *** qılınc hamayıldı belində; geyərhər vaxt al-qum",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 15
+            },
+            {
+                "word": "SARMA",
+                "explanation": "1. “***q”dan f.is.2. parça üzərində güləbətinlə işlənmiş incənaxış",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 16
+            },
+            {
+                "word": "KARKOR",
+                "explanation": "is. həm qulağı eşitməyən",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 17
+            },
+            {
+                "word": "KARAİM",
+                "explanation": "is. krımda və litvada",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 18
+            },
+            {
+                "word": "KARKAS",
+                "explanation": "[ital. carcassa] bina və s.-nin dəmirdən düzəldilən gövdəsi",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 19
+            },
+            {
+                "word": "KASSİR",
+                "explanation": "[ital.] pul",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 20
+            },
+            {
+                "word": "KORSAR",
+                "explanation": "is. [ital.] dəniz qulduru",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 21
+            },
+            {
+                "word": "MİSMAR",
+                "explanation": "is. [ər.] mıx. …mən elə pis uşaq görmüşəm ki",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 22
+            },
+            {
+                "word": "ROKOKO",
+                "explanation": "[fr.] xvııı əsrdə fransadameydana gəlib formalarının zərifliyi və mürəkkəbliyi",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 23
+            },
+            {
+                "word": "SİMSAR",
+                "explanation": "sif. [fars.] 1. yaxın",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 24
+            },
+            {
+                "word": "KOMİSSAR",
+                "explanation": "[fr.] 1. keçmiş ssri-də: üzərinə ictimai-siyasi",
+                "isPanagram": true,
+                "score": 17,
+                "length": 8,
+                "id": 25
+            }
+        ]
+    }
+}

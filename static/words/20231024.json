@@ -1,0 +1,205 @@
+{
+    "gameData": {
+        "day": "20231024",
+        "expiration": "1698191940",
+        "centerLetter": "M",
+        "outerLetters": [
+            "T",
+            "İ",
+            "Z",
+            "R",
+            "Ç",
+            "A"
+        ],
+        "words_info": {
+            "word_count": 22,
+            "sum_score": 91,
+            "panagram_count": 1,
+            "word_length": {
+                "4": 10,
+                "5": 5,
+                "7": 2,
+                "8": 1,
+                "6": 4
+            }
+        },
+        "words": [
+            {
+                "word": "AMİR",
+                "explanation": "is. [ər.] buyuran",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "ARAM",
+                "explanation": "is. [fars.] sakitlik",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "ATMA",
+                "explanation": "“***q”dan f.is. və s. *** nizə.ən qədim insanların ilk *** silahı daş",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "AZİM",
+                "explanation": "[ər.] : *** olmaq klas. – getmək",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "MAÇA",
+                "explanation": "is. 1. qoyun və başqa heyvanlarındirsəkdən aşağı bilək hissəsi. *** əti. ***bozbaşı.2. iri aşıq",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 5
+            },
+            {
+                "word": "MAMA",
+                "explanation": "is. doğuş zamanı kömək göstərməkləməşğul olan (keçmişdə təhsilsiz",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 6
+            },
+            {
+                "word": "MART",
+                "explanation": "[lat.] təqvim ilinin üçüncü ayı.*** qırğınları. – *** çıxdı",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 7
+            },
+            {
+                "word": "MATÇ",
+                "explanation": "[ing.] şahmat və ya idmanın buvə ya başqa növü üzrə iki rəqib",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 8
+            },
+            {
+                "word": "MAZİ",
+                "explanation": "is. [ər.] 1. klas. keçmiş zaman",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 9
+            },
+            {
+                "word": "TAAM",
+                "explanation": "is. [ər.] 1. xörək",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 10
+            },
+            {
+                "word": "ARTMA",
+                "explanation": "1. “***q”dan f.is.2. is. artan şey",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 11
+            },
+            {
+                "word": "ÇATMA",
+                "explanation": "1. “***q1”dan f.is.2. ucları ortadan bir-birinə qovuşmuş.qızın *** qaşları vardı. – …cahandarağanın qara sifəti tunc kimi bozardı",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 12
+            },
+            {
+                "word": "MAZAT",
+                "explanation": "is. : özünü ***a qoymaq dan. – naz eləmək",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 13
+            },
+            {
+                "word": "MİTRA",
+                "explanation": "is. [rus.] dini ayin zamanı keşişlərinbaşlarına keçirdikləri qızılı rəngli papaq",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 14
+            },
+            {
+                "word": "TAMAM",
+                "explanation": "is. [ər.] 1. bitmə",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 15
+            },
+            {
+                "word": "MAMAÇA",
+                "explanation": "is. xüsusi təhsili olmayanmama",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 16
+            },
+            {
+                "word": "MARAZM",
+                "explanation": "is. [yun.] 1. beyin qabığınınümumi üzgünlüklə müşayiət olunan atrofiyasıvə psixi fəaliyyətinin dayanması",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 17
+            },
+            {
+                "word": "MARTİT",
+                "explanation": "is. mineral",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 18
+            },
+            {
+                "word": "TARMAR",
+                "explanation": "sif. 1. bir-birinə qarışmış",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 19
+            },
+            {
+                "word": "MAZARAT",
+                "explanation": "is. [ər.] dan. 1. ziyan",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 20
+            },
+            {
+                "word": "MAÇAMAÇA",
+                "explanation": "is. maça ilə oynanılan uşaqoyunu; aşıq-aşıq. uşaqlar maça-maça oynayırlar",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 21
+            },
+            {
+                "word": "ÇARTİZM",
+                "explanation": "[ing.] ingiltərədə xıx əsrin30-40-cı illərində fəhlələrin siyasi hüquqəldə etmək və iqtisadi vəziyyətlərini yaxşılaşdırmaquğrunda inqilabi hərəkatı",
+                "isPanagram": true,
+                "score": 17,
+                "length": 7,
+                "id": 22
+            }
+        ]
+    }
+}

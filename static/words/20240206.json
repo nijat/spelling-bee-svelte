@@ -1,0 +1,180 @@
+{
+    "gameData": {
+        "day": "20240206",
+        "expiration": "1707263940",
+        "centerLetter": "T",
+        "outerLetters": [
+            "D",
+            "İ",
+            "B",
+            "O",
+            "R",
+            "E"
+        ],
+        "words_info": {
+            "word_count": 19,
+            "sum_score": 80,
+            "panagram_count": 1,
+            "word_length": {
+                "5": 10,
+                "4": 7,
+                "7": 1,
+                "6": 1
+            }
+        },
+        "words": [
+            {
+                "word": "BORT",
+                "explanation": "[fr.] 1. gəminin yan divarı",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "TİBB",
+                "explanation": "is. [ər.] 1. xəstəliklər",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "TİRE",
+                "explanation": "[fr.] 1. uzun üfüqi xətt (–) şəklindədurğu işarəsi.2. morze əlifbasında belə işarə",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "TİTR",
+                "explanation": "[fr.] 1. kinolentdə yazı",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "TORİ",
+                "explanation": "is. [ing.] ingiltərədə mühafizəkar siyasipartiya",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 5
+            },
+            {
+                "word": "TORT",
+                "explanation": "[ital.] yağ",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 6
+            },
+            {
+                "word": "TRİO",
+                "explanation": "[ital.] 1. hər birinin müstəqil partiyalarıolan üç alət və ya üç səs üçün yazılmışmusiqi əsəri. çaykovskinin ***su",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 7
+            },
+            {
+                "word": "BERET",
+                "explanation": "[fr.] günlüyü və kənarları olmayanyumşaq baş geyimi",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 8
+            },
+            {
+                "word": "DEBET",
+                "explanation": "[lat.] mühasibat dəftərlərində: biridarə və ya müəssisənin gəlirini",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 9
+            },
+            {
+                "word": "DEBİT",
+                "explanation": "is. [fr.] xüs. bir zaman vahidi ərzindəsu",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 10
+            },
+            {
+                "word": "ORBİT",
+                "explanation": "[lat.] 1. astr. göy cisminin hərəkətetdiyi yol. marsın ***i. // süni peyklərin",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 11
+            },
+            {
+                "word": "ORTİT",
+                "explanation": "is. [yun.] radioaktiv mineral",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 12
+            },
+            {
+                "word": "RETRO",
+                "explanation": "is. [ing.] 1. geri qayıtmaq.2. keçmişə uyğunluq",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 13
+            },
+            {
+                "word": "ROBOT",
+                "explanation": "is. [çex.] insana məxsus işləriicra edə bilən avtomat maşın",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 14
+            },
+            {
+                "word": "ROTOR",
+                "explanation": "[lat. rotare – fırlanma] maşının(turbinin",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 15
+            },
+            {
+                "word": "TİBBİ",
+                "explanation": "sif. [ər.] tiblə",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 16
+            },
+            {
+                "word": "TORİT",
+                "explanation": "is. qara",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 17
+            },
+            {
+                "word": "TERROR",
+                "explanation": "[lat. therror – qorxu",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 18
+            },
+            {
+                "word": "DEBİTOR",
+                "explanation": "is. [lat.] müh. borclu (müəssisə",
+                "isPanagram": true,
+                "score": 17,
+                "length": 7,
+                "id": 19
+            }
+        ]
+    }
+}

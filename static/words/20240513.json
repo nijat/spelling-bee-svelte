@@ -1,0 +1,270 @@
+{
+    "gameData": {
+        "day": "20240513",
+        "expiration": "1715644740",
+        "centerLetter": "I",
+        "outerLetters": [
+            "A",
+            "Y",
+            "L",
+            "V",
+            "R",
+            "Ş"
+        ],
+        "words_info": {
+            "word_count": 30,
+            "sum_score": 155,
+            "panagram_count": 1,
+            "word_length": {
+                "7": 5,
+                "5": 12,
+                "4": 7,
+                "9": 2,
+                "6": 3,
+                "8": 1
+            }
+        },
+        "words": [
+            {
+                "word": "ALIŞ",
+                "explanation": "f.is. almaq işi",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "ALLI",
+                "explanation": "sif. köhn. al rəngli paltar geymiş.tərifli gözəllər gəlhagəl oldu; yaşıllı",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "ARLI",
+                "explanation": "sif. həyalı",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "AŞLI",
+                "explanation": "sif. aşa qoyulmuş. *** gön. ***dəri. – aşıq abbas *** çarıqlarını yerə sürtəsürtəmərəkəni süzür",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "AYLI",
+                "explanation": "sif. ay işığı ilə işıqlanmış",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 5
+            },
+            {
+                "word": "LARI",
+                "explanation": "sif. uzunqıçlı",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 6
+            },
+            {
+                "word": "YARI",
+                "explanation": "is. tən bölünmüş iki hissədən biri. eyni ***sı. almanın ***sı. kitabın ***sını oxudum. ömrünün ***sını səhayətdə keçirmişdir",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 7
+            },
+            {
+                "word": "ALALI",
+                "explanation": "sif. alası olan",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 8
+            },
+            {
+                "word": "LAYLI",
+                "explanation": "sif. laylardan ibarət",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 9
+            },
+            {
+                "word": "ŞALLI",
+                "explanation": "sif. başına şal örtmüş",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 10
+            },
+            {
+                "word": "ŞARLI",
+                "explanation": "sif. şarı olan; öz quruluşunda",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 11
+            },
+            {
+                "word": "VARLI",
+                "explanation": "sif. dövlətli",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 12
+            },
+            {
+                "word": "VAYLI",
+                "explanation": "sif. fəlakətli",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 13
+            },
+            {
+                "word": "YALLI",
+                "explanation": "is. bir-birinin əlindən tutaraq dəstəilə oynanılan azərbaycan xalq rəqsi. *** havası.– alaq vuranların mahnıları",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 14
+            },
+            {
+                "word": "YARIŞ",
+                "explanation": "is. bir işdə üstün gəlmək",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 15
+            },
+            {
+                "word": "YARLI",
+                "explanation": "sif. yarı",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 16
+            },
+            {
+                "word": "YAŞIL",
+                "explanation": "sif. 1. yarpaq",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 17
+            },
+            {
+                "word": "YAŞLI",
+                "explanation": "sif. yaşa dolmuş; sinli",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 18
+            },
+            {
+                "word": "YAYLI",
+                "explanation": "sif. yayı olan. *** kürsü. ***oyuncaq. – bu vaxt əhməd *** krovatın üzərindəuzanıb ağır-ağır nəfəs alırdı",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 19
+            },
+            {
+                "word": "ARAYIŞ",
+                "explanation": "is. 1. arama",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 20
+            },
+            {
+                "word": "AVARLI",
+                "explanation": "sif. avarı olan",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 21
+            },
+            {
+                "word": "ŞIRŞIR",
+                "explanation": "təql. 1. is. bir qaydada axan",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 22
+            },
+            {
+                "word": "ALYAŞIL",
+                "explanation": "is. köhn. al-yaşıl rəngli ipəkparça. əziziyəm bizə gəl; al-yaşıl gey",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 23
+            },
+            {
+                "word": "AYRILIŞ",
+                "explanation": "is. ayrılmaq işi",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 24
+            },
+            {
+                "word": "YARARLI",
+                "explanation": "sif. yarayan",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 25
+            },
+            {
+                "word": "YAŞAYIŞ",
+                "explanation": "is. 1. həyat tərzi",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 26
+            },
+            {
+                "word": "YAŞILLI",
+                "explanation": "sif. 1. yaşıl rəngi və ya yaşıl xalları",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 27
+            },
+            {
+                "word": "ALLIŞALLI",
+                "explanation": "sif. məh. al-əlvan. pətəklərdənvə bağçada qoyulan qırmızı rəngliyeşiklərdən arılar dəstə-dəstə çıxır",
+                "isPanagram": false,
+                "score": 9,
+                "length": 9,
+                "id": 28
+            },
+            {
+                "word": "YARIARALI",
+                "explanation": "sif. bir az aralı",
+                "isPanagram": false,
+                "score": 9,
+                "length": 9,
+                "id": 29
+            },
+            {
+                "word": "YALVARIŞ",
+                "explanation": "is. yalvarma",
+                "isPanagram": true,
+                "score": 17,
+                "length": 8,
+                "id": 30
+            }
+        ]
+    }
+}

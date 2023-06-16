@@ -1,0 +1,286 @@
+{
+    "gameData": {
+        "day": "20230824",
+        "expiration": "1692921540",
+        "centerLetter": "I",
+        "outerLetters": [
+            "A",
+            "Ş",
+            "M",
+            "Y",
+            "L",
+            "P"
+        ],
+        "words_info": {
+            "word_count": 32,
+            "sum_score": 177,
+            "panagram_count": 1,
+            "word_length": {
+                "7": 5,
+                "5": 10,
+                "4": 6,
+                "9": 1,
+                "6": 6,
+                "8": 4
+            }
+        },
+        "words": [
+            {
+                "word": "ALIM",
+                "explanation": "is. köhn. 1. alacaq",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "ALIŞ",
+                "explanation": "f.is. almaq işi",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "ALLI",
+                "explanation": "sif. köhn. al rəngli paltar geymiş.tərifli gözəllər gəlhagəl oldu; yaşıllı",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "AŞLI",
+                "explanation": "sif. aşa qoyulmuş. *** gön. ***dəri. – aşıq abbas *** çarıqlarını yerə sürtəsürtəmərəkəni süzür",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "AYLI",
+                "explanation": "sif. ay işığı ilə işıqlanmış",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 5
+            },
+            {
+                "word": "YAPI",
+                "explanation": "is. kit. bina",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 6
+            },
+            {
+                "word": "ALALI",
+                "explanation": "sif. alası olan",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 7
+            },
+            {
+                "word": "LAYLI",
+                "explanation": "sif. laylardan ibarət",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 8
+            },
+            {
+                "word": "MALLI",
+                "explanation": "sif. mal-qarası olan",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 9
+            },
+            {
+                "word": "PAPIŞ",
+                "explanation": "is. [fars.] adətən evdə geyilənyüngül ayaqqabı. // ümumiyyətlə",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 10
+            },
+            {
+                "word": "ŞALLI",
+                "explanation": "sif. başına şal örtmüş",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 11
+            },
+            {
+                "word": "YALLI",
+                "explanation": "is. bir-birinin əlindən tutaraq dəstəilə oynanılan azərbaycan xalq rəqsi. *** havası.– alaq vuranların mahnıları",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 12
+            },
+            {
+                "word": "YAŞIL",
+                "explanation": "sif. 1. yarpaq",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 13
+            },
+            {
+                "word": "YAŞLI",
+                "explanation": "sif. yaşa dolmuş; sinli",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 14
+            },
+            {
+                "word": "YAYIM",
+                "explanation": "is. yaymaq işi",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 15
+            },
+            {
+                "word": "YAYLI",
+                "explanation": "sif. yayı olan. *** kürsü. ***oyuncaq. – bu vaxt əhməd *** krovatın üzərindəuzanıb ağır-ağır nəfəs alırdı",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 16
+            },
+            {
+                "word": "AYILMA",
+                "explanation": "“***q”dan f.is. həkimxəstənin ***sını gözlədi. m.hüseyn",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 17
+            },
+            {
+                "word": "MAAŞLI",
+                "explanation": "sif. 1. maaş alan",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 18
+            },
+            {
+                "word": "MALALI",
+                "explanation": "sif. mala çəkilmiş",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 19
+            },
+            {
+                "word": "MAYALI",
+                "explanation": "sif. 1. maya vurulmuş",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 20
+            },
+            {
+                "word": "ŞAMAYI",
+                "explanation": "is. [fars.] xəzər",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 21
+            },
+            {
+                "word": "YAYLIM",
+                "explanation": "is. mal-qaranın gecə otarılması.çəkirdi ***a sürünü çoban; olurdu qaçaqlaryoluna rəvan. h.k.sanılı",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 22
+            },
+            {
+                "word": "ALYAŞIL",
+                "explanation": "is. köhn. al-yaşıl rəngli ipəkparça. əziziyəm bizə gəl; al-yaşıl gey",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 23
+            },
+            {
+                "word": "YAPILMA",
+                "explanation": "1. “***q”dan f.is.2. sif. qayrılma",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 24
+            },
+            {
+                "word": "YAŞAYIŞ",
+                "explanation": "is. 1. həyat tərzi",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 25
+            },
+            {
+                "word": "YAŞILLI",
+                "explanation": "sif. 1. yaşıl rəngi və ya yaşıl xalları",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 26
+            },
+            {
+                "word": "YAYLIMI",
+                "explanation": "sif. yaylımla atılan. □ ***güllə – çovumuş (sovuşan",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 27
+            },
+            {
+                "word": "ŞLYAPALI",
+                "explanation": "sif. başında şlyapa olan",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 28
+            },
+            {
+                "word": "YAMYAŞIL",
+                "explanation": "sif. tamamilə yaşıl",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 29
+            },
+            {
+                "word": "YAYILMIŞ",
+                "explanation": "is. yayılmaq işi",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 30
+            },
+            {
+                "word": "ALLIŞALLI",
+                "explanation": "sif. məh. al-əlvan. pətəklərdənvə bağçada qoyulan qırmızı rəngliyeşiklərdən arılar dəstə-dəstə çıxır",
+                "isPanagram": false,
+                "score": 9,
+                "length": 9,
+                "id": 31
+            },
+            {
+                "word": "YAPILMIŞ",
+                "explanation": "f.sif. 1. bişmək üçün təndirindivarına yapışdırılmış (çörək).2. qayrılmış",
+                "isPanagram": true,
+                "score": 17,
+                "length": 8,
+                "id": 32
+            }
+        ]
+    }
+}

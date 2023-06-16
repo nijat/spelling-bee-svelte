@@ -1,0 +1,205 @@
+{
+    "gameData": {
+        "day": "20231104",
+        "expiration": "1699142340",
+        "centerLetter": "I",
+        "outerLetters": [
+            "S",
+            "A",
+            "M",
+            "Ə",
+            "D",
+            "L"
+        ],
+        "words_info": {
+            "word_count": 22,
+            "sum_score": 117,
+            "panagram_count": 1,
+            "word_length": {
+                "6": 4,
+                "5": 8,
+                "7": 4,
+                "4": 5,
+                "10": 1
+            }
+        },
+        "words": [
+            {
+                "word": "ADLI",
+                "explanation": "sif. 1. müəyyən adı olan",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "ALIM",
+                "explanation": "is. köhn. 1. alacaq",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "ALLI",
+                "explanation": "sif. köhn. al rəngli paltar geymiş.tərifli gözəllər gəlhagəl oldu; yaşıllı",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "SALI",
+                "explanation": "is. həftənin ikinci günü",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "SAMI",
+                "explanation": "is. boyunduruğun hər iki ucundakıqoşa deşiklərə salınan nazik ağac. [salmanəmi] arabaçının *** qayırmaq üçün ağacaxtardığını bilib sakit oldu",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 5
+            },
+            {
+                "word": "ADDIM",
+                "explanation": "is. 1. yeriyərkən ayağın qaldırılıb irəli atılmasından ibarət hərəkət; qədəm. ağır ***. iri ***. *** səsi eşitmək",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 6
+            },
+            {
+                "word": "ALALI",
+                "explanation": "sif. alası olan",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 7
+            },
+            {
+                "word": "ASILI",
+                "explanation": "sif. 1. asılmış halda olan",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 8
+            },
+            {
+                "word": "DADLI",
+                "explanation": "1. sif. yaxşı dadı olan",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 9
+            },
+            {
+                "word": "DALLI",
+                "explanation": "sif. dalları (budaqları) olan. ***ağac",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 10
+            },
+            {
+                "word": "ƏDALI",
+                "explanation": "sif. 1. ədası olan",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 11
+            },
+            {
+                "word": "ƏSALI",
+                "explanation": "sif. əlində əsa olan. anamdır",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 12
+            },
+            {
+                "word": "MALLI",
+                "explanation": "sif. mal-qarası olan",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 13
+            },
+            {
+                "word": "ADAMLI",
+                "explanation": "sif. dan. yaxın adamı",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 14
+            },
+            {
+                "word": "DAMALI",
+                "explanation": "sif. üzərində damalar olan",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 15
+            },
+            {
+                "word": "ƏSASLI",
+                "explanation": "sif. 1. əsası",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 16
+            },
+            {
+                "word": "MALALI",
+                "explanation": "sif. mala çəkilmiş",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 17
+            },
+            {
+                "word": "ADDIMLI",
+                "explanation": "sif. yeriyərkən iri addım atan",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 18
+            },
+            {
+                "word": "DADMALI",
+                "explanation": "1. is. yeməli",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 19
+            },
+            {
+                "word": "MƏLALLI",
+                "explanation": "sif. qəmli",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 20
+            },
+            {
+                "word": "DADLIDADLI",
+                "explanation": "1) sif. ləzzətli-ləzzətli",
+                "isPanagram": false,
+                "score": 10,
+                "length": 10,
+                "id": 21
+            },
+            {
+                "word": "DƏSMALI",
+                "explanation": "is. mus. dəsmal ilə oynanılanazərbaycan oyun havalarından birinin adı.“***” da azərbaycanlıların sevimli rəqsidir",
+                "isPanagram": true,
+                "score": 17,
+                "length": 7,
+                "id": 22
+            }
+        ]
+    }
+}

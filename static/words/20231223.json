@@ -1,0 +1,398 @@
+{
+    "gameData": {
+        "day": "20231223",
+        "expiration": "1703375940",
+        "centerLetter": "L",
+        "outerLetters": [
+            "A",
+            "T",
+            "Ə",
+            "İ",
+            "Y",
+            "V"
+        ],
+        "words_info": {
+            "word_count": 46,
+            "sum_score": 214,
+            "panagram_count": 3,
+            "word_length": {
+                "4": 18,
+                "6": 11,
+                "7": 4,
+                "5": 10,
+                "9": 1,
+                "8": 2
+            }
+        },
+        "words": [
+            {
+                "word": "AİLƏ",
+                "explanation": "is. [ər.] 1. ata-anadan",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "ALAY",
+                "explanation": "is. 1. camaat",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "ALƏT",
+                "explanation": "is. [ər.] 1. bir iş görmək",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "ATİL",
+                "explanation": "sif. [ər.] tənbəl",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "ƏLİL",
+                "explanation": "is. və sif. xəstəlik və ya qocalıqnəticəsində əmək qabiliyyətini itirmiş;şikəst. ***lər cəmiyyəti",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 5
+            },
+            {
+                "word": "ƏLLİ",
+                "explanation": "sif. 1. əli olan. iri *** adam. 2. məc. qolu güclü",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 6
+            },
+            {
+                "word": "ƏTLİ",
+                "explanation": "sif. 1. ətcə dolğun; kök",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 7
+            },
+            {
+                "word": "ƏYAL",
+                "explanation": "is. [ər.] köhn. 1. ailə",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 8
+            },
+            {
+                "word": "LALƏ",
+                "explanation": "is. [fars.] 1. bot. iriləçəkli qırmızıçiçəkləri olan bitki və bu bitkinin çiçəyi. bitərçəməndə ***lər",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 9
+            },
+            {
+                "word": "LAVA",
+                "explanation": "[ital.] 1. vulkanın ağzından çıxanərgin odlu kütlə.2. məc. böyük kütlə halında sürətlə hərəkətedən şey haqqında; izdiham",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 10
+            },
+            {
+                "word": "LƏLƏ",
+                "explanation": "is. 1. keçmişdə kübar və varlı ai***rdəoğlan uşağının tərbiyəsilə məşğul olanadam. [qətibə xanım:] səba xanım",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 11
+            },
+            {
+                "word": "TALA",
+                "explanation": "is. meşədə ağacsız",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 12
+            },
+            {
+                "word": "TƏLƏ",
+                "explanation": "is. vəhşi və ov heyvanlarını və yaquşları",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 13
+            },
+            {
+                "word": "TƏLL",
+                "explanation": "is. uzun təpə. [bəxtiyar] gözünüaçanda gördü",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 14
+            },
+            {
+                "word": "VALA",
+                "explanation": "sif. [fars.] klas. yüksək",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 15
+            },
+            {
+                "word": "VALİ",
+                "explanation": "is. [ər.] 1. keçmişdə: vilayət hakimi",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 16
+            },
+            {
+                "word": "VƏLƏ",
+                "explanation": "is. məh. bir yaba dolusu",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 17
+            },
+            {
+                "word": "VƏLİ",
+                "explanation": "is. [ər.] 1. hami",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 18
+            },
+            {
+                "word": "ALİYƏ",
+                "explanation": "sif. [ər.] klas. uca",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 19
+            },
+            {
+                "word": "ƏLAVƏ",
+                "explanation": "[ər.] 1. sif. əsas şeyin üstünə artırılan;üstəlik. *** xərc. *** seans. bugün iki *** dərs oxuduq",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 20
+            },
+            {
+                "word": "ƏVVƏL",
+                "explanation": "zərf [ər.] 1. ilk dəfə",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 21
+            },
+            {
+                "word": "LAYLA",
+                "explanation": "is. 1. körpə uşaqları yatırtmaq üçün hava ilə oxunan həzin şeir parçası; nənni",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 22
+            },
+            {
+                "word": "LİLLİ",
+                "explanation": "sif. lehməli",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 23
+            },
+            {
+                "word": "TƏLƏT",
+                "explanation": "is. [ər.] 1. üz",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 24
+            },
+            {
+                "word": "TƏTİL",
+                "explanation": "is. [ər.] 1. işin kütləvi və mütəşəkkilsurətdə dayandırılması. aprelin iyirmi doqquzundabaşlanan xırda ***lər iyulun ikisindənümumi *** şəklini",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 25
+            },
+            {
+                "word": "VİLLA",
+                "explanation": "[lat.] şəhər kənarında bağ-bağatiçərisində qəşəng ev; köşk. burada çox gözəl***lar tikilmiş",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 26
+            },
+            {
+                "word": "YAYLA",
+                "explanation": "is. 1. ***q. [molla həmid:]allaha şükür",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 27
+            },
+            {
+                "word": "YİVLİ",
+                "explanation": "sif. yivi olan",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 28
+            },
+            {
+                "word": "AİLƏLİ",
+                "explanation": "sif. ailəsi olan",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 29
+            },
+            {
+                "word": "AİLƏVİ",
+                "explanation": "sif. [ər.] ailəyə mənsub",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 30
+            },
+            {
+                "word": "ƏLİİTİ",
+                "explanation": "sif. əldən çapıq; zirək",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 31
+            },
+            {
+                "word": "ƏTALƏT",
+                "explanation": "is. [ər.] hərəkətsizlik",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 32
+            },
+            {
+                "word": "ƏVAYİL",
+                "explanation": "zərf [ər. “əvvəl” söz. cəmi]klas. əvvəllər",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 33
+            },
+            {
+                "word": "ƏVVƏLA",
+                "explanation": "ara s. [ər.] birincisi",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 34
+            },
+            {
+                "word": "ƏYALƏT",
+                "explanation": "is. [ər.] 1. tar. bir valinin idarəsialtında olan ölkə. həmədan ilə bağdad",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 35
+            },
+            {
+                "word": "LALƏLİ",
+                "explanation": "sif. lalə bitmiş",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 36
+            },
+            {
+                "word": "LAYLAY",
+                "explanation": "is. 1. körpə uşaqları yatırtmaq üçün hava ilə oxunan həzin şeir parçası; nənni",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 37
+            },
+            {
+                "word": "TİTƏLİ",
+                "explanation": "sif. titəsi olan",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 38
+            },
+            {
+                "word": "YİYƏLİ",
+                "explanation": "sif. yiyəsi",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 39
+            },
+            {
+                "word": "ALATALA",
+                "explanation": "sif. tala-tala",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 40
+            },
+            {
+                "word": "TİLAVƏT",
+                "explanation": "is. [ər.] quranı avazla oxumaq",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 41
+            },
+            {
+                "word": "VƏLVƏLƏ",
+                "explanation": "is. səs-küy",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 42
+            },
+            {
+                "word": "ƏTALƏTLİ",
+                "explanation": "sif. 1. hərəkətsiz",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 43
+            },
+            {
+                "word": "ATƏVƏLİYİ",
+                "explanation": "is. bot. çoxillik bir bitki. *** çoxillik bitki olub yerüstü gövdəsinin uzunluğu 1",
+                "isPanagram": true,
+                "score": 17,
+                "length": 9,
+                "id": 44
+            },
+            {
+                "word": "VİLAYƏT",
+                "explanation": "is. [ər.] 1. böyük inzibati ərazibölgüsü. dağlıq qarabağ muxtar ***i.2. ölkə",
+                "isPanagram": true,
+                "score": 17,
+                "length": 7,
+                "id": 45
+            },
+            {
+                "word": "VİLAYƏTİ",
+                "explanation": "is. [ər.] mus. azərbaycanklassik muğamlarının bəzilərinin tərkibindəolan əsas şöbələrdən birinin adı",
+                "isPanagram": true,
+                "score": 17,
+                "length": 8,
+                "id": 46
+            }
+        ]
+    }
+}

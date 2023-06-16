@@ -1,0 +1,326 @@
+{
+    "gameData": {
+        "day": "20240314",
+        "expiration": "1710460740",
+        "centerLetter": "D",
+        "outerLetters": [
+            "İ",
+            "Y",
+            "S",
+            "Z",
+            "Ə",
+            "R"
+        ],
+        "words_info": {
+            "word_count": 37,
+            "sum_score": 151,
+            "panagram_count": 1,
+            "word_length": {
+                "4": 18,
+                "7": 7,
+                "8": 3,
+                "5": 6,
+                "6": 2,
+                "9": 1
+            }
+        },
+        "words": [
+            {
+                "word": "DƏDƏ",
+                "explanation": "is. 1. ata. *** görməyib",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "DƏRD",
+                "explanation": "is. [fars.] 1. qəm",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "DƏRƏ",
+                "explanation": "is. 1. iki dağ və ya təpə arasında",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "DƏRİ",
+                "explanation": "is. 1. insan və heyvanın bədənininüstünü örtən mikroskopik məsaməli ət örtüyü.qolumun ***si soyulub",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "DƏRS",
+                "explanation": "is. [ər.] 1. müəyyən bir fənni öyrənmək üçün daimi",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 5
+            },
+            {
+                "word": "DƏRZ",
+                "explanation": "is. biçilmiş taxıl bağlaması. *** qalağı. *** bağlamaq. – …***lər bağlanır",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 6
+            },
+            {
+                "word": "DƏYƏ",
+                "explanation": "is. qarğıdan və s.-dən düzəldilmişkomacıq; alaçıq",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 7
+            },
+            {
+                "word": "DİDƏ",
+                "explanation": "is. [fars.] klas. göz. gər inanmazsan ki",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 8
+            },
+            {
+                "word": "DİRİ",
+                "explanation": "sif. 1. canı olan",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 9
+            },
+            {
+                "word": "DİYƏ",
+                "explanation": "is. [ər.] köhn. keçmiş zamanda: öldürülmüşadam və ya heyvan əvəzinə öldürəninverməli olduğu mal və ya pul; qanbahası",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 10
+            },
+            {
+                "word": "ƏDƏD",
+                "explanation": "is. [ər.] 1. say",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 11
+            },
+            {
+                "word": "RƏDD",
+                "explanation": "is. [ər.] qəbul etməmə",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 12
+            },
+            {
+                "word": "SƏDD",
+                "explanation": "is. [ər.] 1. müxtəlif məqsədlər üçünçəkilən divar",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 13
+            },
+            {
+                "word": "SƏDR",
+                "explanation": "is. [ər.] 1. iclasa",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 14
+            },
+            {
+                "word": "SİDR",
+                "explanation": "is. [ər.] bot. ucaboylu",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 15
+            },
+            {
+                "word": "ZƏDƏ",
+                "explanation": "is. [fars.] 1. toxunmaq",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 16
+            },
+            {
+                "word": "ZƏRD",
+                "explanation": "sif. [fars.] klas. sarı. əşkimi",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 17
+            },
+            {
+                "word": "ZİDD",
+                "explanation": "[ər.] sif. tamamilə başqasına əks olan",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 18
+            },
+            {
+                "word": "DƏRZİ",
+                "explanation": "is. paltar biçib-tikən usta. ***şagirdi. uşaq ***si. – ***yə köç dedilər",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 19
+            },
+            {
+                "word": "DƏYƏR",
+                "explanation": "is. 1. qiymət",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 20
+            },
+            {
+                "word": "ƏDƏDİ",
+                "explanation": "sif. [ər.] riyaz. ədədlərlə ifadəolunan. *** kəmiyyət. ədəbi nisbət. –diferensial tənlikləri təqribi həll etmək üçünmüxtəlif qrafik və *** meto",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 21
+            },
+            {
+                "word": "ƏDƏSƏ",
+                "explanation": "is. [ər.] 1. mərcimək dənəsi.2. gözlük",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 22
+            },
+            {
+                "word": "SƏDRİ",
+                "explanation": "is. [ər.] uzun",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 23
+            },
+            {
+                "word": "ZƏRDƏ",
+                "explanation": "is. məh. yerkökü",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 24
+            },
+            {
+                "word": "DƏSİSƏ",
+                "explanation": "is. [ər.] hiylə",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 25
+            },
+            {
+                "word": "YƏZİDİ",
+                "explanation": "is. [ər.] yaxın şərqdə əsasənkürdlər arasında yayılmış bir məzhəb (***lərdünyanın yaradılmasında iblisi allahaşərik tutur və getdikcə iblisin qü",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 26
+            },
+            {
+                "word": "DƏDƏSİZ",
+                "explanation": "sif. və is. atasız. əziziyəm təndirə;odun qala təndirə; ***in nə həddi;dədəliyə tən dura? (bayatı)",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 27
+            },
+            {
+                "word": "DƏRDSƏR",
+                "explanation": "is. [fars.] klas. başağrısı",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 28
+            },
+            {
+                "word": "DƏRDSİZ",
+                "explanation": "sif. və is. heç bir dərdi",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 29
+            },
+            {
+                "word": "DƏRSSİZ",
+                "explanation": "sif. dan. elmsiz",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 30
+            },
+            {
+                "word": "ƏDƏDSİZ",
+                "explanation": "sif. saysız-hesabsız",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 31
+            },
+            {
+                "word": "ƏSRDİDƏ",
+                "explanation": "sif. [ər. əsr və fars. …didə]qoca",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 32
+            },
+            {
+                "word": "ZƏDƏSİZ",
+                "explanation": "sif. zədəsi",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 33
+            },
+            {
+                "word": "DƏRDƏSƏR",
+                "explanation": "is. [fars.] başağrısı",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 34
+            },
+            {
+                "word": "DƏRDİSƏR",
+                "explanation": "is. [fars.] klas. başağrısı",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 35
+            },
+            {
+                "word": "ZƏRƏRDİDƏ",
+                "explanation": "sif. [ər. zərər və fars. …didə]bir hadisə",
+                "isPanagram": false,
+                "score": 9,
+                "length": 9,
+                "id": 36
+            },
+            {
+                "word": "DƏYƏRSİZ",
+                "explanation": "sif. 1. heç bir dəyəri",
+                "isPanagram": true,
+                "score": 17,
+                "length": 8,
+                "id": 37
+            }
+        ]
+    }
+}

@@ -1,0 +1,181 @@
+{
+    "gameData": {
+        "day": "20240310",
+        "expiration": "1710115140",
+        "centerLetter": "İ",
+        "outerLetters": [
+            "A",
+            "I",
+            "Ç",
+            "L",
+            "Q",
+            "Ə"
+        ],
+        "words_info": {
+            "word_count": 19,
+            "sum_score": 86,
+            "panagram_count": 2,
+            "word_length": {
+                "4": 10,
+                "6": 3,
+                "5": 2,
+                "7": 3,
+                "10": 1
+            }
+        },
+        "words": [
+            {
+                "word": "AİLƏ",
+                "explanation": "is. [ər.] 1. ata-anadan",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "AQİL",
+                "explanation": "sif. [ər.] ağıllı",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "ÇİÇƏ",
+                "explanation": "sif. saf",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "ÇİLƏ",
+                "explanation": "is. 1. kotanın bıçaq",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "ƏQİQ",
+                "explanation": "is. [ər.] müxtəlif rənglərə çalanlaylardan ibarət olan",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 5
+            },
+            {
+                "word": "ƏQLİ",
+                "explanation": "sif. [ər.] ağıla əsaslanan",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 6
+            },
+            {
+                "word": "ƏLİL",
+                "explanation": "is. və sif. xəstəlik və ya qocalıqnəticəsində əmək qabiliyyətini itirmiş;şikəst. ***lər cəmiyyəti",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 7
+            },
+            {
+                "word": "ƏLLİ",
+                "explanation": "sif. 1. əli olan. iri *** adam. 2. məc. qolu güclü",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 8
+            },
+            {
+                "word": "QAİL",
+                "explanation": "[ər.] köhn. inanan",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 9
+            },
+            {
+                "word": "LİQA",
+                "explanation": "is. [ər.] klas. üz",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 10
+            },
+            {
+                "word": "ÇİLLƏ",
+                "explanation": "is. 1. doğuşdan",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 11
+            },
+            {
+                "word": "LİLLİ",
+                "explanation": "sif. lehməli",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 12
+            },
+            {
+                "word": "AİLƏLİ",
+                "explanation": "sif. ailəsi olan",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 13
+            },
+            {
+                "word": "ÇİLÇİL",
+                "explanation": "sif. çoxlu çili olan",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 14
+            },
+            {
+                "word": "LALƏLİ",
+                "explanation": "sif. lalə bitmiş",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 15
+            },
+            {
+                "word": "ƏLAQƏÇİ",
+                "explanation": "is. qoşun hissələrində əlaqəxidməti görən əsgər və ya zabit",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 16
+            },
+            {
+                "word": "ƏLAQƏLİ",
+                "explanation": "sif. 1. əlaqəsi olan",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 17
+            },
+            {
+                "word": "ƏLİAÇIQ",
+                "explanation": "sif. ürəkdən başqalarına pul",
+                "isPanagram": true,
+                "score": 17,
+                "length": 7,
+                "id": 18
+            },
+            {
+                "word": "ƏLİAÇIQLIQ",
+                "explanation": "is. əliaçıq adamın hal vəsifəti; səxavətlilik",
+                "isPanagram": true,
+                "score": 17,
+                "length": 10,
+                "id": 19
+            }
+        ]
+    }
+}

@@ -1,0 +1,220 @@
+{
+    "gameData": {
+        "day": "20231021",
+        "expiration": "1697932740",
+        "centerLetter": "R",
+        "outerLetters": [
+            "İ",
+            "Ə",
+            "Z",
+            "F",
+            "Y",
+            "U"
+        ],
+        "words_info": {
+            "word_count": 24,
+            "sum_score": 93,
+            "panagram_count": 1,
+            "word_length": {
+                "4": 12,
+                "5": 6,
+                "8": 3,
+                "6": 3
+            }
+        },
+        "words": [
+            {
+                "word": "ƏRƏR",
+                "explanation": "is. [ər.] ardıc ağacı. qəddintəknə ər-ər",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "ƏRRƏ",
+                "explanation": "is. [fars.] ikidəstəli iri mişar",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "ƏRUZ",
+                "explanation": "is. [ər.] 1. şeir vəznlərindən(ölçülərindən) bəhs edən elm. *** elmi.2. ritmik hecalardan",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "ƏYRİ",
+                "explanation": "sif. 1. düz istiqamətdə olmayan",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "FƏRƏ",
+                "explanation": "is. cavan toyuq (kəklik). çil ***.– şəhərdən gətirdiyim toyuğumun balalarıböyümüş",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 5
+            },
+            {
+                "word": "FƏRZ",
+                "explanation": "is. [ər.] 1. güman",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 6
+            },
+            {
+                "word": "FRİZ",
+                "explanation": "is. [fr.] arxit. ornamentli bəzək",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 7
+            },
+            {
+                "word": "RƏZƏ",
+                "explanation": "is. dan. cəftə. ***ni bağlamaq. –qəsrin qalın taxta qapısı ***sindən qopubayaq altına düşmüşdü. m",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 8
+            },
+            {
+                "word": "RİZƏ",
+                "explanation": "is. [fars.] tikə",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 9
+            },
+            {
+                "word": "RUZİ",
+                "explanation": "is. [fars.] azuqə",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 10
+            },
+            {
+                "word": "ZƏRF",
+                "explanation": "is. [ər.] 1. içərisinə məktub və yabaşqa kağız qoyub başqa yerə göndərməküçün xüsusi biçimli kağız qab; konvert",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 11
+            },
+            {
+                "word": "ZİRƏ",
+                "explanation": "is. bot. çətirçiçəklilər fəsiləsindəniki və ya çoxillik ot cinsi və həmin bitkininədviyyat kimi xəmirə və s",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 12
+            },
+            {
+                "word": "ƏRƏFƏ",
+                "explanation": "is. [ər.] bayramdan əvvəlki gün",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 13
+            },
+            {
+                "word": "ƏRİZƏ",
+                "explanation": "is. [ər.] rəs. bir arzu və ya xahişifadə edən məktub",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 14
+            },
+            {
+                "word": "ZƏFƏR",
+                "explanation": "is. [ər.] tənt. qalibiyyət",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 15
+            },
+            {
+                "word": "ZƏRƏR",
+                "explanation": "is. [ər.] ziyan. bunun xeyri var ki",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 16
+            },
+            {
+                "word": "ZƏRİF",
+                "explanation": "sif. [ər.] 1. incə. *** çiçəklər.*** əl. *** yun. – [əbdüləli bəy:] qadınvücudu *** (z.) yaranmışdır",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 17
+            },
+            {
+                "word": "ZƏRRƏ",
+                "explanation": "is. [ər.] bir şeyin ən kiçik hissəsi. [qəhrəman:] kənarda şiddətlə əsən qış ruzgarı birqat pəncərələri yumruqlayır",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 18
+            },
+            {
+                "word": "FİRUZƏ",
+                "explanation": "is. [fars.] 1. göy rəngli qiymətlidaş. *** yataqları. – sarı dağınətəyindəki yaşıl meşə altun üzərinə nəsbolunmuş ***ni andırırdı",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 19
+            },
+            {
+                "word": "ZƏRURİ",
+                "explanation": "[ər.] 1. sif. ən lazımlı",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 20
+            },
+            {
+                "word": "ZƏRZƏR",
+                "explanation": "is. [fars.] zərlə toxunmuş parça",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 21
+            },
+            {
+                "word": "FƏRZİYYƏ",
+                "explanation": "is. [ər.] bir şey haqqındatəxmini mülahizə; güman",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 22
+            },
+            {
+                "word": "RİZƏRİZƏ",
+                "explanation": "sif. və zərf parça-parça",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 23
+            },
+            {
+                "word": "FİRUZƏYİ",
+                "explanation": "sif. [fars.] firuzə rəngindəolan; göy",
+                "isPanagram": true,
+                "score": 17,
+                "length": 8,
+                "id": 24
+            }
+        ]
+    }
+}

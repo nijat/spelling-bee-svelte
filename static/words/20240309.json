@@ -1,0 +1,334 @@
+{
+    "gameData": {
+        "day": "20240309",
+        "expiration": "1710028740",
+        "centerLetter": "L",
+        "outerLetters": [
+            "A",
+            "İ",
+            "K",
+            "Q",
+            "U",
+            "D"
+        ],
+        "words_info": {
+            "word_count": 38,
+            "sum_score": 190,
+            "panagram_count": 1,
+            "word_length": {
+                "4": 10,
+                "6": 7,
+                "7": 5,
+                "5": 12,
+                "8": 3,
+                "10": 1
+            }
+        },
+        "words": [
+            {
+                "word": "ADİL",
+                "explanation": "sif. [ər.] ədalətli",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "AQİL",
+                "explanation": "sif. [ər.] ağıllı",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "ALAQ",
+                "explanation": "is. tarlada",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "KALA",
+                "explanation": "is. məh. böyük şüşə qab",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "KULA",
+                "explanation": "is. məh. odun",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 5
+            },
+            {
+                "word": "QAİL",
+                "explanation": "[ər.] köhn. inanan",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 6
+            },
+            {
+                "word": "QALA",
+                "explanation": "is. [ər.] 1. uzun müddət içində qapanıbdüşmənə müqavimət göstərmək üçünmöhkəm müdafiə tikililəri və vasitələri olanistehkam (məntəqə)",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 7
+            },
+            {
+                "word": "QULA",
+                "explanation": "is. məh. açıq-sarı rəngli at. ***madyan",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 8
+            },
+            {
+                "word": "LİQA",
+                "explanation": "is. [ər.] klas. üz",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 9
+            },
+            {
+                "word": "ULAQ",
+                "explanation": "is. yük və ya minik heyvanı. ***larıo tərəfdəki otluğa buraxıb gələn yusifatasının yanında durdu. ə",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 10
+            },
+            {
+                "word": "DALAQ",
+                "explanation": "is. anat. qarın boşluğunun soltərəfində olub qan kürəcikləri hazırlayan vəbu proseslə bağlı başqa mürəkkəb vəzifələrgörən bədən üzvü",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 11
+            },
+            {
+                "word": "DALDA",
+                "explanation": "1. sif. sığınmağa və ya gizlənməyəyarayan. *** yer. *** divar.– kosa boşalmış küçənin *** yeri ilə yeriyibat tövlələrinin yanına çatdı",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 12
+            },
+            {
+                "word": "DİKLİ",
+                "explanation": "sif. diki",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 13
+            },
+            {
+                "word": "DİLİK",
+                "explanation": "is. 1. nəyinsə uzunsov hissəsi.2. köhn. bəzək",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 14
+            },
+            {
+                "word": "DİLLİ",
+                "explanation": "sif. 1. ağzında dili olan. // danışa bilən",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 15
+            },
+            {
+                "word": "KALKA",
+                "explanation": "[fr.] 1. çertyojlardan",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 16
+            },
+            {
+                "word": "KİLİD",
+                "explanation": "is. [fars.] 1. qıfıl. asma ***. – siyirmə***lər biləkdən yoğun; asılmış qıfıllarbuğunbəbuğun. h",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 17
+            },
+            {
+                "word": "QALAQ",
+                "explanation": "is. bir yerə qalanmış",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 18
+            },
+            {
+                "word": "QULAQ",
+                "explanation": "is. 1. insan və heyvanlarda eşitməorqanı. qulağı ağrımaq. *** həkimi.– nəvəsi onun … burnundan",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 19
+            },
+            {
+                "word": "LİLLİ",
+                "explanation": "sif. lehməli",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 20
+            },
+            {
+                "word": "UDLAQ",
+                "explanation": "is. anat. həzm cihazının bir hissəsi– ağız boşluğunu qida borusu ilə birləşdirənəzələ borusu. çeynənmiş və ağız suyuilə islanmış qida *** və qida",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 21
+            },
+            {
+                "word": "UKLAD",
+                "explanation": "is. quruluş",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 22
+            },
+            {
+                "word": "ADİLİK",
+                "explanation": "is. 1. adi şeyin halı. qız etirazetdi: – söhbətlərimizdə *** yoxdur.m.s.ordubadi.2. bəsitlik",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 23
+            },
+            {
+                "word": "DİKİLİ",
+                "explanation": "sif. dik halda olan",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 24
+            },
+            {
+                "word": "DİKLİK",
+                "explanation": "is. 1. dik şeyin halı",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 25
+            },
+            {
+                "word": "DULLUQ",
+                "explanation": "is. dul olma",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 26
+            },
+            {
+                "word": "QUQULU",
+                "explanation": "is. məh. 1. bütöv çıxarılmış qoz içi",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 27
+            },
+            {
+                "word": "QULLUQ",
+                "explanation": "is. 1. xidmət",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 28
+            },
+            {
+                "word": "ULULUQ",
+                "explanation": "is. böyüklük",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 29
+            },
+            {
+                "word": "ADİLLİK",
+                "explanation": "is. ədalətlilik",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 30
+            },
+            {
+                "word": "DİLİKLİ",
+                "explanation": "sif. diliyi",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 31
+            },
+            {
+                "word": "KİLİDLİ",
+                "explanation": "sif. kilid vurulmuş",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 32
+            },
+            {
+                "word": "QAİLLİK",
+                "explanation": "is. inam",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 33
+            },
+            {
+                "word": "QUQQULU",
+                "explanation": "is. məh. 1. bütöv çıxarılmış qoz içi",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 34
+            },
+            {
+                "word": "DİLLİLİK",
+                "explanation": "is. dilli adamın xassəsi",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 35
+            },
+            {
+                "word": "LİLLİLİK",
+                "explanation": "is. lilli olma; lehməlilik",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 36
+            },
+            {
+                "word": "DİLİKDİLİK",
+                "explanation": "sif. 1. kənarı diliklər şəklindəolan. kənarı dilik-dilik süfrə.2. tikə-tikə",
+                "isPanagram": false,
+                "score": 10,
+                "length": 10,
+                "id": 37
+            },
+            {
+                "word": "DİKQULAQ",
+                "explanation": "sif. qulaqları dik duran. ***it",
+                "isPanagram": true,
+                "score": 17,
+                "length": 8,
+                "id": 38
+            }
+        ]
+    }
+}

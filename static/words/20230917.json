@@ -1,0 +1,377 @@
+{
+    "gameData": {
+        "day": "20230917",
+        "expiration": "1694995140",
+        "centerLetter": "İ",
+        "outerLetters": [
+            "E",
+            "K",
+            "T",
+            "O",
+            "R",
+            "L"
+        ],
+        "words_info": {
+            "word_count": 43,
+            "sum_score": 235,
+            "panagram_count": 1,
+            "word_length": {
+                "8": 4,
+                "11": 1,
+                "10": 1,
+                "12": 1,
+                "4": 10,
+                "5": 12,
+                "6": 7,
+                "7": 5,
+                "9": 2
+            }
+        },
+        "words": [
+            {
+                "word": "ELİT",
+                "explanation": "[fr.] k.t. 1. bitki və heyvanların ən seçmə",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "ELLİ",
+                "explanation": "sif. 1 vətəni",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "ELTİ",
+                "explanation": "is. qardaş arvadlarının bir-birinəolan qohumluq münasibəti",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "KİLO",
+                "explanation": "[fr.] ölçü sistemində min kiçik vahidi ifadə edən mürəkkəb adların birinci hissəsi; məs.: ***qram",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "KİRT",
+                "explanation": "is. dəridə əmələ gələn qırış",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 5
+            },
+            {
+                "word": "LİTR",
+                "explanation": "[fr. ***e] 1000 kub santimetrə bərabər maye ölçüsü. bir *** süd",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 6
+            },
+            {
+                "word": "TİRE",
+                "explanation": "[fr.] 1. uzun üfüqi xətt (–) şəklindədurğu işarəsi.2. morze əlifbasında belə işarə",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 7
+            },
+            {
+                "word": "TİTR",
+                "explanation": "[fr.] 1. kinolentdə yazı",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 8
+            },
+            {
+                "word": "TORİ",
+                "explanation": "is. [ing.] ingiltərədə mühafizəkar siyasipartiya",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 9
+            },
+            {
+                "word": "TRİO",
+                "explanation": "[ital.] 1. hər birinin müstəqil partiyalarıolan üç alət və ya üç səs üçün yazılmışmusiqi əsəri. çaykovskinin ***su",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 10
+            },
+            {
+                "word": "ELLİK",
+                "explanation": "1. sif. bir yerin bütün camaatına",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 11
+            },
+            {
+                "word": "KİRKİ",
+                "explanation": "1 is. xüs. xalça toxunarkən ilməklərini sıxlaşdırmaq üçün işlədilən alət; daraq",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 12
+            },
+            {
+                "word": "KİRLİ",
+                "explanation": "sif. kir tutmuş",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 13
+            },
+            {
+                "word": "LİLLİ",
+                "explanation": "sif. lehməli",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 14
+            },
+            {
+                "word": "LİRİK",
+                "explanation": "sif. [yun.] 1. ***a xüsusiyyətləriolan",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 15
+            },
+            {
+                "word": "LİTER",
+                "explanation": "[lat. lit(t)era – hərf] 1. dəmir yolu və bəzi başqa nəqliyyat vasitələrində pulsuz və ya güzəştlə getmək üçün (müəyyən hərflə işarə olunmuş) sənəd",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 16
+            },
+            {
+                "word": "ORTİT",
+                "explanation": "is. [yun.] radioaktiv mineral",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 17
+            },
+            {
+                "word": "ROLİK",
+                "explanation": "is. [rus. əsli alm.] 1. balaca metaldiyircək",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 18
+            },
+            {
+                "word": "TELLİ",
+                "explanation": "sif. telləri olan; tellərini alnına tökmüş;saçlı",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 19
+            },
+            {
+                "word": "TİRLİ",
+                "explanation": "sif. tiri (tirləri) olan",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 20
+            },
+            {
+                "word": "TORİT",
+                "explanation": "is. qara",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 21
+            },
+            {
+                "word": "TRİKO",
+                "explanation": "[fr.] 1. üst paltar üçün naxışlı yunparça. kostyumluq ***. – məktəbə açıqsumağı***dan qəşəng kostyum geymiş bircavan gəlirdi",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 22
+            },
+            {
+                "word": "EROTİK",
+                "explanation": "sif. [yun.] ***aya aid",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 23
+            },
+            {
+                "word": "ETİKET",
+                "explanation": "[fr.] malın",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 24
+            },
+            {
+                "word": "KİRKİT",
+                "explanation": "1 is. xüs. xalça toxunarkən ilməklərini sıxlaşdırmaq üçün işlədilən alət; daraq",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 25
+            },
+            {
+                "word": "KİRLİK",
+                "explanation": "is. bir şeyin çirklənməməsi üçünonun üzərinə çəkilən parça. // döşlük",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 26
+            },
+            {
+                "word": "KİRTİK",
+                "explanation": "is. bayt. atın axsamasına səbəbolan azar. at *** olmuşdur",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 27
+            },
+            {
+                "word": "RELİKT",
+                "explanation": "is. [lat. relictum – qalıq] çoxqədim dövrlərin qalığı olan şey",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 28
+            },
+            {
+                "word": "TİKİLİ",
+                "explanation": "is. bina",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 29
+            },
+            {
+                "word": "KOLİTLİ",
+                "explanation": "sif. koliti olan",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 30
+            },
+            {
+                "word": "KOLORİT",
+                "explanation": "[ital. colorite",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 31
+            },
+            {
+                "word": "LİTERLİ",
+                "explanation": "sif. literi olan",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 32
+            },
+            {
+                "word": "LİTRLİK",
+                "explanation": "is. dan. bir litr tutan qab. // sif. bir litr tutan. ağzı tıxaclı *** şüşəni pəncərə qabağına qoydu",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 33
+            },
+            {
+                "word": "RİTORİK",
+                "explanation": "sif. [yun.] ***a qaydalarınaəsaslanan. // məc. təmtəraqlı",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 34
+            },
+            {
+                "word": "EKLEKTİK",
+                "explanation": "is. [yun.] kit. eklektizmə meyiledən",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 35
+            },
+            {
+                "word": "ELEKTRİK",
+                "explanation": "[fr. əsli yun.] 1. bax elektrotexnik.2. elektrotexnika sahəsində",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 36
+            },
+            {
+                "word": "KİRLİLİK",
+                "explanation": "is. kirli şeyin halı; çirklilik",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 37
+            },
+            {
+                "word": "LİLLİLİK",
+                "explanation": "is. lilli olma; lehməlilik",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 38
+            },
+            {
+                "word": "KOLORİTLİ",
+                "explanation": "sif. koloriti olan",
+                "isPanagram": false,
+                "score": 9,
+                "length": 9,
+                "id": 39
+            },
+            {
+                "word": "KOTLETLİK",
+                "explanation": "sif. kotlet üçün yarayan",
+                "isPanagram": false,
+                "score": 9,
+                "length": 9,
+                "id": 40
+            },
+            {
+                "word": "ELEKTRİKLİ",
+                "explanation": "sif. fiz. elektrikləşdirilmiş",
+                "isPanagram": false,
+                "score": 10,
+                "length": 10,
+                "id": 41
+            },
+            {
+                "word": "EKLEKTİKLİK",
+                "explanation": "is. eklektik mahiyyətdəolma. nəticələrin eklektikliyi",
+                "isPanagram": false,
+                "score": 11,
+                "length": 11,
+                "id": 42
+            },
+            {
+                "word": "ELEKTROLİTİK",
+                "explanation": "sif. [yun. elektron vəlutos-dan] kim. elektrolizə aid olan",
+                "isPanagram": true,
+                "score": 17,
+                "length": 12,
+                "id": 43
+            }
+        ]
+    }
+}

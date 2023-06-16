@@ -1,0 +1,214 @@
+{
+    "gameData": {
+        "day": "20231013",
+        "expiration": "1697241540",
+        "centerLetter": "M",
+        "outerLetters": [
+            "T",
+            "I",
+            "V",
+            "R",
+            "C",
+            "A"
+        ],
+        "words_info": {
+            "word_count": 23,
+            "sum_score": 109,
+            "panagram_count": 1,
+            "word_length": {
+                "6": 4,
+                "4": 8,
+                "5": 6,
+                "7": 3,
+                "8": 1,
+                "9": 1
+            }
+        },
+        "words": [
+            {
+                "word": "AMAC",
+                "explanation": "is. [fars.] klas. nişanə",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "ARAM",
+                "explanation": "is. [fars.] sakitlik",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "ATIM",
+                "explanation": "is. 1. atmaq işi.2. yalnız bir",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "ATMA",
+                "explanation": "“***q”dan f.is. və s. *** nizə.ən qədim insanların ilk *** silahı daş",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "AVAM",
+                "explanation": "sif. [ər.] oxumamış",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 5
+            },
+            {
+                "word": "MAMA",
+                "explanation": "is. doğuş zamanı kömək göstərməkləməşğul olan (keçmişdə təhsilsiz",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 6
+            },
+            {
+                "word": "MART",
+                "explanation": "[lat.] təqvim ilinin üçüncü ayı.*** qırğınları. – *** çıxdı",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 7
+            },
+            {
+                "word": "TAAM",
+                "explanation": "is. [ər.] 1. xörək",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 8
+            },
+            {
+                "word": "ARTIM",
+                "explanation": "is. 1. sayca",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 9
+            },
+            {
+                "word": "ARTMA",
+                "explanation": "1. “***q”dan f.is.2. is. artan şey",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 10
+            },
+            {
+                "word": "MAMIR",
+                "explanation": "is. bot. ali sporlu bitkilərdən ibtidaiquruluşa malik bitki. həyətin hündürhasarları rütubətdən ***la örtülmüşdü",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 11
+            },
+            {
+                "word": "MARIT",
+                "explanation": "is. dan. ov itlərinin ovu gördükdə aldıqları gərgin",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 12
+            },
+            {
+                "word": "MICIR",
+                "explanation": "is. məh. keçi balası",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 13
+            },
+            {
+                "word": "TAMAM",
+                "explanation": "is. [ər.] 1. bitmə",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 14
+            },
+            {
+                "word": "ACITMA",
+                "explanation": "is. xəmir mayası",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 15
+            },
+            {
+                "word": "ATMACA",
+                "explanation": "is. birinə sataşmaq məqsədiilə",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 16
+            },
+            {
+                "word": "CAMAAT",
+                "explanation": "is. [ər.] bir yerə toplanmış adamlar",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 17
+            },
+            {
+                "word": "TARMAR",
+                "explanation": "sif. 1. bir-birinə qarışmış",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 18
+            },
+            {
+                "word": "ARTIRMA",
+                "explanation": "is. 1. eyvan",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 19
+            },
+            {
+                "word": "MACARCA",
+                "explanation": "sif. və zərf macar dilində.*** dərslik. *** danışmaq",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 20
+            },
+            {
+                "word": "MIRMIRI",
+                "explanation": "is. zool. ağbalıq",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 21
+            },
+            {
+                "word": "CIRCIRAMA",
+                "explanation": "is. zool. əlvan qanadları uçarkən cır-cır səsi verən uzungövdəli cücü. *** yaz",
+                "isPanagram": false,
+                "score": 9,
+                "length": 9,
+                "id": 22
+            },
+            {
+                "word": "AVIRTMAC",
+                "explanation": "is. məh. un ilə yağdan bişirilən bir xörək",
+                "isPanagram": true,
+                "score": 17,
+                "length": 8,
+                "id": 23
+            }
+        ]
+    }
+}

@@ -1,0 +1,213 @@
+{
+    "gameData": {
+        "day": "20230715",
+        "expiration": "1689465540",
+        "centerLetter": "C",
+        "outerLetters": [
+            "Ü",
+            "M",
+            "R",
+            "Ə",
+            "T",
+            "K"
+        ],
+        "words_info": {
+            "word_count": 23,
+            "sum_score": 90,
+            "panagram_count": 1,
+            "word_length": {
+                "4": 11,
+                "5": 5,
+                "8": 1,
+                "6": 5,
+                "7": 1
+            }
+        },
+        "words": [
+            {
+                "word": "CÜCƏ",
+                "explanation": "is. toyuq balası. əlimi hinə soxub",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "CÜCÜ",
+                "explanation": "is. zool. milçək",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "CÜMƏ",
+                "explanation": "is. [ər.] həftənin beşinci günü; *** axşamından sonra gələn gün. [hacı:] hazırla",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "CÜRƏ",
+                "explanation": "sif. çox balaca",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "CÜRM",
+                "explanation": "is. [ər.] klas. günah",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 5
+            },
+            {
+                "word": "ƏCƏM",
+                "explanation": "is. [ər.] 1. köhn. keçmişdə ərəbolmayan xalqlara və onların nümayəndələrinə",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 6
+            },
+            {
+                "word": "ƏCƏR",
+                "explanation": "is. təzəlik",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 7
+            },
+            {
+                "word": "ƏKƏC",
+                "explanation": "sif. və is. böyük",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 8
+            },
+            {
+                "word": "ƏTCƏ",
+                "explanation": "is. 1. çılpaq uşaq bədəni.2. bax ***bala. yuvada yumurtadan yenicəçıxmış *** kəklik balaları vardı",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 9
+            },
+            {
+                "word": "ƏTƏC",
+                "explanation": "is. məh. yun təmizləyən alət",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 10
+            },
+            {
+                "word": "MƏRC",
+                "explanation": "is. bir şey üstündə mübahisə edəniki nəfər arasında bağlanan və uduzan tərəfinyerinə yetirməli olduğu bir şeyi nəzərdətutan şərt",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 11
+            },
+            {
+                "word": "CÜRƏT",
+                "explanation": "is. [ər.] cəsarət",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 12
+            },
+            {
+                "word": "ƏMCƏK",
+                "explanation": "is. məmə",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 13
+            },
+            {
+                "word": "MÜCRÜ",
+                "explanation": "is. balaca sandıqça. taxçayadüzülübdü bir neçə boğça",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 14
+            },
+            {
+                "word": "TƏKCƏ",
+                "explanation": "sif. ancaq tək",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 15
+            },
+            {
+                "word": "TÜKCƏ",
+                "explanation": "sif. və zərf tük qədər",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 16
+            },
+            {
+                "word": "MƏRCƏK",
+                "explanation": "is. qulağın aşağı ətli hissəsi",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 17
+            },
+            {
+                "word": "MÜRCÜM",
+                "explanation": "is. üzdə",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 18
+            },
+            {
+                "word": "TƏRƏCƏ",
+                "explanation": "is. üstünə barama qurdu buraxmaqvə ya üstündə pambıq",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 19
+            },
+            {
+                "word": "TÜKCÜK",
+                "explanation": "is. incə",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 20
+            },
+            {
+                "word": "TÜRKCƏ",
+                "explanation": "sif. və zərf türk dilində. ***öyrənmək. ***-rusca lüğət",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 21
+            },
+            {
+                "word": "TƏRCÜMƏ",
+                "explanation": "is. [ər.] bir dildən başqa diləçevirmə (çevrilmə). sərbəst ***. “şahnamə”nin ***si. – usta zeynalın dükanındamirzə qəzəllər oxuyub",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 22
+            },
+            {
+                "word": "KƏMCÜRƏT",
+                "explanation": "sif. [fars. kəm və ər. cürət]az cürətli (cəsarətli)",
+                "isPanagram": true,
+                "score": 17,
+                "length": 8,
+                "id": 23
+            }
+        ]
+    }
+}

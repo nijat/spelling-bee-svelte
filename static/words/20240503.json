@@ -1,0 +1,311 @@
+{
+    "gameData": {
+        "day": "20240503",
+        "expiration": "1714780740",
+        "centerLetter": "S",
+        "outerLetters": [
+            "A",
+            "I",
+            "L",
+            "Q",
+            "T",
+            "Ğ"
+        ],
+        "words_info": {
+            "word_count": 35,
+            "sum_score": 197,
+            "panagram_count": 1,
+            "word_length": {
+                "8": 5,
+                "11": 2,
+                "9": 2,
+                "5": 10,
+                "4": 8,
+                "7": 3,
+                "6": 5
+            }
+        },
+        "words": [
+            {
+                "word": "ASQI",
+                "explanation": "is. paltar və ya başqa şeylər asmağaməxsus alət. bu paltarlı skeletin iti çiyinsümükləri *** kimi ağ abanı saxlayır",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "QISA",
+                "explanation": "sif. 1. boyca gödək",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "LAST",
+                "explanation": "is. [ing.] sualtı üzgüçülükdə istifadəedilən xüsusi rezin ayaqlıq",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "SAAT",
+                "explanation": "is. [ər.] 1. gecə-gündüzün iyirmi dörddə birini təşkil edən və 60 dəqiqədən ibarət olan vaxt ölçüsü vahidi",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "SAQA",
+                "explanation": "is. ədəb. nəsrlə yazılmış qədim islandəsərləri",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 5
+            },
+            {
+                "word": "SALI",
+                "explanation": "is. həftənin ikinci günü",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 6
+            },
+            {
+                "word": "SIĞA",
+                "explanation": "is. [ər.] köhn. 1. kiçik uşaqlar.2. yetimlər",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 7
+            },
+            {
+                "word": "TASA",
+                "explanation": "is. [fars.] 1. qəm",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 8
+            },
+            {
+                "word": "ASILI",
+                "explanation": "sif. 1. asılmış halda olan",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 9
+            },
+            {
+                "word": "QASIQ",
+                "explanation": "is. anat. qarnın iki bud arasındaolan alt tərəfi",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 10
+            },
+            {
+                "word": "QISIQ",
+                "explanation": "sif. 1. qısılmış",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 11
+            },
+            {
+                "word": "QISQI",
+                "explanation": "is. 1. tələsdirmə",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 12
+            },
+            {
+                "word": "SAQQA",
+                "explanation": "is. [ər.] köhn. keçmişdə dalında",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 13
+            },
+            {
+                "word": "SALAT",
+                "explanation": "[ər.] dəfn günü vəfat edənin evinin üstündə uca səslə oxunan minacat. □ *** çəkmək – vəfat edənin evinin üstündə uca səslə minacat oxumaq",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 14
+            },
+            {
+                "word": "SALIQ",
+                "explanation": "is. xəbər",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 15
+            },
+            {
+                "word": "SATIL",
+                "explanation": "is. su",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 16
+            },
+            {
+                "word": "SIĞAL",
+                "explanation": "is. [ər. seyqəl] 1. bir şeyin üzərinə əlini yavaş-yavaş gəzdirmək və ya ona xəfif-xəfif toxundurmaqla öz sevgisini",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 17
+            },
+            {
+                "word": "SISQA",
+                "explanation": "sif. cılız",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 18
+            },
+            {
+                "word": "SAĞLIQ",
+                "explanation": "is. 1. bədənin bütün üzvlərinin sağlam",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 19
+            },
+            {
+                "word": "SAQQAL",
+                "explanation": "is. 1. kişilərin üzündə və alt çənələrinin üstündə bitən tüklər. uzun ***. *** qoymaq. – [məşədi ibad:] hə… çünki mən ***ıma həna qoyuram",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 20
+            },
+            {
+                "word": "SALLAQ",
+                "explanation": "sif. sallanmış halda olan",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 21
+            },
+            {
+                "word": "SATLIQ",
+                "explanation": "sif. satılmaq üçün olan",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 22
+            },
+            {
+                "word": "TASLAQ",
+                "explanation": "is. bir şeyin hələ qəti bir şəkilalmamış halı; eskiz",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 23
+            },
+            {
+                "word": "ASTALIQ",
+                "explanation": "is. yavaşlıq",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 24
+            },
+            {
+                "word": "QISALIQ",
+                "explanation": "is. qısa şeyin halı; gödəklik(uzunluq ziddi). paltarın qısalığı. söhbətinqısalığı. cavabın qısalığı",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 25
+            },
+            {
+                "word": "SIĞALLI",
+                "explanation": "sif. hamar",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 26
+            },
+            {
+                "word": "AĞSAQQAL",
+                "explanation": "sif. və is. 1. saqqalı ağarmış",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 27
+            },
+            {
+                "word": "ASILILIQ",
+                "explanation": "is. 1. birinin iradəsinə",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 28
+            },
+            {
+                "word": "QISIQLIQ",
+                "explanation": "is. 1. qısılmış (sıxılmış) şeyinhalı.2. boğuqluq",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 29
+            },
+            {
+                "word": "SAQQALLI",
+                "explanation": "sif. 1. saqqalı olan",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 30
+            },
+            {
+                "word": "SISQALIQ",
+                "explanation": "is. cılızlıq",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 31
+            },
+            {
+                "word": "SALLAQLIQ",
+                "explanation": "is. sallaq şeyin halı; sallanmışhalda olma",
+                "isPanagram": false,
+                "score": 9,
+                "length": 9,
+                "id": 32
+            },
+            {
+                "word": "AĞSAQQALLIQ",
+                "explanation": "is. 1. qocalıq.2. məc. dan. başçılıq",
+                "isPanagram": false,
+                "score": 11,
+                "length": 11,
+                "id": 33
+            },
+            {
+                "word": "ALTISAATLIQ",
+                "explanation": "sif. altı saat sürmüş və yasürən; altı saat vaxt tələb edən. *** işgünü. *** yol",
+                "isPanagram": false,
+                "score": 11,
+                "length": 11,
+                "id": 34
+            },
+            {
+                "word": "ALĞISATQI",
+                "explanation": "is. alıb-satma işi",
+                "isPanagram": true,
+                "score": 17,
+                "length": 9,
+                "id": 35
+            }
+        ]
+    }
+}

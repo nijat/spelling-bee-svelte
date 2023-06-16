@@ -1,0 +1,407 @@
+{
+    "gameData": {
+        "day": "20240307",
+        "expiration": "1709855940",
+        "centerLetter": "T",
+        "outerLetters": [
+            "A",
+            "I",
+            "L",
+            "S",
+            "Q",
+            "U"
+        ],
+        "words_info": {
+            "word_count": 47,
+            "sum_score": 261,
+            "panagram_count": 1,
+            "word_length": {
+                "7": 9,
+                "9": 2,
+                "11": 1,
+                "6": 10,
+                "4": 11,
+                "5": 8,
+                "8": 6
+            }
+        },
+        "words": [
+            {
+                "word": "ATAT",
+                "explanation": "is. uşaqların ağac üstə minərəkoynadıqları oyun. at-at oynamaq",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "ATQI",
+                "explanation": "is. 1. bir şeyin üzərindən atılan tir və s. 2. toxuculuqda: ərişin üstünə gələn və məkiklə atılan arğac ipi",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "ATLI",
+                "explanation": "1. sif. at minmiş",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "QATI",
+                "explanation": "sif. 1. sıyıq",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "QUTU",
+                "explanation": "is. içinə şey qoymaq üçün taxtadan",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 5
+            },
+            {
+                "word": "LAST",
+                "explanation": "is. [ing.] sualtı üzgüçülükdə istifadəedilən xüsusi rezin ayaqlıq",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 6
+            },
+            {
+                "word": "SAAT",
+                "explanation": "is. [ər.] 1. gecə-gündüzün iyirmi dörddə birini təşkil edən və 60 dəqiqədən ibarət olan vaxt ölçüsü vahidi",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 7
+            },
+            {
+                "word": "TALA",
+                "explanation": "is. meşədə ağacsız",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 8
+            },
+            {
+                "word": "TASA",
+                "explanation": "is. [fars.] 1. qəm",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 9
+            },
+            {
+                "word": "TULA",
+                "explanation": "is. 1. hamar uzun tüklü",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 10
+            },
+            {
+                "word": "USTA",
+                "explanation": "is. 1. bir sənəti lazımınca",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 11
+            },
+            {
+                "word": "ATALI",
+                "explanation": "sif. atası olan. *** uşaq. ***(z.) böyümək",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 12
+            },
+            {
+                "word": "QATIQ",
+                "explanation": "is. 1. südü bişirib",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 13
+            },
+            {
+                "word": "QATQI",
+                "explanation": "is. bir şeyə qatılan başqa maddə;aşqar",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 14
+            },
+            {
+                "word": "QUTLU",
+                "explanation": "sif. və zərf qəd. uğurlu",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 15
+            },
+            {
+                "word": "SALAT",
+                "explanation": "[ər.] dəfn günü vəfat edənin evinin üstündə uca səslə oxunan minacat. □ *** çəkmək – vəfat edənin evinin üstündə uca səslə minacat oxumaq",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 16
+            },
+            {
+                "word": "SATIL",
+                "explanation": "is. su",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 17
+            },
+            {
+                "word": "TALAQ",
+                "explanation": "is. [ər.] köhn. 1. boşama",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 18
+            },
+            {
+                "word": "TULUQ",
+                "explanation": "is. 1. içində maye",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 19
+            },
+            {
+                "word": "ALTLIQ",
+                "explanation": "is. 1. bir şeyi saxlamaq üçünonun altına qoyulan şey",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 20
+            },
+            {
+                "word": "ATALIQ",
+                "explanation": "is. 1. ata ilə övlad arasındakı qan qohumluğu. atalığını müəyyən etmək. atalığını danmaq. 2. ata üzərinə düşən vəzifə",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 21
+            },
+            {
+                "word": "QALTAQ",
+                "explanation": "is. yəhərin ağacdan olan hissəsi.// arabaya qoşulan heyvanın belinə qoyulanqoşqu aləti",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 22
+            },
+            {
+                "word": "QATILI",
+                "explanation": "sif. qatışığı olan",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 23
+            },
+            {
+                "word": "QUTULU",
+                "explanation": "sif. qutusu olan",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 24
+            },
+            {
+                "word": "SALTUS",
+                "explanation": "is. [lat.] qədim romada xüsusişəxslərə icarəyə verilən meşə",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 25
+            },
+            {
+                "word": "SATLIQ",
+                "explanation": "sif. satılmaq üçün olan",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 26
+            },
+            {
+                "word": "STATUS",
+                "explanation": "is. [lat.] vətəndaşın",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 27
+            },
+            {
+                "word": "SUALTI",
+                "explanation": "sif. 1. suyun altında olan",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 28
+            },
+            {
+                "word": "TASLAQ",
+                "explanation": "is. bir şeyin hələ qəti bir şəkilalmamış halı; eskiz",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 29
+            },
+            {
+                "word": "ALATALA",
+                "explanation": "sif. tala-tala",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 30
+            },
+            {
+                "word": "ALTILIQ",
+                "explanation": "1. sif. ölçüsü (eni",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 31
+            },
+            {
+                "word": "ASTALIQ",
+                "explanation": "is. yavaşlıq",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 32
+            },
+            {
+                "word": "QATIQLI",
+                "explanation": "sif. qatıq vurulmuş",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 33
+            },
+            {
+                "word": "QATILIQ",
+                "explanation": "is. 1. qatı şeyin halı",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 34
+            },
+            {
+                "word": "QATQATI",
+                "explanation": "is. bayt. gövşəyən heyvanlarınqarnı ilə qursağı arasındakı həzm üzvü",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 35
+            },
+            {
+                "word": "TALAQLI",
+                "explanation": "sif. köhn. talaqı olan; kəbinli.*** arvad",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 36
+            },
+            {
+                "word": "TALALIQ",
+                "explanation": "is. meşədə ağacsız",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 37
+            },
+            {
+                "word": "QAQQILTI",
+                "explanation": "is. 1. toyuq",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 38
+            },
+            {
+                "word": "QUQQULTU",
+                "explanation": "is. turac",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 39
+            },
+            {
+                "word": "LAQQILTI",
+                "explanation": "is. 1. laqqıldayaraq axan vəya tökülən mayedən çıxan səs.2. bax laqqırtı",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 40
+            },
+            {
+                "word": "TAQQILTI",
+                "explanation": "is. bərk bir şeyin bərk bir cismətoxunmasından çıxan səs",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 41
+            },
+            {
+                "word": "TIQQILTI",
+                "explanation": "is. tıqq (tıq-tıq) səsi. sayad pəri*** eşidib qarabaşı ağcaqızı dürtmələdi.“əmrah”. a kişi",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 42
+            },
+            {
+                "word": "TUTUQLUQ",
+                "explanation": "is. tutqunluq. havanın tutuqluğu.səsin tutuqluğu",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 43
+            },
+            {
+                "word": "ALTIQATLI",
+                "explanation": "sif. 1. altı mərtəbəsi olan.*** ev. *** şkaf.2. altı qatı",
+                "isPanagram": false,
+                "score": 9,
+                "length": 9,
+                "id": 44
+            },
+            {
+                "word": "QULAQALTI",
+                "explanation": "1. sif. anat. qulağın alt tərəfində",
+                "isPanagram": false,
+                "score": 9,
+                "length": 9,
+                "id": 45
+            },
+            {
+                "word": "ALTISAATLIQ",
+                "explanation": "sif. altı saat sürmüş və yasürən; altı saat vaxt tələb edən. *** işgünü. *** yol",
+                "isPanagram": false,
+                "score": 11,
+                "length": 11,
+                "id": 46
+            },
+            {
+                "word": "USTALIQ",
+                "explanation": "is. 1. hər hansı bir sahədə çalışanustanın işi",
+                "isPanagram": true,
+                "score": 17,
+                "length": 7,
+                "id": 47
+            }
+        ]
+    }
+}

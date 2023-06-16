@@ -1,0 +1,229 @@
+{
+    "gameData": {
+        "day": "20230628",
+        "expiration": "1687996740",
+        "centerLetter": "K",
+        "outerLetters": [
+            "A",
+            "Ş",
+            "Ə",
+            "S",
+            "N",
+            "D"
+        ],
+        "words_info": {
+            "word_count": 25,
+            "sum_score": 123,
+            "panagram_count": 1,
+            "word_length": {
+                "5": 11,
+                "8": 1,
+                "6": 4,
+                "7": 3,
+                "4": 6
+            }
+        },
+        "words": [
+            {
+                "word": "ƏNƏK",
+                "explanation": "is. 1. yük atı",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "KASA",
+                "explanation": "is. [fars.] 1. çini",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "KƏKƏ",
+                "explanation": "sif. danışarkən ***ləyən; kəkov.*** uşaq. anadan *** (z.) doğulmaq",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "KƏND",
+                "explanation": "is. əhalisi",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "KƏSƏ",
+                "explanation": "1. sif. ən yaxın",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 5
+            },
+            {
+                "word": "ŞƏKK",
+                "explanation": "is. [ər.] bir şeyin gerçəkliyinə",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 6
+            },
+            {
+                "word": "DAŞKA",
+                "explanation": "is. [rus.] əl arabası. əli bibiheybətmədənlərində bir dəstə işçi ilə birlikdə*** çəkir. m.ibrahimov",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 7
+            },
+            {
+                "word": "DƏKKƏ",
+                "explanation": "is. məh. iri heyvanların (inək",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 8
+            },
+            {
+                "word": "ƏKKAS",
+                "explanation": "is. [ər.] köhn. fotoqrafın köhnəadı",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 9
+            },
+            {
+                "word": "ƏSNƏK",
+                "explanation": "1. sif. çox əsnəyən.2. is. əsnəmə. *** gəlmək. – *** ***gətirər. (ata. sözü).3. anat. ağız boşluğundan qırtlağa gedəndeşik",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 10
+            },
+            {
+                "word": "KASAD",
+                "explanation": "[ər.] 1. sif. ticarətdə: mala tələbolmadığı",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 11
+            },
+            {
+                "word": "KASKA",
+                "explanation": "[fr. casque",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 12
+            },
+            {
+                "word": "KASSA",
+                "explanation": "[ital.] 1. pul",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 13
+            },
+            {
+                "word": "KƏNƏK",
+                "explanation": "sif. 1. ləpəsi çətin çıxan. ***qoz.2. məc. çətinliklə başa gələn",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 14
+            },
+            {
+                "word": "KƏSƏK",
+                "explanation": "is. quruyub bərkimiş palçıq yumrusu.***ləri əzmək. – *** oturub daşüçün ağlayır. (ata. sözü). ayaqlarım yalınolduğuna görə yolun quru ***ləri",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 15
+            },
+            {
+                "word": "KƏSƏN",
+                "explanation": "f.is. hənd. əyrini iki və ya birneçə nöqtədə *** düz xətt. □ ***(kəsici) diş(lər) – ağzın ön tərəfində olanön diş(lər)",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 16
+            },
+            {
+                "word": "NAKƏS",
+                "explanation": "sif. və is. [fars.] şərəfsiz",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 17
+            },
+            {
+                "word": "ƏKƏNƏK",
+                "explanation": "is. taxıl əkilmiş yer",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 18
+            },
+            {
+                "word": "KANKAN",
+                "explanation": "is. [fars.] köhn. əl ilə quyuqazan;quyuçu. ***ın vəsiyyəti qızıl öküzdür.(ata. sözü). [məmməd:] atam ***idi",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 19
+            },
+            {
+                "word": "KAŞANƏ",
+                "explanation": "is. [fars.] qəsr",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 20
+            },
+            {
+                "word": "ŞƏKKAK",
+                "explanation": "sif. və is. [ər.] hər şeyə şübhəedən",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 21
+            },
+            {
+                "word": "ƏKSSƏDA",
+                "explanation": "is. [ər.] 1. qayalara",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 22
+            },
+            {
+                "word": "KƏSƏKƏS",
+                "explanation": "is. kütləvi qırğın",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 23
+            },
+            {
+                "word": "SƏKSƏKƏ",
+                "explanation": "is. həyəcan",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 24
+            },
+            {
+                "word": "DAŞKƏSƏN",
+                "explanation": "sif. xüs. tikinti üçün daşlarımüəyyən ölçüdə kəsən; daşqıran. ***maşın",
+                "isPanagram": true,
+                "score": 17,
+                "length": 8,
+                "id": 25
+            }
+        ]
+    }
+}

@@ -1,0 +1,382 @@
+{
+    "gameData": {
+        "day": "20230906",
+        "expiration": "1694044740",
+        "centerLetter": "Ş",
+        "outerLetters": [
+            "T",
+            "A",
+            "Q",
+            "I",
+            "L",
+            "Ç"
+        ],
+        "words_info": {
+            "word_count": 44,
+            "sum_score": 244,
+            "panagram_count": 1,
+            "word_length": {
+                "6": 10,
+                "4": 7,
+                "5": 15,
+                "9": 1,
+                "8": 7,
+                "7": 4
+            }
+        },
+        "words": [
+            {
+                "word": "AÇIŞ",
+                "explanation": "is. açma işi",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "ALAŞ",
+                "explanation": "is. bax ala1 1-ci mənada",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "ALIŞ",
+                "explanation": "f.is. almaq işi",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "AŞÇI",
+                "explanation": "is. xüs. dəri",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "AŞIQ",
+                "explanation": "is. 1. anat. diz qapaqlarından çıxanoynaq sümüyü. // uşaqların ***-*** oyunundaişlətdikləri həmin (adətən qoyunlarındiz qapağından çıxarılan) süm",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 5
+            },
+            {
+                "word": "AŞLI",
+                "explanation": "sif. aşa qoyulmuş. *** gön. ***dəri. – aşıq abbas *** çarıqlarını yerə sürtəsürtəmərəkəni süzür",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 6
+            },
+            {
+                "word": "ATIŞ",
+                "explanation": "is. tüfəng",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 7
+            },
+            {
+                "word": "ALAŞA",
+                "explanation": "is. arıq at; yabı. [qardaşı:] [sadıqkişi]",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 8
+            },
+            {
+                "word": "ALQIŞ",
+                "explanation": "is. 1. birini təbrik üçün və ya birşeyi bəyənmə ifadəsi olaraq əl çalma.sürəkli ***lar. gurultulu ***lar",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 9
+            },
+            {
+                "word": "AŞQAL",
+                "explanation": "sif. məh. arıq",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 10
+            },
+            {
+                "word": "AŞLIQ",
+                "explanation": "sif. aş üçün",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 11
+            },
+            {
+                "word": "ÇATIŞ",
+                "explanation": "is. çatmaq işi",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 12
+            },
+            {
+                "word": "QAÇIŞ",
+                "explanation": "is. qaçma",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 13
+            },
+            {
+                "word": "QALIŞ",
+                "explanation": "is. qalma; qalmaq işi. əsli xanımköçdü getdi elindən; mənim burda ***ımanə deyim? aşıq kərəm",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 14
+            },
+            {
+                "word": "QAŞIQ",
+                "explanation": "is. 1. duru",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 15
+            },
+            {
+                "word": "QAŞQA",
+                "explanation": "is. 1. ümumiyyətlə",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 16
+            },
+            {
+                "word": "QAŞLI",
+                "explanation": "sif. qaşı olan. bax qaş 2 və 3-cümənalarda. *** üzük. *** yəhər. – səadətxanım gülnazı … laləzara apardı",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 17
+            },
+            {
+                "word": "QIŞLA",
+                "explanation": "is. 1. əsgəri hissələri yerləşdirməküçün böyük bina; qazarma. şəhərə buraxılanqoşun dəstələri bu gün öz ***larınaçəkilmişdi",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 18
+            },
+            {
+                "word": "LATIŞ",
+                "explanation": "is. latviyanın əsas əhalisini təşkiledən xalq və bu xalqa mənsub adam",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 19
+            },
+            {
+                "word": "ŞAQQA",
+                "explanation": "is. ikiyə parçalanmış cəmdək.[fərhad:] bir qoyunun da ***sını yeməkolarmı? ə.haqverdiyev. tahirzadənin ilk işio oldu ki",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 20
+            },
+            {
+                "word": "ŞALAQ",
+                "explanation": "is. məh. 1. iri",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 21
+            },
+            {
+                "word": "ŞALLI",
+                "explanation": "sif. başına şal örtmüş",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 22
+            },
+            {
+                "word": "AÇILIŞ",
+                "explanation": "is. açılmaq işi",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 23
+            },
+            {
+                "word": "ALIŞIQ",
+                "explanation": "is. ocağı alışdırmaq üçün gözünə",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 24
+            },
+            {
+                "word": "QAŞQAL",
+                "explanation": "is. məh. xır bağlanan zaman",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 25
+            },
+            {
+                "word": "QIŞLAQ",
+                "explanation": "is. qoyun və başqa ev heyvanlarınıngətirilib saxlandığı mötədil havalı vəotlaqlı qışlama yeri. heyvanlar yaylaqdanqışlağa köçdü",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 26
+            },
+            {
+                "word": "QIŞLIQ",
+                "explanation": "sif. qışa",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 27
+            },
+            {
+                "word": "ŞIQLIQ",
+                "explanation": "is. zəriflik",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 28
+            },
+            {
+                "word": "ŞILLAQ",
+                "explanation": "is. ayaqla vurma",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 29
+            },
+            {
+                "word": "ŞILTAQ",
+                "explanation": "1. is. mənasız tələb",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 30
+            },
+            {
+                "word": "ŞTATLI",
+                "explanation": "sif. ştatda olan",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 31
+            },
+            {
+                "word": "TALAŞA",
+                "explanation": "is. balta ağzından çıxan kiçikağac",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 32
+            },
+            {
+                "word": "AŞIQLIQ",
+                "explanation": "is. dizin aşıq sümüyü gizləndiyiyeri. qoyunun aşıqlığı sınıb",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 33
+            },
+            {
+                "word": "QAŞIQÇI",
+                "explanation": "is. qaşıq qayıran usta",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 34
+            },
+            {
+                "word": "QATILIŞ",
+                "explanation": "is. qatma (qatılma) işi",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 35
+            },
+            {
+                "word": "ŞAQQALI",
+                "explanation": "sif. enlikürək",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 36
+            },
+            {
+                "word": "AŞIQAŞIQ",
+                "explanation": "is. aşıqla oynanılan uşaqoyunu. aşıq-aşıq oynamaq",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 37
+            },
+            {
+                "word": "QAŞIQAŞI",
+                "explanation": "is. qaşıq ilə yeyilən duru xörək",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 38
+            },
+            {
+                "word": "QATIQAŞI",
+                "explanation": "is. buğda yarmasından",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 39
+            },
+            {
+                "word": "ŞAQQILTI",
+                "explanation": "is. 1. sınan",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 40
+            },
+            {
+                "word": "ŞIQQILTI",
+                "explanation": "is. ağac",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 41
+            },
+            {
+                "word": "ŞILLAQÇI",
+                "explanation": "sif. təpik (şıllaq) atmaq xasiyyəti olan. şıllaqatan at",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 42
+            },
+            {
+                "word": "ALLIŞALLI",
+                "explanation": "sif. məh. al-əlvan. pətəklərdənvə bağçada qoyulan qırmızı rəngliyeşiklərdən arılar dəstə-dəstə çıxır",
+                "isPanagram": false,
+                "score": 9,
+                "length": 9,
+                "id": 43
+            },
+            {
+                "word": "ŞILTAQÇI",
+                "explanation": "sif. 1. şıltaq",
+                "isPanagram": true,
+                "score": 17,
+                "length": 8,
+                "id": 44
+            }
+        ]
+    }
+}

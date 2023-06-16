@@ -1,0 +1,197 @@
+{
+    "gameData": {
+        "day": "20240228",
+        "expiration": "1709164740",
+        "centerLetter": "T",
+        "outerLetters": [
+            "D",
+            "İ",
+            "B",
+            "L",
+            "Ş",
+            "A"
+        ],
+        "words_info": {
+            "word_count": 21,
+            "sum_score": 111,
+            "panagram_count": 1,
+            "word_length": {
+                "4": 5,
+                "8": 2,
+                "7": 4,
+                "5": 7,
+                "6": 3
+            }
+        },
+        "words": [
+            {
+                "word": "ADAT",
+                "explanation": "is. [ər. “adət” söz. cəmi] bax adət.məstəli şirvani hər iki səyahətində dünyanınyarısını gəştü güzar edib",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "ATAT",
+                "explanation": "is. uşaqların ağac üstə minərəkoynadıqları oyun. at-at oynamaq",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "ATİL",
+                "explanation": "sif. [ər.] tənbəl",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "TALA",
+                "explanation": "is. meşədə ağacsız",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "TİBB",
+                "explanation": "is. [ər.] 1. xəstəliklər",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 5
+            },
+            {
+                "word": "BABAT",
+                "explanation": "sif. və zərf orta keyfiyyətli",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 6
+            },
+            {
+                "word": "BALTA",
+                "explanation": "is. odun doğramaq",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 7
+            },
+            {
+                "word": "BATİL",
+                "explanation": "sif. [ər.] köhn. 1. yalan",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 8
+            },
+            {
+                "word": "BİTLİ",
+                "explanation": "sif. biti olan; başını",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 9
+            },
+            {
+                "word": "ŞİTİL",
+                "explanation": "is. sonradan çıxarılıb başqa yerdəəkilmək üçün parnikdə (istixanada) və yaxüsusi ləklərdə yetişdirilən bitki",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 10
+            },
+            {
+                "word": "TALİB",
+                "explanation": "is. [ər.] klas. 1. istəyən",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 11
+            },
+            {
+                "word": "TİBBİ",
+                "explanation": "sif. [ər.] tiblə",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 12
+            },
+            {
+                "word": "BALATA",
+                "explanation": "is. məh. maya",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 13
+            },
+            {
+                "word": "BATBAT",
+                "explanation": "is. bot. bəngotu; pis qoxulu acıdadan ot bitki (xalq təbabətində işlədilir).gödək saplaqlı yaşıl rəngli və yumurtayaoxşarzəhərli otların",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 14
+            },
+            {
+                "word": "TALAŞA",
+                "explanation": "is. balta ağzından çıxan kiçikağac",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 15
+            },
+            {
+                "word": "ALATALA",
+                "explanation": "sif. tala-tala",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 16
+            },
+            {
+                "word": "ATABABA",
+                "explanation": "is. əcdad",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 17
+            },
+            {
+                "word": "ATABALA",
+                "explanation": "is. ata ilə oğlu",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 18
+            },
+            {
+                "word": "DİTDİLİ",
+                "explanation": "is. məh. ağcaqanad. qərvənd çox*** və milçək olan yerdi. ə.haqverdiyev.durğun suyun qırağında toz kimi ***uçuşurdu",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 19
+            },
+            {
+                "word": "ALABABAT",
+                "explanation": "sif. və zərf dan. nə yaxşı",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 20
+            },
+            {
+                "word": "BALTADİŞ",
+                "explanation": "sif. dan. yekə və bərk dişli",
+                "isPanagram": true,
+                "score": 17,
+                "length": 8,
+                "id": 21
+            }
+        ]
+    }
+}

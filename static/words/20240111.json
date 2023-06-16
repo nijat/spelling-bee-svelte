@@ -1,0 +1,268 @@
+{
+    "gameData": {
+        "day": "20240111",
+        "expiration": "1705017540",
+        "centerLetter": "İ",
+        "outerLetters": [
+            "K",
+            "Ə",
+            "A",
+            "T",
+            "B",
+            "Ş"
+        ],
+        "words_info": {
+            "word_count": 30,
+            "sum_score": 138,
+            "panagram_count": 1,
+            "word_length": {
+                "4": 9,
+                "7": 4,
+                "5": 11,
+                "6": 6
+            }
+        },
+        "words": [
+            {
+                "word": "BABİ",
+                "explanation": "is. [xüs. is.-dən] 1. xıx əsrin ortasında iranda “bab” təxəllüslü mirzə əli məhəmməd tərəfindən təsis edilmiş dini təriqətə mənsub olan adam",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "BİBİ",
+                "explanation": "is. övlad üçün atanın bacısı",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "BİŞİ",
+                "explanation": "is. yağlı şirin xəmirdən ***rilən nazikqoğal növü",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "ƏKİŞ",
+                "explanation": "is. əkmə işi və tərzi",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "KİŞİ",
+                "explanation": "is. 1. cinscə qadının əksi. arvad üzlü***dən",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 5
+            },
+            {
+                "word": "TİBB",
+                "explanation": "is. [ər.] 1. xəstəliklər",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 6
+            },
+            {
+                "word": "TİKƏ",
+                "explanation": "is. 1. böyük bir şeydən sınmış",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 7
+            },
+            {
+                "word": "TİŞƏ",
+                "explanation": "is. [fars.] 1. daş və s. üzərində naxışqazımaq üçün ucuiti alət; qələm.2. külüng. [səfərin] cavanlıq vaxtında… ağsal daşlara vurduğu ***nin ahəngd",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 8
+            },
+            {
+                "word": "TİTƏ",
+                "explanation": "is. bəzi adamların göz bəbəyindəolan ağ ləkə",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 9
+            },
+            {
+                "word": "BİBAK",
+                "explanation": "sif. [fars.] qorxusuz",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 10
+            },
+            {
+                "word": "BİTİK",
+                "explanation": "is. köhn. məktub",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 11
+            },
+            {
+                "word": "BİTKİ",
+                "explanation": "is. göyərti",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 12
+            },
+            {
+                "word": "KATİB",
+                "explanation": "is. [ər.] 1. idarənin",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 13
+            },
+            {
+                "word": "KİTAB",
+                "explanation": "is. [ər.] 1. üzərində hər hansı bir mətn olan vərəqlərin bir araya gətirilərək tikilib cildlənmiş nəşriyyat növü",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 14
+            },
+            {
+                "word": "ŞİŞƏK",
+                "explanation": "is. müxtəlif yerlərdə müxtəlif (2-4)yaşlarda olan erkək qoyun. toğlu birillik",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 15
+            },
+            {
+                "word": "TƏBİB",
+                "explanation": "is. [ər.] həkim. *** olsam",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 16
+            },
+            {
+                "word": "TƏBİİ",
+                "explanation": "sif. [ər.] 1. təbiətə (yer səthinə",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 17
+            },
+            {
+                "word": "TƏTİK",
+                "explanation": "is. odlu silahların atəş açmaq üçünbarmaqla geri çəkilən manivelası. avtomatıntətiyi. tüfəngin tətiyi",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 18
+            },
+            {
+                "word": "TİBBİ",
+                "explanation": "sif. [ər.] tiblə",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 19
+            },
+            {
+                "word": "TİKİŞ",
+                "explanation": "is. 1. tikmək işi",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 20
+            },
+            {
+                "word": "KATİBƏ",
+                "explanation": "is. [ər.] qadın (qız) katib. qüdrətinqarabuğdayı ***si sürətlə şığıyıbiçəri girdi. m.hüseyn. narınc çox kobud birşəkildə ***yə cavab verdi… s",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 21
+            },
+            {
+                "word": "KİTABƏ",
+                "explanation": "is. [ər.] 1. binanın qapısı",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 22
+            },
+            {
+                "word": "KİTABİ",
+                "explanation": "is. [ər.] kitab (kvadrat) şəklindəşüşə qab. baxma ***-hikmətə",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 23
+            },
+            {
+                "word": "ŞİŞBAŞ",
+                "explanation": "sif. başı uzunsov",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 24
+            },
+            {
+                "word": "TAKTİK",
+                "explanation": "sif. [yun.] 1. ***aya aid olan",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 25
+            },
+            {
+                "word": "TƏBİƏT",
+                "explanation": "is. [ər.] 1. yerdə təbii şəraitin(yerin səthi",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 26
+            },
+            {
+                "word": "BİTİŞİK",
+                "explanation": "sif. 1. bir-birinə bitişmiş haldaolan. *** karton. *** barmaqlar.2. bir-birinə yapışıq",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 27
+            },
+            {
+                "word": "ƏKƏBİKƏ",
+                "explanation": "sif. dan. yaşlı",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 28
+            },
+            {
+                "word": "KİTABƏT",
+                "explanation": "is. [ər.] klas. 1. yazı yazma sənəti",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 29
+            },
+            {
+                "word": "BƏKTAŞİ",
+                "explanation": "is. və sif. xv əsrdə irandameydana çıxıb",
+                "isPanagram": true,
+                "score": 17,
+                "length": 7,
+                "id": 30
+            }
+        ]
+    }
+}

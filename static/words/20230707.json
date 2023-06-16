@@ -1,0 +1,149 @@
+{
+    "gameData": {
+        "day": "20230707",
+        "expiration": "1688774340",
+        "centerLetter": "V",
+        "outerLetters": [
+            "L",
+            "İ",
+            "N",
+            "G",
+            "Ə",
+            "T"
+        ],
+        "words_info": {
+            "word_count": 15,
+            "sum_score": 87,
+            "panagram_count": 1,
+            "word_length": {
+                "7": 5,
+                "5": 4,
+                "4": 3,
+                "8": 1,
+                "6": 2
+            }
+        },
+        "words": [
+            {
+                "word": "NƏVƏ",
+                "explanation": "is. oğlun və ya qızın uşağı. dövlətdə– dəvə",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "VƏLƏ",
+                "explanation": "is. məh. bir yaba dolusu",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "VƏLİ",
+                "explanation": "is. [ər.] 1. hami",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "ƏVVƏL",
+                "explanation": "zərf [ər.] 1. ilk dəfə",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 4
+            },
+            {
+                "word": "GƏVƏN",
+                "explanation": "is. bot. quraqlıq yerlərdə bitən",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 5
+            },
+            {
+                "word": "VƏTƏN",
+                "explanation": "is. [ər.] 1. bir adamın doğulubböyüdüyü və ***daşı olduğu ölkə",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 6
+            },
+            {
+                "word": "VİNİL",
+                "explanation": "is. kimyəvi maddə",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 7
+            },
+            {
+                "word": "VƏTƏGƏ",
+                "explanation": "is. [rus. “ватага” sözündən] çay",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 8
+            },
+            {
+                "word": "VİNTLİ",
+                "explanation": "sif. 1. bərkitmək üçün vinti olan.2. vintlə bərkidilmiş",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 9
+            },
+            {
+                "word": "ƏNƏNƏVİ",
+                "explanation": "sif. [ər.] ənənə şəkli almış",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 10
+            },
+            {
+                "word": "ƏVVƏLƏN",
+                "explanation": "[ər.] bax əvvəla. ***",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 11
+            },
+            {
+                "word": "LƏVƏNGİ",
+                "explanation": "is. içi qoz",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 12
+            },
+            {
+                "word": "VƏLVƏLƏ",
+                "explanation": "is. səs-küy",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 13
+            },
+            {
+                "word": "VƏTƏNLİ",
+                "explanation": "sif. vətəni",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 14
+            },
+            {
+                "word": "VƏNGİLTİ",
+                "explanation": "is. vurulmaq və ya başqa birsəbəb nəticəsində ağrıdan itin yazıq-yazıqçıxardığı səs",
+                "isPanagram": true,
+                "score": 17,
+                "length": 8,
+                "id": 15
+            }
+        ]
+    }
+}

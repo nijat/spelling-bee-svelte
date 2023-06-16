@@ -1,0 +1,272 @@
+{
+    "gameData": {
+        "day": "20231008",
+        "expiration": "1696809540",
+        "centerLetter": "U",
+        "outerLetters": [
+            "I",
+            "B",
+            "Ş",
+            "Q",
+            "A",
+            "L"
+        ],
+        "words_info": {
+            "word_count": 30,
+            "sum_score": 202,
+            "panagram_count": 3,
+            "word_length": {
+                "7": 7,
+                "10": 2,
+                "8": 3,
+                "5": 5,
+                "6": 6,
+                "4": 5,
+                "9": 1,
+                "11": 1
+            }
+        },
+        "words": [
+            {
+                "word": "QUAŞ",
+                "explanation": "is. [fr.] 1. qeyri-şəffaf sulu rəng.2. həmin rəng ilə çəkilən şəkil",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "QUBA",
+                "explanation": "is. şair. vəhşi qaz. sona tək silkinib gərdən çəkəndə; bənzəyirsən ***-qaza",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "QULA",
+                "explanation": "is. məh. açıq-sarı rəngli at. ***madyan",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "ULAQ",
+                "explanation": "is. yük və ya minik heyvanı. ***larıo tərəfdəki otluğa buraxıb gələn yusifatasının yanında durdu. ə",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "UŞAQ",
+                "explanation": "is. 1. azyaşlı oğlan",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 5
+            },
+            {
+                "word": "BULAQ",
+                "explanation": "is. 1. yerin altından sızıb çıxansərin",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 6
+            },
+            {
+                "word": "QUQQU",
+                "explanation": "is. zool. adətən özünə yuva tikməyib",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 7
+            },
+            {
+                "word": "QULAQ",
+                "explanation": "is. 1. insan və heyvanlarda eşitməorqanı. qulağı ağrımaq. *** həkimi.– nəvəsi onun … burnundan",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 8
+            },
+            {
+                "word": "ŞAQUL",
+                "explanation": "is. [ər.] divarın ***iliyini",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 9
+            },
+            {
+                "word": "ŞULUQ",
+                "explanation": "sif. 1. nadinc",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 10
+            },
+            {
+                "word": "QUQUŞU",
+                "explanation": "is. 1. ördək fəsiləsinə mənsub ağ (nadir hallarda qara) yumşaq tüklü",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 11
+            },
+            {
+                "word": "QUQULU",
+                "explanation": "is. məh. 1. bütöv çıxarılmış qoz içi",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 12
+            },
+            {
+                "word": "QULLAB",
+                "explanation": "is. 1. bir udum hava çəkmə; birçəkim",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 13
+            },
+            {
+                "word": "QULLUQ",
+                "explanation": "is. 1. xidmət",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 14
+            },
+            {
+                "word": "ULULUQ",
+                "explanation": "is. böyüklük",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 15
+            },
+            {
+                "word": "UŞAQLI",
+                "explanation": "sif. uşağı ya uşaqları olan. ***qadın. – [cəmilə:] əhməd *** anaya heçbir zaman kəm baxa bilməz",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 16
+            },
+            {
+                "word": "ALABULA",
+                "explanation": "sif. rəngbərəng xallardan",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 17
+            },
+            {
+                "word": "QUQQULU",
+                "explanation": "is. məh. 1. bütöv çıxarılmış qoz içi",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 18
+            },
+            {
+                "word": "QULAQLI",
+                "explanation": "sif. 1. qulaqları olan (bax qulaq2-ci mənada). sifətini *** papaq altındagizlətmiş dəmiryolçu qarşımdan ötürdü",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 19
+            },
+            {
+                "word": "QULLABI",
+                "explanation": "is. [ər.] yalan",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 20
+            },
+            {
+                "word": "QUŞBAŞI",
+                "explanation": "sif. iri parçalar şəklində",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 21
+            },
+            {
+                "word": "UŞAQLIQ",
+                "explanation": "is. 1. uşaq yaşları. *** dövrü. *** illəri yadımdadır. uşaqlığı kənddə keçib. *** xatirələri",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 22
+            },
+            {
+                "word": "BAŞQULAQ",
+                "explanation": "is. dan. sir-sifət",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 23
+            },
+            {
+                "word": "QULAQLIQ",
+                "explanation": "is. 1. isti papağın qulağı örtənhissəsi",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 24
+            },
+            {
+                "word": "ŞULUQLUQ",
+                "explanation": "is. 1. nadinclik",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 25
+            },
+            {
+                "word": "QUQQUQUŞU",
+                "explanation": "is. zool. adətən özünə yuva tikməyib",
+                "isPanagram": false,
+                "score": 9,
+                "length": 9,
+                "id": 26
+            },
+            {
+                "word": "ALABULALIQ",
+                "explanation": "is. ala-bula şeyin halı",
+                "isPanagram": false,
+                "score": 10,
+                "length": 10,
+                "id": 27
+            },
+            {
+                "word": "BULAŞIQ",
+                "explanation": "sif. 1. bir şeyə bulaşmış",
+                "isPanagram": true,
+                "score": 17,
+                "length": 7,
+                "id": 28
+            },
+            {
+                "word": "BULAŞIQLIQ",
+                "explanation": "is. bulaşmış şeyin halı",
+                "isPanagram": true,
+                "score": 17,
+                "length": 10,
+                "id": 29
+            },
+            {
+                "word": "QULAQBALIŞI",
+                "explanation": "is. yatarkən qulaq altınaqoyulan kiçik yastıqca",
+                "isPanagram": true,
+                "score": 17,
+                "length": 11,
+                "id": 30
+            }
+        ]
+    }
+}

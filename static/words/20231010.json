@@ -1,0 +1,159 @@
+{
+    "gameData": {
+        "day": "20231010",
+        "expiration": "1696982340",
+        "centerLetter": "V",
+        "outerLetters": [
+            "K",
+            "Ə",
+            "İ",
+            "P",
+            "O",
+            "L"
+        ],
+        "words_info": {
+            "word_count": 16,
+            "sum_score": 88,
+            "panagram_count": 1,
+            "word_length": {
+                "9": 1,
+                "6": 2,
+                "8": 2,
+                "10": 1,
+                "5": 3,
+                "7": 2,
+                "4": 5
+            }
+        },
+        "words": [
+            {
+                "word": "KİVİ",
+                "explanation": "is. qabığı tüklü",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "PİVƏ",
+                "explanation": "is. [rus. пиво] arpa səmənisindən hazırlanan azspirtli köpüklü içki. *** mayası. mayaotu ***yə xarakterik və acıtəhər dad verir",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "PLOV",
+                "explanation": "is. bişirilib süzülmüş düyüdən vəmüxtəlif xuruşlardan ibarət çoxlu növləri olanməşhur şərq xörəyi; aş",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "VƏLƏ",
+                "explanation": "is. məh. bir yaba dolusu",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "VƏLİ",
+                "explanation": "is. [ər.] 1. hami",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 5
+            },
+            {
+                "word": "ƏVVƏL",
+                "explanation": "zərf [ər.] 1. ilk dəfə",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 6
+            },
+            {
+                "word": "KƏKOV",
+                "explanation": "is. dan. kəkələyən adam; kəkə.*** adam. *** uşaq",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 7
+            },
+            {
+                "word": "VƏKİL",
+                "explanation": "is. [ər.] 1. vəkalətə əsasən iş görən şəxs. [səkinə xanım:] mənim bu saatda nə atam var",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 8
+            },
+            {
+                "word": "ƏVƏLİK",
+                "explanation": "is. bot. xalq təbabətində işlənən",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 9
+            },
+            {
+                "word": "KƏVƏLƏ",
+                "explanation": "is. zool. bataqlıqda yaşayanuzundimdik quş",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 10
+            },
+            {
+                "word": "ƏVVƏLKİ",
+                "explanation": "sif. 1. yer",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 11
+            },
+            {
+                "word": "VƏLVƏLƏ",
+                "explanation": "is. səs-küy",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 12
+            },
+            {
+                "word": "ƏVƏLİKLİ",
+                "explanation": "sif. əvəlik qatılaraq bişirilmiş.*** çilov (aş)",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 13
+            },
+            {
+                "word": "VƏKİLLİK",
+                "explanation": "is. vəkilin gördüyü iş",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 14
+            },
+            {
+                "word": "ƏLƏKVƏLƏK",
+                "explanation": "is. qarışıqlıq",
+                "isPanagram": false,
+                "score": 9,
+                "length": 9,
+                "id": 15
+            },
+            {
+                "word": "ƏVƏLİKPLOV",
+                "explanation": "is. əvəlik qatılmış düyüdənbişirilən plov",
+                "isPanagram": true,
+                "score": 17,
+                "length": 10,
+                "id": 16
+            }
+        ]
+    }
+}

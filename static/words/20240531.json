@@ -1,0 +1,198 @@
+{
+    "gameData": {
+        "day": "20240531",
+        "expiration": "1717199940",
+        "centerLetter": "R",
+        "outerLetters": [
+            "A",
+            "V",
+            "E",
+            "F",
+            "T",
+            "İ"
+        ],
+        "words_info": {
+            "word_count": 21,
+            "sum_score": 80,
+            "panagram_count": 1,
+            "word_length": {
+                "4": 11,
+                "5": 5,
+                "6": 2,
+                "7": 1,
+                "9": 1,
+                "8": 1
+            }
+        },
+        "words": [
+            {
+                "word": "ARAT",
+                "explanation": "is. k.t. şumlanıb sulanmış",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "ARİF",
+                "explanation": "sif. [ər.] bilən",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "ARVA",
+                "explanation": "is. dan. içinə şey qoyulan və yatökülən qabların (qutu",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "AVAR",
+                "explanation": "is. məh. keçmişdə kənd evlərinindamına döşənən qamışaoxşar ot; ümumiyyətlə",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "FARA",
+                "explanation": "[fr.] yolu işıqlandırmaq üçün avtomobillərdə",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 5
+            },
+            {
+                "word": "FETR",
+                "explanation": "[fr.] şlyapa",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 6
+            },
+            {
+                "word": "FİTR",
+                "explanation": "is. [ər.] orucdan çıxma",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 7
+            },
+            {
+                "word": "RAVİ",
+                "explanation": "is. [ər.] klas. rəvayət edən",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 8
+            },
+            {
+                "word": "TAVR",
+                "explanation": "is. krımın cənub hissəsinin qədiməhalisi",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 9
+            },
+            {
+                "word": "TİRE",
+                "explanation": "[fr.] 1. uzun üfüqi xətt (–) şəklindədurğu işarəsi.2. morze əlifbasında belə işarə",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 10
+            },
+            {
+                "word": "TİTR",
+                "explanation": "[fr.] 1. kinolentdə yazı",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 11
+            },
+            {
+                "word": "AVARA",
+                "explanation": "[fars.] 1. is. heç bir işlə məşğul olmayaraq boş-boş gəzən adam",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 12
+            },
+            {
+                "word": "FİTRİ",
+                "explanation": "sif. [ər.] xilqətində",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 13
+            },
+            {
+                "word": "TARİF",
+                "explanation": "[fr.] rəsmən müəyyən edilmişödünc",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 14
+            },
+            {
+                "word": "TATAR",
+                "explanation": "is. 1. ***ıstanın əsas əhalisinitəşkil edən türkdilli xalq və bu xalqa mənsubadam.2. volqaboyunda",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 15
+            },
+            {
+                "word": "TAVAR",
+                "explanation": "is. balaq (camış balası)",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 16
+            },
+            {
+                "word": "ETİRAF",
+                "explanation": "is. [ər.] öz qüsur və nöqsanını",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 17
+            },
+            {
+                "word": "VİVARİ",
+                "explanation": "is. [lat.] təcrübədə istifadə olunmaqüçün müxtəlif heyvanlar",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 18
+            },
+            {
+                "word": "REFERAT",
+                "explanation": "[lat. referre – məruzə etmək",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 19
+            },
+            {
+                "word": "TRAFARET",
+                "explanation": "[ital. traforetta – deşilmiş]1. bir şeyə köçürülməli olan şəkil və ya yazınümunəsi kəsilmiş nazik lövhə",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 20
+            },
+            {
+                "word": "REFERATİV",
+                "explanation": "sif. [lat.] kitab",
+                "isPanagram": true,
+                "score": 17,
+                "length": 9,
+                "id": 21
+            }
+        ]
+    }
+}

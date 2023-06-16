@@ -1,0 +1,213 @@
+{
+    "gameData": {
+        "day": "20231128",
+        "expiration": "1701215940",
+        "centerLetter": "X",
+        "outerLetters": [
+            "A",
+            "M",
+            "U",
+            "O",
+            "Y",
+            "L"
+        ],
+        "words_info": {
+            "word_count": 23,
+            "sum_score": 110,
+            "panagram_count": 1,
+            "word_length": {
+                "5": 6,
+                "6": 4,
+                "4": 8,
+                "8": 3,
+                "7": 2
+            }
+        },
+        "words": [
+            {
+                "word": "XALA",
+                "explanation": "is. 1. ananın bacısı. [sultan bəy:]***nın muzdu o olar ki",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "XAMA",
+                "explanation": "is. çiy südün üzü",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "XAYA",
+                "explanation": "is. [fars.] anat. erkəklik vəzilərininyerləşdiyi kisəcik. // erkəklik vəziləri",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "XOXU",
+                "explanation": "is. ifritə (adətən körpə uşaqları qorxutmaq üçün işlədilir). yum gözünü",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "OXLU",
+                "explanation": "sif. oxu olan. *** təkər.◊ *** kirpi zool. – gəmiricilər dəstəsindənkürəyi və yanları uzun tikanlarla örtülüməməli heyvan",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 5
+            },
+            {
+                "word": "YAXA",
+                "explanation": "is. 1. paltarın boyun keçən hissəsi",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 6
+            },
+            {
+                "word": "YUXA",
+                "explanation": "is. 1. nazik yayılmış (mayasız) xəmirdənsacda bişirilən çörək növü; yayma.***",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 7
+            },
+            {
+                "word": "YUXU",
+                "explanation": "is. 1. dövraşırı yatmaq şəklində davam edən fizioloji hal (bu zaman beyin – şüur tamamilə",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 8
+            },
+            {
+                "word": "XAXAM",
+                "explanation": "is. yəhudilərdə baş kahin",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 9
+            },
+            {
+                "word": "MALAX",
+                "explanation": "is. bot. əncir növü. …azərbaycandaqiymətli əncir sortlarından tabaq əncir",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 10
+            },
+            {
+                "word": "MUXUL",
+                "explanation": "sif. məh. işə can yandırmayan",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 11
+            },
+            {
+                "word": "OXUMA",
+                "explanation": "“***q”dan f.is. [vahid:] lakin[anamın] ***sı ilə ağlamasını seçmək çətinidi. b.bayramov",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 12
+            },
+            {
+                "word": "YAXMA",
+                "explanation": "1. “***q1”dan f.is.2. is. üzərinə yağ və s. yaxılmış çörək parçası;***c. tapdıq dedi: – ana",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 13
+            },
+            {
+                "word": "YALXA",
+                "explanation": "sif. məh. 1. yanında başqa bir şey olmayan; yalnız",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 14
+            },
+            {
+                "word": "XALXAL",
+                "explanation": "is. heyvanlara məxsus binalardaayrıca bölmə. ***ı təmiz saxlamalı.– [zərnigar xanım] əlində çatı",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 15
+            },
+            {
+                "word": "XAMXAM",
+                "explanation": "1. sif. bişməmiş",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 16
+            },
+            {
+                "word": "XAMMAL",
+                "explanation": "is. sonradan sənayedə müxtəlifşeylər emal edilmək üçün yerdən çıxarılanvə ya istehsal edilən material",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 17
+            },
+            {
+                "word": "YUXULU",
+                "explanation": "sif. və zərf 1. yatmış halda (olan)",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 18
+            },
+            {
+                "word": "YOXLAMA",
+                "explanation": "1. “***q”dan f.is. [xədicə:]…sənin beləcə gəlib məni ***ndançox sevindim… s.hüseyn.2. is. bir işin düzgün və qanuni olubolmadığını",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 19
+            },
+            {
+                "word": "XALAXALA",
+                "explanation": "is. kiçik qızların gəlincikləoynadıqları oyun adı; gəlin-gəlin",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 20
+            },
+            {
+                "word": "MALXULYA",
+                "explanation": "is. [ər. əsli yun.] qara sevda",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 21
+            },
+            {
+                "word": "YAXALAMA",
+                "explanation": "“***q2”dan f.is. qabları***. əllərini ***",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 22
+            },
+            {
+                "word": "YOLUXMA",
+                "explanation": "1. “***q1”dan f.is.// mikrob",
+                "isPanagram": true,
+                "score": 17,
+                "length": 7,
+                "id": 23
+            }
+        ]
+    }
+}

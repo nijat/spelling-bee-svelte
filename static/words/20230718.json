@@ -1,0 +1,318 @@
+{
+    "gameData": {
+        "day": "20230718",
+        "expiration": "1689724740",
+        "centerLetter": "A",
+        "outerLetters": [
+            "U",
+            "M",
+            "H",
+            "Ə",
+            "T",
+            "B"
+        ],
+        "words_info": {
+            "word_count": 36,
+            "sum_score": 165,
+            "panagram_count": 1,
+            "word_length": {
+                "4": 11,
+                "7": 5,
+                "5": 14,
+                "6": 4,
+                "9": 1,
+                "8": 1
+            }
+        },
+        "words": [
+            {
+                "word": "ATAT",
+                "explanation": "is. uşaqların ağac üstə minərəkoynadıqları oyun. at-at oynamaq",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "ATMA",
+                "explanation": "“***q”dan f.is. və s. *** nizə.ən qədim insanların ilk *** silahı daş",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "BABA",
+                "explanation": "is. 1. atanın",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "BAHA",
+                "explanation": "[fars.] 1. is. dəyər",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "BUTA",
+                "explanation": "is. [fars.] içində qızıl",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 5
+            },
+            {
+                "word": "ƏMMA",
+                "explanation": "[ər.] 1. bax amma. şeir bir zivərdir",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 6
+            },
+            {
+                "word": "HAMM",
+                "explanation": "is. hürərkən itin çıxardığı səs",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 7
+            },
+            {
+                "word": "MAMA",
+                "explanation": "is. doğuş zamanı kömək göstərməkləməşğul olan (keçmişdə təhsilsiz",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 8
+            },
+            {
+                "word": "MƏTA",
+                "explanation": "is. [ər.] 1. satılan mal",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 9
+            },
+            {
+                "word": "TAAM",
+                "explanation": "is. [ər.] 1. xörək",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 10
+            },
+            {
+                "word": "TƏAM",
+                "explanation": "is. bax taam",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 11
+            },
+            {
+                "word": "BABAT",
+                "explanation": "sif. və zərf orta keyfiyyətli",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 12
+            },
+            {
+                "word": "ƏHATƏ",
+                "explanation": "is. [ər.] ətrafını tutma",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 13
+            },
+            {
+                "word": "HAMAM",
+                "explanation": "is. [ər.] çimmək üçün isti və soyuqsuyu olan xüsusi bina. şəhər ***ları.məhəllə ***ı. – [məşədi qəzənfər:] dahakim deyə bilər ki",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 14
+            },
+            {
+                "word": "HATƏM",
+                "explanation": "is. [şərq əsatirində çox varlı",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 15
+            },
+            {
+                "word": "HƏMTA",
+                "explanation": "is. [fars.] həmyaş",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 16
+            },
+            {
+                "word": "HƏTTA",
+                "explanation": "bağl. [ər.] cümlədə aid olduğusözü və ya söz birləşməsini ayırmaq vəgücləndirmək üçün işlədilir – üstəlik",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 17
+            },
+            {
+                "word": "MATAH",
+                "explanation": "is. [ər. “mətə” sözünün canlı dildəişlənən forması] qiymətli",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 18
+            },
+            {
+                "word": "MATƏM",
+                "explanation": "is. [ər.] yas",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 19
+            },
+            {
+                "word": "MƏMAT",
+                "explanation": "is. [ər.] ölüm",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 20
+            },
+            {
+                "word": "TABUT",
+                "explanation": "is. [ər.] cənazəni qoymaq üçün iriqutu. mehralı bəyin ***unu xanlıq imarətininbağına qoymuşdular",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 21
+            },
+            {
+                "word": "TAMAH",
+                "explanation": "is. [ər. təmə] bir şeyi əldə etməyə göstərilən hədsiz arzu; hərislik",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 22
+            },
+            {
+                "word": "TAMAM",
+                "explanation": "is. [ər.] 1. bitmə",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 23
+            },
+            {
+                "word": "TUTAM",
+                "explanation": "is. bir dəfədə və birdən tutulacaq miqdar. bir *** ot. – [molla nəsrəddin:] padşah mənim bir *** saqqalımı bir arşın görəndə onun kəndxudası da əl",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 24
+            },
+            {
+                "word": "TUTMA",
+                "explanation": "1. “***q”dan f.is. [ayrım qızı]cücələri ***ması üçün əlinə böyük birağac alıb",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 25
+            },
+            {
+                "word": "BATBAT",
+                "explanation": "is. bot. bəngotu; pis qoxulu acıdadan ot bitki (xalq təbabətində işlədilir).gödək saplaqlı yaşıl rəngli və yumurtayaoxşarzəhərli otların",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 26
+            },
+            {
+                "word": "ƏMMAMƏ",
+                "explanation": "is. [ər.] bəzi şərq ölkələrində:sarınmış uzun ağ parça",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 27
+            },
+            {
+                "word": "HƏMBAB",
+                "explanation": "sif. [fars.] dan. bir-birinə uyğun",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 28
+            },
+            {
+                "word": "MAHTAB",
+                "explanation": "is. [fars.] ay aydınlığı",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 29
+            },
+            {
+                "word": "ATABABA",
+                "explanation": "is. əcdad",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 30
+            },
+            {
+                "word": "MAHATMA",
+                "explanation": "is. [sanskr.] 1. hind mifologiyasındadünya ruhu",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 31
+            },
+            {
+                "word": "MƏHABƏT",
+                "explanation": "sif. [ər.] görünüşcə əzəmətli",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 32
+            },
+            {
+                "word": "MƏTBUAT",
+                "explanation": "is. [ər.] 1. kitab",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 33
+            },
+            {
+                "word": "TƏBABƏT",
+                "explanation": "is. [ər.] xəstəliklər",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 34
+            },
+            {
+                "word": "TUTHATUT",
+                "explanation": "is. kütləvi miqyasda aparılan həbs",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 35
+            },
+            {
+                "word": "MATMƏBHUT",
+                "explanation": "zərf [ər.] heyrət içində",
+                "isPanagram": true,
+                "score": 17,
+                "length": 9,
+                "id": 36
+            }
+        ]
+    }
+}

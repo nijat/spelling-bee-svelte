@@ -1,0 +1,182 @@
+{
+    "gameData": {
+        "day": "20231103",
+        "expiration": "1699055940",
+        "centerLetter": "M",
+        "outerLetters": [
+            "F",
+            "İ",
+            "S",
+            "K",
+            "Ü",
+            "L"
+        ],
+        "words_info": {
+            "word_count": 19,
+            "sum_score": 95,
+            "panagram_count": 1,
+            "word_length": {
+                "4": 5,
+                "5": 8,
+                "8": 1,
+                "6": 3,
+                "9": 1,
+                "7": 1
+            }
+        },
+        "words": [
+            {
+                "word": "FİLM",
+                "explanation": "[ing.] kino***",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "KİMİ",
+                "explanation": "əvəz. bəzisi",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "MİSL",
+                "explanation": "is. [ər.] 1. bənzər",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "MİSS",
+                "explanation": "[ing. ***] ingiltərə və amerikadaərə getməmiş qadın (adətən ad və ya familiyanınəvvəlində işlədilir)",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "MÜLK",
+                "explanation": "is. [ər.] köhn. 1. birinə məxsus torpaqsahəsi",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 5
+            },
+            {
+                "word": "KİLİM",
+                "explanation": "is. [fars.] yun və ya pambıqdantoxunan zolaqlı",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 6
+            },
+            {
+                "word": "MİFİK",
+                "explanation": "“mif”dən sif. əsatiri",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 7
+            },
+            {
+                "word": "MİLİS",
+                "explanation": "[lat. militia – ordu] köhn. 1. bax***ioner. kapitan iki ***lə daxil olur.i.əfəndiyev. □ *** nəfəri – bax ***ioner",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 8
+            },
+            {
+                "word": "MİLLİ",
+                "explanation": "sif. 1. üzərində milləri olan",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 9
+            },
+            {
+                "word": "MÜLKİ",
+                "explanation": "sif. [ər.] 1. vətəndaşların hüquqivəziyyətinə aid olan. *** məcəllə. ***hüquq.2. qeyri-hərbi",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 10
+            },
+            {
+                "word": "SİMLİ",
+                "explanation": "sif. simi olan",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 11
+            },
+            {
+                "word": "SÜMSÜ",
+                "explanation": "is. quşları aldadıb tutmaq üçünonların səsini yamsılayan ovçu aləti. [kərimbaba:] *** quş kimi oxuyur",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 12
+            },
+            {
+                "word": "SÜMÜK",
+                "explanation": "is. 1. insan və onurğalı heyvan skeletinin ayrı-ayrı tərkib hissəsi. qol sümüyü. baldır sümüyü. – [imanqulunun] bədəni elə tərpənirdi ki",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 13
+            },
+            {
+                "word": "MÜFLİS",
+                "explanation": "sif. [ər.] 1. iflasa uğramış",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 14
+            },
+            {
+                "word": "MÜSLİM",
+                "explanation": "[ər.] bax müsəlman 1-ci mənada",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 15
+            },
+            {
+                "word": "SÜMSÜK",
+                "explanation": "sif. daim sülənən",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 16
+            },
+            {
+                "word": "SÜMÜKLÜ",
+                "explanation": "sif. 1. sümüyü olan. *** ət.2. sümükləri çıxmış",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 17
+            },
+            {
+                "word": "MİLLİLİK",
+                "explanation": "is. milli xüsusiyyət daşıma",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 18
+            },
+            {
+                "word": "MÜFLİSLİK",
+                "explanation": "is. müflis olma",
+                "isPanagram": true,
+                "score": 17,
+                "length": 9,
+                "id": 19
+            }
+        ]
+    }
+}

@@ -1,0 +1,189 @@
+{
+    "gameData": {
+        "day": "20231130",
+        "expiration": "1701388740",
+        "centerLetter": "E",
+        "outerLetters": [
+            "B",
+            "A",
+            "S",
+            "N",
+            "T",
+            "L"
+        ],
+        "words_info": {
+            "word_count": 20,
+            "sum_score": 88,
+            "panagram_count": 1,
+            "word_length": {
+                "5": 6,
+                "6": 3,
+                "8": 2,
+                "4": 8,
+                "7": 1
+            }
+        },
+        "words": [
+            {
+                "word": "ELAN",
+                "explanation": "is. [ər.] 1. yazılı",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "ESSE",
+                "explanation": "is. [fr. essai – təcrübə",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "LENT",
+                "explanation": "is. [alm.] 1. bəzək və s. üçün işlədiləndar",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "SENT",
+                "explanation": "is. [ing.] abş və bəzi başqa ölkələrdəxırda pul",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "TABE",
+                "explanation": "is. [ər.] başqasının ***liyində",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 5
+            },
+            {
+                "word": "TALE",
+                "explanation": "is. [ər.] 1. bəxt",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 6
+            },
+            {
+                "word": "TENT",
+                "explanation": "[ing.] günəş və yağışdan qorunmaqüçün parusin örtük. avtomaşının ***i",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 7
+            },
+            {
+                "word": "TEST",
+                "explanation": "is. [ing.] 1. insanın zehni inkişafını",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 8
+            },
+            {
+                "word": "ABSES",
+                "explanation": "is. [lat.] iltihab nəticəsində yaranmışirin topası. xronik *** tədricən inkişafedir",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 9
+            },
+            {
+                "word": "BALET",
+                "explanation": "is. [ital.] 1. musiqinin müşayiətiilə icra edilən rəqs və mimik hərəkətlərdənibarət müəyyən teatr tamaşası",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 10
+            },
+            {
+                "word": "SEANS",
+                "explanation": "[fr.] bir işin icrasının arasıkəsilmədəndavam etdiyi müddət",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 11
+            },
+            {
+                "word": "SELAB",
+                "explanation": "is. [ər. seyl və fars. ab] 1. sel suyu.dağdan *** gəlir. – [şahin:] görəsən",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 12
+            },
+            {
+                "word": "SELEN",
+                "explanation": "is. [yun.] kimyəvi element",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 13
+            },
+            {
+                "word": "SENAT",
+                "explanation": "[lat. ***us – qədim] 1. qədimromada yüksək hakimiyyət orqanı. venetsiyanınişlərini *** dolandırırdı",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 14
+            },
+            {
+                "word": "ANTENA",
+                "explanation": "[lat.] radio qurğusunun elektromaqnit dalğalarını yaymaq (radio verilişində) və ya onları tutmaq (qəbul etdikdə) üçün məftillər sistemi",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 15
+            },
+            {
+                "word": "ASBEST",
+                "explanation": "is. [yun.] miner. odadavamlımaddələr",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 16
+            },
+            {
+                "word": "LANSET",
+                "explanation": "is. [alm.] cərrah aləti",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 17
+            },
+            {
+                "word": "TETATET",
+                "explanation": "zərf [fr.] təklikdə",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 18
+            },
+            {
+                "word": "ATTESTAT",
+                "explanation": "[lat.] 1. orta məktəbi bitirməkvə ya xidmət haqqında şəhadətnamə.mənim 20 yaşında olan oğlum rəşid bəyaxundov 2 il bundan qabaq tiflis klassikgimn",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 19
+            },
+            {
+                "word": "TELBASAN",
+                "explanation": "is. saçları başda düzgün saxlamaq üçün qadınların saçlarına sancdıqları əşya",
+                "isPanagram": true,
+                "score": 17,
+                "length": 8,
+                "id": 20
+            }
+        ]
+    }
+}

@@ -1,0 +1,219 @@
+{
+    "gameData": {
+        "day": "20240120",
+        "expiration": "1705795140",
+        "centerLetter": "İ",
+        "outerLetters": [
+            "Y",
+            "G",
+            "D",
+            "E",
+            "N",
+            "Ə"
+        ],
+        "words_info": {
+            "word_count": 24,
+            "sum_score": 87,
+            "panagram_count": 1,
+            "word_length": {
+                "5": 10,
+                "8": 2,
+                "4": 12
+            }
+        },
+        "words": [
+            {
+                "word": "DƏNİ",
+                "explanation": "sif. [ər.] alçaq",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "DİDƏ",
+                "explanation": "is. [fars.] klas. göz. gər inanmazsan ki",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "DİGƏ",
+                "explanation": "is. məh. yayda yaylağa çıxarkənqoyunların bir müddət qaldıqları dağ ətəkləri.qoyunların ***dən qalxmaları",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "DİNG",
+                "explanation": "is. çəltiyi döyüb dənlərini qabığındançıxarmaq üçün qurğu. su ***i. ayaq***i. *** döymək. ***i işlətmək",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "DİNİ",
+                "explanation": "sif. [ər.] dinlə əlaqədar olan",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 5
+            },
+            {
+                "word": "DİYƏ",
+                "explanation": "is. [ər.] köhn. keçmiş zamanda: öldürülmüşadam və ya heyvan əvəzinə öldürəninverməli olduğu mal və ya pul; qanbahası",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 6
+            },
+            {
+                "word": "EYNİ",
+                "explanation": "sif. bir-birinə tamamilə oxşar",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 7
+            },
+            {
+                "word": "ƏNİN",
+                "explanation": "is. [ər.] şair. inləmə",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 8
+            },
+            {
+                "word": "ƏYİN",
+                "explanation": "is. 1. bədənin başdan qeyri bütünhissəsi. əyninə yeni kostyum geymişdir.əynində heç bir şey yoxdur (çılpaqdır)",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 9
+            },
+            {
+                "word": "GİDİ",
+                "explanation": "sif. pis",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 10
+            },
+            {
+                "word": "YENİ",
+                "explanation": "sif. 1. ilk dəfə yaradılmış lap yaxınlarda meydana gəlmiş",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 11
+            },
+            {
+                "word": "YİYƏ",
+                "explanation": "is. hər hansı bir şey üzərində mülkiyyəthüququ olan adam; sahib. oğul",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 12
+            },
+            {
+                "word": "DEYİN",
+                "explanation": "is. məh. vəsiyyət",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 13
+            },
+            {
+                "word": "DİNGƏ",
+                "explanation": "is. məh. 1. hündür yer.2. söhbət",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 14
+            },
+            {
+                "word": "DİNGİ",
+                "explanation": "is. bot. şitil",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 15
+            },
+            {
+                "word": "DİYİN",
+                "explanation": "is. məh. atın boynuna bağlanan ip;çatı. [dərviş:] *** atın boğazında irəlidənhazır idi. a.divanbəyoğlu",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 16
+            },
+            {
+                "word": "ƏDƏDİ",
+                "explanation": "sif. [ər.] riyaz. ədədlərlə ifadəolunan. *** kəmiyyət. ədəbi nisbət. –diferensial tənlikləri təqribi həll etmək üçünmüxtəlif qrafik və *** meto",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 17
+            },
+            {
+                "word": "ƏNGİN",
+                "explanation": "sif. şair. 1. geniş",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 18
+            },
+            {
+                "word": "GİYİD",
+                "explanation": "is. quşu aldadıb tutmaq üçün işlədilənquş səsi çıxaran alət. …quşçular bildirçindüdüyü (***) çalmaqla erkək bildirçinialdadıb tutardılar",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 19
+            },
+            {
+                "word": "NƏNNİ",
+                "explanation": "is. 1. körpə uşaqları yatırtmaq üçünasılan kiçik yatacaq. [qumru] uşağı ***yəsalıb küncə qısıldı",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 20
+            },
+            {
+                "word": "NİNNİ",
+                "explanation": "is. layla",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 21
+            },
+            {
+                "word": "YEYİN",
+                "explanation": "sif. tez",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 22
+            },
+            {
+                "word": "YENİYENİ",
+                "explanation": "1. sif. təzə-təzə. yeni-yenievlər. yeni-yeni adamlar. yeni-yeni qüvvələr.– [mirpaşa:] amma çox sağ ol",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 23
+            },
+            {
+                "word": "DEYİNGƏN",
+                "explanation": "sif. çox deyinən",
+                "isPanagram": true,
+                "score": 17,
+                "length": 8,
+                "id": 24
+            }
+        ]
+    }
+}

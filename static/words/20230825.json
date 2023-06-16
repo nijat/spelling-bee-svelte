@@ -1,0 +1,188 @@
+{
+    "gameData": {
+        "day": "20230825",
+        "expiration": "1693007940",
+        "centerLetter": "S",
+        "outerLetters": [
+            "G",
+            "A",
+            "N",
+            "Z",
+            "R",
+            "Ə"
+        ],
+        "words_info": {
+            "word_count": 20,
+            "sum_score": 72,
+            "panagram_count": 1,
+            "word_length": {
+                "4": 11,
+                "6": 4,
+                "5": 4,
+                "7": 1
+            }
+        },
+        "words": [
+            {
+                "word": "ASAN",
+                "explanation": "sif. zəhmət tələb etməyən",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "ASAR",
+                "explanation": "is. [ər. “əsər” söz. cəmi] köhn. 1. əlamət",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "ƏRSƏ",
+                "explanation": "is. [ər.] 1. meydan",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "ƏSAS",
+                "explanation": "is. [ər.] 1. bünövrə",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "ƏSƏN",
+                "explanation": "sif. qəd. sağ",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 5
+            },
+            {
+                "word": "ƏSƏR",
+                "explanation": "is. [ər.] 1. iz",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 6
+            },
+            {
+                "word": "ƏSNA",
+                "explanation": "is. [ər.] vaxt",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 7
+            },
+            {
+                "word": "NƏSR",
+                "explanation": "is. [ər.] roman",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 8
+            },
+            {
+                "word": "SƏNA",
+                "explanation": "is. [ər.] klas. tərif",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 9
+            },
+            {
+                "word": "SƏNƏ",
+                "explanation": "is. [ər.] il. bir gecəlik mətləbin bir*** mabədi var. m.ə.sabir. millətin beş*** bundan əqdəm; yüz nəfərdən biri tutmazdıqələm",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 10
+            },
+            {
+                "word": "SƏZA",
+                "explanation": "sif. [fars.] layiq",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 11
+            },
+            {
+                "word": "ƏSGƏR",
+                "explanation": "is. [ər.] 1. sıravi hərbi qulluqçu;soldat. milli ordunun ***i. bir bölük ***.*** və matroslar",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 12
+            },
+            {
+                "word": "ƏSRAR",
+                "explanation": "is. [ər. “sirr” söz. cəmi] sirlər.mən belə ***ı qana bilmərəm; qanmazolub da dayana bilmərəm. m.ə",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 13
+            },
+            {
+                "word": "NASAZ",
+                "explanation": "sif. və zərf [fars.] 1. kefsiz",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 14
+            },
+            {
+                "word": "SAZAN",
+                "explanation": "is. zool. əsasən qamışlıq",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 15
+            },
+            {
+                "word": "ƏSASƏN",
+                "explanation": "[ər.] 1. zərf əsli",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 16
+            },
+            {
+                "word": "NASƏZA",
+                "explanation": "sif. [fars.] klas. ədəbsiz",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 17
+            },
+            {
+                "word": "SƏNGƏR",
+                "explanation": "is. güllədən",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 18
+            },
+            {
+                "word": "SƏRSƏR",
+                "explanation": "is. [ər.] güclü və soyuq külək",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 19
+            },
+            {
+                "word": "RƏNGSAZ",
+                "explanation": "is. [fars.] divara",
+                "isPanagram": true,
+                "score": 17,
+                "length": 7,
+                "id": 20
+            }
+        ]
+    }
+}

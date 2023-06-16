@@ -1,0 +1,207 @@
+{
+    "gameData": {
+        "day": "20230821",
+        "expiration": "1692662340",
+        "centerLetter": "I",
+        "outerLetters": [
+            "T",
+            "A",
+            "N",
+            "Z",
+            "L",
+            "P"
+        ],
+        "words_info": {
+            "word_count": 22,
+            "sum_score": 123,
+            "panagram_count": 1,
+            "word_length": {
+                "5": 5,
+                "4": 6,
+                "10": 1,
+                "8": 4,
+                "9": 1,
+                "7": 3,
+                "6": 2
+            }
+        },
+        "words": [
+            {
+                "word": "ALIN",
+                "explanation": "is. 1. üzün saç ilə qaş arasında olanön hissəsi. geniş ***. dar ***. – süleymanbəy əyləşir yerdə",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "ALLI",
+                "explanation": "sif. köhn. al rəngli paltar geymiş.tərifli gözəllər gəlhagəl oldu; yaşıllı",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "ANLI",
+                "explanation": "sif. qəd. ağıllı",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "ATLI",
+                "explanation": "1. sif. at minmiş",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "PAZI",
+                "explanation": "is. məh. çuğundur. □ *** kimi – çuğundur kimi (tünd-qırmızı",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 5
+            },
+            {
+                "word": "TAZI",
+                "explanation": "is. bərkqaçan",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 6
+            },
+            {
+                "word": "ALALI",
+                "explanation": "sif. alası olan",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 7
+            },
+            {
+                "word": "ANALI",
+                "explanation": "sif. anası olan. *** uşaq. ***quzu. – *** quzu",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 8
+            },
+            {
+                "word": "ATALI",
+                "explanation": "sif. atası olan. *** uşaq. ***(z.) böyümək",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 9
+            },
+            {
+                "word": "NALLI",
+                "explanation": "sif. nal vurulmuş; nallanmış. ***at. – əyilmiş çəkmənin *** dabanı; siyrilibpapağın o yan-bu yanı",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 10
+            },
+            {
+                "word": "NAZLI",
+                "explanation": "sif. şivəli",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 11
+            },
+            {
+                "word": "PLANLI",
+                "explanation": "sif. əvvəlcədən müəyyənləşdirilmişplana əsasən həyata keçirilən",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 12
+            },
+            {
+                "word": "TINTIN",
+                "explanation": "sif. və zərf bəzi səsləri burundademəkdən ibarət tələffüz tərzi",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 13
+            },
+            {
+                "word": "NAZNAZI",
+                "explanation": "is. mus. ağır templi azərbaycanoyun havalarından biri",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 14
+            },
+            {
+                "word": "PALANLI",
+                "explanation": "sif. dalında palanı olan; çullu. birgün … *** ata minmiş bir qocanı darvazamızınağzında durmuş gördüm",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 15
+            },
+            {
+                "word": "TAPINTI",
+                "explanation": "is. tapılan şey. arxeoloji ***lar",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 16
+            },
+            {
+                "word": "ATAANALI",
+                "explanation": "sif. atası və anası olan. ***uşaq. atanı-analı böyüsünlər",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 17
+            },
+            {
+                "word": "TALANTLI",
+                "explanation": "sif. istedadlı. [elçin:] sevinc",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 18
+            },
+            {
+                "word": "TIPPILTI",
+                "explanation": "is. tıpp (tıp-tıp) səsi. ***eşitmək",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 19
+            },
+            {
+                "word": "ZIPPILTI",
+                "explanation": "is. dan. bir şey yuxarıdan düşdükdə",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 20
+            },
+            {
+                "word": "ANALIATALI",
+                "explanation": "sif. anası və atası olan.analı-atalı (z.) böyüsün",
+                "isPanagram": false,
+                "score": 10,
+                "length": 10,
+                "id": 21
+            },
+            {
+                "word": "AZTAPILAN",
+                "explanation": "sif. nadir",
+                "isPanagram": true,
+                "score": 17,
+                "length": 9,
+                "id": 22
+            }
+        ]
+    }
+}

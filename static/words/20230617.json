@@ -1,0 +1,165 @@
+{
+    "gameData": {
+        "day": "20230617",
+        "expiration": "1687046340",
+        "centerLetter": "Ş",
+        "outerLetters": [
+            "A",
+            "R",
+            "U",
+            "S",
+            "N",
+            "I"
+        ],
+        "words_info": {
+            "word_count": 17,
+            "sum_score": 79,
+            "panagram_count": 1,
+            "word_length": {
+                "5": 3,
+                "4": 7,
+                "7": 2,
+                "8": 2,
+                "6": 3
+            }
+        },
+        "words": [
+            {
+                "word": "ANIŞ",
+                "explanation": "is. qəd. istək",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "AŞNA",
+                "explanation": "is. 1. dost",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "NAŞI",
+                "explanation": "sif. [ər.] 1. nabələd",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "ŞANA",
+                "explanation": "is. otu",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "ŞANI",
+                "explanation": "is. çox şirin",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 5
+            },
+            {
+                "word": "ŞANS",
+                "explanation": "is. [fr.] uğur qazanmaq imkanı",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 6
+            },
+            {
+                "word": "ŞURA",
+                "explanation": "is. [ər.] 1. hər hansı bir məsələni",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 7
+            },
+            {
+                "word": "ANAŞA",
+                "explanation": "is. dan. xaşxaşdan hasil olan çoxzəhərli narkotik maddə",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 8
+            },
+            {
+                "word": "ARŞIN",
+                "explanation": "is. metrik ölçü sistemi qəbul olunanadək işlədilən uzunluq ölçüsü (0",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 9
+            },
+            {
+                "word": "AŞURA",
+                "explanation": "is. [ər.] din. məhərrəm ayının10-cu günü (imam hüseynin qətl olunduğugün). *** günü tək bir səhər çağı; yığdıərradəyə övrət-uşağı",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 10
+            },
+            {
+                "word": "ŞANŞAN",
+                "explanation": "sif. şanlar şəklində",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 11
+            },
+            {
+                "word": "ŞIRŞIR",
+                "explanation": "təql. 1. is. bir qaydada axan",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 12
+            },
+            {
+                "word": "ŞIRRAN",
+                "explanation": "is. şəlalə. xatun … vedrəni götürüb",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 13
+            },
+            {
+                "word": "SARIŞIN",
+                "explanation": "sif. sarıyaçalar",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 14
+            },
+            {
+                "word": "SUAŞIRI",
+                "explanation": "is. çayda suyun iti axdığı yer",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 15
+            },
+            {
+                "word": "ŞANAŞANA",
+                "explanation": "sif. göz-göz",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 16
+            },
+            {
+                "word": "SUAŞIRAN",
+                "explanation": "is. tex. artıq suyun axıb getməsiüçün bəndin divarlarında düzəldilənhidrotexniki qurğu",
+                "isPanagram": true,
+                "score": 17,
+                "length": 8,
+                "id": 17
+            }
+        ]
+    }
+}

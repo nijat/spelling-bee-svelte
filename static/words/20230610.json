@@ -1,0 +1,614 @@
+{
+    "gameData": {
+        "day": "20230610",
+        "expiration": "1686441540",
+        "centerLetter": "Ə",
+        "outerLetters": [
+            "R",
+            "İ",
+            "V",
+            "S",
+            "L",
+            "T"
+        ],
+        "words_info": {
+            "word_count": 73,
+            "sum_score": 298,
+            "panagram_count": 1,
+            "word_length": {
+                "7": 9,
+                "6": 12,
+                "4": 31,
+                "5": 16,
+                "8": 2,
+                "9": 3
+            }
+        },
+        "words": [
+            {
+                "word": "ƏLİL",
+                "explanation": "is. və sif. xəstəlik və ya qocalıqnəticəsində əmək qabiliyyətini itirmiş;şikəst. ***lər cəmiyyəti",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "ƏLLİ",
+                "explanation": "sif. 1. əli olan. iri *** adam. 2. məc. qolu güclü",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "ƏRƏR",
+                "explanation": "is. [ər.] ardıc ağacı. qəddintəknə ər-ər",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "ƏRLİ",
+                "explanation": "sif. əri olan. ev tikdirənlər təkcə*** qadınlar deyildi. ə.əbülhəsən. // is. mənasında.*** qadın",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "ƏRRƏ",
+                "explanation": "is. [fars.] ikidəstəli iri mişar",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 5
+            },
+            {
+                "word": "ƏRSƏ",
+                "explanation": "is. [ər.] 1. meydan",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 6
+            },
+            {
+                "word": "ƏSƏL",
+                "explanation": "is. [ər.] klas. bal. baqqal … ***qiymətinə satar ayranı. q.zakir",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 7
+            },
+            {
+                "word": "ƏSƏR",
+                "explanation": "is. [ər.] 1. iz",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 8
+            },
+            {
+                "word": "ƏSİL",
+                "explanation": "is. [ər.] 1. əsas",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 9
+            },
+            {
+                "word": "ƏSİR",
+                "explanation": "is. [ər.] 1. müharibədə ələ keçirilən düşmən əsgəri",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 10
+            },
+            {
+                "word": "ƏSRİ",
+                "explanation": "sif. müasir",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 11
+            },
+            {
+                "word": "ƏTƏR",
+                "explanation": "is. dan. iz",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 12
+            },
+            {
+                "word": "ƏTİR",
+                "explanation": "is. [ər.] 1. gözəl iy",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 13
+            },
+            {
+                "word": "ƏTLİ",
+                "explanation": "sif. 1. ətcə dolğun; kök",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 14
+            },
+            {
+                "word": "LƏLƏ",
+                "explanation": "is. 1. keçmişdə kübar və varlı ai***rdəoğlan uşağının tərbiyəsilə məşğul olanadam. [qətibə xanım:] səba xanım",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 15
+            },
+            {
+                "word": "LİRƏ",
+                "explanation": "[ital.] türkiyədə",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 16
+            },
+            {
+                "word": "RƏİS",
+                "explanation": "is. [ər.] idarə edən",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 17
+            },
+            {
+                "word": "SƏLƏ",
+                "explanation": "is. küpə və s. qabların ağzını bağlamaqüçün kənd yerlərində işlədilən",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 18
+            },
+            {
+                "word": "SƏLT",
+                "explanation": "sif. dan. bütünlüklə",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 19
+            },
+            {
+                "word": "SƏRT",
+                "explanation": "sif. 1. bərk",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 20
+            },
+            {
+                "word": "SƏRV",
+                "explanation": "is. [fars.] 1. bot. cənubda bitən iynəyarpaqlı",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 21
+            },
+            {
+                "word": "SİLƏ",
+                "explanation": "is. [ər.] 1. qovuşma",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 22
+            },
+            {
+                "word": "TƏLƏ",
+                "explanation": "is. vəhşi və ov heyvanlarını və yaquşları",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 23
+            },
+            {
+                "word": "TƏLL",
+                "explanation": "is. uzun təpə. [bəxtiyar] gözünüaçanda gördü",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 24
+            },
+            {
+                "word": "TƏRS",
+                "explanation": "is. və sif. 1. bir şeyin əks tərəfi",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 25
+            },
+            {
+                "word": "TİRƏ",
+                "explanation": "is. 1. arx",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 26
+            },
+            {
+                "word": "TİTƏ",
+                "explanation": "is. bəzi adamların göz bəbəyindəolan ağ ləkə",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 27
+            },
+            {
+                "word": "VƏLƏ",
+                "explanation": "is. məh. bir yaba dolusu",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 28
+            },
+            {
+                "word": "VƏLİ",
+                "explanation": "is. [ər.] 1. hami",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 29
+            },
+            {
+                "word": "VƏSİ",
+                "explanation": "is. [ər.] köhn. ölmüş bir adamın ***yyətini yerinə yetirən. çün səd istədi ki",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 30
+            },
+            {
+                "word": "VƏSL",
+                "explanation": "is. [ər.] klas. sevgilisi ilə qovuşma;vüsal. ruzü şəb ***in xəyalı canda qaldıyadigar. xətayi. könlüm evi xərabtər oldufəraqdan; ***in bu mülkü e",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 31
+            },
+            {
+                "word": "ƏVVƏL",
+                "explanation": "zərf [ər.] 1. ilk dəfə",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 32
+            },
+            {
+                "word": "SƏLİS",
+                "explanation": "sif. [ər.] rəvan",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 33
+            },
+            {
+                "word": "SƏTİR",
+                "explanation": "is. [ər.] hər hansı bir mətnin birxətdə yazılmış hissəsi",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 34
+            },
+            {
+                "word": "SƏTRİ",
+                "explanation": "sif. [ər.] sətirbəsətir",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 35
+            },
+            {
+                "word": "SİLLƏ",
+                "explanation": "is. açıq əllə",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 36
+            },
+            {
+                "word": "TƏLƏT",
+                "explanation": "is. [ər.] 1. üz",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 37
+            },
+            {
+                "word": "TƏLİS",
+                "explanation": "is. əl-üz dəsmalı",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 38
+            },
+            {
+                "word": "TƏRLİ",
+                "explanation": "sif. 1. tərləmiş",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 39
+            },
+            {
+                "word": "TƏRSƏ",
+                "explanation": "sif. və zərf tərs",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 40
+            },
+            {
+                "word": "TƏSİR",
+                "explanation": "is. [ər.] 1. əsər etmə və bunun nəticəsindəəmələ gələn hal",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 41
+            },
+            {
+                "word": "TƏSİS",
+                "explanation": "is. [ər.] əsasını",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 42
+            },
+            {
+                "word": "TƏTİL",
+                "explanation": "is. [ər.] 1. işin kütləvi və mütəşəkkilsurətdə dayandırılması. aprelin iyirmi doqquzundabaşlanan xırda ***lər iyulun ikisindənümumi *** şəklini",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 43
+            },
+            {
+                "word": "VƏLƏS",
+                "explanation": "is. bot. oduncağı bərk",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 44
+            },
+            {
+                "word": "VƏRTƏ",
+                "explanation": "is. [ər.] uçurum; təhlükə. boz at",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 45
+            },
+            {
+                "word": "VƏSƏT",
+                "explanation": "is. [ər.] 1. orta. böyükxanım evin***ində döşək üstündə … əyləşmişdir.m.s.ordubadi.2. mus. orta səs",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 46
+            },
+            {
+                "word": "VƏTƏR",
+                "explanation": "is. [ər.] anat. əzələləri sümüklərəbağlayan lent və lövhə şəklində sıx birləşdiricitoxumadan ibarət elastik törəmə",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 47
+            },
+            {
+                "word": "ƏLİİTİ",
+                "explanation": "sif. əldən çapıq; zirək",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 48
+            },
+            {
+                "word": "ƏSƏRLİ",
+                "explanation": "sif. təsirli",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 49
+            },
+            {
+                "word": "ƏSİLLİ",
+                "explanation": "sif. 1. əsil-nəcəbi olan",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 50
+            },
+            {
+                "word": "ƏTİRLİ",
+                "explanation": "sif. 1. özündən ətir saçan; rayihəli.*** çiçəklər. *** otlar. – bu bağçalardaev sahibləri *** güllər və çiçəklərəkmişdilər",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 51
+            },
+            {
+                "word": "SƏRİLİ",
+                "explanation": "sif. sərilmiş. *** paltar",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 52
+            },
+            {
+                "word": "SƏRSƏR",
+                "explanation": "is. [ər.] güclü və soyuq külək",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 53
+            },
+            {
+                "word": "SƏRVƏR",
+                "explanation": "is. [fars.] klas. başçı",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 54
+            },
+            {
+                "word": "SƏRVƏT",
+                "explanation": "is. [ər.] 1. var",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 55
+            },
+            {
+                "word": "TƏSVİR",
+                "explanation": "is. [ər.] 1. şeyin surətini",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 56
+            },
+            {
+                "word": "TİTƏLİ",
+                "explanation": "sif. titəsi olan",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 57
+            },
+            {
+                "word": "VƏRƏSƏ",
+                "explanation": "is. [ər.] köhn. rəs. ölən bir adamdansonra yaxın qohumluq və ya vəsiyyətyolu ilə onun mülk və malına sahib olanşəxs(lər); varis(lər)",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 58
+            },
+            {
+                "word": "VƏSİLƏ",
+                "explanation": "is. [ər.] 1. vasitə",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 59
+            },
+            {
+                "word": "ƏLİİSTİ",
+                "explanation": "sif. mahir atıcı",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 60
+            },
+            {
+                "word": "SƏLSƏLƏ",
+                "explanation": "is. [ər.] göyərçinə bənzər böyükquş",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 61
+            },
+            {
+                "word": "SƏRSƏRİ",
+                "explanation": "sif. [fars.] 1. işi-gücü və müəyyənyeri olmayıb orada-burada dolaşan",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 62
+            },
+            {
+                "word": "SİLSİLƏ",
+                "explanation": "is. [ər.] 1. keçmişdə qadınların başlarına taxdıqları bir-birinə keçirilmiş halqalar",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 63
+            },
+            {
+                "word": "TƏSƏLLİ",
+                "explanation": "is. [ər.] bir acını az da olsa unutduracaq",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 64
+            },
+            {
+                "word": "TƏSİRLİ",
+                "explanation": "sif. təsir edən",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 65
+            },
+            {
+                "word": "TƏSVİRİ",
+                "explanation": "sif. [ər.] təsvirlə əlaqədar olan",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 66
+            },
+            {
+                "word": "VƏLVƏLƏ",
+                "explanation": "is. səs-küy",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 67
+            },
+            {
+                "word": "VƏSVƏSƏ",
+                "explanation": "is. [ər.] şübhə və tərəddüd",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 68
+            },
+            {
+                "word": "VƏRƏSƏLİ",
+                "explanation": "sif. vərəsəsi olan",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 69
+            },
+            {
+                "word": "SİLSİLƏLİ",
+                "explanation": "sif. silsilə şəklində",
+                "isPanagram": false,
+                "score": 9,
+                "length": 9,
+                "id": 70
+            },
+            {
+                "word": "SİLSİLƏVİ",
+                "explanation": "sif. [ər.] arasıkəsilmədən davamedən",
+                "isPanagram": false,
+                "score": 9,
+                "length": 9,
+                "id": 71
+            },
+            {
+                "word": "VƏSVƏSƏLİ",
+                "explanation": "sif. iztirablı",
+                "isPanagram": false,
+                "score": 9,
+                "length": 9,
+                "id": 72
+            },
+            {
+                "word": "SƏRVƏTLİ",
+                "explanation": "sif. və is. sərvəti olan",
+                "isPanagram": true,
+                "score": 17,
+                "length": 8,
+                "id": 73
+            }
+        ]
+    }
+}

@@ -1,0 +1,214 @@
+{
+    "gameData": {
+        "day": "20230711",
+        "expiration": "1689119940",
+        "centerLetter": "N",
+        "outerLetters": [
+            "Ü",
+            "S",
+            "X",
+            "B",
+            "Ə",
+            "D"
+        ],
+        "words_info": {
+            "word_count": 23,
+            "sum_score": 106,
+            "panagram_count": 1,
+            "word_length": {
+                "5": 11,
+                "4": 7,
+                "7": 1,
+                "8": 1,
+                "6": 2,
+                "9": 1
+            }
+        },
+        "words": [
+            {
+                "word": "BƏND",
+                "explanation": "is. [fars.] 1. anat. skelet sümüklərinin oynaq yerləri; buğum",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "DƏNƏ",
+                "explanation": "is. [fars.] 1. eyni cinsdən olan şeylərin hər biri",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "ƏSƏN",
+                "explanation": "sif. qəd. sağ",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "NƏNƏ",
+                "explanation": "is. 1. atanın",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "NƏSB",
+                "explanation": "is. [ər.] : *** etmək – rəbt etmək",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 5
+            },
+            {
+                "word": "NƏSX",
+                "explanation": "is. [ər.] əsasən kitab çapında işlədilənərəb yazı xətlərindən birinin adı",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 6
+            },
+            {
+                "word": "SƏNƏ",
+                "explanation": "is. [ər.] il. bir gecəlik mətləbin bir*** mabədi var. m.ə.sabir. millətin beş*** bundan əqdəm; yüz nəfərdən biri tutmazdıqələm",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 7
+            },
+            {
+                "word": "BƏDƏN",
+                "explanation": "is. [ər.] insan və ya heyvanın vücudu;gövdə. *** üzvləri. iri ***.sağlam ***. ağ ***. – [gülpəri:] yazığıo qədər döyübdür ki",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 8
+            },
+            {
+                "word": "BƏNDƏ",
+                "explanation": "is. [fars.] köhn. 1. qul",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 9
+            },
+            {
+                "word": "DÜNƏN",
+                "explanation": "is. bu gündən əvvəlki gün",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 10
+            },
+            {
+                "word": "ƏNƏNƏ",
+                "explanation": "is. [ər.] tarixən meydana gələrəknəsildən-nəslə keçən adətlər",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 11
+            },
+            {
+                "word": "XƏNDƏ",
+                "explanation": "is. [fars.] köhn. gülüş",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 12
+            },
+            {
+                "word": "NƏDƏN",
+                "explanation": "əvəz. nə üçün",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 13
+            },
+            {
+                "word": "NƏSƏB",
+                "explanation": "is. [ər.] mənşə",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 14
+            },
+            {
+                "word": "NÜSXƏ",
+                "explanation": "is. [ər.] 1. yazılı bir şeydən çıxarılansurətlərdən hər biri (əlyazmasının",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 15
+            },
+            {
+                "word": "SƏNƏD",
+                "explanation": "is. [ər.] 1. bir şeyi",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 16
+            },
+            {
+                "word": "SÜNBƏ",
+                "explanation": "is. odlu silahların lüləsinin içinitəmizləmək",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 17
+            },
+            {
+                "word": "SÜSƏN",
+                "explanation": "is. bot. iri bənövşəyi",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 18
+            },
+            {
+                "word": "DÜBƏND",
+                "explanation": "is. [fars.] köhn. ayaqqabı növü. [molla qasım] ayağına qara meşindən dikdaban təbriz ***isi və bəzi vaxt sarı rəngli nəleyin geyərdi",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 19
+            },
+            {
+                "word": "ƏBƏDƏN",
+                "explanation": "zərf [ər.] heç vaxt",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 20
+            },
+            {
+                "word": "DƏNDƏNƏ",
+                "explanation": "is. [fars.] 1. təkərin çevrəsinimərkəzə birləşdirən taxta. arabanın bir ***sisınmışdır. – [arabaçı:] …atlar arıq",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 21
+            },
+            {
+                "word": "DƏNƏDƏNƏ",
+                "explanation": "sif. dənələr halında",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 22
+            },
+            {
+                "word": "NÜSXƏBƏND",
+                "explanation": "is. [ər. nüsxə və fars. …bənd]köhn. 1. aptekdə resept qəbul edən işçi; reseptçi",
+                "isPanagram": true,
+                "score": 17,
+                "length": 9,
+                "id": 23
+            }
+        ]
+    }
+}

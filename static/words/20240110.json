@@ -1,0 +1,423 @@
+{
+    "gameData": {
+        "day": "20240110",
+        "expiration": "1704931140",
+        "centerLetter": "İ",
+        "outerLetters": [
+            "Y",
+            "Ə",
+            "D",
+            "T",
+            "L",
+            "B"
+        ],
+        "words_info": {
+            "word_count": 49,
+            "sum_score": 248,
+            "panagram_count": 1,
+            "word_length": {
+                "5": 18,
+                "6": 9,
+                "9": 3,
+                "10": 1,
+                "4": 12,
+                "7": 5,
+                "13": 1
+            }
+        },
+        "words": [
+            {
+                "word": "BİBİ",
+                "explanation": "is. övlad üçün atanın bacısı",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "DƏLİ",
+                "explanation": "1. sif. ağlı və şüuru yerində olmayan",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "DİDƏ",
+                "explanation": "is. [fars.] klas. göz. gər inanmazsan ki",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "DİYƏ",
+                "explanation": "is. [ər.] köhn. keçmiş zamanda: öldürülmüşadam və ya heyvan əvəzinə öldürəninverməli olduğu mal və ya pul; qanbahası",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "ƏDİB",
+                "explanation": "is. [ər.] 1. yazıçı",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 5
+            },
+            {
+                "word": "ƏLİL",
+                "explanation": "is. və sif. xəstəlik və ya qocalıqnəticəsində əmək qabiliyyətini itirmiş;şikəst. ***lər cəmiyyəti",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 6
+            },
+            {
+                "word": "ƏLLİ",
+                "explanation": "sif. 1. əli olan. iri *** adam. 2. məc. qolu güclü",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 7
+            },
+            {
+                "word": "ƏTLİ",
+                "explanation": "sif. 1. ətcə dolğun; kök",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 8
+            },
+            {
+                "word": "TİBB",
+                "explanation": "is. [ər.] 1. xəstəliklər",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 9
+            },
+            {
+                "word": "TİTƏ",
+                "explanation": "is. bəzi adamların göz bəbəyindəolan ağ ləkə",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 10
+            },
+            {
+                "word": "TİYƏ",
+                "explanation": "is. qılınc",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 11
+            },
+            {
+                "word": "YİYƏ",
+                "explanation": "is. hər hansı bir şey üzərində mülkiyyəthüququ olan adam; sahib. oğul",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 12
+            },
+            {
+                "word": "BƏDİƏ",
+                "explanation": "is. [ər.] misli-bərabəri görünməmişşey",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 13
+            },
+            {
+                "word": "BƏDİİ",
+                "explanation": "sif. [ər.] 1. estetik zövqə",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 14
+            },
+            {
+                "word": "BƏLLİ",
+                "explanation": "sif. aydın",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 15
+            },
+            {
+                "word": "BİDƏT",
+                "explanation": "is. [ər.] hamı tərəfindən qədimdənbəri qəbul edilmiş qayda və adətə",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 16
+            },
+            {
+                "word": "BİLLƏ",
+                "explanation": "is. məh. uşaqlara verilən hər cürşirniyyat",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 17
+            },
+            {
+                "word": "BİTLİ",
+                "explanation": "sif. biti olan; başını",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 18
+            },
+            {
+                "word": "DƏLİL",
+                "explanation": "is. [ər.] hər hansı bir şeyi sübut etməküçün əsas; sübut. tutarlı ***. *** gətirmək.bunu sübut etmək üçün *** lazımdır",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 19
+            },
+            {
+                "word": "DİBLİ",
+                "explanation": "sif. dibi olan. *** çəllək",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 20
+            },
+            {
+                "word": "DİLLİ",
+                "explanation": "sif. 1. ağzında dili olan. // danışa bilən",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 21
+            },
+            {
+                "word": "ƏBƏDİ",
+                "explanation": "sif. və zərf [ər.] 1. daimi",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 22
+            },
+            {
+                "word": "ƏDƏBİ",
+                "explanation": "sif. [ər.] ***yyata aid olan.*** əsər. *** cərəyan. *** irs. ***müşavirə. *** müsabiqə",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 23
+            },
+            {
+                "word": "ƏDƏDİ",
+                "explanation": "sif. [ər.] riyaz. ədədlərlə ifadəolunan. *** kəmiyyət. ədəbi nisbət. –diferensial tənlikləri təqribi həll etmək üçünmüxtəlif qrafik və *** meto",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 24
+            },
+            {
+                "word": "LİLLİ",
+                "explanation": "sif. lehməli",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 25
+            },
+            {
+                "word": "TƏBİB",
+                "explanation": "is. [ər.] həkim. *** olsam",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 26
+            },
+            {
+                "word": "TƏBİİ",
+                "explanation": "sif. [ər.] 1. təbiətə (yer səthinə",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 27
+            },
+            {
+                "word": "TƏBİL",
+                "explanation": "is. [ər.] iri nağara. səhnənin dalından*** və sinc səsi gəlir. ə.haqverdiyev.[cavanşir:] qoy şeypurlar gurlasın",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 28
+            },
+            {
+                "word": "TƏTİL",
+                "explanation": "is. [ər.] 1. işin kütləvi və mütəşəkkilsurətdə dayandırılması. aprelin iyirmi doqquzundabaşlanan xırda ***lər iyulun ikisindənümumi *** şəklini",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 29
+            },
+            {
+                "word": "TİBBİ",
+                "explanation": "sif. [ər.] tiblə",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 30
+            },
+            {
+                "word": "BƏDİYƏ",
+                "explanation": "is. dan. bax bədihə",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 31
+            },
+            {
+                "word": "DƏDƏLİ",
+                "explanation": "sif. atası olan",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 32
+            },
+            {
+                "word": "ƏDƏBLİ",
+                "explanation": "sif. 1. yaxşı tərbiyə görmüş",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 33
+            },
+            {
+                "word": "ƏLİİTİ",
+                "explanation": "sif. əldən çapıq; zirək",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 34
+            },
+            {
+                "word": "TƏBDİL",
+                "explanation": "is. [ər.] köhn. 1. dəyişmə",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 35
+            },
+            {
+                "word": "TƏBİƏT",
+                "explanation": "is. [ər.] 1. yerdə təbii şəraitin(yerin səthi",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 36
+            },
+            {
+                "word": "TƏDİYƏ",
+                "explanation": "is. [ər.] mal. ödəmə",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 37
+            },
+            {
+                "word": "TİTƏLİ",
+                "explanation": "sif. titəsi olan",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 38
+            },
+            {
+                "word": "YİYƏLİ",
+                "explanation": "sif. yiyəsi",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 39
+            },
+            {
+                "word": "BİDƏLİL",
+                "explanation": "sif. [fars. bi… və ər. dəlil] baxdəlilsiz",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 40
+            },
+            {
+                "word": "DƏLİLLİ",
+                "explanation": "sif. dəlili olan; sübutlu",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 41
+            },
+            {
+                "word": "DİTDİLİ",
+                "explanation": "is. məh. ağcaqanad. qərvənd çox*** və milçək olan yerdi. ə.haqverdiyev.durğun suyun qırağında toz kimi ***uçuşurdu",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 42
+            },
+            {
+                "word": "ƏDLİYYƏ",
+                "explanation": "is. [ər.] hüq. mühakimə işlərinəbaxan dövlət orqanlarının məcmusu",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 43
+            },
+            {
+                "word": "LƏBLƏBİ",
+                "explanation": "is. çərəz kimi yeyilən qovrulmuşqabıqsız noxud. əkdiyim noxud",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 44
+            },
+            {
+                "word": "BƏLƏDİYYƏ",
+                "explanation": "is. [ər.] şəhər",
+                "isPanagram": false,
+                "score": 9,
+                "length": 9,
+                "id": 45
+            },
+            {
+                "word": "DƏBDƏBƏLİ",
+                "explanation": "sif. 1. təntənəli",
+                "isPanagram": false,
+                "score": 9,
+                "length": 9,
+                "id": 46
+            },
+            {
+                "word": "ƏBƏDİYYƏT",
+                "explanation": "is. [ər.] 1. əbədilik",
+                "isPanagram": false,
+                "score": 9,
+                "length": 9,
+                "id": 47
+            },
+            {
+                "word": "ƏDƏLLİBƏDƏLLİ",
+                "explanation": "sif. dan. yaxşı",
+                "isPanagram": false,
+                "score": 13,
+                "length": 13,
+                "id": 48
+            },
+            {
+                "word": "BƏLƏDİYYƏT",
+                "explanation": "is. [ər.] bələdlik",
+                "isPanagram": true,
+                "score": 17,
+                "length": 10,
+                "id": 49
+            }
+        ]
+    }
+}

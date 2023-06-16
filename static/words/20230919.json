@@ -1,0 +1,174 @@
+{
+    "gameData": {
+        "day": "20230919",
+        "expiration": "1695167940",
+        "centerLetter": "L",
+        "outerLetters": [
+            "B",
+            "A",
+            "Ə",
+            "Ü",
+            "R",
+            "Z"
+        ],
+        "words_info": {
+            "word_count": 18,
+            "sum_score": 78,
+            "panagram_count": 1,
+            "word_length": {
+                "4": 8,
+                "5": 5,
+                "11": 1,
+                "6": 1,
+                "7": 2,
+                "8": 1
+            }
+        },
+        "words": [
+            {
+                "word": "BALA",
+                "explanation": "1. is. övlad",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "BƏLA",
+                "explanation": "is. [ər.] 1. uğursuzluq",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "BƏZL",
+                "explanation": "[ər.] : *** etmək köhn. – bağışlamaq",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "ƏZƏL",
+                "explanation": "[ər.] 1. is. əvvəli",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "LALƏ",
+                "explanation": "is. [fars.] 1. bot. iriləçəkli qırmızıçiçəkləri olan bitki və bu bitkinin çiçəyi. bitərçəməndə ***lər",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 5
+            },
+            {
+                "word": "LƏLƏ",
+                "explanation": "is. 1. keçmişdə kübar və varlı ai***rdəoğlan uşağının tərbiyəsilə məşğul olanadam. [qətibə xanım:] səba xanım",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 6
+            },
+            {
+                "word": "LÜLƏ",
+                "explanation": "is. 1. odlu silahların gülləyə",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 7
+            },
+            {
+                "word": "ÜZLÜ",
+                "explanation": "sif. 1. üzü",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 8
+            },
+            {
+                "word": "BALBA",
+                "explanation": "is. məh. cincilim",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 9
+            },
+            {
+                "word": "ƏZƏLƏ",
+                "explanation": "is. [ər.] anat. insan və heyvanbədəninin",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 10
+            },
+            {
+                "word": "LƏRZƏ",
+                "explanation": "is. [fars.] titrəmə",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 11
+            },
+            {
+                "word": "ÜZRLÜ",
+                "explanation": "sif. və zərf səbəbi qəbul olunabilən",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 12
+            },
+            {
+                "word": "ZÜLAL",
+                "explanation": "is. [ər.] 1. saf",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 13
+            },
+            {
+                "word": "BÜLBÜL",
+                "explanation": "is. [fars.] qaratoyuq fəsiləsindənolan çox gözəl səsli quş. ***ün çəkdiyidil bəlasıdır. (ata. sözü)",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 14
+            },
+            {
+                "word": "LALƏZAR",
+                "explanation": "is. [fars.] şair. laləlik",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 15
+            },
+            {
+                "word": "ZƏLZƏLƏ",
+                "explanation": "is. [ər.] yer qabığının bəzi sahələrininvulkanik və ya tektonik proseslərüzündən güclü titrəməsi; yer sarsıntısı",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 16
+            },
+            {
+                "word": "LÜLƏLÜLƏ",
+                "explanation": "sif. və zərf lüləyə oxşar",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 17
+            },
+            {
+                "word": "BƏRABƏRÜZLÜ",
+                "explanation": "sif. hənd. üzləri bərabərolan. *** üçbucaq",
+                "isPanagram": true,
+                "score": 17,
+                "length": 11,
+                "id": 18
+            }
+        ]
+    }
+}

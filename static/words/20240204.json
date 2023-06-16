@@ -1,0 +1,237 @@
+{
+    "gameData": {
+        "day": "20240204",
+        "expiration": "1707091140",
+        "centerLetter": "Ö",
+        "outerLetters": [
+            "K",
+            "Z",
+            "G",
+            "L",
+            "Ü",
+            "Ç"
+        ],
+        "words_info": {
+            "word_count": 26,
+            "sum_score": 147,
+            "panagram_count": 1,
+            "word_length": {
+                "5": 6,
+                "8": 5,
+                "6": 7,
+                "4": 5,
+                "7": 3
+            }
+        },
+        "words": [
+            {
+                "word": "LÖKÜ",
+                "explanation": "is. məh. düyü unundan bişirilənqoğal",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "ÖKÜZ",
+                "explanation": "is. 1. iş heyvanı kimi istifadə edilənbuğa. təpəl ***. ***ləri arabaya qoşmaq.– …kiçik çobanlar ***lərə minib",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "ÖLÇÜ",
+                "explanation": "is. 1. hər hansı bir şeyi ölçməküçün qəbul edilmiş vahid. uzunluq ***sü.həcm ***sü.2. məc. bir şəxsə",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "ÖZLÜ",
+                "explanation": "sif. yapışqanlı",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "ÖZÜL",
+                "explanation": "is. bünövrə",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 5
+            },
+            {
+                "word": "ÇÖKÜK",
+                "explanation": "sif. çökəyə düşmüş",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 6
+            },
+            {
+                "word": "ÇÖLLÜ",
+                "explanation": "sif. köhn. 1. kəndli",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 7
+            },
+            {
+                "word": "GÖZLÜ",
+                "explanation": "sif. gözü olan",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 8
+            },
+            {
+                "word": "KÖKLÜ",
+                "explanation": "sif. 1. torpaq altında kökü",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 9
+            },
+            {
+                "word": "ÜÇGÖZ",
+                "explanation": "sif. üç gözü (otağı) olan. ***lü mənzil",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 10
+            },
+            {
+                "word": "ÜZGÖZ",
+                "explanation": "is. sifət",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 11
+            },
+            {
+                "word": "ÇÖLLÜK",
+                "explanation": "is. bax çöl 1-ci mənada. [atam:]ay dəli",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 12
+            },
+            {
+                "word": "GÖLLÜK",
+                "explanation": "is. göl çox olan yer. // sif. mənasında.*** sahə",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 13
+            },
+            {
+                "word": "GÖZGÖZ",
+                "explanation": "sif. və zərf 1. çoxlu gözləri",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 14
+            },
+            {
+                "word": "GÖZLÜK",
+                "explanation": "is. 1. bir şeyi daha yaxşı görməkvə ya gözü qorumaq üçün gözə taxılanşüşə alət: çeşmək",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 15
+            },
+            {
+                "word": "KÖKLÜK",
+                "explanation": "is. musiqi alətlərində simlərinsəslənməsinin bir-birinə uyğunluq vəziyyəti.tarın köklüyünü yoxlamaq",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 16
+            },
+            {
+                "word": "ÖLÇÜLÜ",
+                "explanation": "sif. ölçüsü olan",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 17
+            },
+            {
+                "word": "ÖZÜLLÜ",
+                "explanation": "sif. özülü olan",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 18
+            },
+            {
+                "word": "ÖKÜZLÜK",
+                "explanation": "is. yekəlik",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 19
+            },
+            {
+                "word": "ÖZLÜLÜK",
+                "explanation": "is. yapışqanlılıq",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 20
+            },
+            {
+                "word": "ÜÇGÖZLÜ",
+                "explanation": "sif. üç gözü (otağı) olan. *** mənzil",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 21
+            },
+            {
+                "word": "ÇÖKÜKLÜK",
+                "explanation": "is. çökük şeyin halı; çökükolma",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 22
+            },
+            {
+                "word": "GÖZLÜKLÜ",
+                "explanation": "sif. 1. gözündə gözlük olan",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 23
+            },
+            {
+                "word": "ÖKÜZGÖZÜ",
+                "explanation": "is. bot. sarı çiçəkləri təbabətdəişlədilən ot bitkisi",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 24
+            },
+            {
+                "word": "ÜÇÖLÇÜLÜ",
+                "explanation": "sif. 1. üç ölçüsü olan",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 25
+            },
+            {
+                "word": "GÖZLÜKÇÜ",
+                "explanation": "is. gözlük qayıran usta; eynəkçi",
+                "isPanagram": true,
+                "score": 17,
+                "length": 8,
+                "id": 26
+            }
+        ]
+    }
+}

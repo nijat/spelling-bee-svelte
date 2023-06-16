@@ -1,0 +1,221 @@
+{
+    "gameData": {
+        "day": "20240108",
+        "expiration": "1704758340",
+        "centerLetter": "N",
+        "outerLetters": [
+            "Y",
+            "A",
+            "E",
+            "Ə",
+            "X",
+            "Ş"
+        ],
+        "words_info": {
+            "word_count": 24,
+            "sum_score": 95,
+            "panagram_count": 1,
+            "word_length": {
+                "4": 12,
+                "5": 5,
+                "6": 3,
+                "8": 2,
+                "7": 2
+            }
+        },
+        "words": [
+            {
+                "word": "AXAN",
+                "explanation": "f.sif. 1. bax axar 1-ci mənada. [salam] lal *** kəhriz suyundan ovuc dolusu içdi. mir cəlal. 2. məc",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "ANƏN",
+                "explanation": "zərf [ər.] birdən",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "AŞNA",
+                "explanation": "is. 1. dost",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "AYNA",
+                "explanation": "is. [fars.] 1. güzgü. ***nın çatdığıcalaq qəbul eləməz. (ata. sözü). əgərbilmək istəyirsiniz ki",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "ƏYAN",
+                "explanation": "top. [ər.] köhn. keçmişdə: ölkəninyuxarı təbəqələrinə mənsub olan mötəbərvə yaşlı adamlar; zadəganlar",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 5
+            },
+            {
+                "word": "XANA",
+                "explanation": "is. 1. xırda dördbucaqlara bölünmüş bir şeyin qisimlərindən hər biri; dama",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 6
+            },
+            {
+                "word": "XANƏ",
+                "explanation": "is. [fars.] 1. ev",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 7
+            },
+            {
+                "word": "NANƏ",
+                "explanation": "[ər.] bot. yeyilən çoxillik ətirligöyərti növü. *** qurutmaq. üç dəstə ***.□ *** cövhəri (arağı) – ***dən çəkilənaraq",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 8
+            },
+            {
+                "word": "NƏNƏ",
+                "explanation": "is. 1. atanın",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 9
+            },
+            {
+                "word": "NƏŞƏ",
+                "explanation": "is. [ər.] kef",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 10
+            },
+            {
+                "word": "ŞANA",
+                "explanation": "is. otu",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 11
+            },
+            {
+                "word": "ŞANƏ",
+                "explanation": "is. [fars.] klas. daraq. xumar-xumarbaxmaq göz qaydasıdır; lalətək qızarmaq üzqaydasıdır; pərişanlıq zülfün öz qaydasıdır;nə badi-səbadan",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 12
+            },
+            {
+                "word": "ANAŞA",
+                "explanation": "is. dan. xaşxaşdan hasil olan çoxzəhərli narkotik maddə",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 13
+            },
+            {
+                "word": "EYNƏN",
+                "explanation": "[ər.] bax eyni ilə (“eyni”də).sonra dəmirovun xəyalında həkim məntəqələri*** canlanırdı. s.rəhimov",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 14
+            },
+            {
+                "word": "ƏNƏNƏ",
+                "explanation": "is. [ər.] tarixən meydana gələrəknəsildən-nəslə keçən adətlər",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 15
+            },
+            {
+                "word": "NANAY",
+                "explanation": "is. uzaq şərqdə yaşayan xalq;həmin xalqa mənsub olan adam",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 16
+            },
+            {
+                "word": "ŞAYAN",
+                "explanation": "sif. [fars.] klas. layiq",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 17
+            },
+            {
+                "word": "AŞXANA",
+                "explanation": "is. yeməkxana. məktəbin ***sı.– şofer dəftərxanaya yapışıq tikilmişbirmərtəbəli ***nın pəncərəsindən başınıçıxardıb cavab verdi",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 18
+            },
+            {
+                "word": "ŞANŞAN",
+                "explanation": "sif. şanlar şəklində",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 19
+            },
+            {
+                "word": "ŞƏNŞƏN",
+                "explanation": "sif. və zərf sevinə-sevinə",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 20
+            },
+            {
+                "word": "YANYAXA",
+                "explanation": "sif. yaxası yan tərəfdə olan.*** köynək",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 21
+            },
+            {
+                "word": "XANAXANA",
+                "explanation": "sif. 1. xanalardan ibarət",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 22
+            },
+            {
+                "word": "ŞANAŞANA",
+                "explanation": "sif. göz-göz",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 23
+            },
+            {
+                "word": "ŞEYXƏNA",
+                "explanation": "is. [ər.] ey şeyx",
+                "isPanagram": true,
+                "score": 17,
+                "length": 7,
+                "id": 24
+            }
+        ]
+    }
+}

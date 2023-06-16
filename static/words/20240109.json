@@ -1,0 +1,151 @@
+{
+    "gameData": {
+        "day": "20240109",
+        "expiration": "1704844740",
+        "centerLetter": "U",
+        "outerLetters": [
+            "K",
+            "R",
+            "A",
+            "İ",
+            "T",
+            "L"
+        ],
+        "words_info": {
+            "word_count": 15,
+            "sum_score": 88,
+            "panagram_count": 2,
+            "word_length": {
+                "6": 2,
+                "7": 1,
+                "9": 1,
+                "11": 1,
+                "4": 5,
+                "5": 4,
+                "8": 1
+            }
+        },
+        "words": [
+            {
+                "word": "KULA",
+                "explanation": "is. məh. odun",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "KURA",
+                "explanation": "is. bot. sarı rəngli yabanı yeməlibitki",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "TULA",
+                "explanation": "is. 1. hamar uzun tüklü",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "URLU",
+                "explanation": "sif. uru olan",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "UTİL",
+                "explanation": "[lat. ***is] işlətmək üçün yaramayan",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 5
+            },
+            {
+                "word": "RUTİL",
+                "explanation": "is. [lat.] qırmızımtıl rəngdə mineral",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 6
+            },
+            {
+                "word": "TİTUL",
+                "explanation": "[fr. ***us] 1. feodal və ya burjuacəmiyyətində: nəsildən-nəslə keçən",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 7
+            },
+            {
+                "word": "TUTAR",
+                "explanation": "is. güc",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 8
+            },
+            {
+                "word": "ULTRA",
+                "explanation": "[lat. ***] bir sıra mürəkkəb sözlərin “üstün”",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 9
+            },
+            {
+                "word": "AKTUAL",
+                "explanation": "sif. [lat.] hal-hazır üçün ənmühüm",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 10
+            },
+            {
+                "word": "KUTKUT",
+                "explanation": "zərf və sif. yığın halında",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 11
+            },
+            {
+                "word": "UTİLİTAR",
+                "explanation": "sif. [lat. utilitas-dan] ancaqpraktik istifadəni",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 12
+            },
+            {
+                "word": "KARİKATUR",
+                "explanation": "[ital.] 1. bir şəxsi və hadisəni qəsdən gülünc surətdə təsvir edən şəkil. gülməli ***a. – qəzetin birinci səhifəsində çəkilmiş ***ada ağ b",
+                "isPanagram": false,
+                "score": 9,
+                "length": 9,
+                "id": 13
+            },
+            {
+                "word": "ARTİKUL",
+                "explanation": "[lat.] malın",
+                "isPanagram": true,
+                "score": 17,
+                "length": 7,
+                "id": 14
+            },
+            {
+                "word": "KARİKATURLU",
+                "explanation": "sif. karikaturası olan",
+                "isPanagram": true,
+                "score": 17,
+                "length": 11,
+                "id": 15
+            }
+        ]
+    }
+}

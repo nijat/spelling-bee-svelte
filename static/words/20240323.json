@@ -1,0 +1,148 @@
+{
+    "gameData": {
+        "day": "20240323",
+        "expiration": "1711238340",
+        "centerLetter": "M",
+        "outerLetters": [
+            "O",
+            "A",
+            "F",
+            "Z",
+            "İ",
+            "R"
+        ],
+        "words_info": {
+            "word_count": 15,
+            "sum_score": 62,
+            "panagram_count": 1,
+            "word_length": {
+                "7": 1,
+                "6": 3,
+                "4": 7,
+                "5": 4
+            }
+        },
+        "words": [
+            {
+                "word": "AMİR",
+                "explanation": "is. [ər.] buyuran",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "ARAM",
+                "explanation": "is. [fars.] sakitlik",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "AZİM",
+                "explanation": "[ər.] : *** olmaq klas. – getmək",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "MAAF",
+                "explanation": "is. [ər.] köhn. hər cür vergi və mükəlləfiyyətdənazad olan kəndli",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "MAMA",
+                "explanation": "is. doğuş zamanı kömək göstərməkləməşğul olan (keçmişdə təhsilsiz",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 5
+            },
+            {
+                "word": "MAZİ",
+                "explanation": "is. [ər.] 1. klas. keçmiş zaman",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 6
+            },
+            {
+                "word": "OMAR",
+                "explanation": "is. onurğasız dəniz heyvanı; onayaqlıxərçəng",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 7
+            },
+            {
+                "word": "AMORF",
+                "explanation": "sif. [yun.] formasız",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 8
+            },
+            {
+                "word": "FİRMA",
+                "explanation": "[ital.] rəsmi hüquqa malik olub",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 9
+            },
+            {
+                "word": "FORMA",
+                "explanation": "[lat. ***] 1. şeyin xarici görünüşü",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 10
+            },
+            {
+                "word": "MAFAR",
+                "explanation": "is. [ər.] imkan",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 11
+            },
+            {
+                "word": "AMFORA",
+                "explanation": "is. [lat.] yağ və şərab saxlamaqüçün iki şaquli qulplu yumurta formalıqab. *** çox vaxt rəsmlərlə bəzədilirdi",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 12
+            },
+            {
+                "word": "MAARİF",
+                "explanation": "is. [ər.] əhali arasında savad",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 13
+            },
+            {
+                "word": "MARAZM",
+                "explanation": "is. [yun.] 1. beyin qabığınınümumi üzgünlüklə müşayiət olunan atrofiyasıvə psixi fəaliyyətinin dayanması",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 14
+            },
+            {
+                "word": "AFORİZM",
+                "explanation": "is. [yun.] dərin mənalı fikriifadə edən sabit söz birləşməsi və ya cümlə;hikmətli söz. nizaminin ***ləri",
+                "isPanagram": true,
+                "score": 17,
+                "length": 7,
+                "id": 15
+            }
+        ]
+    }
+}

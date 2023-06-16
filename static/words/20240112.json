@@ -1,0 +1,430 @@
+{
+    "gameData": {
+        "day": "20240112",
+        "expiration": "1705103940",
+        "centerLetter": "D",
+        "outerLetters": [
+            "K",
+            "R",
+            "S",
+            "A",
+            "N",
+            "Ə"
+        ],
+        "words_info": {
+            "word_count": 50,
+            "sum_score": 217,
+            "panagram_count": 1,
+            "word_length": {
+                "5": 13,
+                "4": 19,
+                "6": 7,
+                "7": 6,
+                "8": 4,
+                "12": 1
+            }
+        },
+        "words": [
+            {
+                "word": "ADNA",
+                "explanation": "is. cümə axşamı",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "DANA",
+                "explanation": "is. bir yaşdan iki yaşa qədər olaninək balası. *** əti. – danışıq ***nı qurdaverər. (məsəl)",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "DƏDƏ",
+                "explanation": "is. 1. ata. *** görməyib",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "DƏNƏ",
+                "explanation": "is. [fars.] 1. eyni cinsdən olan şeylərin hər biri",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "DƏRD",
+                "explanation": "is. [fars.] 1. qəm",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 5
+            },
+            {
+                "word": "DƏRƏ",
+                "explanation": "is. 1. iki dağ və ya təpə arasında",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 6
+            },
+            {
+                "word": "DƏRK",
+                "explanation": "[ər.] : *** etmək – anlamaq",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 7
+            },
+            {
+                "word": "DƏRS",
+                "explanation": "is. [ər.] 1. müəyyən bir fənni öyrənmək üçün daimi",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 8
+            },
+            {
+                "word": "ƏDƏD",
+                "explanation": "is. [ər.] 1. say",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 9
+            },
+            {
+                "word": "ƏDNA",
+                "explanation": "sif. və is. [ər.] klas. 1. alçaq",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 10
+            },
+            {
+                "word": "KADR",
+                "explanation": "[fr.] kino və ya fotolentində ayrıayrışəkil",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 11
+            },
+            {
+                "word": "KƏND",
+                "explanation": "is. əhalisi",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 12
+            },
+            {
+                "word": "NƏRD",
+                "explanation": "is. [ər.] 24 xanası olan iki çərçivəlitaxtadan",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 13
+            },
+            {
+                "word": "RADƏ",
+                "explanation": "is. [ər.] vaxt bildirən rəqəmlərdən sonra gələrək həmin rəqəmin təxmini olduğunu göstərir (adətən “***ləri” və “***lərində” şəklində işlədilir)",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 14
+            },
+            {
+                "word": "RƏDD",
+                "explanation": "is. [ər.] qəbul etməmə",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 15
+            },
+            {
+                "word": "SADƏ",
+                "explanation": "sif. [fars.] 1. mürəkkəb olmayan",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 16
+            },
+            {
+                "word": "SƏDA",
+                "explanation": "is. [ər.] səs",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 17
+            },
+            {
+                "word": "SƏDD",
+                "explanation": "is. [ər.] 1. müxtəlif məqsədlər üçünçəkilən divar",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 18
+            },
+            {
+                "word": "SƏDR",
+                "explanation": "is. [ər.] 1. iclasa",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 19
+            },
+            {
+                "word": "ADSAN",
+                "explanation": "is. nüfuz",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 20
+            },
+            {
+                "word": "DƏKKƏ",
+                "explanation": "is. məh. iri heyvanların (inək",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 21
+            },
+            {
+                "word": "DƏRƏK",
+                "explanation": "is. [ər.] 1. köhn. uçurumun dibi.2. aşağı dərəcə",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 22
+            },
+            {
+                "word": "DƏRNƏ",
+                "explanation": "is. məh. 1. yengə. gəlinin ***sikim idi?2. toy başçısı. *** olmaq",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 23
+            },
+            {
+                "word": "ƏDƏSƏ",
+                "explanation": "is. [ər.] 1. mərcimək dənəsi.2. gözlük",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 24
+            },
+            {
+                "word": "KASAD",
+                "explanation": "[ər.] 1. sif. ticarətdə: mala tələbolmadığı",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 25
+            },
+            {
+                "word": "KƏDƏR",
+                "explanation": "is. [ər.] qəm",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 26
+            },
+            {
+                "word": "NADAN",
+                "explanation": "sif. [fars.] 1. cahil",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 27
+            },
+            {
+                "word": "NƏDƏN",
+                "explanation": "əvəz. nə üçün",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 28
+            },
+            {
+                "word": "RADAR",
+                "explanation": "[ing.] bax radiolokator. radiolokasiyadaişlədilən qurğulara radiolokatordeyilir. bəzi yerlərdə bunları müxtəsər olaraq*** adlandırırlar",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 29
+            },
+            {
+                "word": "RADDƏ",
+                "explanation": "is. [ər.] vaxt bildirən rəqəmlərdən sonra gələrək həmin rəqəmin təxmini olduğunu göstərir (adətən “radələri” və “radələrində” şəklində işlədilir)",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 30
+            },
+            {
+                "word": "RƏNDƏ",
+                "explanation": "is. [fars.] taxtanı yonub hamarlamaqüçün dülgər aləti. [fərmanın] atasındanqalan *** və əl mişarının dəstəsi xurcununağzından görünürdü",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 31
+            },
+            {
+                "word": "SƏNƏD",
+                "explanation": "is. [ər.] 1. bir şeyi",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 32
+            },
+            {
+                "word": "DADRƏS",
+                "explanation": "is. [fars.] klas. köməkçi",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 33
+            },
+            {
+                "word": "DƏNDAN",
+                "explanation": "is. [fars.] klas. diş. olmasa qabiləgər dəhr cəfa verməz ona; təm biləzzətolanda necə ***ə dəyər? m",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 34
+            },
+            {
+                "word": "DƏRNƏK",
+                "explanation": "is. müəyyən bir məşğələ üçünvaxtaşırı bir yerə toplaşıb məşğul olan adamlarqrupu. xor dərnəyi. dram dərnəyi",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 35
+            },
+            {
+                "word": "ƏRRADƏ",
+                "explanation": "is. [ər.] köhn. 1. təkərlər üzərindəyerləşdirilmiş top",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 36
+            },
+            {
+                "word": "KANDAR",
+                "explanation": "is. qapı ağzı; astana. mən otağımın***ında durub baxırdım. t.ş.simurq.açdı baba müəllim pəncərəni bir anda;gördü biri yıxılıb qapının ***ında",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 37
+            },
+            {
+                "word": "NARDAN",
+                "explanation": "is. *** bişirilən riçal",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 38
+            },
+            {
+                "word": "SƏRDAR",
+                "explanation": "is. [fars.] 1. tar. keçmişdə: bir vilayətiidarə edən və dövlət başçısı adındansərəncam vermək hüququna malik olan hakim",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 39
+            },
+            {
+                "word": "DANƏNDƏ",
+                "explanation": "is. [fars.] klas. bilici",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 40
+            },
+            {
+                "word": "DƏNDƏNƏ",
+                "explanation": "is. [fars.] 1. təkərin çevrəsinimərkəzə birləşdirən taxta. arabanın bir ***sisınmışdır. – [arabaçı:] …atlar arıq",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 41
+            },
+            {
+                "word": "DƏRDSƏR",
+                "explanation": "is. [fars.] klas. başağrısı",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 42
+            },
+            {
+                "word": "DƏRDNAK",
+                "explanation": "sif. və zərf [fars.] 1. klas.dərdli",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 43
+            },
+            {
+                "word": "DƏRRAKƏ",
+                "explanation": "is. [ər.] ağıl",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 44
+            },
+            {
+                "word": "ƏKSSƏDA",
+                "explanation": "is. [ər.] 1. qayalara",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 45
+            },
+            {
+                "word": "DƏNƏDƏNƏ",
+                "explanation": "sif. dənələr halında",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 46
+            },
+            {
+                "word": "DƏRDƏSƏR",
+                "explanation": "is. [fars.] başağrısı",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 47
+            },
+            {
+                "word": "DƏRKƏNAR",
+                "explanation": "is. [fars.] ərizələrin",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 48
+            },
+            {
+                "word": "SƏRKƏRDƏ",
+                "explanation": "is. [fars.] böyük qoşun birləşmələrininbaşçısı; komandan. əyinlərinədəmir geyim geymiş ***lər öz dəstələriilə bərabər küçələrə çıxmışdılar",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 49
+            },
+            {
+                "word": "DƏRSDƏNKƏNAR",
+                "explanation": "sif. dərslərdən",
+                "isPanagram": true,
+                "score": 17,
+                "length": 12,
+                "id": 50
+            }
+        ]
+    }
+}

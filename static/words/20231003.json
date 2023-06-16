@@ -1,0 +1,164 @@
+{
+    "gameData": {
+        "day": "20231003",
+        "expiration": "1696377540",
+        "centerLetter": "U",
+        "outerLetters": [
+            "K",
+            "T",
+            "D",
+            "O",
+            "A",
+            "L"
+        ],
+        "words_info": {
+            "word_count": 17,
+            "sum_score": 70,
+            "panagram_count": 1,
+            "word_length": {
+                "6": 5,
+                "4": 8,
+                "7": 1,
+                "5": 3
+            }
+        },
+        "words": [
+            {
+                "word": "DODU",
+                "explanation": "is. 1. köhn. keçmişdə: çömçə iləoynanılan gülməli bir oyun.2. dan. hiylə",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "DOLU",
+                "explanation": "sif. 1. içərisi boş olmayan",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "DUDA",
+                "explanation": "is. [fars.] neft",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "KULA",
+                "explanation": "is. məh. odun",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "LOTU",
+                "explanation": "sif. və is. [ər. dini əfsanəyə görə",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 5
+            },
+            {
+                "word": "ODLU",
+                "explanation": "sif. 1. odu olan; yanar",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 6
+            },
+            {
+                "word": "OTLU",
+                "explanation": "sif. ot olan",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 7
+            },
+            {
+                "word": "TULA",
+                "explanation": "is. 1. hamar uzun tüklü",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 8
+            },
+            {
+                "word": "KOLLU",
+                "explanation": "sif. kol basmış",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 9
+            },
+            {
+                "word": "KOTUL",
+                "explanation": "sif. 1. kobud",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 10
+            },
+            {
+                "word": "UKLAD",
+                "explanation": "is. quruluş",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 11
+            },
+            {
+                "word": "AKTUAL",
+                "explanation": "sif. [lat.] hal-hazır üçün ənmühüm",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 12
+            },
+            {
+                "word": "KAKADU",
+                "explanation": "is. [alm.] malayya tutuquşusu",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 13
+            },
+            {
+                "word": "KUTKUT",
+                "explanation": "zərf və sif. yığın halında",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 14
+            },
+            {
+                "word": "LOKAUT",
+                "explanation": "[ing. lock-out – üzünə qapı bağlamaq] burjuaziyanın fəhlə sinfinə qarşı mübarizə üsullarından biri olaraq",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 15
+            },
+            {
+                "word": "TOLUOL",
+                "explanation": "is. [isp.] iyli",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 16
+            },
+            {
+                "word": "KATODLU",
+                "explanation": "sif. katodu olan. ***lampa",
+                "isPanagram": true,
+                "score": 17,
+                "length": 7,
+                "id": 17
+            }
+        ]
+    }
+}

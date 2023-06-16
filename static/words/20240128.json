@@ -1,0 +1,197 @@
+{
+    "gameData": {
+        "day": "20240128",
+        "expiration": "1706486340",
+        "centerLetter": "İ",
+        "outerLetters": [
+            "R",
+            "A",
+            "O",
+            "T",
+            "L",
+            "N"
+        ],
+        "words_info": {
+            "word_count": 21,
+            "sum_score": 95,
+            "panagram_count": 1,
+            "word_length": {
+                "4": 7,
+                "5": 11,
+                "8": 1,
+                "7": 1,
+                "9": 1
+            }
+        },
+        "words": [
+            {
+                "word": "ATİL",
+                "explanation": "sif. [ər.] tənbəl",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "LİTR",
+                "explanation": "[fr. ***e] 1000 kub santimetrə bərabər maye ölçüsü. bir *** süd",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "NAİL",
+                "explanation": "[ər.] : *** olmaq – əldə etmək",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "RİAL",
+                "explanation": "is. [fars.] iranda pul vahidi",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "TİTR",
+                "explanation": "[fr.] 1. kinolentdə yazı",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 5
+            },
+            {
+                "word": "TORİ",
+                "explanation": "is. [ing.] ingiltərədə mühafizəkar siyasipartiya",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 6
+            },
+            {
+                "word": "TRİO",
+                "explanation": "[ital.] 1. hər birinin müstəqil partiyalarıolan üç alət və ya üç səs üçün yazılmışmusiqi əsəri. çaykovskinin ***su",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 7
+            },
+            {
+                "word": "LİANA",
+                "explanation": "[fr.] bot. tropik meşələrdə",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 8
+            },
+            {
+                "word": "LİLLİ",
+                "explanation": "sif. lehməli",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 9
+            },
+            {
+                "word": "NİNNİ",
+                "explanation": "is. layla",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 10
+            },
+            {
+                "word": "ORTİT",
+                "explanation": "is. [yun.] radioaktiv mineral",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 11
+            },
+            {
+                "word": "RALLİ",
+                "explanation": "is. [ing.] avtomobil idmanı üzrə1000-2000 km məsafədə keçirilən yarışlarkompleksi",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 12
+            },
+            {
+                "word": "RATİN",
+                "explanation": "[fr.] üz tərəfində burulmuş xovlarıolan üst paltarlıq yun parça. 5 metr ***.// həmin parçadan tikilmiş",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 13
+            },
+            {
+                "word": "TANİN",
+                "explanation": "is. [fr.] dəri aşılanmasında",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 14
+            },
+            {
+                "word": "TİNLİ",
+                "explanation": "sif. tini olan; tilli. iti *** stol",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 15
+            },
+            {
+                "word": "TİRAN",
+                "explanation": "is. [yun.] 1. qədim yunanıstandavə xııı-xvı əsrlərdə italiyada hakimiyyətizorla ələ keçirən şəxs.2",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 16
+            },
+            {
+                "word": "TİRLİ",
+                "explanation": "sif. tiri (tirləri) olan",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 17
+            },
+            {
+                "word": "TORİT",
+                "explanation": "is. qara",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 18
+            },
+            {
+                "word": "TİTANİT",
+                "explanation": "is. [yun.] şəffaf növləri yarımqiymətlidaş olan mineral",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 19
+            },
+            {
+                "word": "TOTALİTAR",
+                "explanation": "[fr. totalitaire",
+                "isPanagram": false,
+                "score": 9,
+                "length": 9,
+                "id": 20
+            },
+            {
+                "word": "NOTARİAL",
+                "explanation": "sif. [lat.] notariusa",
+                "isPanagram": true,
+                "score": 17,
+                "length": 8,
+                "id": 21
+            }
+        ]
+    }
+}

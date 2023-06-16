@@ -1,0 +1,230 @@
+{
+    "gameData": {
+        "day": "20230922",
+        "expiration": "1695427140",
+        "centerLetter": "A",
+        "outerLetters": [
+            "Ğ",
+            "C",
+            "B",
+            "I",
+            "O",
+            "R"
+        ],
+        "words_info": {
+            "word_count": 25,
+            "sum_score": 91,
+            "panagram_count": 1,
+            "word_length": {
+                "4": 14,
+                "5": 5,
+                "7": 3,
+                "8": 1,
+                "6": 1,
+                "9": 1
+            }
+        },
+        "words": [
+            {
+                "word": "ABCO",
+                "explanation": "is. [fars.] arpa suyu",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "ABIR",
+                "explanation": "is. [fars.] 1. həya",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "ACAR",
+                "explanation": "is. cənubi qafqazda yaşayanxalqlardan birinin adı",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "AĞAC",
+                "explanation": "is. 1. budaqları və bərk gövdəsi olan çoxillik bitki. armud ***ı. qoz ***ı. *** əkmək. qollu-budaqlı ***",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "AĞCA",
+                "explanation": "is. 1. köhn. pul. kürə və misgincətayfasından on dörd min batman buğda vəqırx min dirhəm *** … alınıb anbarlara vəxəzinəyə yetişirdi",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 5
+            },
+            {
+                "word": "AĞIR",
+                "explanation": "sif. 1. böyük çəkisi",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 6
+            },
+            {
+                "word": "AĞRI",
+                "explanation": "is. 1. duyğu sinirlərinin qıcıqlanmasınəticəsində bədənin hər hansı bir yerindəhiss edilən əziyyət",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 7
+            },
+            {
+                "word": "BABA",
+                "explanation": "is. 1. atanın",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 8
+            },
+            {
+                "word": "BABI",
+                "explanation": "is. [xüs. is.-dən] 1. xıx əsrin ortasında iranda “bab” təxəllüslü mirzə əli məhəmməd tərəfindən təsis edilmiş dini təriqətə mənsub olan adam",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 9
+            },
+            {
+                "word": "BACA",
+                "explanation": "is. 1. tüstü çıxmaq üçün ocağınüstündə kərpicdən hörülən və ya dəmirdənqayrılan içi boş boru. evin ***sı",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 10
+            },
+            {
+                "word": "BACI",
+                "explanation": "is. 1. bir ata-anadan",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 11
+            },
+            {
+                "word": "BAĞA",
+                "explanation": "is. məh. atların buxovluğundaəmələ gələn xəstəlik (yara)",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 12
+            },
+            {
+                "word": "BARI",
+                "explanation": "is. [fars.] hasar",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 13
+            },
+            {
+                "word": "RACA",
+                "explanation": "is. [sanskr.] qədim hindistandarəhbərlik və hakimlik rütbəsi",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 14
+            },
+            {
+                "word": "ACICA",
+                "explanation": "sif. 1. bir qədər acı",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 15
+            },
+            {
+                "word": "ARABA",
+                "explanation": "is. iki və ya dördtəkərli nəqliyyatvasitəsi. minik ***sı. yük ***sı. əl ***sı(əl ilə sürülən ***)",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 16
+            },
+            {
+                "word": "ARĞAC",
+                "explanation": "is. toxuc. xalçada",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 17
+            },
+            {
+                "word": "BAĞIR",
+                "explanation": "is. 1. qaraciyər.2. ürək",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 18
+            },
+            {
+                "word": "CORAB",
+                "explanation": "is. yun",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 19
+            },
+            {
+                "word": "BAĞARA",
+                "explanation": "is. məh. 1. bax tağalaq.2. dayaz quyulardan dol ilə su",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 20
+            },
+            {
+                "word": "AĞABACI",
+                "explanation": "is. dan. məh. böyük qardaş",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 21
+            },
+            {
+                "word": "AĞRIACI",
+                "explanation": "is. 1. çox işləmək",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 22
+            },
+            {
+                "word": "CIĞCIĞA",
+                "explanation": "is. bot. çiy-çiy yeyilən",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 23
+            },
+            {
+                "word": "BACABACA",
+                "explanation": "is. köhnə məişətdə: novruzbayramı axşamı qapı-qapı dolaşıb bayramlıqpay almaq adəti; qodu-qodu",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 24
+            },
+            {
+                "word": "CORABBAĞI",
+                "explanation": "is. corabı ayaqda saxlamaqüçün rezin",
+                "isPanagram": true,
+                "score": 17,
+                "length": 9,
+                "id": 25
+            }
+        ]
+    }
+}

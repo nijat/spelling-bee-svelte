@@ -1,0 +1,204 @@
+{
+    "gameData": {
+        "day": "20231208",
+        "expiration": "1702079940",
+        "centerLetter": "B",
+        "outerLetters": [
+            "A",
+            "P",
+            "R",
+            "Ə",
+            "Ü",
+            "İ"
+        ],
+        "words_info": {
+            "word_count": 22,
+            "sum_score": 78,
+            "panagram_count": 1,
+            "word_length": {
+                "7": 2,
+                "5": 7,
+                "4": 12,
+                "8": 1
+            }
+        },
+        "words": [
+            {
+                "word": "BABA",
+                "explanation": "is. 1. atanın",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "BABİ",
+                "explanation": "is. [xüs. is.-dən] 1. xıx əsrin ortasında iranda “bab” təxəllüslü mirzə əli məhəmməd tərəfindən təsis edilmiş dini təriqətə mənsub olan adam",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "BARƏ",
+                "explanation": "is. [fars.] köhn. bənd",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "BƏBƏ",
+                "explanation": "is. 1. körpə uşaq",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "BƏBR",
+                "explanation": "is. [fars.] məməli heyvanların yırtıcılar dəstəsinə mənsub pələngəoxşar heyvan. vəhşi heyvanlardan lənkəran sahəsində bəbir və respublikamızın meşələr",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 5
+            },
+            {
+                "word": "BƏRƏ",
+                "explanation": "is. 1. böyük çayların üstündə qurulanmütəhərrik körpü",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 6
+            },
+            {
+                "word": "BİBİ",
+                "explanation": "is. övlad üçün atanın bacısı",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 7
+            },
+            {
+                "word": "BİRƏ",
+                "explanation": "is. insan və heyvanları sancıb əziyyət verən çox sıçraq cücü. köhnə məscid hücrələrində *** əlindən tərpənmək olmazdı",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 8
+            },
+            {
+                "word": "BİRİ",
+                "explanation": "əvəz. 1. müəyyən olmayan şəxs",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 9
+            },
+            {
+                "word": "ƏBİR",
+                "explanation": "is. [ər.] klas. bax ənbər. gülzarəhava *** tökdü; səhrayə qübari-mişk çökdü.füzuli",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 10
+            },
+            {
+                "word": "ƏRƏB",
+                "explanation": "is. 1. ön asiyada və şimali afrikadayaşayan",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 11
+            },
+            {
+                "word": "RƏBB",
+                "explanation": "is. ər. allah",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 12
+            },
+            {
+                "word": "ARABA",
+                "explanation": "is. iki və ya dördtəkərli nəqliyyatvasitəsi. minik ***sı. yük ***sı. əl ***sı(əl ilə sürülən ***)",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 13
+            },
+            {
+                "word": "BƏBİR",
+                "explanation": "is. [fars.] məməli heyvanların yırtıcılar dəstəsinə mənsub pələngəoxşar heyvan. vəhşi heyvanlardan lənkəran sahəsində *** və respublikamızın meşələr",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 14
+            },
+            {
+                "word": "BİBƏR",
+                "explanation": "is. dadı acı",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 15
+            },
+            {
+                "word": "ƏRBAB",
+                "explanation": "sif. [ər. “rəbb” söz. cəmi] köhn.ağa",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 16
+            },
+            {
+                "word": "ƏRƏBİ",
+                "explanation": "sif. [ər.] ərəbcə; ərəb dilinə vəxalqına mənsub; ərəb üslubunda",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 17
+            },
+            {
+                "word": "RÜBAB",
+                "explanation": "is. [ər.] bir çox şərq xalqlarıarasında geniş yayılmış simli musiqi aləti.***ın incə tellərdir",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 18
+            },
+            {
+                "word": "RÜBAİ",
+                "explanation": "is. [ər.] quruluşca dörd misradanibarət olub",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 19
+            },
+            {
+                "word": "ARABƏRƏ",
+                "explanation": "is. dan. 1. aralıq",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 20
+            },
+            {
+                "word": "BƏRABƏR",
+                "explanation": "1. sif. başqası ilə tən",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 21
+            },
+            {
+                "word": "PÜRİBARƏ",
+                "explanation": "sif. [fars. pür və ər. ibarə] kit.təmtəraqlı",
+                "isPanagram": true,
+                "score": 17,
+                "length": 8,
+                "id": 22
+            }
+        ]
+    }
+}

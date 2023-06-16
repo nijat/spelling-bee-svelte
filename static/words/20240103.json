@@ -1,0 +1,461 @@
+{
+    "gameData": {
+        "day": "20240103",
+        "expiration": "1704326340",
+        "centerLetter": "L",
+        "outerLetters": [
+            "C",
+            "A",
+            "İ",
+            "N",
+            "Ə",
+            "H"
+        ],
+        "words_info": {
+            "word_count": 54,
+            "sum_score": 216,
+            "panagram_count": 1,
+            "word_length": {
+                "6": 8,
+                "4": 22,
+                "5": 17,
+                "8": 3,
+                "7": 4
+            }
+        },
+        "words": [
+            {
+                "word": "AİLƏ",
+                "explanation": "is. [ər.] 1. ata-anadan",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "CƏHL",
+                "explanation": "is. [ər.] 1. nadanlıq",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "CƏLƏ",
+                "explanation": "is. at quyruğu qılından ilmək şəklində düzəldilən tələ; duzaq. hər səhər malların altını təmizləyib",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "CİLA",
+                "explanation": "is. [ər.] işığı əks etdirəcək dərəcədəparıltılı olmaq üçün əşyanın üzərinə çəkilənmaddə və bu maddə ilə əşyaya verilənparlaqlıq; ümumiyyətlə",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "ƏCƏL",
+                "explanation": "is. [ər.] hər bir canlının",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 5
+            },
+            {
+                "word": "ƏHLİ",
+                "explanation": "sif. [ər.] 1. ***ləşdirilmiş",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 6
+            },
+            {
+                "word": "ƏLAC",
+                "explanation": "is. [ər.] 1. bir xəstəliyin sağalmasınakömək edən hər bir şey; dərman",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 7
+            },
+            {
+                "word": "ƏLAN",
+                "explanation": "zərf [ər.] 1. bu an",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 8
+            },
+            {
+                "word": "ƏLCƏ",
+                "explanation": "sif. kiçik",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 9
+            },
+            {
+                "word": "ƏLİL",
+                "explanation": "is. və sif. xəstəlik və ya qocalıqnəticəsində əmək qabiliyyətini itirmiş;şikəst. ***lər cəmiyyəti",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 10
+            },
+            {
+                "word": "ƏLLİ",
+                "explanation": "sif. 1. əli olan. iri *** adam. 2. məc. qolu güclü",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 11
+            },
+            {
+                "word": "HAİL",
+                "explanation": "is. [ər.] köhn. 1. dəyişmiş",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 12
+            },
+            {
+                "word": "HALA",
+                "explanation": "zərf [ər.] klas. indi",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 13
+            },
+            {
+                "word": "HALƏ",
+                "explanation": "is. [ər.] ayın və bəzi iri ulduzlarınətrafında bəzən görünən işıq dairəsi. fikrini",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 14
+            },
+            {
+                "word": "HALİ",
+                "explanation": "is. [ər.] bir hadisə",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 15
+            },
+            {
+                "word": "HƏLL",
+                "explanation": "[ər.] 1. is. xüs. bir cismin və yamayenin suda və ya başqa maye içərisindəöz tərkibini pozub onunla qarışması",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 16
+            },
+            {
+                "word": "LALƏ",
+                "explanation": "is. [fars.] 1. bot. iriləçəkli qırmızıçiçəkləri olan bitki və bu bitkinin çiçəyi. bitərçəməndə ***lər",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 17
+            },
+            {
+                "word": "LƏİN",
+                "explanation": "sif. və is. [ər.] bax məlun. bu isə",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 18
+            },
+            {
+                "word": "LƏLƏ",
+                "explanation": "is. 1. keçmişdə kübar və varlı ai***rdəoğlan uşağının tərbiyəsilə məşğul olanadam. [qətibə xanım:] səba xanım",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 19
+            },
+            {
+                "word": "LİNC",
+                "explanation": "sif. 1. aşp. dəm almayıb bir-birinəyapışan düyü. gülmə gülünc olana; bir aşı*** olana; gülürsən də gülgilən; qulağı dincolana",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 20
+            },
+            {
+                "word": "NAİL",
+                "explanation": "[ər.] : *** olmaq – əldə etmək",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 21
+            },
+            {
+                "word": "NALƏ",
+                "explanation": "is. [fars.] ah-zar",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 22
+            },
+            {
+                "word": "ALANA",
+                "explanation": "is. içərisi şəkərli qozla doldurulmuşmeyvə qurusu (armud",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 23
+            },
+            {
+                "word": "ALLAH",
+                "explanation": "is. [ər.] 1. bütün kainatın yeganə yaradıcısı və idarə edəni; yaradan",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 24
+            },
+            {
+                "word": "CAHİL",
+                "explanation": "sif. [ər.] 1. oxumamış",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 25
+            },
+            {
+                "word": "CALAL",
+                "explanation": "is. [ər.] əzəmət",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 26
+            },
+            {
+                "word": "CİNLİ",
+                "explanation": "sif. dəli",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 27
+            },
+            {
+                "word": "ƏCƏLƏ",
+                "explanation": "[ər.] 1. is. tələsmə",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 28
+            },
+            {
+                "word": "ƏHALİ",
+                "explanation": "is. [ər. “əhl” söz. cəmi] 1. bir yerdəyaşamaqda olan adamlar; camaat. şəhər***si. kənd ***si. rayonun ***si",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 29
+            },
+            {
+                "word": "ƏLHAL",
+                "explanation": "zərf [ər.] klas. indi",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 30
+            },
+            {
+                "word": "ƏLHAN",
+                "explanation": "is. [ər. “ləhn” söz. cəmi] klas.gözəl səslər",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 31
+            },
+            {
+                "word": "HALAL",
+                "explanation": "sif. [ər.] 1. islam dininin ehkamlarınagörə yeyilməsinə",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 32
+            },
+            {
+                "word": "HİLAL",
+                "explanation": "is. [ər.] 1. təzə çıxmış bir-ikigünlük ay; aypara. hər gecə fəğanım yetişirgöydə ***ə. s.ə.şirvani",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 33
+            },
+            {
+                "word": "HİLLİ",
+                "explanation": "sif. tərkibində hil olan",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 34
+            },
+            {
+                "word": "LƏHCƏ",
+                "explanation": "is. [ər.] 1. dilç. ümumi dialektxüsusiyyətlərinə malik olan hər hansı bir dilinyerli şivələr qrupu; dialekt",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 35
+            },
+            {
+                "word": "LİANA",
+                "explanation": "[fr.] bot. tropik meşələrdə",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 36
+            },
+            {
+                "word": "LİLLİ",
+                "explanation": "sif. lehməli",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 37
+            },
+            {
+                "word": "NAƏHL",
+                "explanation": "sif. [fars. na… və ər. əhl] ləyaqətsiz",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 38
+            },
+            {
+                "word": "NALAN",
+                "explanation": "sif. və zərf [fars.] ağlayan",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 39
+            },
+            {
+                "word": "AHNALƏ",
+                "explanation": "is. fəryad",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 40
+            },
+            {
+                "word": "AİLƏLİ",
+                "explanation": "sif. ailəsi olan",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 41
+            },
+            {
+                "word": "ALİCAH",
+                "explanation": "is. [ər.] klas. yüksək rütbəli",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 42
+            },
+            {
+                "word": "CƏNCƏL",
+                "explanation": "1. sif. qarışıq",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 43
+            },
+            {
+                "word": "HƏLLAC",
+                "explanation": "is. [ər.] pambıqatan",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 44
+            },
+            {
+                "word": "HİLALİ",
+                "explanation": "sif. hilal şəklində",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 45
+            },
+            {
+                "word": "LAƏLAC",
+                "explanation": "sif. və zərf [ər.] əlacsız",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 46
+            },
+            {
+                "word": "LALƏLİ",
+                "explanation": "sif. lalə bitmiş",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 47
+            },
+            {
+                "word": "CANALAN",
+                "explanation": "sif. 1. cəllad",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 48
+            },
+            {
+                "word": "ƏCƏLƏLİ",
+                "explanation": "sif. tələsik",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 49
+            },
+            {
+                "word": "HALALCA",
+                "explanation": "sif. 1. bax halal 2-ci mənada.hamıdan varlı ikən",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 50
+            },
+            {
+                "word": "HƏLHƏLƏ",
+                "explanation": "is. [ər.] hay-küy",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 51
+            },
+            {
+                "word": "CAHCALAL",
+                "explanation": "is. [ər.] calal",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 52
+            },
+            {
+                "word": "CƏNCƏLLİ",
+                "explanation": "sif. davalı",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 53
+            },
+            {
+                "word": "CAHİLANƏ",
+                "explanation": "sif. və zər. [ər. cahil və fars.…anə] avam-avam",
+                "isPanagram": true,
+                "score": 17,
+                "length": 8,
+                "id": 54
+            }
+        ]
+    }
+}

@@ -1,0 +1,196 @@
+{
+    "gameData": {
+        "day": "20230902",
+        "expiration": "1693699140",
+        "centerLetter": "Ş",
+        "outerLetters": [
+            "İ",
+            "M",
+            "Ə",
+            "S",
+            "R",
+            "Z"
+        ],
+        "words_info": {
+            "word_count": 21,
+            "sum_score": 83,
+            "panagram_count": 1,
+            "word_length": {
+                "4": 10,
+                "7": 3,
+                "5": 6,
+                "6": 2
+            }
+        },
+        "words": [
+            {
+                "word": "ƏMİŞ",
+                "explanation": "is. 1. əmmək işi",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "ƏRƏŞ",
+                "explanation": "is. köhn. dirsəkdən barmaqlarınucuna qədər olan uzunluq ölçüsü",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "ƏRİŞ",
+                "explanation": "is. toxuc. xalçada və başqa toxunmamallarda uzununa müvazi gedən əsasiplər. xananın ***i. – toxunmalar üçün işlənənsaplar",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "ƏŞƏR",
+                "explanation": "is. [ər.] tar. keçmişdə müəyyənməqsədlər üçün gəlirin onda biri miqdarındaverilən vergi",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "RƏŞƏ",
+                "explanation": "is. [ər.] titrəmə",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 5
+            },
+            {
+                "word": "RİŞƏ",
+                "explanation": "is. [fars.] kök (bitkidə). yazın birayında xoş keçər illər; zoğ edib ***dən başverər güllər. aşıq ələsgər",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 6
+            },
+            {
+                "word": "ŞƏMS",
+                "explanation": "is. [ər.] günəş",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 7
+            },
+            {
+                "word": "ŞƏRİ",
+                "explanation": "[ər.] din. ***ətcə qanuni",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 8
+            },
+            {
+                "word": "ŞƏRM",
+                "explanation": "is. [fars.] klas. abır",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 9
+            },
+            {
+                "word": "ŞİRƏ",
+                "explanation": "is. [fars.] 1. toxumalarda",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 10
+            },
+            {
+                "word": "ƏŞSİZ",
+                "explanation": "sif. 1. tayı",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 11
+            },
+            {
+                "word": "MƏMƏŞ",
+                "explanation": "is. uş. məmə",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 12
+            },
+            {
+                "word": "RƏŞMƏ",
+                "explanation": "is. lent. bizim ağ *** kimiburularaq gedən yollar xeyli uzaqlara qədəriki tərəfdən uca ağaclarla əhatə olunmuşdur",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 13
+            },
+            {
+                "word": "ŞƏRƏR",
+                "explanation": "[ər.] klas. bax şərar(ə). şikəstə zakirəm",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 14
+            },
+            {
+                "word": "ŞƏRİR",
+                "explanation": "sif. və is. [ər.] şər işlər görən",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 15
+            },
+            {
+                "word": "ŞƏŞƏƏ",
+                "explanation": "is. [ər.] klas. tənt. 1. parlaqlıq",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 16
+            },
+            {
+                "word": "ŞƏMŞİR",
+                "explanation": "is. [fars.] qılınc. iş atışmadan ötüb",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 17
+            },
+            {
+                "word": "ŞƏRƏRƏ",
+                "explanation": "[ər.] klas. bax şərar(ə). şikəstə zakirəm",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 18
+            },
+            {
+                "word": "ƏSRİMİŞ",
+                "explanation": "f.sif. qızmış",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 19
+            },
+            {
+                "word": "RİŞƏSİZ",
+                "explanation": "sif. köksüz",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 20
+            },
+            {
+                "word": "ŞƏRMSİZ",
+                "explanation": "sif. abırsız",
+                "isPanagram": true,
+                "score": 17,
+                "length": 7,
+                "id": 21
+            }
+        ]
+    }
+}

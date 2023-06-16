@@ -1,0 +1,599 @@
+{
+    "gameData": {
+        "day": "20240511",
+        "expiration": "1715471940",
+        "centerLetter": "R",
+        "outerLetters": [
+            "A",
+            "U",
+            "Q",
+            "B",
+            "M",
+            "Ə"
+        ],
+        "words_info": {
+            "word_count": 71,
+            "sum_score": 299,
+            "panagram_count": 1,
+            "word_length": {
+                "4": 27,
+                "5": 21,
+                "7": 7,
+                "6": 11,
+                "10": 1,
+                "8": 3,
+                "9": 1
+            }
+        },
+        "words": [
+            {
+                "word": "ABRU",
+                "explanation": "is. [fars.] bax abır. [mirzə əsgər:]saqqal deyəndə kişinin ***sudur və üzününnurudur. n.vəzirov. yaman yoldaş səbəbinəinsan min bəlaya düçar olar",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "ARAQ",
+                "explanation": "is. [ər.] 1. meyvədən və s.-dənçəkilən spirtli içki. tut arağı. zoğal arağı.*** çəkmək. – ərəqlə badədir ol iki cövhər;ki",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "ARAM",
+                "explanation": "is. [fars.] sakitlik",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "BARƏ",
+                "explanation": "is. [fars.] köhn. bənd",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "BƏBR",
+                "explanation": "is. [fars.] məməli heyvanların yırtıcılar dəstəsinə mənsub pələngəoxşar heyvan. vəhşi heyvanlardan lənkəran sahəsində bəbir və respublikamızın meşələr",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 5
+            },
+            {
+                "word": "BƏRƏ",
+                "explanation": "is. 1. böyük çayların üstündə qurulanmütəhərrik körpü",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 6
+            },
+            {
+                "word": "BƏRQ",
+                "explanation": "is. [ər.] şimşək. // bədii təsvirlərdə.***ü baran sanma kim gördükdə ahüəşkimi… füzuli. // parıltı",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 7
+            },
+            {
+                "word": "BURU",
+                "explanation": "is. sancı",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 8
+            },
+            {
+                "word": "ƏBRU",
+                "explanation": "is. [fars.] klas. qaş. göz doymazvəsməli kəman",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 9
+            },
+            {
+                "word": "ƏRƏR",
+                "explanation": "is. [ər.] ardıc ağacı. qəddintəknə ər-ər",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 10
+            },
+            {
+                "word": "ƏRAQ",
+                "explanation": "is. [xüs. is.-dən] mus. 1. azərbaycanklassik muğamlarından birinin adı. 12əsas muğam bunlar idi: üşşaq",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 11
+            },
+            {
+                "word": "ƏRƏB",
+                "explanation": "is. 1. ön asiyada və şimali afrikadayaşayan",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 12
+            },
+            {
+                "word": "ƏRƏQ",
+                "explanation": "is. [ər.] klas. 1. tər. ol gülüzardə***in xoş səfası var; türfə budur ki",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 13
+            },
+            {
+                "word": "ƏRRƏ",
+                "explanation": "is. [fars.] ikidəstəli iri mişar",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 14
+            },
+            {
+                "word": "QARA",
+                "explanation": "is. yer kürəsinin torpaqla örtülühissəsi; torpaq (su qarşılığı). ***da və suda.*** qüvvələri",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 15
+            },
+            {
+                "word": "QƏRB",
+                "explanation": "is. [ər.] 1. dünyanın",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 16
+            },
+            {
+                "word": "QƏRQ",
+                "explanation": "[ər.] adətən “etmək”",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 17
+            },
+            {
+                "word": "QRAM",
+                "explanation": "[fr.] metr ölçü sisteminin çəki vahidi(1 kub santimetr suyun çəkisinə bərabərdir).◊ ***-atom kim. fiz",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 18
+            },
+            {
+                "word": "QURU",
+                "explanation": "sif. 1. yaş olmayan",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 19
+            },
+            {
+                "word": "MƏRƏ",
+                "explanation": "is. ***-*** oyunu üçün qazılançuxur",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 20
+            },
+            {
+                "word": "MUAR",
+                "explanation": "[fr.] 1. işıq düşəndə müxtəlif rəngliçalarlar verən sıx toxunmuş ipək və yayarımipək parça.2. səthində basma naxışları olan kağız",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 21
+            },
+            {
+                "word": "RAQA",
+                "explanation": "is. [sanskr.] mus. qədim hind klassikmusiqisi növlərindən biri",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 22
+            },
+            {
+                "word": "RƏBB",
+                "explanation": "is. ər. allah",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 23
+            },
+            {
+                "word": "RƏMƏ",
+                "explanation": "is. [fars.] sürü. qoyun sürüsü",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 24
+            },
+            {
+                "word": "RUBA",
+                "explanation": "is. bir pud ağırlığında olan köhnəçəki ölçüsü. [xeyransanın] hacı manafdanaldığı isə yalnız bir *** taxıl olmuşdu",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 25
+            },
+            {
+                "word": "RUMB",
+                "explanation": "[ing.] kompasın dairəsində (horizontun 1/ 32 hissəsinə müvafiq olan) bölgü",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 26
+            },
+            {
+                "word": "URUQ",
+                "explanation": "is. ailə. uruğum olsun",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 27
+            },
+            {
+                "word": "AQRAR",
+                "explanation": "sif. [lat.] 1. torpağa aid olan. ***məsələ. *** islahatı.2. kənd təsərrüfatının sənayedən yüksəkolması ilə səciyyələnən",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 28
+            },
+            {
+                "word": "ARABA",
+                "explanation": "is. iki və ya dördtəkərli nəqliyyatvasitəsi. minik ***sı. yük ***sı. əl ***sı(əl ilə sürülən ***)",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 29
+            },
+            {
+                "word": "BURMA",
+                "explanation": "1. “***q”dan f.is.2. sif. burulmuş",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 30
+            },
+            {
+                "word": "BURUQ",
+                "explanation": "sif. 1. burulmuş. *** ip. *** sap. □ *** düşmək – dolaşmaq",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 31
+            },
+            {
+                "word": "BURUM",
+                "explanation": "is. 1. burula-burula çıxan (qalxan",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 32
+            },
+            {
+                "word": "ƏQRƏB",
+                "explanation": "is. [ər.] saat",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 33
+            },
+            {
+                "word": "ƏRBAB",
+                "explanation": "sif. [ər. “rəbb” söz. cəmi] köhn.ağa",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 34
+            },
+            {
+                "word": "QABAR",
+                "explanation": "is. 1. bədəndə dərinin altında əmələ gələn sulu ***cıq; suluq. □ *** olmaq – bax ***lamaq 1-ci mənada",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 35
+            },
+            {
+                "word": "QƏMƏR",
+                "explanation": "[ər.] 1. is. şair. ay. süzülən nurunutoplayıb ***; girdi buludlara",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 36
+            },
+            {
+                "word": "QƏRAR",
+                "explanation": "is. [ər.] durma",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 37
+            },
+            {
+                "word": "QUBAR",
+                "explanation": "is. [ər.] 1. klas. toz",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 38
+            },
+            {
+                "word": "QUMAR",
+                "explanation": "is. [ər.] pul və s. ilə oynanılanoyun. [səlim bəy:] həmişə qış uzunu bikarqalanda oğlunla lopuqdan *** oynayırdın",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 39
+            },
+            {
+                "word": "QUMRU",
+                "explanation": "is. zool. göyərçin cinsindən bozrəngli gözəl bir quş. bülbüllərə şərh edərdihalın; ***lara möhnətü məlalın",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 40
+            },
+            {
+                "word": "QURAQ",
+                "explanation": "sif. və zərf yağmursuz",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 41
+            },
+            {
+                "word": "QURMA",
+                "explanation": "1. “***q”dan f.is.2. sif. qurulan",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 42
+            },
+            {
+                "word": "QURUM",
+                "explanation": "is. qurmaq işi",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 43
+            },
+            {
+                "word": "MARAQ",
+                "explanation": "is. 1. bir şeyə diqqət",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 44
+            },
+            {
+                "word": "MƏMUR",
+                "explanation": "is. [ər.] klas. abad",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 45
+            },
+            {
+                "word": "MƏRAM",
+                "explanation": "is. [ər.] istək",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 46
+            },
+            {
+                "word": "RƏQƏM",
+                "explanation": "is. [ər.] 1. ədədlərin",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 47
+            },
+            {
+                "word": "RUMBA",
+                "explanation": "is. [isp.] meksika mənşəli müasir rəqs növü",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 48
+            },
+            {
+                "word": "BARAMA",
+                "explanation": "is. 1. ipəkqurdu tırtılının nazikipək liflərindən hörərək",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 49
+            },
+            {
+                "word": "BARMAQ",
+                "explanation": "is. 1. insanın və bəzi heyvanların əl və ayaqlarının qurtaracağındakı beş mütəhərrik üzvdən hər biri",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 50
+            },
+            {
+                "word": "BƏQƏRƏ",
+                "explanation": "is. keçmişdə quyudan su vəneft çəkmək üçün işlədilən təkərəoxşar fırlananqurğu. [atabala:] səhərdən axşamaqədər atı ***yə qoşub neft çəkirdim",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 51
+            },
+            {
+                "word": "BƏRRAQ",
+                "explanation": "sif. [ər.] şair. bərq vuran",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 52
+            },
+            {
+                "word": "ƏQRƏBA",
+                "explanation": "is. [ər.] qohumlar (çox vaxt“qohum-***” şəklində işlənir). bu",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 53
+            },
+            {
+                "word": "QARAMA",
+                "explanation": "is. məh. 1. çay və bulaq ətrafındakıpalçıqlı su",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 54
+            },
+            {
+                "word": "QARMAQ",
+                "explanation": "is. 1. şey asmaq",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 55
+            },
+            {
+                "word": "QURQUR",
+                "explanation": "is. dan. içinə giləli meyvəyığmaq üçün ağac qabığından qayrılanboruşəkilli qab. uşaqlar qur-qurda çiyələkgətirmişdilər",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 56
+            },
+            {
+                "word": "QURAMA",
+                "explanation": "sif. xırda-xırda və rəngbərəngparçalardan calanıb tikilmiş",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 57
+            },
+            {
+                "word": "MƏQBƏR",
+                "explanation": "is. [ər.] qəbir",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 58
+            },
+            {
+                "word": "MƏRMƏR",
+                "explanation": "is. [lat.] 1. heykəltəraşlıqda vəmemarlıqda işlənən müxtəlif rəngli kristallikdağ süxuru – kirəc daş",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 59
+            },
+            {
+                "word": "ARABƏRƏ",
+                "explanation": "is. dan. 1. aralıq",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 60
+            },
+            {
+                "word": "BƏRABƏR",
+                "explanation": "1. sif. başqası ilə tən",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 61
+            },
+            {
+                "word": "QABARMA",
+                "explanation": "1. “***q2”dan f.is.2. is. coğr. dəniz suyunun səviyyəsininvaxtaşırı olaraq qalxması",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 62
+            },
+            {
+                "word": "QARAMUM",
+                "explanation": "is. arıların yağlı maddələrdənhasil etdikləri qara rəngli mum",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 63
+            },
+            {
+                "word": "QARQARA",
+                "explanation": "is. xüs. ağır şeyləri qaldırmaqüçün yüksəkdə mil üstündə dolanan vəüzərindən ip sallanan çarx. // ümumiyyətlə",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 64
+            },
+            {
+                "word": "QUMBARA",
+                "explanation": "is. 1. bomba",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 65
+            },
+            {
+                "word": "MƏQBƏRƏ",
+                "explanation": "is. [ər.] 1. qəbirlərin üzərindəxüsusi tikili; türbə",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 66
+            },
+            {
+                "word": "QARAQURA",
+                "explanation": "is. 1. qarabasma. [əhməd:]ay oğlum",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 67
+            },
+            {
+                "word": "MƏRƏMƏRƏ",
+                "explanation": "is. qoz",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 68
+            },
+            {
+                "word": "QARAQABAQ",
+                "explanation": "sif. üzü gülməyən",
+                "isPanagram": false,
+                "score": 9,
+                "length": 9,
+                "id": 69
+            },
+            {
+                "word": "QABARQABAR",
+                "explanation": "sif. hər tərəfi qabarlı",
+                "isPanagram": false,
+                "score": 10,
+                "length": 10,
+                "id": 70
+            },
+            {
+                "word": "QƏMQUBAR",
+                "explanation": "[ər.] bax qəm. noldu",
+                "isPanagram": true,
+                "score": 17,
+                "length": 8,
+                "id": 71
+            }
+        ]
+    }
+}

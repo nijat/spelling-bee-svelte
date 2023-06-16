@@ -1,0 +1,182 @@
+{
+    "gameData": {
+        "day": "20240203",
+        "expiration": "1707004740",
+        "centerLetter": "T",
+        "outerLetters": [
+            "D",
+            "X",
+            "N",
+            "V",
+            "A",
+            "C"
+        ],
+        "words_info": {
+            "word_count": 19,
+            "sum_score": 81,
+            "panagram_count": 1,
+            "word_length": {
+                "4": 9,
+                "8": 1,
+                "6": 3,
+                "7": 2,
+                "11": 1,
+                "5": 3
+            }
+        },
+        "words": [
+            {
+                "word": "ADAT",
+                "explanation": "is. [ər. “adət” söz. cəmi] bax adət.məstəli şirvani hər iki səyahətində dünyanınyarısını gəştü güzar edib",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "AXTA",
+                "explanation": "1. sif. erkəkliyi alınmış canlı. *** öküz. *** qoç. *** xoruz. □ *** eləmək – bax ***lamaq. 2. sif",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "ATAT",
+                "explanation": "is. uşaqların ağac üstə minərəkoynadıqları oyun. at-at oynamaq",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "XATA",
+                "explanation": "is. [ər.] 1. bax xəta. // qəbahət",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "TAXT",
+                "explanation": "is. [fars.] 1. söykənəcəyi olmayan enli divan. mayaya elə gəldi ki",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 5
+            },
+            {
+                "word": "TANA",
+                "explanation": "is. 1. sırğa. qızıl ***. – qızıl üzük",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 6
+            },
+            {
+                "word": "TAVA",
+                "explanation": "is. içində ət və s. qızartmaq üçünkənarları yastı",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 7
+            },
+            {
+                "word": "VAXT",
+                "explanation": "is. [ər. vəqt] 1. cərəyan edən birişin",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 8
+            },
+            {
+                "word": "VANT",
+                "explanation": "is. [holl.] dor ağacını və başqa şeylərigəminin bortlarına bərkitmək üçün takelajipləri",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 9
+            },
+            {
+                "word": "DAVAT",
+                "explanation": "is. [ər.] köhn. mürəkkəbqabı. buludhavada gedər; qələm ***a gedər. (bayatı).…*** və qələmimdən başqa",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 10
+            },
+            {
+                "word": "TAXTA",
+                "explanation": "is. [fars.] 1. şalbandan mişarlakəsilmiş çox qalın olmayan yastı ağac parçası.ağacdan *** kəsmək",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 11
+            },
+            {
+                "word": "TAVAN",
+                "explanation": "is. [fars.] güc",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 12
+            },
+            {
+                "word": "ATAANA",
+                "explanation": "is. öz övladına münasibətdəkişi və qadın; valideyn. ata-analar öz uşaqlarınıntərbiyəsinə fikir verməlidirlər",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 13
+            },
+            {
+                "word": "NAVAXT",
+                "explanation": "is. köhn. qazamat",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 14
+            },
+            {
+                "word": "TAVANA",
+                "explanation": "is. [fars.] 1. maddi imkan",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 15
+            },
+            {
+                "word": "DAVACAT",
+                "explanation": "top. [ər.] 1. dava-dərman",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 16
+            },
+            {
+                "word": "TAXTTAC",
+                "explanation": "is. hakimiyyət",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 17
+            },
+            {
+                "word": "AXTAXANA",
+                "explanation": "is. bot. məh. çayıra bənzərbir ot. ***",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 18
+            },
+            {
+                "word": "DAVACATXANA",
+                "explanation": "is. [ərəbcədən davacat vəfars. xanə] köhn. aptek",
+                "isPanagram": true,
+                "score": 17,
+                "length": 11,
+                "id": 19
+            }
+        ]
+    }
+}

@@ -1,0 +1,301 @@
+{
+    "gameData": {
+        "day": "20231222",
+        "expiration": "1703289540",
+        "centerLetter": "Q",
+        "outerLetters": [
+            "R",
+            "B",
+            "Ə",
+            "L",
+            "N",
+            "U"
+        ],
+        "words_info": {
+            "word_count": 34,
+            "sum_score": 163,
+            "panagram_count": 1,
+            "word_length": {
+                "6": 9,
+                "4": 9,
+                "5": 11,
+                "7": 4,
+                "10": 1
+            }
+        },
+        "words": [
+            {
+                "word": "BƏRQ",
+                "explanation": "is. [ər.] şimşək. // bədii təsvirlərdə.***ü baran sanma kim gördükdə ahüəşkimi… füzuli. // parıltı",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "ƏRƏQ",
+                "explanation": "is. [ər.] klas. 1. tər. ol gülüzardə***in xoş səfası var; türfə budur ki",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "QƏLB",
+                "explanation": "is. [ər.] 1. ürək (adətən insanın daxili aləmi",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "QƏLƏ",
+                "explanation": "[ər.] bax qala",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "QƏRB",
+                "explanation": "is. [ər.] 1. dünyanın",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 5
+            },
+            {
+                "word": "QƏRQ",
+                "explanation": "[ər.] adətən “etmək”",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 6
+            },
+            {
+                "word": "QURU",
+                "explanation": "sif. 1. yaş olmayan",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 7
+            },
+            {
+                "word": "NƏQL",
+                "explanation": "is. [ər.] 1. bax nağıl. qəhrəmanbalaca sabir üçün müxtəlif *** danışırdı.s.rəhimov. □ *** etmək – bir əhvalatı",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 8
+            },
+            {
+                "word": "URUQ",
+                "explanation": "is. ailə. uruğum olsun",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 9
+            },
+            {
+                "word": "BURUQ",
+                "explanation": "sif. 1. burulmuş. *** ip. *** sap. □ *** düşmək – dolaşmaq",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 10
+            },
+            {
+                "word": "ƏBLƏQ",
+                "explanation": "sif. [ər.] ala",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 11
+            },
+            {
+                "word": "ƏQƏLL",
+                "explanation": "zərf [ər.] daha az",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 12
+            },
+            {
+                "word": "ƏQLƏN",
+                "explanation": "zərf. [ər.] ağılca",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 13
+            },
+            {
+                "word": "ƏQRƏB",
+                "explanation": "is. [ər.] saat",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 14
+            },
+            {
+                "word": "QƏBUL",
+                "explanation": "is. [ər.] 1. verilən",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 15
+            },
+            {
+                "word": "QƏLLƏ",
+                "explanation": "is. [ər.] köhn. taxıl",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 16
+            },
+            {
+                "word": "QUQQU",
+                "explanation": "is. zool. adətən özünə yuva tikməyib",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 17
+            },
+            {
+                "word": "QULUN",
+                "explanation": "is. körpə at balası. …göydə birmadyan gördüm; yerdə *** əmər hey.(bayatı). daylar tülədi",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 18
+            },
+            {
+                "word": "LƏQƏB",
+                "explanation": "is. [ər.] müəyyən bir səciyyəvixasiyyətinə və ya başqalarından ayrılan əlamətinəgörə adama verilən qeyri-rəsmi ad;ayama",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 19
+            },
+            {
+                "word": "UNLUQ",
+                "explanation": "is. dəyirmanın un tökülən çuxuryeri. qarı unluğun dibini",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 20
+            },
+            {
+                "word": "BƏQƏRƏ",
+                "explanation": "is. keçmişdə quyudan su vəneft çəkmək üçün işlədilən təkərəoxşar fırlananqurğu. [atabala:] səhərdən axşamaqədər atı ***yə qoşub neft çəkirdim",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 21
+            },
+            {
+                "word": "QƏLBƏN",
+                "explanation": "zərf [ər.] can və könüldən",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 22
+            },
+            {
+                "word": "QƏLƏBƏ",
+                "explanation": "is. [ər.] 1. qalibiyyət; müharibədə",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 23
+            },
+            {
+                "word": "QƏNBƏR",
+                "explanation": "is. məh. çaydaşı",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 24
+            },
+            {
+                "word": "QUQULU",
+                "explanation": "is. məh. 1. bütöv çıxarılmış qoz içi",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 25
+            },
+            {
+                "word": "QULLUQ",
+                "explanation": "is. 1. xidmət",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 26
+            },
+            {
+                "word": "QURQUR",
+                "explanation": "is. dan. içinə giləli meyvəyığmaq üçün ağac qabığından qayrılanboruşəkilli qab. uşaqlar qur-qurda çiyələkgətirmişdilər",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 27
+            },
+            {
+                "word": "QURULU",
+                "explanation": "sif. qurulmuş",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 28
+            },
+            {
+                "word": "ULULUQ",
+                "explanation": "is. böyüklük",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 29
+            },
+            {
+                "word": "ƏQƏLLƏN",
+                "explanation": "zərf [ər.] ən azı",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 30
+            },
+            {
+                "word": "QUQQULU",
+                "explanation": "is. məh. 1. bütöv çıxarılmış qoz içi",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 31
+            },
+            {
+                "word": "QULUNLU",
+                "explanation": "sif. yanında balası olan",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 32
+            },
+            {
+                "word": "QURULUQ",
+                "explanation": "is. 1. quru",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 33
+            },
+            {
+                "word": "QƏNBƏRQULU",
+                "explanation": "is. dan. cəncəl",
+                "isPanagram": true,
+                "score": 17,
+                "length": 10,
+                "id": 34
+            }
+        ]
+    }
+}

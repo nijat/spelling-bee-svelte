@@ -1,0 +1,158 @@
+{
+    "gameData": {
+        "day": "20230717",
+        "expiration": "1689638340",
+        "centerLetter": "S",
+        "outerLetters": [
+            "L",
+            "Z",
+            "İ",
+            "K",
+            "N",
+            "D"
+        ],
+        "words_info": {
+            "word_count": 16,
+            "sum_score": 85,
+            "panagram_count": 1,
+            "word_length": {
+                "6": 4,
+                "9": 2,
+                "5": 3,
+                "8": 1,
+                "4": 5,
+                "7": 1
+            }
+        },
+        "words": [
+            {
+                "word": "SİKL",
+                "explanation": "is. [yun.] dövr",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "SİLK",
+                "explanation": "is. [ər.] 1. feodalizm dövründəkisinfi münasibətlər əsasında meydana gələrək",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "SİLL",
+                "explanation": "is. [ər.] köhn. vərəm. [ələkbər:] hərkim bu arvadın üzünə baxsa",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "SİNİ",
+                "explanation": "is. misdən",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "SİNN",
+                "explanation": "is. [ər.] yaş. xudayar bəyin ancaqotuz yeddi-otuz səkkiz ***i olar",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 5
+            },
+            {
+                "word": "SİDİK",
+                "explanation": "is. böyrəklərin",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 6
+            },
+            {
+                "word": "SİNLİ",
+                "explanation": "sif. yaşlı",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 7
+            },
+            {
+                "word": "SİSLİ",
+                "explanation": "sif. çənli",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 8
+            },
+            {
+                "word": "DİLSİZ",
+                "explanation": "sif. və is. 1. dili olmayan",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 9
+            },
+            {
+                "word": "DİNSİZ",
+                "explanation": "sif. və is. 1. heç bir dinə inanmayan;ateist. [şeyx sənan:] dəlilik başqa birfəzilətdir; *** olmaq da bir təriqətdir",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 10
+            },
+            {
+                "word": "DİSKLİ",
+                "explanation": "sif. diski olan. *** mala. ***alət",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 11
+            },
+            {
+                "word": "KİNSİZ",
+                "explanation": "sif. kini olmayan",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 12
+            },
+            {
+                "word": "SİZİNKİ",
+                "explanation": "əvəz. 1. sizə məxsus olan",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 13
+            },
+            {
+                "word": "SİDİKLİK",
+                "explanation": "is. anat. orqanizmin sidik saxlayanüzvü; sidik kisəsi",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 14
+            },
+            {
+                "word": "DİLSİZLİK",
+                "explanation": "is. 1. lallıq.2. məc. yazıqlıq",
+                "isPanagram": false,
+                "score": 9,
+                "length": 9,
+                "id": 15
+            },
+            {
+                "word": "DİNSİZLİK",
+                "explanation": "is. heç bir dinə inanmama",
+                "isPanagram": true,
+                "score": 17,
+                "length": 9,
+                "id": 16
+            }
+        ]
+    }
+}

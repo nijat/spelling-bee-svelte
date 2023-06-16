@@ -1,0 +1,358 @@
+{
+    "gameData": {
+        "day": "20230615",
+        "expiration": "1686873540",
+        "centerLetter": "Ş",
+        "outerLetters": [
+            "B",
+            "R",
+            "İ",
+            "Ə",
+            "K",
+            "M"
+        ],
+        "words_info": {
+            "word_count": 41,
+            "sum_score": 186,
+            "panagram_count": 1,
+            "word_length": {
+                "9": 1,
+                "5": 12,
+                "6": 10,
+                "8": 1,
+                "4": 13,
+                "7": 4
+            }
+        },
+        "words": [
+            {
+                "word": "BİŞİ",
+                "explanation": "is. yağlı şirin xəmirdən ***rilən nazikqoğal növü",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 1
+            },
+            {
+                "word": "ƏKİŞ",
+                "explanation": "is. əkmə işi və tərzi",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 2
+            },
+            {
+                "word": "ƏMİŞ",
+                "explanation": "is. 1. əmmək işi",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 3
+            },
+            {
+                "word": "ƏRƏŞ",
+                "explanation": "is. köhn. dirsəkdən barmaqlarınucuna qədər olan uzunluq ölçüsü",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 4
+            },
+            {
+                "word": "ƏRİŞ",
+                "explanation": "is. toxuc. xalçada və başqa toxunmamallarda uzununa müvazi gedən əsasiplər. xananın ***i. – toxunmalar üçün işlənənsaplar",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 5
+            },
+            {
+                "word": "ƏŞƏR",
+                "explanation": "is. [ər.] tar. keçmişdə müəyyənməqsədlər üçün gəlirin onda biri miqdarındaverilən vergi",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 6
+            },
+            {
+                "word": "KİŞİ",
+                "explanation": "is. 1. cinscə qadının əksi. arvad üzlü***dən",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 7
+            },
+            {
+                "word": "RƏŞƏ",
+                "explanation": "is. [ər.] titrəmə",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 8
+            },
+            {
+                "word": "RİŞƏ",
+                "explanation": "is. [fars.] kök (bitkidə). yazın birayında xoş keçər illər; zoğ edib ***dən başverər güllər. aşıq ələsgər",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 9
+            },
+            {
+                "word": "ŞƏKK",
+                "explanation": "is. [ər.] bir şeyin gerçəkliyinə",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 10
+            },
+            {
+                "word": "ŞƏRİ",
+                "explanation": "[ər.] din. ***ətcə qanuni",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 11
+            },
+            {
+                "word": "ŞƏRM",
+                "explanation": "is. [fars.] klas. abır",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 12
+            },
+            {
+                "word": "ŞİRƏ",
+                "explanation": "is. [fars.] 1. toxumalarda",
+                "isPanagram": false,
+                "score": 1,
+                "length": 4,
+                "id": 13
+            },
+            {
+                "word": "BƏŞƏR",
+                "explanation": "is. [ər.] insan",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 14
+            },
+            {
+                "word": "ƏBRƏŞ",
+                "explanation": "sif. 1. xallı.2. əldə bəslənmiş. o",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 15
+            },
+            {
+                "word": "KİRİŞ",
+                "explanation": "is. 1. möhkəm ip. dəmirçioğlu başa düşdü ki",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 16
+            },
+            {
+                "word": "KİRŞƏ",
+                "explanation": "is. altı hamar iki paralel xizəküzərində düzəldilmiş minik və ya yük arabası.*** ilə odun daşımaq",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 17
+            },
+            {
+                "word": "MƏMƏŞ",
+                "explanation": "is. uş. məmə",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 18
+            },
+            {
+                "word": "RƏŞMƏ",
+                "explanation": "is. lent. bizim ağ *** kimiburularaq gedən yollar xeyli uzaqlara qədəriki tərəfdən uca ağaclarla əhatə olunmuşdur",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 19
+            },
+            {
+                "word": "ŞƏKƏR",
+                "explanation": "is. [fars.] 1. qənd. xalq batıbdırnoğla",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 20
+            },
+            {
+                "word": "ŞƏRƏR",
+                "explanation": "[ər.] klas. bax şərar(ə). şikəstə zakirəm",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 21
+            },
+            {
+                "word": "ŞƏRİK",
+                "explanation": "is. [ər.] 1. hər hansı bir işdə (ticarətdəvə s.-də) başqası ilə birgə iştirak edənadam; ortaq. əbülhəsənbəy cavahirfüruş vəonun ***i ağa əsəd tüt",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 22
+            },
+            {
+                "word": "ŞƏRİR",
+                "explanation": "sif. və is. [ər.] şər işlər görən",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 23
+            },
+            {
+                "word": "ŞƏŞƏƏ",
+                "explanation": "is. [ər.] klas. tənt. 1. parlaqlıq",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 24
+            },
+            {
+                "word": "ŞİŞƏK",
+                "explanation": "is. müxtəlif yerlərdə müxtəlif (2-4)yaşlarda olan erkək qoyun. toğlu birillik",
+                "isPanagram": false,
+                "score": 5,
+                "length": 5,
+                "id": 25
+            },
+            {
+                "word": "BƏŞƏRƏ",
+                "explanation": "is. [ər.] klas. bədəni örtən dərininxarici təbəqəsi. // insanın xarici görünüşü",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 26
+            },
+            {
+                "word": "BƏŞƏRİ",
+                "explanation": "sif. [ər.] insana",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 27
+            },
+            {
+                "word": "BİŞMİŞ",
+                "explanation": "1. sif. odda qızardılmaqla və yasuda qaynadılmaqla hazırlanmış (çiy müqabili).*** ət. *** yumurta",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 28
+            },
+            {
+                "word": "KİŞMİR",
+                "explanation": "is. [hindistandakı *** şəhərininadından] nazik yun və ya yarımyunparça növü. ***dən şaldı səndə; dil deyil",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 29
+            },
+            {
+                "word": "KİŞMİŞ",
+                "explanation": "is. [fars.] üzüm qurusu. [qulançarı:]afərin bacım zeynəb",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 30
+            },
+            {
+                "word": "ŞƏBƏKƏ",
+                "explanation": "is. [ər.] 1. ağacdan",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 31
+            },
+            {
+                "word": "ŞƏMŞİR",
+                "explanation": "is. [fars.] qılınc. iş atışmadan ötüb",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 32
+            },
+            {
+                "word": "ŞƏRƏRƏ",
+                "explanation": "[ər.] klas. bax şərar(ə). şikəstə zakirəm",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 33
+            },
+            {
+                "word": "ŞƏŞBƏR",
+                "explanation": "sif. məh. yoğun",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 34
+            },
+            {
+                "word": "ŞİMŞƏK",
+                "explanation": "is. ildırım. payızda *** nadirbir hadisə idi. m.hüseyn. …bayırda şiddətləgöy guruldadı",
+                "isPanagram": false,
+                "score": 6,
+                "length": 6,
+                "id": 35
+            },
+            {
+                "word": "ƏBRİŞİM",
+                "explanation": "is. [fars.] 1. ipək",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 36
+            },
+            {
+                "word": "KƏRİŞKƏ",
+                "explanation": "is. içi dəlik ağaca geydirilən",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 37
+            },
+            {
+                "word": "KİŞMİRİ",
+                "explanation": "sif. kişmirdən tikilmiş",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 38
+            },
+            {
+                "word": "KİŞMİŞİ",
+                "explanation": "is. tezyetişən",
+                "isPanagram": false,
+                "score": 7,
+                "length": 7,
+                "id": 39
+            },
+            {
+                "word": "BİRİKMİŞ",
+                "explanation": "f.sif. yığılmış",
+                "isPanagram": false,
+                "score": 8,
+                "length": 8,
+                "id": 40
+            },
+            {
+                "word": "BƏRKİŞMİŞ",
+                "explanation": "“bərkişmək”dən f.sif. işdə",
+                "isPanagram": true,
+                "score": 17,
+                "length": 9,
+                "id": 41
+            }
+        ]
+    }
+}
