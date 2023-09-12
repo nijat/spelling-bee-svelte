@@ -13,7 +13,7 @@
 	}
 </script>
 
-<div class="hex my-16 rounded-full unselectable" on:click={() => addLetterToCurrentWord(letter)}>
+<button class="hex my-16 rounded-full unselectable" on:click={() => addLetterToCurrentWord(letter)}>
 	<div class={topClass} />
 	<div class="{midClassList} {middleClass}">
 		<h2 class="text-2xl font-bold">
@@ -21,4 +21,4 @@
 		</h2>
 	</div>
 	<div class={bottomClass} />
-</div>
+</button>

@@ -1,4 +1,4 @@
-<script>
+<script lang="ts">
 	import { Jumper } from 'svelte-loading-spinners';
 </script>
 

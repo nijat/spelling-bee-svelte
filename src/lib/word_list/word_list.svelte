@@ -14,7 +14,7 @@
 </script>
 
 <div class="max-w-md mx-auto unselectable p-2">
-	<div class={showList ? 'word-list expanded-word-list' : 'word-list'} on:click={toggleShowList}>
+	<button class={showList ? 'word-list expanded-word-list' : 'word-list'} on:click={toggleShowList}>
 		{#if showList}
 			<div class="w-full">
 				<p class="slide-in-text pb-4 w-full text-gray-400">
@@ -32,5 +32,5 @@
 			<p class="text-gray-300 ">Tapdığınız Sözlər...</p>
 		{/if}
 		<Icon icon="akar-icons:arrow-down" class="arrow-icon" />
-	</div>
+	</button>
 </div>
