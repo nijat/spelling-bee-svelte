@@ -1,6 +1,6 @@
 import { get } from 'svelte/store';
 import { toast } from '@zerodevx/svelte-toast';
-import { successToastOptions, errorToastOptions, hintToastOptions, ErrorMessages, SuccessMessages } from '$utils/config'
+import { successToastOptions, errorToastOptions, hintToastOptions, ErrorMessages, SuccessMessages } from '$utils/config';
 import gameDataStore from '$utils/store';
 
 const data = get(gameDataStore);
@@ -52,9 +52,9 @@ export function isWordExistAlready(currentWord: string, foundWordList: string[])
 
 export function isWordContainsCenterLetter(currentWord: string) {
 	if (currentWord.includes(data.centerLetter)) {
-		return true
+		return true;
 	}
-	return false
+	return false;
 }
 
 export function isWordCorrect(currentWord: string) {
@@ -64,8 +64,8 @@ export function isWordCorrect(currentWord: string) {
 }
 
 export function isWordExist(currentWord: string) {
-	if (data.words.some((e: any) => e["word"] == currentWord)) {
-		return true
+	if (data.words.some((e: any) => e['word'] == currentWord)) {
+		return true;
 	}
 	return false;
 }
@@ -82,28 +82,28 @@ export function showSuccessMessage(type: SuccessMessages) {
 
 export function calculateUserPoints(word: string) {
 	data.words.forEach(function (value: any) {
-		if (value["word"] == word) {
-			data.userPoints += value["score"]
+		if (value['word'] == word) {
+			data.userPoints += value['score'];
 		}
 	});
 }
 
 export function showHintonUI() {
 	toast.pop();
-	toast.push(getHint(), hintToastOptions)
+	toast.push(getHint(), hintToastOptions);
 }
 
 export function getHint() {
-	var currentTimestamp = getTimestamp()
+	var currentTimestamp = getTimestamp();
 	if (currentTimestamp > data.hintExpiration || checkHintWordInFoundList(data.hintStep)) {
-		data.hintStep = data.hintStep + 1
+		data.hintStep = data.hintStep + 1;
 		while (checkHintWordInFoundList(data.hintStep)) {
-			data.hintStep = data.hintStep + 1
+			data.hintStep = data.hintStep + 1;
 		}
-		data.hintExpiration = currentTimestamp + 30 * 60
+		data.hintExpiration = currentTimestamp + 30 * 60;
 	}
 
-	return data.words[data.hintStep]["explanation"]
+	return data.words[data.hintStep]['explanation'];
 }
 
 export function getTimestamp(): number {
@@ -111,8 +111,8 @@ export function getTimestamp(): number {
 }
 
 export function checkHintWordInFoundList(hintStep: number) {
-	if (data.foundWordList.includes(data.words[hintStep]["word"])) {
-		return true
+	if (data.foundWordList.includes(data.words[hintStep]['word'])) {
+		return true;
 	}
-	return false
+	return false;
 }
