@@ -1,5 +1,5 @@
 import { writable } from 'svelte/store';
-import { browser } from '$app/env';
+import { browser } from '$app/environment';
 
 const defaultValue = {};
 const initialValue = browser ? JSON.parse(window.localStorage.getItem('gameState')) ?? defaultValue : defaultValue;
