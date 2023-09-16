@@ -3,7 +3,7 @@ import { browser } from '$app/environment';
 
 const defaultValue = {};
 const gameState = browser ? window.localStorage.getItem('gameState') : null;
-const initialValue = browser ? JSON.parse(gameState ? gameState : '') ?? defaultValue : defaultValue;
+const initialValue = browser ? JSON.parse(gameState ? gameState : '{}') ?? defaultValue : defaultValue;
 
 const foundWordList: string[] = [];
 
